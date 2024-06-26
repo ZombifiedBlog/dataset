@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "smcc-cacc.eiair.com",
+        "count": "46",
+        "first_seen": "2023-07-05 05:35:48",
+        "last_seen": "2024-01-17 02:06:44",
+        "ip_address": "45.42.94.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.eiair.com",
+        "count": "94",
+        "first_seen": "2020-10-22 17:09:39",
+        "last_seen": "2020-12-17 18:54:46",
+        "ip_address": "67.229.48.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.eiair.com",
+        "count": "6",
+        "first_seen": "2023-01-21 22:39:47",
+        "last_seen": "2023-06-01 05:17:22",
+        "ip_address": "104.253.93.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.eiair.com",
+        "count": "1",
+        "first_seen": "2023-12-10 01:42:25",
+        "last_seen": "2023-12-10 01:42:25",
+        "ip_address": "156.251.239.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.eiair.com",
+        "count": "223",
+        "first_seen": "2020-10-21 16:18:26",
+        "last_seen": "2020-10-22 13:51:24",
+        "ip_address": "174.139.126.176",
+        "type": "IPv4"
+    }
+]

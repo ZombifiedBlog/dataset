@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "edgepowers.com",
+        "count": "380",
+        "first_seen": "2012-12-14 15:49:10",
+        "last_seen": "2015-02-22 00:09:31",
+        "ip_address": "180.188.194.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "edgepowers.com",
+        "count": "6",
+        "first_seen": "2011-01-04 08:46:24",
+        "last_seen": "2011-01-20 04:46:38",
+        "ip_address": "180.188.194.252",
+        "type": "IPv4"
+    },
+    {
+        "domain": "edgepowers.com",
+        "count": "7",
+        "first_seen": "2020-04-27 19:04:18",
+        "last_seen": "2023-04-26 17:50:19",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "edgepowers.com",
+        "count": "4910",
+        "first_seen": "2015-06-21 21:16:48",
+        "last_seen": "2024-01-18 00:23:53",
+        "ip_address": "202.77.48.139",
+        "type": "IPv4"
+    },
+    {
+        "domain": "edgepowers.com",
+        "count": "37",
+        "first_seen": "2015-02-24 05:01:36",
+        "last_seen": "2015-06-20 11:03:35",
+        "ip_address": "203.169.164.125",
+        "type": "IPv4"
+    }
+]

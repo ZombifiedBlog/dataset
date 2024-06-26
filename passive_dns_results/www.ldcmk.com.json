@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "www.ldcmk.com",
+        "count": "1",
+        "first_seen": "2017-03-20 11:56:36",
+        "last_seen": "2017-03-20 11:56:36",
+        "ip_address": "23.228.71.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ldcmk.com",
+        "count": "6",
+        "first_seen": "2019-04-05 10:34:04",
+        "last_seen": "2019-05-30 13:22:28",
+        "ip_address": "43.249.173.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ldcmk.com",
+        "count": "6",
+        "first_seen": "2023-02-27 06:29:05",
+        "last_seen": "2023-03-24 12:54:34",
+        "ip_address": "52.213.114.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ldcmk.com",
+        "count": "2275",
+        "first_seen": "2020-10-28 08:14:03",
+        "last_seen": "2020-12-29 19:23:13",
+        "ip_address": "104.31.74.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ldcmk.com",
+        "count": "2275",
+        "first_seen": "2020-10-28 08:14:03",
+        "last_seen": "2020-12-29 19:23:13",
+        "ip_address": "104.31.75.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ldcmk.com",
+        "count": "2275",
+        "first_seen": "2020-10-28 08:14:03",
+        "last_seen": "2020-12-29 19:23:13",
+        "ip_address": "172.67.210.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ldcmk.com",
+        "count": "48",
+        "first_seen": "2022-05-04 15:33:38",
+        "last_seen": "2023-01-20 11:20:05",
+        "ip_address": "107.158.13.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ldcmk.com",
+        "count": "1",
+        "first_seen": "2022-03-24 11:18:21",
+        "last_seen": "2022-03-24 11:18:21",
+        "ip_address": "154.92.75.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ldcmk.com",
+        "count": "343",
+        "first_seen": "2020-10-22 00:02:20",
+        "last_seen": "2020-12-29 17:11:25",
+        "ip_address": "2606:4700:3031::681f:4b39",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ldcmk.com",
+        "count": "343",
+        "first_seen": "2020-10-22 00:02:20",
+        "last_seen": "2020-12-29 17:11:25",
+        "ip_address": "2606:4700:3034::ac43:d280",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ldcmk.com",
+        "count": "343",
+        "first_seen": "2020-10-22 00:02:20",
+        "last_seen": "2020-12-29 17:11:25",
+        "ip_address": "2606:4700:3036::681f:4a39",
+        "type": "IPv6"
+    }
+]

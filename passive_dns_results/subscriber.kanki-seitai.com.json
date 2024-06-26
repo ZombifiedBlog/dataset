@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscriber.kanki-seitai.com",
+        "count": "853",
+        "first_seen": "2022-02-13 20:54:40",
+        "last_seen": "2022-03-23 09:27:01",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kanki-seitai.com",
+        "count": "2135",
+        "first_seen": "2021-11-04 03:57:57",
+        "last_seen": "2022-02-12 19:38:41",
+        "ip_address": "104.21.87.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kanki-seitai.com",
+        "count": "2135",
+        "first_seen": "2021-11-04 03:57:57",
+        "last_seen": "2022-02-12 19:38:41",
+        "ip_address": "172.67.144.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kanki-seitai.com",
+        "count": "773",
+        "first_seen": "2021-11-04 04:35:55",
+        "last_seen": "2022-02-12 16:02:51",
+        "ip_address": "2606:4700:3036::6815:579b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.kanki-seitai.com",
+        "count": "773",
+        "first_seen": "2021-11-04 04:35:55",
+        "last_seen": "2022-02-12 16:02:51",
+        "ip_address": "2606:4700:3037::ac43:904e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.kanki-seitai.com",
+        "count": "1",
+        "first_seen": "2021-11-24 17:49:13",
+        "last_seen": "2021-11-24 17:49:13",
+        "ip_address": "2a06:98c1:3120::15",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.kanki-seitai.com",
+        "count": "1",
+        "first_seen": "2021-11-24 17:49:13",
+        "last_seen": "2021-11-24 17:49:13",
+        "ip_address": "2a06:98c1:3121::15",
+        "type": "IPv6"
+    }
+]

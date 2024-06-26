@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "nkbdenekamp.nl",
+        "count": "24",
+        "first_seen": "2015-04-25 16:55:23",
+        "last_seen": "2016-09-22 12:52:48",
+        "ip_address": "46.235.40.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nkbdenekamp.nl",
+        "count": "5855",
+        "first_seen": "2016-09-29 12:23:16",
+        "last_seen": "2024-01-17 23:44:44",
+        "ip_address": "46.235.42.95",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nkbdenekamp.nl",
+        "count": "25",
+        "first_seen": "2013-03-21 17:27:09",
+        "last_seen": "2015-03-23 14:37:08",
+        "ip_address": "46.235.47.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nkbdenekamp.nl",
+        "count": "1224",
+        "first_seen": "2019-09-28 05:47:25",
+        "last_seen": "2024-01-05 02:41:46",
+        "ip_address": "2a00:d640:d640:9999::2eeb:2a5f",
+        "type": "IPv6"
+    }
+]

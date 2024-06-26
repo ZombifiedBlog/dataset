@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "www.dbtech-ies.com",
+        "count": "2",
+        "first_seen": "2022-09-18 20:38:55",
+        "last_seen": "2022-09-27 04:31:48",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dbtech-ies.com",
+        "count": "1",
+        "first_seen": "2021-08-25 12:03:20",
+        "last_seen": "2021-08-25 12:03:20",
+        "ip_address": "154.86.128.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dbtech-ies.com",
+        "count": "604",
+        "first_seen": "2022-06-24 14:26:11",
+        "last_seen": "2022-08-19 20:50:37",
+        "ip_address": "155.94.143.244",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dbtech-ies.com",
+        "count": "2",
+        "first_seen": "2022-02-06 06:20:29",
+        "last_seen": "2022-04-28 13:06:52",
+        "ip_address": "155.159.49.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dbtech-ies.com",
+        "count": "2",
+        "first_seen": "2021-08-20 19:00:16",
+        "last_seen": "2021-08-20 19:00:16",
+        "ip_address": "180.215.129.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dbtech-ies.com",
+        "count": "5",
+        "first_seen": "2018-07-28 03:39:01",
+        "last_seen": "2018-08-21 16:48:28",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dbtech-ies.com",
+        "count": "2",
+        "first_seen": "2018-01-08 03:14:22",
+        "last_seen": "2018-01-08 03:14:22",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dbtech-ies.com",
+        "count": "2",
+        "first_seen": "2017-09-26 07:28:36",
+        "last_seen": "2017-09-26 07:28:36",
+        "ip_address": "209.99.40.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dbtech-ies.com",
+        "count": "2",
+        "first_seen": "2017-09-21 10:53:36",
+        "last_seen": "2017-09-21 10:53:36",
+        "ip_address": "209.99.40.223",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "ricmach.v1i5.com",
+        "count": "1",
+        "first_seen": "2022-12-23 21:08:08",
+        "last_seen": "2022-12-23 21:08:08",
+        "ip_address": "34.85.101.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ricmach.v1i5.com",
+        "count": "20",
+        "first_seen": "2023-01-07 03:39:46",
+        "last_seen": "2023-06-09 15:07:04",
+        "ip_address": "103.120.80.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ricmach.v1i5.com",
+        "count": "1887",
+        "first_seen": "2023-06-09 16:01:32",
+        "last_seen": "2023-07-11 02:06:38",
+        "ip_address": "154.39.65.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ricmach.v1i5.com",
+        "count": "46",
+        "first_seen": "2022-11-03 20:27:23",
+        "last_seen": "2022-11-23 13:23:12",
+        "ip_address": "198.98.57.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ricmach.v1i5.com",
+        "count": "661",
+        "first_seen": "2022-10-02 07:16:23",
+        "last_seen": "2022-11-03 06:57:11",
+        "ip_address": "198.98.59.238",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ricmach.v1i5.com",
+        "count": "13",
+        "first_seen": "2023-06-09 09:15:21",
+        "last_seen": "2023-06-09 10:53:24",
+        "ip_address": "199.115.230.214",
+        "type": "IPv4"
+    }
+]

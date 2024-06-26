@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazon.co.jp.mddv.cn",
+        "count": "3",
+        "first_seen": "2022-09-30 11:22:57",
+        "last_seen": "2022-09-30 11:22:58",
+        "ip_address": "23.106.187.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.co.jp.mddv.cn",
+        "count": "1",
+        "first_seen": "2023-07-14 09:22:03",
+        "last_seen": "2023-07-14 09:22:03",
+        "ip_address": "147.255.81.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.co.jp.mddv.cn",
+        "count": "592",
+        "first_seen": "2022-07-26 09:01:49",
+        "last_seen": "2022-08-10 05:56:43",
+        "ip_address": "198.98.53.8",
+        "type": "IPv4"
+    }
+]

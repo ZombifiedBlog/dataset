@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.mufg.zb-ipr.com",
+        "count": "2",
+        "first_seen": "2022-11-03 14:39:36",
+        "last_seen": "2022-11-15 14:33:07",
+        "ip_address": "43.225.158.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mufg.zb-ipr.com",
+        "count": "17",
+        "first_seen": "2021-01-02 07:36:23",
+        "last_seen": "2021-04-07 15:23:23",
+        "ip_address": "119.8.60.185",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mufg.zb-ipr.com",
+        "count": "17",
+        "first_seen": "2021-01-02 07:36:23",
+        "last_seen": "2021-04-07 15:23:23",
+        "ip_address": "119.28.128.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mufg.zb-ipr.com",
+        "count": "12",
+        "first_seen": "2020-11-04 02:20:54",
+        "last_seen": "2020-11-20 19:33:05",
+        "ip_address": "119.8.237.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mufg.zb-ipr.com",
+        "count": "12",
+        "first_seen": "2020-11-04 02:20:54",
+        "last_seen": "2020-11-20 19:33:05",
+        "ip_address": "119.8.238.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mufg.zb-ipr.com",
+        "count": "23",
+        "first_seen": "2021-01-02 12:58:29",
+        "last_seen": "2021-04-07 15:23:23",
+        "ip_address": "119.28.128.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mufg.zb-ipr.com",
+        "count": "275",
+        "first_seen": "2020-10-28 15:25:43",
+        "last_seen": "2020-10-31 15:11:56",
+        "ip_address": "144.172.64.38",
+        "type": "IPv4"
+    }
+]

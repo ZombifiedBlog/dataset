@@ -1,0 +1,130 @@
+[
+    {
+        "domain": "huidacode.com",
+        "count": "35",
+        "first_seen": "2022-04-30 19:49:06",
+        "last_seen": "2023-01-11 12:44:18",
+        "ip_address": "23.110.206.181",
+        "type": "IPv4"
+    },
+    {
+        "domain": "huidacode.com",
+        "count": "1088",
+        "first_seen": "2023-02-23 11:09:24",
+        "last_seen": "2023-04-06 10:05:29",
+        "ip_address": "52.213.114.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "huidacode.com",
+        "count": "10",
+        "first_seen": "2021-09-10 10:10:26",
+        "last_seen": "2021-10-12 12:56:00",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "huidacode.com",
+        "count": "1",
+        "first_seen": "2021-12-01 02:52:14",
+        "last_seen": "2021-12-01 02:52:14",
+        "ip_address": "103.224.212.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "huidacode.com",
+        "count": "35",
+        "first_seen": "2021-01-14 06:06:58",
+        "last_seen": "2021-08-24 22:50:30",
+        "ip_address": "104.21.16.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "huidacode.com",
+        "count": "35",
+        "first_seen": "2021-01-14 06:06:58",
+        "last_seen": "2021-08-24 22:50:30",
+        "ip_address": "172.67.166.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "huidacode.com",
+        "count": "30",
+        "first_seen": "2020-09-09 06:42:24",
+        "last_seen": "2021-01-05 19:42:17",
+        "ip_address": "104.31.90.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "huidacode.com",
+        "count": "30",
+        "first_seen": "2020-09-09 06:42:24",
+        "last_seen": "2021-01-05 19:42:17",
+        "ip_address": "104.31.91.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "huidacode.com",
+        "count": "30",
+        "first_seen": "2020-09-09 06:42:24",
+        "last_seen": "2021-01-05 19:42:17",
+        "ip_address": "172.67.166.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "huidacode.com",
+        "count": "8",
+        "first_seen": "2022-03-11 15:32:29",
+        "last_seen": "2022-04-09 03:32:58",
+        "ip_address": "156.255.235.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "huidacode.com",
+        "count": "393",
+        "first_seen": "2023-02-01 13:21:55",
+        "last_seen": "2023-02-03 07:19:08",
+        "ip_address": "173.254.231.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "huidacode.com",
+        "count": "10",
+        "first_seen": "2020-09-09 06:41:53",
+        "last_seen": "2020-12-01 21:08:05",
+        "ip_address": "2606:4700:3031::681f:5ada",
+        "type": "IPv6"
+    },
+    {
+        "domain": "huidacode.com",
+        "count": "10",
+        "first_seen": "2020-09-09 06:41:53",
+        "last_seen": "2020-12-01 21:08:05",
+        "ip_address": "2606:4700:3031::681f:5bda",
+        "type": "IPv6"
+    },
+    {
+        "domain": "huidacode.com",
+        "count": "10",
+        "first_seen": "2020-09-09 06:41:53",
+        "last_seen": "2020-12-01 21:08:05",
+        "ip_address": "2606:4700:3035::ac43:a6e2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "huidacode.com",
+        "count": "7",
+        "first_seen": "2021-02-18 03:28:28",
+        "last_seen": "2021-08-09 12:44:55",
+        "ip_address": "2606:4700:3035::ac43:a6e2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "huidacode.com",
+        "count": "7",
+        "first_seen": "2021-02-18 03:28:28",
+        "last_seen": "2021-08-09 12:44:55",
+        "ip_address": "2606:4700:3037::6815:1045",
+        "type": "IPv6"
+    }
+]

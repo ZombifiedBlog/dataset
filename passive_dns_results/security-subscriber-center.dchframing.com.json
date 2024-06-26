@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "security-subscriber-center.dchframing.com",
+        "count": "12",
+        "first_seen": "2023-10-17 12:47:52",
+        "last_seen": "2024-01-17 19:05:37",
+        "ip_address": "103.224.212.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.dchframing.com",
+        "count": "20",
+        "first_seen": "2023-02-18 09:36:47",
+        "last_seen": "2023-09-28 12:47:27",
+        "ip_address": "103.224.212.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.dchframing.com",
+        "count": "4552",
+        "first_seen": "2022-10-01 23:24:38",
+        "last_seen": "2022-12-30 08:27:01",
+        "ip_address": "104.21.87.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.dchframing.com",
+        "count": "4552",
+        "first_seen": "2022-10-01 23:24:38",
+        "last_seen": "2022-12-30 08:27:01",
+        "ip_address": "172.67.142.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.dchframing.com",
+        "count": "1",
+        "first_seen": "2023-02-11 09:17:26",
+        "last_seen": "2023-02-11 09:17:26",
+        "ip_address": "103.224.212.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.dchframing.com",
+        "count": "165",
+        "first_seen": "2022-10-02 08:01:26",
+        "last_seen": "2022-12-29 10:31:38",
+        "ip_address": "2606:4700:3030::ac43:8e2c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "security-subscriber-center.dchframing.com",
+        "count": "165",
+        "first_seen": "2022-10-02 08:01:26",
+        "last_seen": "2022-12-29 10:31:38",
+        "ip_address": "2606:4700:3035::6815:5743",
+        "type": "IPv6"
+    }
+]

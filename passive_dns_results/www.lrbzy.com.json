@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.lrbzy.com",
+        "count": "6",
+        "first_seen": "2016-12-05 18:58:41",
+        "last_seen": "2016-12-05 19:09:31",
+        "ip_address": "68.64.161.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lrbzy.com",
+        "count": "2",
+        "first_seen": "2014-09-16 17:05:29",
+        "last_seen": "2014-09-16 17:05:29",
+        "ip_address": "122.9.95.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lrbzy.com",
+        "count": "5",
+        "first_seen": "2014-11-18 02:53:48",
+        "last_seen": "2014-11-18 02:53:51",
+        "ip_address": "122.9.139.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lrbzy.com",
+        "count": "1288",
+        "first_seen": "2021-09-09 00:49:07",
+        "last_seen": "2022-02-21 12:55:12",
+        "ip_address": "198.144.145.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lrbzy.com",
+        "count": "10",
+        "first_seen": "2015-01-24 14:42:18",
+        "last_seen": "2015-01-27 16:17:31",
+        "ip_address": "208.91.197.132",
+        "type": "IPv4"
+    }
+]

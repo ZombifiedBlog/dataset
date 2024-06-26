@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.wikoconcept.com",
+        "count": "6",
+        "first_seen": "2018-07-24 15:42:04",
+        "last_seen": "2018-08-14 05:30:23",
+        "ip_address": "52.4.209.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wikoconcept.com",
+        "count": "19",
+        "first_seen": "2017-03-17 23:13:45",
+        "last_seen": "2017-04-15 22:27:26",
+        "ip_address": "104.24.120.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wikoconcept.com",
+        "count": "19",
+        "first_seen": "2017-03-17 23:13:45",
+        "last_seen": "2017-04-15 22:27:26",
+        "ip_address": "104.24.121.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wikoconcept.com",
+        "count": "921",
+        "first_seen": "2017-07-20 11:58:21",
+        "last_seen": "2018-07-04 06:47:00",
+        "ip_address": "104.31.86.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wikoconcept.com",
+        "count": "921",
+        "first_seen": "2017-07-20 11:58:21",
+        "last_seen": "2018-07-04 06:47:00",
+        "ip_address": "104.31.87.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wikoconcept.com",
+        "count": "1934",
+        "first_seen": "2022-06-25 12:58:10",
+        "last_seen": "2022-07-04 16:37:31",
+        "ip_address": "155.94.143.244",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wikoconcept.com",
+        "count": "293",
+        "first_seen": "2017-07-20 11:58:22",
+        "last_seen": "2018-07-04 06:47:00",
+        "ip_address": "2400:cb00:2048:1::681f:5622",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.wikoconcept.com",
+        "count": "293",
+        "first_seen": "2017-07-20 11:58:22",
+        "last_seen": "2018-07-04 06:47:00",
+        "ip_address": "2400:cb00:2048:1::681f:5722",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "amazon-us-west-awsaccount.newmcL.com",
+        "count": "2",
+        "first_seen": "2020-03-24 21:55:50",
+        "last_seen": "2020-03-24 21:55:50",
+        "ip_address": "15.164.83.206",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.newmcL.com",
+        "count": "1936",
+        "first_seen": "2019-10-03 05:00:01",
+        "last_seen": "2019-11-17 12:14:05",
+        "ip_address": "104.28.30.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.newmcL.com",
+        "count": "1936",
+        "first_seen": "2019-10-03 05:00:01",
+        "last_seen": "2019-11-17 12:14:05",
+        "ip_address": "104.28.31.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.newmcL.com",
+        "count": "152",
+        "first_seen": "2019-10-03 05:00:01",
+        "last_seen": "2019-11-12 13:34:59",
+        "ip_address": "2606:4700:30::681c:1e3c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.newmcL.com",
+        "count": "152",
+        "first_seen": "2019-10-03 05:00:01",
+        "last_seen": "2019-11-12 13:34:59",
+        "ip_address": "2606:4700:30::681c:1f3c",
+        "type": "IPv6"
+    }
+]

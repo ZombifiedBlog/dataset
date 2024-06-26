@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.robbiewatson.com",
+        "count": "4700",
+        "first_seen": "2022-08-23 03:21:45",
+        "last_seen": "2022-11-10 14:51:52",
+        "ip_address": "104.21.61.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.robbiewatson.com",
+        "count": "4700",
+        "first_seen": "2022-08-23 03:21:45",
+        "last_seen": "2022-11-10 14:51:52",
+        "ip_address": "172.67.212.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.robbiewatson.com",
+        "count": "47",
+        "first_seen": "2022-12-21 02:29:02",
+        "last_seen": "2023-01-04 10:45:21",
+        "ip_address": "170.106.49.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.robbiewatson.com",
+        "count": "278",
+        "first_seen": "2022-08-23 08:50:19",
+        "last_seen": "2022-11-07 00:57:57",
+        "ip_address": "2606:4700:3033::ac43:d499",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.robbiewatson.com",
+        "count": "278",
+        "first_seen": "2022-08-23 08:50:19",
+        "last_seen": "2022-11-07 00:57:57",
+        "ip_address": "2606:4700:3037::6815:3db1",
+        "type": "IPv6"
+    }
+]

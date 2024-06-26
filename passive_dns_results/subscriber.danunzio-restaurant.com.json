@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.danunzio-restaurant.com",
+        "count": "8",
+        "first_seen": "2022-01-08 00:05:26",
+        "last_seen": "2022-01-31 08:17:12",
+        "ip_address": "43.130.65.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.danunzio-restaurant.com",
+        "count": "1214",
+        "first_seen": "2021-11-03 22:56:35",
+        "last_seen": "2022-01-03 08:40:02",
+        "ip_address": "104.21.91.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.danunzio-restaurant.com",
+        "count": "1214",
+        "first_seen": "2021-11-03 22:56:35",
+        "last_seen": "2022-01-03 08:40:02",
+        "ip_address": "172.67.212.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.danunzio-restaurant.com",
+        "count": "647",
+        "first_seen": "2021-11-04 03:36:50",
+        "last_seen": "2022-01-03 08:40:02",
+        "ip_address": "2606:4700:3035::ac43:d410",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.danunzio-restaurant.com",
+        "count": "647",
+        "first_seen": "2021-11-04 03:36:50",
+        "last_seen": "2022-01-03 08:40:02",
+        "ip_address": "2606:4700:3037::6815:5b4e",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazon-vip-jp.shop",
+        "count": "56",
+        "first_seen": "2022-10-10 01:59:00",
+        "last_seen": "2022-10-11 15:58:01",
+        "ip_address": "23.95.14.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-vip-jp.shop",
+        "count": "3",
+        "first_seen": "2021-09-17 20:46:10",
+        "last_seen": "2021-10-10 16:39:16",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-vip-jp.shop",
+        "count": "63",
+        "first_seen": "2020-09-04 19:51:04",
+        "last_seen": "2021-09-04 15:14:58",
+        "ip_address": "133.18.199.132",
+        "type": "IPv4"
+    }
+]

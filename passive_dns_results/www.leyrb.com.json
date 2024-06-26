@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.leyrb.com",
+        "count": "530",
+        "first_seen": "2020-06-28 20:00:34",
+        "last_seen": "2020-10-02 12:48:00",
+        "ip_address": "104.24.114.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.leyrb.com",
+        "count": "530",
+        "first_seen": "2020-06-28 20:00:34",
+        "last_seen": "2020-10-02 12:48:00",
+        "ip_address": "104.24.115.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.leyrb.com",
+        "count": "530",
+        "first_seen": "2020-06-28 20:00:34",
+        "last_seen": "2020-10-02 12:48:00",
+        "ip_address": "172.67.183.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.leyrb.com",
+        "count": "2",
+        "first_seen": "2020-07-11 15:16:04",
+        "last_seen": "2020-07-11 15:16:04",
+        "ip_address": "104.31.246.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.leyrb.com",
+        "count": "2",
+        "first_seen": "2020-07-11 15:16:04",
+        "last_seen": "2020-07-11 15:16:04",
+        "ip_address": "104.31.247.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.leyrb.com",
+        "count": "23",
+        "first_seen": "2020-06-28 20:00:35",
+        "last_seen": "2020-10-02 12:48:00",
+        "ip_address": "2606:4700:3030::6818:72a4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.leyrb.com",
+        "count": "23",
+        "first_seen": "2020-06-28 20:00:35",
+        "last_seen": "2020-10-02 12:48:00",
+        "ip_address": "2606:4700:3032::6818:73a4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.leyrb.com",
+        "count": "23",
+        "first_seen": "2020-06-28 20:00:35",
+        "last_seen": "2020-10-02 12:48:00",
+        "ip_address": "2606:4700:3035::ac43:b730",
+        "type": "IPv6"
+    }
+]

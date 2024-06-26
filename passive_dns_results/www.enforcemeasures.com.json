@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.enforcemeasures.com",
+        "count": "106",
+        "first_seen": "2020-03-10 15:13:36",
+        "last_seen": "2020-04-05 16:27:01",
+        "ip_address": "104.18.54.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.enforcemeasures.com",
+        "count": "106",
+        "first_seen": "2020-03-10 15:13:36",
+        "last_seen": "2020-04-05 16:27:01",
+        "ip_address": "104.18.55.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.enforcemeasures.com",
+        "count": "18",
+        "first_seen": "2020-04-06 21:40:33",
+        "last_seen": "2020-05-14 21:12:10",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.enforcemeasures.com",
+        "count": "18",
+        "first_seen": "2020-04-06 21:40:33",
+        "last_seen": "2020-05-14 21:12:10",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.enforcemeasures.com",
+        "count": "18",
+        "first_seen": "2020-04-06 21:40:33",
+        "last_seen": "2020-05-14 21:12:10",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.enforcemeasures.com",
+        "count": "18",
+        "first_seen": "2020-04-06 21:40:33",
+        "last_seen": "2020-05-14 21:12:10",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.enforcemeasures.com",
+        "count": "25",
+        "first_seen": "2020-03-10 15:13:59",
+        "last_seen": "2020-04-05 16:27:01",
+        "ip_address": "2606:4700:3034::6812:377c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.enforcemeasures.com",
+        "count": "25",
+        "first_seen": "2020-03-10 15:13:59",
+        "last_seen": "2020-04-05 16:27:01",
+        "ip_address": "2606:4700:3035::6812:367c",
+        "type": "IPv6"
+    }
+]

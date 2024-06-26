@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "my-jcb.rgycpl.icu",
+        "count": "17",
+        "first_seen": "2020-10-11 09:43:12",
+        "last_seen": "2020-10-31 02:22:05",
+        "ip_address": "104.31.86.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.rgycpl.icu",
+        "count": "17",
+        "first_seen": "2020-10-11 09:43:12",
+        "last_seen": "2020-10-31 02:22:05",
+        "ip_address": "104.31.87.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.rgycpl.icu",
+        "count": "17",
+        "first_seen": "2020-10-11 09:43:12",
+        "last_seen": "2020-10-31 02:22:05",
+        "ip_address": "172.67.175.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.rgycpl.icu",
+        "count": "4",
+        "first_seen": "2020-10-11 22:27:25",
+        "last_seen": "2020-10-12 00:03:56",
+        "ip_address": "2606:4700:3033::681f:57bf",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.rgycpl.icu",
+        "count": "4",
+        "first_seen": "2020-10-11 22:27:25",
+        "last_seen": "2020-10-12 00:03:56",
+        "ip_address": "2606:4700:3034::681f:56bf",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.rgycpl.icu",
+        "count": "4",
+        "first_seen": "2020-10-11 22:27:25",
+        "last_seen": "2020-10-12 00:03:56",
+        "ip_address": "2606:4700:3035::ac43:af37",
+        "type": "IPv6"
+    }
+]

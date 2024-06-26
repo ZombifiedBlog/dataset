@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www-biccamera-com.mlxyyd66558.vip",
+        "count": "1",
+        "first_seen": "2022-03-26 14:47:06",
+        "last_seen": "2022-03-26 14:47:06",
+        "ip_address": "45.77.11.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-biccamera-com.mlxyyd66558.vip",
+        "count": "72",
+        "first_seen": "2021-06-17 08:21:07",
+        "last_seen": "2021-06-26 21:41:16",
+        "ip_address": "104.21.15.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-biccamera-com.mlxyyd66558.vip",
+        "count": "72",
+        "first_seen": "2021-06-17 08:21:07",
+        "last_seen": "2021-06-26 21:41:16",
+        "ip_address": "172.67.165.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-biccamera-com.mlxyyd66558.vip",
+        "count": "4",
+        "first_seen": "2021-06-17 08:24:28",
+        "last_seen": "2021-06-17 08:57:41",
+        "ip_address": "2606:4700:3030::6815:ff8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-biccamera-com.mlxyyd66558.vip",
+        "count": "4",
+        "first_seen": "2021-06-17 08:24:28",
+        "last_seen": "2021-06-17 08:57:41",
+        "ip_address": "2606:4700:3036::ac43:a558",
+        "type": "IPv6"
+    }
+]

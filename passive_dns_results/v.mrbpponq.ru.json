@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "v.mrbpponq.ru",
+        "count": "3",
+        "first_seen": "2023-11-02 01:54:02",
+        "last_seen": "2023-11-02 02:04:01",
+        "ip_address": "31.177.76.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "v.mrbpponq.ru",
+        "count": "3",
+        "first_seen": "2023-11-02 01:54:02",
+        "last_seen": "2023-11-02 02:04:01",
+        "ip_address": "31.177.80.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "v.mrbpponq.ru",
+        "count": "2687",
+        "first_seen": "2023-03-26 02:48:51",
+        "last_seen": "2023-10-10 05:14:17",
+        "ip_address": "104.21.21.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "v.mrbpponq.ru",
+        "count": "2687",
+        "first_seen": "2023-03-26 02:48:51",
+        "last_seen": "2023-10-10 05:14:17",
+        "ip_address": "172.67.196.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "v.mrbpponq.ru",
+        "count": "48",
+        "first_seen": "2023-03-26 06:21:35",
+        "last_seen": "2023-04-05 17:14:53",
+        "ip_address": "2606:4700:3030::ac43:c407",
+        "type": "IPv6"
+    },
+    {
+        "domain": "v.mrbpponq.ru",
+        "count": "48",
+        "first_seen": "2023-03-26 06:21:35",
+        "last_seen": "2023-04-05 17:14:53",
+        "ip_address": "2606:4700:3036::6815:151e",
+        "type": "IPv6"
+    }
+]

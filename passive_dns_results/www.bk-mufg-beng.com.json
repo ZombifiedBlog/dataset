@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "www.bk-mufg-beng.com",
+        "count": "3",
+        "first_seen": "2021-01-03 12:34:18",
+        "last_seen": "2021-01-25 14:05:48",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bk-mufg-beng.com",
+        "count": "18",
+        "first_seen": "2019-12-26 01:11:27",
+        "last_seen": "2019-12-26 10:26:22",
+        "ip_address": "103.217.224.58",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazonomea.xyz",
+        "count": "16",
+        "first_seen": "2020-08-17 22:28:13",
+        "last_seen": "2020-08-20 14:29:45",
+        "ip_address": "64.202.188.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonomea.xyz",
+        "count": "6",
+        "first_seen": "2021-08-18 08:23:14",
+        "last_seen": "2021-09-10 18:48:01",
+        "ip_address": "99.81.40.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonomea.xyz",
+        "count": "12",
+        "first_seen": "2020-08-22 14:46:29",
+        "last_seen": "2020-08-23 14:41:38",
+        "ip_address": "128.14.3.116",
+        "type": "IPv4"
+    }
+]

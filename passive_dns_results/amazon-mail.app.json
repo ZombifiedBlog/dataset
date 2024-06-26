@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazon-mail.app",
+        "count": "46",
+        "first_seen": "2020-11-11 18:33:01",
+        "last_seen": "2021-03-02 10:35:12",
+        "ip_address": "128.14.142.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-mail.app",
+        "count": "11",
+        "first_seen": "2020-10-21 01:26:22",
+        "last_seen": "2020-11-06 14:12:46",
+        "ip_address": "128.14.142.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-mail.app",
+        "count": "212",
+        "first_seen": "2020-09-03 05:47:29",
+        "last_seen": "2020-09-10 22:04:41",
+        "ip_address": "160.153.244.11",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "security-subscriber-center.expatberlin.com",
+        "count": "130",
+        "first_seen": "2022-12-31 08:41:10",
+        "last_seen": "2023-01-27 18:21:58",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.expatberlin.com",
+        "count": "4627",
+        "first_seen": "2022-10-01 23:25:11",
+        "last_seen": "2022-12-31 07:51:40",
+        "ip_address": "104.21.8.171",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.expatberlin.com",
+        "count": "4627",
+        "first_seen": "2022-10-01 23:25:11",
+        "last_seen": "2022-12-31 07:51:40",
+        "ip_address": "172.67.157.185",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.expatberlin.com",
+        "count": "41",
+        "first_seen": "2023-03-27 08:44:35",
+        "last_seen": "2024-01-11 09:51:30",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.expatberlin.com",
+        "count": "14",
+        "first_seen": "2023-12-28 11:43:06",
+        "last_seen": "2023-12-28 11:43:13",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.expatberlin.com",
+        "count": "220",
+        "first_seen": "2022-10-07 03:32:19",
+        "last_seen": "2022-12-29 15:34:35",
+        "ip_address": "2606:4700:3030::6815:8ab",
+        "type": "IPv6"
+    },
+    {
+        "domain": "security-subscriber-center.expatberlin.com",
+        "count": "220",
+        "first_seen": "2022-10-07 03:32:19",
+        "last_seen": "2022-12-29 15:34:35",
+        "ip_address": "2606:4700:3036::ac43:9db9",
+        "type": "IPv6"
+    }
+]

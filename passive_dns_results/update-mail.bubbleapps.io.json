@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "update-mail.bubbleapps.io",
+        "count": "20",
+        "first_seen": "2023-08-15 08:44:23",
+        "last_seen": "2024-01-15 05:36:54",
+        "ip_address": "104.16.203.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "update-mail.bubbleapps.io",
+        "count": "20",
+        "first_seen": "2023-08-15 08:44:23",
+        "last_seen": "2024-01-15 05:36:54",
+        "ip_address": "104.16.204.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "update-mail.bubbleapps.io",
+        "count": "7877",
+        "first_seen": "2022-08-23 21:55:02",
+        "last_seen": "2023-07-25 05:06:59",
+        "ip_address": "104.19.217.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "update-mail.bubbleapps.io",
+        "count": "7877",
+        "first_seen": "2022-08-23 21:55:02",
+        "last_seen": "2023-07-25 05:06:59",
+        "ip_address": "104.19.218.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "update-mail.bubbleapps.io",
+        "count": "3922",
+        "first_seen": "2022-08-23 21:55:03",
+        "last_seen": "2022-09-14 09:04:50",
+        "ip_address": "2606:4700::6813:d930",
+        "type": "IPv6"
+    },
+    {
+        "domain": "update-mail.bubbleapps.io",
+        "count": "3922",
+        "first_seen": "2022-08-23 21:55:03",
+        "last_seen": "2022-09-14 09:04:50",
+        "ip_address": "2606:4700::6813:da30",
+        "type": "IPv6"
+    }
+]

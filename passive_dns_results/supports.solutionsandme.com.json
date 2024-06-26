@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "supports.solutionsandme.com",
+        "count": "6",
+        "first_seen": "2021-03-04 03:31:27",
+        "last_seen": "2021-03-07 14:46:16",
+        "ip_address": "104.21.14.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "supports.solutionsandme.com",
+        "count": "6",
+        "first_seen": "2021-03-04 03:31:27",
+        "last_seen": "2021-03-07 14:46:16",
+        "ip_address": "172.67.157.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "supports.solutionsandme.com",
+        "count": "41",
+        "first_seen": "2021-03-08 12:42:11",
+        "last_seen": "2021-04-13 08:07:19",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "supports.solutionsandme.com",
+        "count": "3",
+        "first_seen": "2021-03-08 12:42:11",
+        "last_seen": "2021-04-06 08:36:42",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "supports.solutionsandme.com",
+        "count": "1",
+        "first_seen": "2021-03-04 17:26:15",
+        "last_seen": "2021-03-04 17:26:15",
+        "ip_address": "2606:4700:3034::6815:e30",
+        "type": "IPv6"
+    },
+    {
+        "domain": "supports.solutionsandme.com",
+        "count": "1",
+        "first_seen": "2021-03-04 17:26:15",
+        "last_seen": "2021-03-04 17:26:15",
+        "ip_address": "2606:4700:3035::ac43:9dc7",
+        "type": "IPv6"
+    }
+]

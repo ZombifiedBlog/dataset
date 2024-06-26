@@ -1,0 +1,154 @@
+[
+    {
+        "domain": "etc.ist",
+        "count": "31",
+        "first_seen": "2015-08-20 12:55:58",
+        "last_seen": "2015-11-07 13:21:10",
+        "ip_address": "127.0.53.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.ist",
+        "count": "4",
+        "first_seen": "2017-05-14 20:54:43",
+        "last_seen": "2017-05-27 18:52:44",
+        "ip_address": "85.159.66.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.ist",
+        "count": "1",
+        "first_seen": "2017-05-08 20:07:46",
+        "last_seen": "2017-05-08 20:07:46",
+        "ip_address": "85.159.66.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.ist",
+        "count": "23",
+        "first_seen": "2021-02-01 08:58:54",
+        "last_seen": "2021-03-09 12:39:21",
+        "ip_address": "91.195.240.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.ist",
+        "count": "25",
+        "first_seen": "2022-05-18 07:43:26",
+        "last_seen": "2022-05-18 20:16:10",
+        "ip_address": "104.21.6.134",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.ist",
+        "count": "25",
+        "first_seen": "2022-05-18 07:43:26",
+        "last_seen": "2022-05-18 20:16:10",
+        "ip_address": "172.67.154.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.ist",
+        "count": "148",
+        "first_seen": "2020-02-01 03:33:58",
+        "last_seen": "2021-01-28 16:07:12",
+        "ip_address": "164.160.128.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.ist",
+        "count": "8",
+        "first_seen": "2022-05-18 07:46:14",
+        "last_seen": "2022-05-18 16:03:50",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.ist",
+        "count": "8",
+        "first_seen": "2022-05-18 07:46:14",
+        "last_seen": "2022-05-18 16:03:50",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.ist",
+        "count": "1",
+        "first_seen": "2022-05-18 12:05:12",
+        "last_seen": "2022-05-18 12:05:12",
+        "ip_address": "188.114.96.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.ist",
+        "count": "1",
+        "first_seen": "2022-05-18 12:05:12",
+        "last_seen": "2022-05-18 12:05:12",
+        "ip_address": "188.114.97.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.ist",
+        "count": "7",
+        "first_seen": "2022-05-18 10:10:49",
+        "last_seen": "2022-05-18 19:13:45",
+        "ip_address": "188.114.96.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.ist",
+        "count": "7",
+        "first_seen": "2022-05-18 10:10:49",
+        "last_seen": "2022-05-18 19:13:45",
+        "ip_address": "188.114.97.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.ist",
+        "count": "23",
+        "first_seen": "2022-05-18 11:45:35",
+        "last_seen": "2022-05-18 17:25:21",
+        "ip_address": "188.114.96.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.ist",
+        "count": "23",
+        "first_seen": "2022-05-18 11:45:35",
+        "last_seen": "2022-05-18 17:25:21",
+        "ip_address": "188.114.97.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.ist",
+        "count": "3",
+        "first_seen": "2022-05-18 07:46:54",
+        "last_seen": "2022-05-18 15:39:30",
+        "ip_address": "2606:4700:3032::6815:686",
+        "type": "IPv6"
+    },
+    {
+        "domain": "etc.ist",
+        "count": "3",
+        "first_seen": "2022-05-18 07:46:54",
+        "last_seen": "2022-05-18 15:39:30",
+        "ip_address": "2606:4700:3033::ac43:9adf",
+        "type": "IPv6"
+    },
+    {
+        "domain": "etc.ist",
+        "count": "10",
+        "first_seen": "2022-05-18 11:45:35",
+        "last_seen": "2022-05-18 17:25:21",
+        "ip_address": "2a06:98c1:3120::19",
+        "type": "IPv6"
+    },
+    {
+        "domain": "etc.ist",
+        "count": "10",
+        "first_seen": "2022-05-18 11:45:35",
+        "last_seen": "2022-05-18 17:25:21",
+        "ip_address": "2a06:98c1:3121::19",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscriber.satorinouki.com",
+        "count": "374",
+        "first_seen": "2022-11-29 20:53:12",
+        "last_seen": "2023-01-01 18:41:51",
+        "ip_address": "104.21.64.182",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.satorinouki.com",
+        "count": "374",
+        "first_seen": "2022-11-29 20:53:12",
+        "last_seen": "2023-01-01 18:41:51",
+        "ip_address": "172.67.154.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.satorinouki.com",
+        "count": "8",
+        "first_seen": "2023-05-28 07:26:36",
+        "last_seen": "2024-01-13 20:45:59",
+        "ip_address": "202.226.37.79",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.satorinouki.com",
+        "count": "7",
+        "first_seen": "2023-01-13 08:41:31",
+        "last_seen": "2023-02-05 19:22:37",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.satorinouki.com",
+        "count": "35",
+        "first_seen": "2023-01-12 20:07:47",
+        "last_seen": "2023-01-16 06:13:10",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.satorinouki.com",
+        "count": "23",
+        "first_seen": "2022-12-01 05:25:23",
+        "last_seen": "2023-01-01 18:41:51",
+        "ip_address": "2606:4700:3030::6815:40b6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.satorinouki.com",
+        "count": "23",
+        "first_seen": "2022-12-01 05:25:23",
+        "last_seen": "2023-01-01 18:41:51",
+        "ip_address": "2606:4700:3031::ac43:9a4c",
+        "type": "IPv6"
+    }
+]

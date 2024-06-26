@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "myaccount.gng.com",
+        "count": "38",
+        "first_seen": "2015-05-11 22:19:01",
+        "last_seen": "2016-07-09 17:58:19",
+        "ip_address": "104.130.214.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "myaccount.gng.com",
+        "count": "738543",
+        "first_seen": "2016-07-09 03:16:53",
+        "last_seen": "2024-01-18 08:14:19",
+        "ip_address": "159.18.164.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "myaccount.gng.com",
+        "count": "1",
+        "first_seen": "2021-07-18 10:34:11",
+        "last_seen": "2021-07-18 10:34:11",
+        "ip_address": "199.243.136.100",
+        "type": "IPv4"
+    }
+]

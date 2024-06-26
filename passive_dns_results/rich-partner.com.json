@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "rich-partner.com",
+        "count": "4",
+        "first_seen": "2020-10-27 15:44:53",
+        "last_seen": "2020-11-07 15:04:54",
+        "ip_address": "52.25.92.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rich-partner.com",
+        "count": "8",
+        "first_seen": "2020-10-24 04:50:07",
+        "last_seen": "2020-11-21 03:03:18",
+        "ip_address": "54.65.172.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rich-partner.com",
+        "count": "3886",
+        "first_seen": "2019-10-25 15:12:03",
+        "last_seen": "2020-10-21 03:20:08",
+        "ip_address": "103.242.7.252",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rich-partner.com",
+        "count": "11",
+        "first_seen": "2014-09-17 02:06:30",
+        "last_seen": "2015-07-28 03:42:31",
+        "ip_address": "115.68.17.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rich-partner.com",
+        "count": "6",
+        "first_seen": "2015-03-19 02:56:30",
+        "last_seen": "2015-03-21 02:38:41",
+        "ip_address": "121.254.253.135",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rich-partner.com",
+        "count": "110",
+        "first_seen": "2017-03-26 22:06:29",
+        "last_seen": "2018-03-17 23:31:57",
+        "ip_address": "192.64.119.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rich-partner.com",
+        "count": "41",
+        "first_seen": "2018-03-26 13:54:45",
+        "last_seen": "2018-04-29 17:53:09",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rich-partner.com",
+        "count": "7",
+        "first_seen": "2015-09-25 02:11:21",
+        "last_seen": "2015-10-02 23:41:52",
+        "ip_address": "202.31.187.204",
+        "type": "IPv4"
+    }
+]

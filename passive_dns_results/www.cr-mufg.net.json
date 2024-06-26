@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.cr-mufg.net",
+        "count": "157",
+        "first_seen": "2021-06-12 16:39:47",
+        "last_seen": "2021-07-24 19:26:23",
+        "ip_address": "104.21.5.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cr-mufg.net",
+        "count": "157",
+        "first_seen": "2021-06-12 16:39:47",
+        "last_seen": "2021-07-24 19:26:23",
+        "ip_address": "172.67.154.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cr-mufg.net",
+        "count": "8",
+        "first_seen": "2022-07-12 18:20:01",
+        "last_seen": "2022-07-12 18:20:02",
+        "ip_address": "104.160.190.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cr-mufg.net",
+        "count": "44",
+        "first_seen": "2021-07-28 00:33:26",
+        "last_seen": "2022-06-25 00:56:39",
+        "ip_address": "155.235.250.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cr-mufg.net",
+        "count": "28",
+        "first_seen": "2021-06-12 16:39:47",
+        "last_seen": "2021-07-26 01:14:35",
+        "ip_address": "2606:4700:3031::6815:5ef",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.cr-mufg.net",
+        "count": "28",
+        "first_seen": "2021-06-12 16:39:47",
+        "last_seen": "2021-07-26 01:14:35",
+        "ip_address": "2606:4700:3031::ac43:9ac4",
+        "type": "IPv6"
+    }
+]

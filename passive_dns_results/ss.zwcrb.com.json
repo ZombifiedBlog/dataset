@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "ss.zwcrb.com",
+        "count": "729",
+        "first_seen": "2021-12-16 03:23:09",
+        "last_seen": "2022-02-27 16:42:19",
+        "ip_address": "104.21.7.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ss.zwcrb.com",
+        "count": "729",
+        "first_seen": "2021-12-16 03:23:09",
+        "last_seen": "2022-02-27 16:42:19",
+        "ip_address": "172.67.156.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ss.zwcrb.com",
+        "count": "1",
+        "first_seen": "2022-03-08 19:09:58",
+        "last_seen": "2022-03-08 19:09:58",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ss.zwcrb.com",
+        "count": "1",
+        "first_seen": "2022-03-08 19:09:58",
+        "last_seen": "2022-03-08 19:09:58",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ss.zwcrb.com",
+        "count": "1",
+        "first_seen": "2022-04-11 07:37:35",
+        "last_seen": "2022-04-11 07:37:35",
+        "ip_address": "188.114.96.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ss.zwcrb.com",
+        "count": "1",
+        "first_seen": "2022-04-11 07:37:35",
+        "last_seen": "2022-04-11 07:37:35",
+        "ip_address": "188.114.97.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ss.zwcrb.com",
+        "count": "234",
+        "first_seen": "2021-12-16 08:06:50",
+        "last_seen": "2022-04-11 07:37:35",
+        "ip_address": "2606:4700:3031::6815:7cc",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ss.zwcrb.com",
+        "count": "234",
+        "first_seen": "2021-12-16 08:06:50",
+        "last_seen": "2022-04-11 07:37:35",
+        "ip_address": "2606:4700:3036::ac43:9c47",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ss.zwcrb.com",
+        "count": "1",
+        "first_seen": "2022-03-08 19:09:58",
+        "last_seen": "2022-03-08 19:09:58",
+        "ip_address": "2a06:98c1:3120::14",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ss.zwcrb.com",
+        "count": "1",
+        "first_seen": "2022-03-08 19:09:58",
+        "last_seen": "2022-03-08 19:09:58",
+        "ip_address": "2a06:98c1:3121::14",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.dontcheapitout.top",
+        "count": "3",
+        "first_seen": "2023-04-06 16:11:53",
+        "last_seen": "2023-04-06 16:11:53",
+        "ip_address": "49.51.78.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.dontcheapitout.top",
+        "count": "2835",
+        "first_seen": "2023-02-02 18:48:38",
+        "last_seen": "2023-03-22 00:26:56",
+        "ip_address": "104.21.66.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.dontcheapitout.top",
+        "count": "2835",
+        "first_seen": "2023-02-02 18:48:38",
+        "last_seen": "2023-03-22 00:26:56",
+        "ip_address": "172.67.206.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.dontcheapitout.top",
+        "count": "4",
+        "first_seen": "2023-04-07 13:14:00",
+        "last_seen": "2023-05-05 05:28:00",
+        "ip_address": "170.106.49.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.dontcheapitout.top",
+        "count": "121",
+        "first_seen": "2023-02-02 21:02:03",
+        "last_seen": "2023-03-08 16:34:19",
+        "ip_address": "2606:4700:3033::ac43:ce46",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.dontcheapitout.top",
+        "count": "121",
+        "first_seen": "2023-02-02 21:02:03",
+        "last_seen": "2023-03-08 16:34:19",
+        "ip_address": "2606:4700:3035::6815:42b1",
+        "type": "IPv6"
+    }
+]

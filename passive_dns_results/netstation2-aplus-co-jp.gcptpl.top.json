@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "netstation2-aplus-co-jp.gcptpl.top",
+        "count": "609",
+        "first_seen": "2022-05-11 15:55:07",
+        "last_seen": "2022-05-13 05:09:33",
+        "ip_address": "104.21.88.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.gcptpl.top",
+        "count": "609",
+        "first_seen": "2022-05-11 15:55:07",
+        "last_seen": "2022-05-13 05:09:33",
+        "ip_address": "172.67.172.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.gcptpl.top",
+        "count": "74",
+        "first_seen": "2022-05-11 15:55:58",
+        "last_seen": "2022-05-12 23:15:18",
+        "ip_address": "2606:4700:3030::6815:582c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.gcptpl.top",
+        "count": "74",
+        "first_seen": "2022-05-11 15:55:58",
+        "last_seen": "2022-05-12 23:15:18",
+        "ip_address": "2606:4700:3036::ac43:ac89",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.faturaoderiz.com",
+        "count": "74",
+        "first_seen": "2022-08-30 06:19:04",
+        "last_seen": "2022-09-25 16:49:11",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.faturaoderiz.com",
+        "count": "5630",
+        "first_seen": "2022-06-07 17:32:21",
+        "last_seen": "2022-08-20 20:41:42",
+        "ip_address": "104.21.72.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.faturaoderiz.com",
+        "count": "5630",
+        "first_seen": "2022-06-07 17:32:21",
+        "last_seen": "2022-08-20 20:41:42",
+        "ip_address": "172.67.174.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.faturaoderiz.com",
+        "count": "184",
+        "first_seen": "2022-06-08 00:00:19",
+        "last_seen": "2022-08-23 14:03:05",
+        "ip_address": "2606:4700:3030::ac43:ae1f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.faturaoderiz.com",
+        "count": "184",
+        "first_seen": "2022-06-08 00:00:19",
+        "last_seen": "2022-08-23 14:03:05",
+        "ip_address": "2606:4700:3036::6815:4818",
+        "type": "IPv6"
+    }
+]

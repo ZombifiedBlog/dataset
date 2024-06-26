@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "transpond.ymclbhbf6.com",
+        "count": "28",
+        "first_seen": "2021-02-05 03:56:39",
+        "last_seen": "2021-02-05 08:08:29",
+        "ip_address": "104.21.6.143",
+        "type": "IPv4"
+    },
+    {
+        "domain": "transpond.ymclbhbf6.com",
+        "count": "28",
+        "first_seen": "2021-02-05 03:56:39",
+        "last_seen": "2021-02-05 08:08:29",
+        "ip_address": "172.67.155.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "transpond.ymclbhbf6.com",
+        "count": "4",
+        "first_seen": "2021-02-05 08:12:23",
+        "last_seen": "2021-03-06 22:49:49",
+        "ip_address": "205.185.125.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "transpond.ymclbhbf6.com",
+        "count": "2",
+        "first_seen": "2021-02-05 03:56:39",
+        "last_seen": "2021-02-05 03:56:39",
+        "ip_address": "2606:4700:3031::ac43:9b26",
+        "type": "IPv6"
+    },
+    {
+        "domain": "transpond.ymclbhbf6.com",
+        "count": "2",
+        "first_seen": "2021-02-05 03:56:39",
+        "last_seen": "2021-02-05 03:56:39",
+        "ip_address": "2606:4700:3032::6815:68f",
+        "type": "IPv6"
+    }
+]

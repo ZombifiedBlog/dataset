@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "jreast.info",
+        "count": "4",
+        "first_seen": "2011-01-14 02:37:38",
+        "last_seen": "2011-09-11 02:03:26",
+        "ip_address": "82.98.86.178",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jreast.info",
+        "count": "126",
+        "first_seen": "2022-05-31 07:13:03",
+        "last_seen": "2022-10-24 07:33:18",
+        "ip_address": "104.21.52.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jreast.info",
+        "count": "126",
+        "first_seen": "2022-05-31 07:13:03",
+        "last_seen": "2022-10-24 07:33:18",
+        "ip_address": "172.67.193.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jreast.info",
+        "count": "113",
+        "first_seen": "2019-09-08 11:26:06",
+        "last_seen": "2020-07-02 20:28:20",
+        "ip_address": "150.95.255.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jreast.info",
+        "count": "1",
+        "first_seen": "2013-12-30 05:15:29",
+        "last_seen": "2013-12-30 05:15:29",
+        "ip_address": "203.189.105.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jreast.info",
+        "count": "8",
+        "first_seen": "2022-05-31 12:00:37",
+        "last_seen": "2022-10-24 07:33:18",
+        "ip_address": "2606:4700:3034::6815:3410",
+        "type": "IPv6"
+    },
+    {
+        "domain": "jreast.info",
+        "count": "8",
+        "first_seen": "2022-05-31 12:00:37",
+        "last_seen": "2022-10-24 07:33:18",
+        "ip_address": "2606:4700:3036::ac43:c1ef",
+        "type": "IPv6"
+    }
+]

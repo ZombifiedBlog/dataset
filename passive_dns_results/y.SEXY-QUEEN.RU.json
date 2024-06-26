@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "y.SEXY-QUEEN.RU",
+        "count": "2",
+        "first_seen": "2019-11-19 04:32:33",
+        "last_seen": "2019-11-19 04:32:33",
+        "ip_address": "46.166.184.109",
+        "type": "IPv4"
+    },
+    {
+        "domain": "y.SEXY-QUEEN.RU",
+        "count": "2",
+        "first_seen": "2019-11-19 04:32:33",
+        "last_seen": "2019-11-19 04:32:33",
+        "ip_address": "185.206.180.130",
+        "type": "IPv4"
+    },
+    {
+        "domain": "y.SEXY-QUEEN.RU",
+        "count": "83",
+        "first_seen": "2020-01-10 06:13:03",
+        "last_seen": "2020-08-13 04:31:13",
+        "ip_address": "89.111.167.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "y.SEXY-QUEEN.RU",
+        "count": "2",
+        "first_seen": "2019-11-18 14:37:45",
+        "last_seen": "2019-11-18 14:37:45",
+        "ip_address": "2a00:1768:2001:63::46:109",
+        "type": "IPv6"
+    },
+    {
+        "domain": "y.SEXY-QUEEN.RU",
+        "count": "2",
+        "first_seen": "2019-11-18 14:37:45",
+        "last_seen": "2019-11-18 14:37:45",
+        "ip_address": "2a0b:1640:1:1:1:1:ed9:e667",
+        "type": "IPv6"
+    }
+]

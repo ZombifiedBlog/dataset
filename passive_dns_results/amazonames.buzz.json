@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazonames.buzz",
+        "count": "1",
+        "first_seen": "2021-09-01 08:22:36",
+        "last_seen": "2021-09-01 08:22:36",
+        "ip_address": "99.81.40.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonames.buzz",
+        "count": "13",
+        "first_seen": "2020-09-02 22:06:56",
+        "last_seen": "2020-09-03 21:47:53",
+        "ip_address": "173.82.153.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonames.buzz",
+        "count": "20",
+        "first_seen": "2020-08-31 20:54:07",
+        "last_seen": "2020-09-02 05:44:22",
+        "ip_address": "173.82.238.34",
+        "type": "IPv4"
+    }
+]

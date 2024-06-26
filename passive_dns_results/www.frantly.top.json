@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "www.frantly.top",
+        "count": "740",
+        "first_seen": "2021-04-17 15:13:58",
+        "last_seen": "2021-10-07 06:31:43",
+        "ip_address": "104.21.16.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.frantly.top",
+        "count": "740",
+        "first_seen": "2021-04-17 15:13:58",
+        "last_seen": "2021-10-07 06:31:43",
+        "ip_address": "172.67.215.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.frantly.top",
+        "count": "229",
+        "first_seen": "2020-10-06 21:29:03",
+        "last_seen": "2020-12-31 22:44:18",
+        "ip_address": "104.31.86.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.frantly.top",
+        "count": "229",
+        "first_seen": "2020-10-06 21:29:03",
+        "last_seen": "2020-12-31 22:44:18",
+        "ip_address": "104.31.87.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.frantly.top",
+        "count": "229",
+        "first_seen": "2020-10-06 21:29:03",
+        "last_seen": "2020-12-31 22:44:18",
+        "ip_address": "172.67.215.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.frantly.top",
+        "count": "9",
+        "first_seen": "2021-10-08 06:38:43",
+        "last_seen": "2021-10-15 07:11:03",
+        "ip_address": "199.59.242.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.frantly.top",
+        "count": "46",
+        "first_seen": "2020-10-06 21:29:06",
+        "last_seen": "2020-11-06 01:35:38",
+        "ip_address": "2606:4700:3032::681f:5725",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.frantly.top",
+        "count": "46",
+        "first_seen": "2020-10-06 21:29:06",
+        "last_seen": "2020-11-06 01:35:38",
+        "ip_address": "2606:4700:3033::ac43:d78d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.frantly.top",
+        "count": "46",
+        "first_seen": "2020-10-06 21:29:06",
+        "last_seen": "2020-11-06 01:35:38",
+        "ip_address": "2606:4700:3037::681f:5625",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.frantly.top",
+        "count": "199",
+        "first_seen": "2021-04-17 15:14:04",
+        "last_seen": "2021-08-30 12:55:06",
+        "ip_address": "2606:4700:3033::ac43:d78d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.frantly.top",
+        "count": "199",
+        "first_seen": "2021-04-17 15:14:04",
+        "last_seen": "2021-08-30 12:55:06",
+        "ip_address": "2606:4700:3037::6815:10bd",
+        "type": "IPv6"
+    }
+]

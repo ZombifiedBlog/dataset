@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "acelaw.ru",
+        "count": "16",
+        "first_seen": "2015-08-09 04:56:18",
+        "last_seen": "2015-09-09 00:20:29",
+        "ip_address": "83.222.14.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "acelaw.ru",
+        "count": "134",
+        "first_seen": "2015-03-03 08:39:04",
+        "last_seen": "2015-04-17 13:32:33",
+        "ip_address": "178.208.83.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "acelaw.ru",
+        "count": "43",
+        "first_seen": "2014-07-21 23:30:08",
+        "last_seen": "2014-08-03 01:11:01",
+        "ip_address": "178.208.85.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "acelaw.ru",
+        "count": "93",
+        "first_seen": "2014-09-24 16:19:30",
+        "last_seen": "2014-12-03 00:49:04",
+        "ip_address": "193.201.224.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "acelaw.ru",
+        "count": "21",
+        "first_seen": "2016-09-13 07:23:31",
+        "last_seen": "2016-10-11 07:25:55",
+        "ip_address": "194.58.56.95",
+        "type": "IPv4"
+    }
+]

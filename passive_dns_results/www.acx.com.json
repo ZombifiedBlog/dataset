@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "www.acx.com",
+        "count": "5101467",
+        "first_seen": "2023-05-29 12:10:30",
+        "last_seen": "2024-01-18 14:21:27",
+        "ip_address": "44.199.180.64",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.acx.com",
+        "count": "5069375",
+        "first_seen": "2023-05-29 10:20:29",
+        "last_seen": "2024-01-18 17:57:23",
+        "ip_address": "44.199.180.73",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.acx.com",
+        "count": "5103818",
+        "first_seen": "2023-04-06 13:41:02",
+        "last_seen": "2024-01-18 15:35:51",
+        "ip_address": "44.199.181.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.acx.com",
+        "count": "82631339",
+        "first_seen": "2016-11-14 10:23:26",
+        "last_seen": "2023-05-29 10:06:46",
+        "ip_address": "52.94.224.235",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.acx.com",
+        "count": "70157295",
+        "first_seen": "2018-04-03 12:21:56",
+        "last_seen": "2023-05-29 13:31:32",
+        "ip_address": "52.94.241.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.acx.com",
+        "count": "22143083",
+        "first_seen": "2016-03-09 11:50:12",
+        "last_seen": "2018-04-03 12:22:15",
+        "ip_address": "54.239.29.79",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.acx.com",
+        "count": "95151",
+        "first_seen": "2010-11-24 19:07:57",
+        "last_seen": "2013-11-21 06:23:56",
+        "ip_address": "72.21.194.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.acx.com",
+        "count": "27462179",
+        "first_seen": "2014-07-18 12:14:56",
+        "last_seen": "2016-03-09 11:50:28",
+        "ip_address": "176.32.103.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.acx.com",
+        "count": "121185757",
+        "first_seen": "2013-06-26 11:06:57",
+        "last_seen": "2023-05-29 11:47:41",
+        "ip_address": "205.251.242.232",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.acx.com",
+        "count": "1507815",
+        "first_seen": "2010-12-03 23:21:18",
+        "last_seen": "2014-07-18 12:17:19",
+        "ip_address": "207.171.162.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.acx.com",
+        "count": "38559167",
+        "first_seen": "2010-11-19 21:33:45",
+        "last_seen": "2016-11-14 10:24:08",
+        "ip_address": "207.171.162.169",
+        "type": "IPv4"
+    }
+]

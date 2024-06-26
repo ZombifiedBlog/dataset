@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.zzimbbong.com",
+        "count": "6",
+        "first_seen": "2023-12-16 19:46:27",
+        "last_seen": "2023-12-30 21:40:16",
+        "ip_address": "52.25.92.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zzimbbong.com",
+        "count": "2",
+        "first_seen": "2023-12-31 22:26:06",
+        "last_seen": "2024-01-03 01:00:28",
+        "ip_address": "54.65.172.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zzimbbong.com",
+        "count": "107",
+        "first_seen": "2023-06-10 10:43:38",
+        "last_seen": "2023-12-07 00:51:05",
+        "ip_address": "104.195.17.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zzimbbong.com",
+        "count": "33",
+        "first_seen": "2022-12-23 07:00:42",
+        "last_seen": "2023-05-26 17:08:51",
+        "ip_address": "104.201.8.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zzimbbong.com",
+        "count": "4",
+        "first_seen": "2011-07-13 14:00:29",
+        "last_seen": "2012-01-23 15:05:02",
+        "ip_address": "112.172.59.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zzimbbong.com",
+        "count": "1177",
+        "first_seen": "2022-08-14 14:32:45",
+        "last_seen": "2022-08-27 08:23:21",
+        "ip_address": "204.152.210.51",
+        "type": "IPv4"
+    }
+]

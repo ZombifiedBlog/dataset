@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "smbc-carb.top",
+        "count": "138",
+        "first_seen": "2020-12-02 17:38:20",
+        "last_seen": "2020-12-04 02:21:56",
+        "ip_address": "23.95.9.135",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-carb.top",
+        "count": "844",
+        "first_seen": "2023-06-10 01:52:04",
+        "last_seen": "2024-01-18 00:29:01",
+        "ip_address": "104.21.1.182",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-carb.top",
+        "count": "844",
+        "first_seen": "2023-06-10 01:52:04",
+        "last_seen": "2024-01-18 00:29:01",
+        "ip_address": "172.67.129.178",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-carb.top",
+        "count": "552",
+        "first_seen": "2023-06-10 01:52:04",
+        "last_seen": "2024-01-17 18:28:14",
+        "ip_address": "2606:4700:3031::6815:1b6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "smbc-carb.top",
+        "count": "552",
+        "first_seen": "2023-06-10 01:52:04",
+        "last_seen": "2024-01-17 18:28:14",
+        "ip_address": "2606:4700:3037::ac43:81b2",
+        "type": "IPv6"
+    }
+]

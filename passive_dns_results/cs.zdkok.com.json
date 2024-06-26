@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "cs.zdkok.com",
+        "count": "4369",
+        "first_seen": "2022-02-23 02:51:12",
+        "last_seen": "2022-04-20 04:19:57",
+        "ip_address": "104.21.76.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cs.zdkok.com",
+        "count": "4369",
+        "first_seen": "2022-02-23 02:51:12",
+        "last_seen": "2022-04-20 04:19:57",
+        "ip_address": "172.67.185.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cs.zdkok.com",
+        "count": "26",
+        "first_seen": "2022-03-12 00:29:14",
+        "last_seen": "2022-03-14 10:03:56",
+        "ip_address": "188.114.97.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cs.zdkok.com",
+        "count": "1755",
+        "first_seen": "2022-02-23 03:23:42",
+        "last_seen": "2022-04-20 11:19:59",
+        "ip_address": "2606:4700:3035::ac43:b90c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "cs.zdkok.com",
+        "count": "1755",
+        "first_seen": "2022-02-23 03:23:42",
+        "last_seen": "2022-04-20 11:19:59",
+        "ip_address": "2606:4700:3036::6815:4c0d",
+        "type": "IPv6"
+    }
+]

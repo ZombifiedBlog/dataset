@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "44za.net",
+        "count": "5",
+        "first_seen": "2015-11-05 11:43:29",
+        "last_seen": "2015-11-07 16:20:50",
+        "ip_address": "50.63.202.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "44za.net",
+        "count": "8",
+        "first_seen": "2019-02-09 02:58:59",
+        "last_seen": "2019-02-25 03:22:39",
+        "ip_address": "192.64.119.186",
+        "type": "IPv4"
+    },
+    {
+        "domain": "44za.net",
+        "count": "2",
+        "first_seen": "2014-11-23 17:09:39",
+        "last_seen": "2014-11-23 17:09:39",
+        "ip_address": "192.187.112.42",
+        "type": "IPv4"
+    },
+    {
+        "domain": "44za.net",
+        "count": "8",
+        "first_seen": "2015-04-01 03:03:33",
+        "last_seen": "2015-05-09 04:00:10",
+        "ip_address": "192.187.123.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "44za.net",
+        "count": "27",
+        "first_seen": "2020-02-02 12:22:09",
+        "last_seen": "2020-03-09 07:07:12",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "44za.net",
+        "count": "27",
+        "first_seen": "2020-02-02 12:22:09",
+        "last_seen": "2020-03-09 07:07:12",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "44za.net",
+        "count": "27",
+        "first_seen": "2020-02-02 12:22:09",
+        "last_seen": "2020-03-09 07:07:12",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "44za.net",
+        "count": "27",
+        "first_seen": "2020-02-02 12:22:09",
+        "last_seen": "2020-03-09 07:07:12",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    }
+]

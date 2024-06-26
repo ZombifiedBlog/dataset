@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.thoitrangdoda.com",
+        "count": "7",
+        "first_seen": "2023-01-31 03:44:00",
+        "last_seen": "2023-02-19 11:07:34",
+        "ip_address": "103.120.80.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thoitrangdoda.com",
+        "count": "7",
+        "first_seen": "2023-01-31 03:44:00",
+        "last_seen": "2023-02-19 11:07:34",
+        "ip_address": "103.139.0.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thoitrangdoda.com",
+        "count": "2699",
+        "first_seen": "2022-11-19 15:32:28",
+        "last_seen": "2023-01-10 07:52:08",
+        "ip_address": "104.21.84.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thoitrangdoda.com",
+        "count": "2699",
+        "first_seen": "2022-11-19 15:32:28",
+        "last_seen": "2023-01-10 07:52:08",
+        "ip_address": "172.67.197.97",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thoitrangdoda.com",
+        "count": "149",
+        "first_seen": "2022-11-19 22:22:49",
+        "last_seen": "2022-12-31 08:50:21",
+        "ip_address": "2606:4700:3036::6815:54da",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.thoitrangdoda.com",
+        "count": "149",
+        "first_seen": "2022-11-19 22:22:49",
+        "last_seen": "2022-12-31 08:50:21",
+        "ip_address": "2606:4700:3036::ac43:c561",
+        "type": "IPv6"
+    }
+]

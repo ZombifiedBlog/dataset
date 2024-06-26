@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.andysweathersite.com",
+        "count": "2",
+        "first_seen": "2022-01-30 09:22:10",
+        "last_seen": "2022-01-30 09:22:10",
+        "ip_address": "23.235.160.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.andysweathersite.com",
+        "count": "2",
+        "first_seen": "2022-07-11 21:35:14",
+        "last_seen": "2022-07-18 08:17:05",
+        "ip_address": "52.213.114.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.andysweathersite.com",
+        "count": "1493",
+        "first_seen": "2022-04-22 14:25:25",
+        "last_seen": "2022-04-27 23:06:10",
+        "ip_address": "107.173.246.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.andysweathersite.com",
+        "count": "703",
+        "first_seen": "2022-04-22 16:04:24",
+        "last_seen": "2022-04-23 03:11:41",
+        "ip_address": "112.121.162.82",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.andysweathersite.com",
+        "count": "4",
+        "first_seen": "2021-10-03 23:19:05",
+        "last_seen": "2021-11-17 08:12:51",
+        "ip_address": "156.245.199.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.andysweathersite.com",
+        "count": "3",
+        "first_seen": "2021-06-13 08:50:27",
+        "last_seen": "2021-07-20 16:49:03",
+        "ip_address": "164.155.178.106",
+        "type": "IPv4"
+    }
+]

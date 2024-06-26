@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "direct.smbc.co.jp.jlkyt.com",
+        "count": "5",
+        "first_seen": "2022-11-07 23:45:17",
+        "last_seen": "2023-09-06 20:54:54",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "direct.smbc.co.jp.jlkyt.com",
+        "count": "6",
+        "first_seen": "2023-12-01 13:07:11",
+        "last_seen": "2023-12-01 14:09:22",
+        "ip_address": "103.224.212.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "direct.smbc.co.jp.jlkyt.com",
+        "count": "18",
+        "first_seen": "2022-11-04 19:29:31",
+        "last_seen": "2023-08-18 22:04:22",
+        "ip_address": "103.224.212.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "direct.smbc.co.jp.jlkyt.com",
+        "count": "1341",
+        "first_seen": "2022-08-18 16:33:25",
+        "last_seen": "2022-09-26 18:59:11",
+        "ip_address": "204.152.210.142",
+        "type": "IPv4"
+    }
+]

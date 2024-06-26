@@ -1,0 +1,114 @@
+[
+    {
+        "domain": "img.kvrbs.com",
+        "count": "27",
+        "first_seen": "2021-01-18 16:15:25",
+        "last_seen": "2021-02-24 20:46:41",
+        "ip_address": "104.21.84.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.kvrbs.com",
+        "count": "27",
+        "first_seen": "2021-01-18 16:15:25",
+        "last_seen": "2021-02-24 20:46:41",
+        "ip_address": "172.67.188.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.kvrbs.com",
+        "count": "2011",
+        "first_seen": "2020-10-05 08:24:42",
+        "last_seen": "2021-01-13 05:40:48",
+        "ip_address": "104.27.164.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.kvrbs.com",
+        "count": "2011",
+        "first_seen": "2020-10-05 08:24:42",
+        "last_seen": "2021-01-13 05:40:48",
+        "ip_address": "104.27.165.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.kvrbs.com",
+        "count": "2011",
+        "first_seen": "2020-10-05 08:24:42",
+        "last_seen": "2021-01-13 05:40:48",
+        "ip_address": "172.67.188.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.kvrbs.com",
+        "count": "1",
+        "first_seen": "2020-12-13 13:53:20",
+        "last_seen": "2020-12-13 13:53:20",
+        "ip_address": "172.64.82.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.kvrbs.com",
+        "count": "2",
+        "first_seen": "2020-10-09 08:41:44",
+        "last_seen": "2020-10-09 08:41:44",
+        "ip_address": "172.64.86.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.kvrbs.com",
+        "count": "2",
+        "first_seen": "2020-12-03 05:59:57",
+        "last_seen": "2020-12-03 05:59:57",
+        "ip_address": "172.64.90.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.kvrbs.com",
+        "count": "2",
+        "first_seen": "2020-10-07 12:30:14",
+        "last_seen": "2020-10-07 12:30:14",
+        "ip_address": "172.64.93.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.kvrbs.com",
+        "count": "12",
+        "first_seen": "2021-01-18 16:15:25",
+        "last_seen": "2021-02-18 19:12:22",
+        "ip_address": "2606:4700:3030::ac43:bca8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.kvrbs.com",
+        "count": "12",
+        "first_seen": "2021-01-18 16:15:25",
+        "last_seen": "2021-02-18 19:12:22",
+        "ip_address": "2606:4700:3031::6815:544e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.kvrbs.com",
+        "count": "597",
+        "first_seen": "2020-10-05 15:45:19",
+        "last_seen": "2021-01-12 03:34:43",
+        "ip_address": "2606:4700:3030::ac43:bca8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.kvrbs.com",
+        "count": "597",
+        "first_seen": "2020-10-05 15:45:19",
+        "last_seen": "2021-01-12 03:34:43",
+        "ip_address": "2606:4700:3031::681b:a594",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.kvrbs.com",
+        "count": "597",
+        "first_seen": "2020-10-05 15:45:19",
+        "last_seen": "2021-01-12 03:34:43",
+        "ip_address": "2606:4700:3033::681b:a494",
+        "type": "IPv6"
+    }
+]

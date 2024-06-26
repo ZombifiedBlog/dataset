@@ -1,0 +1,122 @@
+[
+    {
+        "domain": "www.bestattractiveoptions.com",
+        "count": "4",
+        "first_seen": "2020-04-13 01:51:58",
+        "last_seen": "2020-04-16 08:12:38",
+        "ip_address": "18.177.84.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bestattractiveoptions.com",
+        "count": "2",
+        "first_seen": "2020-06-24 21:46:29",
+        "last_seen": "2020-06-24 21:46:29",
+        "ip_address": "34.249.3.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bestattractiveoptions.com",
+        "count": "2",
+        "first_seen": "2020-05-09 11:33:20",
+        "last_seen": "2020-05-09 11:33:20",
+        "ip_address": "52.65.97.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bestattractiveoptions.com",
+        "count": "2",
+        "first_seen": "2020-06-01 07:09:34",
+        "last_seen": "2020-06-01 07:09:34",
+        "ip_address": "52.68.69.231",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bestattractiveoptions.com",
+        "count": "2",
+        "first_seen": "2020-03-29 13:09:59",
+        "last_seen": "2020-03-29 13:09:59",
+        "ip_address": "52.212.28.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bestattractiveoptions.com",
+        "count": "634",
+        "first_seen": "2020-07-23 07:07:25",
+        "last_seen": "2020-10-10 00:37:11",
+        "ip_address": "104.18.60.158",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bestattractiveoptions.com",
+        "count": "634",
+        "first_seen": "2020-07-23 07:07:25",
+        "last_seen": "2020-10-10 00:37:11",
+        "ip_address": "104.18.61.158",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bestattractiveoptions.com",
+        "count": "634",
+        "first_seen": "2020-07-23 07:07:25",
+        "last_seen": "2020-10-10 00:37:11",
+        "ip_address": "172.67.186.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bestattractiveoptions.com",
+        "count": "46",
+        "first_seen": "2020-07-23 12:46:54",
+        "last_seen": "2020-07-23 13:17:16",
+        "ip_address": "172.64.98.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bestattractiveoptions.com",
+        "count": "46",
+        "first_seen": "2020-07-23 12:46:54",
+        "last_seen": "2020-07-23 13:17:16",
+        "ip_address": "172.64.99.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bestattractiveoptions.com",
+        "count": "20",
+        "first_seen": "2020-07-23 12:46:54",
+        "last_seen": "2020-07-23 13:18:27",
+        "ip_address": "2606:4700:e0::ac40:6220",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bestattractiveoptions.com",
+        "count": "20",
+        "first_seen": "2020-07-23 12:46:54",
+        "last_seen": "2020-07-23 13:18:27",
+        "ip_address": "2606:4700:e0::ac40:6320",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bestattractiveoptions.com",
+        "count": "274",
+        "first_seen": "2020-07-23 07:07:25",
+        "last_seen": "2020-09-08 23:42:44",
+        "ip_address": "2606:4700:3030::6812:3d9e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bestattractiveoptions.com",
+        "count": "274",
+        "first_seen": "2020-07-23 07:07:25",
+        "last_seen": "2020-09-08 23:42:44",
+        "ip_address": "2606:4700:3031::6812:3c9e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bestattractiveoptions.com",
+        "count": "274",
+        "first_seen": "2020-07-23 07:07:25",
+        "last_seen": "2020-09-08 23:42:44",
+        "ip_address": "2606:4700:3033::ac43:bab7",
+        "type": "IPv6"
+    }
+]

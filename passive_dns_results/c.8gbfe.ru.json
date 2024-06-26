@@ -1,0 +1,114 @@
+[
+    {
+        "domain": "c.8gbfe.ru",
+        "count": "109",
+        "first_seen": "2023-09-06 09:08:18",
+        "last_seen": "2023-09-26 23:51:12",
+        "ip_address": "31.177.76.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c.8gbfe.ru",
+        "count": "109",
+        "first_seen": "2023-09-06 09:08:18",
+        "last_seen": "2023-09-26 23:51:12",
+        "ip_address": "31.177.80.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c.8gbfe.ru",
+        "count": "6604",
+        "first_seen": "2023-05-20 00:36:23",
+        "last_seen": "2023-06-01 13:44:21",
+        "ip_address": "104.21.1.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c.8gbfe.ru",
+        "count": "6604",
+        "first_seen": "2023-05-20 00:36:23",
+        "last_seen": "2023-06-01 13:44:21",
+        "ip_address": "172.67.152.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c.8gbfe.ru",
+        "count": "142",
+        "first_seen": "2023-06-02 02:54:05",
+        "last_seen": "2023-08-19 14:42:41",
+        "ip_address": "104.21.80.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c.8gbfe.ru",
+        "count": "142",
+        "first_seen": "2023-06-02 02:54:05",
+        "last_seen": "2023-08-19 14:42:41",
+        "ip_address": "172.67.179.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c.8gbfe.ru",
+        "count": "14",
+        "first_seen": "2023-06-01 16:04:30",
+        "last_seen": "2023-06-01 18:59:03",
+        "ip_address": "172.64.196.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c.8gbfe.ru",
+        "count": "14",
+        "first_seen": "2023-06-01 16:04:30",
+        "last_seen": "2023-06-01 18:59:03",
+        "ip_address": "172.64.197.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c.8gbfe.ru",
+        "count": "3",
+        "first_seen": "2023-06-01 14:45:30",
+        "last_seen": "2023-06-01 18:50:54",
+        "ip_address": "2606:4700:e6::ac40:c420",
+        "type": "IPv6"
+    },
+    {
+        "domain": "c.8gbfe.ru",
+        "count": "3",
+        "first_seen": "2023-06-01 14:45:30",
+        "last_seen": "2023-06-01 18:50:54",
+        "ip_address": "2606:4700:e6::ac40:c520",
+        "type": "IPv6"
+    },
+    {
+        "domain": "c.8gbfe.ru",
+        "count": "86",
+        "first_seen": "2023-06-02 08:53:50",
+        "last_seen": "2023-08-09 12:05:54",
+        "ip_address": "2606:4700:3033::ac43:b36b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "c.8gbfe.ru",
+        "count": "86",
+        "first_seen": "2023-06-02 08:53:50",
+        "last_seen": "2023-08-09 12:05:54",
+        "ip_address": "2606:4700:3035::6815:5071",
+        "type": "IPv6"
+    },
+    {
+        "domain": "c.8gbfe.ru",
+        "count": "370",
+        "first_seen": "2023-05-20 00:36:23",
+        "last_seen": "2023-06-01 14:00:31",
+        "ip_address": "2606:4700:3035::6815:126",
+        "type": "IPv6"
+    },
+    {
+        "domain": "c.8gbfe.ru",
+        "count": "370",
+        "first_seen": "2023-05-20 00:36:23",
+        "last_seen": "2023-06-01 14:00:31",
+        "ip_address": "2606:4700:3037::ac43:9828",
+        "type": "IPv6"
+    }
+]

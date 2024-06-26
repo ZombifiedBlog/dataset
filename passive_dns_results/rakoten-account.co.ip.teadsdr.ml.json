@@ -1,0 +1,114 @@
+[
+    {
+        "domain": "rakoten-account.co.ip.teadsdr.ml",
+        "count": "479",
+        "first_seen": "2022-05-28 07:03:46",
+        "last_seen": "2022-09-18 15:38:19",
+        "ip_address": "104.21.10.184",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakoten-account.co.ip.teadsdr.ml",
+        "count": "479",
+        "first_seen": "2022-05-28 07:03:46",
+        "last_seen": "2022-09-18 15:38:19",
+        "ip_address": "172.67.190.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakoten-account.co.ip.teadsdr.ml",
+        "count": "102",
+        "first_seen": "2022-05-28 09:14:49",
+        "last_seen": "2022-05-31 06:43:19",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakoten-account.co.ip.teadsdr.ml",
+        "count": "102",
+        "first_seen": "2022-05-28 09:14:49",
+        "last_seen": "2022-05-31 06:43:19",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakoten-account.co.ip.teadsdr.ml",
+        "count": "10",
+        "first_seen": "2022-05-31 01:32:13",
+        "last_seen": "2022-06-11 16:57:00",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakoten-account.co.ip.teadsdr.ml",
+        "count": "10",
+        "first_seen": "2022-05-31 01:32:13",
+        "last_seen": "2022-06-11 16:57:00",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakoten-account.co.ip.teadsdr.ml",
+        "count": "89",
+        "first_seen": "2022-05-28 08:41:23",
+        "last_seen": "2022-07-20 14:40:38",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakoten-account.co.ip.teadsdr.ml",
+        "count": "89",
+        "first_seen": "2022-05-28 08:41:23",
+        "last_seen": "2022-07-20 14:40:38",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakoten-account.co.ip.teadsdr.ml",
+        "count": "1",
+        "first_seen": "2022-05-28 12:08:21",
+        "last_seen": "2022-05-28 12:08:21",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakoten-account.co.ip.teadsdr.ml",
+        "count": "1",
+        "first_seen": "2022-05-28 12:08:21",
+        "last_seen": "2022-05-28 12:08:21",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakoten-account.co.ip.teadsdr.ml",
+        "count": "59",
+        "first_seen": "2022-06-05 08:15:49",
+        "last_seen": "2022-09-18 15:38:19",
+        "ip_address": "2606:4700:3034::6815:ab8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rakoten-account.co.ip.teadsdr.ml",
+        "count": "59",
+        "first_seen": "2022-06-05 08:15:49",
+        "last_seen": "2022-09-18 15:38:19",
+        "ip_address": "2606:4700:3036::ac43:bec9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rakoten-account.co.ip.teadsdr.ml",
+        "count": "1",
+        "first_seen": "2022-05-28 12:08:21",
+        "last_seen": "2022-05-28 12:08:21",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rakoten-account.co.ip.teadsdr.ml",
+        "count": "1",
+        "first_seen": "2022-05-28 12:08:21",
+        "last_seen": "2022-05-28 12:08:21",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

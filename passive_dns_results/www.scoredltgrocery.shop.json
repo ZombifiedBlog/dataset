@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.scoredltgrocery.shop",
+        "count": "690",
+        "first_seen": "2023-03-21 10:01:44",
+        "last_seen": "2023-03-28 04:54:59",
+        "ip_address": "104.21.28.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.scoredltgrocery.shop",
+        "count": "690",
+        "first_seen": "2023-03-21 10:01:44",
+        "last_seen": "2023-03-28 04:54:59",
+        "ip_address": "172.67.144.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.scoredltgrocery.shop",
+        "count": "845",
+        "first_seen": "2023-03-03 09:57:07",
+        "last_seen": "2023-03-21 01:06:07",
+        "ip_address": "107.175.233.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.scoredltgrocery.shop",
+        "count": "129",
+        "first_seen": "2023-03-21 10:01:50",
+        "last_seen": "2023-03-28 07:25:31",
+        "ip_address": "2606:4700:3036::ac43:903c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.scoredltgrocery.shop",
+        "count": "129",
+        "first_seen": "2023-03-21 10:01:50",
+        "last_seen": "2023-03-28 07:25:31",
+        "ip_address": "2606:4700:3037::6815:1c2e",
+        "type": "IPv6"
+    }
+]

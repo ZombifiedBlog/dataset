@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "ar.virtualsalessuite.be",
+        "count": "3019",
+        "first_seen": "2021-08-13 01:11:30",
+        "last_seen": "2024-01-18 13:51:52",
+        "ip_address": "176.62.172.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ar.virtualsalessuite.be",
+        "count": "1236",
+        "first_seen": "2021-08-13 01:11:30",
+        "last_seen": "2023-07-12 21:51:01",
+        "ip_address": "2a00:1c98:1000:1054::a453:1f0d",
+        "type": "IPv6"
+    }
+]

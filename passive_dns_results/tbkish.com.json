@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "tbkish.com",
+        "count": "18",
+        "first_seen": "2020-04-11 18:31:28",
+        "last_seen": "2020-06-02 20:08:37",
+        "ip_address": "69.162.96.188",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tbkish.com",
+        "count": "63",
+        "first_seen": "2023-12-15 23:43:39",
+        "last_seen": "2024-01-17 11:56:52",
+        "ip_address": "151.80.239.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tbkish.com",
+        "count": "624",
+        "first_seen": "2020-06-18 16:50:17",
+        "last_seen": "2023-02-20 02:25:05",
+        "ip_address": "195.201.55.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tbkish.com",
+        "count": "513",
+        "first_seen": "2023-02-20 15:42:58",
+        "last_seen": "2023-09-20 14:34:12",
+        "ip_address": "212.129.31.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tbkish.com",
+        "count": "87",
+        "first_seen": "2023-09-26 15:30:17",
+        "last_seen": "2023-12-12 10:25:07",
+        "ip_address": "212.129.48.121",
+        "type": "IPv4"
+    }
+]

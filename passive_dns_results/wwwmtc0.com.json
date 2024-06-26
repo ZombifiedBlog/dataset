@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "wwwmtc0.com",
+        "count": "885",
+        "first_seen": "2022-01-14 23:39:32",
+        "last_seen": "2022-02-08 05:22:40",
+        "ip_address": "23.94.218.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wwwmtc0.com",
+        "count": "4",
+        "first_seen": "2019-07-31 18:50:39",
+        "last_seen": "2019-08-05 20:05:20",
+        "ip_address": "50.63.202.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wwwmtc0.com",
+        "count": "3",
+        "first_seen": "2019-07-13 08:42:12",
+        "last_seen": "2019-08-16 04:38:16",
+        "ip_address": "50.63.202.79",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wwwmtc0.com",
+        "count": "2",
+        "first_seen": "2019-08-07 22:10:11",
+        "last_seen": "2019-08-07 22:10:11",
+        "ip_address": "50.63.202.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wwwmtc0.com",
+        "count": "17",
+        "first_seen": "2021-06-02 14:45:11",
+        "last_seen": "2021-09-10 23:33:10",
+        "ip_address": "154.84.125.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wwwmtc0.com",
+        "count": "579",
+        "first_seen": "2022-03-18 14:54:06",
+        "last_seen": "2023-03-06 19:23:27",
+        "ip_address": "154.205.137.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wwwmtc0.com",
+        "count": "15",
+        "first_seen": "2021-11-18 00:50:36",
+        "last_seen": "2022-01-05 06:15:10",
+        "ip_address": "154.220.216.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wwwmtc0.com",
+        "count": "12",
+        "first_seen": "2021-09-30 22:19:27",
+        "last_seen": "2021-11-16 10:03:13",
+        "ip_address": "154.220.216.131",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wwwmtc0.com",
+        "count": "7",
+        "first_seen": "2021-03-06 13:35:51",
+        "last_seen": "2021-05-18 02:08:34",
+        "ip_address": "156.255.239.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wwwmtc0.com",
+        "count": "3",
+        "first_seen": "2019-07-16 23:25:15",
+        "last_seen": "2019-08-04 09:37:08",
+        "ip_address": "184.168.221.89",
+        "type": "IPv4"
+    }
+]

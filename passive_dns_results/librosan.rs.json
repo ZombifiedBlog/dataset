@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "librosan.rs",
+        "count": "2230",
+        "first_seen": "2014-07-26 15:06:46",
+        "last_seen": "2019-10-16 08:55:17",
+        "ip_address": "46.22.145.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "librosan.rs",
+        "count": "8",
+        "first_seen": "2020-10-20 12:14:35",
+        "last_seen": "2020-10-21 20:24:34",
+        "ip_address": "104.31.72.235",
+        "type": "IPv4"
+    },
+    {
+        "domain": "librosan.rs",
+        "count": "8",
+        "first_seen": "2020-10-20 12:14:35",
+        "last_seen": "2020-10-21 20:24:34",
+        "ip_address": "104.31.73.235",
+        "type": "IPv4"
+    },
+    {
+        "domain": "librosan.rs",
+        "count": "8",
+        "first_seen": "2020-10-20 12:14:35",
+        "last_seen": "2020-10-21 20:24:34",
+        "ip_address": "172.67.163.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "librosan.rs",
+        "count": "4",
+        "first_seen": "2022-10-24 10:37:43",
+        "last_seen": "2022-10-27 20:06:15",
+        "ip_address": "185.102.77.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "librosan.rs",
+        "count": "1509",
+        "first_seen": "2022-10-28 09:36:26",
+        "last_seen": "2024-01-18 13:05:40",
+        "ip_address": "185.102.77.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "librosan.rs",
+        "count": "1641",
+        "first_seen": "2021-06-23 07:45:55",
+        "last_seen": "2022-10-22 06:06:23",
+        "ip_address": "217.182.153.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "librosan.rs",
+        "count": "1671",
+        "first_seen": "2019-10-17 20:00:59",
+        "last_seen": "2021-06-23 05:54:33",
+        "ip_address": "217.182.153.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "librosan.rs",
+        "count": "2",
+        "first_seen": "2020-10-20 12:14:29",
+        "last_seen": "2020-10-20 12:14:29",
+        "ip_address": "2606:4700:3030::ac43:a321",
+        "type": "IPv6"
+    },
+    {
+        "domain": "librosan.rs",
+        "count": "2",
+        "first_seen": "2020-10-20 12:14:29",
+        "last_seen": "2020-10-20 12:14:29",
+        "ip_address": "2606:4700:3033::681f:48eb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "librosan.rs",
+        "count": "2",
+        "first_seen": "2020-10-20 12:14:29",
+        "last_seen": "2020-10-20 12:14:29",
+        "ip_address": "2606:4700:3036::681f:49eb",
+        "type": "IPv6"
+    }
+]

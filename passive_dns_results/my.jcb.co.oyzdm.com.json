@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "my.jcb.co.oyzdm.com",
+        "count": "23",
+        "first_seen": "2023-03-18 03:13:25",
+        "last_seen": "2023-09-06 00:36:12",
+        "ip_address": "35.189.186.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.oyzdm.com",
+        "count": "13",
+        "first_seen": "2023-09-21 08:16:01",
+        "last_seen": "2023-10-19 10:29:17",
+        "ip_address": "38.207.88.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.oyzdm.com",
+        "count": "150",
+        "first_seen": "2020-12-29 16:15:34",
+        "last_seen": "2020-12-29 21:28:52",
+        "ip_address": "134.73.5.171",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.oyzdm.com",
+        "count": "71",
+        "first_seen": "2020-12-29 21:34:02",
+        "last_seen": "2020-12-30 00:38:09",
+        "ip_address": "134.73.5.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.oyzdm.com",
+        "count": "10",
+        "first_seen": "2023-11-16 15:20:28",
+        "last_seen": "2024-01-08 10:31:33",
+        "ip_address": "154.82.36.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.oyzdm.com",
+        "count": "9",
+        "first_seen": "2020-12-30 08:48:45",
+        "last_seen": "2021-01-09 11:38:55",
+        "ip_address": "157.52.230.165",
+        "type": "IPv4"
+    }
+]

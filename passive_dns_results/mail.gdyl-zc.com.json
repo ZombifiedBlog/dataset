@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "mail.gdyL-zc.com",
+        "count": "1044",
+        "first_seen": "2020-06-09 09:19:54",
+        "last_seen": "2020-08-20 20:42:24",
+        "ip_address": "104.18.60.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.gdyL-zc.com",
+        "count": "1044",
+        "first_seen": "2020-06-09 09:19:54",
+        "last_seen": "2020-08-20 20:42:24",
+        "ip_address": "104.18.61.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.gdyL-zc.com",
+        "count": "1044",
+        "first_seen": "2020-06-09 09:19:54",
+        "last_seen": "2020-08-20 20:42:24",
+        "ip_address": "172.67.174.139",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.gdyL-zc.com",
+        "count": "376",
+        "first_seen": "2020-06-09 09:19:54",
+        "last_seen": "2020-08-18 02:39:49",
+        "ip_address": "2606:4700:3033::6812:3cc2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.gdyL-zc.com",
+        "count": "376",
+        "first_seen": "2020-06-09 09:19:54",
+        "last_seen": "2020-08-18 02:39:49",
+        "ip_address": "2606:4700:3036::6812:3dc2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.gdyL-zc.com",
+        "count": "376",
+        "first_seen": "2020-06-09 09:19:54",
+        "last_seen": "2020-08-18 02:39:49",
+        "ip_address": "2606:4700:3037::ac43:ae8b",
+        "type": "IPv6"
+    }
+]

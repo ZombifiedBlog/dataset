@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.ncopywholesalen.com",
+        "count": "13098",
+        "first_seen": "2020-06-04 14:07:47",
+        "last_seen": "2020-10-18 21:47:40",
+        "ip_address": "104.31.66.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ncopywholesalen.com",
+        "count": "13098",
+        "first_seen": "2020-06-04 14:07:47",
+        "last_seen": "2020-10-18 21:47:40",
+        "ip_address": "104.31.67.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ncopywholesalen.com",
+        "count": "13098",
+        "first_seen": "2020-06-04 14:07:47",
+        "last_seen": "2020-10-18 21:47:40",
+        "ip_address": "172.67.185.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ncopywholesalen.com",
+        "count": "5578",
+        "first_seen": "2020-06-04 07:50:12",
+        "last_seen": "2020-10-18 21:45:01",
+        "ip_address": "2606:4700:3030::681f:42a2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ncopywholesalen.com",
+        "count": "5578",
+        "first_seen": "2020-06-04 07:50:12",
+        "last_seen": "2020-10-18 21:45:01",
+        "ip_address": "2606:4700:3035::ac43:b942",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ncopywholesalen.com",
+        "count": "5578",
+        "first_seen": "2020-06-04 07:50:12",
+        "last_seen": "2020-10-18 21:45:01",
+        "ip_address": "2606:4700:3036::681f:43a2",
+        "type": "IPv6"
+    }
+]

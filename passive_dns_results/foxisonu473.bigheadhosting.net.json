@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "foxisonu473.bigheadhosting.net",
+        "count": "4",
+        "first_seen": "2019-04-11 21:59:26",
+        "last_seen": "2019-06-07 21:04:08",
+        "ip_address": "46.166.184.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "foxisonu473.bigheadhosting.net",
+        "count": "4",
+        "first_seen": "2019-04-11 21:59:26",
+        "last_seen": "2019-06-07 21:04:08",
+        "ip_address": "185.206.180.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "foxisonu473.bigheadhosting.net",
+        "count": "11",
+        "first_seen": "2018-01-15 11:47:21",
+        "last_seen": "2018-11-09 08:52:43",
+        "ip_address": "66.219.202.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "foxisonu473.bigheadhosting.net",
+        "count": "4",
+        "first_seen": "2019-04-11 21:59:26",
+        "last_seen": "2019-06-07 21:04:08",
+        "ip_address": "2a00:1768:2001:63::46:104",
+        "type": "IPv6"
+    },
+    {
+        "domain": "foxisonu473.bigheadhosting.net",
+        "count": "4",
+        "first_seen": "2019-04-11 21:59:26",
+        "last_seen": "2019-06-07 21:04:08",
+        "ip_address": "2a0b:1640:1:1:1:1:d38:c44d",
+        "type": "IPv6"
+    }
+]

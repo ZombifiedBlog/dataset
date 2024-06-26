@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "grafishop.com.ar",
+        "count": "1",
+        "first_seen": "2013-12-10 04:45:31",
+        "last_seen": "2013-12-10 04:45:31",
+        "ip_address": "72.21.91.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grafishop.com.ar",
+        "count": "2",
+        "first_seen": "2019-06-06 17:44:37",
+        "last_seen": "2019-06-06 17:44:37",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grafishop.com.ar",
+        "count": "495",
+        "first_seen": "2023-02-23 02:28:23",
+        "last_seen": "2024-01-12 10:15:49",
+        "ip_address": "200.58.110.154",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grafishop.com.ar",
+        "count": "8829",
+        "first_seen": "2019-04-10 06:29:16",
+        "last_seen": "2023-02-22 01:36:21",
+        "ip_address": "200.80.43.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grafishop.com.ar",
+        "count": "1",
+        "first_seen": "2010-08-17 00:10:01",
+        "last_seen": "2010-08-17 00:10:01",
+        "ip_address": "216.108.239.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grafishop.com.ar",
+        "count": "37",
+        "first_seen": "2023-03-13 23:12:19",
+        "last_seen": "2024-01-11 21:19:45",
+        "ip_address": "2800:6c0:2::14",
+        "type": "IPv6"
+    }
+]

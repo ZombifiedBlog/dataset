@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "p.tl",
+        "count": "25348",
+        "first_seen": "2017-04-20 03:27:29",
+        "last_seen": "2017-11-14 07:27:38",
+        "ip_address": "113.33.39.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "p.tl",
+        "count": "89023",
+        "first_seen": "2017-11-14 07:53:58",
+        "last_seen": "2020-02-14 07:24:31",
+        "ip_address": "122.208.114.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "p.tl",
+        "count": "518202",
+        "first_seen": "2010-06-24 07:59:52",
+        "last_seen": "2011-03-07 11:37:00",
+        "ip_address": "124.37.191.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "p.tl",
+        "count": "8580921",
+        "first_seen": "2011-07-13 09:30:39",
+        "last_seen": "2017-04-20 03:22:54",
+        "ip_address": "125.100.44.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "p.tl",
+        "count": "370759",
+        "first_seen": "2011-03-07 11:37:53",
+        "last_seen": "2011-07-13 09:30:07",
+        "ip_address": "125.100.44.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "p.tl",
+        "count": "22208",
+        "first_seen": "2020-02-14 08:09:44",
+        "last_seen": "2024-01-18 09:23:07",
+        "ip_address": "210.140.131.227",
+        "type": "IPv4"
+    },
+    {
+        "domain": "p.tl",
+        "count": "22208",
+        "first_seen": "2020-02-14 08:09:44",
+        "last_seen": "2024-01-18 09:23:07",
+        "ip_address": "210.140.131.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "p.tl",
+        "count": "22208",
+        "first_seen": "2020-02-14 08:09:44",
+        "last_seen": "2024-01-18 09:23:07",
+        "ip_address": "210.140.131.229",
+        "type": "IPv4"
+    }
+]

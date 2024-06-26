@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "catalog.princess.nl",
+        "count": "5",
+        "first_seen": "2018-04-18 20:54:51",
+        "last_seen": "2018-04-19 04:04:27",
+        "ip_address": "37.128.147.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "catalog.princess.nl",
+        "count": "942",
+        "first_seen": "2019-04-15 15:53:30",
+        "last_seen": "2024-01-14 17:49:52",
+        "ip_address": "52.166.251.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "catalog.princess.nl",
+        "count": "17",
+        "first_seen": "2018-04-12 00:31:02",
+        "last_seen": "2018-04-13 03:02:30",
+        "ip_address": "80.84.231.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "catalog.princess.nl",
+        "count": "4",
+        "first_seen": "2018-04-20 00:59:59",
+        "last_seen": "2018-04-24 10:39:40",
+        "ip_address": "91.184.19.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "catalog.princess.nl",
+        "count": "1284",
+        "first_seen": "2013-11-07 00:52:32",
+        "last_seen": "2018-12-05 00:52:28",
+        "ip_address": "91.184.27.206",
+        "type": "IPv4"
+    }
+]

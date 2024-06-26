@@ -1,0 +1,146 @@
+[
+    {
+        "domain": "rakuten0.com",
+        "count": "610",
+        "first_seen": "2019-06-26 15:43:25",
+        "last_seen": "2020-06-22 07:40:40",
+        "ip_address": "103.242.7.252",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten0.com",
+        "count": "425",
+        "first_seen": "2022-08-15 15:21:23",
+        "last_seen": "2022-09-29 00:36:15",
+        "ip_address": "104.21.15.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten0.com",
+        "count": "425",
+        "first_seen": "2022-08-15 15:21:23",
+        "last_seen": "2022-09-29 00:36:15",
+        "ip_address": "172.67.162.47",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten0.com",
+        "count": "105",
+        "first_seen": "2022-08-03 10:26:45",
+        "last_seen": "2022-08-12 18:50:30",
+        "ip_address": "154.208.11.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten0.com",
+        "count": "1",
+        "first_seen": "2022-08-15 15:22:58",
+        "last_seen": "2022-08-15 15:22:58",
+        "ip_address": "188.114.96.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten0.com",
+        "count": "1",
+        "first_seen": "2022-08-15 15:22:58",
+        "last_seen": "2022-08-15 15:22:58",
+        "ip_address": "188.114.97.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten0.com",
+        "count": "14",
+        "first_seen": "2022-09-06 10:07:16",
+        "last_seen": "2022-09-06 10:14:03",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten0.com",
+        "count": "14",
+        "first_seen": "2022-09-06 10:07:16",
+        "last_seen": "2022-09-06 10:14:03",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten0.com",
+        "count": "1",
+        "first_seen": "2022-08-28 00:29:36",
+        "last_seen": "2022-08-28 00:29:36",
+        "ip_address": "188.114.96.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten0.com",
+        "count": "1",
+        "first_seen": "2022-08-28 00:29:36",
+        "last_seen": "2022-08-28 00:29:36",
+        "ip_address": "188.114.97.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten0.com",
+        "count": "21",
+        "first_seen": "2020-06-29 20:59:37",
+        "last_seen": "2020-08-04 00:38:08",
+        "ip_address": "209.99.64.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten0.com",
+        "count": "6",
+        "first_seen": "2020-07-15 12:03:48",
+        "last_seen": "2020-08-02 00:47:50",
+        "ip_address": "209.99.64.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten0.com",
+        "count": "394",
+        "first_seen": "2022-08-15 23:37:43",
+        "last_seen": "2022-09-29 00:36:15",
+        "ip_address": "2606:4700:3030::6815:f6b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rakuten0.com",
+        "count": "394",
+        "first_seen": "2022-08-15 23:37:43",
+        "last_seen": "2022-09-29 00:36:15",
+        "ip_address": "2606:4700:3033::ac43:a22f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rakuten0.com",
+        "count": "1",
+        "first_seen": "2022-08-15 15:22:59",
+        "last_seen": "2022-08-15 15:22:59",
+        "ip_address": "2a06:98c1:3120::1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rakuten0.com",
+        "count": "1",
+        "first_seen": "2022-08-15 15:22:59",
+        "last_seen": "2022-08-15 15:22:59",
+        "ip_address": "2a06:98c1:3121::1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rakuten0.com",
+        "count": "1",
+        "first_seen": "2022-08-28 00:29:37",
+        "last_seen": "2022-08-28 00:29:37",
+        "ip_address": "2a06:98c1:3120::d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rakuten0.com",
+        "count": "1",
+        "first_seen": "2022-08-28 00:29:37",
+        "last_seen": "2022-08-28 00:29:37",
+        "ip_address": "2a06:98c1:3121::d",
+        "type": "IPv6"
+    }
+]

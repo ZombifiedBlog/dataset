@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "resetting-accounts-recovery-support-amazn.com",
+        "count": "630",
+        "first_seen": "2019-09-09 06:52:55",
+        "last_seen": "2020-09-04 20:49:11",
+        "ip_address": "5.200.53.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "resetting-accounts-recovery-support-amazn.com",
+        "count": "121",
+        "first_seen": "2020-09-13 00:44:07",
+        "last_seen": "2020-10-14 10:26:56",
+        "ip_address": "194.67.71.106",
+        "type": "IPv4"
+    },
+    {
+        "domain": "resetting-accounts-recovery-support-amazn.com",
+        "count": "2",
+        "first_seen": "2020-10-02 05:11:10",
+        "last_seen": "2020-10-02 05:11:10",
+        "ip_address": "2a00:f940:4::10",
+        "type": "IPv6"
+    }
+]

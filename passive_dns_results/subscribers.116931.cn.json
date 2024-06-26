@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscribers.116931.cn",
+        "count": "142",
+        "first_seen": "2020-12-05 02:11:26",
+        "last_seen": "2020-12-22 22:38:30",
+        "ip_address": "104.24.114.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.116931.cn",
+        "count": "142",
+        "first_seen": "2020-12-05 02:11:26",
+        "last_seen": "2020-12-22 22:38:30",
+        "ip_address": "104.24.115.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.116931.cn",
+        "count": "142",
+        "first_seen": "2020-12-05 02:11:26",
+        "last_seen": "2020-12-22 22:38:30",
+        "ip_address": "172.67.144.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.116931.cn",
+        "count": "70",
+        "first_seen": "2020-12-05 05:17:13",
+        "last_seen": "2020-12-22 22:38:30",
+        "ip_address": "2606:4700:3032::ac43:90cf",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.116931.cn",
+        "count": "70",
+        "first_seen": "2020-12-05 05:17:13",
+        "last_seen": "2020-12-22 22:38:30",
+        "ip_address": "2606:4700:3035::6818:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.116931.cn",
+        "count": "70",
+        "first_seen": "2020-12-05 05:17:13",
+        "last_seen": "2020-12-22 22:38:30",
+        "ip_address": "2606:4700:3037::6818:7365",
+        "type": "IPv6"
+    }
+]

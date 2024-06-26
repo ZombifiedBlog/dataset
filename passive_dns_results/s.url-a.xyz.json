@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "s.url-a.xyz",
+        "count": "1",
+        "first_seen": "2022-04-21 23:08:06",
+        "last_seen": "2022-04-22 02:11:40",
+        "ip_address": "104.21.19.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "s.url-a.xyz",
+        "count": "1",
+        "first_seen": "2022-04-21 23:08:06",
+        "last_seen": "2022-04-22 02:11:40",
+        "ip_address": "172.67.186.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "s.url-a.xyz",
+        "count": "2",
+        "first_seen": "2022-04-21 23:51:58",
+        "last_seen": "2022-04-22 00:23:24",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "s.url-a.xyz",
+        "count": "2",
+        "first_seen": "2022-04-21 23:51:58",
+        "last_seen": "2022-04-22 00:23:24",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "s.url-a.xyz",
+        "count": "2",
+        "first_seen": "2022-04-22 02:57:54",
+        "last_seen": "2022-04-22 03:22:56",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "s.url-a.xyz",
+        "count": "2",
+        "first_seen": "2022-04-22 02:57:54",
+        "last_seen": "2022-04-22 03:22:56",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "s.url-a.xyz",
+        "count": "5",
+        "first_seen": "2022-04-22 03:22:56",
+        "last_seen": "2022-04-22 03:22:56",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "s.url-a.xyz",
+        "count": "5",
+        "first_seen": "2022-04-22 03:22:56",
+        "last_seen": "2022-04-22 03:22:56",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    }
+]

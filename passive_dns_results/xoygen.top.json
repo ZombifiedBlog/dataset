@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "xoygen.top",
+        "count": "98",
+        "first_seen": "2019-01-25 12:26:29",
+        "last_seen": "2019-10-26 11:35:31",
+        "ip_address": "103.80.170.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xoygen.top",
+        "count": "1912",
+        "first_seen": "2019-11-05 14:43:39",
+        "last_seen": "2020-01-20 21:07:21",
+        "ip_address": "104.28.18.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xoygen.top",
+        "count": "1912",
+        "first_seen": "2019-11-05 14:43:39",
+        "last_seen": "2020-01-20 21:07:21",
+        "ip_address": "104.28.19.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xoygen.top",
+        "count": "434",
+        "first_seen": "2019-11-05 12:26:33",
+        "last_seen": "2019-12-26 07:05:47",
+        "ip_address": "2606:4700:30::681c:1275",
+        "type": "IPv6"
+    },
+    {
+        "domain": "xoygen.top",
+        "count": "434",
+        "first_seen": "2019-11-05 12:26:33",
+        "last_seen": "2019-12-26 07:05:47",
+        "ip_address": "2606:4700:30::681c:1375",
+        "type": "IPv6"
+    },
+    {
+        "domain": "xoygen.top",
+        "count": "2",
+        "first_seen": "2020-01-15 22:51:54",
+        "last_seen": "2020-01-15 22:51:54",
+        "ip_address": "2606:4700:3030::681c:1375",
+        "type": "IPv6"
+    },
+    {
+        "domain": "xoygen.top",
+        "count": "2",
+        "first_seen": "2020-01-15 22:51:54",
+        "last_seen": "2020-01-15 22:51:54",
+        "ip_address": "2606:4700:3031::681c:1275",
+        "type": "IPv6"
+    },
+    {
+        "domain": "xoygen.top",
+        "count": "2",
+        "first_seen": "2020-01-19 18:50:22",
+        "last_seen": "2020-01-19 18:50:22",
+        "ip_address": "2606:4700:3035::681c:1275",
+        "type": "IPv6"
+    },
+    {
+        "domain": "xoygen.top",
+        "count": "2",
+        "first_seen": "2020-01-19 18:50:22",
+        "last_seen": "2020-01-19 18:50:22",
+        "ip_address": "2606:4700:3037::681c:1375",
+        "type": "IPv6"
+    }
+]

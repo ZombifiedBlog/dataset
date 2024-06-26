@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.cachincom.com",
+        "count": "5",
+        "first_seen": "2015-08-10 02:05:10",
+        "last_seen": "2015-08-26 15:24:13",
+        "ip_address": "23.253.164.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cachincom.com",
+        "count": "5",
+        "first_seen": "2015-08-10 02:05:10",
+        "last_seen": "2015-08-26 15:24:13",
+        "ip_address": "192.64.147.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cachincom.com",
+        "count": "256",
+        "first_seen": "2015-10-27 23:51:54",
+        "last_seen": "2016-10-04 21:24:09",
+        "ip_address": "72.52.4.91",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cachincom.com",
+        "count": "364",
+        "first_seen": "2016-10-10 02:54:20",
+        "last_seen": "2021-11-24 07:59:41",
+        "ip_address": "157.7.188.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cachincom.com",
+        "count": "190",
+        "first_seen": "2021-12-08 12:57:43",
+        "last_seen": "2024-01-07 08:49:52",
+        "ip_address": "157.7.189.243",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cachincom.com",
+        "count": "44",
+        "first_seen": "2015-08-10 02:05:10",
+        "last_seen": "2015-09-07 00:31:14",
+        "ip_address": "23.253.164.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cachincom.com",
+        "count": "44",
+        "first_seen": "2015-08-10 02:05:10",
+        "last_seen": "2015-09-07 00:31:14",
+        "ip_address": "192.64.147.141",
+        "type": "IPv4"
+    }
+]

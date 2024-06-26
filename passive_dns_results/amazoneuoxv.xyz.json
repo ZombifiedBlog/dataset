@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazoneuoxv.xyz",
+        "count": "3",
+        "first_seen": "2021-09-03 08:22:39",
+        "last_seen": "2021-09-10 18:48:03",
+        "ip_address": "72.52.179.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazoneuoxv.xyz",
+        "count": "10",
+        "first_seen": "2020-09-05 21:12:10",
+        "last_seen": "2020-09-06 16:49:16",
+        "ip_address": "173.82.57.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazoneuoxv.xyz",
+        "count": "10",
+        "first_seen": "2020-09-04 09:20:10",
+        "last_seen": "2020-09-05 15:45:13",
+        "ip_address": "173.82.151.214",
+        "type": "IPv4"
+    }
+]

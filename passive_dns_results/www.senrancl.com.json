@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "www.senrancl.com",
+        "count": "8",
+        "first_seen": "2022-11-12 09:10:11",
+        "last_seen": "2022-11-16 15:20:22",
+        "ip_address": "23.19.164.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.senrancl.com",
+        "count": "34",
+        "first_seen": "2022-11-20 04:51:03",
+        "last_seen": "2023-05-25 22:24:30",
+        "ip_address": "23.110.220.245",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.senrancl.com",
+        "count": "16",
+        "first_seen": "2022-08-26 06:37:19",
+        "last_seen": "2022-10-03 10:44:50",
+        "ip_address": "142.91.164.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.senrancl.com",
+        "count": "37",
+        "first_seen": "2023-11-26 13:54:05",
+        "last_seen": "2024-01-14 00:28:01",
+        "ip_address": "156.237.131.241",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.senrancl.com",
+        "count": "58",
+        "first_seen": "2023-08-16 09:33:06",
+        "last_seen": "2023-09-16 10:50:50",
+        "ip_address": "164.88.86.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.senrancl.com",
+        "count": "3",
+        "first_seen": "2023-09-24 20:37:02",
+        "last_seen": "2023-10-04 13:22:03",
+        "ip_address": "164.88.86.206",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.senrancl.com",
+        "count": "61",
+        "first_seen": "2023-10-10 14:51:30",
+        "last_seen": "2023-10-12 20:35:40",
+        "ip_address": "164.88.87.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.senrancl.com",
+        "count": "31",
+        "first_seen": "2023-10-27 13:39:11",
+        "last_seen": "2023-11-22 14:15:36",
+        "ip_address": "168.76.254.134",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.senrancl.com",
+        "count": "785",
+        "first_seen": "2022-05-07 11:33:25",
+        "last_seen": "2022-05-26 23:50:49",
+        "ip_address": "192.210.147.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.senrancl.com",
+        "count": "8",
+        "first_seen": "2022-06-06 11:27:50",
+        "last_seen": "2023-06-20 06:11:53",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.senrancl.com",
+        "count": "11",
+        "first_seen": "2022-05-28 07:49:23",
+        "last_seen": "2023-06-24 07:13:18",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

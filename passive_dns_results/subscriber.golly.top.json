@@ -1,0 +1,154 @@
+[
+    {
+        "domain": "subscriber.golly.top",
+        "count": "2",
+        "first_seen": "2023-11-23 07:02:43",
+        "last_seen": "2023-11-23 07:02:43",
+        "ip_address": "49.51.79.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.golly.top",
+        "count": "418",
+        "first_seen": "2023-06-15 12:13:32",
+        "last_seen": "2023-07-26 06:20:30",
+        "ip_address": "104.21.34.178",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.golly.top",
+        "count": "418",
+        "first_seen": "2023-06-15 12:13:32",
+        "last_seen": "2023-07-26 06:20:30",
+        "ip_address": "172.67.163.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.golly.top",
+        "count": "2",
+        "first_seen": "2023-12-07 19:06:45",
+        "last_seen": "2023-12-07 19:06:45",
+        "ip_address": "167.88.180.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.golly.top",
+        "count": "2",
+        "first_seen": "2023-12-16 11:43:26",
+        "last_seen": "2023-12-16 11:43:26",
+        "ip_address": "167.88.180.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.golly.top",
+        "count": "5",
+        "first_seen": "2023-06-27 21:37:15",
+        "last_seen": "2023-06-30 05:55:34",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.golly.top",
+        "count": "5",
+        "first_seen": "2023-06-27 21:37:15",
+        "last_seen": "2023-06-30 05:55:34",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.golly.top",
+        "count": "25",
+        "first_seen": "2023-06-22 08:37:21",
+        "last_seen": "2023-07-11 17:29:39",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.golly.top",
+        "count": "25",
+        "first_seen": "2023-06-22 08:37:21",
+        "last_seen": "2023-07-11 17:29:39",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.golly.top",
+        "count": "2",
+        "first_seen": "2023-06-22 08:37:21",
+        "last_seen": "2023-06-22 08:37:21",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.golly.top",
+        "count": "2",
+        "first_seen": "2023-06-22 08:37:21",
+        "last_seen": "2023-06-22 08:37:21",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.golly.top",
+        "count": "7",
+        "first_seen": "2023-06-17 14:07:58",
+        "last_seen": "2023-06-27 16:13:26",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.golly.top",
+        "count": "7",
+        "first_seen": "2023-06-17 14:07:58",
+        "last_seen": "2023-06-27 16:13:26",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.golly.top",
+        "count": "5",
+        "first_seen": "2023-06-29 00:57:47",
+        "last_seen": "2023-07-06 19:48:46",
+        "ip_address": "2606:4700:3031::6815:22b2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.golly.top",
+        "count": "5",
+        "first_seen": "2023-06-29 00:57:47",
+        "last_seen": "2023-07-06 19:48:46",
+        "ip_address": "2606:4700:3037::ac43:a390",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.golly.top",
+        "count": "7",
+        "first_seen": "2023-06-22 08:37:21",
+        "last_seen": "2023-07-02 07:15:47",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.golly.top",
+        "count": "7",
+        "first_seen": "2023-06-22 08:37:21",
+        "last_seen": "2023-07-02 07:15:47",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.golly.top",
+        "count": "4",
+        "first_seen": "2023-06-17 14:08:00",
+        "last_seen": "2023-06-27 16:13:26",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.golly.top",
+        "count": "4",
+        "first_seen": "2023-06-17 14:08:00",
+        "last_seen": "2023-06-27 16:13:26",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

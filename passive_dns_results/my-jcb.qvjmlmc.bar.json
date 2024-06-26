@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "my-jcb.qvjmlmc.bar",
+        "count": "68",
+        "first_seen": "2021-03-16 15:33:48",
+        "last_seen": "2021-03-17 10:05:16",
+        "ip_address": "103.245.209.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.qvjmlmc.bar",
+        "count": "33",
+        "first_seen": "2021-03-16 06:09:50",
+        "last_seen": "2021-03-16 07:04:45",
+        "ip_address": "104.244.72.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.qvjmlmc.bar",
+        "count": "77",
+        "first_seen": "2021-03-15 14:19:06",
+        "last_seen": "2021-03-15 16:00:15",
+        "ip_address": "209.141.40.171",
+        "type": "IPv4"
+    }
+]

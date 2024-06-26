@@ -1,0 +1,242 @@
+[
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "97",
+        "first_seen": "2022-08-24 17:59:23",
+        "last_seen": "2022-09-28 16:02:28",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "5687",
+        "first_seen": "2022-06-07 18:06:46",
+        "last_seen": "2022-08-23 06:42:57",
+        "ip_address": "104.21.45.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "5687",
+        "first_seen": "2022-06-07 18:06:46",
+        "last_seen": "2022-08-23 06:42:57",
+        "ip_address": "172.67.213.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "1",
+        "first_seen": "2022-06-13 05:08:49",
+        "last_seen": "2022-06-13 05:08:49",
+        "ip_address": "188.114.96.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "1",
+        "first_seen": "2022-06-13 05:08:49",
+        "last_seen": "2022-06-13 05:08:49",
+        "ip_address": "188.114.97.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "66",
+        "first_seen": "2022-06-07 23:08:19",
+        "last_seen": "2022-08-18 06:47:42",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "66",
+        "first_seen": "2022-06-07 23:08:19",
+        "last_seen": "2022-08-18 06:47:42",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "183",
+        "first_seen": "2022-06-08 01:21:14",
+        "last_seen": "2022-08-23 07:54:24",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "183",
+        "first_seen": "2022-06-08 01:21:14",
+        "last_seen": "2022-08-23 07:54:24",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "19",
+        "first_seen": "2022-06-08 02:53:18",
+        "last_seen": "2022-07-09 08:44:09",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "19",
+        "first_seen": "2022-06-08 02:53:18",
+        "last_seen": "2022-07-09 08:44:09",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "2",
+        "first_seen": "2022-08-13 07:59:38",
+        "last_seen": "2022-08-20 00:01:10",
+        "ip_address": "188.114.96.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "2",
+        "first_seen": "2022-08-13 07:59:38",
+        "last_seen": "2022-08-20 00:01:10",
+        "ip_address": "188.114.97.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "25",
+        "first_seen": "2022-06-07 22:44:00",
+        "last_seen": "2022-08-12 05:40:31",
+        "ip_address": "188.114.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "25",
+        "first_seen": "2022-06-07 22:44:00",
+        "last_seen": "2022-08-12 05:40:31",
+        "ip_address": "188.114.97.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "9",
+        "first_seen": "2022-06-08 04:19:05",
+        "last_seen": "2022-08-20 06:27:29",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "9",
+        "first_seen": "2022-06-08 04:19:05",
+        "last_seen": "2022-08-20 06:27:29",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "110",
+        "first_seen": "2022-11-11 18:43:56",
+        "last_seen": "2023-11-05 02:07:34",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "12",
+        "first_seen": "2023-11-17 22:43:26",
+        "last_seen": "2023-12-12 06:10:40",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "2",
+        "first_seen": "2023-04-18 22:28:16",
+        "last_seen": "2023-04-18 22:28:36",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "100",
+        "first_seen": "2022-06-13 06:09:02",
+        "last_seen": "2022-08-22 00:46:21",
+        "ip_address": "2606:4700:3030::ac43:d5df",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "100",
+        "first_seen": "2022-06-13 06:09:02",
+        "last_seen": "2022-08-22 00:46:21",
+        "ip_address": "2606:4700:3033::6815:2d76",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "47",
+        "first_seen": "2022-06-08 03:49:05",
+        "last_seen": "2022-08-22 10:34:41",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "47",
+        "first_seen": "2022-06-08 03:49:05",
+        "last_seen": "2022-08-22 10:34:41",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "7",
+        "first_seen": "2022-06-08 08:18:33",
+        "last_seen": "2022-07-19 16:46:34",
+        "ip_address": "2a06:98c1:3120::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "7",
+        "first_seen": "2022-06-08 08:18:33",
+        "last_seen": "2022-07-19 16:46:34",
+        "ip_address": "2a06:98c1:3121::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "6",
+        "first_seen": "2022-06-19 14:25:50",
+        "last_seen": "2022-08-21 10:25:15",
+        "ip_address": "2a06:98c1:3120::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "6",
+        "first_seen": "2022-06-19 14:25:50",
+        "last_seen": "2022-08-21 10:25:15",
+        "ip_address": "2a06:98c1:3121::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "2",
+        "first_seen": "2022-08-12 00:08:25",
+        "last_seen": "2022-08-19 17:16:59",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.livecloudweb.com",
+        "count": "2",
+        "first_seen": "2022-08-12 00:08:25",
+        "last_seen": "2022-08-19 17:16:59",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

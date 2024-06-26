@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "www.muetterinitiative.com",
+        "count": "52",
+        "first_seen": "2021-10-12 13:43:13",
+        "last_seen": "2021-11-19 11:28:18",
+        "ip_address": "91.195.240.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.muetterinitiative.com",
+        "count": "276",
+        "first_seen": "2022-01-21 09:17:18",
+        "last_seen": "2022-11-26 10:21:53",
+        "ip_address": "156.254.52.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.muetterinitiative.com",
+        "count": "2207",
+        "first_seen": "2022-11-29 12:48:31",
+        "last_seen": "2022-12-30 15:22:17",
+        "ip_address": "198.55.122.42",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.muetterinitiative.com",
+        "count": "34",
+        "first_seen": "2015-10-23 02:18:36",
+        "last_seen": "2016-05-28 19:13:11",
+        "ip_address": "212.227.181.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.muetterinitiative.com",
+        "count": "1330",
+        "first_seen": "2018-12-15 00:18:37",
+        "last_seen": "2021-10-11 15:38:23",
+        "ip_address": "217.160.0.64",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.muetterinitiative.com",
+        "count": "2821",
+        "first_seen": "2016-08-03 14:56:28",
+        "last_seen": "2018-12-01 17:23:33",
+        "ip_address": "217.160.122.244",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.muetterinitiative.com",
+        "count": "9",
+        "first_seen": "2015-10-23 02:18:36",
+        "last_seen": "2016-07-09 23:19:12",
+        "ip_address": "2001:8d8:1001:5041:fee:db8:489c:1004",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.muetterinitiative.com",
+        "count": "87",
+        "first_seen": "2016-08-03 14:56:28",
+        "last_seen": "2019-08-22 14:42:34",
+        "ip_address": "2001:8d8:1001:5041:2d94:4a39:1755:400b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.muetterinitiative.com",
+        "count": "638",
+        "first_seen": "2019-10-10 01:10:59",
+        "last_seen": "2021-10-11 13:07:55",
+        "ip_address": "2001:8d8:100f:f000::27b",
+        "type": "IPv6"
+    }
+]

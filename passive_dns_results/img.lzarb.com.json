@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "img.lzarb.com",
+        "count": "7225",
+        "first_seen": "2021-03-06 10:00:15",
+        "last_seen": "2021-07-19 18:45:19",
+        "ip_address": "104.21.46.91",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lzarb.com",
+        "count": "7225",
+        "first_seen": "2021-03-06 10:00:15",
+        "last_seen": "2021-07-19 18:45:19",
+        "ip_address": "172.67.137.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lzarb.com",
+        "count": "3536",
+        "first_seen": "2021-03-06 11:01:28",
+        "last_seen": "2021-07-19 18:45:19",
+        "ip_address": "2606:4700:3030::ac43:8919",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lzarb.com",
+        "count": "3536",
+        "first_seen": "2021-03-06 11:01:28",
+        "last_seen": "2021-07-19 18:45:19",
+        "ip_address": "2606:4700:3035::6815:2e5b",
+        "type": "IPv6"
+    }
+]

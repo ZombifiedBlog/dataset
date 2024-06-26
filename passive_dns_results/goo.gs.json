@@ -1,0 +1,146 @@
+[
+    {
+        "domain": "goo.gs",
+        "count": "4",
+        "first_seen": "2016-10-16 06:42:36",
+        "last_seen": "2016-11-03 02:42:36",
+        "ip_address": "5.135.158.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "goo.gs",
+        "count": "35443",
+        "first_seen": "2022-03-14 21:37:47",
+        "last_seen": "2023-03-15 13:43:52",
+        "ip_address": "43.154.133.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "goo.gs",
+        "count": "124",
+        "first_seen": "2019-06-28 08:52:03",
+        "last_seen": "2019-11-20 02:00:38",
+        "ip_address": "47.240.6.245",
+        "type": "IPv4"
+    },
+    {
+        "domain": "goo.gs",
+        "count": "8",
+        "first_seen": "2015-12-17 18:48:18",
+        "last_seen": "2015-12-22 19:23:58",
+        "ip_address": "54.72.9.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "goo.gs",
+        "count": "17",
+        "first_seen": "2011-03-20 16:31:02",
+        "last_seen": "2012-07-05 20:57:25",
+        "ip_address": "74.125.113.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "goo.gs",
+        "count": "15",
+        "first_seen": "2013-02-15 09:21:09",
+        "last_seen": "2013-05-09 05:19:31",
+        "ip_address": "82.98.86.169",
+        "type": "IPv4"
+    },
+    {
+        "domain": "goo.gs",
+        "count": "3707",
+        "first_seen": "2018-10-12 06:18:27",
+        "last_seen": "2019-04-10 16:15:02",
+        "ip_address": "103.93.76.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "goo.gs",
+        "count": "4070",
+        "first_seen": "2018-01-30 13:22:30",
+        "last_seen": "2018-10-12 04:38:53",
+        "ip_address": "116.255.198.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "goo.gs",
+        "count": "2480",
+        "first_seen": "2016-10-18 17:11:02",
+        "last_seen": "2018-01-30 06:53:09",
+        "ip_address": "122.114.86.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "goo.gs",
+        "count": "2915",
+        "first_seen": "2021-01-30 10:47:41",
+        "last_seen": "2022-03-14 04:16:16",
+        "ip_address": "129.226.182.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "goo.gs",
+        "count": "8320",
+        "first_seen": "2019-11-21 15:08:41",
+        "last_seen": "2021-02-01 14:37:54",
+        "ip_address": "129.226.188.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "goo.gs",
+        "count": "62",
+        "first_seen": "2019-04-27 16:51:43",
+        "last_seen": "2019-06-23 22:28:50",
+        "ip_address": "149.129.68.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "goo.gs",
+        "count": "441",
+        "first_seen": "2015-03-27 21:02:45",
+        "last_seen": "2016-03-16 13:22:24",
+        "ip_address": "185.53.178.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "goo.gs",
+        "count": "3",
+        "first_seen": "2015-03-24 18:51:00",
+        "last_seen": "2015-03-26 18:26:01",
+        "ip_address": "185.53.178.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "goo.gs",
+        "count": "629",
+        "first_seen": "2023-04-19 08:43:31",
+        "last_seen": "2023-07-13 12:42:20",
+        "ip_address": "199.59.243.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "goo.gs",
+        "count": "599",
+        "first_seen": "2023-07-14 03:27:31",
+        "last_seen": "2023-10-04 05:40:24",
+        "ip_address": "199.59.243.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "goo.gs",
+        "count": "609",
+        "first_seen": "2023-10-05 02:09:35",
+        "last_seen": "2024-01-18 13:51:45",
+        "ip_address": "199.59.243.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "goo.gs",
+        "count": "92",
+        "first_seen": "2014-01-02 22:15:42",
+        "last_seen": "2014-11-28 19:03:23",
+        "ip_address": "199.188.203.62",
+        "type": "IPv4"
+    }
+]

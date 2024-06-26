@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazonssacx.xyz",
+        "count": "5",
+        "first_seen": "2020-09-11 21:18:52",
+        "last_seen": "2020-09-12 02:24:44",
+        "ip_address": "23.94.139.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonssacx.xyz",
+        "count": "3",
+        "first_seen": "2021-09-17 20:46:58",
+        "last_seen": "2021-09-18 06:03:40",
+        "ip_address": "99.81.40.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonssacx.xyz",
+        "count": "13",
+        "first_seen": "2020-09-10 02:18:11",
+        "last_seen": "2020-09-11 09:19:37",
+        "ip_address": "173.82.240.83",
+        "type": "IPv4"
+    }
+]

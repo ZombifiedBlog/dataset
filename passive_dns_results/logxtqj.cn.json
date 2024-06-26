@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "logxtqj.cn",
+        "count": "2382",
+        "first_seen": "2023-02-12 11:04:24",
+        "last_seen": "2023-03-14 12:59:33",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "logxtqj.cn",
+        "count": "3383",
+        "first_seen": "2022-12-16 13:16:50",
+        "last_seen": "2023-02-12 11:02:54",
+        "ip_address": "104.21.45.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "logxtqj.cn",
+        "count": "3383",
+        "first_seen": "2022-12-16 13:16:50",
+        "last_seen": "2023-02-12 11:02:54",
+        "ip_address": "172.67.218.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "logxtqj.cn",
+        "count": "79",
+        "first_seen": "2022-12-18 04:52:23",
+        "last_seen": "2023-02-12 09:10:36",
+        "ip_address": "2606:4700:3032::ac43:dabe",
+        "type": "IPv6"
+    },
+    {
+        "domain": "logxtqj.cn",
+        "count": "79",
+        "first_seen": "2022-12-18 04:52:23",
+        "last_seen": "2023-02-12 09:10:36",
+        "ip_address": "2606:4700:3033::6815:2dcd",
+        "type": "IPv6"
+    }
+]

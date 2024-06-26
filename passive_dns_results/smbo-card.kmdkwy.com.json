@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "smbo-card.kmdkwy.com",
+        "count": "91",
+        "first_seen": "2022-03-14 12:28:41",
+        "last_seen": "2022-10-07 08:58:53",
+        "ip_address": "0.0.0.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbo-card.kmdkwy.com",
+        "count": "949",
+        "first_seen": "2021-08-14 17:24:43",
+        "last_seen": "2021-09-30 04:37:16",
+        "ip_address": "43.255.29.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbo-card.kmdkwy.com",
+        "count": "4",
+        "first_seen": "2021-10-22 16:08:30",
+        "last_seen": "2021-12-22 11:38:27",
+        "ip_address": "168.76.116.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbo-card.kmdkwy.com",
+        "count": "1",
+        "first_seen": "2022-08-07 01:08:23",
+        "last_seen": "2022-08-07 01:08:23",
+        "ip_address": "::",
+        "type": "IPv6"
+    }
+]

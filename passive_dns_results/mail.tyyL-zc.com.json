@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "mail.tyyL-zc.com",
+        "count": "716",
+        "first_seen": "2020-06-09 08:52:59",
+        "last_seen": "2020-06-24 01:53:13",
+        "ip_address": "104.24.120.41",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.tyyL-zc.com",
+        "count": "716",
+        "first_seen": "2020-06-09 08:52:59",
+        "last_seen": "2020-06-24 01:53:13",
+        "ip_address": "104.24.121.41",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.tyyL-zc.com",
+        "count": "716",
+        "first_seen": "2020-06-09 08:52:59",
+        "last_seen": "2020-06-24 01:53:13",
+        "ip_address": "172.67.214.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.tyyL-zc.com",
+        "count": "487",
+        "first_seen": "2020-06-24 05:26:34",
+        "last_seen": "2020-08-13 23:40:40",
+        "ip_address": "104.28.2.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.tyyL-zc.com",
+        "count": "487",
+        "first_seen": "2020-06-24 05:26:34",
+        "last_seen": "2020-08-13 23:40:40",
+        "ip_address": "104.28.3.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.tyyL-zc.com",
+        "count": "487",
+        "first_seen": "2020-06-24 05:26:34",
+        "last_seen": "2020-08-13 23:40:40",
+        "ip_address": "172.67.157.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.tyyL-zc.com",
+        "count": "232",
+        "first_seen": "2020-06-24 06:13:35",
+        "last_seen": "2020-08-13 23:40:40",
+        "ip_address": "2606:4700:3031::681c:2fd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.tyyL-zc.com",
+        "count": "232",
+        "first_seen": "2020-06-24 06:13:35",
+        "last_seen": "2020-08-13 23:40:40",
+        "ip_address": "2606:4700:3033::ac43:9dbd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.tyyL-zc.com",
+        "count": "232",
+        "first_seen": "2020-06-24 06:13:35",
+        "last_seen": "2020-08-13 23:40:40",
+        "ip_address": "2606:4700:3034::681c:3fd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.tyyL-zc.com",
+        "count": "246",
+        "first_seen": "2020-06-09 16:49:15",
+        "last_seen": "2020-06-23 23:07:31",
+        "ip_address": "2606:4700:3032::6818:7829",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.tyyL-zc.com",
+        "count": "246",
+        "first_seen": "2020-06-09 16:49:15",
+        "last_seen": "2020-06-23 23:07:31",
+        "ip_address": "2606:4700:3032::ac43:d695",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.tyyL-zc.com",
+        "count": "246",
+        "first_seen": "2020-06-09 16:49:15",
+        "last_seen": "2020-06-23 23:07:31",
+        "ip_address": "2606:4700:3033::6818:7929",
+        "type": "IPv6"
+    }
+]

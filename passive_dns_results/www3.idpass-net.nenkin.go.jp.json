@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www3.idpass-net.nenkin.go.jp",
+        "count": "5034",
+        "first_seen": "2011-02-26 06:09:29",
+        "last_seen": "2015-01-23 22:29:33",
+        "ip_address": "202.232.127.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www3.idpass-net.nenkin.go.jp",
+        "count": "16548",
+        "first_seen": "2015-01-24 02:28:33",
+        "last_seen": "2019-12-28 23:27:08",
+        "ip_address": "210.175.8.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www3.idpass-net.nenkin.go.jp",
+        "count": "27089",
+        "first_seen": "2019-12-29 02:08:51",
+        "last_seen": "2024-01-17 23:15:06",
+        "ip_address": "210.237.183.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www3.idpass-net.nenkin.go.jp",
+        "count": "156",
+        "first_seen": "2010-07-31 07:33:39",
+        "last_seen": "2011-02-24 10:55:56",
+        "ip_address": "211.8.124.71",
+        "type": "IPv4"
+    }
+]

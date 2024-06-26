@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.csarmento.uminho.pt",
+        "count": "416",
+        "first_seen": "2019-05-29 02:25:27",
+        "last_seen": "2024-01-01 04:06:17",
+        "ip_address": "193.136.21.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.csarmento.uminho.pt",
+        "count": "247",
+        "first_seen": "2010-08-19 08:58:13",
+        "last_seen": "2019-05-19 08:02:06",
+        "ip_address": "193.136.21.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.csarmento.uminho.pt",
+        "count": "21866",
+        "first_seen": "2019-05-20 21:24:12",
+        "last_seen": "2024-01-17 22:57:28",
+        "ip_address": "193.136.21.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.csarmento.uminho.pt",
+        "count": "49589",
+        "first_seen": "2010-07-02 22:39:31",
+        "last_seen": "2019-05-20 04:30:09",
+        "ip_address": "193.136.21.123",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "news.vogel.de",
+        "count": "49",
+        "first_seen": "2017-10-13 11:02:25",
+        "last_seen": "2020-06-19 13:23:05",
+        "ip_address": "78.137.98.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "news.vogel.de",
+        "count": "52687",
+        "first_seen": "2022-03-14 13:06:00",
+        "last_seen": "2024-01-18 04:25:56",
+        "ip_address": "81.173.115.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "news.vogel.de",
+        "count": "1313238",
+        "first_seen": "2010-06-24 06:15:20",
+        "last_seen": "2022-03-14 13:51:38",
+        "ip_address": "193.158.250.108",
+        "type": "IPv4"
+    }
+]

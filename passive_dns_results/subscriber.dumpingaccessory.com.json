@@ -1,0 +1,162 @@
+[
+    {
+        "domain": "subscriber.dumpingaccessory.com",
+        "count": "424",
+        "first_seen": "2022-11-29 20:06:04",
+        "last_seen": "2023-01-02 11:11:45",
+        "ip_address": "104.21.81.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.dumpingaccessory.com",
+        "count": "424",
+        "first_seen": "2022-11-29 20:06:04",
+        "last_seen": "2023-01-02 11:11:45",
+        "ip_address": "172.67.192.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.dumpingaccessory.com",
+        "count": "4",
+        "first_seen": "2022-12-03 12:41:53",
+        "last_seen": "2022-12-31 15:37:34",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.dumpingaccessory.com",
+        "count": "4",
+        "first_seen": "2022-12-03 12:41:53",
+        "last_seen": "2022-12-31 15:37:34",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.dumpingaccessory.com",
+        "count": "10",
+        "first_seen": "2022-12-04 09:28:17",
+        "last_seen": "2022-12-30 16:47:51",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.dumpingaccessory.com",
+        "count": "10",
+        "first_seen": "2022-12-04 09:28:17",
+        "last_seen": "2022-12-30 16:47:51",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.dumpingaccessory.com",
+        "count": "2",
+        "first_seen": "2022-12-25 07:53:33",
+        "last_seen": "2022-12-25 09:17:58",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.dumpingaccessory.com",
+        "count": "2",
+        "first_seen": "2022-12-25 07:53:33",
+        "last_seen": "2022-12-25 09:17:58",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.dumpingaccessory.com",
+        "count": "1",
+        "first_seen": "2022-11-30 15:52:05",
+        "last_seen": "2022-11-30 15:52:05",
+        "ip_address": "188.114.96.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.dumpingaccessory.com",
+        "count": "1",
+        "first_seen": "2022-11-30 15:52:05",
+        "last_seen": "2022-11-30 15:52:05",
+        "ip_address": "188.114.97.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.dumpingaccessory.com",
+        "count": "2",
+        "first_seen": "2022-12-24 02:10:09",
+        "last_seen": "2022-12-25 20:38:31",
+        "ip_address": "188.114.96.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.dumpingaccessory.com",
+        "count": "2",
+        "first_seen": "2022-12-24 02:10:09",
+        "last_seen": "2022-12-25 20:38:31",
+        "ip_address": "188.114.97.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.dumpingaccessory.com",
+        "count": "3",
+        "first_seen": "2022-12-25 06:32:33",
+        "last_seen": "2022-12-26 08:21:47",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.dumpingaccessory.com",
+        "count": "3",
+        "first_seen": "2022-12-25 06:32:33",
+        "last_seen": "2022-12-26 08:21:47",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.dumpingaccessory.com",
+        "count": "27",
+        "first_seen": "2022-11-30 16:56:55",
+        "last_seen": "2023-01-02 11:11:44",
+        "ip_address": "2606:4700:3035::6815:51f0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.dumpingaccessory.com",
+        "count": "27",
+        "first_seen": "2022-11-30 16:56:55",
+        "last_seen": "2023-01-02 11:11:44",
+        "ip_address": "2606:4700:3035::ac43:c01d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.dumpingaccessory.com",
+        "count": "11",
+        "first_seen": "2022-12-23 09:05:14",
+        "last_seen": "2023-01-09 11:18:59",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.dumpingaccessory.com",
+        "count": "11",
+        "first_seen": "2022-12-23 09:05:14",
+        "last_seen": "2023-01-09 11:18:59",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.dumpingaccessory.com",
+        "count": "1",
+        "first_seen": "2022-12-25 06:32:34",
+        "last_seen": "2022-12-25 06:32:34",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.dumpingaccessory.com",
+        "count": "1",
+        "first_seen": "2022-12-25 06:32:34",
+        "last_seen": "2022-12-25 06:32:34",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

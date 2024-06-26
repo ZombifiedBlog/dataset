@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "www.tekku.ru",
+        "count": "36448",
+        "first_seen": "2014-08-11 06:18:39",
+        "last_seen": "2016-02-11 18:15:49",
+        "ip_address": "5.45.126.171",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tekku.ru",
+        "count": "10107",
+        "first_seen": "2022-05-23 20:38:17",
+        "last_seen": "2024-01-18 13:37:11",
+        "ip_address": "37.143.9.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tekku.ru",
+        "count": "4798",
+        "first_seen": "2021-07-17 06:28:12",
+        "last_seen": "2022-05-23 15:46:45",
+        "ip_address": "46.254.20.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tekku.ru",
+        "count": "7410",
+        "first_seen": "2011-03-27 19:00:30",
+        "last_seen": "2014-08-12 05:12:49",
+        "ip_address": "78.47.231.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tekku.ru",
+        "count": "3",
+        "first_seen": "2014-01-09 16:48:49",
+        "last_seen": "2014-01-09 16:48:51",
+        "ip_address": "109.70.26.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tekku.ru",
+        "count": "3",
+        "first_seen": "2014-01-09 16:48:49",
+        "last_seen": "2014-01-09 16:48:51",
+        "ip_address": "194.85.61.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tekku.ru",
+        "count": "3186",
+        "first_seen": "2015-01-12 05:41:28",
+        "last_seen": "2016-02-09 11:05:17",
+        "ip_address": "109.70.26.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tekku.ru",
+        "count": "3186",
+        "first_seen": "2015-01-12 05:41:28",
+        "last_seen": "2016-02-09 11:05:17",
+        "ip_address": "194.85.61.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tekku.ru",
+        "count": "86665",
+        "first_seen": "2016-02-11 19:14:27",
+        "last_seen": "2021-07-17 01:14:12",
+        "ip_address": "159.253.22.138",
+        "type": "IPv4"
+    }
+]

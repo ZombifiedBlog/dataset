@@ -1,0 +1,1298 @@
+[
+    {
+        "domain": "itau.com",
+        "count": "23",
+        "first_seen": "2020-04-28 08:10:25",
+        "last_seen": "2020-07-11 05:15:27",
+        "ip_address": "2.17.141.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "5",
+        "first_seen": "2020-07-08 12:16:41",
+        "last_seen": "2020-10-21 15:34:23",
+        "ip_address": "2.17.149.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-03-09 16:05:28",
+        "last_seen": "2020-03-09 16:05:28",
+        "ip_address": "2.17.153.179",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-09-02 09:05:03",
+        "last_seen": "2020-09-02 09:05:03",
+        "ip_address": "2.17.158.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "35",
+        "first_seen": "2021-03-23 15:31:03",
+        "last_seen": "2021-03-24 14:42:42",
+        "ip_address": "2.18.1.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-09-03 15:53:40",
+        "last_seen": "2020-09-03 15:53:40",
+        "ip_address": "2.18.13.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "3033",
+        "first_seen": "2019-11-07 14:26:05",
+        "last_seen": "2021-03-28 10:01:03",
+        "ip_address": "2.18.33.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "1",
+        "first_seen": "2021-03-19 17:32:12",
+        "last_seen": "2021-03-19 17:32:12",
+        "ip_address": "2.19.245.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "9",
+        "first_seen": "2019-10-21 22:34:58",
+        "last_seen": "2020-08-19 19:05:37",
+        "ip_address": "2.20.74.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-09-02 14:13:11",
+        "last_seen": "2020-09-02 14:13:11",
+        "ip_address": "2.21.40.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "346",
+        "first_seen": "2020-01-20 14:06:05",
+        "last_seen": "2020-12-02 18:01:09",
+        "ip_address": "2.21.109.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-08-13 13:10:40",
+        "last_seen": "2020-08-13 13:10:40",
+        "ip_address": "2.22.36.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "4446",
+        "first_seen": "2019-10-24 18:38:08",
+        "last_seen": "2021-03-22 08:12:24",
+        "ip_address": "2.22.41.161",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "31",
+        "first_seen": "2020-09-02 09:05:03",
+        "last_seen": "2021-03-27 18:03:31",
+        "ip_address": "2.23.145.54",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "4",
+        "first_seen": "2019-11-07 23:03:11",
+        "last_seen": "2019-11-08 16:00:03",
+        "ip_address": "23.0.210.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "9",
+        "first_seen": "2020-12-20 03:29:18",
+        "last_seen": "2021-03-19 12:21:09",
+        "ip_address": "23.3.65.47",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "7",
+        "first_seen": "2020-05-10 22:30:21",
+        "last_seen": "2020-08-16 20:14:55",
+        "ip_address": "23.3.85.47",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "5",
+        "first_seen": "2021-02-26 22:01:11",
+        "last_seen": "2021-03-23 08:38:22",
+        "ip_address": "23.3.109.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "41",
+        "first_seen": "2019-10-19 15:16:36",
+        "last_seen": "2020-09-20 03:35:05",
+        "ip_address": "23.10.255.132",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "13",
+        "first_seen": "2020-05-30 18:21:59",
+        "last_seen": "2021-02-05 19:55:51",
+        "ip_address": "23.11.193.79",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-05-27 20:37:31",
+        "last_seen": "2020-05-27 20:37:31",
+        "ip_address": "23.11.217.79",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "5",
+        "first_seen": "2020-10-21 13:14:44",
+        "last_seen": "2021-03-12 02:24:43",
+        "ip_address": "23.11.241.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "21",
+        "first_seen": "2019-10-22 20:19:52",
+        "last_seen": "2019-12-06 13:24:32",
+        "ip_address": "23.32.83.238",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "3",
+        "first_seen": "2020-07-10 20:12:18",
+        "last_seen": "2020-07-10 20:12:18",
+        "ip_address": "23.33.51.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "6",
+        "first_seen": "2020-06-15 14:01:54",
+        "last_seen": "2020-07-03 00:19:32",
+        "ip_address": "23.33.241.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-12-27 03:05:01",
+        "last_seen": "2020-12-27 03:40:53",
+        "ip_address": "23.35.177.139",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "18",
+        "first_seen": "2020-02-21 05:37:54",
+        "last_seen": "2021-01-14 18:41:16",
+        "ip_address": "23.35.181.139",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "22",
+        "first_seen": "2020-04-16 17:55:41",
+        "last_seen": "2021-02-09 23:17:28",
+        "ip_address": "23.35.206.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "6",
+        "first_seen": "2021-03-21 14:51:40",
+        "last_seen": "2021-03-24 14:35:37",
+        "ip_address": "23.35.212.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "12",
+        "first_seen": "2021-01-21 11:06:31",
+        "last_seen": "2021-03-21 19:43:32",
+        "ip_address": "23.35.228.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "7",
+        "first_seen": "2020-10-25 20:06:10",
+        "last_seen": "2020-12-23 18:48:26",
+        "ip_address": "23.36.33.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "4",
+        "first_seen": "2019-10-23 08:59:36",
+        "last_seen": "2019-11-19 23:58:35",
+        "ip_address": "23.36.53.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "5",
+        "first_seen": "2019-10-25 23:56:18",
+        "last_seen": "2020-01-30 23:28:04",
+        "ip_address": "23.36.68.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-08-06 23:30:26",
+        "last_seen": "2020-08-06 23:30:26",
+        "ip_address": "23.36.194.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-03-09 15:57:32",
+        "last_seen": "2020-03-09 15:57:32",
+        "ip_address": "23.37.171.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "1",
+        "first_seen": "2020-12-28 02:59:33",
+        "last_seen": "2020-12-28 02:59:33",
+        "ip_address": "23.38.84.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "4",
+        "first_seen": "2020-03-09 16:09:34",
+        "last_seen": "2020-03-16 14:20:16",
+        "ip_address": "23.39.76.237",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "1",
+        "first_seen": "2021-01-16 20:36:18",
+        "last_seen": "2021-01-16 20:36:18",
+        "ip_address": "23.40.69.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "1",
+        "first_seen": "2021-01-24 08:58:56",
+        "last_seen": "2021-01-24 08:58:56",
+        "ip_address": "23.40.73.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "9812",
+        "first_seen": "2021-02-02 02:06:52",
+        "last_seen": "2021-03-28 16:17:53",
+        "ip_address": "23.40.125.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "5",
+        "first_seen": "2020-10-28 03:13:00",
+        "last_seen": "2020-12-27 00:12:44",
+        "ip_address": "23.40.185.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "36",
+        "first_seen": "2021-02-09 23:51:24",
+        "last_seen": "2021-03-23 13:12:36",
+        "ip_address": "23.42.154.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "120",
+        "first_seen": "2021-03-05 15:35:41",
+        "last_seen": "2021-03-27 18:34:46",
+        "ip_address": "23.43.108.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-10-28 02:14:19",
+        "last_seen": "2020-10-28 02:14:19",
+        "ip_address": "23.44.160.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "61",
+        "first_seen": "2020-10-15 03:10:52",
+        "last_seen": "2021-03-25 00:39:06",
+        "ip_address": "23.45.157.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "3",
+        "first_seen": "2019-12-13 22:15:51",
+        "last_seen": "2019-12-13 22:22:08",
+        "ip_address": "23.46.54.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "16",
+        "first_seen": "2019-11-20 16:02:33",
+        "last_seen": "2019-12-16 16:25:06",
+        "ip_address": "23.46.59.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-09-04 15:50:46",
+        "last_seen": "2020-09-04 15:50:46",
+        "ip_address": "23.46.123.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-11-06 20:31:00",
+        "last_seen": "2020-11-06 20:31:00",
+        "ip_address": "23.46.189.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2019-11-12 17:38:23",
+        "last_seen": "2019-11-12 17:38:23",
+        "ip_address": "23.46.237.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "9",
+        "first_seen": "2020-01-01 20:31:29",
+        "last_seen": "2020-07-09 15:15:16",
+        "ip_address": "23.50.129.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "24",
+        "first_seen": "2021-03-23 16:11:26",
+        "last_seen": "2021-03-25 18:05:01",
+        "ip_address": "23.50.187.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "23",
+        "first_seen": "2019-10-18 15:02:02",
+        "last_seen": "2021-01-16 18:42:48",
+        "ip_address": "23.50.230.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-09-02 15:22:46",
+        "last_seen": "2020-09-02 15:22:46",
+        "ip_address": "23.52.27.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-07-09 18:17:01",
+        "last_seen": "2020-07-09 18:17:01",
+        "ip_address": "23.52.162.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "3",
+        "first_seen": "2020-08-29 06:00:30",
+        "last_seen": "2021-01-11 22:14:51",
+        "ip_address": "23.53.253.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "101",
+        "first_seen": "2020-10-09 19:36:17",
+        "last_seen": "2021-03-24 21:27:52",
+        "ip_address": "23.54.114.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "1",
+        "first_seen": "2020-12-07 22:53:26",
+        "last_seen": "2020-12-07 22:53:26",
+        "ip_address": "23.54.201.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "10",
+        "first_seen": "2020-08-13 17:57:12",
+        "last_seen": "2021-01-02 03:27:31",
+        "ip_address": "23.55.249.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "17",
+        "first_seen": "2020-10-21 14:02:15",
+        "last_seen": "2021-02-11 23:22:14",
+        "ip_address": "23.56.9.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-11-13 04:20:30",
+        "last_seen": "2020-11-13 04:20:30",
+        "ip_address": "23.57.38.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2021-03-23 15:31:23",
+        "last_seen": "2021-03-23 15:33:05",
+        "ip_address": "23.57.87.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "53",
+        "first_seen": "2021-01-16 00:01:20",
+        "last_seen": "2021-03-24 21:23:39",
+        "ip_address": "23.58.218.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "71",
+        "first_seen": "2019-12-04 00:14:24",
+        "last_seen": "2020-12-14 20:11:11",
+        "ip_address": "23.60.156.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2019-11-28 15:04:24",
+        "last_seen": "2019-11-28 15:04:24",
+        "ip_address": "23.62.17.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-04-03 12:30:35",
+        "last_seen": "2020-04-03 12:30:35",
+        "ip_address": "23.63.31.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "4",
+        "first_seen": "2021-01-03 20:32:29",
+        "last_seen": "2021-03-23 15:34:45",
+        "ip_address": "23.63.139.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "10",
+        "first_seen": "2020-10-27 23:39:22",
+        "last_seen": "2021-02-12 17:33:37",
+        "ip_address": "23.66.49.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "15",
+        "first_seen": "2020-12-31 15:54:23",
+        "last_seen": "2021-02-15 13:13:00",
+        "ip_address": "23.66.53.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2021-03-21 17:11:17",
+        "last_seen": "2021-03-21 17:12:06",
+        "ip_address": "23.73.141.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-05-26 01:30:49",
+        "last_seen": "2020-05-26 01:30:49",
+        "ip_address": "23.193.25.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "1",
+        "first_seen": "2021-02-27 03:27:01",
+        "last_seen": "2021-02-27 03:27:01",
+        "ip_address": "23.193.41.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2019-12-04 18:19:00",
+        "last_seen": "2019-12-04 18:19:00",
+        "ip_address": "23.194.109.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "3",
+        "first_seen": "2020-10-21 14:48:33",
+        "last_seen": "2021-01-16 20:36:18",
+        "ip_address": "23.195.65.151",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2021-02-09 23:32:28",
+        "last_seen": "2021-02-09 23:32:44",
+        "ip_address": "23.197.105.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "9",
+        "first_seen": "2020-10-07 15:12:11",
+        "last_seen": "2021-02-11 22:21:37",
+        "ip_address": "23.197.181.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "31",
+        "first_seen": "2020-03-17 10:41:59",
+        "last_seen": "2021-01-16 02:43:28",
+        "ip_address": "23.199.249.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "1",
+        "first_seen": "2020-12-30 12:57:09",
+        "last_seen": "2020-12-30 12:57:09",
+        "ip_address": "23.200.61.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-11-14 01:54:18",
+        "last_seen": "2020-11-14 01:54:18",
+        "ip_address": "23.200.149.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "4",
+        "first_seen": "2020-11-14 03:10:03",
+        "last_seen": "2020-11-14 03:10:06",
+        "ip_address": "23.200.225.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "7",
+        "first_seen": "2020-12-27 05:26:23",
+        "last_seen": "2021-02-11 03:17:57",
+        "ip_address": "23.203.16.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "6",
+        "first_seen": "2019-12-05 06:50:15",
+        "last_seen": "2020-02-04 06:17:20",
+        "ip_address": "23.203.41.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "26",
+        "first_seen": "2020-06-12 23:32:09",
+        "last_seen": "2021-01-22 23:52:10",
+        "ip_address": "23.204.250.130",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "15",
+        "first_seen": "2019-10-30 15:04:27",
+        "last_seen": "2019-12-04 21:47:46",
+        "ip_address": "23.204.255.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2021-03-23 13:12:28",
+        "last_seen": "2021-03-23 13:12:34",
+        "ip_address": "23.205.48.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "131",
+        "first_seen": "2019-10-20 19:21:54",
+        "last_seen": "2021-01-30 05:08:46",
+        "ip_address": "23.208.65.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "14",
+        "first_seen": "2020-06-29 03:49:47",
+        "last_seen": "2021-03-24 21:14:57",
+        "ip_address": "23.208.133.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "3",
+        "first_seen": "2021-02-09 22:01:06",
+        "last_seen": "2021-02-20 22:55:36",
+        "ip_address": "23.208.144.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2021-02-10 01:09:07",
+        "last_seen": "2021-03-05 13:00:24",
+        "ip_address": "23.209.70.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-05-19 08:15:51",
+        "last_seen": "2020-05-19 08:15:51",
+        "ip_address": "23.209.176.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-10-10 05:39:19",
+        "last_seen": "2020-10-10 05:39:19",
+        "ip_address": "23.210.36.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "3",
+        "first_seen": "2020-03-09 13:26:04",
+        "last_seen": "2020-03-09 13:30:54",
+        "ip_address": "23.210.44.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "6",
+        "first_seen": "2020-04-30 02:42:34",
+        "last_seen": "2020-10-22 02:56:06",
+        "ip_address": "23.210.205.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "3",
+        "first_seen": "2020-12-11 21:43:01",
+        "last_seen": "2021-01-07 09:06:46",
+        "ip_address": "23.211.2.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "1",
+        "first_seen": "2021-02-10 01:02:49",
+        "last_seen": "2021-02-10 01:02:49",
+        "ip_address": "23.211.9.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "4",
+        "first_seen": "2021-02-11 02:04:41",
+        "last_seen": "2021-02-22 03:30:05",
+        "ip_address": "23.212.145.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "6",
+        "first_seen": "2020-12-13 12:35:44",
+        "last_seen": "2021-01-27 20:13:48",
+        "ip_address": "23.213.169.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "5",
+        "first_seen": "2020-07-23 16:29:22",
+        "last_seen": "2020-08-03 14:59:07",
+        "ip_address": "23.214.109.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "3863",
+        "first_seen": "2019-10-18 13:45:04",
+        "last_seen": "2020-07-10 23:38:26",
+        "ip_address": "23.214.193.178",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "4",
+        "first_seen": "2020-11-23 22:57:09",
+        "last_seen": "2020-12-22 20:25:26",
+        "ip_address": "23.215.184.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "4",
+        "first_seen": "2019-10-22 18:39:01",
+        "last_seen": "2020-10-10 01:49:13",
+        "ip_address": "23.217.197.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "23",
+        "first_seen": "2019-10-31 19:25:43",
+        "last_seen": "2019-12-13 22:22:09",
+        "ip_address": "23.218.74.97",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "1",
+        "first_seen": "2020-12-27 17:09:44",
+        "last_seen": "2020-12-27 17:09:44",
+        "ip_address": "23.219.218.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-11-14 03:10:51",
+        "last_seen": "2020-11-14 03:10:51",
+        "ip_address": "23.221.49.139",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "25",
+        "first_seen": "2020-10-12 23:05:22",
+        "last_seen": "2020-10-28 14:24:55",
+        "ip_address": "23.221.203.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "5",
+        "first_seen": "2020-12-27 16:45:58",
+        "last_seen": "2021-01-17 15:47:33",
+        "ip_address": "23.223.37.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-12-14 19:49:44",
+        "last_seen": "2020-12-30 10:28:51",
+        "ip_address": "69.192.160.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "14",
+        "first_seen": "2020-06-08 14:11:45",
+        "last_seen": "2021-02-21 04:24:01",
+        "ip_address": "72.246.85.79",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "10",
+        "first_seen": "2020-04-06 20:30:34",
+        "last_seen": "2021-01-17 06:33:04",
+        "ip_address": "72.247.97.73",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "271",
+        "first_seen": "2020-02-13 11:48:16",
+        "last_seen": "2020-09-01 14:52:19",
+        "ip_address": "72.247.173.139",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "17",
+        "first_seen": "2021-03-23 13:13:47",
+        "last_seen": "2021-03-23 16:11:09",
+        "ip_address": "72.247.225.106",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-10-21 13:16:11",
+        "last_seen": "2020-10-21 13:16:11",
+        "ip_address": "88.221.17.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-09-08 15:28:51",
+        "last_seen": "2020-09-08 15:28:51",
+        "ip_address": "88.221.73.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "8",
+        "first_seen": "2021-03-21 17:11:53",
+        "last_seen": "2021-03-25 13:44:49",
+        "ip_address": "92.122.21.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "44",
+        "first_seen": "2020-12-11 02:08:56",
+        "last_seen": "2021-03-16 13:37:26",
+        "ip_address": "92.122.79.142",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "29",
+        "first_seen": "2021-03-20 17:01:17",
+        "last_seen": "2021-03-22 11:41:15",
+        "ip_address": "92.122.223.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2021-02-03 00:20:27",
+        "last_seen": "2021-03-11 11:49:28",
+        "ip_address": "92.123.41.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "10",
+        "first_seen": "2020-10-16 06:51:03",
+        "last_seen": "2020-12-27 11:15:40",
+        "ip_address": "92.123.57.47",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "13",
+        "first_seen": "2021-01-04 04:36:05",
+        "last_seen": "2021-02-26 20:29:14",
+        "ip_address": "92.123.229.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-10-12 11:49:09",
+        "last_seen": "2020-10-12 11:49:09",
+        "ip_address": "95.100.197.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2019-12-12 15:24:51",
+        "last_seen": "2019-12-12 15:24:51",
+        "ip_address": "95.100.245.238",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "1",
+        "first_seen": "2020-12-28 11:07:38",
+        "last_seen": "2020-12-28 11:07:38",
+        "ip_address": "95.101.105.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "7458",
+        "first_seen": "2020-07-12 02:39:32",
+        "last_seen": "2021-03-28 21:24:26",
+        "ip_address": "95.101.172.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "3",
+        "first_seen": "2020-11-24 17:34:54",
+        "last_seen": "2020-11-24 17:35:46",
+        "ip_address": "96.6.161.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "19",
+        "first_seen": "2020-10-28 00:54:07",
+        "last_seen": "2020-12-14 22:33:51",
+        "ip_address": "96.7.169.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "3",
+        "first_seen": "2021-02-10 19:45:39",
+        "last_seen": "2021-02-10 20:14:59",
+        "ip_address": "96.7.212.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-02-13 21:25:00",
+        "last_seen": "2020-02-13 21:25:00",
+        "ip_address": "96.16.209.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "4",
+        "first_seen": "2020-04-24 01:26:24",
+        "last_seen": "2020-04-24 01:26:24",
+        "ip_address": "96.17.77.47",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "4",
+        "first_seen": "2020-04-09 09:02:57",
+        "last_seen": "2020-04-15 11:39:44",
+        "ip_address": "104.71.133.64",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "1",
+        "first_seen": "2020-01-31 18:29:10",
+        "last_seen": "2020-01-31 18:29:10",
+        "ip_address": "104.72.73.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "4043",
+        "first_seen": "2021-03-19 12:45:56",
+        "last_seen": "2021-03-28 17:08:07",
+        "ip_address": "104.73.92.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "66",
+        "first_seen": "2020-08-23 01:11:11",
+        "last_seen": "2021-03-24 07:09:03",
+        "ip_address": "104.73.169.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "12",
+        "first_seen": "2019-12-02 22:18:54",
+        "last_seen": "2020-09-09 14:54:36",
+        "ip_address": "104.75.51.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2021-03-02 21:58:49",
+        "last_seen": "2021-03-23 12:56:45",
+        "ip_address": "104.76.200.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "30",
+        "first_seen": "2020-10-10 11:31:56",
+        "last_seen": "2021-01-17 19:09:12",
+        "ip_address": "104.78.177.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "4",
+        "first_seen": "2020-12-15 19:41:26",
+        "last_seen": "2021-03-23 11:40:57",
+        "ip_address": "104.79.88.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "29",
+        "first_seen": "2020-03-20 00:04:12",
+        "last_seen": "2021-01-17 16:21:31",
+        "ip_address": "104.85.241.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "11",
+        "first_seen": "2021-03-23 15:33:14",
+        "last_seen": "2021-03-23 15:41:33",
+        "ip_address": "104.85.251.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "149",
+        "first_seen": "2020-10-09 19:30:22",
+        "last_seen": "2021-02-28 15:32:39",
+        "ip_address": "104.87.5.64",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2021-03-19 17:30:53",
+        "last_seen": "2021-03-19 17:31:13",
+        "ip_address": "104.87.222.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "7",
+        "first_seen": "2019-11-11 17:35:19",
+        "last_seen": "2020-10-06 14:44:06",
+        "ip_address": "104.99.233.72",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "33537",
+        "first_seen": "2020-09-13 03:46:38",
+        "last_seen": "2021-03-28 22:57:56",
+        "ip_address": "104.103.65.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-07-14 11:15:04",
+        "last_seen": "2020-07-14 11:15:04",
+        "ip_address": "104.104.131.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "18",
+        "first_seen": "2021-03-23 11:14:36",
+        "last_seen": "2021-03-23 15:37:02",
+        "ip_address": "104.107.161.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "3",
+        "first_seen": "2020-07-01 04:09:12",
+        "last_seen": "2020-07-01 04:09:15",
+        "ip_address": "104.116.97.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "8",
+        "first_seen": "2020-12-28 05:49:10",
+        "last_seen": "2021-03-27 22:23:55",
+        "ip_address": "104.119.109.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "15",
+        "first_seen": "2021-03-23 15:35:20",
+        "last_seen": "2021-03-23 15:40:09",
+        "ip_address": "104.121.79.82",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "3",
+        "first_seen": "2020-02-06 09:55:15",
+        "last_seen": "2020-02-06 09:55:15",
+        "ip_address": "104.121.237.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "526",
+        "first_seen": "2019-11-28 13:14:44",
+        "last_seen": "2020-07-22 04:26:14",
+        "ip_address": "104.122.240.108",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "4",
+        "first_seen": "2019-12-09 19:34:06",
+        "last_seen": "2020-04-23 17:38:12",
+        "ip_address": "104.124.12.166",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "2",
+        "first_seen": "2020-07-14 13:42:54",
+        "last_seen": "2020-07-14 13:42:54",
+        "ip_address": "173.222.114.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "18",
+        "first_seen": "2020-03-04 20:05:04",
+        "last_seen": "2021-01-14 04:05:27",
+        "ip_address": "173.223.23.54",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "14",
+        "first_seen": "2020-10-10 00:44:06",
+        "last_seen": "2021-03-02 21:23:38",
+        "ip_address": "173.223.201.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "8",
+        "first_seen": "2019-10-24 19:15:38",
+        "last_seen": "2020-01-13 20:48:42",
+        "ip_address": "184.24.101.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "22",
+        "first_seen": "2020-03-28 15:06:56",
+        "last_seen": "2020-10-28 01:42:46",
+        "ip_address": "184.27.29.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "1",
+        "first_seen": "2021-02-27 03:03:13",
+        "last_seen": "2021-02-27 03:03:13",
+        "ip_address": "184.50.117.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "180",
+        "first_seen": "2020-09-07 15:30:55",
+        "last_seen": "2021-03-28 18:18:42",
+        "ip_address": "184.51.133.79",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "1",
+        "first_seen": "2020-01-31 19:53:17",
+        "last_seen": "2020-01-31 19:53:17",
+        "ip_address": "184.51.193.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "1104",
+        "first_seen": "2010-06-26 13:26:40",
+        "last_seen": "2011-02-27 04:24:02",
+        "ip_address": "200.196.152.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "93",
+        "first_seen": "2011-02-27 07:54:58",
+        "last_seen": "2011-03-13 03:35:27",
+        "ip_address": "200.196.152.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "93",
+        "first_seen": "2011-02-27 07:54:58",
+        "last_seen": "2011-03-13 03:35:27",
+        "ip_address": "200.196.152.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itau.com",
+        "count": "495895",
+        "first_seen": "2011-03-13 05:59:27",
+        "last_seen": "2024-01-18 09:57:02",
+        "ip_address": "200.196.152.201",
+        "type": "IPv4"
+    }
+]

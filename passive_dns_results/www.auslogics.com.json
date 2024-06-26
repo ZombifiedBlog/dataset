@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.auslogics.com",
+        "count": "35",
+        "first_seen": "2014-11-14 17:10:10",
+        "last_seen": "2014-11-14 17:24:30",
+        "ip_address": "8.5.1.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.auslogics.com",
+        "count": "2",
+        "first_seen": "2014-08-27 12:41:02",
+        "last_seen": "2014-08-27 12:41:02",
+        "ip_address": "66.135.59.166",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.auslogics.com",
+        "count": "4",
+        "first_seen": "2014-08-27 12:39:17",
+        "last_seen": "2014-08-27 12:39:46",
+        "ip_address": "208.43.167.119",
+        "type": "IPv4"
+    }
+]

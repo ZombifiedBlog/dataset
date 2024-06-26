@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.jcb-kjc.com",
+        "count": "15",
+        "first_seen": "2020-11-13 18:03:43",
+        "last_seen": "2020-11-15 01:28:19",
+        "ip_address": "104.27.132.47",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jcb-kjc.com",
+        "count": "15",
+        "first_seen": "2020-11-13 18:03:43",
+        "last_seen": "2020-11-15 01:28:19",
+        "ip_address": "104.27.133.47",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jcb-kjc.com",
+        "count": "15",
+        "first_seen": "2020-11-13 18:03:43",
+        "last_seen": "2020-11-15 01:28:19",
+        "ip_address": "172.67.139.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jcb-kjc.com",
+        "count": "6",
+        "first_seen": "2020-11-13 04:54:58",
+        "last_seen": "2020-11-14 17:43:05",
+        "ip_address": "2606:4700:3031::681b:842f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.jcb-kjc.com",
+        "count": "6",
+        "first_seen": "2020-11-13 04:54:58",
+        "last_seen": "2020-11-14 17:43:05",
+        "ip_address": "2606:4700:3031::ac43:8bec",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.jcb-kjc.com",
+        "count": "6",
+        "first_seen": "2020-11-13 04:54:58",
+        "last_seen": "2020-11-14 17:43:05",
+        "ip_address": "2606:4700:3035::681b:852f",
+        "type": "IPv6"
+    }
+]

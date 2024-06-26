@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "a0f7f7ca2e09544d65680c7c29c2a637.svfcnrs.cn",
+        "count": "9",
+        "first_seen": "2023-07-18 13:15:05",
+        "last_seen": "2023-09-12 15:03:30",
+        "ip_address": "104.21.16.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "a0f7f7ca2e09544d65680c7c29c2a637.svfcnrs.cn",
+        "count": "9",
+        "first_seen": "2023-07-18 13:15:05",
+        "last_seen": "2023-09-12 15:03:30",
+        "ip_address": "172.67.167.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "a0f7f7ca2e09544d65680c7c29c2a637.svfcnrs.cn",
+        "count": "3",
+        "first_seen": "2023-06-19 09:56:40",
+        "last_seen": "2023-07-02 12:31:03",
+        "ip_address": "104.21.69.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "a0f7f7ca2e09544d65680c7c29c2a637.svfcnrs.cn",
+        "count": "3",
+        "first_seen": "2023-06-19 09:56:40",
+        "last_seen": "2023-07-02 12:31:03",
+        "ip_address": "172.67.203.156",
+        "type": "IPv4"
+    },
+    {
+        "domain": "a0f7f7ca2e09544d65680c7c29c2a637.svfcnrs.cn",
+        "count": "4",
+        "first_seen": "2023-09-06 06:23:55",
+        "last_seen": "2023-09-12 15:03:30",
+        "ip_address": "2606:4700:3030::ac43:a73b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "a0f7f7ca2e09544d65680c7c29c2a637.svfcnrs.cn",
+        "count": "4",
+        "first_seen": "2023-09-06 06:23:55",
+        "last_seen": "2023-09-12 15:03:30",
+        "ip_address": "2606:4700:3037::6815:1065",
+        "type": "IPv6"
+    }
+]

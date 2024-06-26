@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "ccnuedur.com",
+        "count": "39",
+        "first_seen": "2023-01-13 22:05:25",
+        "last_seen": "2023-05-06 08:37:40",
+        "ip_address": "16.162.71.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ccnuedur.com",
+        "count": "7",
+        "first_seen": "2022-11-21 04:03:01",
+        "last_seen": "2022-12-18 13:18:57",
+        "ip_address": "16.162.97.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ccnuedur.com",
+        "count": "2",
+        "first_seen": "2022-12-29 13:22:12",
+        "last_seen": "2023-01-05 18:42:26",
+        "ip_address": "156.226.61.41",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ccnuedur.com",
+        "count": "130",
+        "first_seen": "2023-05-08 05:35:43",
+        "last_seen": "2023-05-09 06:43:33",
+        "ip_address": "192.161.176.98",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ccnuedur.com",
+        "count": "144",
+        "first_seen": "2023-11-19 21:03:21",
+        "last_seen": "2023-12-29 12:43:52",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "mail2web.com",
+        "count": "1551371",
+        "first_seen": "2019-06-30 23:45:12",
+        "last_seen": "2024-01-18 13:26:39",
+        "ip_address": "66.113.225.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail2web.com",
+        "count": "58236",
+        "first_seen": "2019-05-13 17:53:05",
+        "last_seen": "2019-06-30 23:45:12",
+        "ip_address": "72.4.155.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail2web.com",
+        "count": "9746529",
+        "first_seen": "2010-06-24 04:03:06",
+        "last_seen": "2019-05-13 17:51:39",
+        "ip_address": "168.144.1.11",
+        "type": "IPv4"
+    }
+]

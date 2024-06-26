@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.s.macteacsd.com",
+        "count": "157",
+        "first_seen": "2021-12-26 21:41:44",
+        "last_seen": "2021-12-28 10:10:34",
+        "ip_address": "172.245.94.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.s.macteacsd.com",
+        "count": "2",
+        "first_seen": "2023-01-15 02:57:59",
+        "last_seen": "2023-01-27 14:17:25",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.s.macteacsd.com",
+        "count": "12",
+        "first_seen": "2022-12-26 21:28:47",
+        "last_seen": "2023-01-27 14:17:25",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

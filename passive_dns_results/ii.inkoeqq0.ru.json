@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "ii.inkoeqq0.ru",
+        "count": "7780",
+        "first_seen": "2023-06-30 23:54:52",
+        "last_seen": "2024-01-18 07:37:33",
+        "ip_address": "104.21.59.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ii.inkoeqq0.ru",
+        "count": "7780",
+        "first_seen": "2023-06-30 23:54:52",
+        "last_seen": "2024-01-18 07:37:33",
+        "ip_address": "172.67.180.238",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ii.inkoeqq0.ru",
+        "count": "3",
+        "first_seen": "2023-07-10 12:41:10",
+        "last_seen": "2023-07-11 23:24:12",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ii.inkoeqq0.ru",
+        "count": "685",
+        "first_seen": "2023-06-30 23:54:53",
+        "last_seen": "2023-12-20 21:49:06",
+        "ip_address": "2606:4700:3034::ac43:b4ee",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ii.inkoeqq0.ru",
+        "count": "685",
+        "first_seen": "2023-06-30 23:54:53",
+        "last_seen": "2023-12-20 21:49:06",
+        "ip_address": "2606:4700:3035::6815:3ba5",
+        "type": "IPv6"
+    }
+]

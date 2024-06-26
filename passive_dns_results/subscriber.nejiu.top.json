@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "subscriber.nejiu.top",
+        "count": "13",
+        "first_seen": "2023-06-04 17:31:05",
+        "last_seen": "2023-06-17 04:49:47",
+        "ip_address": "49.51.77.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.nejiu.top",
+        "count": "9255",
+        "first_seen": "2023-02-02 18:38:46",
+        "last_seen": "2023-06-02 09:24:22",
+        "ip_address": "104.21.16.73",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.nejiu.top",
+        "count": "9255",
+        "first_seen": "2023-02-02 18:38:46",
+        "last_seen": "2023-06-02 09:24:22",
+        "ip_address": "172.67.166.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.nejiu.top",
+        "count": "5",
+        "first_seen": "2023-08-27 10:11:42",
+        "last_seen": "2023-08-30 07:34:14",
+        "ip_address": "123.58.215.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.nejiu.top",
+        "count": "11",
+        "first_seen": "2023-11-28 11:02:35",
+        "last_seen": "2023-12-23 03:01:46",
+        "ip_address": "168.76.123.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.nejiu.top",
+        "count": "5",
+        "first_seen": "2023-11-06 10:48:54",
+        "last_seen": "2023-11-12 15:10:28",
+        "ip_address": "168.76.254.134",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.nejiu.top",
+        "count": "317",
+        "first_seen": "2023-02-02 20:52:58",
+        "last_seen": "2023-06-02 10:59:16",
+        "ip_address": "2606:4700:3033::ac43:a6e6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.nejiu.top",
+        "count": "317",
+        "first_seen": "2023-02-02 20:52:58",
+        "last_seen": "2023-06-02 10:59:16",
+        "ip_address": "2606:4700:3035::6815:1049",
+        "type": "IPv6"
+    }
+]

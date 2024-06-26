@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "portez-vr.com",
+        "count": "44",
+        "first_seen": "2022-03-18 16:38:48",
+        "last_seen": "2022-04-28 16:31:37",
+        "ip_address": "91.195.240.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "portez-vr.com",
+        "count": "2189",
+        "first_seen": "2017-03-20 01:49:24",
+        "last_seen": "2022-03-18 04:50:00",
+        "ip_address": "217.160.0.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "portez-vr.com",
+        "count": "469",
+        "first_seen": "2017-03-20 01:49:24",
+        "last_seen": "2022-03-16 13:57:01",
+        "ip_address": "2001:8d8:100f:f000::2ea",
+        "type": "IPv6"
+    }
+]

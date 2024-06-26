@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "anomin.alzfap.cn",
+        "count": "4",
+        "first_seen": "2022-11-13 23:27:32",
+        "last_seen": "2022-11-27 11:31:33",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anomin.alzfap.cn",
+        "count": "1754",
+        "first_seen": "2022-06-12 18:02:36",
+        "last_seen": "2022-06-18 06:39:08",
+        "ip_address": "149.57.221.245",
+        "type": "IPv4"
+    }
+]

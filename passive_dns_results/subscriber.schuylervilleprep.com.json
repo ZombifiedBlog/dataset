@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "subscriber.schuylervilleprep.com",
+        "count": "3599",
+        "first_seen": "2023-01-06 14:23:57",
+        "last_seen": "2023-01-29 06:13:06",
+        "ip_address": "104.21.77.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.schuylervilleprep.com",
+        "count": "3599",
+        "first_seen": "2023-01-06 14:23:57",
+        "last_seen": "2023-01-29 06:13:06",
+        "ip_address": "172.67.204.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.schuylervilleprep.com",
+        "count": "70",
+        "first_seen": "2023-01-08 14:33:41",
+        "last_seen": "2023-01-28 01:55:18",
+        "ip_address": "2606:4700:3031::6815:4d3e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.schuylervilleprep.com",
+        "count": "70",
+        "first_seen": "2023-01-08 14:33:41",
+        "last_seen": "2023-01-28 01:55:18",
+        "ip_address": "2606:4700:3035::ac43:ccdc",
+        "type": "IPv6"
+    }
+]

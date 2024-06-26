@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "lgokxpvqed.cf",
+        "count": "53",
+        "first_seen": "2022-08-10 05:02:58",
+        "last_seen": "2023-03-22 18:28:02",
+        "ip_address": "195.20.48.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lgokxpvqed.cf",
+        "count": "215",
+        "first_seen": "2022-01-13 11:59:24",
+        "last_seen": "2022-08-03 12:43:26",
+        "ip_address": "104.21.8.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lgokxpvqed.cf",
+        "count": "215",
+        "first_seen": "2022-01-13 11:59:24",
+        "last_seen": "2022-08-03 12:43:26",
+        "ip_address": "172.67.139.171",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lgokxpvqed.cf",
+        "count": "6",
+        "first_seen": "2022-01-14 00:08:04",
+        "last_seen": "2022-07-09 14:23:26",
+        "ip_address": "2606:4700:3034::6815:899",
+        "type": "IPv6"
+    },
+    {
+        "domain": "lgokxpvqed.cf",
+        "count": "6",
+        "first_seen": "2022-01-14 00:08:04",
+        "last_seen": "2022-07-09 14:23:26",
+        "ip_address": "2606:4700:3036::ac43:8bab",
+        "type": "IPv6"
+    }
+]

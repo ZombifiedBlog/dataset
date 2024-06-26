@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "t95836e6.bget.ru",
+        "count": "1",
+        "first_seen": "2022-04-09 06:31:38",
+        "last_seen": "2022-04-09 06:31:38",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "t95836e6.bget.ru",
+        "count": "173",
+        "first_seen": "2017-11-12 05:33:53",
+        "last_seen": "2022-04-04 22:46:52",
+        "ip_address": "185.50.25.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "t95836e6.bget.ru",
+        "count": "3",
+        "first_seen": "2022-04-05 03:10:45",
+        "last_seen": "2022-04-09 06:31:38",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "t95836e6.bget.ru",
+        "count": "725",
+        "first_seen": "2017-09-12 12:46:01",
+        "last_seen": "2022-04-05 01:20:09",
+        "ip_address": "185.50.25.5",
+        "type": "IPv4"
+    }
+]

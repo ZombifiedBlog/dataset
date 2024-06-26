@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.realxfilesonline.com",
+        "count": "1533",
+        "first_seen": "2020-03-02 13:11:11",
+        "last_seen": "2020-05-21 13:11:51",
+        "ip_address": "104.24.108.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.realxfilesonline.com",
+        "count": "1533",
+        "first_seen": "2020-03-02 13:11:11",
+        "last_seen": "2020-05-21 13:11:51",
+        "ip_address": "104.24.109.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.realxfilesonline.com",
+        "count": "654",
+        "first_seen": "2020-03-02 13:11:59",
+        "last_seen": "2020-05-21 00:54:58",
+        "ip_address": "2606:4700:3035::6818:6c31",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.realxfilesonline.com",
+        "count": "654",
+        "first_seen": "2020-03-02 13:11:59",
+        "last_seen": "2020-05-21 00:54:58",
+        "ip_address": "2606:4700:3036::6818:6d31",
+        "type": "IPv6"
+    }
+]

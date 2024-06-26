@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "seconddealer.com",
+        "count": "16",
+        "first_seen": "2023-11-19 08:05:38",
+        "last_seen": "2023-11-28 08:19:03",
+        "ip_address": "15.197.130.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "seconddealer.com",
+        "count": "16",
+        "first_seen": "2022-09-06 04:24:45",
+        "last_seen": "2022-10-12 07:32:32",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "seconddealer.com",
+        "count": "1086",
+        "first_seen": "2017-07-20 23:02:17",
+        "last_seen": "2022-02-11 07:11:38",
+        "ip_address": "35.161.11.99",
+        "type": "IPv4"
+    },
+    {
+        "domain": "seconddealer.com",
+        "count": "69",
+        "first_seen": "2022-11-21 01:01:39",
+        "last_seen": "2023-04-11 01:15:21",
+        "ip_address": "160.121.218.98",
+        "type": "IPv4"
+    },
+    {
+        "domain": "seconddealer.com",
+        "count": "132",
+        "first_seen": "2014-11-03 23:23:13",
+        "last_seen": "2017-07-16 02:46:13",
+        "ip_address": "184.168.221.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "seconddealer.com",
+        "count": "27",
+        "first_seen": "2024-01-10 06:59:53",
+        "last_seen": "2024-01-14 10:27:18",
+        "ip_address": "199.59.243.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "seconddealer.com",
+        "count": "229",
+        "first_seen": "2023-05-19 15:54:23",
+        "last_seen": "2023-05-20 09:15:20",
+        "ip_address": "204.44.92.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "seconddealer.com",
+        "count": "1",
+        "first_seen": "2012-11-16 03:52:13",
+        "last_seen": "2012-11-16 03:52:13",
+        "ip_address": "208.91.197.27",
+        "type": "IPv4"
+    }
+]

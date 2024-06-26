@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "subscriber.elijahwolfmusic.com",
+        "count": "3911",
+        "first_seen": "2023-01-06 14:35:34",
+        "last_seen": "2023-01-31 05:46:56",
+        "ip_address": "104.21.92.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.elijahwolfmusic.com",
+        "count": "3911",
+        "first_seen": "2023-01-06 14:35:34",
+        "last_seen": "2023-01-31 05:46:56",
+        "ip_address": "172.67.186.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.elijahwolfmusic.com",
+        "count": "68",
+        "first_seen": "2023-01-07 19:09:21",
+        "last_seen": "2023-01-30 10:56:28",
+        "ip_address": "2606:4700:3034::6815:5c37",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.elijahwolfmusic.com",
+        "count": "68",
+        "first_seen": "2023-01-07 19:09:21",
+        "last_seen": "2023-01-30 10:56:28",
+        "ip_address": "2606:4700:3035::ac43:bad1",
+        "type": "IPv6"
+    }
+]

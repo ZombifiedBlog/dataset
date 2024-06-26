@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "smcc-cacc.lzfit.com",
+        "count": "32",
+        "first_seen": "2023-07-29 20:11:48",
+        "last_seen": "2023-12-23 21:52:45",
+        "ip_address": "45.43.54.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.lzfit.com",
+        "count": "28",
+        "first_seen": "2020-11-19 06:23:17",
+        "last_seen": "2020-11-19 14:34:17",
+        "ip_address": "104.168.172.55",
+        "type": "IPv4"
+    }
+]

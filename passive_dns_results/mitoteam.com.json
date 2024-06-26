@@ -1,0 +1,386 @@
+[
+    {
+        "domain": "mitoteam.com",
+        "count": "130",
+        "first_seen": "2023-05-19 07:56:53",
+        "last_seen": "2023-06-12 14:49:09",
+        "ip_address": "45.121.147.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "7",
+        "first_seen": "2014-09-28 04:12:45",
+        "last_seen": "2015-10-14 03:42:54",
+        "ip_address": "50.63.202.42",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "42",
+        "first_seen": "2020-02-29 03:12:47",
+        "last_seen": "2022-02-28 10:27:37",
+        "ip_address": "80.251.18.108",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "238",
+        "first_seen": "2020-03-11 14:45:20",
+        "last_seen": "2020-04-16 21:52:00",
+        "ip_address": "103.75.191.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "13",
+        "first_seen": "2023-06-13 01:31:29",
+        "last_seen": "2023-06-15 15:19:58",
+        "ip_address": "103.169.91.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "7",
+        "first_seen": "2019-02-28 02:30:01",
+        "last_seen": "2019-02-28 02:41:42",
+        "ip_address": "103.249.84.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "935",
+        "first_seen": "2019-02-28 16:02:17",
+        "last_seen": "2020-05-27 18:55:19",
+        "ip_address": "104.18.54.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "935",
+        "first_seen": "2019-02-28 16:02:17",
+        "last_seen": "2020-05-27 18:55:19",
+        "ip_address": "104.18.55.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "4605",
+        "first_seen": "2020-05-28 13:33:36",
+        "last_seen": "2021-01-14 18:14:58",
+        "ip_address": "104.18.54.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "4605",
+        "first_seen": "2020-05-28 13:33:36",
+        "last_seen": "2021-01-14 18:14:58",
+        "ip_address": "104.18.55.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "4605",
+        "first_seen": "2020-05-28 13:33:36",
+        "last_seen": "2021-01-14 18:14:58",
+        "ip_address": "172.67.192.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "17611",
+        "first_seen": "2021-01-15 17:31:06",
+        "last_seen": "2023-05-19 01:37:49",
+        "ip_address": "104.21.44.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "17611",
+        "first_seen": "2021-01-15 17:31:06",
+        "last_seen": "2023-05-19 01:37:49",
+        "ip_address": "172.67.192.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "1736",
+        "first_seen": "2023-06-15 16:52:39",
+        "last_seen": "2024-01-18 13:12:43",
+        "ip_address": "110.4.45.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "1",
+        "first_seen": "2021-10-01 10:08:05",
+        "last_seen": "2021-10-01 10:08:05",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "2",
+        "first_seen": "2020-11-26 11:19:39",
+        "last_seen": "2020-11-26 11:19:39",
+        "ip_address": "172.64.80.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "6",
+        "first_seen": "2022-04-11 09:31:59",
+        "last_seen": "2022-04-21 03:38:12",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "6",
+        "first_seen": "2022-04-11 09:31:59",
+        "last_seen": "2022-04-21 03:38:12",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "101",
+        "first_seen": "2022-01-31 09:19:50",
+        "last_seen": "2022-06-06 01:39:03",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "101",
+        "first_seen": "2022-01-31 09:19:50",
+        "last_seen": "2022-06-06 01:39:03",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "369",
+        "first_seen": "2022-06-04 13:49:54",
+        "last_seen": "2023-04-01 19:16:26",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "369",
+        "first_seen": "2022-06-04 13:49:54",
+        "last_seen": "2023-04-01 19:16:26",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "11",
+        "first_seen": "2022-03-19 01:41:49",
+        "last_seen": "2022-04-11 11:36:03",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "11",
+        "first_seen": "2022-03-19 01:41:49",
+        "last_seen": "2022-04-11 11:36:03",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "1",
+        "first_seen": "2022-05-11 06:41:59",
+        "last_seen": "2022-05-11 06:41:59",
+        "ip_address": "188.114.96.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "1",
+        "first_seen": "2022-05-11 06:41:59",
+        "last_seen": "2022-05-11 06:41:59",
+        "ip_address": "188.114.97.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "33",
+        "first_seen": "2021-11-24 00:09:39",
+        "last_seen": "2021-11-24 17:28:01",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "33",
+        "first_seen": "2021-11-24 00:09:39",
+        "last_seen": "2021-11-24 17:28:01",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "89",
+        "first_seen": "2022-03-11 07:58:02",
+        "last_seen": "2022-03-14 11:23:08",
+        "ip_address": "188.114.97.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "103",
+        "first_seen": "2019-03-08 06:22:41",
+        "last_seen": "2020-01-15 07:59:15",
+        "ip_address": "2606:4700:30::6812:368d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "103",
+        "first_seen": "2019-03-08 06:22:41",
+        "last_seen": "2020-01-15 07:59:15",
+        "ip_address": "2606:4700:30::6812:378d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "2",
+        "first_seen": "2021-10-01 10:08:03",
+        "last_seen": "2022-04-16 18:59:43",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "76",
+        "first_seen": "2020-06-04 02:15:06",
+        "last_seen": "2020-12-03 16:59:39",
+        "ip_address": "2606:4700:3031::6812:378d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "76",
+        "first_seen": "2020-06-04 02:15:06",
+        "last_seen": "2020-12-03 16:59:39",
+        "ip_address": "2606:4700:3032::ac43:c08d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "76",
+        "first_seen": "2020-06-04 02:15:06",
+        "last_seen": "2020-12-03 16:59:39",
+        "ip_address": "2606:4700:3033::6812:368d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "283",
+        "first_seen": "2020-01-18 15:50:10",
+        "last_seen": "2020-05-26 18:35:49",
+        "ip_address": "2606:4700:3031::6812:378d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "283",
+        "first_seen": "2020-01-18 15:50:10",
+        "last_seen": "2020-05-26 18:35:49",
+        "ip_address": "2606:4700:3033::6812:368d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "345",
+        "first_seen": "2021-02-02 17:01:24",
+        "last_seen": "2023-05-17 16:07:13",
+        "ip_address": "2606:4700:3032::ac43:c08d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "345",
+        "first_seen": "2021-02-02 17:01:24",
+        "last_seen": "2023-05-17 16:07:13",
+        "ip_address": "2606:4700:3037::6815:2c06",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "1",
+        "first_seen": "2022-02-04 07:21:04",
+        "last_seen": "2022-02-04 07:21:04",
+        "ip_address": "2a06:98c1:3120::2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "1",
+        "first_seen": "2022-02-04 07:21:04",
+        "last_seen": "2022-02-04 07:21:04",
+        "ip_address": "2a06:98c1:3121::2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "4",
+        "first_seen": "2022-12-05 18:13:41",
+        "last_seen": "2023-01-11 14:35:10",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "4",
+        "first_seen": "2022-12-05 18:13:41",
+        "last_seen": "2023-01-11 14:35:10",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "3",
+        "first_seen": "2021-11-24 00:09:39",
+        "last_seen": "2021-11-24 17:28:01",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "3",
+        "first_seen": "2021-11-24 00:09:39",
+        "last_seen": "2021-11-24 17:28:01",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "1",
+        "first_seen": "2022-03-19 01:41:49",
+        "last_seen": "2022-03-19 01:41:49",
+        "ip_address": "2a06:98c1:3120::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "1",
+        "first_seen": "2022-03-19 01:41:49",
+        "last_seen": "2022-03-19 01:41:49",
+        "ip_address": "2a06:98c1:3121::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mitoteam.com",
+        "count": "6",
+        "first_seen": "2022-03-11 12:41:29",
+        "last_seen": "2022-03-14 11:23:09",
+        "ip_address": "2a06:98c1:3120:8000::",
+        "type": "IPv6"
+    }
+]

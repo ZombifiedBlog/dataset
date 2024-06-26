@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "hayantar.am",
+        "count": "3823",
+        "first_seen": "2022-09-22 06:49:44",
+        "last_seen": "2024-01-18 17:11:57",
+        "ip_address": "104.21.65.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayantar.am",
+        "count": "3823",
+        "first_seen": "2022-09-22 06:49:44",
+        "last_seen": "2024-01-18 17:11:57",
+        "ip_address": "172.67.167.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayantar.am",
+        "count": "2",
+        "first_seen": "2014-05-21 13:45:59",
+        "last_seen": "2014-05-21 13:46:00",
+        "ip_address": "168.144.134.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayantar.am",
+        "count": "8688",
+        "first_seen": "2014-07-13 03:21:24",
+        "last_seen": "2017-07-27 11:40:34",
+        "ip_address": "188.164.153.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayantar.am",
+        "count": "27",
+        "first_seen": "2022-08-26 04:23:56",
+        "last_seen": "2022-09-19 10:24:16",
+        "ip_address": "194.163.183.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayantar.am",
+        "count": "81",
+        "first_seen": "2011-06-24 09:20:19",
+        "last_seen": "2014-05-16 04:34:53",
+        "ip_address": "195.250.77.81",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayantar.am",
+        "count": "39078",
+        "first_seen": "2017-07-27 14:49:34",
+        "last_seen": "2022-01-30 22:13:41",
+        "ip_address": "213.136.72.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayantar.am",
+        "count": "3547",
+        "first_seen": "2022-09-22 07:31:29",
+        "last_seen": "2024-01-14 19:41:00",
+        "ip_address": "2606:4700:3032::ac43:a713",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayantar.am",
+        "count": "3547",
+        "first_seen": "2022-09-22 07:31:29",
+        "last_seen": "2024-01-14 19:41:00",
+        "ip_address": "2606:4700:3036::6815:41d4",
+        "type": "IPv6"
+    }
+]

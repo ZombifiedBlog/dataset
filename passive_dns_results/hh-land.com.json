@@ -1,0 +1,130 @@
+[
+    {
+        "domain": "hh-land.com",
+        "count": "122",
+        "first_seen": "2019-09-04 22:11:28",
+        "last_seen": "2020-08-15 20:14:15",
+        "ip_address": "45.194.205.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hh-land.com",
+        "count": "558",
+        "first_seen": "2022-12-26 00:23:52",
+        "last_seen": "2023-01-17 02:23:31",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hh-land.com",
+        "count": "1356",
+        "first_seen": "2023-08-31 04:12:58",
+        "last_seen": "2024-01-15 11:01:19",
+        "ip_address": "104.21.19.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hh-land.com",
+        "count": "1356",
+        "first_seen": "2023-08-31 04:12:58",
+        "last_seen": "2024-01-15 11:01:19",
+        "ip_address": "172.67.187.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hh-land.com",
+        "count": "5159",
+        "first_seen": "2020-12-19 23:01:39",
+        "last_seen": "2022-12-03 09:00:03",
+        "ip_address": "160.124.194.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hh-land.com",
+        "count": "488",
+        "first_seen": "2011-09-09 05:25:09",
+        "last_seen": "2012-03-08 04:16:39",
+        "ip_address": "182.161.71.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hh-land.com",
+        "count": "8",
+        "first_seen": "2023-10-12 22:45:17",
+        "last_seen": "2023-11-20 14:47:39",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hh-land.com",
+        "count": "8",
+        "first_seen": "2023-10-12 22:45:17",
+        "last_seen": "2023-11-20 14:47:39",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hh-land.com",
+        "count": "4",
+        "first_seen": "2023-11-02 15:02:45",
+        "last_seen": "2023-11-11 14:58:56",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hh-land.com",
+        "count": "4",
+        "first_seen": "2023-11-02 15:02:45",
+        "last_seen": "2023-11-11 14:58:56",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hh-land.com",
+        "count": "1188",
+        "first_seen": "2023-08-31 10:51:44",
+        "last_seen": "2024-01-15 11:01:19",
+        "ip_address": "2606:4700:3031::ac43:bb05",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hh-land.com",
+        "count": "1188",
+        "first_seen": "2023-08-31 10:51:44",
+        "last_seen": "2024-01-15 11:01:19",
+        "ip_address": "2606:4700:3033::6815:13ae",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hh-land.com",
+        "count": "2",
+        "first_seen": "2023-11-02 23:25:16",
+        "last_seen": "2023-11-02 23:25:16",
+        "ip_address": "2a06:98c1:3120::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hh-land.com",
+        "count": "2",
+        "first_seen": "2023-11-02 23:25:16",
+        "last_seen": "2023-11-02 23:25:16",
+        "ip_address": "2a06:98c1:3121::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hh-land.com",
+        "count": "2",
+        "first_seen": "2023-11-12 23:00:56",
+        "last_seen": "2023-11-12 23:00:56",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hh-land.com",
+        "count": "2",
+        "first_seen": "2023-11-12 23:00:56",
+        "last_seen": "2023-11-12 23:00:56",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    }
+]

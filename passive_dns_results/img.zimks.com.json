@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "img.zimks.com",
+        "count": "2",
+        "first_seen": "2019-10-14 12:12:47",
+        "last_seen": "2019-10-14 12:12:47",
+        "ip_address": "192.168.60.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.zimks.com",
+        "count": "8877",
+        "first_seen": "2019-08-04 07:33:39",
+        "last_seen": "2019-11-15 00:17:34",
+        "ip_address": "104.27.140.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.zimks.com",
+        "count": "8877",
+        "first_seen": "2019-08-04 07:33:39",
+        "last_seen": "2019-11-15 00:17:34",
+        "ip_address": "104.27.141.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.zimks.com",
+        "count": "366",
+        "first_seen": "2019-11-15 22:06:32",
+        "last_seen": "2020-07-27 13:57:26",
+        "ip_address": "104.148.87.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.zimks.com",
+        "count": "24",
+        "first_seen": "2021-01-29 17:50:04",
+        "last_seen": "2021-10-02 17:53:44",
+        "ip_address": "104.253.208.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.zimks.com",
+        "count": "5",
+        "first_seen": "2021-10-25 00:19:11",
+        "last_seen": "2021-10-25 00:19:13",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.zimks.com",
+        "count": "15",
+        "first_seen": "2020-11-16 17:55:31",
+        "last_seen": "2020-11-21 21:41:46",
+        "ip_address": "154.204.63.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.zimks.com",
+        "count": "6",
+        "first_seen": "2020-12-23 14:52:27",
+        "last_seen": "2021-01-13 03:05:16",
+        "ip_address": "172.120.12.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.zimks.com",
+        "count": "3",
+        "first_seen": "2021-01-17 17:23:09",
+        "last_seen": "2021-01-17 17:23:09",
+        "ip_address": "172.120.27.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.zimks.com",
+        "count": "1966",
+        "first_seen": "2019-08-04 12:26:31",
+        "last_seen": "2019-11-15 00:17:34",
+        "ip_address": "2606:4700:30::681b:8c3a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.zimks.com",
+        "count": "1966",
+        "first_seen": "2019-08-04 12:26:31",
+        "last_seen": "2019-11-15 00:17:34",
+        "ip_address": "2606:4700:30::681b:8d3a",
+        "type": "IPv6"
+    }
+]

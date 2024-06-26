@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "www.gterra.com",
+        "count": "3",
+        "first_seen": "2023-05-06 18:41:22",
+        "last_seen": "2023-05-06 18:41:22",
+        "ip_address": "13.248.169.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gterra.com",
+        "count": "3",
+        "first_seen": "2023-05-06 18:41:22",
+        "last_seen": "2023-05-06 18:41:22",
+        "ip_address": "76.223.54.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gterra.com",
+        "count": "2",
+        "first_seen": "2023-05-15 08:24:00",
+        "last_seen": "2023-05-17 09:19:57",
+        "ip_address": "34.102.155.139",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gterra.com",
+        "count": "48",
+        "first_seen": "2021-01-28 08:11:09",
+        "last_seen": "2023-03-30 17:02:21",
+        "ip_address": "52.128.23.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gterra.com",
+        "count": "164",
+        "first_seen": "2016-09-16 13:02:46",
+        "last_seen": "2020-06-03 08:17:09",
+        "ip_address": "69.172.201.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gterra.com",
+        "count": "22",
+        "first_seen": "2023-06-21 13:14:24",
+        "last_seen": "2023-08-12 19:53:01",
+        "ip_address": "76.223.35.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gterra.com",
+        "count": "8",
+        "first_seen": "2012-11-02 22:38:43",
+        "last_seen": "2013-08-12 06:19:17",
+        "ip_address": "91.216.113.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gterra.com",
+        "count": "453",
+        "first_seen": "2014-01-20 21:07:25",
+        "last_seen": "2015-05-25 20:41:00",
+        "ip_address": "91.216.141.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gterra.com",
+        "count": "6",
+        "first_seen": "2016-05-07 09:19:00",
+        "last_seen": "2016-06-23 09:38:08",
+        "ip_address": "98.124.243.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gterra.com",
+        "count": "26",
+        "first_seen": "2023-10-18 15:24:53",
+        "last_seen": "2024-01-06 21:05:56",
+        "ip_address": "159.89.244.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gterra.com",
+        "count": "26",
+        "first_seen": "2023-10-18 15:24:53",
+        "last_seen": "2024-01-06 21:05:56",
+        "ip_address": "164.90.244.158",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gterra.com",
+        "count": "3",
+        "first_seen": "2010-12-16 23:00:51",
+        "last_seen": "2012-01-23 13:48:13",
+        "ip_address": "217.67.248.154",
+        "type": "IPv4"
+    }
+]

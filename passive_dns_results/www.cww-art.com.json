@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.cww-art.com",
+        "count": "1188",
+        "first_seen": "2020-02-11 19:24:18",
+        "last_seen": "2020-04-26 01:09:10",
+        "ip_address": "104.18.54.79",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cww-art.com",
+        "count": "1188",
+        "first_seen": "2020-02-11 19:24:18",
+        "last_seen": "2020-04-26 01:09:10",
+        "ip_address": "104.18.55.79",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cww-art.com",
+        "count": "241",
+        "first_seen": "2022-01-01 05:20:32",
+        "last_seen": "2024-01-12 19:56:40",
+        "ip_address": "151.101.128.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cww-art.com",
+        "count": "452",
+        "first_seen": "2020-02-11 19:26:39",
+        "last_seen": "2020-04-24 17:29:46",
+        "ip_address": "2606:4700:3034::6812:374f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.cww-art.com",
+        "count": "452",
+        "first_seen": "2020-02-11 19:26:39",
+        "last_seen": "2020-04-24 17:29:46",
+        "ip_address": "2606:4700:3036::6812:364f",
+        "type": "IPv6"
+    }
+]

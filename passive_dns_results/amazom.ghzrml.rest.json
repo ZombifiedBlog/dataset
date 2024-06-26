@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazom.ghzrml.rest",
+        "count": "12",
+        "first_seen": "2022-05-04 16:16:02",
+        "last_seen": "2022-05-04 17:01:26",
+        "ip_address": "51.89.70.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazom.ghzrml.rest",
+        "count": "7",
+        "first_seen": "2022-05-04 16:16:02",
+        "last_seen": "2022-05-04 16:24:06",
+        "ip_address": "51.195.17.68",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazom.ghzrml.rest",
+        "count": "273",
+        "first_seen": "2021-09-28 04:50:49",
+        "last_seen": "2022-05-03 11:38:23",
+        "ip_address": "107.172.142.110",
+        "type": "IPv4"
+    }
+]

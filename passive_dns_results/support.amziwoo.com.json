@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "support.amziwoo.com",
+        "count": "9",
+        "first_seen": "2020-07-12 17:28:13",
+        "last_seen": "2020-07-13 11:12:05",
+        "ip_address": "104.27.184.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.amziwoo.com",
+        "count": "9",
+        "first_seen": "2020-07-12 17:28:13",
+        "last_seen": "2020-07-13 11:12:05",
+        "ip_address": "104.27.185.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.amziwoo.com",
+        "count": "9",
+        "first_seen": "2020-07-12 17:28:13",
+        "last_seen": "2020-07-13 11:12:05",
+        "ip_address": "172.67.151.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.amziwoo.com",
+        "count": "5",
+        "first_seen": "2020-07-13 09:09:59",
+        "last_seen": "2020-07-13 11:12:05",
+        "ip_address": "2606:4700:3033::ac43:978a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "support.amziwoo.com",
+        "count": "5",
+        "first_seen": "2020-07-13 09:09:59",
+        "last_seen": "2020-07-13 11:12:05",
+        "ip_address": "2606:4700:3035::681b:b8c1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "support.amziwoo.com",
+        "count": "5",
+        "first_seen": "2020-07-13 09:09:59",
+        "last_seen": "2020-07-13 11:12:05",
+        "ip_address": "2606:4700:3036::681b:b9c1",
+        "type": "IPv6"
+    }
+]

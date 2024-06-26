@@ -1,0 +1,122 @@
+[
+    {
+        "domain": "it.job-register.com",
+        "count": "1",
+        "first_seen": "2022-11-24 16:31:42",
+        "last_seen": "2022-11-24 16:31:42",
+        "ip_address": "23.82.12.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "it.job-register.com",
+        "count": "1",
+        "first_seen": "2023-01-16 12:38:03",
+        "last_seen": "2023-01-16 12:38:03",
+        "ip_address": "81.171.28.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "it.job-register.com",
+        "count": "2",
+        "first_seen": "2022-09-20 13:13:09",
+        "last_seen": "2022-09-20 13:13:09",
+        "ip_address": "96.47.230.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "it.job-register.com",
+        "count": "21",
+        "first_seen": "2021-02-01 21:56:34",
+        "last_seen": "2021-09-08 18:14:58",
+        "ip_address": "104.21.52.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "it.job-register.com",
+        "count": "21",
+        "first_seen": "2021-02-01 21:56:34",
+        "last_seen": "2021-09-08 18:14:58",
+        "ip_address": "172.67.197.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "it.job-register.com",
+        "count": "1",
+        "first_seen": "2022-09-13 12:50:22",
+        "last_seen": "2022-09-13 12:50:22",
+        "ip_address": "162.210.199.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "it.job-register.com",
+        "count": "2",
+        "first_seen": "2022-10-22 06:51:08",
+        "last_seen": "2023-03-28 14:37:15",
+        "ip_address": "185.107.56.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "it.job-register.com",
+        "count": "1",
+        "first_seen": "2022-08-29 14:28:40",
+        "last_seen": "2022-08-29 14:28:40",
+        "ip_address": "185.107.56.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "it.job-register.com",
+        "count": "1",
+        "first_seen": "2021-11-24 17:49:47",
+        "last_seen": "2021-11-24 17:49:47",
+        "ip_address": "188.114.96.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "it.job-register.com",
+        "count": "1",
+        "first_seen": "2021-11-24 17:49:47",
+        "last_seen": "2021-11-24 17:49:47",
+        "ip_address": "188.114.97.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "it.job-register.com",
+        "count": "1",
+        "first_seen": "2023-03-18 08:19:17",
+        "last_seen": "2023-03-18 08:19:17",
+        "ip_address": "192.157.56.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "it.job-register.com",
+        "count": "18",
+        "first_seen": "2021-02-01 21:56:34",
+        "last_seen": "2021-09-08 18:14:58",
+        "ip_address": "2606:4700:3036::ac43:c547",
+        "type": "IPv6"
+    },
+    {
+        "domain": "it.job-register.com",
+        "count": "18",
+        "first_seen": "2021-02-01 21:56:34",
+        "last_seen": "2021-09-08 18:14:58",
+        "ip_address": "2606:4700:3037::6815:3457",
+        "type": "IPv6"
+    },
+    {
+        "domain": "it.job-register.com",
+        "count": "1",
+        "first_seen": "2021-11-24 17:49:47",
+        "last_seen": "2021-11-24 17:49:47",
+        "ip_address": "2a06:98c1:3120::10",
+        "type": "IPv6"
+    },
+    {
+        "domain": "it.job-register.com",
+        "count": "1",
+        "first_seen": "2021-11-24 17:49:47",
+        "last_seen": "2021-11-24 17:49:47",
+        "ip_address": "2a06:98c1:3121::10",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "yyqay.com",
+        "count": "26",
+        "first_seen": "2021-06-01 05:00:41",
+        "last_seen": "2021-10-25 21:28:26",
+        "ip_address": "99.83.154.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "yyqay.com",
+        "count": "8",
+        "first_seen": "2020-09-16 04:56:50",
+        "last_seen": "2020-09-21 05:17:21",
+        "ip_address": "162.255.119.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "yyqay.com",
+        "count": "220",
+        "first_seen": "2020-09-26 19:50:58",
+        "last_seen": "2021-04-28 09:40:07",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "yyqay.com",
+        "count": "220",
+        "first_seen": "2020-09-26 19:50:58",
+        "last_seen": "2021-04-28 09:40:07",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "yyqay.com",
+        "count": "220",
+        "first_seen": "2020-09-26 19:50:58",
+        "last_seen": "2021-04-28 09:40:07",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "yyqay.com",
+        "count": "220",
+        "first_seen": "2020-09-26 19:50:58",
+        "last_seen": "2021-04-28 09:40:07",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    }
+]

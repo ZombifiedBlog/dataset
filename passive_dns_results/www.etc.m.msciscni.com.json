@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.etc.m.msciscni.com",
+        "count": "23",
+        "first_seen": "2021-09-16 15:21:29",
+        "last_seen": "2022-07-11 23:36:57",
+        "ip_address": "137.184.67.161",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etc.m.msciscni.com",
+        "count": "288",
+        "first_seen": "2021-09-14 19:08:55",
+        "last_seen": "2021-09-15 13:22:02",
+        "ip_address": "154.23.190.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etc.m.msciscni.com",
+        "count": "13",
+        "first_seen": "2021-09-15 13:39:11",
+        "last_seen": "2021-09-16 07:09:55",
+        "ip_address": "155.235.250.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etc.m.msciscni.com",
+        "count": "1",
+        "first_seen": "2022-09-15 08:04:35",
+        "last_seen": "2022-09-15 08:04:35",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etc.m.msciscni.com",
+        "count": "1",
+        "first_seen": "2022-09-15 08:04:35",
+        "last_seen": "2022-09-15 08:04:35",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etc.m.msciscni.com",
+        "count": "7",
+        "first_seen": "2022-09-15 08:04:35",
+        "last_seen": "2022-09-15 20:40:18",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

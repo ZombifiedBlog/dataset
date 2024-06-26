@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "amazopro.info",
+        "count": "3",
+        "first_seen": "2021-12-14 07:47:45",
+        "last_seen": "2022-01-05 22:54:57",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazopro.info",
+        "count": "1",
+        "first_seen": "2021-11-08 19:42:07",
+        "last_seen": "2021-11-08 19:42:07",
+        "ip_address": "78.41.204.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazopro.info",
+        "count": "1",
+        "first_seen": "2021-11-25 04:47:54",
+        "last_seen": "2021-11-25 04:47:54",
+        "ip_address": "78.41.204.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazopro.info",
+        "count": "2",
+        "first_seen": "2021-11-25 04:48:56",
+        "last_seen": "2021-11-25 04:49:58",
+        "ip_address": "78.41.204.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazopro.info",
+        "count": "2",
+        "first_seen": "2021-08-08 12:32:49",
+        "last_seen": "2021-08-08 12:32:49",
+        "ip_address": "78.41.204.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazopro.info",
+        "count": "636",
+        "first_seen": "2019-09-20 08:57:40",
+        "last_seen": "2020-09-16 06:49:11",
+        "ip_address": "103.48.136.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazopro.info",
+        "count": "4",
+        "first_seen": "2020-12-08 01:11:20",
+        "last_seen": "2021-02-11 11:52:44",
+        "ip_address": "103.224.212.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazopro.info",
+        "count": "1",
+        "first_seen": "2021-03-02 08:40:47",
+        "last_seen": "2021-03-02 08:40:47",
+        "ip_address": "170.178.168.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazopro.info",
+        "count": "2",
+        "first_seen": "2021-08-06 14:13:29",
+        "last_seen": "2021-08-06 14:13:29",
+        "ip_address": "199.115.115.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazopro.info",
+        "count": "8",
+        "first_seen": "2020-10-16 03:03:32",
+        "last_seen": "2020-10-17 02:44:06",
+        "ip_address": "209.99.64.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazopro.info",
+        "count": "1",
+        "first_seen": "2021-11-25 04:51:00",
+        "last_seen": "2021-11-25 04:51:00",
+        "ip_address": "209.126.123.11",
+        "type": "IPv4"
+    }
+]

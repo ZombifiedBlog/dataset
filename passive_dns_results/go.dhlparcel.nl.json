@@ -1,0 +1,130 @@
+[
+    {
+        "domain": "go.dhlparcel.nl",
+        "count": "27688",
+        "first_seen": "2023-02-15 15:22:51",
+        "last_seen": "2023-05-24 09:53:05",
+        "ip_address": "104.16.254.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "go.dhlparcel.nl",
+        "count": "27688",
+        "first_seen": "2023-02-15 15:22:51",
+        "last_seen": "2023-05-24 09:53:05",
+        "ip_address": "104.16.255.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "go.dhlparcel.nl",
+        "count": "120447",
+        "first_seen": "2023-05-24 09:59:08",
+        "last_seen": "2024-01-18 08:34:41",
+        "ip_address": "104.18.105.227",
+        "type": "IPv4"
+    },
+    {
+        "domain": "go.dhlparcel.nl",
+        "count": "120447",
+        "first_seen": "2023-05-24 09:59:08",
+        "last_seen": "2024-01-18 08:34:41",
+        "ip_address": "104.18.106.227",
+        "type": "IPv4"
+    },
+    {
+        "domain": "go.dhlparcel.nl",
+        "count": "16",
+        "first_seen": "2019-07-15 09:02:42",
+        "last_seen": "2019-07-15 16:21:25",
+        "ip_address": "104.19.250.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "go.dhlparcel.nl",
+        "count": "608351",
+        "first_seen": "2019-05-21 11:15:38",
+        "last_seen": "2023-02-15 15:15:40",
+        "ip_address": "104.19.250.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "go.dhlparcel.nl",
+        "count": "608351",
+        "first_seen": "2019-05-21 11:15:38",
+        "last_seen": "2023-02-15 15:15:40",
+        "ip_address": "104.19.251.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "go.dhlparcel.nl",
+        "count": "18",
+        "first_seen": "2019-07-15 03:13:00",
+        "last_seen": "2019-07-15 14:47:22",
+        "ip_address": "104.19.251.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "go.dhlparcel.nl",
+        "count": "12643",
+        "first_seen": "2023-02-15 15:19:15",
+        "last_seen": "2023-05-24 09:53:05",
+        "ip_address": "2606:4700::6810:feea",
+        "type": "IPv6"
+    },
+    {
+        "domain": "go.dhlparcel.nl",
+        "count": "12643",
+        "first_seen": "2023-02-15 15:19:15",
+        "last_seen": "2023-05-24 09:53:05",
+        "ip_address": "2606:4700::6810:ffea",
+        "type": "IPv6"
+    },
+    {
+        "domain": "go.dhlparcel.nl",
+        "count": "38908",
+        "first_seen": "2023-05-24 10:00:46",
+        "last_seen": "2024-01-18 06:13:59",
+        "ip_address": "2606:4700::6812:69e3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "go.dhlparcel.nl",
+        "count": "38908",
+        "first_seen": "2023-05-24 10:00:46",
+        "last_seen": "2024-01-18 06:13:59",
+        "ip_address": "2606:4700::6812:6ae3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "go.dhlparcel.nl",
+        "count": "2",
+        "first_seen": "2019-07-15 14:32:52",
+        "last_seen": "2019-07-15 16:27:02",
+        "ip_address": "2606:4700::6813:fa1a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "go.dhlparcel.nl",
+        "count": "403753",
+        "first_seen": "2019-05-21 08:11:24",
+        "last_seen": "2023-02-15 15:15:44",
+        "ip_address": "2606:4700::6813:fa1a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "go.dhlparcel.nl",
+        "count": "403753",
+        "first_seen": "2019-05-21 08:11:24",
+        "last_seen": "2023-02-15 15:15:44",
+        "ip_address": "2606:4700::6813:fb1a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "go.dhlparcel.nl",
+        "count": "10",
+        "first_seen": "2019-07-15 08:41:28",
+        "last_seen": "2019-07-15 16:31:47",
+        "ip_address": "2606:4700::6813:fb1a",
+        "type": "IPv6"
+    }
+]

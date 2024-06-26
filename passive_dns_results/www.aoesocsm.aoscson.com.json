@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.aoesocsm.aoscson.com",
+        "count": "260",
+        "first_seen": "2021-09-12 20:30:28",
+        "last_seen": "2021-09-13 11:50:41",
+        "ip_address": "154.23.177.98",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.aoesocsm.aoscson.com",
+        "count": "27",
+        "first_seen": "2021-09-13 14:52:57",
+        "last_seen": "2022-06-18 14:08:05",
+        "ip_address": "155.235.250.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.aoesocsm.aoscson.com",
+        "count": "2",
+        "first_seen": "2022-09-13 00:20:56",
+        "last_seen": "2022-09-13 14:43:00",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.aoesocsm.aoscson.com",
+        "count": "1",
+        "first_seen": "2022-09-13 00:20:56",
+        "last_seen": "2022-09-13 00:20:56",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.aoesocsm.aoscson.com",
+        "count": "1",
+        "first_seen": "2022-09-13 14:43:00",
+        "last_seen": "2022-09-13 14:43:00",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

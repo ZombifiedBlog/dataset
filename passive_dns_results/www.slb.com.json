@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "www.slb.com",
+        "count": "1383676",
+        "first_seen": "2010-06-24 03:32:08",
+        "last_seen": "2016-11-21 17:41:14",
+        "ip_address": "68.170.129.130",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.slb.com",
+        "count": "22470",
+        "first_seen": "2016-11-21 17:43:00",
+        "last_seen": "2017-02-01 14:33:21",
+        "ip_address": "68.170.135.38",
+        "type": "IPv4"
+    }
+]

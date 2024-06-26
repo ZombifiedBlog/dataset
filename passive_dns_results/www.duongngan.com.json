@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.duongngan.com",
+        "count": "113",
+        "first_seen": "2015-10-21 18:30:06",
+        "last_seen": "2016-03-08 21:50:32",
+        "ip_address": "125.253.113.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.duongngan.com",
+        "count": "218",
+        "first_seen": "2014-11-08 17:31:27",
+        "last_seen": "2023-12-29 10:44:15",
+        "ip_address": "125.253.125.132",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.duongngan.com",
+        "count": "255",
+        "first_seen": "2019-12-23 21:38:12",
+        "last_seen": "2021-09-25 18:33:47",
+        "ip_address": "125.253.125.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.duongngan.com",
+        "count": "6",
+        "first_seen": "2015-04-08 13:45:47",
+        "last_seen": "2015-07-05 20:24:18",
+        "ip_address": "125.253.125.141",
+        "type": "IPv4"
+    }
+]

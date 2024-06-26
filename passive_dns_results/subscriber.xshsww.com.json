@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.xshsww.com",
+        "count": "29",
+        "first_seen": "2022-10-31 06:54:33",
+        "last_seen": "2022-11-21 13:42:21",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.xshsww.com",
+        "count": "3233",
+        "first_seen": "2022-08-23 15:15:11",
+        "last_seen": "2022-10-30 18:25:28",
+        "ip_address": "104.21.29.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.xshsww.com",
+        "count": "3233",
+        "first_seen": "2022-08-23 15:15:11",
+        "last_seen": "2022-10-30 18:25:28",
+        "ip_address": "172.67.150.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.xshsww.com",
+        "count": "90",
+        "first_seen": "2022-08-23 17:06:30",
+        "last_seen": "2022-10-30 12:09:15",
+        "ip_address": "2606:4700:3034::6815:1df7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.xshsww.com",
+        "count": "90",
+        "first_seen": "2022-08-23 17:06:30",
+        "last_seen": "2022-10-30 12:09:15",
+        "ip_address": "2606:4700:3036::ac43:9613",
+        "type": "IPv6"
+    }
+]

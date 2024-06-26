@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "ad2.trafficgate.net",
+        "count": "31580386",
+        "first_seen": "2019-07-18 04:12:28",
+        "last_seen": "2023-11-02 05:33:23",
+        "ip_address": "133.237.60.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ad2.trafficgate.net",
+        "count": "188",
+        "first_seen": "2019-07-17 03:49:04",
+        "last_seen": "2019-07-18 03:46:51",
+        "ip_address": "133.237.60.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ad2.trafficgate.net",
+        "count": "188",
+        "first_seen": "2019-07-17 03:49:04",
+        "last_seen": "2019-07-18 03:46:51",
+        "ip_address": "133.237.62.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ad2.trafficgate.net",
+        "count": "64210",
+        "first_seen": "2018-07-09 21:54:22",
+        "last_seen": "2019-07-17 03:42:14",
+        "ip_address": "133.237.62.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ad2.trafficgate.net",
+        "count": "3442272",
+        "first_seen": "2010-06-24 08:02:37",
+        "last_seen": "2018-07-09 21:23:43",
+        "ip_address": "203.104.105.70",
+        "type": "IPv4"
+    }
+]

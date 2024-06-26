@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "jhennebo.fr",
+        "count": "502",
+        "first_seen": "2022-12-25 10:03:41",
+        "last_seen": "2024-01-12 12:29:54",
+        "ip_address": "83.229.19.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jhennebo.fr",
+        "count": "2462",
+        "first_seen": "2020-04-22 15:24:22",
+        "last_seen": "2022-12-02 12:32:00",
+        "ip_address": "185.98.131.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jhennebo.fr",
+        "count": "120",
+        "first_seen": "2023-07-18 19:22:05",
+        "last_seen": "2024-01-11 01:12:57",
+        "ip_address": "2a00:7ee0:8:0:3:85:0:200",
+        "type": "IPv6"
+    }
+]

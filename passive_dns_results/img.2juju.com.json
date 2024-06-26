@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "img.2juju.com",
+        "count": "2306",
+        "first_seen": "2019-01-09 14:51:55",
+        "last_seen": "2019-02-02 10:25:45",
+        "ip_address": "107.180.50.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.2juju.com",
+        "count": "76",
+        "first_seen": "2020-04-11 18:03:32",
+        "last_seen": "2022-03-22 23:16:09",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.2juju.com",
+        "count": "1",
+        "first_seen": "2022-02-13 01:11:21",
+        "last_seen": "2022-02-13 01:11:21",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "my-ts3card-com.ts3cafi.xyz",
+        "count": "27",
+        "first_seen": "2022-02-27 16:43:47",
+        "last_seen": "2022-02-28 11:30:16",
+        "ip_address": "104.21.58.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.ts3cafi.xyz",
+        "count": "27",
+        "first_seen": "2022-02-27 16:43:47",
+        "last_seen": "2022-02-28 11:30:16",
+        "ip_address": "172.67.199.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.ts3cafi.xyz",
+        "count": "3",
+        "first_seen": "2022-02-27 22:44:51",
+        "last_seen": "2022-02-28 15:48:09",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.ts3cafi.xyz",
+        "count": "3",
+        "first_seen": "2022-02-27 22:44:51",
+        "last_seen": "2022-02-28 15:48:09",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.ts3cafi.xyz",
+        "count": "29",
+        "first_seen": "2022-02-27 15:16:39",
+        "last_seen": "2022-02-27 22:52:47",
+        "ip_address": "188.114.96.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.ts3cafi.xyz",
+        "count": "29",
+        "first_seen": "2022-02-27 15:16:39",
+        "last_seen": "2022-02-27 22:52:47",
+        "ip_address": "188.114.97.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.ts3cafi.xyz",
+        "count": "1",
+        "first_seen": "2022-02-27 15:16:40",
+        "last_seen": "2022-02-27 15:16:40",
+        "ip_address": "2a06:98c1:3120::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-ts3card-com.ts3cafi.xyz",
+        "count": "1",
+        "first_seen": "2022-02-27 15:16:40",
+        "last_seen": "2022-02-27 15:16:40",
+        "ip_address": "2a06:98c1:3121::16",
+        "type": "IPv6"
+    }
+]

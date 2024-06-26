@@ -1,0 +1,130 @@
+[
+    {
+        "domain": "ypbxmet.cn",
+        "count": "844",
+        "first_seen": "2022-10-27 06:31:28",
+        "last_seen": "2022-11-26 03:56:15",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ypbxmet.cn",
+        "count": "553",
+        "first_seen": "2022-05-19 08:01:14",
+        "last_seen": "2022-05-29 13:25:20",
+        "ip_address": "104.21.64.244",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ypbxmet.cn",
+        "count": "553",
+        "first_seen": "2022-05-19 08:01:14",
+        "last_seen": "2022-05-29 13:25:20",
+        "ip_address": "172.67.156.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ypbxmet.cn",
+        "count": "4158",
+        "first_seen": "2022-06-08 23:20:19",
+        "last_seen": "2022-10-27 05:57:47",
+        "ip_address": "143.92.46.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ypbxmet.cn",
+        "count": "140",
+        "first_seen": "2022-05-19 09:45:14",
+        "last_seen": "2022-05-25 18:51:49",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ypbxmet.cn",
+        "count": "140",
+        "first_seen": "2022-05-19 09:45:14",
+        "last_seen": "2022-05-25 18:51:49",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ypbxmet.cn",
+        "count": "3",
+        "first_seen": "2022-05-24 01:22:11",
+        "last_seen": "2022-05-24 02:32:54",
+        "ip_address": "188.114.96.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ypbxmet.cn",
+        "count": "3",
+        "first_seen": "2022-05-24 01:22:11",
+        "last_seen": "2022-05-24 02:32:54",
+        "ip_address": "188.114.97.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ypbxmet.cn",
+        "count": "126",
+        "first_seen": "2022-05-19 08:49:36",
+        "last_seen": "2022-05-25 19:46:23",
+        "ip_address": "188.114.96.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ypbxmet.cn",
+        "count": "126",
+        "first_seen": "2022-05-19 08:49:36",
+        "last_seen": "2022-05-25 19:46:23",
+        "ip_address": "188.114.97.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ypbxmet.cn",
+        "count": "62",
+        "first_seen": "2022-05-19 08:36:42",
+        "last_seen": "2022-05-19 15:17:16",
+        "ip_address": "188.114.96.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ypbxmet.cn",
+        "count": "62",
+        "first_seen": "2022-05-19 08:36:42",
+        "last_seen": "2022-05-19 15:17:16",
+        "ip_address": "188.114.97.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ypbxmet.cn",
+        "count": "6",
+        "first_seen": "2022-05-19 09:14:19",
+        "last_seen": "2022-05-19 12:19:56",
+        "ip_address": "2606:4700:3034::ac43:9ca8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ypbxmet.cn",
+        "count": "6",
+        "first_seen": "2022-05-19 09:14:19",
+        "last_seen": "2022-05-19 12:19:56",
+        "ip_address": "2606:4700:3037::6815:40f4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ypbxmet.cn",
+        "count": "1",
+        "first_seen": "2022-05-19 08:36:43",
+        "last_seen": "2022-05-19 08:36:43",
+        "ip_address": "2a06:98c1:3120::19",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ypbxmet.cn",
+        "count": "1",
+        "first_seen": "2022-05-19 08:36:43",
+        "last_seen": "2022-05-19 08:36:43",
+        "ip_address": "2a06:98c1:3121::19",
+        "type": "IPv6"
+    }
+]

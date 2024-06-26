@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "myjcbs_co_jp.ipmay5.cn",
+        "count": "8",
+        "first_seen": "2022-01-18 13:00:39",
+        "last_seen": "2022-01-18 13:00:40",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "myjcbs_co_jp.ipmay5.cn",
+        "count": "52",
+        "first_seen": "2021-09-10 01:51:03",
+        "last_seen": "2021-09-12 16:17:42",
+        "ip_address": "104.21.23.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "myjcbs_co_jp.ipmay5.cn",
+        "count": "52",
+        "first_seen": "2021-09-10 01:51:03",
+        "last_seen": "2021-09-12 16:17:42",
+        "ip_address": "172.67.208.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "myjcbs_co_jp.ipmay5.cn",
+        "count": "3",
+        "first_seen": "2021-09-10 16:18:48",
+        "last_seen": "2021-09-12 16:16:18",
+        "ip_address": "2606:4700:3034::ac43:d06b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "myjcbs_co_jp.ipmay5.cn",
+        "count": "3",
+        "first_seen": "2021-09-10 16:18:48",
+        "last_seen": "2021-09-12 16:16:18",
+        "ip_address": "2606:4700:3036::6815:1714",
+        "type": "IPv6"
+    }
+]

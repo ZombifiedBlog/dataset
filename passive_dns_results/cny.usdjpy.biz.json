@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "cny.usdjpy.biz",
+        "count": "3",
+        "first_seen": "2011-07-09 03:05:41",
+        "last_seen": "2011-07-09 03:05:45",
+        "ip_address": "38.99.112.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cny.usdjpy.biz",
+        "count": "194",
+        "first_seen": "2022-01-23 05:22:44",
+        "last_seen": "2023-12-29 23:51:02",
+        "ip_address": "162.43.117.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cny.usdjpy.biz",
+        "count": "675",
+        "first_seen": "2017-04-02 21:38:08",
+        "last_seen": "2021-12-26 11:32:55",
+        "ip_address": "183.90.242.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cny.usdjpy.biz",
+        "count": "864",
+        "first_seen": "2011-08-13 01:15:15",
+        "last_seen": "2014-11-14 06:07:06",
+        "ip_address": "209.54.61.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cny.usdjpy.biz",
+        "count": "1404",
+        "first_seen": "2014-11-18 18:14:45",
+        "last_seen": "2017-03-14 02:45:51",
+        "ip_address": "210.188.201.53",
+        "type": "IPv4"
+    }
+]

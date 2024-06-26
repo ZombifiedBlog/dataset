@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.etc.a.mnciscoi.com",
+        "count": "33",
+        "first_seen": "2021-09-16 15:21:48",
+        "last_seen": "2022-08-07 14:09:13",
+        "ip_address": "137.184.67.161",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etc.a.mnciscoi.com",
+        "count": "261",
+        "first_seen": "2021-09-14 19:24:25",
+        "last_seen": "2021-09-15 13:01:58",
+        "ip_address": "154.23.190.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etc.a.mnciscoi.com",
+        "count": "14",
+        "first_seen": "2021-09-15 13:38:18",
+        "last_seen": "2021-09-16 07:12:00",
+        "ip_address": "155.235.250.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etc.a.mnciscoi.com",
+        "count": "3",
+        "first_seen": "2022-09-15 08:58:31",
+        "last_seen": "2022-09-15 21:29:56",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etc.a.mnciscoi.com",
+        "count": "2",
+        "first_seen": "2022-09-15 08:58:31",
+        "last_seen": "2022-09-15 21:29:56",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

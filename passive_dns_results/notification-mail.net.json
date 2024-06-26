@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "notification-mail.net",
+        "count": "3807",
+        "first_seen": "2021-11-10 00:36:14",
+        "last_seen": "2024-01-17 03:46:38",
+        "ip_address": "13.237.15.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "notification-mail.net",
+        "count": "12",
+        "first_seen": "2021-02-25 01:10:28",
+        "last_seen": "2021-03-29 18:09:26",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "notification-mail.net",
+        "count": "142",
+        "first_seen": "2017-10-01 14:56:25",
+        "last_seen": "2018-10-05 18:36:54",
+        "ip_address": "74.220.219.54",
+        "type": "IPv4"
+    },
+    {
+        "domain": "notification-mail.net",
+        "count": "1966",
+        "first_seen": "2020-02-18 23:46:01",
+        "last_seen": "2021-01-24 21:45:34",
+        "ip_address": "103.13.140.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "notification-mail.net",
+        "count": "8",
+        "first_seen": "2023-11-19 15:19:08",
+        "last_seen": "2023-11-26 03:12:44",
+        "ip_address": "172.234.25.151",
+        "type": "IPv4"
+    },
+    {
+        "domain": "notification-mail.net",
+        "count": "11",
+        "first_seen": "2018-10-09 03:01:56",
+        "last_seen": "2018-10-27 10:37:54",
+        "ip_address": "209.99.64.51",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "paypay-bansk.urcjah.com",
+        "count": "207",
+        "first_seen": "2021-09-07 04:44:21",
+        "last_seen": "2022-07-02 01:15:09",
+        "ip_address": "0.0.0.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "paypay-bansk.urcjah.com",
+        "count": "1",
+        "first_seen": "2022-07-17 06:17:35",
+        "last_seen": "2022-07-17 06:17:35",
+        "ip_address": "170.106.49.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "paypay-bansk.urcjah.com",
+        "count": "67",
+        "first_seen": "2021-09-03 16:10:19",
+        "last_seen": "2021-12-14 23:02:53",
+        "ip_address": "::",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "www-jaccs-co-jp.micardd1.xyz",
+        "count": "23",
+        "first_seen": "2022-03-23 14:30:20",
+        "last_seen": "2022-03-23 19:43:34",
+        "ip_address": "104.21.49.188",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.micardd1.xyz",
+        "count": "23",
+        "first_seen": "2022-03-23 14:30:20",
+        "last_seen": "2022-03-23 19:43:34",
+        "ip_address": "172.67.165.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.micardd1.xyz",
+        "count": "2",
+        "first_seen": "2022-03-23 15:51:26",
+        "last_seen": "2022-03-23 16:15:00",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.micardd1.xyz",
+        "count": "2",
+        "first_seen": "2022-03-23 15:51:26",
+        "last_seen": "2022-03-23 16:15:00",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.micardd1.xyz",
+        "count": "1",
+        "first_seen": "2022-03-23 17:06:33",
+        "last_seen": "2022-03-23 17:06:33",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.micardd1.xyz",
+        "count": "1",
+        "first_seen": "2022-03-23 17:06:33",
+        "last_seen": "2022-03-23 17:06:33",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.micardd1.xyz",
+        "count": "3",
+        "first_seen": "2022-03-23 14:36:04",
+        "last_seen": "2022-03-23 17:47:45",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.micardd1.xyz",
+        "count": "3",
+        "first_seen": "2022-03-23 14:36:04",
+        "last_seen": "2022-03-23 17:47:45",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.micardd1.xyz",
+        "count": "30",
+        "first_seen": "2022-03-23 14:17:00",
+        "last_seen": "2022-03-23 20:19:13",
+        "ip_address": "188.114.96.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.micardd1.xyz",
+        "count": "30",
+        "first_seen": "2022-03-23 14:17:00",
+        "last_seen": "2022-03-23 20:19:13",
+        "ip_address": "188.114.97.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.micardd1.xyz",
+        "count": "2",
+        "first_seen": "2022-03-23 15:39:20",
+        "last_seen": "2022-03-23 15:39:20",
+        "ip_address": "2606:4700:3032::ac43:a5e5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.micardd1.xyz",
+        "count": "2",
+        "first_seen": "2022-03-23 15:39:20",
+        "last_seen": "2022-03-23 15:39:20",
+        "ip_address": "2606:4700:3034::6815:31bc",
+        "type": "IPv6"
+    }
+]

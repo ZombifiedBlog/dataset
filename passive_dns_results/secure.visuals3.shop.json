@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "secure.visuals3.shop",
+        "count": "2009",
+        "first_seen": "2022-10-17 01:15:52",
+        "last_seen": "2022-10-28 13:38:28",
+        "ip_address": "104.21.36.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "secure.visuals3.shop",
+        "count": "2009",
+        "first_seen": "2022-10-17 01:15:52",
+        "last_seen": "2022-10-28 13:38:28",
+        "ip_address": "172.67.199.157",
+        "type": "IPv4"
+    },
+    {
+        "domain": "secure.visuals3.shop",
+        "count": "12",
+        "first_seen": "2022-10-17 11:31:06",
+        "last_seen": "2022-10-18 13:26:07",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "secure.visuals3.shop",
+        "count": "12",
+        "first_seen": "2022-10-17 11:31:06",
+        "last_seen": "2022-10-18 13:26:07",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "secure.visuals3.shop",
+        "count": "7",
+        "first_seen": "2022-10-17 14:48:12",
+        "last_seen": "2022-10-17 20:51:45",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "secure.visuals3.shop",
+        "count": "7",
+        "first_seen": "2022-10-17 14:48:12",
+        "last_seen": "2022-10-17 20:51:45",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "secure.visuals3.shop",
+        "count": "19",
+        "first_seen": "2022-10-17 15:41:12",
+        "last_seen": "2022-10-19 09:08:51",
+        "ip_address": "2606:4700:3031::6815:24d4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "secure.visuals3.shop",
+        "count": "19",
+        "first_seen": "2022-10-17 15:41:12",
+        "last_seen": "2022-10-19 09:08:51",
+        "ip_address": "2606:4700:3037::ac43:c79d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "secure.visuals3.shop",
+        "count": "3",
+        "first_seen": "2022-10-17 14:48:13",
+        "last_seen": "2022-10-17 20:51:45",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "secure.visuals3.shop",
+        "count": "3",
+        "first_seen": "2022-10-17 14:48:13",
+        "last_seen": "2022-10-17 20:51:45",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

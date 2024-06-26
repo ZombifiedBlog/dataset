@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "viewsnet-jp.114644.com",
+        "count": "384",
+        "first_seen": "2022-12-16 11:35:19",
+        "last_seen": "2022-12-25 21:06:06",
+        "ip_address": "104.21.0.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "viewsnet-jp.114644.com",
+        "count": "384",
+        "first_seen": "2022-12-16 11:35:19",
+        "last_seen": "2022-12-25 21:06:06",
+        "ip_address": "172.67.150.232",
+        "type": "IPv4"
+    },
+    {
+        "domain": "viewsnet-jp.114644.com",
+        "count": "3",
+        "first_seen": "2022-12-25 08:32:55",
+        "last_seen": "2022-12-25 20:29:03",
+        "ip_address": "2606:4700:3031::6815:70",
+        "type": "IPv6"
+    },
+    {
+        "domain": "viewsnet-jp.114644.com",
+        "count": "3",
+        "first_seen": "2022-12-25 08:32:55",
+        "last_seen": "2022-12-25 20:29:03",
+        "ip_address": "2606:4700:3037::ac43:96e8",
+        "type": "IPv6"
+    }
+]

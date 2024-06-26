@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.gmalyhina.com",
+        "count": "76",
+        "first_seen": "2022-08-24 19:33:49",
+        "last_seen": "2022-09-25 16:49:11",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gmalyhina.com",
+        "count": "6035",
+        "first_seen": "2022-06-07 17:46:02",
+        "last_seen": "2022-08-22 13:09:06",
+        "ip_address": "104.21.49.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gmalyhina.com",
+        "count": "6035",
+        "first_seen": "2022-06-07 17:46:02",
+        "last_seen": "2022-08-22 13:09:06",
+        "ip_address": "172.67.167.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gmalyhina.com",
+        "count": "1",
+        "first_seen": "2022-08-25 21:35:14",
+        "last_seen": "2022-08-25 21:35:14",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gmalyhina.com",
+        "count": "171",
+        "first_seen": "2022-06-08 06:36:03",
+        "last_seen": "2022-08-22 07:59:43",
+        "ip_address": "2606:4700:3033::ac43:a71a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.gmalyhina.com",
+        "count": "171",
+        "first_seen": "2022-06-08 06:36:03",
+        "last_seen": "2022-08-22 07:59:43",
+        "ip_address": "2606:4700:3037::6815:31cd",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "mailanalytic.com",
+        "count": "471",
+        "first_seen": "2019-01-15 19:27:08",
+        "last_seen": "2019-02-15 14:46:47",
+        "ip_address": "142.4.16.97",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mailanalytic.com",
+        "count": "127",
+        "first_seen": "2019-02-16 09:14:08",
+        "last_seen": "2019-02-20 22:31:06",
+        "ip_address": "142.4.17.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mailanalytic.com",
+        "count": "281",
+        "first_seen": "2019-05-03 21:05:24",
+        "last_seen": "2019-05-16 18:08:05",
+        "ip_address": "162.144.36.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mailanalytic.com",
+        "count": "1025",
+        "first_seen": "2019-02-20 22:31:10",
+        "last_seen": "2019-03-06 00:16:34",
+        "ip_address": "162.144.41.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mailanalytic.com",
+        "count": "673",
+        "first_seen": "2019-03-06 20:04:27",
+        "last_seen": "2019-04-05 16:08:20",
+        "ip_address": "162.144.44.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mailanalytic.com",
+        "count": "334",
+        "first_seen": "2019-04-06 18:55:32",
+        "last_seen": "2019-04-17 18:41:13",
+        "ip_address": "162.144.53.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mailanalytic.com",
+        "count": "663",
+        "first_seen": "2019-04-18 04:19:59",
+        "last_seen": "2019-05-03 18:07:41",
+        "ip_address": "162.144.65.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mailanalytic.com",
+        "count": "519",
+        "first_seen": "2019-05-17 09:18:50",
+        "last_seen": "2019-06-30 01:11:06",
+        "ip_address": "162.144.80.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mailanalytic.com",
+        "count": "9",
+        "first_seen": "2019-03-06 08:32:25",
+        "last_seen": "2019-03-06 19:17:45",
+        "ip_address": "162.144.82.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mailanalytic.com",
+        "count": "14",
+        "first_seen": "2020-01-18 14:58:45",
+        "last_seen": "2020-02-21 16:14:40",
+        "ip_address": "209.99.40.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mailanalytic.com",
+        "count": "33",
+        "first_seen": "2020-01-15 22:40:26",
+        "last_seen": "2020-02-24 03:57:16",
+        "ip_address": "209.99.40.223",
+        "type": "IPv4"
+    }
+]

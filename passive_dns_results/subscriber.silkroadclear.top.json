@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "subscriber.silkroadclear.top",
+        "count": "19",
+        "first_seen": "2023-04-06 14:28:22",
+        "last_seen": "2023-04-29 04:33:16",
+        "ip_address": "49.51.78.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.silkroadclear.top",
+        "count": "3348",
+        "first_seen": "2023-02-02 18:31:33",
+        "last_seen": "2023-04-06 13:06:27",
+        "ip_address": "104.21.7.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.silkroadclear.top",
+        "count": "3348",
+        "first_seen": "2023-02-02 18:31:33",
+        "last_seen": "2023-04-06 13:06:27",
+        "ip_address": "172.67.156.127",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.silkroadclear.top",
+        "count": "3",
+        "first_seen": "2023-04-06 17:07:16",
+        "last_seen": "2023-04-06 17:11:52",
+        "ip_address": "170.106.49.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.silkroadclear.top",
+        "count": "9",
+        "first_seen": "2023-04-07 23:34:11",
+        "last_seen": "2023-05-02 05:04:15",
+        "ip_address": "170.106.49.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.silkroadclear.top",
+        "count": "4",
+        "first_seen": "2023-04-06 13:51:12",
+        "last_seen": "2023-04-08 21:58:36",
+        "ip_address": "170.106.49.157",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.silkroadclear.top",
+        "count": "130",
+        "first_seen": "2023-02-03 00:56:57",
+        "last_seen": "2023-04-06 13:06:27",
+        "ip_address": "2606:4700:3031::6815:7e0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.silkroadclear.top",
+        "count": "130",
+        "first_seen": "2023-02-03 00:56:57",
+        "last_seen": "2023-04-06 13:06:27",
+        "ip_address": "2606:4700:3037::ac43:9c7f",
+        "type": "IPv6"
+    }
+]

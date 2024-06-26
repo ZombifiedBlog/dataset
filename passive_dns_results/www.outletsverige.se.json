@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.outletsverige.se",
+        "count": "12674",
+        "first_seen": "2015-05-09 08:17:25",
+        "last_seen": "2018-05-16 07:44:30",
+        "ip_address": "79.99.0.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.outletsverige.se",
+        "count": "2097",
+        "first_seen": "2010-08-08 15:58:53",
+        "last_seen": "2015-05-07 04:46:16",
+        "ip_address": "109.74.4.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.outletsverige.se",
+        "count": "850",
+        "first_seen": "2022-12-12 09:12:43",
+        "last_seen": "2024-01-13 08:07:33",
+        "ip_address": "164.92.194.130",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.outletsverige.se",
+        "count": "15363",
+        "first_seen": "2018-05-16 08:58:03",
+        "last_seen": "2020-09-14 07:30:29",
+        "ip_address": "188.126.84.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.outletsverige.se",
+        "count": "5343",
+        "first_seen": "2018-05-17 21:35:37",
+        "last_seen": "2020-09-11 07:37:29",
+        "ip_address": "2a00:1a28:1263::2",
+        "type": "IPv6"
+    }
+]

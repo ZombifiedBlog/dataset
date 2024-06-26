@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "smcc-cacc.hcsen.com",
+        "count": "219",
+        "first_seen": "2020-10-22 14:13:37",
+        "last_seen": "2020-10-26 06:53:39",
+        "ip_address": "174.139.137.41",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.hcsen.com",
+        "count": "35",
+        "first_seen": "2020-10-28 08:43:22",
+        "last_seen": "2022-02-04 18:28:46",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.hcsen.com",
+        "count": "2",
+        "first_seen": "2020-11-01 19:25:36",
+        "last_seen": "2020-11-01 19:27:14",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    }
+]

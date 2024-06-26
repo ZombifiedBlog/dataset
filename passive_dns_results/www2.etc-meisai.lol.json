@@ -1,0 +1,122 @@
+[
+    {
+        "domain": "www2.etc-meisai.lol",
+        "count": "1",
+        "first_seen": "2023-01-12 22:01:28",
+        "last_seen": "2023-01-12 22:01:28",
+        "ip_address": "103.75.118.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etc-meisai.lol",
+        "count": "460",
+        "first_seen": "2023-01-04 10:16:36",
+        "last_seen": "2023-03-07 17:19:52",
+        "ip_address": "104.21.47.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etc-meisai.lol",
+        "count": "460",
+        "first_seen": "2023-01-04 10:16:36",
+        "last_seen": "2023-03-07 17:19:52",
+        "ip_address": "172.67.144.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etc-meisai.lol",
+        "count": "2",
+        "first_seen": "2023-02-15 05:09:56",
+        "last_seen": "2023-02-15 08:21:48",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etc-meisai.lol",
+        "count": "2",
+        "first_seen": "2023-02-15 05:09:56",
+        "last_seen": "2023-02-15 08:21:48",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etc-meisai.lol",
+        "count": "5",
+        "first_seen": "2023-02-15 06:51:39",
+        "last_seen": "2023-03-06 16:35:16",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etc-meisai.lol",
+        "count": "5",
+        "first_seen": "2023-02-15 06:51:39",
+        "last_seen": "2023-03-06 16:35:16",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etc-meisai.lol",
+        "count": "2",
+        "first_seen": "2023-02-15 05:32:54",
+        "last_seen": "2023-02-15 05:32:54",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etc-meisai.lol",
+        "count": "2",
+        "first_seen": "2023-02-15 05:32:54",
+        "last_seen": "2023-02-15 05:32:54",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etc-meisai.lol",
+        "count": "69",
+        "first_seen": "2023-01-16 18:57:47",
+        "last_seen": "2023-03-07 10:28:28",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etc-meisai.lol",
+        "count": "69",
+        "first_seen": "2023-01-16 18:57:47",
+        "last_seen": "2023-03-07 10:28:28",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etc-meisai.lol",
+        "count": "9",
+        "first_seen": "2023-01-04 10:16:46",
+        "last_seen": "2023-03-01 22:34:21",
+        "ip_address": "2606:4700:3031::6815:2f30",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www2.etc-meisai.lol",
+        "count": "9",
+        "first_seen": "2023-01-04 10:16:46",
+        "last_seen": "2023-03-01 22:34:21",
+        "ip_address": "2606:4700:3033::ac43:9077",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www2.etc-meisai.lol",
+        "count": "34",
+        "first_seen": "2023-01-16 18:57:47",
+        "last_seen": "2023-03-07 10:28:28",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www2.etc-meisai.lol",
+        "count": "34",
+        "first_seen": "2023-01-16 18:57:47",
+        "last_seen": "2023-03-07 10:28:28",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

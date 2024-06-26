@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "edclean.ru",
+        "count": "3138",
+        "first_seen": "2022-07-17 22:23:11",
+        "last_seen": "2024-01-18 04:14:38",
+        "ip_address": "91.189.114.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "edclean.ru",
+        "count": "24",
+        "first_seen": "2019-10-06 08:27:11",
+        "last_seen": "2019-10-08 06:32:27",
+        "ip_address": "194.58.56.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "edclean.ru",
+        "count": "3",
+        "first_seen": "2019-10-07 10:52:01",
+        "last_seen": "2019-10-07 10:53:03",
+        "ip_address": "194.58.56.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "edclean.ru",
+        "count": "142",
+        "first_seen": "2022-10-06 04:06:44",
+        "last_seen": "2022-10-06 13:00:24",
+        "ip_address": "194.67.71.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "edclean.ru",
+        "count": "1307",
+        "first_seen": "2020-12-03 02:08:01",
+        "last_seen": "2022-07-17 11:34:06",
+        "ip_address": "195.24.68.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "edclean.ru",
+        "count": "310",
+        "first_seen": "2019-11-05 22:52:08",
+        "last_seen": "2020-01-07 10:51:00",
+        "ip_address": "195.24.68.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "edclean.ru",
+        "count": "409",
+        "first_seen": "2020-07-10 12:23:41",
+        "last_seen": "2020-12-02 14:29:54",
+        "ip_address": "195.24.68.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "edclean.ru",
+        "count": "11070",
+        "first_seen": "2016-10-24 15:13:21",
+        "last_seen": "2019-10-15 10:38:12",
+        "ip_address": "195.208.1.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "edclean.ru",
+        "count": "126",
+        "first_seen": "2019-10-15 11:41:35",
+        "last_seen": "2019-11-05 18:25:57",
+        "ip_address": "195.208.1.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "edclean.ru",
+        "count": "136",
+        "first_seen": "2019-10-07 16:31:26",
+        "last_seen": "2022-10-06 13:00:24",
+        "ip_address": "2a00:f940:4::10",
+        "type": "IPv6"
+    }
+]

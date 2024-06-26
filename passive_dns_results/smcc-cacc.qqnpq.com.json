@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "smcc-cacc.qqnpq.com",
+        "count": "52",
+        "first_seen": "2020-10-29 22:25:39",
+        "last_seen": "2020-11-13 23:21:50",
+        "ip_address": "47.74.14.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.qqnpq.com",
+        "count": "51",
+        "first_seen": "2022-05-02 23:01:36",
+        "last_seen": "2022-05-03 17:36:16",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.qqnpq.com",
+        "count": "1",
+        "first_seen": "2021-02-05 10:54:53",
+        "last_seen": "2021-02-05 10:54:53",
+        "ip_address": "103.224.212.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.qqnpq.com",
+        "count": "35",
+        "first_seen": "2021-11-29 02:25:55",
+        "last_seen": "2022-02-25 03:09:54",
+        "ip_address": "104.165.137.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.qqnpq.com",
+        "count": "39",
+        "first_seen": "2021-04-21 17:15:35",
+        "last_seen": "2021-08-15 17:51:25",
+        "ip_address": "104.253.194.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.qqnpq.com",
+        "count": "213",
+        "first_seen": "2020-10-17 18:29:07",
+        "last_seen": "2020-10-27 15:38:48",
+        "ip_address": "108.166.217.184",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "srvrauthentication.bubbleapps.io",
+        "count": "21",
+        "first_seen": "2023-08-25 02:54:58",
+        "last_seen": "2023-12-14 22:22:13",
+        "ip_address": "104.16.203.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "srvrauthentication.bubbleapps.io",
+        "count": "21",
+        "first_seen": "2023-08-25 02:54:58",
+        "last_seen": "2023-12-14 22:22:13",
+        "ip_address": "104.16.204.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "srvrauthentication.bubbleapps.io",
+        "count": "2722",
+        "first_seen": "2022-10-05 22:50:39",
+        "last_seen": "2023-07-25 05:07:15",
+        "ip_address": "104.19.217.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "srvrauthentication.bubbleapps.io",
+        "count": "2722",
+        "first_seen": "2022-10-05 22:50:39",
+        "last_seen": "2023-07-25 05:07:15",
+        "ip_address": "104.19.218.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "srvrauthentication.bubbleapps.io",
+        "count": "1",
+        "first_seen": "2023-12-14 22:21:25",
+        "last_seen": "2023-12-14 22:21:25",
+        "ip_address": "2606:4700::6810:cb42",
+        "type": "IPv6"
+    },
+    {
+        "domain": "srvrauthentication.bubbleapps.io",
+        "count": "1",
+        "first_seen": "2023-12-14 22:21:25",
+        "last_seen": "2023-12-14 22:21:25",
+        "ip_address": "2606:4700::6810:cc42",
+        "type": "IPv6"
+    },
+    {
+        "domain": "srvrauthentication.bubbleapps.io",
+        "count": "23",
+        "first_seen": "2022-10-06 02:14:17",
+        "last_seen": "2023-05-19 09:52:34",
+        "ip_address": "2606:4700::6813:d930",
+        "type": "IPv6"
+    },
+    {
+        "domain": "srvrauthentication.bubbleapps.io",
+        "count": "23",
+        "first_seen": "2022-10-06 02:14:17",
+        "last_seen": "2023-05-19 09:52:34",
+        "ip_address": "2606:4700::6813:da30",
+        "type": "IPv6"
+    }
+]

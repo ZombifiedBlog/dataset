@@ -1,0 +1,194 @@
+[
+    {
+        "domain": "smcc-cacc.lcsfg.com",
+        "count": "1",
+        "first_seen": "2021-01-13 20:23:57",
+        "last_seen": "2021-01-13 20:23:57",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.lcsfg.com",
+        "count": "1",
+        "first_seen": "2021-08-12 12:12:13",
+        "last_seen": "2021-08-12 12:12:13",
+        "ip_address": "63.143.32.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.lcsfg.com",
+        "count": "4",
+        "first_seen": "2023-07-23 08:25:57",
+        "last_seen": "2023-08-02 15:36:50",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.lcsfg.com",
+        "count": "1",
+        "first_seen": "2021-11-23 13:23:57",
+        "last_seen": "2021-11-23 13:23:57",
+        "ip_address": "78.41.204.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.lcsfg.com",
+        "count": "11",
+        "first_seen": "2021-10-03 19:24:23",
+        "last_seen": "2022-01-11 14:31:15",
+        "ip_address": "78.41.204.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.lcsfg.com",
+        "count": "67",
+        "first_seen": "2021-09-24 07:06:18",
+        "last_seen": "2021-10-04 04:27:11",
+        "ip_address": "78.41.204.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.lcsfg.com",
+        "count": "1",
+        "first_seen": "2021-12-06 03:16:50",
+        "last_seen": "2021-12-06 03:16:50",
+        "ip_address": "78.41.204.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.lcsfg.com",
+        "count": "2",
+        "first_seen": "2021-10-07 06:27:11",
+        "last_seen": "2022-01-02 16:15:27",
+        "ip_address": "78.41.204.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.lcsfg.com",
+        "count": "1",
+        "first_seen": "2021-12-22 10:05:38",
+        "last_seen": "2021-12-22 10:05:38",
+        "ip_address": "78.41.204.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.lcsfg.com",
+        "count": "16",
+        "first_seen": "2021-10-04 04:45:14",
+        "last_seen": "2021-10-06 10:30:31",
+        "ip_address": "78.41.204.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.lcsfg.com",
+        "count": "2",
+        "first_seen": "2022-01-30 03:50:48",
+        "last_seen": "2022-01-30 03:50:48",
+        "ip_address": "78.41.204.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.lcsfg.com",
+        "count": "6",
+        "first_seen": "2021-08-20 04:33:13",
+        "last_seen": "2021-11-03 05:34:56",
+        "ip_address": "78.41.204.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.lcsfg.com",
+        "count": "2",
+        "first_seen": "2021-11-03 11:38:30",
+        "last_seen": "2021-11-03 11:38:31",
+        "ip_address": "78.41.204.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.lcsfg.com",
+        "count": "38",
+        "first_seen": "2021-09-20 13:46:28",
+        "last_seen": "2021-10-31 10:31:23",
+        "ip_address": "78.41.204.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.lcsfg.com",
+        "count": "2",
+        "first_seen": "2021-08-04 17:20:58",
+        "last_seen": "2021-08-04 17:20:58",
+        "ip_address": "81.171.22.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.lcsfg.com",
+        "count": "1",
+        "first_seen": "2022-05-05 15:21:54",
+        "last_seen": "2022-05-05 15:21:54",
+        "ip_address": "91.195.240.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.lcsfg.com",
+        "count": "70",
+        "first_seen": "2021-05-03 04:00:36",
+        "last_seen": "2021-07-13 03:49:10",
+        "ip_address": "103.224.212.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.lcsfg.com",
+        "count": "389",
+        "first_seen": "2020-10-31 20:31:36",
+        "last_seen": "2020-11-19 19:02:38",
+        "ip_address": "104.168.99.243",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.lcsfg.com",
+        "count": "1",
+        "first_seen": "2022-06-06 12:16:53",
+        "last_seen": "2022-06-06 12:16:53",
+        "ip_address": "162.210.195.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.lcsfg.com",
+        "count": "1",
+        "first_seen": "2022-05-27 13:51:35",
+        "last_seen": "2022-05-27 13:51:35",
+        "ip_address": "162.210.196.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.lcsfg.com",
+        "count": "12",
+        "first_seen": "2021-10-01 08:39:36",
+        "last_seen": "2022-02-01 19:33:59",
+        "ip_address": "209.126.123.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.lcsfg.com",
+        "count": "18",
+        "first_seen": "2021-07-26 17:36:31",
+        "last_seen": "2022-03-05 04:07:20",
+        "ip_address": "209.126.123.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.lcsfg.com",
+        "count": "5",
+        "first_seen": "2021-08-20 12:00:03",
+        "last_seen": "2022-01-27 13:07:06",
+        "ip_address": "209.126.123.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.lcsfg.com",
+        "count": "1",
+        "first_seen": "2021-05-01 16:33:23",
+        "last_seen": "2021-05-01 16:33:23",
+        "ip_address": "103.224.212.222",
+        "type": "IPv4"
+    }
+]

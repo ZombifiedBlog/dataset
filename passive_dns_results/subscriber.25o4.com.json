@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.25o4.com",
+        "count": "2",
+        "first_seen": "2020-01-21 07:56:29",
+        "last_seen": "2020-01-21 07:56:29",
+        "ip_address": "15.164.83.206",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.25o4.com",
+        "count": "4",
+        "first_seen": "2019-12-20 22:27:41",
+        "last_seen": "2019-12-26 15:19:26",
+        "ip_address": "104.27.132.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.25o4.com",
+        "count": "4",
+        "first_seen": "2019-12-20 22:27:41",
+        "last_seen": "2019-12-26 15:19:26",
+        "ip_address": "104.27.133.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.25o4.com",
+        "count": "2",
+        "first_seen": "2019-12-20 22:27:41",
+        "last_seen": "2019-12-20 22:27:41",
+        "ip_address": "2606:4700:30::681b:84aa",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.25o4.com",
+        "count": "2",
+        "first_seen": "2019-12-20 22:27:41",
+        "last_seen": "2019-12-20 22:27:41",
+        "ip_address": "2606:4700:30::681b:85aa",
+        "type": "IPv6"
+    }
+]

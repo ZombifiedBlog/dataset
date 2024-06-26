@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "rkuten.ginsoil.com",
+        "count": "108",
+        "first_seen": "2021-10-28 17:06:56",
+        "last_seen": "2021-10-29 07:10:57",
+        "ip_address": "45.207.50.185",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rkuten.ginsoil.com",
+        "count": "28",
+        "first_seen": "2021-11-03 17:20:56",
+        "last_seen": "2021-12-10 13:26:54",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rkuten.ginsoil.com",
+        "count": "8",
+        "first_seen": "2022-02-15 13:23:06",
+        "last_seen": "2022-05-10 03:45:51",
+        "ip_address": "108.186.201.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rkuten.ginsoil.com",
+        "count": "8",
+        "first_seen": "2022-06-11 17:08:48",
+        "last_seen": "2022-12-20 09:08:56",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    }
+]

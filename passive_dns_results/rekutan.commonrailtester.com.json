@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "rekutan.commonrailtester.com",
+        "count": "1",
+        "first_seen": "2021-12-02 08:02:58",
+        "last_seen": "2021-12-02 08:02:58",
+        "ip_address": "103.224.212.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekutan.commonrailtester.com",
+        "count": "37",
+        "first_seen": "2021-01-05 12:28:01",
+        "last_seen": "2021-01-08 01:53:57",
+        "ip_address": "104.28.24.184",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekutan.commonrailtester.com",
+        "count": "37",
+        "first_seen": "2021-01-05 12:28:01",
+        "last_seen": "2021-01-08 01:53:57",
+        "ip_address": "104.28.25.184",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekutan.commonrailtester.com",
+        "count": "37",
+        "first_seen": "2021-01-05 12:28:01",
+        "last_seen": "2021-01-08 01:53:57",
+        "ip_address": "172.67.150.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekutan.commonrailtester.com",
+        "count": "24",
+        "first_seen": "2021-01-06 04:18:07",
+        "last_seen": "2021-01-07 02:17:18",
+        "ip_address": "2606:4700:3030::681c:19b8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rekutan.commonrailtester.com",
+        "count": "24",
+        "first_seen": "2021-01-06 04:18:07",
+        "last_seen": "2021-01-07 02:17:18",
+        "ip_address": "2606:4700:3032::ac43:96c7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rekutan.commonrailtester.com",
+        "count": "24",
+        "first_seen": "2021-01-06 04:18:07",
+        "last_seen": "2021-01-07 02:17:18",
+        "ip_address": "2606:4700:3037::681c:18b8",
+        "type": "IPv6"
+    }
+]

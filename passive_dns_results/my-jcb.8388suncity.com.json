@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "my-jcb.8388suncity.com",
+        "count": "108",
+        "first_seen": "2020-11-19 22:03:36",
+        "last_seen": "2020-11-29 11:49:48",
+        "ip_address": "104.28.8.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.8388suncity.com",
+        "count": "108",
+        "first_seen": "2020-11-19 22:03:36",
+        "last_seen": "2020-11-29 11:49:48",
+        "ip_address": "104.28.9.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.8388suncity.com",
+        "count": "108",
+        "first_seen": "2020-11-19 22:03:36",
+        "last_seen": "2020-11-29 11:49:48",
+        "ip_address": "172.67.135.131",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.8388suncity.com",
+        "count": "19",
+        "first_seen": "2020-12-04 23:43:57",
+        "last_seen": "2020-12-13 02:52:40",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.8388suncity.com",
+        "count": "14",
+        "first_seen": "2020-11-21 12:53:00",
+        "last_seen": "2020-11-29 11:49:48",
+        "ip_address": "2606:4700:3030::681c:978",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.8388suncity.com",
+        "count": "14",
+        "first_seen": "2020-11-21 12:53:00",
+        "last_seen": "2020-11-29 11:49:48",
+        "ip_address": "2606:4700:3033::ac43:8783",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.8388suncity.com",
+        "count": "14",
+        "first_seen": "2020-11-21 12:53:00",
+        "last_seen": "2020-11-29 11:49:48",
+        "ip_address": "2606:4700:3037::681c:878",
+        "type": "IPv6"
+    }
+]

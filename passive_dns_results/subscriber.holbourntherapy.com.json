@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "subscriber.holbourntherapy.com",
+        "count": "3860",
+        "first_seen": "2023-01-06 14:06:58",
+        "last_seen": "2023-02-01 02:22:20",
+        "ip_address": "104.21.8.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.holbourntherapy.com",
+        "count": "3860",
+        "first_seen": "2023-01-06 14:06:58",
+        "last_seen": "2023-02-01 02:22:20",
+        "ip_address": "172.67.157.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.holbourntherapy.com",
+        "count": "91",
+        "first_seen": "2023-01-06 15:35:34",
+        "last_seen": "2023-01-30 14:02:47",
+        "ip_address": "2606:4700:3034::ac43:9d4a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.holbourntherapy.com",
+        "count": "91",
+        "first_seen": "2023-01-06 15:35:34",
+        "last_seen": "2023-01-30 14:02:47",
+        "ip_address": "2606:4700:3037::6815:868",
+        "type": "IPv6"
+    }
+]

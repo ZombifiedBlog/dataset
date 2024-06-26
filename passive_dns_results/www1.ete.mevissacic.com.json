@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www1.ete.mevissacic.com",
+        "count": "342",
+        "first_seen": "2021-10-06 19:27:42",
+        "last_seen": "2022-08-02 02:19:25",
+        "ip_address": "164.90.151.232",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www1.ete.mevissacic.com",
+        "count": "8",
+        "first_seen": "2022-10-06 20:00:21",
+        "last_seen": "2022-10-06 21:44:46",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www1.ete.mevissacic.com",
+        "count": "1",
+        "first_seen": "2022-10-06 20:00:21",
+        "last_seen": "2022-10-06 20:00:21",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

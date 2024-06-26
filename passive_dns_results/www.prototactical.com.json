@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "www.prototactical.com",
+        "count": "55",
+        "first_seen": "2021-12-21 17:56:01",
+        "last_seen": "2022-02-10 04:31:49",
+        "ip_address": "45.136.119.178",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.prototactical.com",
+        "count": "6",
+        "first_seen": "2022-12-25 21:01:53",
+        "last_seen": "2023-01-22 19:23:45",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.prototactical.com",
+        "count": "4",
+        "first_seen": "2011-01-30 17:28:07",
+        "last_seen": "2011-04-02 22:21:28",
+        "ip_address": "64.29.151.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.prototactical.com",
+        "count": "162",
+        "first_seen": "2023-06-12 07:47:11",
+        "last_seen": "2024-01-16 17:37:46",
+        "ip_address": "104.21.50.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.prototactical.com",
+        "count": "162",
+        "first_seen": "2023-06-12 07:47:11",
+        "last_seen": "2024-01-16 17:37:46",
+        "ip_address": "172.67.199.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.prototactical.com",
+        "count": "165",
+        "first_seen": "2022-02-11 05:37:19",
+        "last_seen": "2022-11-22 09:24:39",
+        "ip_address": "156.254.194.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.prototactical.com",
+        "count": "2681",
+        "first_seen": "2011-12-09 04:35:45",
+        "last_seen": "2016-06-28 17:33:14",
+        "ip_address": "206.188.193.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.prototactical.com",
+        "count": "1536",
+        "first_seen": "2016-06-29 23:49:45",
+        "last_seen": "2021-09-22 02:52:54",
+        "ip_address": "208.91.197.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.prototactical.com",
+        "count": "1",
+        "first_seen": "2021-10-22 14:31:08",
+        "last_seen": "2021-10-22 14:31:08",
+        "ip_address": "208.91.197.132",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.prototactical.com",
+        "count": "35",
+        "first_seen": "2023-06-26 01:39:00",
+        "last_seen": "2024-01-12 02:48:29",
+        "ip_address": "2606:4700:3034::6815:3211",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.prototactical.com",
+        "count": "35",
+        "first_seen": "2023-06-26 01:39:00",
+        "last_seen": "2024-01-12 02:48:29",
+        "ip_address": "2606:4700:3036::ac43:c73d",
+        "type": "IPv6"
+    }
+]

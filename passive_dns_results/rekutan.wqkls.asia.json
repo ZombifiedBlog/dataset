@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "rekutan.wqkls.asia",
+        "count": "127",
+        "first_seen": "2020-09-15 10:11:13",
+        "last_seen": "2020-09-19 09:47:53",
+        "ip_address": "104.27.128.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekutan.wqkls.asia",
+        "count": "127",
+        "first_seen": "2020-09-15 10:11:13",
+        "last_seen": "2020-09-19 09:47:53",
+        "ip_address": "104.27.129.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekutan.wqkls.asia",
+        "count": "127",
+        "first_seen": "2020-09-15 10:11:13",
+        "last_seen": "2020-09-19 09:47:53",
+        "ip_address": "172.67.207.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekutan.wqkls.asia",
+        "count": "20",
+        "first_seen": "2020-09-15 11:43:04",
+        "last_seen": "2020-09-19 09:47:52",
+        "ip_address": "2606:4700:3031::ac43:cf65",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rekutan.wqkls.asia",
+        "count": "20",
+        "first_seen": "2020-09-15 11:43:04",
+        "last_seen": "2020-09-19 09:47:52",
+        "ip_address": "2606:4700:3035::681b:804d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rekutan.wqkls.asia",
+        "count": "20",
+        "first_seen": "2020-09-15 11:43:04",
+        "last_seen": "2020-09-19 09:47:52",
+        "ip_address": "2606:4700:3036::681b:814d",
+        "type": "IPv6"
+    }
+]

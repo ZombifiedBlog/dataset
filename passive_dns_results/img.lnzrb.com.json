@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "img.lnzrb.com",
+        "count": "3365",
+        "first_seen": "2020-08-22 02:17:59",
+        "last_seen": "2020-11-19 05:32:15",
+        "ip_address": "104.27.132.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lnzrb.com",
+        "count": "3365",
+        "first_seen": "2020-08-22 02:17:59",
+        "last_seen": "2020-11-19 05:32:15",
+        "ip_address": "104.27.133.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lnzrb.com",
+        "count": "3365",
+        "first_seen": "2020-08-22 02:17:59",
+        "last_seen": "2020-11-19 05:32:15",
+        "ip_address": "172.67.217.231",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lnzrb.com",
+        "count": "2",
+        "first_seen": "2020-09-30 14:21:02",
+        "last_seen": "2020-09-30 14:21:02",
+        "ip_address": "172.64.81.216",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lnzrb.com",
+        "count": "2",
+        "first_seen": "2020-10-07 08:18:55",
+        "last_seen": "2020-10-07 08:18:55",
+        "ip_address": "172.64.87.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lnzrb.com",
+        "count": "2",
+        "first_seen": "2020-09-29 17:21:05",
+        "last_seen": "2020-09-29 17:21:05",
+        "ip_address": "172.64.90.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lnzrb.com",
+        "count": "2",
+        "first_seen": "2020-10-03 02:42:27",
+        "last_seen": "2020-10-03 02:42:27",
+        "ip_address": "172.64.94.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lnzrb.com",
+        "count": "2199",
+        "first_seen": "2020-11-18 22:24:52",
+        "last_seen": "2021-01-12 12:43:16",
+        "ip_address": "198.144.149.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lnzrb.com",
+        "count": "28",
+        "first_seen": "2022-11-10 23:11:13",
+        "last_seen": "2022-12-02 11:14:59",
+        "ip_address": "204.11.56.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lnzrb.com",
+        "count": "1218",
+        "first_seen": "2020-08-22 04:01:51",
+        "last_seen": "2020-11-18 18:45:27",
+        "ip_address": "2606:4700:3032::681b:8519",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lnzrb.com",
+        "count": "1218",
+        "first_seen": "2020-08-22 04:01:51",
+        "last_seen": "2020-11-18 18:45:27",
+        "ip_address": "2606:4700:3033::ac43:d9e7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lnzrb.com",
+        "count": "1218",
+        "first_seen": "2020-08-22 04:01:51",
+        "last_seen": "2020-11-18 18:45:27",
+        "ip_address": "2606:4700:3036::681b:8419",
+        "type": "IPv6"
+    }
+]

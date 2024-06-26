@@ -1,0 +1,178 @@
+[
+    {
+        "domain": "www.zoxrb.com",
+        "count": "29",
+        "first_seen": "2022-04-07 04:05:02",
+        "last_seen": "2022-04-22 08:45:06",
+        "ip_address": "104.21.69.244",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zoxrb.com",
+        "count": "29",
+        "first_seen": "2022-04-07 04:05:02",
+        "last_seen": "2022-04-22 08:45:06",
+        "ip_address": "172.67.216.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zoxrb.com",
+        "count": "1",
+        "first_seen": "2022-04-07 04:07:05",
+        "last_seen": "2022-04-07 04:07:05",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zoxrb.com",
+        "count": "12",
+        "first_seen": "2022-04-13 07:52:42",
+        "last_seen": "2022-04-22 10:11:19",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zoxrb.com",
+        "count": "12",
+        "first_seen": "2022-04-13 07:52:42",
+        "last_seen": "2022-04-22 10:11:19",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zoxrb.com",
+        "count": "3",
+        "first_seen": "2022-04-21 06:00:50",
+        "last_seen": "2022-04-22 03:34:53",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zoxrb.com",
+        "count": "3",
+        "first_seen": "2022-04-21 06:00:50",
+        "last_seen": "2022-04-22 03:34:53",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zoxrb.com",
+        "count": "30",
+        "first_seen": "2022-04-13 02:06:58",
+        "last_seen": "2022-04-22 13:38:38",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zoxrb.com",
+        "count": "30",
+        "first_seen": "2022-04-13 02:06:58",
+        "last_seen": "2022-04-22 13:38:38",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zoxrb.com",
+        "count": "158",
+        "first_seen": "2022-04-20 23:26:41",
+        "last_seen": "2022-04-22 09:14:34",
+        "ip_address": "188.114.96.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zoxrb.com",
+        "count": "158",
+        "first_seen": "2022-04-20 23:26:41",
+        "last_seen": "2022-04-22 09:14:34",
+        "ip_address": "188.114.97.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zoxrb.com",
+        "count": "5026",
+        "first_seen": "2021-06-13 01:41:59",
+        "last_seen": "2022-01-03 06:41:39",
+        "ip_address": "198.144.154.68",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zoxrb.com",
+        "count": "1",
+        "first_seen": "2022-04-21 11:17:56",
+        "last_seen": "2022-04-21 11:17:56",
+        "ip_address": "2606:4700:3030::ac43:d810",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zoxrb.com",
+        "count": "1",
+        "first_seen": "2022-04-21 11:17:56",
+        "last_seen": "2022-04-21 11:17:56",
+        "ip_address": "2606:4700:3033::6815:45f4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zoxrb.com",
+        "count": "2",
+        "first_seen": "2022-06-01 11:56:23",
+        "last_seen": "2022-06-01 11:56:23",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zoxrb.com",
+        "count": "2",
+        "first_seen": "2022-06-01 11:56:23",
+        "last_seen": "2022-06-01 11:56:23",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zoxrb.com",
+        "count": "2",
+        "first_seen": "2022-04-22 09:01:08",
+        "last_seen": "2022-05-04 06:04:06",
+        "ip_address": "2a06:98c1:3120::7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zoxrb.com",
+        "count": "2",
+        "first_seen": "2022-04-22 09:01:08",
+        "last_seen": "2022-05-04 06:04:06",
+        "ip_address": "2a06:98c1:3121::7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zoxrb.com",
+        "count": "2",
+        "first_seen": "2022-04-21 20:14:20",
+        "last_seen": "2022-04-22 06:33:23",
+        "ip_address": "2a06:98c1:3120::8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zoxrb.com",
+        "count": "2",
+        "first_seen": "2022-04-21 20:14:20",
+        "last_seen": "2022-04-22 06:33:23",
+        "ip_address": "2a06:98c1:3121::8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zoxrb.com",
+        "count": "67",
+        "first_seen": "2022-04-20 23:26:43",
+        "last_seen": "2022-04-22 09:14:34",
+        "ip_address": "2a06:98c1:3120::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zoxrb.com",
+        "count": "67",
+        "first_seen": "2022-04-20 23:26:43",
+        "last_seen": "2022-04-22 09:14:34",
+        "ip_address": "2a06:98c1:3121::16",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "homeward.co.ke",
+        "count": "317",
+        "first_seen": "2012-06-08 21:26:06",
+        "last_seen": "2014-12-17 11:09:11",
+        "ip_address": "69.65.11.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "homeward.co.ke",
+        "count": "1964",
+        "first_seen": "2014-12-18 03:58:54",
+        "last_seen": "2018-07-25 11:27:07",
+        "ip_address": "74.63.45.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "homeward.co.ke",
+        "count": "5706",
+        "first_seen": "2018-07-26 08:47:57",
+        "last_seen": "2024-01-18 07:19:45",
+        "ip_address": "208.100.11.184",
+        "type": "IPv4"
+    },
+    {
+        "domain": "homeward.co.ke",
+        "count": "1",
+        "first_seen": "2023-04-11 02:22:55",
+        "last_seen": "2023-04-11 02:22:55",
+        "ip_address": "208.100.22.153",
+        "type": "IPv4"
+    }
+]

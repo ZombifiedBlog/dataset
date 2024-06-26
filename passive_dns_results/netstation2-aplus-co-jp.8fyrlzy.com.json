@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "netstation2-aplus-co-jp.8fyrlzy.com",
+        "count": "11",
+        "first_seen": "2022-04-20 14:37:15",
+        "last_seen": "2022-04-21 12:03:18",
+        "ip_address": "104.21.66.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.8fyrlzy.com",
+        "count": "11",
+        "first_seen": "2022-04-20 14:37:15",
+        "last_seen": "2022-04-21 12:03:18",
+        "ip_address": "172.67.159.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.8fyrlzy.com",
+        "count": "71",
+        "first_seen": "2022-04-20 17:54:30",
+        "last_seen": "2022-04-25 17:20:59",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.8fyrlzy.com",
+        "count": "71",
+        "first_seen": "2022-04-20 17:54:30",
+        "last_seen": "2022-04-25 17:20:59",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.8fyrlzy.com",
+        "count": "1",
+        "first_seen": "2022-04-20 15:52:43",
+        "last_seen": "2022-04-20 15:52:43",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.8fyrlzy.com",
+        "count": "1",
+        "first_seen": "2022-04-20 15:52:43",
+        "last_seen": "2022-04-20 15:52:43",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.8fyrlzy.com",
+        "count": "55",
+        "first_seen": "2022-04-20 15:54:46",
+        "last_seen": "2022-04-25 17:20:59",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.8fyrlzy.com",
+        "count": "55",
+        "first_seen": "2022-04-20 15:54:46",
+        "last_seen": "2022-04-25 17:20:59",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.8fyrlzy.com",
+        "count": "46",
+        "first_seen": "2022-04-20 14:04:14",
+        "last_seen": "2022-04-20 18:52:53",
+        "ip_address": "188.114.96.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.8fyrlzy.com",
+        "count": "46",
+        "first_seen": "2022-04-20 14:04:14",
+        "last_seen": "2022-04-20 18:52:53",
+        "ip_address": "188.114.97.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.8fyrlzy.com",
+        "count": "19",
+        "first_seen": "2022-04-20 14:04:14",
+        "last_seen": "2022-04-20 18:52:53",
+        "ip_address": "2a06:98c1:3120::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.8fyrlzy.com",
+        "count": "19",
+        "first_seen": "2022-04-20 14:04:14",
+        "last_seen": "2022-04-20 18:52:53",
+        "ip_address": "2a06:98c1:3121::16",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "jp-amazon.2pii.top",
+        "count": "13",
+        "first_seen": "2021-10-22 16:08:54",
+        "last_seen": "2022-06-10 05:03:59",
+        "ip_address": "35.186.238.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jp-amazon.2pii.top",
+        "count": "2",
+        "first_seen": "2022-06-20 00:09:46",
+        "last_seen": "2022-07-07 00:07:09",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jp-amazon.2pii.top",
+        "count": "373",
+        "first_seen": "2021-06-17 17:52:30",
+        "last_seen": "2021-08-12 21:10:57",
+        "ip_address": "155.94.156.143",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "www.blclawcenter.com",
+        "count": "10829",
+        "first_seen": "2016-08-04 13:41:35",
+        "last_seen": "2017-09-23 04:18:37",
+        "ip_address": "67.202.92.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.blclawcenter.com",
+        "count": "64549",
+        "first_seen": "2014-09-26 02:01:34",
+        "last_seen": "2019-01-13 07:52:58",
+        "ip_address": "104.28.26.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.blclawcenter.com",
+        "count": "64549",
+        "first_seen": "2014-09-26 02:01:34",
+        "last_seen": "2019-01-13 07:52:58",
+        "ip_address": "104.28.27.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.blclawcenter.com",
+        "count": "51",
+        "first_seen": "2015-01-09 22:33:04",
+        "last_seen": "2015-01-17 09:38:39",
+        "ip_address": "108.162.194.154",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.blclawcenter.com",
+        "count": "51",
+        "first_seen": "2015-01-09 22:33:04",
+        "last_seen": "2015-01-17 09:38:39",
+        "ip_address": "108.162.195.154",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.blclawcenter.com",
+        "count": "23152",
+        "first_seen": "2019-01-12 03:56:31",
+        "last_seen": "2021-11-17 14:03:30",
+        "ip_address": "194.1.147.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.blclawcenter.com",
+        "count": "23152",
+        "first_seen": "2019-01-12 03:56:31",
+        "last_seen": "2021-11-17 14:03:30",
+        "ip_address": "194.1.147.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.blclawcenter.com",
+        "count": "2013",
+        "first_seen": "2014-09-25 08:41:53",
+        "last_seen": "2016-08-04 11:40:02",
+        "ip_address": "208.100.3.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.blclawcenter.com",
+        "count": "14649",
+        "first_seen": "2017-09-22 00:15:05",
+        "last_seen": "2018-09-25 10:57:36",
+        "ip_address": "2400:cb00:2048:1::681c:1a78",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.blclawcenter.com",
+        "count": "14649",
+        "first_seen": "2017-09-22 00:15:05",
+        "last_seen": "2018-09-25 10:57:36",
+        "ip_address": "2400:cb00:2048:1::681c:1b78",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.blclawcenter.com",
+        "count": "4181",
+        "first_seen": "2018-09-25 13:45:09",
+        "last_seen": "2019-01-13 06:33:01",
+        "ip_address": "2606:4700:30::681c:1a78",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.blclawcenter.com",
+        "count": "4181",
+        "first_seen": "2018-09-25 13:45:09",
+        "last_seen": "2019-01-13 06:33:01",
+        "ip_address": "2606:4700:30::681c:1b78",
+        "type": "IPv6"
+    }
+]

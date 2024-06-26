@@ -1,0 +1,378 @@
+[
+    {
+        "domain": "sm.ms",
+        "count": "86",
+        "first_seen": "2016-05-19 12:22:35",
+        "last_seen": "2016-05-29 21:42:48",
+        "ip_address": "43.249.37.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "21839",
+        "first_seen": "2017-09-12 15:33:00",
+        "last_seen": "2017-12-26 11:31:58",
+        "ip_address": "47.52.96.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "51644",
+        "first_seen": "2016-05-31 09:30:15",
+        "last_seen": "2017-01-02 15:13:34",
+        "ip_address": "47.88.193.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "32603",
+        "first_seen": "2017-01-02 15:20:34",
+        "last_seen": "2017-05-03 04:34:51",
+        "ip_address": "47.88.212.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "62715",
+        "first_seen": "2017-05-03 04:41:13",
+        "last_seen": "2017-09-12 15:31:32",
+        "ip_address": "47.88.228.252",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "38894",
+        "first_seen": "2018-08-29 14:57:13",
+        "last_seen": "2020-02-13 11:22:08",
+        "ip_address": "47.88.229.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "7767",
+        "first_seen": "2018-10-31 22:44:31",
+        "last_seen": "2018-12-20 17:33:33",
+        "ip_address": "61.238.139.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "48668",
+        "first_seen": "2017-12-26 11:39:09",
+        "last_seen": "2018-08-29 14:46:14",
+        "ip_address": "61.244.29.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "101977",
+        "first_seen": "2020-12-15 14:23:03",
+        "last_seen": "2021-06-04 01:51:09",
+        "ip_address": "75.2.11.202",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "101977",
+        "first_seen": "2020-12-15 14:23:03",
+        "last_seen": "2021-06-04 01:51:09",
+        "ip_address": "99.83.202.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "25",
+        "first_seen": "2010-08-17 14:26:04",
+        "last_seen": "2010-09-08 04:58:03",
+        "ip_address": "78.47.200.154",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "25",
+        "first_seen": "2010-08-17 14:26:04",
+        "last_seen": "2010-09-08 04:58:03",
+        "ip_address": "212.227.111.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "25",
+        "first_seen": "2010-08-17 14:26:04",
+        "last_seen": "2010-09-08 04:58:03",
+        "ip_address": "217.11.54.126",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "1148",
+        "first_seen": "2015-10-09 12:14:31",
+        "last_seen": "2016-05-19 04:37:15",
+        "ip_address": "103.56.55.54",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "1755",
+        "first_seen": "2020-02-13 11:54:30",
+        "last_seen": "2020-03-17 02:24:32",
+        "ip_address": "103.88.45.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "37",
+        "first_seen": "2020-03-17 04:23:36",
+        "last_seen": "2020-03-18 00:36:20",
+        "ip_address": "103.88.45.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "832641",
+        "first_seen": "2021-06-04 01:57:51",
+        "last_seen": "2024-01-18 14:03:27",
+        "ip_address": "104.21.83.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "832641",
+        "first_seen": "2021-06-04 01:57:51",
+        "last_seen": "2024-01-18 14:03:27",
+        "ip_address": "172.67.213.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "21000",
+        "first_seen": "2020-03-18 03:50:50",
+        "last_seen": "2020-09-05 07:24:05",
+        "ip_address": "104.26.0.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "21000",
+        "first_seen": "2020-03-18 03:50:50",
+        "last_seen": "2020-09-05 07:24:05",
+        "ip_address": "104.26.1.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "18060",
+        "first_seen": "2020-09-05 12:33:29",
+        "last_seen": "2020-12-15 14:20:54",
+        "ip_address": "104.26.0.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "18060",
+        "first_seen": "2020-09-05 12:33:29",
+        "last_seen": "2020-12-15 14:20:54",
+        "ip_address": "172.67.71.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "3",
+        "first_seen": "2020-03-18 01:38:01",
+        "last_seen": "2020-03-18 01:39:01",
+        "ip_address": "104.27.140.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "3",
+        "first_seen": "2020-03-18 01:38:01",
+        "last_seen": "2020-03-18 01:39:01",
+        "ip_address": "104.27.141.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "56",
+        "first_seen": "2010-10-06 15:23:19",
+        "last_seen": "2010-11-08 20:06:04",
+        "ip_address": "109.234.109.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "56",
+        "first_seen": "2010-10-06 15:23:19",
+        "last_seen": "2010-11-08 20:06:04",
+        "ip_address": "109.234.109.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "56",
+        "first_seen": "2010-10-06 15:23:19",
+        "last_seen": "2010-11-08 20:06:04",
+        "ip_address": "217.11.54.126",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "55",
+        "first_seen": "2010-09-09 02:23:31",
+        "last_seen": "2010-10-06 12:19:37",
+        "ip_address": "109.234.109.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "55",
+        "first_seen": "2010-09-09 02:23:31",
+        "last_seen": "2010-10-06 12:19:37",
+        "ip_address": "212.227.111.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "55",
+        "first_seen": "2010-09-09 02:23:31",
+        "last_seen": "2010-10-06 12:19:37",
+        "ip_address": "217.11.54.126",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "1330",
+        "first_seen": "2017-11-30 17:08:16",
+        "last_seen": "2017-12-08 05:49:31",
+        "ip_address": "119.9.95.68",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "3",
+        "first_seen": "2016-05-30 14:04:05",
+        "last_seen": "2016-05-30 22:46:28",
+        "ip_address": "119.81.253.73",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "1093",
+        "first_seen": "2015-02-10 20:39:18",
+        "last_seen": "2015-10-01 20:39:54",
+        "ip_address": "157.7.120.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "6",
+        "first_seen": "2014-04-27 02:09:10",
+        "last_seen": "2014-11-30 19:26:34",
+        "ip_address": "168.63.155.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "70288",
+        "first_seen": "2017-09-12 15:33:00",
+        "last_seen": "2018-08-29 14:46:14",
+        "ip_address": "2001:470:19:e14:8888:8888:8888:8888",
+        "type": "IPv6"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "1085",
+        "first_seen": "2020-01-16 13:41:47",
+        "last_seen": "2020-02-13 11:22:08",
+        "ip_address": "2001:470:35:52c::2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "61471",
+        "first_seen": "2017-05-03 04:52:50",
+        "last_seen": "2017-09-12 15:17:45",
+        "ip_address": "2001:470:36:390::babe",
+        "type": "IPv6"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "12050",
+        "first_seen": "2018-08-29 14:57:13",
+        "last_seen": "2018-11-01 18:12:06",
+        "ip_address": "2001:470:36:52c::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "864",
+        "first_seen": "2020-02-13 11:54:30",
+        "last_seen": "2020-03-17 02:14:44",
+        "ip_address": "2400:ddc0::babe",
+        "type": "IPv6"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "1330",
+        "first_seen": "2017-11-30 17:08:16",
+        "last_seen": "2017-12-08 05:49:31",
+        "ip_address": "2401:1800:7800:102:be76:4eff:fe1c:14e2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "32693",
+        "first_seen": "2018-10-31 22:44:31",
+        "last_seen": "2020-01-16 12:38:04",
+        "ip_address": "2403:5180:8::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "18314",
+        "first_seen": "2020-03-18 06:04:16",
+        "last_seen": "2020-12-15 14:17:38",
+        "ip_address": "2606:4700:20::681a:7c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "18314",
+        "first_seen": "2020-03-18 06:04:16",
+        "last_seen": "2020-12-15 14:17:38",
+        "ip_address": "2606:4700:20::681a:17c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "2",
+        "first_seen": "2020-03-18 01:39:01",
+        "last_seen": "2020-03-18 01:39:01",
+        "ip_address": "2606:4700:3033::681b:8cf8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "2",
+        "first_seen": "2020-03-18 01:39:01",
+        "last_seen": "2020-03-18 01:39:01",
+        "ip_address": "2606:4700:3035::681b:8df8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "72725",
+        "first_seen": "2021-06-04 02:19:23",
+        "last_seen": "2024-01-18 13:30:08",
+        "ip_address": "2606:4700:3037::6815:532d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "sm.ms",
+        "count": "72725",
+        "first_seen": "2021-06-04 02:19:23",
+        "last_seen": "2024-01-18 13:30:08",
+        "ip_address": "2606:4700:3037::ac43:d501",
+        "type": "IPv6"
+    }
+]

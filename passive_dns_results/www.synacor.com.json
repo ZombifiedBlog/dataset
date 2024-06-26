@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "www.synacor.com",
+        "count": "18566",
+        "first_seen": "2014-04-24 15:29:09",
+        "last_seen": "2015-03-12 08:11:47",
+        "ip_address": "63.144.116.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.synacor.com",
+        "count": "12209",
+        "first_seen": "2015-03-12 14:04:05",
+        "last_seen": "2015-07-29 19:53:04",
+        "ip_address": "63.144.116.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.synacor.com",
+        "count": "68141",
+        "first_seen": "2015-07-29 20:18:48",
+        "last_seen": "2017-01-19 18:43:47",
+        "ip_address": "69.168.96.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.synacor.com",
+        "count": "14416",
+        "first_seen": "2011-02-07 11:38:00",
+        "last_seen": "2012-05-21 23:59:24",
+        "ip_address": "74.217.32.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.synacor.com",
+        "count": "31417",
+        "first_seen": "2012-05-22 00:09:43",
+        "last_seen": "2014-04-24 14:11:48",
+        "ip_address": "74.217.32.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.synacor.com",
+        "count": "6234",
+        "first_seen": "2010-06-24 08:46:23",
+        "last_seen": "2011-02-07 08:08:35",
+        "ip_address": "74.217.33.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.synacor.com",
+        "count": "1452",
+        "first_seen": "2022-06-16 14:33:11",
+        "last_seen": "2022-06-27 12:46:41",
+        "ip_address": "162.159.129.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.synacor.com",
+        "count": "2",
+        "first_seen": "2022-06-17 14:26:42",
+        "last_seen": "2022-06-17 14:26:42",
+        "ip_address": "208.97.186.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.synacor.com",
+        "count": "37",
+        "first_seen": "2022-06-16 11:23:29",
+        "last_seen": "2022-06-17 14:16:24",
+        "ip_address": "208.113.145.221",
+        "type": "IPv4"
+    }
+]

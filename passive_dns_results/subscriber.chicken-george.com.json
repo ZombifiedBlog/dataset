@@ -1,0 +1,186 @@
+[
+    {
+        "domain": "subscriber.chicken-george.com",
+        "count": "1",
+        "first_seen": "2023-07-07 21:25:17",
+        "last_seen": "2023-07-07 21:25:17",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chicken-george.com",
+        "count": "3",
+        "first_seen": "2023-10-13 13:03:47",
+        "last_seen": "2023-10-25 09:51:23",
+        "ip_address": "103.224.212.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chicken-george.com",
+        "count": "11",
+        "first_seen": "2023-04-05 14:19:32",
+        "last_seen": "2023-09-22 07:38:05",
+        "ip_address": "103.224.212.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chicken-george.com",
+        "count": "382",
+        "first_seen": "2022-11-30 04:23:01",
+        "last_seen": "2023-01-06 03:23:10",
+        "ip_address": "104.21.67.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chicken-george.com",
+        "count": "382",
+        "first_seen": "2022-11-30 04:23:01",
+        "last_seen": "2023-01-06 03:23:10",
+        "ip_address": "172.67.218.109",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chicken-george.com",
+        "count": "3",
+        "first_seen": "2022-11-30 05:54:35",
+        "last_seen": "2023-01-01 06:05:15",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chicken-george.com",
+        "count": "3",
+        "first_seen": "2022-11-30 05:54:35",
+        "last_seen": "2023-01-01 06:05:15",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chicken-george.com",
+        "count": "25",
+        "first_seen": "2022-11-30 04:12:42",
+        "last_seen": "2023-01-02 09:28:24",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chicken-george.com",
+        "count": "25",
+        "first_seen": "2022-11-30 04:12:42",
+        "last_seen": "2023-01-02 09:28:24",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chicken-george.com",
+        "count": "1",
+        "first_seen": "2022-12-24 04:39:58",
+        "last_seen": "2022-12-24 04:39:58",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chicken-george.com",
+        "count": "1",
+        "first_seen": "2022-12-24 04:39:58",
+        "last_seen": "2022-12-24 04:39:58",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chicken-george.com",
+        "count": "1",
+        "first_seen": "2022-12-02 08:35:45",
+        "last_seen": "2022-12-02 08:35:45",
+        "ip_address": "188.114.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chicken-george.com",
+        "count": "1",
+        "first_seen": "2022-12-02 08:35:45",
+        "last_seen": "2022-12-02 08:35:45",
+        "ip_address": "188.114.97.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chicken-george.com",
+        "count": "4",
+        "first_seen": "2022-12-23 14:47:30",
+        "last_seen": "2022-12-29 08:41:43",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chicken-george.com",
+        "count": "4",
+        "first_seen": "2022-12-23 14:47:30",
+        "last_seen": "2022-12-29 08:41:43",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chicken-george.com",
+        "count": "36",
+        "first_seen": "2023-01-11 15:30:10",
+        "last_seen": "2023-02-17 04:37:18",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chicken-george.com",
+        "count": "1",
+        "first_seen": "2023-09-28 17:22:45",
+        "last_seen": "2023-09-28 17:22:45",
+        "ip_address": "103.224.212.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chicken-george.com",
+        "count": "9",
+        "first_seen": "2022-11-30 06:14:44",
+        "last_seen": "2023-01-06 03:23:10",
+        "ip_address": "2606:4700:3034::ac43:da6d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.chicken-george.com",
+        "count": "9",
+        "first_seen": "2022-11-30 06:14:44",
+        "last_seen": "2023-01-06 03:23:10",
+        "ip_address": "2606:4700:3037::6815:434c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.chicken-george.com",
+        "count": "10",
+        "first_seen": "2022-12-01 00:23:42",
+        "last_seen": "2022-12-28 14:44:48",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.chicken-george.com",
+        "count": "10",
+        "first_seen": "2022-12-01 00:23:42",
+        "last_seen": "2022-12-28 14:44:48",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.chicken-george.com",
+        "count": "3",
+        "first_seen": "2022-12-23 13:00:22",
+        "last_seen": "2022-12-29 08:41:43",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.chicken-george.com",
+        "count": "3",
+        "first_seen": "2022-12-23 13:00:22",
+        "last_seen": "2022-12-29 08:41:43",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

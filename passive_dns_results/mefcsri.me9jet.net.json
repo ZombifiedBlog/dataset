@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "mefcsri.me9jet.net",
+        "count": "124",
+        "first_seen": "2021-11-30 02:39:52",
+        "last_seen": "2021-12-21 05:20:09",
+        "ip_address": "45.13.132.243",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mefcsri.me9jet.net",
+        "count": "344",
+        "first_seen": "2021-12-25 20:35:39",
+        "last_seen": "2022-11-24 23:19:58",
+        "ip_address": "103.114.163.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mefcsri.me9jet.net",
+        "count": "1",
+        "first_seen": "2022-11-30 18:39:31",
+        "last_seen": "2022-11-30 18:39:31",
+        "ip_address": "209.99.40.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mefcsri.me9jet.net",
+        "count": "171",
+        "first_seen": "2021-12-30 03:52:58",
+        "last_seen": "2022-07-02 02:41:20",
+        "ip_address": "2402:d0c0:2:5c17::1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mefcsri.me9jet.net",
+        "count": "73",
+        "first_seen": "2021-11-30 03:09:07",
+        "last_seen": "2021-12-21 00:14:12",
+        "ip_address": "2a02:4780:e:a7c1::1",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "subscriber.gbhb8.com",
+        "count": "3",
+        "first_seen": "2021-03-04 05:31:01",
+        "last_seen": "2021-03-04 05:31:04",
+        "ip_address": "47.74.14.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gbhb8.com",
+        "count": "1563",
+        "first_seen": "2020-10-29 14:59:25",
+        "last_seen": "2020-12-19 12:35:08",
+        "ip_address": "104.27.152.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gbhb8.com",
+        "count": "1563",
+        "first_seen": "2020-10-29 14:59:25",
+        "last_seen": "2020-12-19 12:35:08",
+        "ip_address": "104.27.153.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gbhb8.com",
+        "count": "1563",
+        "first_seen": "2020-10-29 14:59:25",
+        "last_seen": "2020-12-19 12:35:08",
+        "ip_address": "172.67.137.115",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gbhb8.com",
+        "count": "5",
+        "first_seen": "2021-01-09 07:31:28",
+        "last_seen": "2021-01-29 14:42:07",
+        "ip_address": "154.213.192.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gbhb8.com",
+        "count": "2",
+        "first_seen": "2020-11-28 08:03:14",
+        "last_seen": "2020-11-28 08:03:14",
+        "ip_address": "172.64.83.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gbhb8.com",
+        "count": "311",
+        "first_seen": "2020-10-30 00:39:47",
+        "last_seen": "2020-12-10 14:21:12",
+        "ip_address": "2606:4700:3033::ac43:8973",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.gbhb8.com",
+        "count": "311",
+        "first_seen": "2020-10-30 00:39:47",
+        "last_seen": "2020-12-10 14:21:12",
+        "ip_address": "2606:4700:3035::681b:9812",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.gbhb8.com",
+        "count": "311",
+        "first_seen": "2020-10-30 00:39:47",
+        "last_seen": "2020-12-10 14:21:12",
+        "ip_address": "2606:4700:3037::681b:9912",
+        "type": "IPv6"
+    }
+]

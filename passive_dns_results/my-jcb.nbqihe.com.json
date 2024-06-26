@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "my-jcb.nbqihe.com",
+        "count": "5",
+        "first_seen": "2020-11-25 19:09:51",
+        "last_seen": "2020-12-08 19:19:37",
+        "ip_address": "47.91.29.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.nbqihe.com",
+        "count": "128",
+        "first_seen": "2020-11-11 23:33:09",
+        "last_seen": "2020-11-15 04:57:45",
+        "ip_address": "104.28.16.126",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.nbqihe.com",
+        "count": "128",
+        "first_seen": "2020-11-11 23:33:09",
+        "last_seen": "2020-11-15 04:57:45",
+        "ip_address": "104.28.17.126",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.nbqihe.com",
+        "count": "128",
+        "first_seen": "2020-11-11 23:33:09",
+        "last_seen": "2020-11-15 04:57:45",
+        "ip_address": "172.67.135.231",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.nbqihe.com",
+        "count": "9",
+        "first_seen": "2021-11-13 01:03:04",
+        "last_seen": "2022-04-26 12:01:41",
+        "ip_address": "156.233.232.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.nbqihe.com",
+        "count": "27",
+        "first_seen": "2020-11-11 23:33:09",
+        "last_seen": "2020-11-15 04:57:45",
+        "ip_address": "2606:4700:3032::681c:117e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.nbqihe.com",
+        "count": "27",
+        "first_seen": "2020-11-11 23:33:09",
+        "last_seen": "2020-11-15 04:57:45",
+        "ip_address": "2606:4700:3033::ac43:87e7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.nbqihe.com",
+        "count": "27",
+        "first_seen": "2020-11-11 23:33:09",
+        "last_seen": "2020-11-15 04:57:45",
+        "ip_address": "2606:4700:3035::681c:107e",
+        "type": "IPv6"
+    }
+]

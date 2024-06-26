@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.s.epscmerd.com",
+        "count": "254",
+        "first_seen": "2022-02-21 20:17:04",
+        "last_seen": "2022-02-24 00:47:56",
+        "ip_address": "23.94.174.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.s.epscmerd.com",
+        "count": "1",
+        "first_seen": "2023-02-21 23:25:02",
+        "last_seen": "2023-02-21 23:25:02",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.s.epscmerd.com",
+        "count": "3",
+        "first_seen": "2023-02-21 23:24:35",
+        "last_seen": "2023-03-29 00:34:49",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

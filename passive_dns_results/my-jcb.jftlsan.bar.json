@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "my-jcb.jftlsan.bar",
+        "count": "49",
+        "first_seen": "2021-03-16 16:27:39",
+        "last_seen": "2021-03-17 08:20:14",
+        "ip_address": "103.245.209.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.jftlsan.bar",
+        "count": "42",
+        "first_seen": "2021-03-16 06:10:26",
+        "last_seen": "2021-03-16 07:23:24",
+        "ip_address": "104.244.72.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.jftlsan.bar",
+        "count": "58",
+        "first_seen": "2021-03-15 14:29:26",
+        "last_seen": "2021-03-15 15:57:45",
+        "ip_address": "209.141.40.171",
+        "type": "IPv4"
+    }
+]

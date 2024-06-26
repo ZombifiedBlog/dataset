@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "www-eposcard-co-jp.work-australia.com",
+        "count": "440",
+        "first_seen": "2022-07-20 13:41:04",
+        "last_seen": "2022-12-22 13:38:46",
+        "ip_address": "104.21.57.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-eposcard-co-jp.work-australia.com",
+        "count": "440",
+        "first_seen": "2022-07-20 13:41:04",
+        "last_seen": "2022-12-22 13:38:46",
+        "ip_address": "172.67.164.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-eposcard-co-jp.work-australia.com",
+        "count": "2",
+        "first_seen": "2022-07-23 00:50:50",
+        "last_seen": "2022-07-23 01:07:34",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-eposcard-co-jp.work-australia.com",
+        "count": "2",
+        "first_seen": "2022-07-23 00:50:50",
+        "last_seen": "2022-07-23 01:07:34",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-eposcard-co-jp.work-australia.com",
+        "count": "25",
+        "first_seen": "2022-07-20 14:06:19",
+        "last_seen": "2022-08-19 15:20:12",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-eposcard-co-jp.work-australia.com",
+        "count": "25",
+        "first_seen": "2022-07-20 14:06:19",
+        "last_seen": "2022-08-19 15:20:12",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-eposcard-co-jp.work-australia.com",
+        "count": "14",
+        "first_seen": "2022-07-20 13:44:41",
+        "last_seen": "2022-07-20 18:42:43",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-eposcard-co-jp.work-australia.com",
+        "count": "14",
+        "first_seen": "2022-07-20 13:44:41",
+        "last_seen": "2022-07-20 18:42:43",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-eposcard-co-jp.work-australia.com",
+        "count": "1",
+        "first_seen": "2022-11-03 08:21:14",
+        "last_seen": "2022-11-03 08:21:14",
+        "ip_address": "2606:4700:3035::ac43:a410",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-eposcard-co-jp.work-australia.com",
+        "count": "1",
+        "first_seen": "2022-11-03 08:21:14",
+        "last_seen": "2022-11-03 08:21:14",
+        "ip_address": "2606:4700:3036::6815:3985",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-eposcard-co-jp.work-australia.com",
+        "count": "7",
+        "first_seen": "2022-07-20 13:44:41",
+        "last_seen": "2022-07-20 18:42:43",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-eposcard-co-jp.work-australia.com",
+        "count": "7",
+        "first_seen": "2022-07-20 13:44:41",
+        "last_seen": "2022-07-20 18:42:43",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "ankertkepoint.net",
+        "count": "4",
+        "first_seen": "2021-08-07 12:55:38",
+        "last_seen": "2021-08-23 03:21:25",
+        "ip_address": "52.25.92.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ankertkepoint.net",
+        "count": "1",
+        "first_seen": "2021-08-23 03:44:14",
+        "last_seen": "2021-08-23 03:44:14",
+        "ip_address": "54.65.172.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ankertkepoint.net",
+        "count": "3",
+        "first_seen": "2021-11-02 02:26:01",
+        "last_seen": "2021-11-02 02:28:57",
+        "ip_address": "103.224.212.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ankertkepoint.net",
+        "count": "4066",
+        "first_seen": "2020-08-12 10:51:56",
+        "last_seen": "2021-08-03 00:34:58",
+        "ip_address": "103.228.63.249",
+        "type": "IPv4"
+    }
+]

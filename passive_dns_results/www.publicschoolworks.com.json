@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.publicschoolworks.com",
+        "count": "184721",
+        "first_seen": "2014-07-12 07:07:27",
+        "last_seen": "2016-06-26 04:43:27",
+        "ip_address": "64.18.198.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.publicschoolworks.com",
+        "count": "231420",
+        "first_seen": "2010-07-19 07:47:55",
+        "last_seen": "2014-07-12 06:52:03",
+        "ip_address": "64.18.218.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.publicschoolworks.com",
+        "count": "475840",
+        "first_seen": "2017-05-01 18:55:23",
+        "last_seen": "2023-12-16 03:09:57",
+        "ip_address": "98.159.151.130",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.publicschoolworks.com",
+        "count": "67591",
+        "first_seen": "2016-06-26 04:50:24",
+        "last_seen": "2017-05-01 19:40:54",
+        "ip_address": "98.159.151.131",
+        "type": "IPv4"
+    }
+]

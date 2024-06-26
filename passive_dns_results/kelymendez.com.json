@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "kelymendez.com",
+        "count": "7088",
+        "first_seen": "2015-07-17 16:20:22",
+        "last_seen": "2024-01-18 00:19:18",
+        "ip_address": "5.145.170.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kelymendez.com",
+        "count": "3",
+        "first_seen": "2021-03-14 10:18:04",
+        "last_seen": "2021-03-14 21:13:55",
+        "ip_address": "37.152.88.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kelymendez.com",
+        "count": "1",
+        "first_seen": "2011-01-19 20:06:21",
+        "last_seen": "2011-01-19 20:06:21",
+        "ip_address": "92.43.17.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kelymendez.com",
+        "count": "29",
+        "first_seen": "2011-06-07 09:36:22",
+        "last_seen": "2013-02-05 14:29:40",
+        "ip_address": "93.189.33.151",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kelymendez.com",
+        "count": "2",
+        "first_seen": "2011-02-03 02:53:23",
+        "last_seen": "2011-02-05 02:07:23",
+        "ip_address": "93.189.35.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kelymendez.com",
+        "count": "105",
+        "first_seen": "2013-03-05 09:55:30",
+        "last_seen": "2015-07-16 23:46:20",
+        "ip_address": "188.165.129.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kelymendez.com",
+        "count": "1949",
+        "first_seen": "2015-07-17 20:34:25",
+        "last_seen": "2024-01-10 13:15:19",
+        "ip_address": "2a00:1d70:c01c::170:11",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www-jaccs-co-jp.i8l7if28.com",
+        "count": "195",
+        "first_seen": "2022-09-05 20:44:41",
+        "last_seen": "2022-10-08 17:17:52",
+        "ip_address": "103.120.80.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.i8l7if28.com",
+        "count": "195",
+        "first_seen": "2022-09-05 20:44:41",
+        "last_seen": "2022-10-08 17:17:52",
+        "ip_address": "103.139.0.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.i8l7if28.com",
+        "count": "2117",
+        "first_seen": "2022-07-22 14:15:18",
+        "last_seen": "2022-09-05 20:02:33",
+        "ip_address": "104.21.66.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.i8l7if28.com",
+        "count": "2117",
+        "first_seen": "2022-07-22 14:15:18",
+        "last_seen": "2022-09-05 20:02:33",
+        "ip_address": "172.67.164.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.i8l7if28.com",
+        "count": "1",
+        "first_seen": "2022-07-22 15:45:03",
+        "last_seen": "2022-07-22 15:45:03",
+        "ip_address": "2606:4700:3032::6815:42d3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.i8l7if28.com",
+        "count": "1",
+        "first_seen": "2022-07-22 15:45:03",
+        "last_seen": "2022-07-22 15:45:03",
+        "ip_address": "2606:4700:3036::ac43:a460",
+        "type": "IPv6"
+    }
+]

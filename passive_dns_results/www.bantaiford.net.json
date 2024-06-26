@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.bantaiford.net",
+        "count": "2",
+        "first_seen": "2020-08-01 21:03:45",
+        "last_seen": "2020-08-01 21:03:45",
+        "ip_address": "87.236.16.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bantaiford.net",
+        "count": "2",
+        "first_seen": "2021-09-02 17:34:44",
+        "last_seen": "2021-09-02 17:34:44",
+        "ip_address": "99.83.154.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bantaiford.net",
+        "count": "730",
+        "first_seen": "2020-09-16 12:08:50",
+        "last_seen": "2020-09-21 16:16:26",
+        "ip_address": "104.28.10.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bantaiford.net",
+        "count": "730",
+        "first_seen": "2020-09-16 12:08:50",
+        "last_seen": "2020-09-21 16:16:26",
+        "ip_address": "104.28.11.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bantaiford.net",
+        "count": "730",
+        "first_seen": "2020-09-16 12:08:50",
+        "last_seen": "2020-09-21 16:16:26",
+        "ip_address": "172.67.133.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bantaiford.net",
+        "count": "324",
+        "first_seen": "2020-09-16 12:08:56",
+        "last_seen": "2020-09-21 16:16:26",
+        "ip_address": "2606:4700:3030::681c:a58",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bantaiford.net",
+        "count": "324",
+        "first_seen": "2020-09-16 12:08:56",
+        "last_seen": "2020-09-21 16:16:26",
+        "ip_address": "2606:4700:3030::681c:b58",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bantaiford.net",
+        "count": "324",
+        "first_seen": "2020-09-16 12:08:56",
+        "last_seen": "2020-09-21 16:16:26",
+        "ip_address": "2606:4700:3031::ac43:8580",
+        "type": "IPv6"
+    }
+]

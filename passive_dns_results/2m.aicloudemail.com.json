@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "2m.aicloudemail.com",
+        "count": "2377",
+        "first_seen": "2019-05-05 04:14:50",
+        "last_seen": "2019-11-10 06:32:34",
+        "ip_address": "3.1.232.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "2m.aicloudemail.com",
+        "count": "34",
+        "first_seen": "2021-04-19 15:12:15",
+        "last_seen": "2022-09-17 10:18:30",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "2m.aicloudemail.com",
+        "count": "3",
+        "first_seen": "2021-12-10 04:01:00",
+        "last_seen": "2022-01-02 22:05:26",
+        "ip_address": "104.247.81.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "2m.aicloudemail.com",
+        "count": "1",
+        "first_seen": "2022-08-06 19:46:49",
+        "last_seen": "2022-08-06 19:46:49",
+        "ip_address": "104.247.82.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "2m.aicloudemail.com",
+        "count": "18",
+        "first_seen": "2021-12-08 10:08:18",
+        "last_seen": "2022-07-20 05:13:33",
+        "ip_address": "185.53.177.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "2m.aicloudemail.com",
+        "count": "1",
+        "first_seen": "2022-08-02 16:21:05",
+        "last_seen": "2022-08-02 16:21:05",
+        "ip_address": "185.53.179.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "2m.aicloudemail.com",
+        "count": "41",
+        "first_seen": "2021-08-21 01:23:12",
+        "last_seen": "2021-11-28 12:13:29",
+        "ip_address": "199.59.242.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "2m.aicloudemail.com",
+        "count": "3",
+        "first_seen": "2021-10-12 13:20:30",
+        "last_seen": "2021-12-01 19:56:45",
+        "ip_address": "199.59.243.200",
+        "type": "IPv4"
+    }
+]

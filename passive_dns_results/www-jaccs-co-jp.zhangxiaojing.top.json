@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www-jaccs-co-jp.zhangxiaojing.top",
+        "count": "61",
+        "first_seen": "2021-10-12 15:09:36",
+        "last_seen": "2021-10-24 02:44:06",
+        "ip_address": "104.21.65.115",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.zhangxiaojing.top",
+        "count": "61",
+        "first_seen": "2021-10-12 15:09:36",
+        "last_seen": "2021-10-24 02:44:06",
+        "ip_address": "172.67.190.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.zhangxiaojing.top",
+        "count": "22",
+        "first_seen": "2021-10-12 15:52:17",
+        "last_seen": "2021-10-12 19:18:23",
+        "ip_address": "172.64.130.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.zhangxiaojing.top",
+        "count": "22",
+        "first_seen": "2021-10-12 15:52:17",
+        "last_seen": "2021-10-12 19:18:23",
+        "ip_address": "172.64.131.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.zhangxiaojing.top",
+        "count": "3",
+        "first_seen": "2021-10-13 03:06:50",
+        "last_seen": "2021-10-24 02:44:06",
+        "ip_address": "2606:4700:3032::6815:4173",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.zhangxiaojing.top",
+        "count": "3",
+        "first_seen": "2021-10-13 03:06:50",
+        "last_seen": "2021-10-24 02:44:06",
+        "ip_address": "2606:4700:3035::ac43:be15",
+        "type": "IPv6"
+    }
+]

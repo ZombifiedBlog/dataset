@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "smbc.zencb.com",
+        "count": "4",
+        "first_seen": "2020-12-28 05:31:18",
+        "last_seen": "2021-01-14 17:17:23",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.zencb.com",
+        "count": "158",
+        "first_seen": "2020-11-01 02:38:33",
+        "last_seen": "2020-11-15 13:40:40",
+        "ip_address": "174.139.137.41",
+        "type": "IPv4"
+    }
+]

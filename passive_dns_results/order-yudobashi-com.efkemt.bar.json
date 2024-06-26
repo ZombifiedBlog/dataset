@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "order-yudobashi-com.efkemt.bar",
+        "count": "22",
+        "first_seen": "2021-05-27 10:58:50",
+        "last_seen": "2021-06-02 09:07:34",
+        "ip_address": "104.21.86.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "order-yudobashi-com.efkemt.bar",
+        "count": "22",
+        "first_seen": "2021-05-27 10:58:50",
+        "last_seen": "2021-06-02 09:07:34",
+        "ip_address": "172.67.215.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "order-yudobashi-com.efkemt.bar",
+        "count": "6",
+        "first_seen": "2021-05-27 12:01:37",
+        "last_seen": "2021-05-27 14:44:24",
+        "ip_address": "2606:4700:3030::6815:5633",
+        "type": "IPv6"
+    },
+    {
+        "domain": "order-yudobashi-com.efkemt.bar",
+        "count": "6",
+        "first_seen": "2021-05-27 12:01:37",
+        "last_seen": "2021-05-27 14:44:24",
+        "ip_address": "2606:4700:3036::ac43:d716",
+        "type": "IPv6"
+    }
+]

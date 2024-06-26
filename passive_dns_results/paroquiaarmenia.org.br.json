@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "paroquiaarmenia.org.br",
+        "count": "3891",
+        "first_seen": "2022-08-02 07:02:45",
+        "last_seen": "2024-01-18 07:55:42",
+        "ip_address": "149.56.192.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "paroquiaarmenia.org.br",
+        "count": "1218",
+        "first_seen": "2022-05-25 19:41:46",
+        "last_seen": "2022-08-01 22:20:55",
+        "ip_address": "149.56.241.97",
+        "type": "IPv4"
+    },
+    {
+        "domain": "paroquiaarmenia.org.br",
+        "count": "56",
+        "first_seen": "2020-06-29 07:59:26",
+        "last_seen": "2020-08-22 14:39:21",
+        "ip_address": "187.17.111.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "paroquiaarmenia.org.br",
+        "count": "572",
+        "first_seen": "2017-07-13 14:48:54",
+        "last_seen": "2020-06-22 12:59:37",
+        "ip_address": "187.17.111.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "paroquiaarmenia.org.br",
+        "count": "8936",
+        "first_seen": "2020-08-31 08:42:05",
+        "last_seen": "2022-06-02 14:07:53",
+        "ip_address": "192.95.54.172",
+        "type": "IPv4"
+    }
+]

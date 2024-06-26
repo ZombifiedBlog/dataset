@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "x.ru1wz.ru",
+        "count": "8",
+        "first_seen": "2023-09-05 19:33:29",
+        "last_seen": "2023-09-26 04:06:40",
+        "ip_address": "31.177.76.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "x.ru1wz.ru",
+        "count": "8",
+        "first_seen": "2023-09-05 19:33:29",
+        "last_seen": "2023-09-26 04:06:40",
+        "ip_address": "31.177.80.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "x.ru1wz.ru",
+        "count": "3855",
+        "first_seen": "2023-04-28 23:48:51",
+        "last_seen": "2023-08-20 04:40:48",
+        "ip_address": "104.21.95.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "x.ru1wz.ru",
+        "count": "3855",
+        "first_seen": "2023-04-28 23:48:51",
+        "last_seen": "2023-08-20 04:40:48",
+        "ip_address": "172.67.147.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "x.ru1wz.ru",
+        "count": "450",
+        "first_seen": "2023-04-28 23:48:51",
+        "last_seen": "2023-08-20 04:40:48",
+        "ip_address": "2606:4700:3033::6815:5fc0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "x.ru1wz.ru",
+        "count": "450",
+        "first_seen": "2023-04-28 23:48:51",
+        "last_seen": "2023-08-20 04:40:48",
+        "ip_address": "2606:4700:3036::ac43:932c",
+        "type": "IPv6"
+    }
+]

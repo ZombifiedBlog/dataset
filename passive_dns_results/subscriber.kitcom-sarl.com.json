@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "subscriber.kitcom-sarl.com",
+        "count": "2",
+        "first_seen": "2023-11-28 20:57:02",
+        "last_seen": "2023-11-28 20:57:02",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kitcom-sarl.com",
+        "count": "12",
+        "first_seen": "2023-10-17 03:18:38",
+        "last_seen": "2024-01-04 13:40:42",
+        "ip_address": "103.224.212.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kitcom-sarl.com",
+        "count": "14",
+        "first_seen": "2023-03-24 11:04:46",
+        "last_seen": "2023-09-23 19:39:08",
+        "ip_address": "103.224.212.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kitcom-sarl.com",
+        "count": "462",
+        "first_seen": "2022-11-30 07:56:44",
+        "last_seen": "2023-01-02 07:31:42",
+        "ip_address": "104.21.40.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kitcom-sarl.com",
+        "count": "462",
+        "first_seen": "2022-11-30 07:56:44",
+        "last_seen": "2023-01-02 07:31:42",
+        "ip_address": "172.67.182.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kitcom-sarl.com",
+        "count": "8",
+        "first_seen": "2023-11-30 16:07:14",
+        "last_seen": "2023-12-21 03:03:07",
+        "ip_address": "170.178.183.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kitcom-sarl.com",
+        "count": "42",
+        "first_seen": "2023-01-02 10:07:48",
+        "last_seen": "2023-01-31 18:24:20",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kitcom-sarl.com",
+        "count": "30",
+        "first_seen": "2022-11-30 21:36:31",
+        "last_seen": "2023-01-01 11:34:59",
+        "ip_address": "2606:4700:3033::6815:2853",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.kitcom-sarl.com",
+        "count": "30",
+        "first_seen": "2022-11-30 21:36:31",
+        "last_seen": "2023-01-01 11:34:59",
+        "ip_address": "2606:4700:3033::ac43:b692",
+        "type": "IPv6"
+    }
+]

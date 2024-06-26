@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscriber.ejobcast.com",
+        "count": "3",
+        "first_seen": "2022-08-27 06:17:44",
+        "last_seen": "2022-09-07 09:41:40",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ejobcast.com",
+        "count": "5562",
+        "first_seen": "2022-06-07 17:37:38",
+        "last_seen": "2022-08-20 18:13:34",
+        "ip_address": "104.21.44.108",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ejobcast.com",
+        "count": "5562",
+        "first_seen": "2022-06-07 17:37:38",
+        "last_seen": "2022-08-20 18:13:34",
+        "ip_address": "172.67.198.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ejobcast.com",
+        "count": "76",
+        "first_seen": "2022-11-16 14:55:30",
+        "last_seen": "2023-11-08 11:09:23",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ejobcast.com",
+        "count": "2",
+        "first_seen": "2023-11-15 07:18:48",
+        "last_seen": "2023-11-15 07:18:48",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ejobcast.com",
+        "count": "126",
+        "first_seen": "2022-06-08 01:49:43",
+        "last_seen": "2022-08-19 14:58:13",
+        "ip_address": "2606:4700:3031::ac43:c6bd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.ejobcast.com",
+        "count": "126",
+        "first_seen": "2022-06-08 01:49:43",
+        "last_seen": "2022-08-19 14:58:13",
+        "ip_address": "2606:4700:3033::6815:2c6c",
+        "type": "IPv6"
+    }
+]

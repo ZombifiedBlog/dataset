@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.revive-hair.com",
+        "count": "7",
+        "first_seen": "2019-09-20 09:19:05",
+        "last_seen": "2019-09-22 06:50:39",
+        "ip_address": "150.95.240.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.revive-hair.com",
+        "count": "227",
+        "first_seen": "2022-06-09 19:35:20",
+        "last_seen": "2024-01-13 10:23:19",
+        "ip_address": "157.7.107.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.revive-hair.com",
+        "count": "437",
+        "first_seen": "2016-04-16 01:21:57",
+        "last_seen": "2022-04-27 18:44:36",
+        "ip_address": "157.7.107.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.revive-hair.com",
+        "count": "43",
+        "first_seen": "2010-08-28 12:48:34",
+        "last_seen": "2010-10-05 01:24:41",
+        "ip_address": "210.172.144.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.revive-hair.com",
+        "count": "1133",
+        "first_seen": "2010-10-06 23:30:55",
+        "last_seen": "2016-03-24 07:17:15",
+        "ip_address": "210.172.144.246",
+        "type": "IPv4"
+    }
+]

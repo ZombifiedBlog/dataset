@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "jackycreation.com",
+        "count": "583",
+        "first_seen": "2020-08-28 18:03:18",
+        "last_seen": "2024-01-17 09:05:06",
+        "ip_address": "50.87.172.115",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jackycreation.com",
+        "count": "3",
+        "first_seen": "2012-01-14 06:05:22",
+        "last_seen": "2012-06-10 00:24:16",
+        "ip_address": "66.147.244.232",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jackycreation.com",
+        "count": "1905",
+        "first_seen": "2014-01-18 03:18:52",
+        "last_seen": "2020-08-20 21:40:35",
+        "ip_address": "69.195.124.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jackycreation.com",
+        "count": "3",
+        "first_seen": "2010-12-09 03:30:02",
+        "last_seen": "2010-12-11 03:16:29",
+        "ip_address": "74.220.219.120",
+        "type": "IPv4"
+    }
+]

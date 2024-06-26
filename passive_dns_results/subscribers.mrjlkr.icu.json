@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscribers.mrjlkr.icu",
+        "count": "101",
+        "first_seen": "2020-09-30 05:39:44",
+        "last_seen": "2020-10-05 18:27:12",
+        "ip_address": "104.24.126.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.mrjlkr.icu",
+        "count": "101",
+        "first_seen": "2020-09-30 05:39:44",
+        "last_seen": "2020-10-05 18:27:12",
+        "ip_address": "104.24.127.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.mrjlkr.icu",
+        "count": "101",
+        "first_seen": "2020-09-30 05:39:44",
+        "last_seen": "2020-10-05 18:27:12",
+        "ip_address": "172.67.220.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.mrjlkr.icu",
+        "count": "26",
+        "first_seen": "2020-10-02 10:27:02",
+        "last_seen": "2020-10-05 18:27:12",
+        "ip_address": "2606:4700:3031::ac43:dc43",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.mrjlkr.icu",
+        "count": "26",
+        "first_seen": "2020-10-02 10:27:02",
+        "last_seen": "2020-10-05 18:27:12",
+        "ip_address": "2606:4700:3033::6818:7f11",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.mrjlkr.icu",
+        "count": "26",
+        "first_seen": "2020-10-02 10:27:02",
+        "last_seen": "2020-10-05 18:27:12",
+        "ip_address": "2606:4700:3035::6818:7e11",
+        "type": "IPv6"
+    }
+]

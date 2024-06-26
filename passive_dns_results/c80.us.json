@@ -1,0 +1,458 @@
+[
+    {
+        "domain": "c80.us",
+        "count": "130",
+        "first_seen": "2018-01-28 11:05:23",
+        "last_seen": "2018-11-21 02:23:22",
+        "ip_address": "35.167.228.82",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "2",
+        "first_seen": "2021-06-30 05:47:10",
+        "last_seen": "2021-10-21 23:54:43",
+        "ip_address": "37.48.65.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "3",
+        "first_seen": "2021-11-02 04:06:17",
+        "last_seen": "2022-03-05 11:11:29",
+        "ip_address": "37.48.65.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "4",
+        "first_seen": "2021-07-20 11:06:18",
+        "last_seen": "2021-09-07 11:08:30",
+        "ip_address": "37.48.65.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "2",
+        "first_seen": "2021-11-25 21:33:53",
+        "last_seen": "2021-11-25 21:35:19",
+        "ip_address": "37.48.65.151",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "2",
+        "first_seen": "2022-02-02 08:35:39",
+        "last_seen": "2022-02-08 13:49:02",
+        "ip_address": "37.48.65.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "1",
+        "first_seen": "2021-08-10 11:09:16",
+        "last_seen": "2021-08-10 11:09:16",
+        "ip_address": "37.48.65.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "1",
+        "first_seen": "2021-10-11 01:44:04",
+        "last_seen": "2021-10-11 01:44:04",
+        "ip_address": "37.48.65.154",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "6",
+        "first_seen": "2018-12-13 18:36:27",
+        "last_seen": "2018-12-23 09:43:43",
+        "ip_address": "50.63.202.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "2",
+        "first_seen": "2018-11-24 20:36:22",
+        "last_seen": "2018-11-24 20:36:22",
+        "ip_address": "50.63.202.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "2",
+        "first_seen": "2018-12-13 18:36:32",
+        "last_seen": "2018-12-13 18:36:32",
+        "ip_address": "50.63.202.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "2",
+        "first_seen": "2018-11-27 12:04:46",
+        "last_seen": "2018-11-27 12:04:46",
+        "ip_address": "50.63.202.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "1",
+        "first_seen": "2018-12-05 12:38:43",
+        "last_seen": "2018-12-05 12:38:43",
+        "ip_address": "50.63.202.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "2",
+        "first_seen": "2018-12-23 19:51:05",
+        "last_seen": "2018-12-23 19:51:05",
+        "ip_address": "50.63.202.95",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "1",
+        "first_seen": "2018-01-17 04:38:51",
+        "last_seen": "2018-01-17 04:38:51",
+        "ip_address": "54.183.30.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "108",
+        "first_seen": "2012-07-29 00:49:16",
+        "last_seen": "2013-09-08 04:49:31",
+        "ip_address": "64.74.223.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "1",
+        "first_seen": "2011-06-06 10:42:28",
+        "last_seen": "2011-06-06 10:42:28",
+        "ip_address": "68.178.232.99",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "2890",
+        "first_seen": "2011-08-07 19:53:36",
+        "last_seen": "2012-04-17 13:36:10",
+        "ip_address": "74.52.134.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "2",
+        "first_seen": "2021-05-27 08:36:30",
+        "last_seen": "2021-06-03 15:15:34",
+        "ip_address": "74.63.241.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "2",
+        "first_seen": "2021-11-26 11:53:03",
+        "last_seen": "2022-01-19 10:04:54",
+        "ip_address": "81.171.22.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "1",
+        "first_seen": "2021-11-02 04:06:18",
+        "last_seen": "2021-11-02 04:06:18",
+        "ip_address": "81.171.22.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "3",
+        "first_seen": "2021-06-08 11:08:38",
+        "last_seen": "2022-01-27 04:49:55",
+        "ip_address": "81.171.22.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "2",
+        "first_seen": "2021-08-03 11:07:06",
+        "last_seen": "2021-09-20 05:20:41",
+        "ip_address": "81.171.22.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "1",
+        "first_seen": "2021-05-18 11:07:13",
+        "last_seen": "2021-05-18 11:07:13",
+        "ip_address": "82.192.82.227",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "22",
+        "first_seen": "2021-02-09 23:13:35",
+        "last_seen": "2021-05-11 11:07:21",
+        "ip_address": "103.224.212.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "1",
+        "first_seen": "2021-05-25 11:09:19",
+        "last_seen": "2021-05-25 11:09:19",
+        "ip_address": "104.243.45.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "512",
+        "first_seen": "2012-04-17 20:22:54",
+        "last_seen": "2012-07-27 11:02:30",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "2",
+        "first_seen": "2022-01-24 08:08:24",
+        "last_seen": "2022-03-08 13:58:49",
+        "ip_address": "162.210.196.166",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "2",
+        "first_seen": "2022-02-01 07:39:26",
+        "last_seen": "2022-03-04 05:42:24",
+        "ip_address": "162.210.196.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "39",
+        "first_seen": "2019-07-25 09:11:04",
+        "last_seen": "2019-09-03 11:07:50",
+        "ip_address": "167.99.0.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "1",
+        "first_seen": "2022-02-08 08:38:13",
+        "last_seen": "2022-02-08 08:38:13",
+        "ip_address": "172.93.103.99",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "2",
+        "first_seen": "2022-01-11 12:12:51",
+        "last_seen": "2022-02-04 04:18:16",
+        "ip_address": "172.93.103.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "3",
+        "first_seen": "2021-10-02 06:01:11",
+        "last_seen": "2022-03-20 17:44:09",
+        "ip_address": "172.93.103.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "1",
+        "first_seen": "2021-12-08 12:15:47",
+        "last_seen": "2021-12-08 12:15:47",
+        "ip_address": "172.93.103.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "863",
+        "first_seen": "2022-07-19 15:45:06",
+        "last_seen": "2024-01-18 08:12:32",
+        "ip_address": "172.96.186.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "2",
+        "first_seen": "2011-03-16 06:41:45",
+        "last_seen": "2011-03-17 18:36:43",
+        "ip_address": "174.120.189.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "2",
+        "first_seen": "2018-12-25 12:04:34",
+        "last_seen": "2018-12-25 12:04:34",
+        "ip_address": "184.168.221.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "2",
+        "first_seen": "2018-12-23 19:51:06",
+        "last_seen": "2018-12-23 19:51:06",
+        "ip_address": "184.168.221.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "4",
+        "first_seen": "2018-12-04 12:04:23",
+        "last_seen": "2018-12-06 21:23:38",
+        "ip_address": "184.168.221.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "2",
+        "first_seen": "2018-12-11 12:04:13",
+        "last_seen": "2018-12-11 12:04:13",
+        "ip_address": "184.168.221.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "2",
+        "first_seen": "2018-12-05 12:38:43",
+        "last_seen": "2018-12-05 12:38:43",
+        "ip_address": "184.168.221.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "5",
+        "first_seen": "2021-06-22 11:55:31",
+        "last_seen": "2021-11-26 19:55:20",
+        "ip_address": "185.107.56.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "4",
+        "first_seen": "2021-10-26 11:07:33",
+        "last_seen": "2022-02-13 20:27:27",
+        "ip_address": "185.107.56.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "2",
+        "first_seen": "2021-06-29 11:37:09",
+        "last_seen": "2021-10-05 11:41:58",
+        "ip_address": "185.107.56.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "10",
+        "first_seen": "2022-05-24 08:16:03",
+        "last_seen": "2022-07-19 13:39:05",
+        "ip_address": "192.64.119.47",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "59",
+        "first_seen": "2020-03-17 11:32:50",
+        "last_seen": "2020-04-23 02:43:11",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "59",
+        "first_seen": "2020-03-17 11:32:50",
+        "last_seen": "2020-04-23 02:43:11",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "59",
+        "first_seen": "2020-03-17 11:32:50",
+        "last_seen": "2020-04-23 02:43:11",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "59",
+        "first_seen": "2020-03-17 11:32:50",
+        "last_seen": "2020-04-23 02:43:11",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "50",
+        "first_seen": "2019-03-14 07:03:00",
+        "last_seen": "2019-04-11 01:33:27",
+        "ip_address": "198.211.104.237",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "5",
+        "first_seen": "2012-07-27 23:03:58",
+        "last_seen": "2012-07-28 04:37:16",
+        "ip_address": "199.59.166.108",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "1",
+        "first_seen": "2021-11-17 17:44:58",
+        "last_seen": "2021-11-17 17:44:58",
+        "ip_address": "199.115.115.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "3",
+        "first_seen": "2021-10-21 23:54:42",
+        "last_seen": "2022-02-15 13:40:38",
+        "ip_address": "199.115.115.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "2",
+        "first_seen": "2021-09-20 05:16:10",
+        "last_seen": "2021-09-20 05:16:10",
+        "ip_address": "199.115.116.216",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "2",
+        "first_seen": "2021-11-26 11:49:53",
+        "last_seen": "2022-02-27 10:31:48",
+        "ip_address": "207.244.67.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "1",
+        "first_seen": "2021-10-12 11:07:12",
+        "last_seen": "2021-10-12 11:07:12",
+        "ip_address": "207.244.67.216",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c80.us",
+        "count": "2",
+        "first_seen": "2021-08-24 11:08:40",
+        "last_seen": "2021-10-21 23:54:41",
+        "ip_address": "207.244.67.218",
+        "type": "IPv4"
+    }
+]

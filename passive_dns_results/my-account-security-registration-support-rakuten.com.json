@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "my-account-security-registration-support-rakuten.com",
+        "count": "42",
+        "first_seen": "2020-05-29 06:19:50",
+        "last_seen": "2020-05-29 09:49:20",
+        "ip_address": "5.183.179.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-account-security-registration-support-rakuten.com",
+        "count": "22",
+        "first_seen": "2021-06-30 01:23:14",
+        "last_seen": "2021-06-30 14:45:46",
+        "ip_address": "109.70.26.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-account-security-registration-support-rakuten.com",
+        "count": "22",
+        "first_seen": "2021-06-30 01:23:14",
+        "last_seen": "2021-06-30 14:45:46",
+        "ip_address": "194.85.61.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-account-security-registration-support-rakuten.com",
+        "count": "64",
+        "first_seen": "2020-05-29 10:36:25",
+        "last_seen": "2020-06-08 07:21:11",
+        "ip_address": "188.72.77.6",
+        "type": "IPv4"
+    }
+]

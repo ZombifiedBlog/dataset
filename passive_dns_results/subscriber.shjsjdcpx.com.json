@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.shjsjdcpx.com",
+        "count": "2656",
+        "first_seen": "2021-02-01 18:40:42",
+        "last_seen": "2021-04-04 19:39:00",
+        "ip_address": "104.21.71.227",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.shjsjdcpx.com",
+        "count": "2656",
+        "first_seen": "2021-02-01 18:40:42",
+        "last_seen": "2021-04-04 19:39:00",
+        "ip_address": "172.67.150.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.shjsjdcpx.com",
+        "count": "1",
+        "first_seen": "2021-03-03 22:43:03",
+        "last_seen": "2021-03-03 22:43:03",
+        "ip_address": "172.64.81.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.shjsjdcpx.com",
+        "count": "1127",
+        "first_seen": "2021-02-01 18:57:42",
+        "last_seen": "2021-04-04 19:39:00",
+        "ip_address": "2606:4700:3030::ac43:9665",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.shjsjdcpx.com",
+        "count": "1127",
+        "first_seen": "2021-02-01 18:57:42",
+        "last_seen": "2021-04-04 19:39:00",
+        "ip_address": "2606:4700:3037::6815:47e3",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.genealogycoaching.com",
+        "count": "129",
+        "first_seen": "2023-01-06 14:44:37",
+        "last_seen": "2023-01-08 10:20:33",
+        "ip_address": "104.21.51.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.genealogycoaching.com",
+        "count": "129",
+        "first_seen": "2023-01-06 14:44:37",
+        "last_seen": "2023-01-08 10:20:33",
+        "ip_address": "172.67.181.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.genealogycoaching.com",
+        "count": "1",
+        "first_seen": "2023-06-15 13:46:58",
+        "last_seen": "2023-06-15 13:46:58",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.genealogycoaching.com",
+        "count": "2",
+        "first_seen": "2023-01-07 16:40:39",
+        "last_seen": "2023-01-08 06:59:58",
+        "ip_address": "2606:4700:3033::ac43:b526",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.genealogycoaching.com",
+        "count": "2",
+        "first_seen": "2023-01-07 16:40:39",
+        "last_seen": "2023-01-08 06:59:58",
+        "ip_address": "2606:4700:3036::6815:3389",
+        "type": "IPv6"
+    }
+]

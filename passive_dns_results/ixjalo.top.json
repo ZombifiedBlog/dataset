@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "ixjalo.top",
+        "count": "189",
+        "first_seen": "2019-11-25 16:19:14",
+        "last_seen": "2020-04-09 02:40:43",
+        "ip_address": "47.90.205.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ixjalo.top",
+        "count": "1714",
+        "first_seen": "2019-11-05 14:27:28",
+        "last_seen": "2019-11-23 12:05:53",
+        "ip_address": "104.31.94.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ixjalo.top",
+        "count": "1714",
+        "first_seen": "2019-11-05 14:27:28",
+        "last_seen": "2019-11-23 12:05:53",
+        "ip_address": "104.31.95.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ixjalo.top",
+        "count": "69",
+        "first_seen": "2019-04-17 19:02:42",
+        "last_seen": "2019-10-05 16:14:18",
+        "ip_address": "185.161.111.249",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ixjalo.top",
+        "count": "284",
+        "first_seen": "2019-11-05 14:27:28",
+        "last_seen": "2019-11-22 10:55:29",
+        "ip_address": "2606:4700:30::681f:5e7d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ixjalo.top",
+        "count": "284",
+        "first_seen": "2019-11-05 14:27:28",
+        "last_seen": "2019-11-22 10:55:29",
+        "ip_address": "2606:4700:30::681f:5f7d",
+        "type": "IPv6"
+    }
+]

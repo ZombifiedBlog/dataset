@@ -1,0 +1,146 @@
+[
+    {
+        "domain": "widg.me",
+        "count": "64274",
+        "first_seen": "2011-04-28 03:35:46",
+        "last_seen": "2017-02-10 04:10:44",
+        "ip_address": "88.190.22.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "widg.me",
+        "count": "1700",
+        "first_seen": "2010-07-22 14:52:38",
+        "last_seen": "2011-04-27 00:07:04",
+        "ip_address": "89.185.50.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "widg.me",
+        "count": "990",
+        "first_seen": "2017-10-01 00:31:07",
+        "last_seen": "2018-09-30 20:17:29",
+        "ip_address": "104.27.146.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "widg.me",
+        "count": "990",
+        "first_seen": "2017-10-01 00:31:07",
+        "last_seen": "2018-09-30 20:17:29",
+        "ip_address": "104.27.147.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "widg.me",
+        "count": "235",
+        "first_seen": "2018-12-19 03:25:53",
+        "last_seen": "2019-12-15 19:05:50",
+        "ip_address": "104.28.30.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "widg.me",
+        "count": "235",
+        "first_seen": "2018-12-19 03:25:53",
+        "last_seen": "2019-12-15 19:05:50",
+        "ip_address": "104.28.31.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "widg.me",
+        "count": "117",
+        "first_seen": "2017-02-21 09:04:28",
+        "last_seen": "2017-07-21 03:10:11",
+        "ip_address": "195.154.235.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "widg.me",
+        "count": "36",
+        "first_seen": "2018-11-07 14:33:51",
+        "last_seen": "2020-01-28 14:10:32",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "widg.me",
+        "count": "36",
+        "first_seen": "2018-11-07 14:33:51",
+        "last_seen": "2020-01-28 14:10:32",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "widg.me",
+        "count": "36",
+        "first_seen": "2018-11-07 14:33:51",
+        "last_seen": "2020-01-28 14:10:32",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "widg.me",
+        "count": "36",
+        "first_seen": "2018-11-07 14:33:51",
+        "last_seen": "2020-01-28 14:10:32",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "widg.me",
+        "count": "63",
+        "first_seen": "2018-10-01 05:01:03",
+        "last_seen": "2018-11-06 17:45:23",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "widg.me",
+        "count": "455",
+        "first_seen": "2017-10-01 00:31:08",
+        "last_seen": "2018-09-14 00:42:09",
+        "ip_address": "2400:cb00:2048:1::681b:9295",
+        "type": "IPv6"
+    },
+    {
+        "domain": "widg.me",
+        "count": "455",
+        "first_seen": "2017-10-01 00:31:08",
+        "last_seen": "2018-09-14 00:42:09",
+        "ip_address": "2400:cb00:2048:1::681b:9395",
+        "type": "IPv6"
+    },
+    {
+        "domain": "widg.me",
+        "count": "6",
+        "first_seen": "2018-09-28 19:10:26",
+        "last_seen": "2018-09-30 13:52:26",
+        "ip_address": "2606:4700:30::681b:9295",
+        "type": "IPv6"
+    },
+    {
+        "domain": "widg.me",
+        "count": "6",
+        "first_seen": "2018-09-28 19:10:26",
+        "last_seen": "2018-09-30 13:52:26",
+        "ip_address": "2606:4700:30::681b:9395",
+        "type": "IPv6"
+    },
+    {
+        "domain": "widg.me",
+        "count": "45",
+        "first_seen": "2018-12-19 03:25:54",
+        "last_seen": "2019-11-22 01:30:27",
+        "ip_address": "2606:4700:30::681c:1e99",
+        "type": "IPv6"
+    },
+    {
+        "domain": "widg.me",
+        "count": "45",
+        "first_seen": "2018-12-19 03:25:54",
+        "last_seen": "2019-11-22 01:30:27",
+        "ip_address": "2606:4700:30::681c:1f99",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "redirection.lccanr.cn",
+        "count": "639",
+        "first_seen": "2021-01-27 16:37:16",
+        "last_seen": "2021-04-26 12:01:18",
+        "ip_address": "104.21.77.202",
+        "type": "IPv4"
+    },
+    {
+        "domain": "redirection.lccanr.cn",
+        "count": "639",
+        "first_seen": "2021-01-27 16:37:16",
+        "last_seen": "2021-04-26 12:01:18",
+        "ip_address": "172.67.211.115",
+        "type": "IPv4"
+    },
+    {
+        "domain": "redirection.lccanr.cn",
+        "count": "3",
+        "first_seen": "2021-06-05 15:05:06",
+        "last_seen": "2021-10-18 08:30:33",
+        "ip_address": "156.233.147.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "redirection.lccanr.cn",
+        "count": "1",
+        "first_seen": "2021-05-15 15:08:15",
+        "last_seen": "2021-05-15 15:08:15",
+        "ip_address": "185.106.176.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "redirection.lccanr.cn",
+        "count": "399",
+        "first_seen": "2021-01-27 16:37:16",
+        "last_seen": "2021-04-26 12:01:18",
+        "ip_address": "2606:4700:3030::6815:4dca",
+        "type": "IPv6"
+    },
+    {
+        "domain": "redirection.lccanr.cn",
+        "count": "399",
+        "first_seen": "2021-01-27 16:37:16",
+        "last_seen": "2021-04-26 12:01:18",
+        "ip_address": "2606:4700:3036::ac43:d373",
+        "type": "IPv6"
+    }
+]

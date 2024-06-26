@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www2-micard-co-jp.ege258.top",
+        "count": "40",
+        "first_seen": "2021-10-04 04:32:53",
+        "last_seen": "2021-10-04 13:14:34",
+        "ip_address": "104.21.42.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-micard-co-jp.ege258.top",
+        "count": "40",
+        "first_seen": "2021-10-04 04:32:53",
+        "last_seen": "2021-10-04 13:14:34",
+        "ip_address": "172.67.214.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-micard-co-jp.ege258.top",
+        "count": "13",
+        "first_seen": "2021-10-04 04:53:25",
+        "last_seen": "2021-10-04 09:53:19",
+        "ip_address": "2606:4700:3033::ac43:d6a8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www2-micard-co-jp.ege258.top",
+        "count": "13",
+        "first_seen": "2021-10-04 04:53:25",
+        "last_seen": "2021-10-04 09:53:19",
+        "ip_address": "2606:4700:3036::6815:2afe",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "xx.mhf6mykp.ru",
+        "count": "14299",
+        "first_seen": "2023-06-30 23:54:48",
+        "last_seen": "2024-01-13 07:39:16",
+        "ip_address": "104.21.14.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xx.mhf6mykp.ru",
+        "count": "14299",
+        "first_seen": "2023-06-30 23:54:48",
+        "last_seen": "2024-01-13 07:39:16",
+        "ip_address": "172.67.202.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xx.mhf6mykp.ru",
+        "count": "1",
+        "first_seen": "2023-07-17 08:32:36",
+        "last_seen": "2023-07-17 08:32:36",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xx.mhf6mykp.ru",
+        "count": "1576",
+        "first_seen": "2023-06-30 23:54:49",
+        "last_seen": "2023-12-21 01:24:43",
+        "ip_address": "2606:4700:3031::ac43:ca6e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "xx.mhf6mykp.ru",
+        "count": "1576",
+        "first_seen": "2023-06-30 23:54:49",
+        "last_seen": "2023-12-21 01:24:43",
+        "ip_address": "2606:4700:3036::6815:e37",
+        "type": "IPv6"
+    }
+]

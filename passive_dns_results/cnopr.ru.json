@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "cnopr.ru",
+        "count": "1231",
+        "first_seen": "2020-05-07 21:57:33",
+        "last_seen": "2020-12-22 18:27:36",
+        "ip_address": "23.236.62.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cnopr.ru",
+        "count": "3371",
+        "first_seen": "2020-12-23 00:59:15",
+        "last_seen": "2023-04-15 18:27:48",
+        "ip_address": "185.230.63.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cnopr.ru",
+        "count": "3371",
+        "first_seen": "2020-12-23 00:59:15",
+        "last_seen": "2023-04-15 18:27:48",
+        "ip_address": "185.230.63.171",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cnopr.ru",
+        "count": "3371",
+        "first_seen": "2020-12-23 00:59:15",
+        "last_seen": "2023-04-15 18:27:48",
+        "ip_address": "185.230.63.186",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cnopr.ru",
+        "count": "2",
+        "first_seen": "2023-04-22 22:36:02",
+        "last_seen": "2023-04-22 22:36:03",
+        "ip_address": "194.67.71.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cnopr.ru",
+        "count": "80",
+        "first_seen": "2023-04-16 16:47:33",
+        "last_seen": "2023-05-16 01:35:05",
+        "ip_address": "194.67.71.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cnopr.ru",
+        "count": "6",
+        "first_seen": "2023-04-19 20:40:43",
+        "last_seen": "2023-04-30 21:43:11",
+        "ip_address": "2a00:f940:4::10",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "l0056yu.cn",
+        "count": "49383",
+        "first_seen": "2023-04-26 19:06:14",
+        "last_seen": "2023-10-14 06:29:31",
+        "ip_address": "38.177.196.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "l0056yu.cn",
+        "count": "2940",
+        "first_seen": "2023-02-28 07:30:00",
+        "last_seen": "2023-03-30 06:31:18",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "l0056yu.cn",
+        "count": "496",
+        "first_seen": "2023-01-11 15:07:50",
+        "last_seen": "2023-01-26 01:23:21",
+        "ip_address": "104.21.75.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "l0056yu.cn",
+        "count": "496",
+        "first_seen": "2023-01-11 15:07:50",
+        "last_seen": "2023-01-26 01:23:21",
+        "ip_address": "172.67.184.142",
+        "type": "IPv4"
+    },
+    {
+        "domain": "l0056yu.cn",
+        "count": "4",
+        "first_seen": "2023-01-27 19:38:32",
+        "last_seen": "2023-01-29 13:11:47",
+        "ip_address": "106.75.9.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "l0056yu.cn",
+        "count": "58",
+        "first_seen": "2023-02-02 19:44:09",
+        "last_seen": "2023-02-11 16:08:38",
+        "ip_address": "106.75.15.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "l0056yu.cn",
+        "count": "9",
+        "first_seen": "2022-11-04 17:47:40",
+        "last_seen": "2022-11-05 02:42:36",
+        "ip_address": "106.75.16.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "l0056yu.cn",
+        "count": "1",
+        "first_seen": "2023-01-26 19:53:11",
+        "last_seen": "2023-01-26 19:53:11",
+        "ip_address": "106.75.67.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "l0056yu.cn",
+        "count": "17439",
+        "first_seen": "2023-10-14 07:01:50",
+        "last_seen": "2024-01-18 12:03:59",
+        "ip_address": "154.223.113.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "l0056yu.cn",
+        "count": "1",
+        "first_seen": "2022-11-29 22:05:05",
+        "last_seen": "2022-11-29 22:05:05",
+        "ip_address": "218.245.101.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "l0056yu.cn",
+        "count": "27",
+        "first_seen": "2023-01-11 15:07:50",
+        "last_seen": "2023-01-15 05:34:15",
+        "ip_address": "2606:4700:3030::6815:4bfd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "l0056yu.cn",
+        "count": "27",
+        "first_seen": "2023-01-11 15:07:50",
+        "last_seen": "2023-01-15 05:34:15",
+        "ip_address": "2606:4700:3037::ac43:b88e",
+        "type": "IPv6"
+    }
+]

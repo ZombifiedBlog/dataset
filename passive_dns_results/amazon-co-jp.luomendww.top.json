@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "amazon-co-jp.luomendww.top",
+        "count": "13",
+        "first_seen": "2023-03-21 00:51:58",
+        "last_seen": "2023-04-07 01:49:29",
+        "ip_address": "8.210.119.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-co-jp.luomendww.top",
+        "count": "243",
+        "first_seen": "2021-04-08 15:12:12",
+        "last_seen": "2021-12-22 11:36:56",
+        "ip_address": "104.21.78.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-co-jp.luomendww.top",
+        "count": "243",
+        "first_seen": "2021-04-08 15:12:12",
+        "last_seen": "2021-12-22 11:36:56",
+        "ip_address": "172.67.218.158",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-co-jp.luomendww.top",
+        "count": "4",
+        "first_seen": "2023-05-19 15:34:47",
+        "last_seen": "2023-05-24 10:34:45",
+        "ip_address": "107.167.15.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-co-jp.luomendww.top",
+        "count": "51",
+        "first_seen": "2021-04-08 15:12:13",
+        "last_seen": "2021-12-15 21:36:49",
+        "ip_address": "2606:4700:3034::6815:4e54",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon-co-jp.luomendww.top",
+        "count": "51",
+        "first_seen": "2021-04-08 15:12:13",
+        "last_seen": "2021-12-15 21:36:49",
+        "ip_address": "2606:4700:3036::ac43:da9e",
+        "type": "IPv6"
+    }
+]

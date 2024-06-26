@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.ar-compendium.com",
+        "count": "1642",
+        "first_seen": "2016-04-09 03:12:08",
+        "last_seen": "2017-04-20 14:34:28",
+        "ip_address": "212.227.130.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ar-compendium.com",
+        "count": "12141",
+        "first_seen": "2017-04-20 23:15:24",
+        "last_seen": "2024-01-17 04:11:46",
+        "ip_address": "217.160.0.241",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ar-compendium.com",
+        "count": "716",
+        "first_seen": "2015-04-14 08:17:09",
+        "last_seen": "2016-04-08 12:35:11",
+        "ip_address": "217.160.211.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ar-compendium.com",
+        "count": "307",
+        "first_seen": "2016-04-22 19:28:10",
+        "last_seen": "2017-04-11 04:18:19",
+        "ip_address": "2001:8d8:1001:4033:748:79c3:b0db:b803",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ar-compendium.com",
+        "count": "46",
+        "first_seen": "2015-07-14 11:23:16",
+        "last_seen": "2016-04-04 14:22:45",
+        "ip_address": "2001:8d8:1001:4033:23af:c893:2edf:9000",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ar-compendium.com",
+        "count": "2904",
+        "first_seen": "2017-04-22 05:27:55",
+        "last_seen": "2024-01-18 10:28:48",
+        "ip_address": "2001:8d8:100f:f000::2ca",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "img.agsmk.com",
+        "count": "663",
+        "first_seen": "2020-04-09 02:51:49",
+        "last_seen": "2020-05-18 23:01:47",
+        "ip_address": "104.24.110.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.agsmk.com",
+        "count": "663",
+        "first_seen": "2020-04-09 02:51:49",
+        "last_seen": "2020-05-18 23:01:47",
+        "ip_address": "104.24.111.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.agsmk.com",
+        "count": "27",
+        "first_seen": "2020-05-30 16:33:15",
+        "last_seen": "2020-07-10 17:24:30",
+        "ip_address": "104.24.110.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.agsmk.com",
+        "count": "27",
+        "first_seen": "2020-05-30 16:33:15",
+        "last_seen": "2020-07-10 17:24:30",
+        "ip_address": "104.24.111.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.agsmk.com",
+        "count": "27",
+        "first_seen": "2020-05-30 16:33:15",
+        "last_seen": "2020-07-10 17:24:30",
+        "ip_address": "172.67.222.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.agsmk.com",
+        "count": "8",
+        "first_seen": "2020-06-02 20:29:45",
+        "last_seen": "2020-07-01 08:44:38",
+        "ip_address": "2606:4700:3036::6818:6e0b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.agsmk.com",
+        "count": "8",
+        "first_seen": "2020-06-02 20:29:45",
+        "last_seen": "2020-07-01 08:44:38",
+        "ip_address": "2606:4700:3036::ac43:de30",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.agsmk.com",
+        "count": "8",
+        "first_seen": "2020-06-02 20:29:45",
+        "last_seen": "2020-07-01 08:44:38",
+        "ip_address": "2606:4700:3037::6818:6f0b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.agsmk.com",
+        "count": "110",
+        "first_seen": "2020-04-09 05:02:37",
+        "last_seen": "2020-04-23 22:02:39",
+        "ip_address": "2606:4700:3036::6818:6e0b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.agsmk.com",
+        "count": "110",
+        "first_seen": "2020-04-09 05:02:37",
+        "last_seen": "2020-04-23 22:02:39",
+        "ip_address": "2606:4700:3037::6818:6f0b",
+        "type": "IPv6"
+    }
+]

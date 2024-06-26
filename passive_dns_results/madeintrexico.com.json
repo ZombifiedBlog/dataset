@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "madeintrexico.com",
+        "count": "12",
+        "first_seen": "2022-01-01 01:37:52",
+        "last_seen": "2022-02-01 23:39:01",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "madeintrexico.com",
+        "count": "36",
+        "first_seen": "2022-04-02 15:29:38",
+        "last_seen": "2022-05-16 10:58:18",
+        "ip_address": "45.136.119.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "madeintrexico.com",
+        "count": "5",
+        "first_seen": "2023-02-15 11:19:18",
+        "last_seen": "2023-02-27 22:58:01",
+        "ip_address": "64.190.63.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "madeintrexico.com",
+        "count": "6937",
+        "first_seen": "2017-02-03 13:45:25",
+        "last_seen": "2019-12-29 22:52:33",
+        "ip_address": "69.65.3.176",
+        "type": "IPv4"
+    },
+    {
+        "domain": "madeintrexico.com",
+        "count": "181",
+        "first_seen": "2016-12-23 18:39:48",
+        "last_seen": "2017-02-02 22:44:12",
+        "ip_address": "69.65.33.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "madeintrexico.com",
+        "count": "842",
+        "first_seen": "2019-12-31 05:20:28",
+        "last_seen": "2021-12-16 09:43:28",
+        "ip_address": "72.167.191.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "madeintrexico.com",
+        "count": "1874",
+        "first_seen": "2023-03-12 03:20:59",
+        "last_seen": "2023-04-21 07:35:29",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "madeintrexico.com",
+        "count": "15",
+        "first_seen": "2023-01-08 07:37:28",
+        "last_seen": "2023-02-05 08:41:38",
+        "ip_address": "85.208.116.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "madeintrexico.com",
+        "count": "13",
+        "first_seen": "2022-05-26 12:55:47",
+        "last_seen": "2022-06-21 06:36:45",
+        "ip_address": "85.208.118.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "madeintrexico.com",
+        "count": "487",
+        "first_seen": "2023-03-04 11:48:24",
+        "last_seen": "2023-03-12 06:35:07",
+        "ip_address": "155.94.182.89",
+        "type": "IPv4"
+    }
+]

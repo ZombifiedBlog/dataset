@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "xzxcvbbfad.buzz",
+        "count": "2",
+        "first_seen": "2022-03-03 03:45:55",
+        "last_seen": "2022-03-25 00:54:13",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xzxcvbbfad.buzz",
+        "count": "32",
+        "first_seen": "2021-02-27 21:07:52",
+        "last_seen": "2022-02-26 11:14:13",
+        "ip_address": "103.224.182.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xzxcvbbfad.buzz",
+        "count": "276",
+        "first_seen": "2021-01-24 17:50:22",
+        "last_seen": "2021-01-25 21:54:44",
+        "ip_address": "192.161.179.244",
+        "type": "IPv4"
+    }
+]

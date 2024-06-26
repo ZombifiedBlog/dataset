@@ -1,0 +1,130 @@
+[
+    {
+        "domain": "www.5700557.com",
+        "count": "8",
+        "first_seen": "2020-08-15 01:15:05",
+        "last_seen": "2020-10-01 18:30:32",
+        "ip_address": "14.1.98.161",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.5700557.com",
+        "count": "14",
+        "first_seen": "2022-06-02 15:44:09",
+        "last_seen": "2022-12-31 14:39:37",
+        "ip_address": "23.110.204.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.5700557.com",
+        "count": "792",
+        "first_seen": "2023-02-09 11:21:42",
+        "last_seen": "2023-02-16 12:21:43",
+        "ip_address": "66.63.179.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.5700557.com",
+        "count": "46",
+        "first_seen": "2023-04-08 06:52:08",
+        "last_seen": "2023-09-11 10:51:14",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.5700557.com",
+        "count": "1891",
+        "first_seen": "2023-10-05 02:06:01",
+        "last_seen": "2024-01-17 18:52:01",
+        "ip_address": "103.224.212.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.5700557.com",
+        "count": "3540",
+        "first_seen": "2023-04-02 01:50:41",
+        "last_seen": "2023-10-05 01:05:42",
+        "ip_address": "103.224.212.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.5700557.com",
+        "count": "7",
+        "first_seen": "2020-11-17 07:46:38",
+        "last_seen": "2020-11-18 10:47:59",
+        "ip_address": "104.24.124.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.5700557.com",
+        "count": "7",
+        "first_seen": "2020-11-17 07:46:38",
+        "last_seen": "2020-11-18 10:47:59",
+        "ip_address": "104.24.125.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.5700557.com",
+        "count": "7",
+        "first_seen": "2020-11-17 07:46:38",
+        "last_seen": "2020-11-18 10:47:59",
+        "ip_address": "172.67.176.99",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.5700557.com",
+        "count": "32",
+        "first_seen": "2023-07-16 10:52:39",
+        "last_seen": "2023-09-11 09:36:24",
+        "ip_address": "170.178.183.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.5700557.com",
+        "count": "34",
+        "first_seen": "2023-04-08 10:08:01",
+        "last_seen": "2023-07-17 03:22:03",
+        "ip_address": "199.115.116.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.5700557.com",
+        "count": "26",
+        "first_seen": "2024-01-17 18:52:01",
+        "last_seen": "2024-01-18 11:37:37",
+        "ip_address": "103.224.212.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.5700557.com",
+        "count": "74",
+        "first_seen": "2023-05-27 07:52:31",
+        "last_seen": "2023-08-11 11:21:41",
+        "ip_address": "103.224.212.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.5700557.com",
+        "count": "8",
+        "first_seen": "2020-11-17 07:46:39",
+        "last_seen": "2020-11-18 10:48:13",
+        "ip_address": "2606:4700:3030::6818:7cbb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.5700557.com",
+        "count": "8",
+        "first_seen": "2020-11-17 07:46:39",
+        "last_seen": "2020-11-18 10:48:13",
+        "ip_address": "2606:4700:3033::ac43:b063",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.5700557.com",
+        "count": "8",
+        "first_seen": "2020-11-17 07:46:39",
+        "last_seen": "2020-11-18 10:48:13",
+        "ip_address": "2606:4700:3035::6818:7dbb",
+        "type": "IPv6"
+    }
+]

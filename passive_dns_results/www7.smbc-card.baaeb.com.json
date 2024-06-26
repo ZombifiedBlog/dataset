@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www7.smbc-card.baaeb.com",
+        "count": "3",
+        "first_seen": "2022-11-24 10:43:11",
+        "last_seen": "2022-12-01 09:58:07",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www7.smbc-card.baaeb.com",
+        "count": "5",
+        "first_seen": "2023-07-07 16:05:48",
+        "last_seen": "2023-08-08 18:26:00",
+        "ip_address": "164.88.122.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www7.smbc-card.baaeb.com",
+        "count": "15",
+        "first_seen": "2023-08-15 18:42:34",
+        "last_seen": "2023-10-18 20:56:46",
+        "ip_address": "164.88.252.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www7.smbc-card.baaeb.com",
+        "count": "19",
+        "first_seen": "2023-11-01 11:30:30",
+        "last_seen": "2023-12-10 22:33:35",
+        "ip_address": "168.76.252.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www7.smbc-card.baaeb.com",
+        "count": "80",
+        "first_seen": "2022-07-03 02:30:14",
+        "last_seen": "2022-07-03 04:23:09",
+        "ip_address": "205.185.120.3",
+        "type": "IPv4"
+    }
+]

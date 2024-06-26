@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www-paypay-bank-tn5i4i7x6iwaxhk82003838kjy9t0xkar6yn6j.0952yc.cn",
+        "count": "18",
+        "first_seen": "2021-10-14 04:03:08",
+        "last_seen": "2021-10-27 14:08:31",
+        "ip_address": "103.120.80.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-paypay-bank-tn5i4i7x6iwaxhk82003838kjy9t0xkar6yn6j.0952yc.cn",
+        "count": "18",
+        "first_seen": "2021-10-14 04:03:08",
+        "last_seen": "2021-10-27 14:08:31",
+        "ip_address": "103.139.0.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-paypay-bank-tn5i4i7x6iwaxhk82003838kjy9t0xkar6yn6j.0952yc.cn",
+        "count": "81",
+        "first_seen": "2021-08-16 10:47:02",
+        "last_seen": "2021-08-16 15:53:51",
+        "ip_address": "104.21.56.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-paypay-bank-tn5i4i7x6iwaxhk82003838kjy9t0xkar6yn6j.0952yc.cn",
+        "count": "81",
+        "first_seen": "2021-08-16 10:47:02",
+        "last_seen": "2021-08-16 15:53:51",
+        "ip_address": "172.67.176.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-paypay-bank-tn5i4i7x6iwaxhk82003838kjy9t0xkar6yn6j.0952yc.cn",
+        "count": "172",
+        "first_seen": "2021-08-17 03:59:45",
+        "last_seen": "2021-08-18 11:07:22",
+        "ip_address": "107.189.14.175",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-paypay-bank-tn5i4i7x6iwaxhk82003838kjy9t0xkar6yn6j.0952yc.cn",
+        "count": "56",
+        "first_seen": "2021-08-16 14:17:33",
+        "last_seen": "2021-08-17 03:09:47",
+        "ip_address": "209.141.52.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-paypay-bank-tn5i4i7x6iwaxhk82003838kjy9t0xkar6yn6j.0952yc.cn",
+        "count": "2",
+        "first_seen": "2021-08-16 10:54:17",
+        "last_seen": "2021-08-16 10:54:17",
+        "ip_address": "2606:4700:3033::ac43:b0ae",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-paypay-bank-tn5i4i7x6iwaxhk82003838kjy9t0xkar6yn6j.0952yc.cn",
+        "count": "2",
+        "first_seen": "2021-08-16 10:54:17",
+        "last_seen": "2021-08-16 10:54:17",
+        "ip_address": "2606:4700:3035::6815:3828",
+        "type": "IPv6"
+    }
+]

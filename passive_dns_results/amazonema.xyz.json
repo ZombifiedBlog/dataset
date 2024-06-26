@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazonema.xyz",
+        "count": "3",
+        "first_seen": "2021-08-23 02:31:19",
+        "last_seen": "2021-09-04 15:15:22",
+        "ip_address": "99.81.40.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonema.xyz",
+        "count": "9",
+        "first_seen": "2020-08-17 23:24:26",
+        "last_seen": "2020-08-19 15:07:26",
+        "ip_address": "132.148.166.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonema.xyz",
+        "count": "26",
+        "first_seen": "2020-08-21 21:14:09",
+        "last_seen": "2020-08-22 10:07:32",
+        "ip_address": "204.15.77.181",
+        "type": "IPv4"
+    }
+]

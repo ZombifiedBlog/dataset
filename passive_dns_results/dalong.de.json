@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "dalong.de",
+        "count": "5",
+        "first_seen": "2017-01-02 04:22:30",
+        "last_seen": "2017-01-05 08:25:13",
+        "ip_address": "144.76.201.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dalong.de",
+        "count": "33",
+        "first_seen": "2017-07-27 00:57:10",
+        "last_seen": "2017-09-25 02:26:32",
+        "ip_address": "62.116.187.142",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dalong.de",
+        "count": "47265",
+        "first_seen": "2017-10-24 09:09:33",
+        "last_seen": "2024-01-18 08:14:39",
+        "ip_address": "78.24.186.235",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dalong.de",
+        "count": "25",
+        "first_seen": "2010-09-08 04:00:47",
+        "last_seen": "2016-04-12 13:49:08",
+        "ip_address": "82.165.94.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dalong.de",
+        "count": "17",
+        "first_seen": "2017-01-12 08:21:41",
+        "last_seen": "2017-02-26 16:20:23",
+        "ip_address": "185.53.178.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dalong.de",
+        "count": "1",
+        "first_seen": "2017-01-06 00:33:36",
+        "last_seen": "2017-01-06 00:33:36",
+        "ip_address": "185.53.178.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dalong.de",
+        "count": "50",
+        "first_seen": "2016-06-30 19:39:11",
+        "last_seen": "2016-12-01 10:28:27",
+        "ip_address": "217.160.223.93",
+        "type": "IPv4"
+    }
+]

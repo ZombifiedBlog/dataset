@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "img.lvzrb.com",
+        "count": "2935",
+        "first_seen": "2020-10-16 08:32:13",
+        "last_seen": "2020-12-30 08:12:39",
+        "ip_address": "104.27.184.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lvzrb.com",
+        "count": "2935",
+        "first_seen": "2020-10-16 08:32:13",
+        "last_seen": "2020-12-30 08:12:39",
+        "ip_address": "104.27.185.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lvzrb.com",
+        "count": "2935",
+        "first_seen": "2020-10-16 08:32:13",
+        "last_seen": "2020-12-30 08:12:39",
+        "ip_address": "172.67.220.81",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lvzrb.com",
+        "count": "940",
+        "first_seen": "2020-10-16 08:32:13",
+        "last_seen": "2020-12-30 08:12:39",
+        "ip_address": "2606:4700:3033::681b:b80e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lvzrb.com",
+        "count": "940",
+        "first_seen": "2020-10-16 08:32:13",
+        "last_seen": "2020-12-30 08:12:39",
+        "ip_address": "2606:4700:3037::681b:b90e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lvzrb.com",
+        "count": "940",
+        "first_seen": "2020-10-16 08:32:13",
+        "last_seen": "2020-12-30 08:12:39",
+        "ip_address": "2606:4700:3037::ac43:dc51",
+        "type": "IPv6"
+    }
+]

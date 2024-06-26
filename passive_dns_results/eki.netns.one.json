@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "eki.netns.one",
+        "count": "589",
+        "first_seen": "2022-10-13 17:12:07",
+        "last_seen": "2022-10-21 15:07:25",
+        "ip_address": "155.94.164.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "eki.netns.one",
+        "count": "206",
+        "first_seen": "2022-10-21 16:08:37",
+        "last_seen": "2022-10-22 22:34:48",
+        "ip_address": "172.86.124.41",
+        "type": "IPv4"
+    }
+]

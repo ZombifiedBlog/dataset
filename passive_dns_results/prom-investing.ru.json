@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "prom-investing.ru",
+        "count": "2651",
+        "first_seen": "2014-07-01 02:45:59",
+        "last_seen": "2021-04-29 17:13:33",
+        "ip_address": "37.140.192.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "prom-investing.ru",
+        "count": "245",
+        "first_seen": "2012-10-11 07:37:44",
+        "last_seen": "2014-03-01 09:07:29",
+        "ip_address": "77.234.201.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "prom-investing.ru",
+        "count": "70",
+        "first_seen": "2014-03-13 15:35:56",
+        "last_seen": "2014-03-22 07:41:01",
+        "ip_address": "185.26.122.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "prom-investing.ru",
+        "count": "5",
+        "first_seen": "2021-05-07 01:51:14",
+        "last_seen": "2021-05-27 23:38:59",
+        "ip_address": "194.67.71.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "prom-investing.ru",
+        "count": "13",
+        "first_seen": "2021-05-02 19:32:27",
+        "last_seen": "2021-05-24 15:34:27",
+        "ip_address": "194.67.71.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "prom-investing.ru",
+        "count": "5",
+        "first_seen": "2021-05-02 19:32:27",
+        "last_seen": "2021-05-18 23:33:48",
+        "ip_address": "2a00:f940:4::10",
+        "type": "IPv6"
+    }
+]

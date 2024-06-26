@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.web-nomi.com",
+        "count": "34",
+        "first_seen": "2022-03-09 00:53:26",
+        "last_seen": "2022-03-25 05:10:58",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.web-nomi.com",
+        "count": "965",
+        "first_seen": "2023-05-18 19:05:34",
+        "last_seen": "2023-06-26 07:29:00",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.web-nomi.com",
+        "count": "7059",
+        "first_seen": "2014-05-02 02:16:30",
+        "last_seen": "2022-02-26 06:32:41",
+        "ip_address": "157.112.176.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.web-nomi.com",
+        "count": "83",
+        "first_seen": "2023-08-03 13:39:21",
+        "last_seen": "2024-01-14 04:42:49",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.web-nomi.com",
+        "count": "1008",
+        "first_seen": "2023-04-08 01:20:37",
+        "last_seen": "2023-05-18 18:35:01",
+        "ip_address": "204.44.93.80",
+        "type": "IPv4"
+    }
+]

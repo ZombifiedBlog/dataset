@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "www.decafmrdva.com",
+        "count": "620",
+        "first_seen": "2023-04-15 10:38:46",
+        "last_seen": "2023-04-28 06:21:12",
+        "ip_address": "38.54.85.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.decafmrdva.com",
+        "count": "70",
+        "first_seen": "2021-01-26 20:54:01",
+        "last_seen": "2022-02-25 08:09:31",
+        "ip_address": "104.21.11.243",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.decafmrdva.com",
+        "count": "70",
+        "first_seen": "2021-01-26 20:54:01",
+        "last_seen": "2022-02-25 08:09:31",
+        "ip_address": "172.67.193.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.decafmrdva.com",
+        "count": "1",
+        "first_seen": "2021-02-04 19:38:53",
+        "last_seen": "2021-02-04 19:38:53",
+        "ip_address": "172.64.81.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.decafmrdva.com",
+        "count": "1",
+        "first_seen": "2021-01-26 20:55:28",
+        "last_seen": "2021-01-26 20:55:28",
+        "ip_address": "172.64.81.161",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.decafmrdva.com",
+        "count": "1",
+        "first_seen": "2022-05-09 02:51:05",
+        "last_seen": "2022-05-09 02:51:05",
+        "ip_address": "198.204.225.179",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.decafmrdva.com",
+        "count": "1",
+        "first_seen": "2021-02-04 19:38:49",
+        "last_seen": "2021-02-04 19:38:49",
+        "ip_address": "2606:4700:130:515a:bb9d:dbcf:416d:39a4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.decafmrdva.com",
+        "count": "1",
+        "first_seen": "2021-01-26 20:55:28",
+        "last_seen": "2021-01-26 20:55:28",
+        "ip_address": "2606:4700:132:44a2:ad30:4c37:2fd0:d7c9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.decafmrdva.com",
+        "count": "1",
+        "first_seen": "2021-01-28 00:10:26",
+        "last_seen": "2021-01-28 00:10:26",
+        "ip_address": "2606:4700:13c:779e:917a:b916:8b9f:9bf6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.decafmrdva.com",
+        "count": "27",
+        "first_seen": "2021-01-27 01:05:55",
+        "last_seen": "2022-03-10 11:42:58",
+        "ip_address": "2606:4700:3030::6815:bf3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.decafmrdva.com",
+        "count": "27",
+        "first_seen": "2021-01-27 01:05:55",
+        "last_seen": "2022-03-10 11:42:58",
+        "ip_address": "2606:4700:3037::ac43:c11f",
+        "type": "IPv6"
+    }
+]

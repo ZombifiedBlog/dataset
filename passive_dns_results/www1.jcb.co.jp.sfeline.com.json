@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www1.jcb.co.jp.sfeline.com",
+        "count": "218",
+        "first_seen": "2020-01-15 00:51:56",
+        "last_seen": "2020-01-23 18:20:21",
+        "ip_address": "104.27.162.64",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www1.jcb.co.jp.sfeline.com",
+        "count": "218",
+        "first_seen": "2020-01-15 00:51:56",
+        "last_seen": "2020-01-23 18:20:21",
+        "ip_address": "104.27.163.64",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www1.jcb.co.jp.sfeline.com",
+        "count": "6",
+        "first_seen": "2020-01-15 00:51:56",
+        "last_seen": "2020-01-15 21:23:27",
+        "ip_address": "2606:4700:30::681b:a240",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www1.jcb.co.jp.sfeline.com",
+        "count": "6",
+        "first_seen": "2020-01-15 00:51:56",
+        "last_seen": "2020-01-15 21:23:27",
+        "ip_address": "2606:4700:30::681b:a340",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www1.jcb.co.jp.sfeline.com",
+        "count": "119",
+        "first_seen": "2020-01-16 17:51:30",
+        "last_seen": "2020-01-23 18:20:21",
+        "ip_address": "2606:4700:3035::681b:a240",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www1.jcb.co.jp.sfeline.com",
+        "count": "119",
+        "first_seen": "2020-01-16 17:51:30",
+        "last_seen": "2020-01-23 18:20:21",
+        "ip_address": "2606:4700:3037::681b:a340",
+        "type": "IPv6"
+    }
+]

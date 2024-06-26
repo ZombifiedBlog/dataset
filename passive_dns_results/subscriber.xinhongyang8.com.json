@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.xinhongyang8.com",
+        "count": "2618",
+        "first_seen": "2021-02-01 18:46:59",
+        "last_seen": "2021-04-05 10:14:58",
+        "ip_address": "104.21.43.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.xinhongyang8.com",
+        "count": "2618",
+        "first_seen": "2021-02-01 18:46:59",
+        "last_seen": "2021-04-05 10:14:58",
+        "ip_address": "172.67.177.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.xinhongyang8.com",
+        "count": "2",
+        "first_seen": "2021-06-20 17:26:54",
+        "last_seen": "2021-06-22 13:39:18",
+        "ip_address": "104.252.215.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.xinhongyang8.com",
+        "count": "1",
+        "first_seen": "2023-10-11 01:40:07",
+        "last_seen": "2023-10-11 01:40:07",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.xinhongyang8.com",
+        "count": "1080",
+        "first_seen": "2021-02-01 18:46:59",
+        "last_seen": "2021-04-04 14:04:57",
+        "ip_address": "2606:4700:3030::ac43:b196",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.xinhongyang8.com",
+        "count": "1080",
+        "first_seen": "2021-02-01 18:46:59",
+        "last_seen": "2021-04-04 14:04:57",
+        "ip_address": "2606:4700:3033::6815:2b5c",
+        "type": "IPv6"
+    }
+]

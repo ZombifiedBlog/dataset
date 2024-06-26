@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.ximingcong.top",
+        "count": "9388",
+        "first_seen": "2023-02-02 18:21:03",
+        "last_seen": "2023-05-30 01:36:26",
+        "ip_address": "104.21.48.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ximingcong.top",
+        "count": "9388",
+        "first_seen": "2023-02-02 18:21:03",
+        "last_seen": "2023-05-30 01:36:26",
+        "ip_address": "172.67.178.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ximingcong.top",
+        "count": "84",
+        "first_seen": "2023-05-30 22:28:03",
+        "last_seen": "2023-11-04 21:39:39",
+        "ip_address": "156.226.123.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ximingcong.top",
+        "count": "280",
+        "first_seen": "2023-02-03 09:59:07",
+        "last_seen": "2023-05-25 22:49:01",
+        "ip_address": "2606:4700:3034::6815:3035",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.ximingcong.top",
+        "count": "280",
+        "first_seen": "2023-02-03 09:59:07",
+        "last_seen": "2023-05-25 22:49:01",
+        "ip_address": "2606:4700:3035::ac43:b2cd",
+        "type": "IPv6"
+    }
+]

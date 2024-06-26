@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "nttdocomo.jp.usafety.xyz",
+        "count": "1",
+        "first_seen": "2022-09-09 23:38:32",
+        "last_seen": "2022-09-09 23:38:32",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nttdocomo.jp.usafety.xyz",
+        "count": "7",
+        "first_seen": "2021-09-01 19:22:33",
+        "last_seen": "2022-07-23 22:27:19",
+        "ip_address": "104.247.81.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nttdocomo.jp.usafety.xyz",
+        "count": "2",
+        "first_seen": "2022-06-01 10:51:43",
+        "last_seen": "2022-06-01 10:51:45",
+        "ip_address": "185.53.177.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nttdocomo.jp.usafety.xyz",
+        "count": "231",
+        "first_seen": "2021-07-24 08:04:47",
+        "last_seen": "2021-07-26 15:06:01",
+        "ip_address": "192.161.164.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nttdocomo.jp.usafety.xyz",
+        "count": "1",
+        "first_seen": "2021-09-01 19:22:33",
+        "last_seen": "2021-09-01 19:22:33",
+        "ip_address": "104.247.81.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nttdocomo.jp.usafety.xyz",
+        "count": "1",
+        "first_seen": "2021-09-01 19:21:45",
+        "last_seen": "2021-09-01 19:21:45",
+        "ip_address": "185.53.177.14",
+        "type": "IPv4"
+    }
+]

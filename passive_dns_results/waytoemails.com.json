@@ -1,0 +1,122 @@
+[
+    {
+        "domain": "waytoemails.com",
+        "count": "2",
+        "first_seen": "2015-07-16 02:14:00",
+        "last_seen": "2015-07-16 02:14:00",
+        "ip_address": "50.63.202.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "waytoemails.com",
+        "count": "19",
+        "first_seen": "2016-07-20 19:23:01",
+        "last_seen": "2016-08-19 06:20:04",
+        "ip_address": "50.63.202.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "waytoemails.com",
+        "count": "2",
+        "first_seen": "2015-07-17 02:22:00",
+        "last_seen": "2015-07-17 02:22:00",
+        "ip_address": "142.4.0.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "waytoemails.com",
+        "count": "162",
+        "first_seen": "2016-05-07 16:16:09",
+        "last_seen": "2016-05-13 09:22:26",
+        "ip_address": "142.4.6.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "waytoemails.com",
+        "count": "1169",
+        "first_seen": "2016-03-20 08:11:12",
+        "last_seen": "2016-04-19 18:58:32",
+        "ip_address": "162.144.54.97",
+        "type": "IPv4"
+    },
+    {
+        "domain": "waytoemails.com",
+        "count": "191",
+        "first_seen": "2016-03-02 19:16:38",
+        "last_seen": "2016-03-07 16:33:54",
+        "ip_address": "162.144.69.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "waytoemails.com",
+        "count": "972",
+        "first_seen": "2016-04-20 05:41:48",
+        "last_seen": "2016-05-06 02:18:02",
+        "ip_address": "162.144.116.142",
+        "type": "IPv4"
+    },
+    {
+        "domain": "waytoemails.com",
+        "count": "259",
+        "first_seen": "2015-08-27 15:19:49",
+        "last_seen": "2015-09-22 09:16:32",
+        "ip_address": "162.144.157.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "waytoemails.com",
+        "count": "40",
+        "first_seen": "2016-03-01 22:08:45",
+        "last_seen": "2016-03-18 14:14:58",
+        "ip_address": "162.214.16.157",
+        "type": "IPv4"
+    },
+    {
+        "domain": "waytoemails.com",
+        "count": "286",
+        "first_seen": "2016-02-19 18:18:50",
+        "last_seen": "2016-03-14 18:19:51",
+        "ip_address": "162.214.31.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "waytoemails.com",
+        "count": "2177",
+        "first_seen": "2015-11-21 20:27:42",
+        "last_seen": "2016-02-19 17:17:18",
+        "ip_address": "192.163.223.157",
+        "type": "IPv4"
+    },
+    {
+        "domain": "waytoemails.com",
+        "count": "843",
+        "first_seen": "2015-07-17 19:03:11",
+        "last_seen": "2015-08-22 12:11:36",
+        "ip_address": "198.1.116.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "waytoemails.com",
+        "count": "1420",
+        "first_seen": "2015-09-29 08:26:27",
+        "last_seen": "2015-11-12 18:57:50",
+        "ip_address": "198.24.152.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "waytoemails.com",
+        "count": "141",
+        "first_seen": "2016-10-04 15:14:22",
+        "last_seen": "2017-09-29 06:45:43",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "waytoemails.com",
+        "count": "15",
+        "first_seen": "2017-10-07 23:29:44",
+        "last_seen": "2017-11-12 07:37:40",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    }
+]

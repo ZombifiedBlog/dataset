@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "rrdhguf.cn",
+        "count": "4470",
+        "first_seen": "2023-03-02 10:26:40",
+        "last_seen": "2023-04-01 11:43:41",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rrdhguf.cn",
+        "count": "395",
+        "first_seen": "2023-05-04 14:43:07",
+        "last_seen": "2023-05-09 04:28:18",
+        "ip_address": "64.190.63.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rrdhguf.cn",
+        "count": "112",
+        "first_seen": "2023-05-04 17:30:53",
+        "last_seen": "2023-05-09 04:37:18",
+        "ip_address": "103.224.182.249",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rrdhguf.cn",
+        "count": "5980",
+        "first_seen": "2023-01-05 20:08:21",
+        "last_seen": "2023-03-02 09:57:16",
+        "ip_address": "104.21.15.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rrdhguf.cn",
+        "count": "5980",
+        "first_seen": "2023-01-05 20:08:21",
+        "last_seen": "2023-03-02 09:57:16",
+        "ip_address": "172.67.164.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rrdhguf.cn",
+        "count": "63",
+        "first_seen": "2023-01-05 20:08:29",
+        "last_seen": "2023-03-01 03:19:27",
+        "ip_address": "2606:4700:3032::6815:fd1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rrdhguf.cn",
+        "count": "63",
+        "first_seen": "2023-01-05 20:08:29",
+        "last_seen": "2023-03-01 03:19:27",
+        "ip_address": "2606:4700:3037::ac43:a43d",
+        "type": "IPv6"
+    }
+]

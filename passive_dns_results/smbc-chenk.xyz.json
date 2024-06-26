@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "smbc-chenk.xyz",
+        "count": "5",
+        "first_seen": "2022-02-16 08:40:27",
+        "last_seen": "2022-02-17 04:41:44",
+        "ip_address": "104.21.61.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-chenk.xyz",
+        "count": "5",
+        "first_seen": "2022-02-16 08:40:27",
+        "last_seen": "2022-02-17 04:41:44",
+        "ip_address": "172.67.210.249",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-chenk.xyz",
+        "count": "1",
+        "first_seen": "2022-02-16 08:42:39",
+        "last_seen": "2022-02-16 08:42:39",
+        "ip_address": "188.114.96.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-chenk.xyz",
+        "count": "1",
+        "first_seen": "2022-02-16 08:42:39",
+        "last_seen": "2022-02-16 08:42:39",
+        "ip_address": "188.114.97.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-chenk.xyz",
+        "count": "15",
+        "first_seen": "2022-02-17 02:57:16",
+        "last_seen": "2022-02-17 07:40:16",
+        "ip_address": "188.114.96.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-chenk.xyz",
+        "count": "15",
+        "first_seen": "2022-02-17 02:57:16",
+        "last_seen": "2022-02-17 07:40:16",
+        "ip_address": "188.114.97.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-chenk.xyz",
+        "count": "1",
+        "first_seen": "2022-02-17 02:57:19",
+        "last_seen": "2022-02-17 02:57:19",
+        "ip_address": "2a06:98c1:3120::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "smbc-chenk.xyz",
+        "count": "1",
+        "first_seen": "2022-02-17 02:57:19",
+        "last_seen": "2022-02-17 02:57:19",
+        "ip_address": "2a06:98c1:3121::16",
+        "type": "IPv6"
+    }
+]

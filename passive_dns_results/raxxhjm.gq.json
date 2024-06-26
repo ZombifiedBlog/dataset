@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "raxxhjm.gq",
+        "count": "26",
+        "first_seen": "2022-08-20 17:01:26",
+        "last_seen": "2023-03-22 10:06:41",
+        "ip_address": "195.20.54.108",
+        "type": "IPv4"
+    },
+    {
+        "domain": "raxxhjm.gq",
+        "count": "241",
+        "first_seen": "2022-01-14 08:38:06",
+        "last_seen": "2022-05-27 08:40:37",
+        "ip_address": "104.21.81.243",
+        "type": "IPv4"
+    },
+    {
+        "domain": "raxxhjm.gq",
+        "count": "241",
+        "first_seen": "2022-01-14 08:38:06",
+        "last_seen": "2022-05-27 08:40:37",
+        "ip_address": "172.67.192.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "raxxhjm.gq",
+        "count": "12",
+        "first_seen": "2022-01-14 08:29:25",
+        "last_seen": "2022-01-14 08:34:53",
+        "ip_address": "173.82.153.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "raxxhjm.gq",
+        "count": "3",
+        "first_seen": "2022-01-14 23:04:52",
+        "last_seen": "2022-01-16 14:46:00",
+        "ip_address": "2606:4700:3030::6815:51f3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "raxxhjm.gq",
+        "count": "3",
+        "first_seen": "2022-01-14 23:04:52",
+        "last_seen": "2022-01-16 14:46:00",
+        "ip_address": "2606:4700:3034::ac43:c020",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "domain": "subscriber.douyinshiguang.com",
+        "count": "5",
+        "first_seen": "2021-09-03 15:58:08",
+        "last_seen": "2021-12-07 11:48:33",
+        "ip_address": "45.38.215.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.douyinshiguang.com",
+        "count": "1",
+        "first_seen": "2021-01-15 08:32:24",
+        "last_seen": "2021-01-15 08:32:24",
+        "ip_address": "104.21.54.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.douyinshiguang.com",
+        "count": "1",
+        "first_seen": "2021-01-15 08:32:24",
+        "last_seen": "2021-01-15 08:32:24",
+        "ip_address": "172.67.136.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.douyinshiguang.com",
+        "count": "1672",
+        "first_seen": "2020-11-28 13:56:09",
+        "last_seen": "2021-01-09 02:17:53",
+        "ip_address": "104.24.110.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.douyinshiguang.com",
+        "count": "1672",
+        "first_seen": "2020-11-28 13:56:09",
+        "last_seen": "2021-01-09 02:17:53",
+        "ip_address": "104.24.111.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.douyinshiguang.com",
+        "count": "1672",
+        "first_seen": "2020-11-28 13:56:09",
+        "last_seen": "2021-01-09 02:17:53",
+        "ip_address": "172.67.136.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.douyinshiguang.com",
+        "count": "1",
+        "first_seen": "2022-02-26 04:36:07",
+        "last_seen": "2022-02-26 04:36:07",
+        "ip_address": "104.166.70.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.douyinshiguang.com",
+        "count": "1",
+        "first_seen": "2020-12-11 18:38:00",
+        "last_seen": "2020-12-11 18:38:00",
+        "ip_address": "172.64.93.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.douyinshiguang.com",
+        "count": "21",
+        "first_seen": "2021-01-18 15:26:21",
+        "last_seen": "2021-02-06 15:59:56",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.douyinshiguang.com",
+        "count": "10",
+        "first_seen": "2021-02-03 04:37:30",
+        "last_seen": "2021-02-03 07:22:29",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.douyinshiguang.com",
+        "count": "644",
+        "first_seen": "2020-11-28 19:55:36",
+        "last_seen": "2021-01-09 02:17:50",
+        "ip_address": "2606:4700:3031::6818:6e0a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.douyinshiguang.com",
+        "count": "644",
+        "first_seen": "2020-11-28 19:55:36",
+        "last_seen": "2021-01-09 02:17:50",
+        "ip_address": "2606:4700:3033::ac43:88c2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.douyinshiguang.com",
+        "count": "644",
+        "first_seen": "2020-11-28 19:55:36",
+        "last_seen": "2021-01-09 02:17:50",
+        "ip_address": "2606:4700:3037::6818:6f0a",
+        "type": "IPv6"
+    }
+]

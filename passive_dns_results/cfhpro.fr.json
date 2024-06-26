@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "cfhpro.fr",
+        "count": "843",
+        "first_seen": "2013-12-29 09:31:43",
+        "last_seen": "2016-03-15 02:04:11",
+        "ip_address": "82.165.21.156",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cfhpro.fr",
+        "count": "201",
+        "first_seen": "2016-03-15 19:08:21",
+        "last_seen": "2017-01-24 10:37:47",
+        "ip_address": "212.227.247.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cfhpro.fr",
+        "count": "972",
+        "first_seen": "2017-01-28 16:03:38",
+        "last_seen": "2022-11-19 18:27:39",
+        "ip_address": "217.160.0.151",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cfhpro.fr",
+        "count": "2",
+        "first_seen": "2016-12-01 08:41:48",
+        "last_seen": "2016-12-01 08:41:48",
+        "ip_address": "2001:8d8:1000:d33c:89e5:e5c6:94d8:2021",
+        "type": "IPv6"
+    },
+    {
+        "domain": "cfhpro.fr",
+        "count": "118",
+        "first_seen": "2014-10-27 22:50:09",
+        "last_seen": "2015-07-30 05:50:57",
+        "ip_address": "2001:8d8:1000:d33c:b620:3f45:396:900a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "cfhpro.fr",
+        "count": "137",
+        "first_seen": "2017-11-05 19:52:32",
+        "last_seen": "2022-10-13 09:09:48",
+        "ip_address": "2001:8d8:100f:f000::25e",
+        "type": "IPv6"
+    }
+]

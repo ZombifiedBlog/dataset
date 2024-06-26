@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.shamelessgoals.com",
+        "count": "1246",
+        "first_seen": "2020-02-19 13:11:44",
+        "last_seen": "2020-04-01 05:34:43",
+        "ip_address": "104.24.104.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shamelessgoals.com",
+        "count": "1246",
+        "first_seen": "2020-02-19 13:11:44",
+        "last_seen": "2020-04-01 05:34:43",
+        "ip_address": "104.24.105.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shamelessgoals.com",
+        "count": "6",
+        "first_seen": "2020-04-20 16:58:42",
+        "last_seen": "2020-05-21 22:58:53",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shamelessgoals.com",
+        "count": "6",
+        "first_seen": "2020-04-20 16:58:42",
+        "last_seen": "2020-05-21 22:58:53",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shamelessgoals.com",
+        "count": "6",
+        "first_seen": "2020-04-20 16:58:42",
+        "last_seen": "2020-05-21 22:58:53",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shamelessgoals.com",
+        "count": "6",
+        "first_seen": "2020-04-20 16:58:42",
+        "last_seen": "2020-05-21 22:58:53",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shamelessgoals.com",
+        "count": "536",
+        "first_seen": "2020-02-19 13:11:57",
+        "last_seen": "2020-04-01 05:34:43",
+        "ip_address": "2606:4700:3033::6818:6866",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.shamelessgoals.com",
+        "count": "536",
+        "first_seen": "2020-02-19 13:11:57",
+        "last_seen": "2020-04-01 05:34:43",
+        "ip_address": "2606:4700:3035::6818:6966",
+        "type": "IPv6"
+    }
+]

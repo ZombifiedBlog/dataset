@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.kdcffa.top",
+        "count": "7",
+        "first_seen": "2023-08-19 05:14:21",
+        "last_seen": "2023-09-03 19:04:27",
+        "ip_address": "49.51.79.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kdcffa.top",
+        "count": "10337",
+        "first_seen": "2023-02-02 18:33:59",
+        "last_seen": "2023-08-08 17:08:36",
+        "ip_address": "104.21.66.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kdcffa.top",
+        "count": "10337",
+        "first_seen": "2023-02-02 18:33:59",
+        "last_seen": "2023-08-08 17:08:36",
+        "ip_address": "172.67.159.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kdcffa.top",
+        "count": "289",
+        "first_seen": "2023-02-03 02:19:39",
+        "last_seen": "2023-08-08 17:08:37",
+        "ip_address": "2606:4700:3031::6815:426b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.kdcffa.top",
+        "count": "289",
+        "first_seen": "2023-02-03 02:19:39",
+        "last_seen": "2023-08-08 17:08:37",
+        "ip_address": "2606:4700:3037::ac43:9f6f",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "my.amaz0-n.com",
+        "count": "2",
+        "first_seen": "2020-10-30 04:53:41",
+        "last_seen": "2020-10-30 04:53:41",
+        "ip_address": "104.28.26.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.amaz0-n.com",
+        "count": "2",
+        "first_seen": "2020-10-30 04:53:41",
+        "last_seen": "2020-10-30 04:53:41",
+        "ip_address": "104.28.27.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.amaz0-n.com",
+        "count": "2",
+        "first_seen": "2020-10-30 04:53:41",
+        "last_seen": "2020-10-30 04:53:41",
+        "ip_address": "172.67.184.108",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.amaz0-n.com",
+        "count": "2",
+        "first_seen": "2020-10-30 04:53:41",
+        "last_seen": "2020-10-30 04:53:41",
+        "ip_address": "2606:4700:3030::681c:1ba0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my.amaz0-n.com",
+        "count": "2",
+        "first_seen": "2020-10-30 04:53:41",
+        "last_seen": "2020-10-30 04:53:41",
+        "ip_address": "2606:4700:3031::ac43:b86c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my.amaz0-n.com",
+        "count": "2",
+        "first_seen": "2020-10-30 04:53:41",
+        "last_seen": "2020-10-30 04:53:41",
+        "ip_address": "2606:4700:3034::681c:1aa0",
+        "type": "IPv6"
+    }
+]

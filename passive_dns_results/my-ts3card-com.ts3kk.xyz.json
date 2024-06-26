@@ -1,0 +1,114 @@
+[
+    {
+        "domain": "my-ts3card-com.ts3kk.xyz",
+        "count": "44",
+        "first_seen": "2022-03-06 13:53:33",
+        "last_seen": "2022-03-07 05:57:32",
+        "ip_address": "104.21.79.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.ts3kk.xyz",
+        "count": "44",
+        "first_seen": "2022-03-06 13:53:33",
+        "last_seen": "2022-03-07 05:57:32",
+        "ip_address": "172.67.141.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.ts3kk.xyz",
+        "count": "1",
+        "first_seen": "2022-03-06 14:30:50",
+        "last_seen": "2022-03-06 14:30:50",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.ts3kk.xyz",
+        "count": "1",
+        "first_seen": "2022-03-06 14:30:50",
+        "last_seen": "2022-03-06 14:30:50",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.ts3kk.xyz",
+        "count": "2",
+        "first_seen": "2022-03-06 15:39:47",
+        "last_seen": "2022-03-06 17:16:00",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.ts3kk.xyz",
+        "count": "2",
+        "first_seen": "2022-03-06 15:39:47",
+        "last_seen": "2022-03-06 17:16:00",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.ts3kk.xyz",
+        "count": "2",
+        "first_seen": "2022-03-06 14:48:54",
+        "last_seen": "2022-03-06 19:11:27",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.ts3kk.xyz",
+        "count": "2",
+        "first_seen": "2022-03-06 14:48:54",
+        "last_seen": "2022-03-06 19:11:27",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.ts3kk.xyz",
+        "count": "1",
+        "first_seen": "2022-03-06 15:50:09",
+        "last_seen": "2022-03-06 15:50:09",
+        "ip_address": "188.114.96.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.ts3kk.xyz",
+        "count": "1",
+        "first_seen": "2022-03-06 15:50:09",
+        "last_seen": "2022-03-06 15:50:09",
+        "ip_address": "188.114.97.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.ts3kk.xyz",
+        "count": "34",
+        "first_seen": "2022-03-06 14:05:40",
+        "last_seen": "2022-03-06 20:11:32",
+        "ip_address": "188.114.96.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.ts3kk.xyz",
+        "count": "34",
+        "first_seen": "2022-03-06 14:05:40",
+        "last_seen": "2022-03-06 20:11:32",
+        "ip_address": "188.114.97.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.ts3kk.xyz",
+        "count": "2",
+        "first_seen": "2022-03-06 14:05:40",
+        "last_seen": "2022-03-06 14:19:22",
+        "ip_address": "2a06:98c1:3120::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-ts3card-com.ts3kk.xyz",
+        "count": "2",
+        "first_seen": "2022-03-06 14:05:40",
+        "last_seen": "2022-03-06 14:19:22",
+        "ip_address": "2a06:98c1:3121::16",
+        "type": "IPv6"
+    }
+]

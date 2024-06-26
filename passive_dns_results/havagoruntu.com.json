@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "havagoruntu.com",
+        "count": "5",
+        "first_seen": "2017-02-21 21:40:41",
+        "last_seen": "2017-03-11 17:05:35",
+        "ip_address": "45.33.9.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "havagoruntu.com",
+        "count": "13",
+        "first_seen": "2016-03-13 12:00:43",
+        "last_seen": "2016-03-18 07:44:05",
+        "ip_address": "50.56.218.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "havagoruntu.com",
+        "count": "4119",
+        "first_seen": "2013-12-26 03:59:10",
+        "last_seen": "2015-12-22 03:51:06",
+        "ip_address": "94.73.151.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "havagoruntu.com",
+        "count": "57",
+        "first_seen": "2016-03-25 04:08:43",
+        "last_seen": "2017-02-03 17:54:47",
+        "ip_address": "104.130.124.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "havagoruntu.com",
+        "count": "74",
+        "first_seen": "2016-06-22 14:53:32",
+        "last_seen": "2016-11-14 14:02:51",
+        "ip_address": "192.230.66.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "havagoruntu.com",
+        "count": "74",
+        "first_seen": "2016-06-22 14:53:32",
+        "last_seen": "2016-11-14 14:02:51",
+        "ip_address": "192.230.74.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "havagoruntu.com",
+        "count": "33",
+        "first_seen": "2015-12-29 19:43:07",
+        "last_seen": "2016-02-03 04:51:14",
+        "ip_address": "209.99.40.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "havagoruntu.com",
+        "count": "26",
+        "first_seen": "2015-12-28 20:24:12",
+        "last_seen": "2016-01-28 04:37:35",
+        "ip_address": "209.99.40.223",
+        "type": "IPv4"
+    }
+]

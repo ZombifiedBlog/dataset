@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "med-bill.co.za",
+        "count": "28",
+        "first_seen": "2022-11-20 12:15:49",
+        "last_seen": "2023-01-16 19:08:34",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "med-bill.co.za",
+        "count": "16",
+        "first_seen": "2022-08-28 18:22:56",
+        "last_seen": "2022-11-18 08:12:44",
+        "ip_address": "34.102.136.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "med-bill.co.za",
+        "count": "20",
+        "first_seen": "2015-07-21 12:53:26",
+        "last_seen": "2015-08-10 09:59:17",
+        "ip_address": "154.0.164.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "med-bill.co.za",
+        "count": "1243",
+        "first_seen": "2018-04-16 04:39:40",
+        "last_seen": "2021-08-02 04:20:22",
+        "ip_address": "154.0.166.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "med-bill.co.za",
+        "count": "50",
+        "first_seen": "2016-08-16 02:29:13",
+        "last_seen": "2017-07-10 04:27:40",
+        "ip_address": "196.38.88.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "med-bill.co.za",
+        "count": "110",
+        "first_seen": "2017-07-17 04:07:44",
+        "last_seen": "2018-04-02 04:14:11",
+        "ip_address": "197.242.151.174",
+        "type": "IPv4"
+    }
+]

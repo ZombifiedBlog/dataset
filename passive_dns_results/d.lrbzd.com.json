@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "d.lrbzd.com",
+        "count": "3532",
+        "first_seen": "2022-03-04 01:58:42",
+        "last_seen": "2022-04-16 16:03:54",
+        "ip_address": "104.21.44.206",
+        "type": "IPv4"
+    },
+    {
+        "domain": "d.lrbzd.com",
+        "count": "3532",
+        "first_seen": "2022-03-04 01:58:42",
+        "last_seen": "2022-04-16 16:03:54",
+        "ip_address": "172.67.203.178",
+        "type": "IPv4"
+    },
+    {
+        "domain": "d.lrbzd.com",
+        "count": "40",
+        "first_seen": "2022-03-11 00:50:34",
+        "last_seen": "2022-03-14 10:25:49",
+        "ip_address": "188.114.98.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "d.lrbzd.com",
+        "count": "1276",
+        "first_seen": "2022-03-04 02:33:43",
+        "last_seen": "2022-04-14 12:27:41",
+        "ip_address": "2606:4700:3030::6815:2cce",
+        "type": "IPv6"
+    },
+    {
+        "domain": "d.lrbzd.com",
+        "count": "1276",
+        "first_seen": "2022-03-04 02:33:43",
+        "last_seen": "2022-04-14 12:27:41",
+        "ip_address": "2606:4700:3035::ac43:cbb2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "d.lrbzd.com",
+        "count": "1",
+        "first_seen": "2022-03-12 05:16:09",
+        "last_seen": "2022-03-12 05:16:09",
+        "ip_address": "2a06:98c1:3122:8000::",
+        "type": "IPv6"
+    }
+]

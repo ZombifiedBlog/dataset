@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "login-aol-com.bubbleapps.io",
+        "count": "5",
+        "first_seen": "2023-09-16 06:15:48",
+        "last_seen": "2023-11-15 13:57:00",
+        "ip_address": "104.16.203.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "login-aol-com.bubbleapps.io",
+        "count": "5",
+        "first_seen": "2023-09-16 06:15:48",
+        "last_seen": "2023-11-15 13:57:00",
+        "ip_address": "104.16.204.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "login-aol-com.bubbleapps.io",
+        "count": "6877",
+        "first_seen": "2022-08-17 23:08:12",
+        "last_seen": "2023-07-25 05:07:00",
+        "ip_address": "104.19.217.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "login-aol-com.bubbleapps.io",
+        "count": "6877",
+        "first_seen": "2022-08-17 23:08:12",
+        "last_seen": "2023-07-25 05:07:00",
+        "ip_address": "104.19.218.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "login-aol-com.bubbleapps.io",
+        "count": "3053",
+        "first_seen": "2022-08-18 03:34:14",
+        "last_seen": "2022-09-24 02:37:52",
+        "ip_address": "2606:4700::6813:d930",
+        "type": "IPv6"
+    },
+    {
+        "domain": "login-aol-com.bubbleapps.io",
+        "count": "3053",
+        "first_seen": "2022-08-18 03:34:14",
+        "last_seen": "2022-09-24 02:37:52",
+        "ip_address": "2606:4700::6813:da30",
+        "type": "IPv6"
+    }
+]

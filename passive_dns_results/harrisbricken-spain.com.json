@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "harrisbricken-spain.com",
+        "count": "280",
+        "first_seen": "2020-06-16 07:41:44",
+        "last_seen": "2021-06-10 06:51:28",
+        "ip_address": "52.3.48.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "harrisbricken-spain.com",
+        "count": "3",
+        "first_seen": "2021-06-19 04:41:54",
+        "last_seen": "2021-07-04 01:10:10",
+        "ip_address": "52.25.92.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "harrisbricken-spain.com",
+        "count": "15",
+        "first_seen": "2021-06-16 22:41:57",
+        "last_seen": "2021-07-07 07:21:31",
+        "ip_address": "54.65.172.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "harrisbricken-spain.com",
+        "count": "70",
+        "first_seen": "2020-02-15 09:25:58",
+        "last_seen": "2020-03-28 07:21:02",
+        "ip_address": "91.195.240.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "harrisbricken-spain.com",
+        "count": "1890",
+        "first_seen": "2018-02-14 11:43:03",
+        "last_seen": "2020-02-15 07:00:13",
+        "ip_address": "217.160.0.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "harrisbricken-spain.com",
+        "count": "313",
+        "first_seen": "2018-02-14 11:43:03",
+        "last_seen": "2020-02-12 03:57:06",
+        "ip_address": "2001:8d8:100f:f000::29c",
+        "type": "IPv6"
+    }
+]

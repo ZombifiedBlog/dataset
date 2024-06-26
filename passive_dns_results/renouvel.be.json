@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "renouvel.be",
+        "count": "7",
+        "first_seen": "2021-02-26 19:43:14",
+        "last_seen": "2021-03-07 19:32:01",
+        "ip_address": "91.142.254.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "renouvel.be",
+        "count": "1438",
+        "first_seen": "2015-03-14 02:07:53",
+        "last_seen": "2017-01-12 08:05:23",
+        "ip_address": "159.253.0.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "renouvel.be",
+        "count": "1825",
+        "first_seen": "2017-01-12 22:13:57",
+        "last_seen": "2018-07-03 18:05:04",
+        "ip_address": "185.69.233.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "renouvel.be",
+        "count": "2892",
+        "first_seen": "2018-07-06 21:58:51",
+        "last_seen": "2021-02-23 19:03:34",
+        "ip_address": "185.69.234.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "renouvel.be",
+        "count": "795",
+        "first_seen": "2021-03-09 19:12:49",
+        "last_seen": "2024-01-16 23:20:13",
+        "ip_address": "185.94.230.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "renouvel.be",
+        "count": "317",
+        "first_seen": "2021-04-05 06:58:42",
+        "last_seen": "2024-01-09 05:52:48",
+        "ip_address": "2a00:f10:13f:0:1c00:dfff:fe00:13d",
+        "type": "IPv6"
+    }
+]

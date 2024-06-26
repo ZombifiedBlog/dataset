@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.mmrjmu.com",
+        "count": "3",
+        "first_seen": "2022-08-11 08:42:08",
+        "last_seen": "2022-08-11 11:02:57",
+        "ip_address": "69.16.231.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mmrjmu.com",
+        "count": "59",
+        "first_seen": "2022-08-11 16:06:49",
+        "last_seen": "2022-09-20 15:48:05",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mmrjmu.com",
+        "count": "3512",
+        "first_seen": "2022-07-19 10:22:32",
+        "last_seen": "2022-08-11 15:07:10",
+        "ip_address": "204.152.210.183",
+        "type": "IPv4"
+    }
+]

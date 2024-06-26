@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www-ucscard-co-jp.ujkli8.com",
+        "count": "16",
+        "first_seen": "2023-01-10 14:32:01",
+        "last_seen": "2023-01-10 16:20:02",
+        "ip_address": "104.21.76.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-ucscard-co-jp.ujkli8.com",
+        "count": "16",
+        "first_seen": "2023-01-10 14:32:01",
+        "last_seen": "2023-01-10 16:20:02",
+        "ip_address": "172.67.192.175",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-ucscard-co-jp.ujkli8.com",
+        "count": "10",
+        "first_seen": "2023-01-10 14:44:33",
+        "last_seen": "2023-01-10 18:58:25",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-ucscard-co-jp.ujkli8.com",
+        "count": "10",
+        "first_seen": "2023-01-10 14:44:33",
+        "last_seen": "2023-01-10 18:58:25",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-ucscard-co-jp.ujkli8.com",
+        "count": "1",
+        "first_seen": "2023-01-10 14:44:36",
+        "last_seen": "2023-01-10 14:44:36",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-ucscard-co-jp.ujkli8.com",
+        "count": "1",
+        "first_seen": "2023-01-10 14:44:36",
+        "last_seen": "2023-01-10 14:44:36",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "domain": "natusse.com.co",
+        "count": "3119",
+        "first_seen": "2023-09-20 01:39:22",
+        "last_seen": "2023-11-14 09:50:41",
+        "ip_address": "3.33.130.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "natusse.com.co",
+        "count": "3119",
+        "first_seen": "2023-09-20 01:39:22",
+        "last_seen": "2023-11-14 09:50:41",
+        "ip_address": "15.197.148.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "natusse.com.co",
+        "count": "4412",
+        "first_seen": "2023-07-02 20:34:44",
+        "last_seen": "2023-09-20 00:38:25",
+        "ip_address": "34.102.136.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "natusse.com.co",
+        "count": "10178",
+        "first_seen": "2020-12-29 21:03:13",
+        "last_seen": "2022-12-02 21:54:49",
+        "ip_address": "50.62.148.175",
+        "type": "IPv4"
+    },
+    {
+        "domain": "natusse.com.co",
+        "count": "8",
+        "first_seen": "2020-09-23 19:41:07",
+        "last_seen": "2020-09-24 09:04:23",
+        "ip_address": "104.27.178.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "natusse.com.co",
+        "count": "8",
+        "first_seen": "2020-09-23 19:41:07",
+        "last_seen": "2020-09-24 09:04:23",
+        "ip_address": "104.27.179.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "natusse.com.co",
+        "count": "8",
+        "first_seen": "2020-09-23 19:41:07",
+        "last_seen": "2020-09-24 09:04:23",
+        "ip_address": "172.67.136.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "natusse.com.co",
+        "count": "37",
+        "first_seen": "2019-06-13 14:16:13",
+        "last_seen": "2019-08-02 23:35:20",
+        "ip_address": "107.180.28.166",
+        "type": "IPv4"
+    },
+    {
+        "domain": "natusse.com.co",
+        "count": "24",
+        "first_seen": "2019-08-10 17:02:22",
+        "last_seen": "2019-08-22 08:46:39",
+        "ip_address": "132.148.215.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "natusse.com.co",
+        "count": "1901",
+        "first_seen": "2022-12-02 22:05:14",
+        "last_seen": "2023-07-02 16:52:53",
+        "ip_address": "148.72.68.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "natusse.com.co",
+        "count": "382",
+        "first_seen": "2019-09-07 03:57:14",
+        "last_seen": "2020-12-29 19:13:32",
+        "ip_address": "148.72.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "natusse.com.co",
+        "count": "60",
+        "first_seen": "2018-12-14 21:02:35",
+        "last_seen": "2019-06-05 20:42:54",
+        "ip_address": "160.153.129.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "natusse.com.co",
+        "count": "914",
+        "first_seen": "2019-09-22 09:10:47",
+        "last_seen": "2020-09-23 06:33:37",
+        "ip_address": "184.168.131.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "natusse.com.co",
+        "count": "41",
+        "first_seen": "2018-12-19 17:09:22",
+        "last_seen": "2019-03-12 02:54:18",
+        "ip_address": "192.168.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "natusse.com.co",
+        "count": "82",
+        "first_seen": "2019-10-03 23:03:58",
+        "last_seen": "2020-09-23 15:41:13",
+        "ip_address": "198.71.248.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "natusse.com.co",
+        "count": "5",
+        "first_seen": "2020-09-23 19:41:05",
+        "last_seen": "2020-09-24 09:03:56",
+        "ip_address": "2606:4700:3030::681b:b308",
+        "type": "IPv6"
+    },
+    {
+        "domain": "natusse.com.co",
+        "count": "5",
+        "first_seen": "2020-09-23 19:41:05",
+        "last_seen": "2020-09-24 09:03:56",
+        "ip_address": "2606:4700:3033::681b:b208",
+        "type": "IPv6"
+    },
+    {
+        "domain": "natusse.com.co",
+        "count": "5",
+        "first_seen": "2020-09-23 19:41:05",
+        "last_seen": "2020-09-24 09:03:56",
+        "ip_address": "2606:4700:3034::ac43:8891",
+        "type": "IPv6"
+    }
+]

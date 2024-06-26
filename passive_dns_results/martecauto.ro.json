@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "martecauto.ro",
+        "count": "2104",
+        "first_seen": "2020-04-04 23:14:33",
+        "last_seen": "2024-01-18 05:12:49",
+        "ip_address": "45.134.160.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "martecauto.ro",
+        "count": "69",
+        "first_seen": "2016-04-11 00:50:53",
+        "last_seen": "2017-03-24 18:03:51",
+        "ip_address": "89.40.36.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "martecauto.ro",
+        "count": "1198",
+        "first_seen": "2017-04-03 21:36:59",
+        "last_seen": "2020-04-04 20:23:31",
+        "ip_address": "93.115.203.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "martecauto.ro",
+        "count": "685",
+        "first_seen": "2020-10-01 17:39:42",
+        "last_seen": "2021-08-06 18:03:54",
+        "ip_address": "185.181.100.2",
+        "type": "IPv4"
+    }
+]

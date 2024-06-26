@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.mobilesuica.com",
+        "count": "16391",
+        "first_seen": "2014-03-08 21:14:51",
+        "last_seen": "2021-03-20 02:30:02",
+        "ip_address": "157.71.17.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mobilesuica.com",
+        "count": "22185",
+        "first_seen": "2021-03-20 15:58:13",
+        "last_seen": "2024-01-18 09:46:44",
+        "ip_address": "157.72.65.130",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mobilesuica.com",
+        "count": "1970",
+        "first_seen": "2010-08-12 19:40:50",
+        "last_seen": "2014-03-07 06:14:10",
+        "ip_address": "157.72.152.51",
+        "type": "IPv4"
+    }
+]

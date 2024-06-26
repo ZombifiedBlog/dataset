@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "uqeoifj.ga",
+        "count": "371",
+        "first_seen": "2022-09-08 18:36:20",
+        "last_seen": "2022-09-09 16:10:32",
+        "ip_address": "104.21.57.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "uqeoifj.ga",
+        "count": "371",
+        "first_seen": "2022-09-08 18:36:20",
+        "last_seen": "2022-09-09 16:10:32",
+        "ip_address": "172.67.158.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "uqeoifj.ga",
+        "count": "36",
+        "first_seen": "2022-09-09 00:08:11",
+        "last_seen": "2022-09-09 16:10:32",
+        "ip_address": "2606:4700:3035::6815:391c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "uqeoifj.ga",
+        "count": "36",
+        "first_seen": "2022-09-09 00:08:11",
+        "last_seen": "2022-09-09 16:10:32",
+        "ip_address": "2606:4700:3037::ac43:9ebf",
+        "type": "IPv6"
+    }
+]

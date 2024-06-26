@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "mks.agsmk.com",
+        "count": "494",
+        "first_seen": "2020-04-09 02:51:49",
+        "last_seen": "2020-04-23 22:36:27",
+        "ip_address": "104.24.110.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mks.agsmk.com",
+        "count": "494",
+        "first_seen": "2020-04-09 02:51:49",
+        "last_seen": "2020-04-23 22:36:27",
+        "ip_address": "104.24.111.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mks.agsmk.com",
+        "count": "2",
+        "first_seen": "2020-06-19 11:34:11",
+        "last_seen": "2020-06-19 11:34:11",
+        "ip_address": "2606:4700:3036::6818:6e0b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mks.agsmk.com",
+        "count": "2",
+        "first_seen": "2020-06-19 11:34:11",
+        "last_seen": "2020-06-19 11:34:11",
+        "ip_address": "2606:4700:3036::ac43:de30",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mks.agsmk.com",
+        "count": "2",
+        "first_seen": "2020-06-19 11:34:11",
+        "last_seen": "2020-06-19 11:34:11",
+        "ip_address": "2606:4700:3037::6818:6f0b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mks.agsmk.com",
+        "count": "13",
+        "first_seen": "2020-04-09 05:13:44",
+        "last_seen": "2020-04-21 15:28:02",
+        "ip_address": "2606:4700:3036::6818:6e0b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mks.agsmk.com",
+        "count": "13",
+        "first_seen": "2020-04-09 05:13:44",
+        "last_seen": "2020-04-21 15:28:02",
+        "ip_address": "2606:4700:3037::6818:6f0b",
+        "type": "IPv6"
+    }
+]

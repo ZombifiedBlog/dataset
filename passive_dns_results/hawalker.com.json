@@ -1,0 +1,106 @@
+[
+    {
+        "domain": "hawalker.com",
+        "count": "96",
+        "first_seen": "2020-10-11 15:32:21",
+        "last_seen": "2021-10-12 03:02:23",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hawalker.com",
+        "count": "2",
+        "first_seen": "2014-01-03 12:03:02",
+        "last_seen": "2014-01-08 10:42:22",
+        "ip_address": "50.87.3.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hawalker.com",
+        "count": "36",
+        "first_seen": "2010-09-10 11:28:53",
+        "last_seen": "2013-03-17 02:41:24",
+        "ip_address": "74.54.138.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hawalker.com",
+        "count": "3041",
+        "first_seen": "2014-02-20 10:11:33",
+        "last_seen": "2017-11-22 09:39:16",
+        "ip_address": "173.254.120.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hawalker.com",
+        "count": "14746",
+        "first_seen": "2019-12-23 13:30:10",
+        "last_seen": "2023-10-04 21:22:58",
+        "ip_address": "185.210.145.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hawalker.com",
+        "count": "1062",
+        "first_seen": "2023-10-05 06:53:20",
+        "last_seen": "2024-01-13 19:48:46",
+        "ip_address": "195.179.239.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hawalker.com",
+        "count": "4",
+        "first_seen": "2013-11-22 14:56:57",
+        "last_seen": "2013-12-20 11:10:18",
+        "ip_address": "202.88.239.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hawalker.com",
+        "count": "180",
+        "first_seen": "2016-10-07 09:35:10",
+        "last_seen": "2017-10-12 10:38:30",
+        "ip_address": "209.99.40.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hawalker.com",
+        "count": "177",
+        "first_seen": "2016-10-07 13:57:55",
+        "last_seen": "2017-10-11 09:33:33",
+        "ip_address": "209.99.40.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hawalker.com",
+        "count": "3",
+        "first_seen": "2013-07-05 14:12:27",
+        "last_seen": "2013-08-25 01:12:00",
+        "ip_address": "209.208.27.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hawalker.com",
+        "count": "4676",
+        "first_seen": "2017-11-23 09:54:35",
+        "last_seen": "2019-12-22 13:45:18",
+        "ip_address": "216.10.240.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hawalker.com",
+        "count": "339",
+        "first_seen": "2023-10-05 09:24:38",
+        "last_seen": "2024-01-13 09:41:59",
+        "ip_address": "2a02:4780:1:1166:0:308e:3c8:2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hawalker.com",
+        "count": "1147",
+        "first_seen": "2021-11-04 12:35:13",
+        "last_seen": "2023-10-04 21:22:58",
+        "ip_address": "2a02:4780:3:383:0:308e:3c8:1",
+        "type": "IPv6"
+    }
+]

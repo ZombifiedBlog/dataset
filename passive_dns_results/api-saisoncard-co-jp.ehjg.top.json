@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "api-saisoncard-co-jp.ehjg.top",
+        "count": "161",
+        "first_seen": "2021-12-25 13:33:47",
+        "last_seen": "2021-12-27 07:32:21",
+        "ip_address": "104.21.46.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "api-saisoncard-co-jp.ehjg.top",
+        "count": "161",
+        "first_seen": "2021-12-25 13:33:47",
+        "last_seen": "2021-12-27 07:32:21",
+        "ip_address": "172.67.141.142",
+        "type": "IPv4"
+    },
+    {
+        "domain": "api-saisoncard-co-jp.ehjg.top",
+        "count": "6",
+        "first_seen": "2021-12-25 13:33:49",
+        "last_seen": "2021-12-27 01:45:03",
+        "ip_address": "2606:4700:3032::6815:2ebd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "api-saisoncard-co-jp.ehjg.top",
+        "count": "6",
+        "first_seen": "2021-12-25 13:33:49",
+        "last_seen": "2021-12-27 01:45:03",
+        "ip_address": "2606:4700:3036::ac43:8d8e",
+        "type": "IPv6"
+    }
+]

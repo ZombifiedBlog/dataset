@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "amazon.co.jp.aegf14we2351ghw321h6r5we4jh6rt5s4j5sr4456wrwh56ert4hj5e634hj.buzz",
+        "count": "28",
+        "first_seen": "2020-05-21 04:40:35",
+        "last_seen": "2020-05-23 22:15:33",
+        "ip_address": "104.27.178.176",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.co.jp.aegf14we2351ghw321h6r5we4jh6rt5s4j5sr4456wrwh56ert4hj5e634hj.buzz",
+        "count": "28",
+        "first_seen": "2020-05-21 04:40:35",
+        "last_seen": "2020-05-23 22:15:33",
+        "ip_address": "104.27.179.176",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.co.jp.aegf14we2351ghw321h6r5we4jh6rt5s4j5sr4456wrwh56ert4hj5e634hj.buzz",
+        "count": "6",
+        "first_seen": "2020-05-21 04:40:35",
+        "last_seen": "2020-05-21 22:57:50",
+        "ip_address": "2606:4700:3032::681b:b3b0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon.co.jp.aegf14we2351ghw321h6r5we4jh6rt5s4j5sr4456wrwh56ert4hj5e634hj.buzz",
+        "count": "6",
+        "first_seen": "2020-05-21 04:40:35",
+        "last_seen": "2020-05-21 22:57:50",
+        "ip_address": "2606:4700:3036::681b:b2b0",
+        "type": "IPv6"
+    }
+]

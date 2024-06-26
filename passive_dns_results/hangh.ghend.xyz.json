@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "hangh.ghend.xyz",
+        "count": "391",
+        "first_seen": "2023-06-03 08:41:40",
+        "last_seen": "2023-06-07 00:20:51",
+        "ip_address": "104.21.28.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hangh.ghend.xyz",
+        "count": "391",
+        "first_seen": "2023-06-03 08:41:40",
+        "last_seen": "2023-06-07 00:20:51",
+        "ip_address": "172.67.170.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hangh.ghend.xyz",
+        "count": "47",
+        "first_seen": "2023-06-03 08:41:40",
+        "last_seen": "2023-06-06 23:57:46",
+        "ip_address": "2606:4700:3030::6815:1c8c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hangh.ghend.xyz",
+        "count": "47",
+        "first_seen": "2023-06-03 08:41:40",
+        "last_seen": "2023-06-06 23:57:46",
+        "ip_address": "2606:4700:3034::ac43:aada",
+        "type": "IPv6"
+    }
+]

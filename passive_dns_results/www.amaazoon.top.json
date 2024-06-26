@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.amaazoon.top",
+        "count": "3",
+        "first_seen": "2021-09-22 09:54:59",
+        "last_seen": "2021-09-30 07:30:10",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amaazoon.top",
+        "count": "3",
+        "first_seen": "2021-01-19 01:57:28",
+        "last_seen": "2021-02-24 00:21:02",
+        "ip_address": "128.14.142.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amaazoon.top",
+        "count": "4",
+        "first_seen": "2020-11-02 16:59:22",
+        "last_seen": "2020-11-03 08:14:06",
+        "ip_address": "128.14.142.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amaazoon.top",
+        "count": "32",
+        "first_seen": "2020-09-21 21:01:25",
+        "last_seen": "2020-09-22 03:53:58",
+        "ip_address": "173.82.82.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amaazoon.top",
+        "count": "49",
+        "first_seen": "2020-09-22 06:58:57",
+        "last_seen": "2020-09-22 21:04:32",
+        "ip_address": "198.12.71.112",
+        "type": "IPv4"
+    }
+]

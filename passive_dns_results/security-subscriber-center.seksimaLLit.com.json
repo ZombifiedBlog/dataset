@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "security-subscriber-center.seksimallit.com",
+        "count": "5410",
+        "first_seen": "2022-10-01 23:12:58",
+        "last_seen": "2023-01-10 15:33:40",
+        "ip_address": "104.21.84.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.seksimallit.com",
+        "count": "5410",
+        "first_seen": "2022-10-01 23:12:58",
+        "last_seen": "2023-01-10 15:33:40",
+        "ip_address": "172.67.195.178",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.seksimallit.com",
+        "count": "4",
+        "first_seen": "2023-01-20 00:54:17",
+        "last_seen": "2023-01-20 00:55:48",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.seksimallit.com",
+        "count": "44",
+        "first_seen": "2023-02-24 15:19:17",
+        "last_seen": "2023-03-19 05:19:56",
+        "ip_address": "154.85.197.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.seksimallit.com",
+        "count": "24",
+        "first_seen": "2023-01-15 23:36:21",
+        "last_seen": "2023-02-15 08:31:34",
+        "ip_address": "170.106.49.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.seksimallit.com",
+        "count": "232",
+        "first_seen": "2022-10-02 07:00:47",
+        "last_seen": "2023-01-12 14:32:33",
+        "ip_address": "2606:4700:3032::6815:54b4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "security-subscriber-center.seksimallit.com",
+        "count": "232",
+        "first_seen": "2022-10-02 07:00:47",
+        "last_seen": "2023-01-12 14:32:33",
+        "ip_address": "2606:4700:3033::ac43:c3b2",
+        "type": "IPv6"
+    }
+]

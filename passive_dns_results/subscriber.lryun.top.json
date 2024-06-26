@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscriber.lryun.top",
+        "count": "5",
+        "first_seen": "2023-06-10 06:00:22",
+        "last_seen": "2023-06-14 16:31:12",
+        "ip_address": "49.51.77.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lryun.top",
+        "count": "2",
+        "first_seen": "2023-07-04 22:00:30",
+        "last_seen": "2023-07-04 22:00:30",
+        "ip_address": "49.51.79.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lryun.top",
+        "count": "2722",
+        "first_seen": "2023-02-02 18:25:47",
+        "last_seen": "2023-03-05 14:04:36",
+        "ip_address": "104.21.91.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lryun.top",
+        "count": "2722",
+        "first_seen": "2023-02-02 18:25:47",
+        "last_seen": "2023-03-05 14:04:36",
+        "ip_address": "172.67.180.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lryun.top",
+        "count": "278",
+        "first_seen": "2023-03-05 08:30:04",
+        "last_seen": "2023-05-28 22:27:15",
+        "ip_address": "146.148.195.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lryun.top",
+        "count": "116",
+        "first_seen": "2023-02-02 18:41:49",
+        "last_seen": "2023-03-04 19:29:17",
+        "ip_address": "2606:4700:3033::ac43:b471",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.lryun.top",
+        "count": "116",
+        "first_seen": "2023-02-02 18:41:49",
+        "last_seen": "2023-03-04 19:29:17",
+        "ip_address": "2606:4700:3035::6815:5bd1",
+        "type": "IPv6"
+    }
+]

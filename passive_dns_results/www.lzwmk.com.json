@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.lzwmk.com",
+        "count": "17",
+        "first_seen": "2021-04-12 04:18:32",
+        "last_seen": "2021-04-13 14:32:43",
+        "ip_address": "104.21.35.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzwmk.com",
+        "count": "17",
+        "first_seen": "2021-04-12 04:18:32",
+        "last_seen": "2021-04-13 14:32:43",
+        "ip_address": "172.67.217.73",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzwmk.com",
+        "count": "22",
+        "first_seen": "2017-04-04 02:00:52",
+        "last_seen": "2018-03-13 02:23:13",
+        "ip_address": "104.216.70.159",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzwmk.com",
+        "count": "944",
+        "first_seen": "2021-04-13 04:25:42",
+        "last_seen": "2022-01-02 15:40:15",
+        "ip_address": "198.144.149.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzwmk.com",
+        "count": "2",
+        "first_seen": "2018-04-03 10:10:21",
+        "last_seen": "2018-04-03 10:10:21",
+        "ip_address": "209.99.64.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzwmk.com",
+        "count": "5",
+        "first_seen": "2021-04-12 04:18:32",
+        "last_seen": "2021-04-12 21:53:12",
+        "ip_address": "2606:4700:3033::6815:2365",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lzwmk.com",
+        "count": "5",
+        "first_seen": "2021-04-12 04:18:32",
+        "last_seen": "2021-04-12 21:53:12",
+        "ip_address": "2606:4700:3035::ac43:d949",
+        "type": "IPv6"
+    }
+]

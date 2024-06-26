@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www-yodobashi-com.sts275.top",
+        "count": "1",
+        "first_seen": "2023-08-13 12:20:32",
+        "last_seen": "2023-08-13 12:20:32",
+        "ip_address": "103.224.182.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-yodobashi-com.sts275.top",
+        "count": "120",
+        "first_seen": "2021-09-02 15:12:36",
+        "last_seen": "2021-09-07 19:16:08",
+        "ip_address": "104.21.56.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-yodobashi-com.sts275.top",
+        "count": "120",
+        "first_seen": "2021-09-02 15:12:36",
+        "last_seen": "2021-09-07 19:16:08",
+        "ip_address": "172.67.175.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-yodobashi-com.sts275.top",
+        "count": "3",
+        "first_seen": "2023-08-13 12:20:32",
+        "last_seen": "2023-08-13 19:20:13",
+        "ip_address": "103.224.182.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-yodobashi-com.sts275.top",
+        "count": "39",
+        "first_seen": "2021-09-02 15:12:38",
+        "last_seen": "2021-09-04 16:46:41",
+        "ip_address": "2606:4700:3031::6815:3805",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-yodobashi-com.sts275.top",
+        "count": "39",
+        "first_seen": "2021-09-02 15:12:38",
+        "last_seen": "2021-09-04 16:46:41",
+        "ip_address": "2606:4700:3033::ac43:af1f",
+        "type": "IPv6"
+    }
+]

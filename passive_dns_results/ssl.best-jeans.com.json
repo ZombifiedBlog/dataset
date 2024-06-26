@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "ssl.best-jeans.com",
+        "count": "1",
+        "first_seen": "2015-08-25 09:01:43",
+        "last_seen": "2015-08-25 09:01:43",
+        "ip_address": "23.253.164.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ssl.best-jeans.com",
+        "count": "1",
+        "first_seen": "2015-08-25 09:01:43",
+        "last_seen": "2015-08-25 09:01:43",
+        "ip_address": "192.64.147.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ssl.best-jeans.com",
+        "count": "6968",
+        "first_seen": "2010-07-27 18:12:35",
+        "last_seen": "2016-05-15 17:30:37",
+        "ip_address": "210.166.246.244",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ssl.best-jeans.com",
+        "count": "81",
+        "first_seen": "2015-08-25 09:01:43",
+        "last_seen": "2015-08-27 07:24:41",
+        "ip_address": "23.253.164.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ssl.best-jeans.com",
+        "count": "81",
+        "first_seen": "2015-08-25 09:01:43",
+        "last_seen": "2015-08-27 07:24:41",
+        "ip_address": "192.64.147.141",
+        "type": "IPv4"
+    }
+]

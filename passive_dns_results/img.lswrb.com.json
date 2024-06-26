@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "img.lswrb.com",
+        "count": "208",
+        "first_seen": "2020-10-19 08:56:05",
+        "last_seen": "2020-10-29 16:55:17",
+        "ip_address": "104.18.42.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lswrb.com",
+        "count": "208",
+        "first_seen": "2020-10-19 08:56:05",
+        "last_seen": "2020-10-29 16:55:17",
+        "ip_address": "104.18.43.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lswrb.com",
+        "count": "208",
+        "first_seen": "2020-10-19 08:56:05",
+        "last_seen": "2020-10-29 16:55:17",
+        "ip_address": "172.67.223.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lswrb.com",
+        "count": "4889",
+        "first_seen": "2020-10-29 03:35:40",
+        "last_seen": "2021-01-12 23:28:34",
+        "ip_address": "198.144.149.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lswrb.com",
+        "count": "59",
+        "first_seen": "2020-10-19 08:56:05",
+        "last_seen": "2020-10-28 16:04:09",
+        "ip_address": "2606:4700:3031::6812:2b02",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lswrb.com",
+        "count": "59",
+        "first_seen": "2020-10-19 08:56:05",
+        "last_seen": "2020-10-28 16:04:09",
+        "ip_address": "2606:4700:3033::6812:2a02",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lswrb.com",
+        "count": "59",
+        "first_seen": "2020-10-19 08:56:05",
+        "last_seen": "2020-10-28 16:04:09",
+        "ip_address": "2606:4700:3037::ac43:dfa5",
+        "type": "IPv6"
+    }
+]

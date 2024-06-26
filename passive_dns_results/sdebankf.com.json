@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "sdebankf.com",
+        "count": "11",
+        "first_seen": "2022-12-02 10:32:59",
+        "last_seen": "2023-01-07 07:23:44",
+        "ip_address": "16.163.253.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sdebankf.com",
+        "count": "23",
+        "first_seen": "2023-01-11 09:07:59",
+        "last_seen": "2023-05-06 09:53:36",
+        "ip_address": "34.92.243.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sdebankf.com",
+        "count": "48",
+        "first_seen": "2023-12-02 07:55:23",
+        "last_seen": "2023-12-15 17:03:54",
+        "ip_address": "52.213.114.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sdebankf.com",
+        "count": "1616",
+        "first_seen": "2023-06-30 06:53:11",
+        "last_seen": "2023-12-01 18:02:59",
+        "ip_address": "140.99.219.79",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sdebankf.com",
+        "count": "393",
+        "first_seen": "2023-07-09 03:06:32",
+        "last_seen": "2023-07-25 02:52:16",
+        "ip_address": "172.252.253.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sdebankf.com",
+        "count": "97",
+        "first_seen": "2023-05-07 08:45:49",
+        "last_seen": "2023-05-08 03:17:50",
+        "ip_address": "192.161.176.98",
+        "type": "IPv4"
+    }
+]

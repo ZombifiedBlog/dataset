@@ -1,0 +1,154 @@
+[
+    {
+        "domain": "uk.job-register.com",
+        "count": "1",
+        "first_seen": "2023-03-02 13:00:58",
+        "last_seen": "2023-03-02 13:00:58",
+        "ip_address": "69.162.95.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "uk.job-register.com",
+        "count": "1",
+        "first_seen": "2022-08-31 13:16:50",
+        "last_seen": "2022-08-31 13:16:50",
+        "ip_address": "74.63.241.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "uk.job-register.com",
+        "count": "1",
+        "first_seen": "2023-01-07 06:30:41",
+        "last_seen": "2023-01-07 06:30:41",
+        "ip_address": "82.192.82.227",
+        "type": "IPv4"
+    },
+    {
+        "domain": "uk.job-register.com",
+        "count": "1",
+        "first_seen": "2023-04-06 14:07:02",
+        "last_seen": "2023-04-06 14:07:02",
+        "ip_address": "82.192.82.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "uk.job-register.com",
+        "count": "1",
+        "first_seen": "2022-02-07 04:18:41",
+        "last_seen": "2022-02-07 04:18:41",
+        "ip_address": "88.214.207.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "uk.job-register.com",
+        "count": "1",
+        "first_seen": "2022-05-12 11:50:54",
+        "last_seen": "2022-05-12 11:50:54",
+        "ip_address": "96.47.230.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "uk.job-register.com",
+        "count": "23",
+        "first_seen": "2021-02-09 16:30:26",
+        "last_seen": "2021-12-19 10:34:44",
+        "ip_address": "104.21.52.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "uk.job-register.com",
+        "count": "23",
+        "first_seen": "2021-02-09 16:30:26",
+        "last_seen": "2021-12-19 10:34:44",
+        "ip_address": "172.67.197.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "uk.job-register.com",
+        "count": "6",
+        "first_seen": "2020-11-16 23:29:33",
+        "last_seen": "2021-01-04 06:47:57",
+        "ip_address": "104.24.100.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "uk.job-register.com",
+        "count": "6",
+        "first_seen": "2020-11-16 23:29:33",
+        "last_seen": "2021-01-04 06:47:57",
+        "ip_address": "104.24.101.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "uk.job-register.com",
+        "count": "6",
+        "first_seen": "2020-11-16 23:29:33",
+        "last_seen": "2021-01-04 06:47:57",
+        "ip_address": "172.67.197.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "uk.job-register.com",
+        "count": "1",
+        "first_seen": "2022-09-10 14:09:05",
+        "last_seen": "2022-09-10 14:09:05",
+        "ip_address": "185.107.56.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "uk.job-register.com",
+        "count": "1",
+        "first_seen": "2023-01-19 13:23:48",
+        "last_seen": "2023-01-19 13:23:48",
+        "ip_address": "185.107.56.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "uk.job-register.com",
+        "count": "1",
+        "first_seen": "2022-05-22 14:49:16",
+        "last_seen": "2022-05-22 14:49:16",
+        "ip_address": "185.107.56.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "uk.job-register.com",
+        "count": "6",
+        "first_seen": "2020-11-16 23:29:33",
+        "last_seen": "2021-01-04 06:47:57",
+        "ip_address": "2606:4700:3033::6818:6576",
+        "type": "IPv6"
+    },
+    {
+        "domain": "uk.job-register.com",
+        "count": "6",
+        "first_seen": "2020-11-16 23:29:33",
+        "last_seen": "2021-01-04 06:47:57",
+        "ip_address": "2606:4700:3036::6818:6476",
+        "type": "IPv6"
+    },
+    {
+        "domain": "uk.job-register.com",
+        "count": "6",
+        "first_seen": "2020-11-16 23:29:33",
+        "last_seen": "2021-01-04 06:47:57",
+        "ip_address": "2606:4700:3036::ac43:c547",
+        "type": "IPv6"
+    },
+    {
+        "domain": "uk.job-register.com",
+        "count": "19",
+        "first_seen": "2021-02-09 16:30:26",
+        "last_seen": "2021-10-11 10:55:40",
+        "ip_address": "2606:4700:3036::ac43:c547",
+        "type": "IPv6"
+    },
+    {
+        "domain": "uk.job-register.com",
+        "count": "19",
+        "first_seen": "2021-02-09 16:30:26",
+        "last_seen": "2021-10-11 10:55:40",
+        "ip_address": "2606:4700:3037::6815:3457",
+        "type": "IPv6"
+    }
+]

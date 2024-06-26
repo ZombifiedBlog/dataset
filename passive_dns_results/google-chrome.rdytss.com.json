@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "google-chrome.rdytss.com",
+        "count": "309",
+        "first_seen": "2020-01-22 16:56:31",
+        "last_seen": "2020-05-22 16:22:11",
+        "ip_address": "104.27.132.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "google-chrome.rdytss.com",
+        "count": "309",
+        "first_seen": "2020-01-22 16:56:31",
+        "last_seen": "2020-05-22 16:22:11",
+        "ip_address": "104.27.133.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "google-chrome.rdytss.com",
+        "count": "63",
+        "first_seen": "2020-05-28 16:34:57",
+        "last_seen": "2020-10-16 14:33:25",
+        "ip_address": "104.27.132.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "google-chrome.rdytss.com",
+        "count": "63",
+        "first_seen": "2020-05-28 16:34:57",
+        "last_seen": "2020-10-16 14:33:25",
+        "ip_address": "104.27.133.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "google-chrome.rdytss.com",
+        "count": "63",
+        "first_seen": "2020-05-28 16:34:57",
+        "last_seen": "2020-10-16 14:33:25",
+        "ip_address": "172.67.139.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "google-chrome.rdytss.com",
+        "count": "182",
+        "first_seen": "2020-01-22 16:56:31",
+        "last_seen": "2020-05-22 04:10:57",
+        "ip_address": "2606:4700:3034::681b:8427",
+        "type": "IPv6"
+    },
+    {
+        "domain": "google-chrome.rdytss.com",
+        "count": "182",
+        "first_seen": "2020-01-22 16:56:31",
+        "last_seen": "2020-05-22 04:10:57",
+        "ip_address": "2606:4700:3037::681b:8527",
+        "type": "IPv6"
+    },
+    {
+        "domain": "google-chrome.rdytss.com",
+        "count": "26",
+        "first_seen": "2020-06-06 21:26:11",
+        "last_seen": "2020-10-16 14:33:25",
+        "ip_address": "2606:4700:3034::681b:8427",
+        "type": "IPv6"
+    },
+    {
+        "domain": "google-chrome.rdytss.com",
+        "count": "26",
+        "first_seen": "2020-06-06 21:26:11",
+        "last_seen": "2020-10-16 14:33:25",
+        "ip_address": "2606:4700:3037::681b:8527",
+        "type": "IPv6"
+    },
+    {
+        "domain": "google-chrome.rdytss.com",
+        "count": "26",
+        "first_seen": "2020-06-06 21:26:11",
+        "last_seen": "2020-10-16 14:33:25",
+        "ip_address": "2606:4700:3037::ac43:8b41",
+        "type": "IPv6"
+    }
+]

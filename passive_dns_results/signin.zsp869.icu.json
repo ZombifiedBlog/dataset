@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "signin.zsp869.icu",
+        "count": "17",
+        "first_seen": "2020-11-15 18:57:20",
+        "last_seen": "2020-12-11 19:02:25",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "signin.zsp869.icu",
+        "count": "38",
+        "first_seen": "2020-09-09 09:26:47",
+        "last_seen": "2020-11-09 18:53:31",
+        "ip_address": "104.27.180.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "signin.zsp869.icu",
+        "count": "38",
+        "first_seen": "2020-09-09 09:26:47",
+        "last_seen": "2020-11-09 18:53:31",
+        "ip_address": "104.27.181.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "signin.zsp869.icu",
+        "count": "38",
+        "first_seen": "2020-09-09 09:26:47",
+        "last_seen": "2020-11-09 18:53:31",
+        "ip_address": "172.67.136.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "signin.zsp869.icu",
+        "count": "4",
+        "first_seen": "2020-10-08 01:07:10",
+        "last_seen": "2020-10-08 05:24:33",
+        "ip_address": "2606:4700:3034::681b:b40c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "signin.zsp869.icu",
+        "count": "4",
+        "first_seen": "2020-10-08 01:07:10",
+        "last_seen": "2020-10-08 05:24:33",
+        "ip_address": "2606:4700:3035::681b:b50c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "signin.zsp869.icu",
+        "count": "4",
+        "first_seen": "2020-10-08 01:07:10",
+        "last_seen": "2020-10-08 05:24:33",
+        "ip_address": "2606:4700:3037::ac43:88da",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "domain": "www.elifenavi.net",
+        "count": "28",
+        "first_seen": "2013-11-11 02:22:03",
+        "last_seen": "2014-11-20 03:11:16",
+        "ip_address": "64.74.223.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.elifenavi.net",
+        "count": "5",
+        "first_seen": "2020-11-08 14:02:00",
+        "last_seen": "2020-11-26 02:52:01",
+        "ip_address": "91.195.240.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.elifenavi.net",
+        "count": "6",
+        "first_seen": "2016-11-17 04:24:28",
+        "last_seen": "2016-12-06 04:02:32",
+        "ip_address": "98.124.243.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.elifenavi.net",
+        "count": "164",
+        "first_seen": "2023-07-12 02:26:02",
+        "last_seen": "2024-01-17 14:39:25",
+        "ip_address": "104.21.88.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.elifenavi.net",
+        "count": "164",
+        "first_seen": "2023-07-12 02:26:02",
+        "last_seen": "2024-01-17 14:39:25",
+        "ip_address": "172.67.152.156",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.elifenavi.net",
+        "count": "2",
+        "first_seen": "2023-07-10 18:16:19",
+        "last_seen": "2023-07-10 18:16:19",
+        "ip_address": "138.68.10.132",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.elifenavi.net",
+        "count": "6",
+        "first_seen": "2023-07-12 03:54:15",
+        "last_seen": "2024-01-10 07:26:30",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.elifenavi.net",
+        "count": "6",
+        "first_seen": "2023-07-12 03:54:15",
+        "last_seen": "2024-01-10 07:26:30",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.elifenavi.net",
+        "count": "8",
+        "first_seen": "2023-07-12 02:26:11",
+        "last_seen": "2023-11-10 01:25:02",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.elifenavi.net",
+        "count": "8",
+        "first_seen": "2023-07-12 02:26:11",
+        "last_seen": "2023-11-10 01:25:02",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.elifenavi.net",
+        "count": "2",
+        "first_seen": "2023-09-10 01:15:00",
+        "last_seen": "2023-09-10 01:15:00",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.elifenavi.net",
+        "count": "2",
+        "first_seen": "2023-09-10 01:15:00",
+        "last_seen": "2023-09-10 01:15:00",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.elifenavi.net",
+        "count": "2",
+        "first_seen": "2023-07-14 10:41:24",
+        "last_seen": "2023-07-14 10:41:24",
+        "ip_address": "188.114.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.elifenavi.net",
+        "count": "2",
+        "first_seen": "2023-07-14 10:41:24",
+        "last_seen": "2023-07-14 10:41:24",
+        "ip_address": "188.114.97.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.elifenavi.net",
+        "count": "43",
+        "first_seen": "2023-07-12 02:26:05",
+        "last_seen": "2024-01-17 14:39:25",
+        "ip_address": "2606:4700:3033::ac43:989c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.elifenavi.net",
+        "count": "43",
+        "first_seen": "2023-07-12 02:26:05",
+        "last_seen": "2024-01-17 14:39:25",
+        "ip_address": "2606:4700:3036::6815:58c3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.elifenavi.net",
+        "count": "2",
+        "first_seen": "2023-07-12 03:53:16",
+        "last_seen": "2023-07-12 03:53:16",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.elifenavi.net",
+        "count": "2",
+        "first_seen": "2023-07-12 03:53:16",
+        "last_seen": "2023-07-12 03:53:16",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    }
+]

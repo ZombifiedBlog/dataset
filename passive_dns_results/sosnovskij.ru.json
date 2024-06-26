@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "sosnovskij.ru",
+        "count": "152700",
+        "first_seen": "2020-04-30 06:59:00",
+        "last_seen": "2024-01-18 18:10:20",
+        "ip_address": "23.111.202.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sosnovskij.ru",
+        "count": "4135",
+        "first_seen": "2010-09-21 18:24:21",
+        "last_seen": "2012-04-26 14:56:39",
+        "ip_address": "46.4.243.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sosnovskij.ru",
+        "count": "138462",
+        "first_seen": "2014-10-24 22:45:55",
+        "last_seen": "2018-07-28 04:59:54",
+        "ip_address": "78.140.162.244",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sosnovskij.ru",
+        "count": "93454",
+        "first_seen": "2018-07-28 05:07:15",
+        "last_seen": "2020-04-29 06:23:20",
+        "ip_address": "88.212.253.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sosnovskij.ru",
+        "count": "11530",
+        "first_seen": "2012-04-26 21:50:59",
+        "last_seen": "2014-10-25 12:44:23",
+        "ip_address": "91.228.154.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sosnovskij.ru",
+        "count": "152",
+        "first_seen": "2010-07-28 17:15:27",
+        "last_seen": "2010-09-20 17:17:58",
+        "ip_address": "174.37.73.68",
+        "type": "IPv4"
+    }
+]

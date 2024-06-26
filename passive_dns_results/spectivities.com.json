@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "spectivities.com",
+        "count": "10",
+        "first_seen": "2022-03-24 02:45:51",
+        "last_seen": "2022-11-02 05:36:27",
+        "ip_address": "64.44.133.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spectivities.com",
+        "count": "488",
+        "first_seen": "2022-11-07 22:58:11",
+        "last_seen": "2023-03-14 19:29:04",
+        "ip_address": "69.12.85.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spectivities.com",
+        "count": "10",
+        "first_seen": "2023-03-17 12:29:54",
+        "last_seen": "2023-04-23 03:31:22",
+        "ip_address": "99.83.154.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spectivities.com",
+        "count": "3",
+        "first_seen": "2022-08-11 16:17:26",
+        "last_seen": "2022-08-29 07:52:23",
+        "ip_address": "198.54.117.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spectivities.com",
+        "count": "17",
+        "first_seen": "2022-04-05 06:05:44",
+        "last_seen": "2022-08-09 18:36:51",
+        "ip_address": "198.54.117.244",
+        "type": "IPv4"
+    }
+]

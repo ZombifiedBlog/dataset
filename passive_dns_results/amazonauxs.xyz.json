@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazonauxs.xyz",
+        "count": "15",
+        "first_seen": "2021-09-05 02:47:18",
+        "last_seen": "2021-09-05 16:21:48",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonauxs.xyz",
+        "count": "7",
+        "first_seen": "2020-09-04 20:27:36",
+        "last_seen": "2020-09-06 09:21:12",
+        "ip_address": "173.82.57.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonauxs.xyz",
+        "count": "166",
+        "first_seen": "2020-09-06 20:38:40",
+        "last_seen": "2020-09-08 15:07:40",
+        "ip_address": "198.148.118.106",
+        "type": "IPv4"
+    }
+]

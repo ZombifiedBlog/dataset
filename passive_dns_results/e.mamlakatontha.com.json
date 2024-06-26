@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "e.mamlakatontha.com",
+        "count": "5",
+        "first_seen": "2023-04-25 14:31:57",
+        "last_seen": "2023-06-06 16:29:39",
+        "ip_address": "35.240.224.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "e.mamlakatontha.com",
+        "count": "37",
+        "first_seen": "2022-09-24 02:02:41",
+        "last_seen": "2022-09-24 14:37:51",
+        "ip_address": "38.238.239.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "e.mamlakatontha.com",
+        "count": "2",
+        "first_seen": "2023-07-10 05:04:32",
+        "last_seen": "2023-07-10 05:04:32",
+        "ip_address": "104.21.19.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "e.mamlakatontha.com",
+        "count": "2",
+        "first_seen": "2023-07-10 05:04:32",
+        "last_seen": "2023-07-10 05:04:32",
+        "ip_address": "172.67.184.243",
+        "type": "IPv4"
+    },
+    {
+        "domain": "e.mamlakatontha.com",
+        "count": "12",
+        "first_seen": "2022-06-03 02:20:28",
+        "last_seen": "2022-09-08 11:25:37",
+        "ip_address": "104.164.64.238",
+        "type": "IPv4"
+    },
+    {
+        "domain": "e.mamlakatontha.com",
+        "count": "8",
+        "first_seen": "2023-01-05 15:01:51",
+        "last_seen": "2023-03-27 06:12:37",
+        "ip_address": "156.235.184.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "e.mamlakatontha.com",
+        "count": "2",
+        "first_seen": "2023-07-10 05:04:32",
+        "last_seen": "2023-07-10 05:04:32",
+        "ip_address": "2606:4700:3030::6815:1325",
+        "type": "IPv6"
+    },
+    {
+        "domain": "e.mamlakatontha.com",
+        "count": "2",
+        "first_seen": "2023-07-10 05:04:32",
+        "last_seen": "2023-07-10 05:04:32",
+        "ip_address": "2606:4700:3032::ac43:b8f3",
+        "type": "IPv6"
+    }
+]

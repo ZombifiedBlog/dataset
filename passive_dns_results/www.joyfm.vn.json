@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.joyfm.vn",
+        "count": "7",
+        "first_seen": "2017-06-23 18:10:28",
+        "last_seen": "2017-06-28 00:19:51",
+        "ip_address": "27.72.58.175",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.joyfm.vn",
+        "count": "15",
+        "first_seen": "2017-07-02 07:14:23",
+        "last_seen": "2017-08-10 09:10:56",
+        "ip_address": "27.118.23.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.joyfm.vn",
+        "count": "2597",
+        "first_seen": "2017-08-24 13:29:17",
+        "last_seen": "2020-05-16 08:39:00",
+        "ip_address": "45.124.84.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.joyfm.vn",
+        "count": "220",
+        "first_seen": "2016-06-06 02:16:17",
+        "last_seen": "2017-06-30 20:43:47",
+        "ip_address": "75.98.175.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.joyfm.vn",
+        "count": "108",
+        "first_seen": "2020-09-01 22:29:40",
+        "last_seen": "2022-10-29 19:13:10",
+        "ip_address": "103.74.121.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.joyfm.vn",
+        "count": "12",
+        "first_seen": "2022-11-20 03:10:34",
+        "last_seen": "2022-11-28 13:27:09",
+        "ip_address": "117.122.125.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.joyfm.vn",
+        "count": "912",
+        "first_seen": "2012-11-05 15:02:43",
+        "last_seen": "2015-11-03 21:48:06",
+        "ip_address": "202.134.18.70",
+        "type": "IPv4"
+    }
+]

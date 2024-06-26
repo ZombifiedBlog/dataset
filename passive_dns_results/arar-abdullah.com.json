@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "arar-abdullah.com",
+        "count": "17",
+        "first_seen": "2010-10-06 21:09:45",
+        "last_seen": "2012-07-22 14:52:39",
+        "ip_address": "72.52.208.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "arar-abdullah.com",
+        "count": "4157",
+        "first_seen": "2017-01-29 09:10:15",
+        "last_seen": "2021-06-02 19:27:35",
+        "ip_address": "104.193.141.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "arar-abdullah.com",
+        "count": "749",
+        "first_seen": "2021-06-03 08:32:21",
+        "last_seen": "2022-08-08 17:58:04",
+        "ip_address": "104.193.141.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "arar-abdullah.com",
+        "count": "44",
+        "first_seen": "2012-09-09 10:40:25",
+        "last_seen": "2014-02-16 06:52:33",
+        "ip_address": "173.205.127.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "arar-abdullah.com",
+        "count": "2666",
+        "first_seen": "2022-08-09 12:51:06",
+        "last_seen": "2024-01-18 01:41:29",
+        "ip_address": "173.231.245.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "arar-abdullah.com",
+        "count": "1073",
+        "first_seen": "2014-03-27 20:51:32",
+        "last_seen": "2017-01-27 09:21:20",
+        "ip_address": "198.46.82.240",
+        "type": "IPv4"
+    }
+]

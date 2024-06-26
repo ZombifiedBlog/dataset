@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "gipvz.com",
+        "count": "8",
+        "first_seen": "2019-02-18 05:36:47",
+        "last_seen": "2019-02-19 12:05:55",
+        "ip_address": "54.72.9.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gipvz.com",
+        "count": "150",
+        "first_seen": "2019-12-24 16:51:15",
+        "last_seen": "2020-02-03 21:33:53",
+        "ip_address": "91.195.240.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gipvz.com",
+        "count": "851",
+        "first_seen": "2019-02-12 19:53:04",
+        "last_seen": "2019-06-17 09:03:43",
+        "ip_address": "185.53.178.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gipvz.com",
+        "count": "536",
+        "first_seen": "2019-06-18 00:31:43",
+        "last_seen": "2019-12-24 10:33:28",
+        "ip_address": "185.53.178.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gipvz.com",
+        "count": "37",
+        "first_seen": "2019-06-12 14:25:23",
+        "last_seen": "2019-06-17 08:16:21",
+        "ip_address": "185.53.179.6",
+        "type": "IPv4"
+    }
+]

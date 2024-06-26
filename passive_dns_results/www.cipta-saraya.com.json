@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.cipta-saraya.com",
+        "count": "4",
+        "first_seen": "2017-06-26 10:30:47",
+        "last_seen": "2018-07-02 23:00:51",
+        "ip_address": "54.254.97.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cipta-saraya.com",
+        "count": "74",
+        "first_seen": "2022-08-16 15:35:25",
+        "last_seen": "2022-09-23 10:21:31",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cipta-saraya.com",
+        "count": "16",
+        "first_seen": "2021-09-25 14:39:56",
+        "last_seen": "2022-06-21 13:43:05",
+        "ip_address": "85.208.118.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cipta-saraya.com",
+        "count": "1897",
+        "first_seen": "2022-08-02 12:30:29",
+        "last_seen": "2022-08-16 15:06:27",
+        "ip_address": "104.129.12.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cipta-saraya.com",
+        "count": "180",
+        "first_seen": "2016-03-22 00:18:34",
+        "last_seen": "2018-05-20 05:01:42",
+        "ip_address": "180.240.134.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cipta-saraya.com",
+        "count": "506",
+        "first_seen": "2018-09-04 06:33:12",
+        "last_seen": "2019-09-09 13:59:26",
+        "ip_address": "196.245.158.15",
+        "type": "IPv4"
+    }
+]

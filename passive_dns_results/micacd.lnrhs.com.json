@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "micacd.lnrhs.com",
+        "count": "98",
+        "first_seen": "2021-07-16 15:39:42",
+        "last_seen": "2021-08-10 19:18:33",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "micacd.lnrhs.com",
+        "count": "433",
+        "first_seen": "2021-06-14 19:28:34",
+        "last_seen": "2021-07-03 18:50:37",
+        "ip_address": "154.204.58.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "micacd.lnrhs.com",
+        "count": "11",
+        "first_seen": "2021-12-22 07:10:52",
+        "last_seen": "2022-02-24 13:12:20",
+        "ip_address": "154.210.187.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "micacd.lnrhs.com",
+        "count": "15",
+        "first_seen": "2021-09-23 19:20:51",
+        "last_seen": "2021-10-09 18:33:18",
+        "ip_address": "156.226.196.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "micacd.lnrhs.com",
+        "count": "35",
+        "first_seen": "2022-05-14 17:19:03",
+        "last_seen": "2022-08-05 18:04:42",
+        "ip_address": "156.226.250.39",
+        "type": "IPv4"
+    }
+]

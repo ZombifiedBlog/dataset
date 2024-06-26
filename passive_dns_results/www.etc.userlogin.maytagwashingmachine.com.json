@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "www.etc.userlogin.maytagwashingmachine.com",
+        "count": "1",
+        "first_seen": "2023-07-27 08:04:03",
+        "last_seen": "2023-07-27 08:04:03",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etc.userlogin.maytagwashingmachine.com",
+        "count": "11",
+        "first_seen": "2023-07-11 13:56:15",
+        "last_seen": "2023-07-12 08:31:28",
+        "ip_address": "192.210.223.109",
+        "type": "IPv4"
+    }
+]

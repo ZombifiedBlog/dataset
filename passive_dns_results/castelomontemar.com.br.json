@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "castelomontemar.com.br",
+        "count": "12",
+        "first_seen": "2013-12-20 18:23:47",
+        "last_seen": "2014-03-05 13:20:52",
+        "ip_address": "184.172.163.126",
+        "type": "IPv4"
+    },
+    {
+        "domain": "castelomontemar.com.br",
+        "count": "747",
+        "first_seen": "2021-03-12 12:48:51",
+        "last_seen": "2024-01-15 21:39:27",
+        "ip_address": "191.6.210.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "castelomontemar.com.br",
+        "count": "3485",
+        "first_seen": "2014-03-13 18:14:31",
+        "last_seen": "2021-03-09 12:47:50",
+        "ip_address": "192.185.217.127",
+        "type": "IPv4"
+    },
+    {
+        "domain": "castelomontemar.com.br",
+        "count": "16",
+        "first_seen": "2012-01-05 02:47:51",
+        "last_seen": "2013-12-04 10:47:25",
+        "ip_address": "209.126.254.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "castelomontemar.com.br",
+        "count": "29",
+        "first_seen": "2023-09-08 04:39:45",
+        "last_seen": "2024-01-12 14:02:39",
+        "ip_address": "2804:10:8002::210:70",
+        "type": "IPv6"
+    }
+]

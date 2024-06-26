@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "rakuten.co.jp.rakutem.cc",
+        "count": "42",
+        "first_seen": "2020-11-12 18:46:16",
+        "last_seen": "2021-02-28 18:31:01",
+        "ip_address": "128.14.142.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten.co.jp.rakutem.cc",
+        "count": "6",
+        "first_seen": "2020-10-17 03:11:39",
+        "last_seen": "2020-11-01 18:43:41",
+        "ip_address": "128.14.142.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten.co.jp.rakutem.cc",
+        "count": "119",
+        "first_seen": "2020-08-19 20:10:24",
+        "last_seen": "2020-09-05 10:26:00",
+        "ip_address": "173.82.187.36",
+        "type": "IPv4"
+    }
+]

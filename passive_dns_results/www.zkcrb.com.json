@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.zkcrb.com",
+        "count": "4",
+        "first_seen": "2017-02-07 10:50:43",
+        "last_seen": "2017-02-13 03:41:49",
+        "ip_address": "103.232.215.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zkcrb.com",
+        "count": "1642",
+        "first_seen": "2021-09-03 08:57:30",
+        "last_seen": "2022-01-18 10:13:21",
+        "ip_address": "198.144.145.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zkcrb.com",
+        "count": "20",
+        "first_seen": "2017-10-17 00:43:44",
+        "last_seen": "2018-03-29 08:50:24",
+        "ip_address": "218.244.131.10",
+        "type": "IPv4"
+    }
+]

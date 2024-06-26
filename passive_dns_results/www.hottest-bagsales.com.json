@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.hottest-bagsales.com",
+        "count": "10815",
+        "first_seen": "2022-03-08 08:32:06",
+        "last_seen": "2023-03-06 17:50:49",
+        "ip_address": "104.21.26.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hottest-bagsales.com",
+        "count": "10815",
+        "first_seen": "2022-03-08 08:32:06",
+        "last_seen": "2023-03-06 17:50:49",
+        "ip_address": "172.67.168.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hottest-bagsales.com",
+        "count": "1",
+        "first_seen": "2022-03-10 08:52:41",
+        "last_seen": "2022-03-10 08:52:41",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hottest-bagsales.com",
+        "count": "620",
+        "first_seen": "2022-03-10 17:02:17",
+        "last_seen": "2022-03-14 11:22:55",
+        "ip_address": "188.114.98.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hottest-bagsales.com",
+        "count": "190",
+        "first_seen": "2022-03-08 08:32:07",
+        "last_seen": "2022-05-21 18:00:58",
+        "ip_address": "2606:4700:3032::6815:1a74",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.hottest-bagsales.com",
+        "count": "190",
+        "first_seen": "2022-03-08 08:32:07",
+        "last_seen": "2022-05-21 18:00:58",
+        "ip_address": "2606:4700:3034::ac43:a843",
+        "type": "IPv6"
+    }
+]

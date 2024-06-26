@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www2.sccbm.carucd.com",
+        "count": "332",
+        "first_seen": "2021-10-15 19:44:38",
+        "last_seen": "2022-10-09 20:00:10",
+        "ip_address": "198.23.174.98",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.sccbm.carucd.com",
+        "count": "5",
+        "first_seen": "2022-10-15 19:23:30",
+        "last_seen": "2022-10-15 20:26:56",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.sccbm.carucd.com",
+        "count": "6",
+        "first_seen": "2022-10-15 19:23:30",
+        "last_seen": "2022-11-19 09:58:42",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

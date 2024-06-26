@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "subscriber.tjhpgas.com",
+        "count": "8",
+        "first_seen": "2021-06-26 02:19:43",
+        "last_seen": "2021-08-21 06:01:14",
+        "ip_address": "103.224.212.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tjhpgas.com",
+        "count": "2440",
+        "first_seen": "2021-02-01 18:28:49",
+        "last_seen": "2021-04-04 13:21:10",
+        "ip_address": "104.21.92.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tjhpgas.com",
+        "count": "2440",
+        "first_seen": "2021-02-01 18:28:49",
+        "last_seen": "2021-04-04 13:21:10",
+        "ip_address": "172.67.190.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tjhpgas.com",
+        "count": "1",
+        "first_seen": "2022-06-20 23:18:40",
+        "last_seen": "2022-06-20 23:18:40",
+        "ip_address": "104.237.196.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tjhpgas.com",
+        "count": "1",
+        "first_seen": "2022-07-17 02:01:32",
+        "last_seen": "2022-07-17 02:01:32",
+        "ip_address": "162.210.196.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tjhpgas.com",
+        "count": "1",
+        "first_seen": "2022-07-23 17:13:10",
+        "last_seen": "2022-07-23 17:13:10",
+        "ip_address": "162.210.196.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tjhpgas.com",
+        "count": "1",
+        "first_seen": "2021-02-02 19:00:27",
+        "last_seen": "2021-02-02 19:00:27",
+        "ip_address": "172.64.81.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tjhpgas.com",
+        "count": "1",
+        "first_seen": "2021-11-02 08:32:23",
+        "last_seen": "2021-11-02 08:32:23",
+        "ip_address": "172.93.194.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tjhpgas.com",
+        "count": "2",
+        "first_seen": "2021-09-20 09:42:28",
+        "last_seen": "2021-09-20 09:42:28",
+        "ip_address": "172.93.194.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tjhpgas.com",
+        "count": "852",
+        "first_seen": "2021-02-01 18:47:15",
+        "last_seen": "2021-04-04 13:21:10",
+        "ip_address": "2606:4700:3035::ac43:be41",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.tjhpgas.com",
+        "count": "852",
+        "first_seen": "2021-02-01 18:47:15",
+        "last_seen": "2021-04-04 13:21:10",
+        "ip_address": "2606:4700:3036::6815:5c4c",
+        "type": "IPv6"
+    }
+]

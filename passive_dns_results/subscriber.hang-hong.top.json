@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscriber.hang-hong.top",
+        "count": "4",
+        "first_seen": "2023-05-25 10:14:19",
+        "last_seen": "2023-06-01 02:38:21",
+        "ip_address": "49.51.77.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.hang-hong.top",
+        "count": "6594",
+        "first_seen": "2023-02-02 18:07:09",
+        "last_seen": "2023-05-04 10:37:06",
+        "ip_address": "104.21.63.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.hang-hong.top",
+        "count": "6594",
+        "first_seen": "2023-02-02 18:07:09",
+        "last_seen": "2023-05-04 10:37:06",
+        "ip_address": "172.67.148.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.hang-hong.top",
+        "count": "34",
+        "first_seen": "2023-05-15 09:52:20",
+        "last_seen": "2023-05-20 10:10:56",
+        "ip_address": "170.106.49.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.hang-hong.top",
+        "count": "267",
+        "first_seen": "2023-05-03 23:12:13",
+        "last_seen": "2023-05-20 00:33:53",
+        "ip_address": "170.106.49.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.hang-hong.top",
+        "count": "283",
+        "first_seen": "2023-02-02 19:33:21",
+        "last_seen": "2023-05-03 13:06:11",
+        "ip_address": "2606:4700:3032::6815:3fac",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.hang-hong.top",
+        "count": "283",
+        "first_seen": "2023-02-02 19:33:21",
+        "last_seen": "2023-05-03 13:06:11",
+        "ip_address": "2606:4700:3037::ac43:94d4",
+        "type": "IPv6"
+    }
+]

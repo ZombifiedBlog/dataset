@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "www.myjcbs.xyz",
+        "count": "2",
+        "first_seen": "2021-10-02 14:02:29",
+        "last_seen": "2021-10-05 20:32:52",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.myjcbs.xyz",
+        "count": "9",
+        "first_seen": "2020-10-01 08:31:42",
+        "last_seen": "2021-03-29 18:24:14",
+        "ip_address": "199.195.248.68",
+        "type": "IPv4"
+    }
+]

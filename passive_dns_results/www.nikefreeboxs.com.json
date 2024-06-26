@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.nikefreeboxs.com",
+        "count": "69",
+        "first_seen": "2015-07-15 03:19:03",
+        "last_seen": "2015-08-08 23:32:17",
+        "ip_address": "74.82.187.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.nikefreeboxs.com",
+        "count": "3",
+        "first_seen": "2015-09-10 06:12:01",
+        "last_seen": "2015-09-10 06:12:02",
+        "ip_address": "123.1.189.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.nikefreeboxs.com",
+        "count": "79",
+        "first_seen": "2015-06-07 05:36:01",
+        "last_seen": "2015-07-14 19:25:09",
+        "ip_address": "150.242.38.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.nikefreeboxs.com",
+        "count": "50",
+        "first_seen": "2015-07-24 21:23:36",
+        "last_seen": "2015-07-29 13:31:23",
+        "ip_address": "192.151.226.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.nikefreeboxs.com",
+        "count": "2",
+        "first_seen": "2014-12-06 16:35:16",
+        "last_seen": "2014-12-06 16:35:16",
+        "ip_address": "192.168.1.1",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "intranet.rodeoitalia.it",
+        "count": "128",
+        "first_seen": "2022-06-24 14:23:00",
+        "last_seen": "2024-01-07 06:50:58",
+        "ip_address": "45.86.144.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "intranet.rodeoitalia.it",
+        "count": "109",
+        "first_seen": "2020-03-21 16:30:08",
+        "last_seen": "2021-10-05 05:04:00",
+        "ip_address": "62.141.37.245",
+        "type": "IPv4"
+    },
+    {
+        "domain": "intranet.rodeoitalia.it",
+        "count": "1050",
+        "first_seen": "2019-04-24 19:39:11",
+        "last_seen": "2020-03-18 05:27:58",
+        "ip_address": "89.40.172.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "intranet.rodeoitalia.it",
+        "count": "195",
+        "first_seen": "2018-10-03 07:05:06",
+        "last_seen": "2019-01-30 22:47:59",
+        "ip_address": "89.40.173.158",
+        "type": "IPv4"
+    },
+    {
+        "domain": "intranet.rodeoitalia.it",
+        "count": "17",
+        "first_seen": "2021-10-14 15:24:21",
+        "last_seen": "2022-06-05 16:57:06",
+        "ip_address": "217.79.187.89",
+        "type": "IPv4"
+    }
+]

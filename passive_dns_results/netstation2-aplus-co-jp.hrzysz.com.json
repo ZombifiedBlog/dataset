@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "netstation2-aplus-co-jp.hrzysz.com",
+        "count": "68",
+        "first_seen": "2022-04-26 14:27:50",
+        "last_seen": "2022-04-27 00:15:34",
+        "ip_address": "104.21.35.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.hrzysz.com",
+        "count": "68",
+        "first_seen": "2022-04-26 14:27:50",
+        "last_seen": "2022-04-27 00:15:34",
+        "ip_address": "172.67.181.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.hrzysz.com",
+        "count": "655",
+        "first_seen": "2022-05-10 15:27:15",
+        "last_seen": "2022-05-29 21:01:14",
+        "ip_address": "154.85.131.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.hrzysz.com",
+        "count": "16",
+        "first_seen": "2022-04-26 14:27:51",
+        "last_seen": "2022-04-26 18:43:40",
+        "ip_address": "2606:4700:3031::ac43:b5c2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.hrzysz.com",
+        "count": "16",
+        "first_seen": "2022-04-26 14:27:51",
+        "last_seen": "2022-04-26 18:43:40",
+        "ip_address": "2606:4700:3036::6815:23f8",
+        "type": "IPv6"
+    }
+]

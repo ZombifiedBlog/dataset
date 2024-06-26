@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.c.myasjenb.com",
+        "count": "178",
+        "first_seen": "2021-12-21 21:29:24",
+        "last_seen": "2021-12-24 10:20:43",
+        "ip_address": "198.144.176.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.c.myasjenb.com",
+        "count": "1",
+        "first_seen": "2022-12-26 17:12:07",
+        "last_seen": "2022-12-26 17:12:07",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.c.myasjenb.com",
+        "count": "1",
+        "first_seen": "2022-12-23 22:53:35",
+        "last_seen": "2022-12-23 22:53:35",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.c.myasjenb.com",
+        "count": "9",
+        "first_seen": "2022-12-23 22:53:35",
+        "last_seen": "2022-12-27 13:26:20",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

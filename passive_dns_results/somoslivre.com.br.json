@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "somoslivre.com.br",
+        "count": "59",
+        "first_seen": "2021-08-05 00:25:08",
+        "last_seen": "2021-10-17 10:05:14",
+        "ip_address": "104.21.10.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "somoslivre.com.br",
+        "count": "59",
+        "first_seen": "2021-08-05 00:25:08",
+        "last_seen": "2021-10-17 10:05:14",
+        "ip_address": "172.67.164.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "somoslivre.com.br",
+        "count": "917",
+        "first_seen": "2020-06-07 12:28:42",
+        "last_seen": "2021-08-04 17:03:34",
+        "ip_address": "144.76.114.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "somoslivre.com.br",
+        "count": "304",
+        "first_seen": "2019-05-05 03:52:25",
+        "last_seen": "2020-06-04 11:07:51",
+        "ip_address": "144.217.148.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "somoslivre.com.br",
+        "count": "1430",
+        "first_seen": "2021-10-21 20:02:13",
+        "last_seen": "2024-01-18 09:03:50",
+        "ip_address": "162.241.191.252",
+        "type": "IPv4"
+    },
+    {
+        "domain": "somoslivre.com.br",
+        "count": "1",
+        "first_seen": "2011-06-06 22:46:14",
+        "last_seen": "2011-06-06 22:46:14",
+        "ip_address": "189.126.193.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "somoslivre.com.br",
+        "count": "888",
+        "first_seen": "2015-08-25 11:23:39",
+        "last_seen": "2019-04-25 14:49:40",
+        "ip_address": "192.99.37.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "somoslivre.com.br",
+        "count": "1",
+        "first_seen": "2021-10-01 23:19:30",
+        "last_seen": "2021-10-01 23:19:30",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "somoslivre.com.br",
+        "count": "20",
+        "first_seen": "2021-08-05 00:40:48",
+        "last_seen": "2021-10-16 19:25:33",
+        "ip_address": "2606:4700:3033::ac43:a4db",
+        "type": "IPv6"
+    },
+    {
+        "domain": "somoslivre.com.br",
+        "count": "20",
+        "first_seen": "2021-08-05 00:40:48",
+        "last_seen": "2021-10-16 19:25:33",
+        "ip_address": "2606:4700:3034::6815:afd",
+        "type": "IPv6"
+    }
+]

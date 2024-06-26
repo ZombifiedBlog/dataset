@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "dynabook.com",
+        "count": "4640",
+        "first_seen": "2016-02-21 15:06:45",
+        "last_seen": "2016-03-11 06:03:45",
+        "ip_address": "61.202.163.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dynabook.com",
+        "count": "5765",
+        "first_seen": "2016-02-01 15:13:59",
+        "last_seen": "2016-02-21 14:54:05",
+        "ip_address": "61.202.163.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dynabook.com",
+        "count": "275462",
+        "first_seen": "2019-12-16 06:16:18",
+        "last_seen": "2024-01-18 02:08:54",
+        "ip_address": "61.214.248.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dynabook.com",
+        "count": "2427",
+        "first_seen": "2016-03-11 06:02:16",
+        "last_seen": "2016-03-31 03:18:32",
+        "ip_address": "106.186.99.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dynabook.com",
+        "count": "180322",
+        "first_seen": "2016-03-31 04:18:37",
+        "last_seen": "2019-12-16 06:16:17",
+        "ip_address": "106.186.99.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dynabook.com",
+        "count": "270596",
+        "first_seen": "2012-01-31 02:02:48",
+        "last_seen": "2016-02-01 15:02:18",
+        "ip_address": "111.87.30.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dynabook.com",
+        "count": "189099",
+        "first_seen": "2010-06-24 16:56:48",
+        "last_seen": "2012-01-31 02:14:55",
+        "ip_address": "125.29.52.161",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dynabook.com",
+        "count": "52",
+        "first_seen": "2023-07-01 16:37:14",
+        "last_seen": "2023-07-01 19:13:01",
+        "ip_address": "210.163.47.60",
+        "type": "IPv4"
+    }
+]

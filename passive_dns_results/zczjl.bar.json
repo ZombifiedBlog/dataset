@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "zczjl.bar",
+        "count": "29",
+        "first_seen": "2021-06-18 15:25:24",
+        "last_seen": "2022-05-03 19:34:35",
+        "ip_address": "0.0.0.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zczjl.bar",
+        "count": "5",
+        "first_seen": "2022-05-10 01:08:16",
+        "last_seen": "2022-05-10 14:32:38",
+        "ip_address": "51.89.70.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zczjl.bar",
+        "count": "5",
+        "first_seen": "2022-05-10 01:08:11",
+        "last_seen": "2022-05-10 14:32:37",
+        "ip_address": "51.195.17.68",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zczjl.bar",
+        "count": "13",
+        "first_seen": "2021-04-27 01:30:25",
+        "last_seen": "2021-04-28 09:04:55",
+        "ip_address": "176.113.71.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zczjl.bar",
+        "count": "9",
+        "first_seen": "2021-07-03 14:26:01",
+        "last_seen": "2022-04-22 17:46:02",
+        "ip_address": "::",
+        "type": "IPv6"
+    }
+]

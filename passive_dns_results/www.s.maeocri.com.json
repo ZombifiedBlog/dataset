@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.s.maeocri.com",
+        "count": "98",
+        "first_seen": "2022-01-10 19:23:33",
+        "last_seen": "2022-01-12 09:12:45",
+        "ip_address": "198.46.199.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.s.maeocri.com",
+        "count": "4",
+        "first_seen": "2023-01-10 19:23:35",
+        "last_seen": "2023-02-16 13:32:43",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.s.maeocri.com",
+        "count": "13",
+        "first_seen": "2023-01-10 19:23:08",
+        "last_seen": "2023-02-16 13:32:43",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

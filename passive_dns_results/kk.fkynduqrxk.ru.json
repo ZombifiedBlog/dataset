@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "kk.fkynduqrxk.ru",
+        "count": "10",
+        "first_seen": "2023-12-15 19:47:13",
+        "last_seen": "2024-01-09 10:19:28",
+        "ip_address": "31.177.76.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kk.fkynduqrxk.ru",
+        "count": "10",
+        "first_seen": "2023-12-15 19:47:13",
+        "last_seen": "2024-01-09 10:19:28",
+        "ip_address": "31.177.80.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kk.fkynduqrxk.ru",
+        "count": "11968",
+        "first_seen": "2023-05-18 01:24:56",
+        "last_seen": "2023-12-03 08:37:18",
+        "ip_address": "104.21.67.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kk.fkynduqrxk.ru",
+        "count": "11968",
+        "first_seen": "2023-05-18 01:24:56",
+        "last_seen": "2023-12-03 08:37:18",
+        "ip_address": "172.67.221.159",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kk.fkynduqrxk.ru",
+        "count": "638",
+        "first_seen": "2023-05-18 02:46:06",
+        "last_seen": "2023-10-08 09:01:28",
+        "ip_address": "2606:4700:3034::ac43:dd9f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "kk.fkynduqrxk.ru",
+        "count": "638",
+        "first_seen": "2023-05-18 02:46:06",
+        "last_seen": "2023-10-08 09:01:28",
+        "ip_address": "2606:4700:3036::6815:4371",
+        "type": "IPv6"
+    }
+]

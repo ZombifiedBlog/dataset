@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.instantideas.rest",
+        "count": "6566",
+        "first_seen": "2022-06-02 11:01:11",
+        "last_seen": "2023-02-24 21:43:10",
+        "ip_address": "104.21.95.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.instantideas.rest",
+        "count": "6566",
+        "first_seen": "2022-06-02 11:01:11",
+        "last_seen": "2023-02-24 21:43:10",
+        "ip_address": "172.67.148.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.instantideas.rest",
+        "count": "2",
+        "first_seen": "2022-07-31 10:54:29",
+        "last_seen": "2023-02-06 15:17:40",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.instantideas.rest",
+        "count": "1",
+        "first_seen": "2022-07-31 10:54:29",
+        "last_seen": "2022-07-31 10:54:29",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.instantideas.rest",
+        "count": "1061",
+        "first_seen": "2022-06-02 11:01:37",
+        "last_seen": "2023-02-24 21:43:10",
+        "ip_address": "2606:4700:3032::6815:5fd5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.instantideas.rest",
+        "count": "1061",
+        "first_seen": "2022-06-02 11:01:37",
+        "last_seen": "2023-02-24 21:43:10",
+        "ip_address": "2606:4700:3033::ac43:94a0",
+        "type": "IPv6"
+    }
+]

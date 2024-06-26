@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.cte.msciscni.com",
+        "count": "38",
+        "first_seen": "2021-09-16 15:21:48",
+        "last_seen": "2022-08-15 19:41:09",
+        "ip_address": "137.184.67.161",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cte.msciscni.com",
+        "count": "277",
+        "first_seen": "2021-09-14 19:08:54",
+        "last_seen": "2021-09-15 12:56:21",
+        "ip_address": "154.23.190.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cte.msciscni.com",
+        "count": "8",
+        "first_seen": "2021-09-15 13:34:49",
+        "last_seen": "2021-09-16 06:56:29",
+        "ip_address": "155.235.250.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cte.msciscni.com",
+        "count": "9",
+        "first_seen": "2022-09-15 08:58:30",
+        "last_seen": "2022-10-11 23:55:04",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cte.msciscni.com",
+        "count": "1",
+        "first_seen": "2022-09-15 21:29:25",
+        "last_seen": "2022-09-15 21:29:25",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cte.msciscni.com",
+        "count": "2",
+        "first_seen": "2022-09-15 08:58:30",
+        "last_seen": "2022-09-15 09:01:34",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

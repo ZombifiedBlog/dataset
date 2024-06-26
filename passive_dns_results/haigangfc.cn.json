@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "haigangfc.cn",
+        "count": "1461",
+        "first_seen": "2023-01-13 16:22:50",
+        "last_seen": "2023-02-12 12:31:30",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "haigangfc.cn",
+        "count": "1074",
+        "first_seen": "2023-03-19 16:48:14",
+        "last_seen": "2024-01-10 11:28:56",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "haigangfc.cn",
+        "count": "29486",
+        "first_seen": "2023-03-07 04:30:43",
+        "last_seen": "2024-01-11 14:22:17",
+        "ip_address": "103.224.182.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "haigangfc.cn",
+        "count": "1395",
+        "first_seen": "2023-01-04 14:00:19",
+        "last_seen": "2023-01-13 12:17:17",
+        "ip_address": "104.21.73.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "haigangfc.cn",
+        "count": "1395",
+        "first_seen": "2023-01-04 14:00:19",
+        "last_seen": "2023-01-13 12:17:17",
+        "ip_address": "172.67.193.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "haigangfc.cn",
+        "count": "15",
+        "first_seen": "2023-03-19 17:10:35",
+        "last_seen": "2023-03-20 13:38:46",
+        "ip_address": "170.178.168.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "haigangfc.cn",
+        "count": "808",
+        "first_seen": "2023-06-28 17:41:56",
+        "last_seen": "2024-01-10 11:28:57",
+        "ip_address": "170.178.183.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "haigangfc.cn",
+        "count": "219",
+        "first_seen": "2023-03-19 22:02:40",
+        "last_seen": "2023-06-04 00:08:45",
+        "ip_address": "199.115.116.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "haigangfc.cn",
+        "count": "73",
+        "first_seen": "2023-01-04 14:00:20",
+        "last_seen": "2023-01-13 10:16:39",
+        "ip_address": "2606:4700:3030::ac43:c174",
+        "type": "IPv6"
+    },
+    {
+        "domain": "haigangfc.cn",
+        "count": "73",
+        "first_seen": "2023-01-04 14:00:20",
+        "last_seen": "2023-01-13 10:16:39",
+        "ip_address": "2606:4700:3033::6815:49f0",
+        "type": "IPv6"
+    }
+]

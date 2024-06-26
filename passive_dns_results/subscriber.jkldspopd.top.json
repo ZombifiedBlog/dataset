@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.jkldspopd.top",
+        "count": "741",
+        "first_seen": "2022-03-10 05:35:31",
+        "last_seen": "2023-02-21 06:56:59",
+        "ip_address": "104.21.83.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jkldspopd.top",
+        "count": "741",
+        "first_seen": "2022-03-10 05:35:31",
+        "last_seen": "2023-02-21 06:56:59",
+        "ip_address": "172.67.211.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jkldspopd.top",
+        "count": "1",
+        "first_seen": "2023-03-03 22:57:57",
+        "last_seen": "2023-03-03 22:57:57",
+        "ip_address": "170.106.49.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jkldspopd.top",
+        "count": "4",
+        "first_seen": "2022-03-11 01:26:13",
+        "last_seen": "2022-03-14 01:14:37",
+        "ip_address": "188.114.99.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jkldspopd.top",
+        "count": "98",
+        "first_seen": "2022-03-10 22:47:00",
+        "last_seen": "2022-09-29 19:11:31",
+        "ip_address": "2606:4700:3033::6815:5325",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.jkldspopd.top",
+        "count": "98",
+        "first_seen": "2022-03-10 22:47:00",
+        "last_seen": "2022-09-29 19:11:31",
+        "ip_address": "2606:4700:3035::ac43:d326",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "mail.wufxi.com",
+        "count": "1585",
+        "first_seen": "2020-10-10 12:37:37",
+        "last_seen": "2020-11-29 18:09:22",
+        "ip_address": "104.31.86.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.wufxi.com",
+        "count": "1585",
+        "first_seen": "2020-10-10 12:37:37",
+        "last_seen": "2020-11-29 18:09:22",
+        "ip_address": "104.31.87.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.wufxi.com",
+        "count": "1585",
+        "first_seen": "2020-10-10 12:37:37",
+        "last_seen": "2020-11-29 18:09:22",
+        "ip_address": "172.67.148.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.wufxi.com",
+        "count": "8",
+        "first_seen": "2023-05-21 03:21:02",
+        "last_seen": "2023-05-21 03:21:27",
+        "ip_address": "156.234.127.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.wufxi.com",
+        "count": "16",
+        "first_seen": "2020-12-27 20:56:09",
+        "last_seen": "2021-01-20 17:17:02",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.wufxi.com",
+        "count": "345",
+        "first_seen": "2020-10-10 12:37:37",
+        "last_seen": "2020-11-21 22:55:50",
+        "ip_address": "2606:4700:3030::ac43:9485",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.wufxi.com",
+        "count": "345",
+        "first_seen": "2020-10-10 12:37:37",
+        "last_seen": "2020-11-21 22:55:50",
+        "ip_address": "2606:4700:3035::681f:5693",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.wufxi.com",
+        "count": "345",
+        "first_seen": "2020-10-10 12:37:37",
+        "last_seen": "2020-11-21 22:55:50",
+        "ip_address": "2606:4700:3035::681f:5793",
+        "type": "IPv6"
+    }
+]

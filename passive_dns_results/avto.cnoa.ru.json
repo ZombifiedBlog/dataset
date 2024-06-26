@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "avto.cnoa.ru",
+        "count": "143",
+        "first_seen": "2020-03-04 03:31:30",
+        "last_seen": "2024-01-17 17:05:33",
+        "ip_address": "62.122.170.171",
+        "type": "IPv4"
+    },
+    {
+        "domain": "avto.cnoa.ru",
+        "count": "2938",
+        "first_seen": "2014-10-20 19:40:33",
+        "last_seen": "2015-05-29 12:16:31",
+        "ip_address": "78.110.50.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "avto.cnoa.ru",
+        "count": "52",
+        "first_seen": "2018-12-14 16:27:45",
+        "last_seen": "2019-11-17 04:52:25",
+        "ip_address": "109.206.181.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "avto.cnoa.ru",
+        "count": "27",
+        "first_seen": "2015-08-21 11:37:26",
+        "last_seen": "2018-09-05 04:11:41",
+        "ip_address": "193.227.240.131",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazonaaews.buzz",
+        "count": "3",
+        "first_seen": "2021-09-06 08:22:57",
+        "last_seen": "2021-10-06 22:46:37",
+        "ip_address": "72.52.179.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonaaews.buzz",
+        "count": "11",
+        "first_seen": "2020-09-07 14:45:41",
+        "last_seen": "2020-09-08 15:17:43",
+        "ip_address": "173.82.187.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonaaews.buzz",
+        "count": "15",
+        "first_seen": "2020-09-05 22:45:44",
+        "last_seen": "2020-09-07 14:38:40",
+        "ip_address": "173.82.226.218",
+        "type": "IPv4"
+    }
+]

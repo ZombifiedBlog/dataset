@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "itibr.org.br",
+        "count": "2",
+        "first_seen": "2011-07-28 04:19:47",
+        "last_seen": "2011-07-28 04:19:47",
+        "ip_address": "200.160.196.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itibr.org.br",
+        "count": "1097",
+        "first_seen": "2020-10-01 23:03:38",
+        "last_seen": "2023-07-31 08:39:05",
+        "ip_address": "200.160.198.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itibr.org.br",
+        "count": "344",
+        "first_seen": "2012-10-28 18:45:47",
+        "last_seen": "2024-01-16 06:27:06",
+        "ip_address": "200.160.198.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itibr.org.br",
+        "count": "6",
+        "first_seen": "2011-10-11 12:53:20",
+        "last_seen": "2012-02-13 19:37:57",
+        "ip_address": "200.160.198.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itibr.org.br",
+        "count": "19226",
+        "first_seen": "2016-05-04 21:11:50",
+        "last_seen": "2019-09-30 09:51:02",
+        "ip_address": "201.76.201.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itibr.org.br",
+        "count": "564",
+        "first_seen": "2019-10-01 16:57:04",
+        "last_seen": "2020-09-28 23:03:30",
+        "ip_address": "201.76.201.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "itibr.org.br",
+        "count": "581",
+        "first_seen": "2020-10-14 17:12:36",
+        "last_seen": "2023-07-29 09:36:11",
+        "ip_address": "2001:129c:200:5::13",
+        "type": "IPv6"
+    },
+    {
+        "domain": "itibr.org.br",
+        "count": "38",
+        "first_seen": "2023-08-04 02:53:25",
+        "last_seen": "2024-01-05 05:41:09",
+        "ip_address": "2001:129c:200:5::15",
+        "type": "IPv6"
+    },
+    {
+        "domain": "itibr.org.br",
+        "count": "170",
+        "first_seen": "2019-10-02 16:10:43",
+        "last_seen": "2020-09-26 16:43:48",
+        "ip_address": "2001:129c:1000:8:f816:3eff:fea2:2650",
+        "type": "IPv6"
+    }
+]

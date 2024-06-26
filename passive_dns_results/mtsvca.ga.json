@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "mtsvca.ga",
+        "count": "139",
+        "first_seen": "2018-07-10 17:12:03",
+        "last_seen": "2020-04-29 06:24:39",
+        "ip_address": "195.20.53.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mtsvca.ga",
+        "count": "5",
+        "first_seen": "2018-06-06 22:53:18",
+        "last_seen": "2018-06-23 21:40:19",
+        "ip_address": "47.90.214.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mtsvca.ga",
+        "count": "14",
+        "first_seen": "2018-04-23 07:14:39",
+        "last_seen": "2018-05-18 19:46:43",
+        "ip_address": "47.252.16.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mtsvca.ga",
+        "count": "374",
+        "first_seen": "2018-03-27 05:51:22",
+        "last_seen": "2018-04-18 21:53:03",
+        "ip_address": "47.254.46.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mtsvca.ga",
+        "count": "38",
+        "first_seen": "2018-03-27 05:15:03",
+        "last_seen": "2018-03-27 05:40:07",
+        "ip_address": "96.126.100.8",
+        "type": "IPv4"
+    }
+]

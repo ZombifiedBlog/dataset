@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "amaazon.online",
+        "count": "1",
+        "first_seen": "2019-11-07 19:18:47",
+        "last_seen": "2019-11-07 19:18:47",
+        "ip_address": "91.195.240.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amaazon.online",
+        "count": "11",
+        "first_seen": "2020-09-25 12:00:53",
+        "last_seen": "2020-09-26 04:11:12",
+        "ip_address": "173.82.69.175",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amaazon.online",
+        "count": "119",
+        "first_seen": "2018-11-17 09:41:34",
+        "last_seen": "2019-02-11 13:41:36",
+        "ip_address": "195.201.179.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amaazon.online",
+        "count": "117",
+        "first_seen": "2019-02-17 04:17:26",
+        "last_seen": "2019-09-28 13:35:38",
+        "ip_address": "208.91.197.160",
+        "type": "IPv4"
+    }
+]

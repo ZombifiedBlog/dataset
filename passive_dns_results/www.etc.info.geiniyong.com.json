@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.etc.info.geiniyong.com",
+        "count": "92",
+        "first_seen": "2023-11-10 17:58:22",
+        "last_seen": "2024-01-16 07:37:46",
+        "ip_address": "104.21.39.182",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etc.info.geiniyong.com",
+        "count": "92",
+        "first_seen": "2023-11-10 17:58:22",
+        "last_seen": "2024-01-16 07:37:46",
+        "ip_address": "172.67.171.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etc.info.geiniyong.com",
+        "count": "11",
+        "first_seen": "2023-07-20 15:04:03",
+        "last_seen": "2023-07-21 19:52:07",
+        "ip_address": "198.23.206.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etc.info.geiniyong.com",
+        "count": "2",
+        "first_seen": "2024-01-09 00:55:47",
+        "last_seen": "2024-01-12 22:17:12",
+        "ip_address": "2606:4700:3030::ac43:ab2c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.etc.info.geiniyong.com",
+        "count": "2",
+        "first_seen": "2024-01-09 00:55:47",
+        "last_seen": "2024-01-12 22:17:12",
+        "ip_address": "2606:4700:3032::6815:27b6",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.azooy.com",
+        "count": "49",
+        "first_seen": "2022-06-28 13:06:53",
+        "last_seen": "2023-02-15 07:52:35",
+        "ip_address": "23.231.137.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.azooy.com",
+        "count": "108",
+        "first_seen": "2023-02-20 11:42:31",
+        "last_seen": "2023-02-21 09:33:34",
+        "ip_address": "23.247.42.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.azooy.com",
+        "count": "1",
+        "first_seen": "2022-05-29 14:21:53",
+        "last_seen": "2022-05-29 14:21:53",
+        "ip_address": "156.242.168.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.azooy.com",
+        "count": "1",
+        "first_seen": "2022-04-19 21:17:54",
+        "last_seen": "2022-04-19 21:17:54",
+        "ip_address": "156.253.3.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.azooy.com",
+        "count": "2",
+        "first_seen": "2020-09-28 12:06:57",
+        "last_seen": "2020-09-28 12:06:57",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    }
+]

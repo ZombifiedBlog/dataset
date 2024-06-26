@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "softwaremarket.su",
+        "count": "63",
+        "first_seen": "2020-10-23 17:31:21",
+        "last_seen": "2020-11-23 04:03:21",
+        "ip_address": "109.70.26.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "softwaremarket.su",
+        "count": "63",
+        "first_seen": "2020-10-23 17:31:21",
+        "last_seen": "2020-11-23 04:03:21",
+        "ip_address": "194.85.61.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "softwaremarket.su",
+        "count": "1726",
+        "first_seen": "2019-11-27 09:39:06",
+        "last_seen": "2019-12-08 08:59:47",
+        "ip_address": "161.117.88.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "softwaremarket.su",
+        "count": "11518",
+        "first_seen": "2019-11-15 11:34:51",
+        "last_seen": "2019-11-27 09:34:12",
+        "ip_address": "161.117.226.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "softwaremarket.su",
+        "count": "12150",
+        "first_seen": "2019-11-05 15:06:24",
+        "last_seen": "2019-11-14 15:51:59",
+        "ip_address": "185.254.121.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "softwaremarket.su",
+        "count": "21900",
+        "first_seen": "2019-10-24 02:25:23",
+        "last_seen": "2019-11-05 15:05:48",
+        "ip_address": "185.254.121.237",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "order-yodobashi-com.stsfu556677.top",
+        "count": "1",
+        "first_seen": "2022-09-04 20:51:37",
+        "last_seen": "2022-09-04 20:51:37",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "order-yodobashi-com.stsfu556677.top",
+        "count": "178",
+        "first_seen": "2021-09-07 14:48:44",
+        "last_seen": "2021-09-22 06:19:58",
+        "ip_address": "104.21.71.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "order-yodobashi-com.stsfu556677.top",
+        "count": "178",
+        "first_seen": "2021-09-07 14:48:44",
+        "last_seen": "2021-09-22 06:19:58",
+        "ip_address": "172.67.170.181",
+        "type": "IPv4"
+    },
+    {
+        "domain": "order-yodobashi-com.stsfu556677.top",
+        "count": "23",
+        "first_seen": "2021-09-07 14:58:38",
+        "last_seen": "2021-09-18 09:06:19",
+        "ip_address": "2606:4700:3031::ac43:aab5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "order-yodobashi-com.stsfu556677.top",
+        "count": "23",
+        "first_seen": "2021-09-07 14:58:38",
+        "last_seen": "2021-09-18 09:06:19",
+        "ip_address": "2606:4700:3032::6815:4795",
+        "type": "IPv6"
+    }
+]

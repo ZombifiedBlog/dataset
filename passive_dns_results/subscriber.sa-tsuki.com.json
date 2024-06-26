@@ -1,0 +1,178 @@
+[
+    {
+        "domain": "subscriber.sa-tsuki.com",
+        "count": "416",
+        "first_seen": "2022-11-29 19:55:21",
+        "last_seen": "2023-01-02 11:00:37",
+        "ip_address": "104.21.92.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sa-tsuki.com",
+        "count": "416",
+        "first_seen": "2022-11-29 19:55:21",
+        "last_seen": "2023-01-02 11:00:37",
+        "ip_address": "172.67.185.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sa-tsuki.com",
+        "count": "2",
+        "first_seen": "2022-12-25 23:27:15",
+        "last_seen": "2022-12-31 17:20:53",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sa-tsuki.com",
+        "count": "2",
+        "first_seen": "2022-12-25 23:27:15",
+        "last_seen": "2022-12-31 17:20:53",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sa-tsuki.com",
+        "count": "16",
+        "first_seen": "2022-12-22 19:45:46",
+        "last_seen": "2023-01-01 16:13:21",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sa-tsuki.com",
+        "count": "16",
+        "first_seen": "2022-12-22 19:45:46",
+        "last_seen": "2023-01-01 16:13:21",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sa-tsuki.com",
+        "count": "3",
+        "first_seen": "2022-12-23 07:52:58",
+        "last_seen": "2022-12-28 09:54:29",
+        "ip_address": "188.114.96.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sa-tsuki.com",
+        "count": "3",
+        "first_seen": "2022-12-23 07:52:58",
+        "last_seen": "2022-12-28 09:54:29",
+        "ip_address": "188.114.97.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sa-tsuki.com",
+        "count": "5",
+        "first_seen": "2022-12-29 04:58:14",
+        "last_seen": "2023-01-01 07:49:34",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sa-tsuki.com",
+        "count": "5",
+        "first_seen": "2022-12-29 04:58:14",
+        "last_seen": "2023-01-01 07:49:34",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sa-tsuki.com",
+        "count": "7",
+        "first_seen": "2023-03-27 05:57:34",
+        "last_seen": "2023-06-05 17:22:21",
+        "ip_address": "199.59.243.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sa-tsuki.com",
+        "count": "22",
+        "first_seen": "2023-07-24 12:15:32",
+        "last_seen": "2023-10-02 12:42:54",
+        "ip_address": "199.59.243.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sa-tsuki.com",
+        "count": "11",
+        "first_seen": "2023-10-07 04:58:28",
+        "last_seen": "2023-12-21 16:34:10",
+        "ip_address": "199.59.243.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sa-tsuki.com",
+        "count": "27",
+        "first_seen": "2023-01-12 15:39:14",
+        "last_seen": "2023-01-16 06:53:55",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sa-tsuki.com",
+        "count": "13",
+        "first_seen": "2022-12-17 18:58:01",
+        "last_seen": "2023-01-01 19:50:29",
+        "ip_address": "2606:4700:3034::ac43:b958",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.sa-tsuki.com",
+        "count": "13",
+        "first_seen": "2022-12-17 18:58:01",
+        "last_seen": "2023-01-01 19:50:29",
+        "ip_address": "2606:4700:3036::6815:5c1c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.sa-tsuki.com",
+        "count": "12",
+        "first_seen": "2022-12-02 09:40:08",
+        "last_seen": "2023-01-01 21:13:09",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.sa-tsuki.com",
+        "count": "12",
+        "first_seen": "2022-12-02 09:40:08",
+        "last_seen": "2023-01-01 21:13:09",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.sa-tsuki.com",
+        "count": "1",
+        "first_seen": "2022-12-28 09:54:29",
+        "last_seen": "2022-12-28 09:54:29",
+        "ip_address": "2a06:98c1:3120::8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.sa-tsuki.com",
+        "count": "1",
+        "first_seen": "2022-12-28 09:54:29",
+        "last_seen": "2022-12-28 09:54:29",
+        "ip_address": "2a06:98c1:3121::8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.sa-tsuki.com",
+        "count": "2",
+        "first_seen": "2022-12-29 04:58:14",
+        "last_seen": "2023-01-01 07:49:34",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.sa-tsuki.com",
+        "count": "2",
+        "first_seen": "2022-12-29 04:58:14",
+        "last_seen": "2023-01-01 07:49:34",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

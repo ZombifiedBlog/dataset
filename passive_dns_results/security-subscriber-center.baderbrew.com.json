@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "security-subscriber-center.baderbrew.com",
+        "count": "107",
+        "first_seen": "2022-12-31 09:12:34",
+        "last_seen": "2023-02-01 12:08:49",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.baderbrew.com",
+        "count": "4819",
+        "first_seen": "2022-10-01 23:32:08",
+        "last_seen": "2022-12-31 17:24:35",
+        "ip_address": "104.21.44.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.baderbrew.com",
+        "count": "4819",
+        "first_seen": "2022-10-01 23:32:08",
+        "last_seen": "2022-12-31 17:24:35",
+        "ip_address": "172.67.201.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.baderbrew.com",
+        "count": "240",
+        "first_seen": "2022-10-08 23:37:36",
+        "last_seen": "2022-12-30 18:20:57",
+        "ip_address": "2606:4700:3033::ac43:c994",
+        "type": "IPv6"
+    },
+    {
+        "domain": "security-subscriber-center.baderbrew.com",
+        "count": "240",
+        "first_seen": "2022-10-08 23:37:36",
+        "last_seen": "2022-12-30 18:20:57",
+        "ip_address": "2606:4700:3037::6815:2ca8",
+        "type": "IPv6"
+    }
+]

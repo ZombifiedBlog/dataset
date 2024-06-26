@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "xfruits.com",
+        "count": "782",
+        "first_seen": "2023-05-31 14:20:28",
+        "last_seen": "2024-01-18 00:45:03",
+        "ip_address": "154.56.81.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xfruits.com",
+        "count": "63845",
+        "first_seen": "2011-11-09 16:19:22",
+        "last_seen": "2023-05-31 09:10:09",
+        "ip_address": "213.251.158.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xfruits.com",
+        "count": "41972",
+        "first_seen": "2010-06-24 03:20:43",
+        "last_seen": "2011-11-09 15:23:59",
+        "ip_address": "213.251.158.210",
+        "type": "IPv4"
+    }
+]

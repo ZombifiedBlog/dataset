@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "oo.yqinv.ru",
+        "count": "2",
+        "first_seen": "2022-09-06 03:27:02",
+        "last_seen": "2022-09-06 03:27:02",
+        "ip_address": "5.161.141.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "oo.yqinv.ru",
+        "count": "11152",
+        "first_seen": "2022-09-06 03:53:27",
+        "last_seen": "2022-10-11 22:01:53",
+        "ip_address": "104.21.74.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "oo.yqinv.ru",
+        "count": "11152",
+        "first_seen": "2022-09-06 03:53:27",
+        "last_seen": "2022-10-11 22:01:53",
+        "ip_address": "172.67.209.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "oo.yqinv.ru",
+        "count": "324",
+        "first_seen": "2022-09-06 23:32:15",
+        "last_seen": "2022-10-10 07:43:21",
+        "ip_address": "2606:4700:3035::ac43:d10f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "oo.yqinv.ru",
+        "count": "324",
+        "first_seen": "2022-09-06 23:32:15",
+        "last_seen": "2022-10-10 07:43:21",
+        "ip_address": "2606:4700:3037::6815:4afa",
+        "type": "IPv6"
+    }
+]

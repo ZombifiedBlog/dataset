@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www-cr-mufg-jp.tyut76.com",
+        "count": "10",
+        "first_seen": "2023-01-27 14:52:08",
+        "last_seen": "2023-01-27 15:52:02",
+        "ip_address": "104.21.69.171",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.tyut76.com",
+        "count": "10",
+        "first_seen": "2023-01-27 14:52:08",
+        "last_seen": "2023-01-27 15:52:02",
+        "ip_address": "172.67.210.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.tyut76.com",
+        "count": "2",
+        "first_seen": "2023-01-27 15:26:47",
+        "last_seen": "2023-01-27 15:26:47",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.tyut76.com",
+        "count": "2",
+        "first_seen": "2023-01-27 15:26:47",
+        "last_seen": "2023-01-27 15:26:47",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.tyut76.com",
+        "count": "6",
+        "first_seen": "2023-01-27 14:35:02",
+        "last_seen": "2023-01-28 02:14:26",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.tyut76.com",
+        "count": "6",
+        "first_seen": "2023-01-27 14:35:02",
+        "last_seen": "2023-01-28 02:14:26",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.tyut76.com",
+        "count": "1",
+        "first_seen": "2023-01-27 14:35:11",
+        "last_seen": "2023-01-27 14:35:11",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-cr-mufg-jp.tyut76.com",
+        "count": "1",
+        "first_seen": "2023-01-27 14:35:11",
+        "last_seen": "2023-01-27 14:35:11",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

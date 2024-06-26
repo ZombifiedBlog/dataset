@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "www.kvp-consulting.com",
+        "count": "1",
+        "first_seen": "2022-08-07 12:20:31",
+        "last_seen": "2022-08-07 12:20:31",
+        "ip_address": "69.16.231.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kvp-consulting.com",
+        "count": "5",
+        "first_seen": "2022-08-07 17:27:53",
+        "last_seen": "2022-08-15 10:36:37",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kvp-consulting.com",
+        "count": "19",
+        "first_seen": "2022-08-20 02:24:30",
+        "last_seen": "2022-09-16 14:17:28",
+        "ip_address": "72.52.179.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kvp-consulting.com",
+        "count": "28",
+        "first_seen": "2020-06-28 08:33:19",
+        "last_seen": "2020-08-30 10:41:03",
+        "ip_address": "95.173.186.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kvp-consulting.com",
+        "count": "2",
+        "first_seen": "2021-05-26 06:07:57",
+        "last_seen": "2021-05-27 06:01:23",
+        "ip_address": "99.83.154.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kvp-consulting.com",
+        "count": "25",
+        "first_seen": "2022-10-31 22:05:09",
+        "last_seen": "2022-11-05 12:50:51",
+        "ip_address": "103.224.212.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kvp-consulting.com",
+        "count": "6243",
+        "first_seen": "2022-07-05 06:01:23",
+        "last_seen": "2022-08-07 11:07:18",
+        "ip_address": "155.94.140.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kvp-consulting.com",
+        "count": "35",
+        "first_seen": "2021-08-17 16:12:11",
+        "last_seen": "2022-04-10 08:13:48",
+        "ip_address": "156.255.238.166",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kvp-consulting.com",
+        "count": "4",
+        "first_seen": "2020-11-05 03:53:03",
+        "last_seen": "2020-11-12 14:33:30",
+        "ip_address": "185.117.119.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kvp-consulting.com",
+        "count": "3",
+        "first_seen": "2021-02-28 14:56:24",
+        "last_seen": "2021-03-12 14:29:01",
+        "ip_address": "185.172.129.196",
+        "type": "IPv4"
+    }
+]

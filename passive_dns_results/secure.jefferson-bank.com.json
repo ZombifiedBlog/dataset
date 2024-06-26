@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "secure.jefferson-bank.com",
+        "count": "13128",
+        "first_seen": "2016-04-30 16:18:14",
+        "last_seen": "2017-07-27 15:01:02",
+        "ip_address": "199.255.160.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "secure.jefferson-bank.com",
+        "count": "79124",
+        "first_seen": "2017-07-27 15:26:53",
+        "last_seen": "2024-01-17 22:46:05",
+        "ip_address": "199.255.160.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "secure.jefferson-bank.com",
+        "count": "4",
+        "first_seen": "2017-12-10 07:11:36",
+        "last_seen": "2019-04-02 05:20:44",
+        "ip_address": "199.255.160.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "secure.jefferson-bank.com",
+        "count": "4",
+        "first_seen": "2017-12-10 07:11:36",
+        "last_seen": "2019-04-02 05:20:44",
+        "ip_address": "199.255.162.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "secure.jefferson-bank.com",
+        "count": "13484",
+        "first_seen": "2016-04-30 16:18:29",
+        "last_seen": "2017-07-27 15:27:57",
+        "ip_address": "199.255.162.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "secure.jefferson-bank.com",
+        "count": "87246",
+        "first_seen": "2017-07-27 15:17:16",
+        "last_seen": "2024-01-18 06:14:52",
+        "ip_address": "199.255.162.50",
+        "type": "IPv4"
+    }
+]

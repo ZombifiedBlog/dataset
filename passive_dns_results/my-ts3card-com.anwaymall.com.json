@@ -1,0 +1,138 @@
+[
+    {
+        "domain": "my-ts3card-com.anwaymall.com",
+        "count": "976",
+        "first_seen": "2022-08-16 14:11:55",
+        "last_seen": "2022-09-17 21:36:43",
+        "ip_address": "104.21.55.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.anwaymall.com",
+        "count": "976",
+        "first_seen": "2022-08-16 14:11:55",
+        "last_seen": "2022-09-17 21:36:43",
+        "ip_address": "172.67.148.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.anwaymall.com",
+        "count": "1",
+        "first_seen": "2022-08-16 15:15:39",
+        "last_seen": "2022-08-16 15:15:39",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.anwaymall.com",
+        "count": "1",
+        "first_seen": "2022-08-16 15:15:39",
+        "last_seen": "2022-08-16 15:15:39",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.anwaymall.com",
+        "count": "30",
+        "first_seen": "2022-08-16 15:11:45",
+        "last_seen": "2022-08-17 03:47:06",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.anwaymall.com",
+        "count": "30",
+        "first_seen": "2022-08-16 15:11:45",
+        "last_seen": "2022-08-17 03:47:06",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.anwaymall.com",
+        "count": "1",
+        "first_seen": "2022-08-16 15:10:03",
+        "last_seen": "2022-08-16 15:10:03",
+        "ip_address": "188.114.96.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.anwaymall.com",
+        "count": "1",
+        "first_seen": "2022-08-16 15:10:03",
+        "last_seen": "2022-08-16 15:10:03",
+        "ip_address": "188.114.97.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.anwaymall.com",
+        "count": "2",
+        "first_seen": "2022-08-17 02:36:53",
+        "last_seen": "2022-08-17 02:36:53",
+        "ip_address": "188.114.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.anwaymall.com",
+        "count": "2",
+        "first_seen": "2022-08-17 02:36:53",
+        "last_seen": "2022-08-17 02:36:53",
+        "ip_address": "188.114.97.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.anwaymall.com",
+        "count": "16",
+        "first_seen": "2022-08-16 14:18:40",
+        "last_seen": "2022-08-16 18:31:31",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.anwaymall.com",
+        "count": "16",
+        "first_seen": "2022-08-16 14:18:40",
+        "last_seen": "2022-08-16 18:31:31",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.anwaymall.com",
+        "count": "4",
+        "first_seen": "2022-10-16 03:06:04",
+        "last_seen": "2022-11-10 09:33:19",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.anwaymall.com",
+        "count": "46",
+        "first_seen": "2022-08-18 02:00:44",
+        "last_seen": "2022-09-15 14:04:26",
+        "ip_address": "2606:4700:3030::ac43:9418",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-ts3card-com.anwaymall.com",
+        "count": "46",
+        "first_seen": "2022-08-18 02:00:44",
+        "last_seen": "2022-09-15 14:04:26",
+        "ip_address": "2606:4700:3035::6815:3779",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-ts3card-com.anwaymall.com",
+        "count": "1",
+        "first_seen": "2022-08-16 14:18:41",
+        "last_seen": "2022-08-16 14:18:41",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-ts3card-com.anwaymall.com",
+        "count": "1",
+        "first_seen": "2022-08-16 14:18:41",
+        "last_seen": "2022-08-16 14:18:41",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

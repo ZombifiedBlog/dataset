@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "my-ts3card-com.hh7386.net",
+        "count": "156",
+        "first_seen": "2022-07-10 14:00:29",
+        "last_seen": "2022-08-05 11:35:16",
+        "ip_address": "104.21.51.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.hh7386.net",
+        "count": "156",
+        "first_seen": "2022-07-10 14:00:29",
+        "last_seen": "2022-08-05 11:35:16",
+        "ip_address": "172.67.221.167",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.hh7386.net",
+        "count": "21",
+        "first_seen": "2022-07-10 16:30:32",
+        "last_seen": "2022-07-14 15:40:55",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.hh7386.net",
+        "count": "21",
+        "first_seen": "2022-07-10 16:30:32",
+        "last_seen": "2022-07-14 15:40:55",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.hh7386.net",
+        "count": "20",
+        "first_seen": "2022-07-10 14:19:42",
+        "last_seen": "2022-07-10 18:34:46",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.hh7386.net",
+        "count": "20",
+        "first_seen": "2022-07-10 14:19:42",
+        "last_seen": "2022-07-10 18:34:46",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.hh7386.net",
+        "count": "9",
+        "first_seen": "2022-07-10 14:19:42",
+        "last_seen": "2022-07-10 18:34:46",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-ts3card-com.hh7386.net",
+        "count": "9",
+        "first_seen": "2022-07-10 14:19:42",
+        "last_seen": "2022-07-10 18:34:46",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

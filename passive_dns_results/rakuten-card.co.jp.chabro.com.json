@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "rakuten-card.co.jp.chabro.com",
+        "count": "114",
+        "first_seen": "2021-06-28 03:29:04",
+        "last_seen": "2021-11-17 07:38:18",
+        "ip_address": "0.0.0.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten-card.co.jp.chabro.com",
+        "count": "1",
+        "first_seen": "2022-01-31 07:29:56",
+        "last_seen": "2022-01-31 07:29:56",
+        "ip_address": "43.130.64.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten-card.co.jp.chabro.com",
+        "count": "220",
+        "first_seen": "2021-06-26 16:02:32",
+        "last_seen": "2021-06-28 02:16:26",
+        "ip_address": "103.93.76.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten-card.co.jp.chabro.com",
+        "count": "18",
+        "first_seen": "2021-06-29 12:34:33",
+        "last_seen": "2021-11-17 07:38:18",
+        "ip_address": "::",
+        "type": "IPv6"
+    }
+]

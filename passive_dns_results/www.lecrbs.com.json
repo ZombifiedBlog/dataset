@@ -1,0 +1,106 @@
+[
+    {
+        "domain": "www.lecrbs.com",
+        "count": "5",
+        "first_seen": "2021-04-02 07:55:14",
+        "last_seen": "2021-05-23 08:06:04",
+        "ip_address": "104.21.81.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lecrbs.com",
+        "count": "5",
+        "first_seen": "2021-04-02 07:55:14",
+        "last_seen": "2021-05-23 08:06:04",
+        "ip_address": "172.67.164.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lecrbs.com",
+        "count": "423",
+        "first_seen": "2020-06-24 03:07:15",
+        "last_seen": "2020-10-28 13:43:39",
+        "ip_address": "104.27.160.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lecrbs.com",
+        "count": "423",
+        "first_seen": "2020-06-24 03:07:15",
+        "last_seen": "2020-10-28 13:43:39",
+        "ip_address": "104.27.161.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lecrbs.com",
+        "count": "423",
+        "first_seen": "2020-06-24 03:07:15",
+        "last_seen": "2020-10-28 13:43:39",
+        "ip_address": "172.67.164.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lecrbs.com",
+        "count": "7",
+        "first_seen": "2022-04-23 01:00:05",
+        "last_seen": "2022-08-07 12:20:12",
+        "ip_address": "108.186.195.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lecrbs.com",
+        "count": "30",
+        "first_seen": "2021-12-12 23:40:09",
+        "last_seen": "2022-02-24 03:01:04",
+        "ip_address": "180.215.51.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lecrbs.com",
+        "count": "1",
+        "first_seen": "2020-06-23 00:02:13",
+        "last_seen": "2020-06-23 00:02:13",
+        "ip_address": "198.144.149.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lecrbs.com",
+        "count": "68",
+        "first_seen": "2020-06-26 04:42:19",
+        "last_seen": "2020-10-13 11:04:53",
+        "ip_address": "2606:4700:3032::681b:a1e5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lecrbs.com",
+        "count": "68",
+        "first_seen": "2020-06-26 04:42:19",
+        "last_seen": "2020-10-13 11:04:53",
+        "ip_address": "2606:4700:3033::ac43:a44c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lecrbs.com",
+        "count": "68",
+        "first_seen": "2020-06-26 04:42:19",
+        "last_seen": "2020-10-13 11:04:53",
+        "ip_address": "2606:4700:3035::681b:a0e5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lecrbs.com",
+        "count": "4",
+        "first_seen": "2021-05-22 18:53:48",
+        "last_seen": "2021-05-23 08:06:05",
+        "ip_address": "2606:4700:3033::ac43:a44c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lecrbs.com",
+        "count": "4",
+        "first_seen": "2021-05-22 18:53:48",
+        "last_seen": "2021-05-23 08:06:05",
+        "ip_address": "2606:4700:3036::6815:51cd",
+        "type": "IPv6"
+    }
+]

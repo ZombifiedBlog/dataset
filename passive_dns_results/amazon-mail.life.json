@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazon-mail.life",
+        "count": "29",
+        "first_seen": "2020-11-24 09:15:06",
+        "last_seen": "2021-03-02 00:58:56",
+        "ip_address": "128.14.142.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-mail.life",
+        "count": "23",
+        "first_seen": "2020-10-15 17:40:09",
+        "last_seen": "2020-11-07 01:27:53",
+        "ip_address": "128.14.142.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-mail.life",
+        "count": "76",
+        "first_seen": "2020-08-28 09:22:20",
+        "last_seen": "2020-09-12 02:29:11",
+        "ip_address": "160.153.244.103",
+        "type": "IPv4"
+    }
+]

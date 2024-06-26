@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www2-micard-co-jp.niuxvdong.top",
+        "count": "5",
+        "first_seen": "2023-01-30 22:22:27",
+        "last_seen": "2023-03-21 10:16:18",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-micard-co-jp.niuxvdong.top",
+        "count": "100",
+        "first_seen": "2021-10-18 15:43:18",
+        "last_seen": "2021-10-21 09:01:26",
+        "ip_address": "104.21.94.142",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-micard-co-jp.niuxvdong.top",
+        "count": "100",
+        "first_seen": "2021-10-18 15:43:18",
+        "last_seen": "2021-10-21 09:01:26",
+        "ip_address": "172.67.136.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-micard-co-jp.niuxvdong.top",
+        "count": "3",
+        "first_seen": "2023-01-29 14:25:53",
+        "last_seen": "2023-03-21 10:15:58",
+        "ip_address": "199.115.116.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-micard-co-jp.niuxvdong.top",
+        "count": "2",
+        "first_seen": "2023-07-20 21:24:16",
+        "last_seen": "2023-07-20 21:24:16",
+        "ip_address": "103.224.182.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-micard-co-jp.niuxvdong.top",
+        "count": "17",
+        "first_seen": "2021-10-18 15:43:19",
+        "last_seen": "2021-10-19 03:14:50",
+        "ip_address": "2606:4700:3035::6815:5e8e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www2-micard-co-jp.niuxvdong.top",
+        "count": "17",
+        "first_seen": "2021-10-18 15:43:19",
+        "last_seen": "2021-10-19 03:14:50",
+        "ip_address": "2606:4700:3037::ac43:88da",
+        "type": "IPv6"
+    }
+]

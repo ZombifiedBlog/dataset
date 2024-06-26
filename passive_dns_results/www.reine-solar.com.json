@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "www.reine-solar.com",
+        "count": "94",
+        "first_seen": "2018-05-21 21:24:23",
+        "last_seen": "2018-06-22 13:32:52",
+        "ip_address": "59.188.232.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.reine-solar.com",
+        "count": "668",
+        "first_seen": "2017-09-14 05:15:14",
+        "last_seen": "2018-05-21 17:31:03",
+        "ip_address": "104.27.134.237",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.reine-solar.com",
+        "count": "668",
+        "first_seen": "2017-09-14 05:15:14",
+        "last_seen": "2018-05-21 17:31:03",
+        "ip_address": "104.27.135.237",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.reine-solar.com",
+        "count": "171",
+        "first_seen": "2018-07-30 01:45:33",
+        "last_seen": "2019-07-25 04:33:19",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.reine-solar.com",
+        "count": "21",
+        "first_seen": "2019-08-08 16:24:45",
+        "last_seen": "2019-09-09 21:18:52",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.reine-solar.com",
+        "count": "6",
+        "first_seen": "2018-09-30 08:58:12",
+        "last_seen": "2019-07-09 08:21:54",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.reine-solar.com",
+        "count": "1",
+        "first_seen": "2019-08-09 06:08:24",
+        "last_seen": "2019-08-09 06:08:24",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.reine-solar.com",
+        "count": "173",
+        "first_seen": "2017-09-14 05:15:14",
+        "last_seen": "2018-05-13 18:59:23",
+        "ip_address": "2400:cb00:2048:1::681b:86ed",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.reine-solar.com",
+        "count": "173",
+        "first_seen": "2017-09-14 05:15:14",
+        "last_seen": "2018-05-13 18:59:23",
+        "ip_address": "2400:cb00:2048:1::681b:87ed",
+        "type": "IPv6"
+    }
+]

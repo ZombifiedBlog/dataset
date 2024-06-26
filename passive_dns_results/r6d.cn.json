@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "r6d.cn",
+        "count": "7449",
+        "first_seen": "2020-11-28 17:44:50",
+        "last_seen": "2020-12-06 06:42:30",
+        "ip_address": "47.57.12.47",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6d.cn",
+        "count": "2",
+        "first_seen": "2018-01-10 20:39:48",
+        "last_seen": "2018-01-10 20:39:48",
+        "ip_address": "47.90.3.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6d.cn",
+        "count": "39",
+        "first_seen": "2017-11-16 00:21:43",
+        "last_seen": "2017-12-20 21:17:39",
+        "ip_address": "50.117.120.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6d.cn",
+        "count": "12",
+        "first_seen": "2017-07-12 22:02:30",
+        "last_seen": "2017-08-16 21:54:28",
+        "ip_address": "103.232.215.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6d.cn",
+        "count": "20",
+        "first_seen": "2017-09-06 21:48:56",
+        "last_seen": "2017-11-08 22:48:49",
+        "ip_address": "103.232.215.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6d.cn",
+        "count": "3494",
+        "first_seen": "2022-04-02 10:06:15",
+        "last_seen": "2022-12-30 20:13:43",
+        "ip_address": "123.58.215.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6d.cn",
+        "count": "2",
+        "first_seen": "2015-05-07 13:42:18",
+        "last_seen": "2015-05-07 13:42:18",
+        "ip_address": "123.254.111.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6d.cn",
+        "count": "165",
+        "first_seen": "2015-07-27 02:16:49",
+        "last_seen": "2017-06-28 22:26:01",
+        "ip_address": "124.16.31.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6d.cn",
+        "count": "17",
+        "first_seen": "2023-01-01 13:26:49",
+        "last_seen": "2023-01-14 01:14:37",
+        "ip_address": "156.224.2.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6d.cn",
+        "count": "17",
+        "first_seen": "2023-01-01 13:26:49",
+        "last_seen": "2023-01-14 01:14:37",
+        "ip_address": "156.224.2.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6d.cn",
+        "count": "5",
+        "first_seen": "2015-03-23 03:24:19",
+        "last_seen": "2015-05-02 05:27:07",
+        "ip_address": "205.164.14.76",
+        "type": "IPv4"
+    }
+]

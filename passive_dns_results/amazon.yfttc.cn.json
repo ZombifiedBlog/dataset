@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "amazon.yfttc.cn",
+        "count": "4",
+        "first_seen": "2023-12-07 22:49:33",
+        "last_seen": "2023-12-11 23:00:34",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.yfttc.cn",
+        "count": "6",
+        "first_seen": "2023-09-25 08:54:34",
+        "last_seen": "2023-09-25 08:54:35",
+        "ip_address": "164.152.166.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.yfttc.cn",
+        "count": "2",
+        "first_seen": "2023-08-18 02:25:32",
+        "last_seen": "2023-08-18 02:25:32",
+        "ip_address": "173.249.201.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.yfttc.cn",
+        "count": "5",
+        "first_seen": "2023-09-02 09:45:05",
+        "last_seen": "2023-09-08 05:15:08",
+        "ip_address": "198.44.169.82",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.yfttc.cn",
+        "count": "145",
+        "first_seen": "2023-01-04 07:39:43",
+        "last_seen": "2023-03-05 00:00:23",
+        "ip_address": "205.185.121.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.yfttc.cn",
+        "count": "351",
+        "first_seen": "2022-12-16 21:13:32",
+        "last_seen": "2023-01-03 15:50:32",
+        "ip_address": "209.141.42.44",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "www.net.cn",
+        "count": "2",
+        "first_seen": "2020-07-16 22:12:30",
+        "last_seen": "2020-07-16 22:12:30",
+        "ip_address": "42.120.158.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.net.cn",
+        "count": "30867242",
+        "first_seen": "2017-06-27 03:26:37",
+        "last_seen": "2024-01-18 13:30:01",
+        "ip_address": "42.120.158.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.net.cn",
+        "count": "12584192",
+        "first_seen": "2013-06-14 23:21:47",
+        "last_seen": "2017-06-27 03:25:24",
+        "ip_address": "42.156.140.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.net.cn",
+        "count": "2",
+        "first_seen": "2016-03-31 20:20:22",
+        "last_seen": "2016-03-31 20:20:22",
+        "ip_address": "42.156.141.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.net.cn",
+        "count": "159",
+        "first_seen": "2014-03-05 06:03:36",
+        "last_seen": "2014-03-05 06:39:39",
+        "ip_address": "112.125.122.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.net.cn",
+        "count": "31232",
+        "first_seen": "2012-06-15 13:18:35",
+        "last_seen": "2012-09-07 20:29:12",
+        "ip_address": "112.126.125.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.net.cn",
+        "count": "21",
+        "first_seen": "2011-11-01 13:16:12",
+        "last_seen": "2012-01-11 21:27:15",
+        "ip_address": "112.126.125.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.net.cn",
+        "count": "21",
+        "first_seen": "2011-11-01 13:16:12",
+        "last_seen": "2012-01-11 21:27:15",
+        "ip_address": "218.30.103.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.net.cn",
+        "count": "155521",
+        "first_seen": "2012-09-07 20:40:31",
+        "last_seen": "2013-06-14 23:20:57",
+        "ip_address": "112.126.126.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.net.cn",
+        "count": "169947",
+        "first_seen": "2011-02-03 09:33:37",
+        "last_seen": "2012-06-15 13:10:42",
+        "ip_address": "218.30.103.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.net.cn",
+        "count": "31235",
+        "first_seen": "2010-06-24 07:34:27",
+        "last_seen": "2011-02-03 10:56:13",
+        "ip_address": "218.30.103.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.net.cn",
+        "count": "7",
+        "first_seen": "2011-02-03 08:23:15",
+        "last_seen": "2011-02-03 09:18:38",
+        "ip_address": "218.30.103.45",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "domain": "24psy.ru",
+        "count": "54",
+        "first_seen": "2011-09-30 12:31:06",
+        "last_seen": "2012-03-12 22:30:54",
+        "ip_address": "46.4.57.188",
+        "type": "IPv4"
+    },
+    {
+        "domain": "24psy.ru",
+        "count": "9895",
+        "first_seen": "2014-04-08 14:37:56",
+        "last_seen": "2015-11-29 14:43:51",
+        "ip_address": "46.254.22.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "24psy.ru",
+        "count": "104786",
+        "first_seen": "2015-11-30 00:51:03",
+        "last_seen": "2021-09-13 13:06:44",
+        "ip_address": "62.109.6.108",
+        "type": "IPv4"
+    },
+    {
+        "domain": "24psy.ru",
+        "count": "921",
+        "first_seen": "2019-02-21 05:40:55",
+        "last_seen": "2020-03-09 09:27:51",
+        "ip_address": "83.222.14.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "24psy.ru",
+        "count": "483",
+        "first_seen": "2023-02-21 05:26:53",
+        "last_seen": "2023-03-24 05:42:23",
+        "ip_address": "88.212.208.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "24psy.ru",
+        "count": "32",
+        "first_seen": "2012-03-25 15:29:34",
+        "last_seen": "2012-07-18 03:48:58",
+        "ip_address": "90.156.201.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "24psy.ru",
+        "count": "32",
+        "first_seen": "2012-03-25 15:29:34",
+        "last_seen": "2012-07-18 03:48:58",
+        "ip_address": "90.156.201.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "24psy.ru",
+        "count": "32",
+        "first_seen": "2012-03-25 15:29:34",
+        "last_seen": "2012-07-18 03:48:58",
+        "ip_address": "90.156.201.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "24psy.ru",
+        "count": "32",
+        "first_seen": "2012-03-25 15:29:34",
+        "last_seen": "2012-07-18 03:48:58",
+        "ip_address": "90.156.201.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "24psy.ru",
+        "count": "12",
+        "first_seen": "2012-08-19 22:56:39",
+        "last_seen": "2013-01-14 08:19:22",
+        "ip_address": "91.219.195.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "24psy.ru",
+        "count": "194",
+        "first_seen": "2023-03-25 02:49:18",
+        "last_seen": "2023-04-24 09:55:37",
+        "ip_address": "91.226.31.82",
+        "type": "IPv4"
+    },
+    {
+        "domain": "24psy.ru",
+        "count": "38",
+        "first_seen": "2013-01-15 21:06:23",
+        "last_seen": "2013-11-04 13:06:45",
+        "ip_address": "98.142.242.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "24psy.ru",
+        "count": "2959",
+        "first_seen": "2023-04-24 16:32:19",
+        "last_seen": "2024-01-18 11:29:26",
+        "ip_address": "104.21.53.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "24psy.ru",
+        "count": "2959",
+        "first_seen": "2023-04-24 16:32:19",
+        "last_seen": "2024-01-18 11:29:26",
+        "ip_address": "172.67.218.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "24psy.ru",
+        "count": "8489",
+        "first_seen": "2021-09-13 14:32:31",
+        "last_seen": "2023-02-21 04:25:33",
+        "ip_address": "188.120.226.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "24psy.ru",
+        "count": "2",
+        "first_seen": "2023-11-05 20:54:42",
+        "last_seen": "2023-11-05 20:54:42",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "24psy.ru",
+        "count": "457",
+        "first_seen": "2023-04-24 16:32:19",
+        "last_seen": "2024-01-16 05:33:06",
+        "ip_address": "2606:4700:3031::ac43:da74",
+        "type": "IPv6"
+    },
+    {
+        "domain": "24psy.ru",
+        "count": "457",
+        "first_seen": "2023-04-24 16:32:19",
+        "last_seen": "2024-01-16 05:33:06",
+        "ip_address": "2606:4700:3032::6815:35c6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "24psy.ru",
+        "count": "769",
+        "first_seen": "2014-10-23 03:46:48",
+        "last_seen": "2015-11-29 14:43:51",
+        "ip_address": "2a03:c980::1:20:31",
+        "type": "IPv6"
+    }
+]

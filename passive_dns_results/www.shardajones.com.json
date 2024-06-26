@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.shardajones.com",
+        "count": "359",
+        "first_seen": "2016-10-07 03:09:06",
+        "last_seen": "2024-01-15 04:20:30",
+        "ip_address": "74.208.236.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shardajones.com",
+        "count": "122",
+        "first_seen": "2016-04-05 03:20:08",
+        "last_seen": "2016-09-15 14:38:17",
+        "ip_address": "192.195.77.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shardajones.com",
+        "count": "13",
+        "first_seen": "2016-03-27 07:57:26",
+        "last_seen": "2016-04-03 01:17:34",
+        "ip_address": "216.250.114.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shardajones.com",
+        "count": "8",
+        "first_seen": "2016-04-14 14:04:23",
+        "last_seen": "2016-08-18 06:53:41",
+        "ip_address": "2607:f1c0:1000:505e:6b5d:f0ae:77e8:f014",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.shardajones.com",
+        "count": "161",
+        "first_seen": "2016-10-07 03:09:06",
+        "last_seen": "2024-01-15 04:20:30",
+        "ip_address": "2607:f1c0:100f:f000::28a",
+        "type": "IPv6"
+    }
+]

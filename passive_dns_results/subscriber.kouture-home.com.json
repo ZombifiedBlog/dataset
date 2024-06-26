@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.kouture-home.com",
+        "count": "80",
+        "first_seen": "2022-08-24 12:02:02",
+        "last_seen": "2022-10-03 18:14:09",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kouture-home.com",
+        "count": "6309",
+        "first_seen": "2022-06-07 18:02:06",
+        "last_seen": "2022-08-23 03:45:11",
+        "ip_address": "104.21.49.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kouture-home.com",
+        "count": "6309",
+        "first_seen": "2022-06-07 18:02:06",
+        "last_seen": "2022-08-23 03:45:11",
+        "ip_address": "172.67.146.178",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kouture-home.com",
+        "count": "2",
+        "first_seen": "2022-08-25 22:30:45",
+        "last_seen": "2022-08-26 07:50:42",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kouture-home.com",
+        "count": "158",
+        "first_seen": "2022-06-08 03:54:16",
+        "last_seen": "2022-08-22 07:52:59",
+        "ip_address": "2606:4700:3030::6815:3196",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.kouture-home.com",
+        "count": "158",
+        "first_seen": "2022-06-08 03:54:16",
+        "last_seen": "2022-08-22 07:52:59",
+        "ip_address": "2606:4700:3030::ac43:92b2",
+        "type": "IPv6"
+    }
+]

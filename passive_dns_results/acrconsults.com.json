@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "acrconsults.com",
+        "count": "239",
+        "first_seen": "2023-04-26 08:04:52",
+        "last_seen": "2023-04-28 10:35:50",
+        "ip_address": "47.243.92.63",
+        "type": "IPv4"
+    },
+    {
+        "domain": "acrconsults.com",
+        "count": "4",
+        "first_seen": "2023-01-31 07:42:50",
+        "last_seen": "2023-02-05 07:58:15",
+        "ip_address": "52.128.23.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "acrconsults.com",
+        "count": "96",
+        "first_seen": "2023-02-07 03:56:12",
+        "last_seen": "2023-04-13 13:31:30",
+        "ip_address": "64.190.63.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "acrconsults.com",
+        "count": "52",
+        "first_seen": "2023-05-12 11:25:03",
+        "last_seen": "2023-05-29 10:31:46",
+        "ip_address": "154.197.145.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "acrconsults.com",
+        "count": "376",
+        "first_seen": "2021-04-20 06:46:29",
+        "last_seen": "2022-03-22 15:48:13",
+        "ip_address": "162.215.211.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "acrconsults.com",
+        "count": "1280",
+        "first_seen": "2019-06-04 20:04:51",
+        "last_seen": "2021-04-19 12:00:15",
+        "ip_address": "192.185.113.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "acrconsults.com",
+        "count": "643",
+        "first_seen": "2018-08-10 03:28:46",
+        "last_seen": "2019-05-31 06:45:13",
+        "ip_address": "192.254.183.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "acrconsults.com",
+        "count": "25",
+        "first_seen": "2022-05-05 06:18:10",
+        "last_seen": "2022-07-21 07:01:02",
+        "ip_address": "198.204.225.182",
+        "type": "IPv4"
+    }
+]

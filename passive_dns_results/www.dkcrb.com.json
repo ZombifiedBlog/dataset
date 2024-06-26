@@ -1,0 +1,322 @@
+[
+    {
+        "domain": "www.dkcrb.com",
+        "count": "4",
+        "first_seen": "2016-12-02 19:27:09",
+        "last_seen": "2016-12-03 11:43:10",
+        "ip_address": "23.244.90.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "3",
+        "first_seen": "2016-06-28 21:00:18",
+        "last_seen": "2016-06-28 21:00:21",
+        "ip_address": "23.245.107.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "3",
+        "first_seen": "2016-05-31 19:51:41",
+        "last_seen": "2016-05-31 19:51:42",
+        "ip_address": "103.49.248.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "3470",
+        "first_seen": "2021-11-18 02:50:18",
+        "last_seen": "2022-04-12 19:18:54",
+        "ip_address": "104.21.69.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "3470",
+        "first_seen": "2021-11-18 02:50:18",
+        "last_seen": "2022-04-12 19:18:54",
+        "ip_address": "172.67.203.158",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "49",
+        "first_seen": "2022-04-01 14:36:33",
+        "last_seen": "2022-04-06 09:20:54",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "49",
+        "first_seen": "2022-04-01 14:36:33",
+        "last_seen": "2022-04-06 09:20:54",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "1",
+        "first_seen": "2021-11-23 20:20:06",
+        "last_seen": "2021-11-23 20:20:06",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "1",
+        "first_seen": "2021-11-23 20:20:06",
+        "last_seen": "2021-11-23 20:20:06",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "73",
+        "first_seen": "2022-03-31 22:29:26",
+        "last_seen": "2022-04-07 07:20:47",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "73",
+        "first_seen": "2022-03-31 22:29:26",
+        "last_seen": "2022-04-07 07:20:47",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "3",
+        "first_seen": "2022-03-24 11:27:45",
+        "last_seen": "2022-04-06 10:35:25",
+        "ip_address": "188.114.96.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "3",
+        "first_seen": "2022-03-24 11:27:45",
+        "last_seen": "2022-04-06 10:35:25",
+        "ip_address": "188.114.97.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "5",
+        "first_seen": "2021-11-23 22:40:52",
+        "last_seen": "2021-11-24 11:43:46",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "5",
+        "first_seen": "2021-11-23 22:40:52",
+        "last_seen": "2021-11-24 11:43:46",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "17",
+        "first_seen": "2021-11-24 01:17:58",
+        "last_seen": "2021-11-24 17:50:41",
+        "ip_address": "188.114.96.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "17",
+        "first_seen": "2021-11-24 01:17:58",
+        "last_seen": "2021-11-24 17:50:41",
+        "ip_address": "188.114.97.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "14",
+        "first_seen": "2022-03-23 10:41:04",
+        "last_seen": "2022-04-06 04:54:42",
+        "ip_address": "188.114.96.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "14",
+        "first_seen": "2022-03-23 10:41:04",
+        "last_seen": "2022-04-06 04:54:42",
+        "ip_address": "188.114.97.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "27",
+        "first_seen": "2021-11-23 21:42:04",
+        "last_seen": "2021-11-24 18:12:54",
+        "ip_address": "188.114.96.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "27",
+        "first_seen": "2021-11-23 21:42:04",
+        "last_seen": "2021-11-24 18:12:54",
+        "ip_address": "188.114.97.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "137",
+        "first_seen": "2022-04-02 23:27:23",
+        "last_seen": "2022-04-06 10:26:59",
+        "ip_address": "188.114.96.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "137",
+        "first_seen": "2022-04-02 23:27:23",
+        "last_seen": "2022-04-06 10:26:59",
+        "ip_address": "188.114.97.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "1",
+        "first_seen": "2021-11-24 17:43:31",
+        "last_seen": "2021-11-24 17:43:31",
+        "ip_address": "188.114.96.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "1",
+        "first_seen": "2021-11-24 17:43:31",
+        "last_seen": "2021-11-24 17:43:31",
+        "ip_address": "188.114.97.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "7",
+        "first_seen": "2021-11-24 01:02:19",
+        "last_seen": "2021-11-24 18:20:59",
+        "ip_address": "188.114.96.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "7",
+        "first_seen": "2021-11-24 01:02:19",
+        "last_seen": "2021-11-24 18:20:59",
+        "ip_address": "188.114.97.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "17",
+        "first_seen": "2021-11-23 21:42:42",
+        "last_seen": "2021-11-24 17:58:44",
+        "ip_address": "188.114.96.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "17",
+        "first_seen": "2021-11-23 21:42:42",
+        "last_seen": "2021-11-24 17:58:44",
+        "ip_address": "188.114.97.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "1",
+        "first_seen": "2022-03-13 04:40:49",
+        "last_seen": "2022-03-13 04:40:49",
+        "ip_address": "188.114.96.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "443",
+        "first_seen": "2021-11-18 03:27:37",
+        "last_seen": "2022-04-12 19:18:53",
+        "ip_address": "2606:4700:3030::ac43:cb9e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "443",
+        "first_seen": "2021-11-18 03:27:37",
+        "last_seen": "2022-04-12 19:18:53",
+        "ip_address": "2606:4700:3032::6815:4525",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "3",
+        "first_seen": "2022-04-01 12:49:12",
+        "last_seen": "2022-04-07 07:20:47",
+        "ip_address": "2a06:98c1:3120::7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "3",
+        "first_seen": "2022-04-01 12:49:12",
+        "last_seen": "2022-04-07 07:20:47",
+        "ip_address": "2a06:98c1:3121::7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "4",
+        "first_seen": "2022-04-04 06:25:01",
+        "last_seen": "2022-04-05 13:42:30",
+        "ip_address": "2a06:98c1:3120::14",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "4",
+        "first_seen": "2022-04-04 06:25:01",
+        "last_seen": "2022-04-05 13:42:30",
+        "ip_address": "2a06:98c1:3121::14",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "39",
+        "first_seen": "2022-04-02 23:27:23",
+        "last_seen": "2022-04-06 10:26:59",
+        "ip_address": "2a06:98c1:3120::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "39",
+        "first_seen": "2022-04-02 23:27:23",
+        "last_seen": "2022-04-06 10:26:59",
+        "ip_address": "2a06:98c1:3121::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "1",
+        "first_seen": "2021-11-24 16:25:37",
+        "last_seen": "2021-11-24 16:25:37",
+        "ip_address": "2a06:98c1:3120::47",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.dkcrb.com",
+        "count": "1",
+        "first_seen": "2021-11-24 16:25:37",
+        "last_seen": "2021-11-24 16:25:37",
+        "ip_address": "2a06:98c1:3121::47",
+        "type": "IPv6"
+    }
+]

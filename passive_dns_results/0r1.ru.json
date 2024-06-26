@@ -1,0 +1,658 @@
+[
+    {
+        "domain": "0r1.ru",
+        "count": "21640",
+        "first_seen": "2014-05-15 09:22:25",
+        "last_seen": "2017-07-10 04:33:33",
+        "ip_address": "46.4.83.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "6",
+        "first_seen": "2010-10-24 22:05:36",
+        "last_seen": "2011-07-30 06:37:35",
+        "ip_address": "78.108.83.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "264756",
+        "first_seen": "2021-01-11 18:08:18",
+        "last_seen": "2024-01-18 00:38:09",
+        "ip_address": "104.21.0.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "264756",
+        "first_seen": "2021-01-11 18:08:18",
+        "last_seen": "2024-01-18 00:38:09",
+        "ip_address": "172.67.128.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "54079",
+        "first_seen": "2020-10-31 19:28:10",
+        "last_seen": "2021-01-11 18:05:59",
+        "ip_address": "104.28.30.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "54079",
+        "first_seen": "2020-10-31 19:28:10",
+        "last_seen": "2021-01-11 18:05:59",
+        "ip_address": "104.28.31.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "54079",
+        "first_seen": "2020-10-31 19:28:10",
+        "last_seen": "2021-01-11 18:05:59",
+        "ip_address": "172.67.128.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "12",
+        "first_seen": "2021-01-17 01:20:00",
+        "last_seen": "2021-01-17 01:43:46",
+        "ip_address": "104.31.226.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "12",
+        "first_seen": "2021-01-17 01:20:00",
+        "last_seen": "2021-01-17 01:43:46",
+        "ip_address": "104.31.227.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "727",
+        "first_seen": "2022-06-07 17:22:08",
+        "last_seen": "2022-06-21 13:56:22",
+        "ip_address": "162.159.137.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "727",
+        "first_seen": "2022-06-07 17:22:08",
+        "last_seen": "2022-06-21 13:56:22",
+        "ip_address": "162.159.138.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "2",
+        "first_seen": "2022-08-11 17:06:55",
+        "last_seen": "2023-11-02 16:39:36",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "1315516",
+        "first_seen": "2017-07-10 07:20:41",
+        "last_seen": "2020-10-31 17:26:56",
+        "ip_address": "176.9.36.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "170",
+        "first_seen": "2022-03-07 01:18:21",
+        "last_seen": "2023-11-22 09:52:53",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "170",
+        "first_seen": "2022-03-07 01:18:21",
+        "last_seen": "2023-11-22 09:52:53",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "1",
+        "first_seen": "2023-04-10 16:38:55",
+        "last_seen": "2023-04-10 16:38:55",
+        "ip_address": "188.114.96.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "1",
+        "first_seen": "2023-04-10 16:38:55",
+        "last_seen": "2023-04-10 16:38:55",
+        "ip_address": "188.114.97.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "192",
+        "first_seen": "2022-01-20 20:49:59",
+        "last_seen": "2022-03-08 18:27:39",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "192",
+        "first_seen": "2022-01-20 20:49:59",
+        "last_seen": "2022-03-08 18:27:39",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "375",
+        "first_seen": "2022-05-30 08:55:58",
+        "last_seen": "2023-12-29 12:43:23",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "375",
+        "first_seen": "2022-05-30 08:55:58",
+        "last_seen": "2023-12-29 12:43:23",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "5",
+        "first_seen": "2023-01-05 22:12:47",
+        "last_seen": "2023-11-07 19:22:18",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "5",
+        "first_seen": "2023-01-05 22:12:47",
+        "last_seen": "2023-11-07 19:22:18",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "33",
+        "first_seen": "2022-01-20 15:31:18",
+        "last_seen": "2022-04-26 11:35:31",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "33",
+        "first_seen": "2022-01-20 15:31:18",
+        "last_seen": "2022-04-26 11:35:31",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "24",
+        "first_seen": "2022-02-07 19:05:29",
+        "last_seen": "2023-12-15 00:19:25",
+        "ip_address": "188.114.96.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "24",
+        "first_seen": "2022-02-07 19:05:29",
+        "last_seen": "2023-12-15 00:19:25",
+        "ip_address": "188.114.97.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "2",
+        "first_seen": "2022-05-10 04:32:45",
+        "last_seen": "2022-05-15 05:32:42",
+        "ip_address": "188.114.96.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "2",
+        "first_seen": "2022-05-10 04:32:45",
+        "last_seen": "2022-05-15 05:32:42",
+        "ip_address": "188.114.97.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "35",
+        "first_seen": "2022-06-01 15:51:50",
+        "last_seen": "2023-08-20 01:29:11",
+        "ip_address": "188.114.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "35",
+        "first_seen": "2022-06-01 15:51:50",
+        "last_seen": "2023-08-20 01:29:11",
+        "ip_address": "188.114.97.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "434",
+        "first_seen": "2021-11-23 15:52:54",
+        "last_seen": "2022-12-26 04:54:24",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "434",
+        "first_seen": "2021-11-23 15:52:54",
+        "last_seen": "2022-12-26 04:54:24",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "5",
+        "first_seen": "2022-02-13 09:55:00",
+        "last_seen": "2022-02-18 17:06:50",
+        "ip_address": "188.114.96.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "5",
+        "first_seen": "2022-02-13 09:55:00",
+        "last_seen": "2022-02-18 17:06:50",
+        "ip_address": "188.114.97.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "8",
+        "first_seen": "2022-02-06 12:09:34",
+        "last_seen": "2022-04-26 11:35:35",
+        "ip_address": "188.114.96.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "8",
+        "first_seen": "2022-02-06 12:09:34",
+        "last_seen": "2022-04-26 11:35:35",
+        "ip_address": "188.114.97.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "3",
+        "first_seen": "2021-11-23 21:21:54",
+        "last_seen": "2021-11-24 18:15:45",
+        "ip_address": "188.114.96.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "3",
+        "first_seen": "2021-11-23 21:21:54",
+        "last_seen": "2021-11-24 18:15:45",
+        "ip_address": "188.114.97.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "9",
+        "first_seen": "2022-03-06 11:35:47",
+        "last_seen": "2022-04-03 03:37:43",
+        "ip_address": "188.114.96.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "9",
+        "first_seen": "2022-03-06 11:35:47",
+        "last_seen": "2022-04-03 03:37:43",
+        "ip_address": "188.114.97.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "3",
+        "first_seen": "2022-05-14 04:17:41",
+        "last_seen": "2022-05-26 09:09:28",
+        "ip_address": "188.114.96.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "3",
+        "first_seen": "2022-05-14 04:17:41",
+        "last_seen": "2022-05-26 09:09:28",
+        "ip_address": "188.114.97.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "1",
+        "first_seen": "2021-11-23 21:21:54",
+        "last_seen": "2021-11-23 21:21:54",
+        "ip_address": "188.114.96.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "1",
+        "first_seen": "2021-11-23 21:21:54",
+        "last_seen": "2021-11-23 21:21:54",
+        "ip_address": "188.114.97.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "261",
+        "first_seen": "2022-03-09 22:10:59",
+        "last_seen": "2022-03-14 11:15:34",
+        "ip_address": "188.114.99.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "488",
+        "first_seen": "2022-06-07 17:22:08",
+        "last_seen": "2022-06-21 13:21:10",
+        "ip_address": "2606:4700:7::a29f:8955",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "488",
+        "first_seen": "2022-06-07 17:22:08",
+        "last_seen": "2022-06-21 13:21:10",
+        "ip_address": "2606:4700:7::a29f:8a55",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "182380",
+        "first_seen": "2021-01-11 18:06:49",
+        "last_seen": "2024-01-18 04:25:51",
+        "ip_address": "2606:4700:3031::6815:e5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "182380",
+        "first_seen": "2021-01-11 18:06:49",
+        "last_seen": "2024-01-18 04:25:51",
+        "ip_address": "2606:4700:3033::ac43:805d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "42592",
+        "first_seen": "2020-10-31 19:30:34",
+        "last_seen": "2021-01-11 18:04:36",
+        "ip_address": "2606:4700:3033::ac43:805d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "42592",
+        "first_seen": "2020-10-31 19:30:34",
+        "last_seen": "2021-01-11 18:04:36",
+        "ip_address": "2606:4700:3035::681c:1e06",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "42592",
+        "first_seen": "2020-10-31 19:30:34",
+        "last_seen": "2021-01-11 18:04:36",
+        "ip_address": "2606:4700:3037::681c:1f06",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "13",
+        "first_seen": "2021-01-17 01:17:31",
+        "last_seen": "2021-01-17 01:44:41",
+        "ip_address": "2606:4700:3039::681f:e20a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "13",
+        "first_seen": "2021-01-17 01:17:31",
+        "last_seen": "2021-01-17 01:44:41",
+        "ip_address": "2606:4700:3039::681f:e30a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "114",
+        "first_seen": "2022-03-07 01:15:29",
+        "last_seen": "2023-11-22 07:29:14",
+        "ip_address": "2a06:98c1:3120::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "114",
+        "first_seen": "2022-03-07 01:15:29",
+        "last_seen": "2023-11-22 07:29:14",
+        "ip_address": "2a06:98c1:3121::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "177",
+        "first_seen": "2022-01-20 20:46:12",
+        "last_seen": "2022-03-09 21:46:58",
+        "ip_address": "2a06:98c1:3120::2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "177",
+        "first_seen": "2022-01-20 20:46:12",
+        "last_seen": "2022-03-09 21:46:58",
+        "ip_address": "2a06:98c1:3121::2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "270",
+        "first_seen": "2022-05-28 14:13:46",
+        "last_seen": "2024-01-17 21:47:18",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "270",
+        "first_seen": "2022-05-28 14:13:46",
+        "last_seen": "2024-01-17 21:47:18",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "7",
+        "first_seen": "2022-07-24 19:50:19",
+        "last_seen": "2023-12-01 16:55:24",
+        "ip_address": "2a06:98c1:3120::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "7",
+        "first_seen": "2022-07-24 19:50:19",
+        "last_seen": "2023-12-01 16:55:24",
+        "ip_address": "2a06:98c1:3121::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "20",
+        "first_seen": "2022-01-20 15:40:10",
+        "last_seen": "2022-05-03 08:41:59",
+        "ip_address": "2a06:98c1:3120::7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "20",
+        "first_seen": "2022-01-20 15:40:10",
+        "last_seen": "2022-05-03 08:41:59",
+        "ip_address": "2a06:98c1:3121::7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "17",
+        "first_seen": "2022-02-02 17:36:09",
+        "last_seen": "2023-10-04 13:17:41",
+        "ip_address": "2a06:98c1:3120::8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "17",
+        "first_seen": "2022-02-02 17:36:09",
+        "last_seen": "2023-10-04 13:17:41",
+        "ip_address": "2a06:98c1:3121::8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "5",
+        "first_seen": "2022-05-10 10:20:43",
+        "last_seen": "2022-05-21 13:49:54",
+        "ip_address": "2a06:98c1:3120::a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "5",
+        "first_seen": "2022-05-10 10:20:43",
+        "last_seen": "2022-05-21 13:49:54",
+        "ip_address": "2a06:98c1:3121::a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "15",
+        "first_seen": "2022-06-22 08:15:32",
+        "last_seen": "2023-07-25 21:00:53",
+        "ip_address": "2a06:98c1:3120::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "15",
+        "first_seen": "2022-06-22 08:15:32",
+        "last_seen": "2023-07-25 21:00:53",
+        "ip_address": "2a06:98c1:3121::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "400",
+        "first_seen": "2021-11-23 15:53:05",
+        "last_seen": "2022-12-21 20:14:51",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "400",
+        "first_seen": "2021-11-23 15:53:05",
+        "last_seen": "2022-12-21 20:14:51",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "2",
+        "first_seen": "2022-02-13 19:21:50",
+        "last_seen": "2022-02-17 00:10:24",
+        "ip_address": "2a06:98c1:3120::10",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "2",
+        "first_seen": "2022-02-13 19:21:50",
+        "last_seen": "2022-02-17 00:10:24",
+        "ip_address": "2a06:98c1:3121::10",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "5",
+        "first_seen": "2022-03-16 17:17:28",
+        "last_seen": "2022-04-01 09:29:21",
+        "ip_address": "2a06:98c1:3120::14",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "5",
+        "first_seen": "2022-03-16 17:17:28",
+        "last_seen": "2022-04-01 09:29:21",
+        "ip_address": "2a06:98c1:3121::14",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "2",
+        "first_seen": "2021-11-23 21:21:54",
+        "last_seen": "2021-11-24 18:15:45",
+        "ip_address": "2a06:98c1:3120::15",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "2",
+        "first_seen": "2021-11-23 21:21:54",
+        "last_seen": "2021-11-24 18:15:45",
+        "ip_address": "2a06:98c1:3121::15",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "5",
+        "first_seen": "2022-03-06 11:35:47",
+        "last_seen": "2022-03-31 15:18:05",
+        "ip_address": "2a06:98c1:3120::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "5",
+        "first_seen": "2022-03-06 11:35:47",
+        "last_seen": "2022-03-31 15:18:05",
+        "ip_address": "2a06:98c1:3121::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "0r1.ru",
+        "count": "167",
+        "first_seen": "2022-03-09 22:11:48",
+        "last_seen": "2022-03-14 10:09:59",
+        "ip_address": "2a06:98c1:3122:8000::",
+        "type": "IPv6"
+    }
+]

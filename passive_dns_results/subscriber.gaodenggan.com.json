@@ -1,0 +1,162 @@
+[
+    {
+        "domain": "subscriber.gaodenggan.com",
+        "count": "2",
+        "first_seen": "2023-04-05 14:32:34",
+        "last_seen": "2023-04-05 16:40:58",
+        "ip_address": "52.213.114.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gaodenggan.com",
+        "count": "17",
+        "first_seen": "2020-12-30 13:19:51",
+        "last_seen": "2021-01-11 10:47:47",
+        "ip_address": "104.18.50.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gaodenggan.com",
+        "count": "17",
+        "first_seen": "2020-12-30 13:19:51",
+        "last_seen": "2021-01-11 10:47:47",
+        "ip_address": "104.18.51.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gaodenggan.com",
+        "count": "17",
+        "first_seen": "2020-12-30 13:19:51",
+        "last_seen": "2021-01-11 10:47:47",
+        "ip_address": "172.67.185.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gaodenggan.com",
+        "count": "1",
+        "first_seen": "2021-01-15 12:27:54",
+        "last_seen": "2021-01-15 12:27:54",
+        "ip_address": "104.21.40.115",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gaodenggan.com",
+        "count": "1",
+        "first_seen": "2021-01-15 12:27:54",
+        "last_seen": "2021-01-15 12:27:54",
+        "ip_address": "172.67.185.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gaodenggan.com",
+        "count": "1809",
+        "first_seen": "2020-10-29 15:28:08",
+        "last_seen": "2020-12-27 16:51:33",
+        "ip_address": "104.28.16.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gaodenggan.com",
+        "count": "1809",
+        "first_seen": "2020-10-29 15:28:08",
+        "last_seen": "2020-12-27 16:51:33",
+        "ip_address": "104.28.17.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gaodenggan.com",
+        "count": "1809",
+        "first_seen": "2020-10-29 15:28:08",
+        "last_seen": "2020-12-27 16:51:33",
+        "ip_address": "172.67.132.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gaodenggan.com",
+        "count": "2",
+        "first_seen": "2020-11-28 04:57:49",
+        "last_seen": "2020-11-28 04:57:49",
+        "ip_address": "172.64.84.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gaodenggan.com",
+        "count": "2",
+        "first_seen": "2020-11-05 09:33:37",
+        "last_seen": "2020-11-05 09:33:37",
+        "ip_address": "172.64.87.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gaodenggan.com",
+        "count": "2",
+        "first_seen": "2020-11-27 17:02:14",
+        "last_seen": "2020-11-27 17:02:14",
+        "ip_address": "172.64.90.244",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gaodenggan.com",
+        "count": "2",
+        "first_seen": "2020-11-28 06:06:35",
+        "last_seen": "2020-11-28 06:06:35",
+        "ip_address": "172.64.94.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gaodenggan.com",
+        "count": "2",
+        "first_seen": "2020-11-29 07:27:46",
+        "last_seen": "2020-11-29 07:27:46",
+        "ip_address": "172.64.95.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gaodenggan.com",
+        "count": "411",
+        "first_seen": "2020-10-29 15:28:08",
+        "last_seen": "2020-12-27 16:51:33",
+        "ip_address": "2606:4700:3030::ac43:84b1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.gaodenggan.com",
+        "count": "411",
+        "first_seen": "2020-10-29 15:28:08",
+        "last_seen": "2020-12-27 16:51:33",
+        "ip_address": "2606:4700:3034::681c:104b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.gaodenggan.com",
+        "count": "411",
+        "first_seen": "2020-10-29 15:28:08",
+        "last_seen": "2020-12-27 16:51:33",
+        "ip_address": "2606:4700:3035::681c:114b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.gaodenggan.com",
+        "count": "4",
+        "first_seen": "2020-12-30 13:19:51",
+        "last_seen": "2021-01-06 08:32:51",
+        "ip_address": "2606:4700:3032::ac43:b98a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.gaodenggan.com",
+        "count": "4",
+        "first_seen": "2020-12-30 13:19:51",
+        "last_seen": "2021-01-06 08:32:51",
+        "ip_address": "2606:4700:3033::6812:32a2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.gaodenggan.com",
+        "count": "4",
+        "first_seen": "2020-12-30 13:19:51",
+        "last_seen": "2021-01-06 08:32:51",
+        "ip_address": "2606:4700:3035::6812:33a2",
+        "type": "IPv6"
+    }
+]

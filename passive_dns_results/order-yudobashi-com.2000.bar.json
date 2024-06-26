@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "order-yudobashi-com.2000.bar",
+        "count": "42",
+        "first_seen": "2021-06-18 03:51:25",
+        "last_seen": "2022-03-05 14:26:30",
+        "ip_address": "0.0.0.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "order-yudobashi-com.2000.bar",
+        "count": "2",
+        "first_seen": "2021-05-29 16:06:21",
+        "last_seen": "2021-05-29 16:21:54",
+        "ip_address": "8.210.38.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "order-yudobashi-com.2000.bar",
+        "count": "30",
+        "first_seen": "2021-05-26 04:25:09",
+        "last_seen": "2021-05-27 14:45:07",
+        "ip_address": "104.21.73.99",
+        "type": "IPv4"
+    },
+    {
+        "domain": "order-yudobashi-com.2000.bar",
+        "count": "30",
+        "first_seen": "2021-05-26 04:25:09",
+        "last_seen": "2021-05-27 14:45:07",
+        "ip_address": "172.67.160.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "order-yudobashi-com.2000.bar",
+        "count": "5",
+        "first_seen": "2021-07-09 19:46:33",
+        "last_seen": "2021-10-09 07:59:46",
+        "ip_address": "::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "order-yudobashi-com.2000.bar",
+        "count": "5",
+        "first_seen": "2021-05-26 04:25:09",
+        "last_seen": "2021-05-27 10:20:09",
+        "ip_address": "2606:4700:3031::ac43:a0ea",
+        "type": "IPv6"
+    },
+    {
+        "domain": "order-yudobashi-com.2000.bar",
+        "count": "5",
+        "first_seen": "2021-05-26 04:25:09",
+        "last_seen": "2021-05-27 10:20:09",
+        "ip_address": "2606:4700:3036::6815:4963",
+        "type": "IPv6"
+    }
+]

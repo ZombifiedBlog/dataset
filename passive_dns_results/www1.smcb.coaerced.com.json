@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www1.smcb.coaerced.com",
+        "count": "242",
+        "first_seen": "2021-10-08 21:45:33",
+        "last_seen": "2022-09-22 10:42:05",
+        "ip_address": "198.12.81.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www1.smcb.coaerced.com",
+        "count": "4",
+        "first_seen": "2022-10-08 21:50:23",
+        "last_seen": "2022-10-08 22:51:33",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www1.smcb.coaerced.com",
+        "count": "4",
+        "first_seen": "2022-10-08 21:49:29",
+        "last_seen": "2022-10-08 22:19:05",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.t.mareaci.com",
+        "count": "194",
+        "first_seen": "2021-12-27 22:29:33",
+        "last_seen": "2021-12-30 03:27:06",
+        "ip_address": "198.23.174.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t.mareaci.com",
+        "count": "7",
+        "first_seen": "2022-12-27 19:37:04",
+        "last_seen": "2022-12-27 19:38:17",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t.mareaci.com",
+        "count": "1",
+        "first_seen": "2022-12-27 19:38:24",
+        "last_seen": "2022-12-27 19:38:24",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

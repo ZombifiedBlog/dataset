@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "magicutilities.net",
+        "count": "970",
+        "first_seen": "2016-09-22 07:26:36",
+        "last_seen": "2017-03-13 12:06:38",
+        "ip_address": "5.35.225.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "magicutilities.net",
+        "count": "101",
+        "first_seen": "2016-06-07 07:34:43",
+        "last_seen": "2016-09-21 16:56:44",
+        "ip_address": "80.237.132.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "magicutilities.net",
+        "count": "484651",
+        "first_seen": "2017-03-14 11:20:22",
+        "last_seen": "2024-01-18 08:37:00",
+        "ip_address": "195.30.107.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "magicutilities.net",
+        "count": "306",
+        "first_seen": "2016-09-23 16:46:43",
+        "last_seen": "2017-03-13 21:31:12",
+        "ip_address": "2a01:488:42:1000:50ed:840c:b0:8989",
+        "type": "IPv6"
+    },
+    {
+        "domain": "magicutilities.net",
+        "count": "34",
+        "first_seen": "2016-06-07 07:34:43",
+        "last_seen": "2016-09-21 03:08:16",
+        "ip_address": "2a01:488:42:1000:50ed:84e4:5b:2f29",
+        "type": "IPv6"
+    }
+]

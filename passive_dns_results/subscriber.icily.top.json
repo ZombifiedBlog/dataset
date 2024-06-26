@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.icily.top",
+        "count": "7",
+        "first_seen": "2023-11-24 21:53:58",
+        "last_seen": "2023-11-25 21:13:12",
+        "ip_address": "49.51.79.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.icily.top",
+        "count": "434",
+        "first_seen": "2023-06-15 18:36:19",
+        "last_seen": "2023-08-05 10:23:46",
+        "ip_address": "104.21.9.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.icily.top",
+        "count": "434",
+        "first_seen": "2023-06-15 18:36:19",
+        "last_seen": "2023-08-05 10:23:46",
+        "ip_address": "172.67.189.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.icily.top",
+        "count": "2",
+        "first_seen": "2023-12-08 05:28:49",
+        "last_seen": "2023-12-08 05:28:49",
+        "ip_address": "167.88.180.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.icily.top",
+        "count": "16",
+        "first_seen": "2023-06-17 14:09:02",
+        "last_seen": "2023-06-30 13:46:58",
+        "ip_address": "2606:4700:3033::ac43:bd32",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.icily.top",
+        "count": "16",
+        "first_seen": "2023-06-17 14:09:02",
+        "last_seen": "2023-06-30 13:46:58",
+        "ip_address": "2606:4700:3036::6815:957",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "domain": "subscriber.yiyuan163.com",
+        "count": "42",
+        "first_seen": "2022-08-25 08:10:46",
+        "last_seen": "2022-08-30 12:58:05",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yiyuan163.com",
+        "count": "193",
+        "first_seen": "2022-08-20 11:28:14",
+        "last_seen": "2022-08-23 21:15:45",
+        "ip_address": "104.21.36.159",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yiyuan163.com",
+        "count": "193",
+        "first_seen": "2022-08-20 11:28:14",
+        "last_seen": "2022-08-23 21:15:45",
+        "ip_address": "172.67.196.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yiyuan163.com",
+        "count": "28",
+        "first_seen": "2022-11-01 07:26:17",
+        "last_seen": "2023-09-05 12:18:44",
+        "ip_address": "107.158.169.178",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yiyuan163.com",
+        "count": "10",
+        "first_seen": "2022-08-22 08:32:10",
+        "last_seen": "2022-08-23 10:11:01",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yiyuan163.com",
+        "count": "10",
+        "first_seen": "2022-08-22 08:32:10",
+        "last_seen": "2022-08-23 10:11:01",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yiyuan163.com",
+        "count": "1",
+        "first_seen": "2022-08-20 14:12:23",
+        "last_seen": "2022-08-20 14:12:23",
+        "ip_address": "188.114.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yiyuan163.com",
+        "count": "1",
+        "first_seen": "2022-08-20 14:12:23",
+        "last_seen": "2022-08-20 14:12:23",
+        "ip_address": "188.114.97.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yiyuan163.com",
+        "count": "3",
+        "first_seen": "2022-08-22 01:43:42",
+        "last_seen": "2022-08-23 09:31:32",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yiyuan163.com",
+        "count": "3",
+        "first_seen": "2022-08-22 01:43:42",
+        "last_seen": "2022-08-23 09:31:32",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yiyuan163.com",
+        "count": "4",
+        "first_seen": "2022-08-22 17:31:17",
+        "last_seen": "2022-08-23 21:15:45",
+        "ip_address": "2606:4700:3033::ac43:c4bf",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.yiyuan163.com",
+        "count": "4",
+        "first_seen": "2022-08-22 17:31:17",
+        "last_seen": "2022-08-23 21:15:45",
+        "ip_address": "2606:4700:3037::6815:249f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.yiyuan163.com",
+        "count": "3",
+        "first_seen": "2022-08-22 09:29:30",
+        "last_seen": "2022-08-23 08:56:29",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.yiyuan163.com",
+        "count": "3",
+        "first_seen": "2022-08-22 09:29:30",
+        "last_seen": "2022-08-23 08:56:29",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.yiyuan163.com",
+        "count": "1",
+        "first_seen": "2022-08-23 07:09:50",
+        "last_seen": "2022-08-23 07:09:50",
+        "ip_address": "2a06:98c1:3120::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.yiyuan163.com",
+        "count": "1",
+        "first_seen": "2022-08-23 07:09:50",
+        "last_seen": "2022-08-23 07:09:50",
+        "ip_address": "2a06:98c1:3121::c",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.magicform-courbevoie.com",
+        "count": "400",
+        "first_seen": "2022-11-29 19:42:41",
+        "last_seen": "2023-01-02 22:33:11",
+        "ip_address": "104.21.78.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.magicform-courbevoie.com",
+        "count": "400",
+        "first_seen": "2022-11-29 19:42:41",
+        "last_seen": "2023-01-02 22:33:11",
+        "ip_address": "172.67.223.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.magicform-courbevoie.com",
+        "count": "31",
+        "first_seen": "2023-01-02 10:59:59",
+        "last_seen": "2023-01-27 18:21:58",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.magicform-courbevoie.com",
+        "count": "23",
+        "first_seen": "2022-11-30 13:08:53",
+        "last_seen": "2023-01-02 22:38:19",
+        "ip_address": "2606:4700:3032::6815:4ea4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.magicform-courbevoie.com",
+        "count": "23",
+        "first_seen": "2022-11-30 13:08:53",
+        "last_seen": "2023-01-02 22:38:19",
+        "ip_address": "2606:4700:3033::ac43:dfc3",
+        "type": "IPv6"
+    }
+]

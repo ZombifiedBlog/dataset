@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "subscriber.namcon.xyz",
+        "count": "306",
+        "first_seen": "2021-11-24 19:22:41",
+        "last_seen": "2021-12-13 14:00:56",
+        "ip_address": "104.21.67.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.namcon.xyz",
+        "count": "306",
+        "first_seen": "2021-11-24 19:22:41",
+        "last_seen": "2021-12-13 14:00:56",
+        "ip_address": "172.67.179.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.namcon.xyz",
+        "count": "148",
+        "first_seen": "2021-11-25 11:53:27",
+        "last_seen": "2021-12-13 13:18:36",
+        "ip_address": "2606:4700:3035::ac43:b377",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.namcon.xyz",
+        "count": "148",
+        "first_seen": "2021-11-25 11:53:27",
+        "last_seen": "2021-12-13 13:18:36",
+        "ip_address": "2606:4700:3037::6815:43b7",
+        "type": "IPv6"
+    }
+]

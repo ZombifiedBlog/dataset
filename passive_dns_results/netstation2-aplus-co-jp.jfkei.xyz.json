@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "netstation2-aplus-co-jp.jfkei.xyz",
+        "count": "16",
+        "first_seen": "2022-02-26 15:01:29",
+        "last_seen": "2022-02-27 01:46:14",
+        "ip_address": "104.21.66.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.jfkei.xyz",
+        "count": "16",
+        "first_seen": "2022-02-26 15:01:29",
+        "last_seen": "2022-02-27 01:46:14",
+        "ip_address": "172.67.159.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.jfkei.xyz",
+        "count": "1",
+        "first_seen": "2022-02-26 17:24:01",
+        "last_seen": "2022-02-26 17:24:01",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.jfkei.xyz",
+        "count": "1",
+        "first_seen": "2022-02-26 17:24:01",
+        "last_seen": "2022-02-26 17:24:01",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.jfkei.xyz",
+        "count": "2",
+        "first_seen": "2022-02-26 16:01:15",
+        "last_seen": "2022-02-26 18:25:04",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.jfkei.xyz",
+        "count": "2",
+        "first_seen": "2022-02-26 16:01:15",
+        "last_seen": "2022-02-26 18:25:04",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.jfkei.xyz",
+        "count": "33",
+        "first_seen": "2022-02-26 14:22:37",
+        "last_seen": "2022-02-26 19:27:42",
+        "ip_address": "188.114.96.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.jfkei.xyz",
+        "count": "33",
+        "first_seen": "2022-02-26 14:22:37",
+        "last_seen": "2022-02-26 19:27:42",
+        "ip_address": "188.114.97.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.jfkei.xyz",
+        "count": "1",
+        "first_seen": "2022-02-26 14:22:38",
+        "last_seen": "2022-02-26 14:22:38",
+        "ip_address": "2a06:98c1:3120::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.jfkei.xyz",
+        "count": "1",
+        "first_seen": "2022-02-26 14:22:38",
+        "last_seen": "2022-02-26 14:22:38",
+        "ip_address": "2a06:98c1:3121::16",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "digitaal.hema.nl",
+        "count": "1583",
+        "first_seen": "2014-05-21 15:36:37",
+        "last_seen": "2018-01-23 07:39:32",
+        "ip_address": "23.97.139.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "digitaal.hema.nl",
+        "count": "509",
+        "first_seen": "2018-01-23 16:18:22",
+        "last_seen": "2020-03-13 05:49:49",
+        "ip_address": "52.232.127.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "digitaal.hema.nl",
+        "count": "2",
+        "first_seen": "2020-06-04 02:16:34",
+        "last_seen": "2020-06-04 02:16:34",
+        "ip_address": "94.199.146.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "digitaal.hema.nl",
+        "count": "22",
+        "first_seen": "2020-06-29 05:00:24",
+        "last_seen": "2020-12-07 21:05:31",
+        "ip_address": "217.114.105.26",
+        "type": "IPv4"
+    }
+]

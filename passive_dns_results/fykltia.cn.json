@@ -1,0 +1,386 @@
+[
+    {
+        "domain": "fykltia.cn",
+        "count": "1049",
+        "first_seen": "2022-12-22 13:24:00",
+        "last_seen": "2023-01-03 09:35:48",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "3681",
+        "first_seen": "2022-11-12 13:45:49",
+        "last_seen": "2022-12-04 09:32:41",
+        "ip_address": "104.21.40.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "3681",
+        "first_seen": "2022-11-12 13:45:49",
+        "last_seen": "2022-12-04 09:32:41",
+        "ip_address": "172.67.172.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "317",
+        "first_seen": "2022-07-08 13:30:18",
+        "last_seen": "2022-07-09 04:50:29",
+        "ip_address": "106.75.25.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "393",
+        "first_seen": "2022-07-10 05:04:52",
+        "last_seen": "2022-07-10 22:01:58",
+        "ip_address": "106.75.37.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "93",
+        "first_seen": "2022-06-25 13:37:16",
+        "last_seen": "2022-06-26 12:05:10",
+        "ip_address": "106.75.77.127",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "416",
+        "first_seen": "2022-07-12 13:26:13",
+        "last_seen": "2022-07-13 01:55:08",
+        "ip_address": "106.75.80.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "390",
+        "first_seen": "2022-07-11 11:25:58",
+        "last_seen": "2022-07-12 02:28:46",
+        "ip_address": "106.75.80.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "97",
+        "first_seen": "2022-07-05 09:42:43",
+        "last_seen": "2022-07-06 07:14:50",
+        "ip_address": "106.75.92.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "87",
+        "first_seen": "2022-07-06 09:35:29",
+        "last_seen": "2022-07-06 22:16:51",
+        "ip_address": "106.75.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "119",
+        "first_seen": "2022-07-04 08:42:41",
+        "last_seen": "2022-07-05 05:52:18",
+        "ip_address": "106.75.100.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "402",
+        "first_seen": "2022-07-13 02:18:17",
+        "last_seen": "2022-07-14 08:40:40",
+        "ip_address": "106.75.101.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "65",
+        "first_seen": "2022-07-07 12:28:32",
+        "last_seen": "2022-07-08 09:59:27",
+        "ip_address": "106.75.108.143",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "164",
+        "first_seen": "2022-10-14 18:10:07",
+        "last_seen": "2022-10-16 04:56:21",
+        "ip_address": "106.75.216.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "193",
+        "first_seen": "2022-10-17 13:59:10",
+        "last_seen": "2022-11-04 09:02:47",
+        "ip_address": "106.75.252.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "268",
+        "first_seen": "2022-08-17 19:10:47",
+        "last_seen": "2022-08-18 15:26:16",
+        "ip_address": "117.50.176.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "595",
+        "first_seen": "2022-09-18 18:43:47",
+        "last_seen": "2022-09-20 04:59:03",
+        "ip_address": "117.50.177.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "518",
+        "first_seen": "2022-09-26 18:09:48",
+        "last_seen": "2022-10-13 16:10:38",
+        "ip_address": "117.50.183.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "7",
+        "first_seen": "2022-08-26 07:03:48",
+        "last_seen": "2022-08-26 09:29:44",
+        "ip_address": "117.50.183.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "120",
+        "first_seen": "2022-09-20 12:56:55",
+        "last_seen": "2022-09-21 03:44:54",
+        "ip_address": "117.50.186.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "212",
+        "first_seen": "2022-08-24 13:24:28",
+        "last_seen": "2022-08-25 04:55:25",
+        "ip_address": "117.50.186.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "129",
+        "first_seen": "2022-09-23 18:57:04",
+        "last_seen": "2022-09-26 04:52:43",
+        "ip_address": "117.50.187.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "53",
+        "first_seen": "2022-08-28 11:35:34",
+        "last_seen": "2022-08-29 03:25:21",
+        "ip_address": "117.50.187.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "186",
+        "first_seen": "2022-07-16 12:06:37",
+        "last_seen": "2022-07-17 08:07:42",
+        "ip_address": "117.50.187.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "413",
+        "first_seen": "2022-07-15 10:41:53",
+        "last_seen": "2022-07-16 09:50:05",
+        "ip_address": "117.50.187.156",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "127",
+        "first_seen": "2022-07-21 17:00:11",
+        "last_seen": "2022-07-23 01:04:37",
+        "ip_address": "117.50.187.184",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "145",
+        "first_seen": "2022-09-11 10:51:07",
+        "last_seen": "2022-09-12 10:02:53",
+        "ip_address": "117.50.187.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "490",
+        "first_seen": "2022-07-18 17:46:17",
+        "last_seen": "2022-07-19 13:55:59",
+        "ip_address": "117.50.187.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "145",
+        "first_seen": "2022-07-25 12:50:24",
+        "last_seen": "2022-07-27 03:30:09",
+        "ip_address": "117.50.188.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "586",
+        "first_seen": "2022-07-17 10:53:53",
+        "last_seen": "2022-07-18 09:57:25",
+        "ip_address": "117.50.188.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "146",
+        "first_seen": "2022-07-27 11:05:24",
+        "last_seen": "2022-07-27 22:00:19",
+        "ip_address": "117.50.188.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "269",
+        "first_seen": "2022-07-20 06:36:34",
+        "last_seen": "2022-07-21 09:04:50",
+        "ip_address": "117.50.188.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "70",
+        "first_seen": "2022-07-23 09:10:44",
+        "last_seen": "2022-07-24 07:06:20",
+        "ip_address": "117.50.188.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "169",
+        "first_seen": "2022-07-30 01:48:35",
+        "last_seen": "2022-08-02 10:02:47",
+        "ip_address": "117.50.188.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "103",
+        "first_seen": "2022-07-24 07:35:40",
+        "last_seen": "2022-07-24 19:27:55",
+        "ip_address": "117.50.188.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "556",
+        "first_seen": "2022-08-12 12:32:27",
+        "last_seen": "2022-08-23 08:58:19",
+        "ip_address": "117.50.188.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "22",
+        "first_seen": "2022-09-13 06:07:04",
+        "last_seen": "2022-09-13 10:53:55",
+        "ip_address": "117.50.188.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "160",
+        "first_seen": "2022-08-14 13:11:36",
+        "last_seen": "2022-08-16 04:11:57",
+        "ip_address": "117.50.189.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "375",
+        "first_seen": "2022-08-03 09:30:17",
+        "last_seen": "2022-08-06 08:23:48",
+        "ip_address": "117.50.189.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "211",
+        "first_seen": "2022-08-16 19:19:36",
+        "last_seen": "2022-08-17 07:53:44",
+        "ip_address": "117.50.189.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "228",
+        "first_seen": "2022-08-07 17:22:01",
+        "last_seen": "2022-08-09 15:03:25",
+        "ip_address": "117.50.189.156",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "255",
+        "first_seen": "2022-08-23 10:54:04",
+        "last_seen": "2022-08-24 13:14:13",
+        "ip_address": "117.50.189.184",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "380",
+        "first_seen": "2022-09-15 16:51:10",
+        "last_seen": "2022-09-18 06:40:05",
+        "ip_address": "117.50.189.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "140",
+        "first_seen": "2022-09-14 04:39:15",
+        "last_seen": "2022-09-14 21:56:17",
+        "ip_address": "117.50.189.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "541",
+        "first_seen": "2022-08-09 19:33:44",
+        "last_seen": "2022-08-11 22:40:55",
+        "ip_address": "117.50.189.252",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "138",
+        "first_seen": "2022-07-14 14:30:04",
+        "last_seen": "2022-07-15 07:47:00",
+        "ip_address": "176.124.192.158",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "393",
+        "first_seen": "2022-11-12 13:45:57",
+        "last_seen": "2022-12-04 09:41:22",
+        "ip_address": "2606:4700:3034::ac43:acd9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "fykltia.cn",
+        "count": "393",
+        "first_seen": "2022-11-12 13:45:57",
+        "last_seen": "2022-12-04 09:41:22",
+        "ip_address": "2606:4700:3037::6815:2804",
+        "type": "IPv6"
+    }
+]

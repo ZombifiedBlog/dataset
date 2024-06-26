@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "www.learnngly.com",
+        "count": "19",
+        "first_seen": "2021-08-25 06:11:11",
+        "last_seen": "2022-01-18 21:35:37",
+        "ip_address": "45.128.31.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.learnngly.com",
+        "count": "743",
+        "first_seen": "2020-07-10 07:55:29",
+        "last_seen": "2020-07-14 04:56:03",
+        "ip_address": "104.31.68.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.learnngly.com",
+        "count": "743",
+        "first_seen": "2020-07-10 07:55:29",
+        "last_seen": "2020-07-14 04:56:03",
+        "ip_address": "104.31.69.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.learnngly.com",
+        "count": "743",
+        "first_seen": "2020-07-10 07:55:29",
+        "last_seen": "2020-07-14 04:56:03",
+        "ip_address": "172.67.218.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.learnngly.com",
+        "count": "47",
+        "first_seen": "2020-07-10 12:57:55",
+        "last_seen": "2020-07-10 13:27:20",
+        "ip_address": "172.64.198.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.learnngly.com",
+        "count": "47",
+        "first_seen": "2020-07-10 12:57:55",
+        "last_seen": "2020-07-10 13:27:20",
+        "ip_address": "172.64.199.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.learnngly.com",
+        "count": "4",
+        "first_seen": "2022-05-12 05:01:08",
+        "last_seen": "2022-06-06 20:29:55",
+        "ip_address": "206.119.11.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.learnngly.com",
+        "count": "21",
+        "first_seen": "2020-07-10 13:00:04",
+        "last_seen": "2020-07-10 13:25:53",
+        "ip_address": "2606:4700:e6::ac40:c611",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.learnngly.com",
+        "count": "21",
+        "first_seen": "2020-07-10 13:00:04",
+        "last_seen": "2020-07-10 13:25:53",
+        "ip_address": "2606:4700:e6::ac40:c711",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.learnngly.com",
+        "count": "328",
+        "first_seen": "2020-07-10 07:55:30",
+        "last_seen": "2020-07-14 04:56:03",
+        "ip_address": "2606:4700:3030::681f:4418",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.learnngly.com",
+        "count": "328",
+        "first_seen": "2020-07-10 07:55:30",
+        "last_seen": "2020-07-14 04:56:03",
+        "ip_address": "2606:4700:3033::681f:4518",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.learnngly.com",
+        "count": "328",
+        "first_seen": "2020-07-10 07:55:30",
+        "last_seen": "2020-07-14 04:56:03",
+        "ip_address": "2606:4700:3033::ac43:da19",
+        "type": "IPv6"
+    }
+]

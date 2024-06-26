@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.cerium-mc.com",
+        "count": "1441",
+        "first_seen": "2020-02-17 09:08:18",
+        "last_seen": "2020-04-27 09:38:29",
+        "ip_address": "104.18.46.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cerium-mc.com",
+        "count": "1441",
+        "first_seen": "2020-02-17 09:08:18",
+        "last_seen": "2020-04-27 09:38:29",
+        "ip_address": "104.18.47.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cerium-mc.com",
+        "count": "5",
+        "first_seen": "2020-06-19 19:03:13",
+        "last_seen": "2020-06-22 17:37:27",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cerium-mc.com",
+        "count": "5",
+        "first_seen": "2020-06-19 19:03:13",
+        "last_seen": "2020-06-22 17:37:27",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cerium-mc.com",
+        "count": "5",
+        "first_seen": "2020-06-19 19:03:13",
+        "last_seen": "2020-06-22 17:37:27",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cerium-mc.com",
+        "count": "5",
+        "first_seen": "2020-06-19 19:03:13",
+        "last_seen": "2020-06-22 17:37:27",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cerium-mc.com",
+        "count": "533",
+        "first_seen": "2020-02-17 09:08:22",
+        "last_seen": "2020-04-27 09:38:29",
+        "ip_address": "2606:4700:3034::6812:2e30",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.cerium-mc.com",
+        "count": "533",
+        "first_seen": "2020-02-17 09:08:22",
+        "last_seen": "2020-04-27 09:38:29",
+        "ip_address": "2606:4700:3036::6812:2f30",
+        "type": "IPv6"
+    }
+]

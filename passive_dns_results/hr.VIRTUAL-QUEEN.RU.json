@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "hr.VIRTUAL-QUEEN.RU",
+        "count": "4",
+        "first_seen": "2020-06-07 09:48:52",
+        "last_seen": "2020-08-11 23:25:36",
+        "ip_address": "89.111.167.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hr.VIRTUAL-QUEEN.RU",
+        "count": "2",
+        "first_seen": "2019-12-04 15:36:26",
+        "last_seen": "2019-12-04 15:36:26",
+        "ip_address": "2a00:1768:2001:63::46:109",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hr.VIRTUAL-QUEEN.RU",
+        "count": "2",
+        "first_seen": "2019-12-04 15:36:26",
+        "last_seen": "2019-12-04 15:36:26",
+        "ip_address": "2a0b:1640:1:1:1:1:ed9:e667",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "nataster.com",
+        "count": "7",
+        "first_seen": "2022-10-09 16:24:28",
+        "last_seen": "2022-11-18 17:14:21",
+        "ip_address": "23.247.11.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nataster.com",
+        "count": "17",
+        "first_seen": "2022-12-28 09:48:19",
+        "last_seen": "2023-01-03 14:31:53",
+        "ip_address": "45.72.127.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nataster.com",
+        "count": "2",
+        "first_seen": "2023-07-07 05:23:50",
+        "last_seen": "2023-07-07 05:23:50",
+        "ip_address": "45.79.244.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nataster.com",
+        "count": "1",
+        "first_seen": "2022-07-17 02:10:38",
+        "last_seen": "2022-07-17 02:10:38",
+        "ip_address": "107.179.98.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nataster.com",
+        "count": "418",
+        "first_seen": "2023-01-09 18:33:21",
+        "last_seen": "2023-07-03 23:06:21",
+        "ip_address": "170.178.202.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nataster.com",
+        "count": "2",
+        "first_seen": "2023-08-15 18:46:17",
+        "last_seen": "2023-08-15 18:46:17",
+        "ip_address": "172.232.30.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nataster.com",
+        "count": "13",
+        "first_seen": "2022-08-05 07:09:51",
+        "last_seen": "2022-09-19 00:16:46",
+        "ip_address": "194.87.189.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nataster.com",
+        "count": "7",
+        "first_seen": "2022-07-22 10:35:04",
+        "last_seen": "2022-07-27 20:00:23",
+        "ip_address": "198.54.117.244",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nataster.com",
+        "count": "260",
+        "first_seen": "2022-09-23 05:09:38",
+        "last_seen": "2022-10-05 22:25:28",
+        "ip_address": "204.152.200.117",
+        "type": "IPv4"
+    }
+]

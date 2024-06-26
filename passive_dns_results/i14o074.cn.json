@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "i14o074.cn",
+        "count": "72",
+        "first_seen": "2023-03-28 08:49:48",
+        "last_seen": "2023-12-29 06:41:50",
+        "ip_address": "38.40.152.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "i14o074.cn",
+        "count": "57",
+        "first_seen": "2022-04-12 16:16:35",
+        "last_seen": "2022-05-03 22:23:42",
+        "ip_address": "104.21.50.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "i14o074.cn",
+        "count": "57",
+        "first_seen": "2022-04-12 16:16:35",
+        "last_seen": "2022-05-03 22:23:42",
+        "ip_address": "172.67.201.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "i14o074.cn",
+        "count": "2",
+        "first_seen": "2022-04-12 03:32:09",
+        "last_seen": "2022-04-12 03:34:35",
+        "ip_address": "155.94.133.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "i14o074.cn",
+        "count": "3",
+        "first_seen": "2021-12-16 21:42:53",
+        "last_seen": "2021-12-22 20:02:19",
+        "ip_address": "160.124.2.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "i14o074.cn",
+        "count": "33",
+        "first_seen": "2022-04-12 03:45:10",
+        "last_seen": "2022-04-27 03:15:09",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "i14o074.cn",
+        "count": "33",
+        "first_seen": "2022-04-12 03:45:10",
+        "last_seen": "2022-04-27 03:15:09",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "i14o074.cn",
+        "count": "28",
+        "first_seen": "2022-04-12 03:45:10",
+        "last_seen": "2022-05-03 09:10:36",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "i14o074.cn",
+        "count": "28",
+        "first_seen": "2022-04-12 03:45:10",
+        "last_seen": "2022-05-03 09:10:36",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "i14o074.cn",
+        "count": "13",
+        "first_seen": "2022-05-08 09:35:19",
+        "last_seen": "2022-07-06 18:20:11",
+        "ip_address": "202.61.142.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "i14o074.cn",
+        "count": "1",
+        "first_seen": "2022-04-19 07:25:13",
+        "last_seen": "2022-04-19 07:25:13",
+        "ip_address": "2606:4700:3034::6815:3235",
+        "type": "IPv6"
+    },
+    {
+        "domain": "i14o074.cn",
+        "count": "1",
+        "first_seen": "2022-04-19 07:25:13",
+        "last_seen": "2022-04-19 07:25:13",
+        "ip_address": "2606:4700:3034::ac43:c957",
+        "type": "IPv6"
+    }
+]

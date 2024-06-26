@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "stop-spoofing.278y0.cn",
+        "count": "25",
+        "first_seen": "2020-10-10 11:42:30",
+        "last_seen": "2020-11-14 18:59:09",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "stop-spoofing.278y0.cn",
+        "count": "323",
+        "first_seen": "2020-09-27 18:40:26",
+        "last_seen": "2020-10-05 06:16:39",
+        "ip_address": "182.16.10.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "stop-spoofing.278y0.cn",
+        "count": "17",
+        "first_seen": "2020-10-05 12:23:24",
+        "last_seen": "2020-10-07 19:08:18",
+        "ip_address": "182.16.10.115",
+        "type": "IPv4"
+    }
+]

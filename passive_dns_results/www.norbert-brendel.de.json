@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.norbert-brendel.de",
+        "count": "458",
+        "first_seen": "2012-02-26 13:12:24",
+        "last_seen": "2016-04-05 11:26:52",
+        "ip_address": "82.165.74.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.norbert-brendel.de",
+        "count": "237",
+        "first_seen": "2018-12-07 03:04:38",
+        "last_seen": "2024-01-17 04:17:32",
+        "ip_address": "217.160.0.108",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.norbert-brendel.de",
+        "count": "88",
+        "first_seen": "2016-04-28 06:43:03",
+        "last_seen": "2018-11-29 06:02:20",
+        "ip_address": "217.160.231.102",
+        "type": "IPv4"
+    }
+]

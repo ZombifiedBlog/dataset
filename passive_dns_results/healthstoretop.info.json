@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "healthstoretop.info",
+        "count": "5",
+        "first_seen": "2020-02-20 15:41:09",
+        "last_seen": "2020-02-22 08:30:11",
+        "ip_address": "8.209.75.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "healthstoretop.info",
+        "count": "7833",
+        "first_seen": "2020-01-09 21:16:04",
+        "last_seen": "2020-01-11 10:11:16",
+        "ip_address": "47.56.228.232",
+        "type": "IPv4"
+    },
+    {
+        "domain": "healthstoretop.info",
+        "count": "10076",
+        "first_seen": "2020-01-12 20:50:02",
+        "last_seen": "2020-01-16 10:14:17",
+        "ip_address": "47.56.235.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "healthstoretop.info",
+        "count": "36",
+        "first_seen": "2020-02-14 20:51:51",
+        "last_seen": "2020-02-20 07:32:23",
+        "ip_address": "47.89.178.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "healthstoretop.info",
+        "count": "216",
+        "first_seen": "2020-01-16 12:45:28",
+        "last_seen": "2020-01-29 06:00:08",
+        "ip_address": "47.254.178.42",
+        "type": "IPv4"
+    },
+    {
+        "domain": "healthstoretop.info",
+        "count": "2",
+        "first_seen": "2020-01-16 10:31:06",
+        "last_seen": "2020-01-16 10:31:06",
+        "ip_address": "161.117.176.166",
+        "type": "IPv4"
+    },
+    {
+        "domain": "healthstoretop.info",
+        "count": "111",
+        "first_seen": "2020-01-30 00:11:29",
+        "last_seen": "2020-02-14 05:30:11",
+        "ip_address": "161.117.178.167",
+        "type": "IPv4"
+    },
+    {
+        "domain": "healthstoretop.info",
+        "count": "7870",
+        "first_seen": "2020-01-11 10:11:45",
+        "last_seen": "2020-01-12 20:48:51",
+        "ip_address": "161.117.234.221",
+        "type": "IPv4"
+    }
+]

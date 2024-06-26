@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "tscubi.segmal.com",
+        "count": "4",
+        "first_seen": "2021-11-12 16:40:16",
+        "last_seen": "2021-11-27 06:06:52",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tscubi.segmal.com",
+        "count": "8",
+        "first_seen": "2023-08-22 15:09:33",
+        "last_seen": "2023-09-18 10:20:50",
+        "ip_address": "91.195.240.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tscubi.segmal.com",
+        "count": "1170",
+        "first_seen": "2021-10-09 18:38:35",
+        "last_seen": "2021-11-12 01:56:15",
+        "ip_address": "180.215.129.40",
+        "type": "IPv4"
+    }
+]

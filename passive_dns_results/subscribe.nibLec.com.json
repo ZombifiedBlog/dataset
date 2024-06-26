@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "subscribe.nibLec.com",
+        "count": "1",
+        "first_seen": "2023-07-02 02:28:00",
+        "last_seen": "2023-07-02 02:28:00",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribe.nibLec.com",
+        "count": "3001",
+        "first_seen": "2020-08-07 08:43:30",
+        "last_seen": "2020-09-30 21:36:34",
+        "ip_address": "104.31.64.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribe.nibLec.com",
+        "count": "3001",
+        "first_seen": "2020-08-07 08:43:30",
+        "last_seen": "2020-09-30 21:36:34",
+        "ip_address": "104.31.65.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribe.nibLec.com",
+        "count": "3001",
+        "first_seen": "2020-08-07 08:43:30",
+        "last_seen": "2020-09-30 21:36:34",
+        "ip_address": "172.67.174.169",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribe.nibLec.com",
+        "count": "1",
+        "first_seen": "2022-03-29 05:53:12",
+        "last_seen": "2022-03-29 05:53:12",
+        "ip_address": "104.253.214.232",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribe.nibLec.com",
+        "count": "995",
+        "first_seen": "2020-08-07 08:43:30",
+        "last_seen": "2020-09-30 21:36:34",
+        "ip_address": "2606:4700:3032::681f:40c1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribe.nibLec.com",
+        "count": "995",
+        "first_seen": "2020-08-07 08:43:30",
+        "last_seen": "2020-09-30 21:36:34",
+        "ip_address": "2606:4700:3034::ac43:aea9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribe.nibLec.com",
+        "count": "995",
+        "first_seen": "2020-08-07 08:43:30",
+        "last_seen": "2020-09-30 21:36:34",
+        "ip_address": "2606:4700:3036::681f:41c1",
+        "type": "IPv6"
+    }
+]

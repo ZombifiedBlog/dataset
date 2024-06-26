@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.bacanakyapi.com",
+        "count": "403",
+        "first_seen": "2022-11-30 04:33:12",
+        "last_seen": "2023-01-02 05:29:54",
+        "ip_address": "104.21.44.237",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.bacanakyapi.com",
+        "count": "403",
+        "first_seen": "2022-11-30 04:33:12",
+        "last_seen": "2023-01-02 05:29:54",
+        "ip_address": "172.67.205.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.bacanakyapi.com",
+        "count": "7",
+        "first_seen": "2023-01-04 12:53:33",
+        "last_seen": "2023-02-12 03:42:39",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.bacanakyapi.com",
+        "count": "17",
+        "first_seen": "2023-01-16 05:26:32",
+        "last_seen": "2023-01-16 06:34:37",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.bacanakyapi.com",
+        "count": "21",
+        "first_seen": "2022-12-18 13:11:54",
+        "last_seen": "2023-01-01 14:59:31",
+        "ip_address": "2606:4700:3032::6815:2ced",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.bacanakyapi.com",
+        "count": "21",
+        "first_seen": "2022-12-18 13:11:54",
+        "last_seen": "2023-01-01 14:59:31",
+        "ip_address": "2606:4700:3037::ac43:cd41",
+        "type": "IPv6"
+    }
+]

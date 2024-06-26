@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "bafybeigsxqjsa6tto3oompakns4un7cdr5zcqgxs4zrkok4y3gwcj4e4iu.ipfs.dweb.link",
+        "count": "2542",
+        "first_seen": "2023-03-20 07:39:57",
+        "last_seen": "2024-01-18 04:23:03",
+        "ip_address": "209.94.90.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bafybeigsxqjsa6tto3oompakns4un7cdr5zcqgxs4zrkok4y3gwcj4e4iu.ipfs.dweb.link",
+        "count": "11462",
+        "first_seen": "2023-03-18 00:37:16",
+        "last_seen": "2024-01-18 09:50:06",
+        "ip_address": "209.94.90.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bafybeigsxqjsa6tto3oompakns4un7cdr5zcqgxs4zrkok4y3gwcj4e4iu.ipfs.dweb.link",
+        "count": "7",
+        "first_seen": "2023-03-24 03:43:02",
+        "last_seen": "2024-01-18 04:23:03",
+        "ip_address": "2602:fea2:2::1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "bafybeigsxqjsa6tto3oompakns4un7cdr5zcqgxs4zrkok4y3gwcj4e4iu.ipfs.dweb.link",
+        "count": "63",
+        "first_seen": "2023-03-18 03:49:29",
+        "last_seen": "2024-01-18 04:23:03",
+        "ip_address": "2602:fea2:2::1",
+        "type": "IPv6"
+    }
+]

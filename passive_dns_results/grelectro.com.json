@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "grelectro.com",
+        "count": "11",
+        "first_seen": "2021-10-15 22:22:52",
+        "last_seen": "2021-10-29 08:14:42",
+        "ip_address": "3.33.152.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grelectro.com",
+        "count": "11",
+        "first_seen": "2021-10-15 22:22:52",
+        "last_seen": "2021-10-29 08:14:42",
+        "ip_address": "15.197.142.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grelectro.com",
+        "count": "507",
+        "first_seen": "2022-09-15 14:02:36",
+        "last_seen": "2023-04-18 08:58:58",
+        "ip_address": "13.248.161.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grelectro.com",
+        "count": "507",
+        "first_seen": "2022-09-15 14:02:36",
+        "last_seen": "2023-04-18 08:58:58",
+        "ip_address": "76.223.33.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grelectro.com",
+        "count": "3",
+        "first_seen": "2022-08-19 02:10:17",
+        "last_seen": "2022-08-20 06:36:15",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grelectro.com",
+        "count": "36",
+        "first_seen": "2021-08-28 05:38:45",
+        "last_seen": "2021-10-15 10:43:10",
+        "ip_address": "184.168.131.241",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grelectro.com",
+        "count": "14",
+        "first_seen": "2016-08-13 18:58:47",
+        "last_seen": "2016-08-16 20:32:17",
+        "ip_address": "184.168.221.41",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grelectro.com",
+        "count": "1699",
+        "first_seen": "2016-08-21 13:09:42",
+        "last_seen": "2021-08-24 11:35:15",
+        "ip_address": "190.210.180.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grelectro.com",
+        "count": "401",
+        "first_seen": "2021-10-30 08:36:29",
+        "last_seen": "2022-09-15 11:10:45",
+        "ip_address": "199.231.166.26",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "domain": "www.amazoonu.xyz",
+        "count": "4",
+        "first_seen": "2023-08-22 03:39:04",
+        "last_seen": "2023-12-20 02:19:40",
+        "ip_address": "23.82.12.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazoonu.xyz",
+        "count": "6",
+        "first_seen": "2023-08-07 07:37:21",
+        "last_seen": "2024-01-12 05:57:05",
+        "ip_address": "23.82.12.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazoonu.xyz",
+        "count": "8",
+        "first_seen": "2023-08-26 20:21:00",
+        "last_seen": "2023-12-29 01:48:39",
+        "ip_address": "23.82.12.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazoonu.xyz",
+        "count": "4",
+        "first_seen": "2023-09-14 04:18:24",
+        "last_seen": "2023-12-17 08:23:57",
+        "ip_address": "23.82.12.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazoonu.xyz",
+        "count": "8",
+        "first_seen": "2023-08-22 03:39:01",
+        "last_seen": "2023-12-31 01:09:23",
+        "ip_address": "81.171.28.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazoonu.xyz",
+        "count": "3",
+        "first_seen": "2023-08-31 12:56:12",
+        "last_seen": "2024-01-12 05:57:11",
+        "ip_address": "81.171.28.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazoonu.xyz",
+        "count": "8",
+        "first_seen": "2023-06-17 07:09:41",
+        "last_seen": "2023-10-22 06:09:02",
+        "ip_address": "81.171.28.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazoonu.xyz",
+        "count": "31",
+        "first_seen": "2022-03-14 21:32:10",
+        "last_seen": "2022-03-28 01:32:12",
+        "ip_address": "104.21.39.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazoonu.xyz",
+        "count": "31",
+        "first_seen": "2022-03-14 21:32:10",
+        "last_seen": "2022-03-28 01:32:12",
+        "ip_address": "172.67.149.95",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazoonu.xyz",
+        "count": "47",
+        "first_seen": "2020-10-11 20:57:34",
+        "last_seen": "2020-10-12 01:10:37",
+        "ip_address": "160.153.252.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazoonu.xyz",
+        "count": "5",
+        "first_seen": "2022-03-17 11:15:21",
+        "last_seen": "2022-03-17 12:07:51",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazoonu.xyz",
+        "count": "5",
+        "first_seen": "2022-03-17 11:15:21",
+        "last_seen": "2022-03-17 12:07:51",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazoonu.xyz",
+        "count": "1",
+        "first_seen": "2022-03-17 12:07:51",
+        "last_seen": "2022-03-17 12:07:51",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazoonu.xyz",
+        "count": "1",
+        "first_seen": "2022-03-17 12:07:51",
+        "last_seen": "2022-03-17 12:07:51",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazoonu.xyz",
+        "count": "25",
+        "first_seen": "2022-03-14 21:32:10",
+        "last_seen": "2022-03-28 01:32:12",
+        "ip_address": "2606:4700:3033::ac43:955f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.amazoonu.xyz",
+        "count": "25",
+        "first_seen": "2022-03-14 21:32:10",
+        "last_seen": "2022-03-28 01:32:12",
+        "ip_address": "2606:4700:3037::6815:27df",
+        "type": "IPv6"
+    }
+]

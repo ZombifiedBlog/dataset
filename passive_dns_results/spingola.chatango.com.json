@@ -1,0 +1,426 @@
+[
+    {
+        "domain": "spingola.chatango.com",
+        "count": "1206",
+        "first_seen": "2014-03-01 20:03:14",
+        "last_seen": "2014-09-03 01:14:20",
+        "ip_address": "38.102.140.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "1206",
+        "first_seen": "2014-03-01 20:03:14",
+        "last_seen": "2014-09-03 01:14:20",
+        "ip_address": "38.102.140.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "1206",
+        "first_seen": "2014-03-01 20:03:14",
+        "last_seen": "2014-09-03 01:14:20",
+        "ip_address": "38.102.140.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "13",
+        "first_seen": "2014-08-02 01:04:44",
+        "last_seen": "2014-08-02 13:04:23",
+        "ip_address": "38.102.140.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "13",
+        "first_seen": "2014-08-02 01:04:44",
+        "last_seen": "2014-08-02 13:04:23",
+        "ip_address": "38.102.140.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "385",
+        "first_seen": "2014-11-29 01:53:28",
+        "last_seen": "2014-12-26 20:22:28",
+        "ip_address": "38.102.140.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "385",
+        "first_seen": "2014-11-29 01:53:28",
+        "last_seen": "2014-12-26 20:22:28",
+        "ip_address": "38.102.140.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "385",
+        "first_seen": "2014-11-29 01:53:28",
+        "last_seen": "2014-12-26 20:22:28",
+        "ip_address": "38.102.140.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "2",
+        "first_seen": "2014-12-26 21:25:55",
+        "last_seen": "2014-12-26 21:25:55",
+        "ip_address": "38.102.140.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "2",
+        "first_seen": "2014-12-26 21:25:55",
+        "last_seen": "2014-12-26 21:25:55",
+        "ip_address": "38.102.140.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "2",
+        "first_seen": "2014-12-26 21:25:55",
+        "last_seen": "2014-12-26 21:25:55",
+        "ip_address": "208.93.230.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "40",
+        "first_seen": "2014-12-16 09:46:52",
+        "last_seen": "2014-12-17 23:48:06",
+        "ip_address": "38.102.140.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "40",
+        "first_seen": "2014-12-16 09:46:52",
+        "last_seen": "2014-12-17 23:48:06",
+        "ip_address": "38.102.140.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "18606",
+        "first_seen": "2012-09-06 21:48:07",
+        "last_seen": "2014-02-15 00:19:23",
+        "ip_address": "64.127.108.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "18606",
+        "first_seen": "2012-09-06 21:48:07",
+        "last_seen": "2014-02-15 00:19:23",
+        "ip_address": "72.172.224.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "18606",
+        "first_seen": "2012-09-06 21:48:07",
+        "last_seen": "2014-02-15 00:19:23",
+        "ip_address": "72.172.232.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "15",
+        "first_seen": "2013-01-31 02:57:46",
+        "last_seen": "2013-10-02 19:42:37",
+        "ip_address": "64.127.108.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "15",
+        "first_seen": "2013-01-31 02:57:46",
+        "last_seen": "2013-10-02 19:42:37",
+        "ip_address": "72.172.232.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "286",
+        "first_seen": "2012-11-11 17:44:41",
+        "last_seen": "2014-02-15 00:50:41",
+        "ip_address": "72.172.224.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "286",
+        "first_seen": "2012-11-11 17:44:41",
+        "last_seen": "2014-02-15 00:50:41",
+        "ip_address": "72.172.232.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "2",
+        "first_seen": "2014-02-15 01:17:13",
+        "last_seen": "2014-02-15 01:27:36",
+        "ip_address": "72.172.224.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "2",
+        "first_seen": "2014-02-15 01:17:13",
+        "last_seen": "2014-02-15 01:27:36",
+        "ip_address": "72.172.232.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "2",
+        "first_seen": "2014-02-15 01:17:13",
+        "last_seen": "2014-02-15 01:27:36",
+        "ip_address": "208.93.229.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "1",
+        "first_seen": "2014-02-15 01:44:01",
+        "last_seen": "2014-02-15 01:44:01",
+        "ip_address": "72.172.232.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "1",
+        "first_seen": "2014-02-15 01:44:01",
+        "last_seen": "2014-02-15 01:44:01",
+        "ip_address": "208.93.229.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "3",
+        "first_seen": "2014-02-15 01:54:14",
+        "last_seen": "2014-02-15 02:30:07",
+        "ip_address": "72.172.232.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "3",
+        "first_seen": "2014-02-15 01:54:14",
+        "last_seen": "2014-02-15 02:30:07",
+        "ip_address": "208.93.229.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "3",
+        "first_seen": "2014-02-15 01:54:14",
+        "last_seen": "2014-02-15 02:30:07",
+        "ip_address": "208.93.229.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "62",
+        "first_seen": "2014-12-14 17:17:41",
+        "last_seen": "2014-12-16 08:22:40",
+        "ip_address": "199.7.76.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "62",
+        "first_seen": "2014-12-14 17:17:41",
+        "last_seen": "2014-12-16 08:22:40",
+        "ip_address": "199.7.76.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "3",
+        "first_seen": "2014-12-14 10:13:16",
+        "last_seen": "2014-12-14 14:05:16",
+        "ip_address": "199.16.81.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "3",
+        "first_seen": "2014-12-14 10:13:16",
+        "last_seen": "2014-12-14 14:05:16",
+        "ip_address": "199.16.81.231",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "5761",
+        "first_seen": "2014-02-15 03:36:05",
+        "last_seen": "2014-10-01 19:29:52",
+        "ip_address": "208.93.229.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "5761",
+        "first_seen": "2014-02-15 03:36:05",
+        "last_seen": "2014-10-01 19:29:52",
+        "ip_address": "208.93.229.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "5761",
+        "first_seen": "2014-02-15 03:36:05",
+        "last_seen": "2014-10-01 19:29:52",
+        "ip_address": "208.93.229.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "772",
+        "first_seen": "2014-10-01 17:44:32",
+        "last_seen": "2014-10-22 22:54:53",
+        "ip_address": "208.93.229.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "772",
+        "first_seen": "2014-10-01 17:44:32",
+        "last_seen": "2014-10-22 22:54:53",
+        "ip_address": "208.93.229.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "1470",
+        "first_seen": "2014-10-23 00:38:05",
+        "last_seen": "2014-12-13 03:48:38",
+        "ip_address": "208.93.229.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "1470",
+        "first_seen": "2014-10-23 00:38:05",
+        "last_seen": "2014-12-13 03:48:38",
+        "ip_address": "208.93.229.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "1470",
+        "first_seen": "2014-10-23 00:38:05",
+        "last_seen": "2014-12-13 03:48:38",
+        "ip_address": "208.93.229.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "7",
+        "first_seen": "2014-12-12 12:37:11",
+        "last_seen": "2014-12-12 16:20:55",
+        "ip_address": "208.93.229.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "7",
+        "first_seen": "2014-12-12 12:37:11",
+        "last_seen": "2014-12-12 16:20:55",
+        "ip_address": "208.93.229.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "23",
+        "first_seen": "2016-05-31 12:00:12",
+        "last_seen": "2016-06-02 03:01:28",
+        "ip_address": "208.93.230.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "23",
+        "first_seen": "2016-05-31 12:00:12",
+        "last_seen": "2016-06-02 03:01:28",
+        "ip_address": "208.93.230.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "23",
+        "first_seen": "2016-05-31 12:00:12",
+        "last_seen": "2016-06-02 03:01:28",
+        "ip_address": "208.93.230.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "23",
+        "first_seen": "2016-05-31 12:00:12",
+        "last_seen": "2016-06-02 03:01:28",
+        "ip_address": "208.93.230.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "40628",
+        "first_seen": "2014-12-26 23:50:49",
+        "last_seen": "2024-01-15 09:59:04",
+        "ip_address": "208.93.230.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "40628",
+        "first_seen": "2014-12-26 23:50:49",
+        "last_seen": "2024-01-15 09:59:04",
+        "ip_address": "208.93.230.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "40628",
+        "first_seen": "2014-12-26 23:50:49",
+        "last_seen": "2024-01-15 09:59:04",
+        "ip_address": "208.93.230.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "4",
+        "first_seen": "2014-12-26 22:50:04",
+        "last_seen": "2015-01-20 15:46:38",
+        "ip_address": "208.93.230.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "4",
+        "first_seen": "2014-12-26 22:50:04",
+        "last_seen": "2015-01-20 15:46:38",
+        "ip_address": "208.93.230.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "1",
+        "first_seen": "2019-07-15 02:59:09",
+        "last_seen": "2019-07-15 02:59:09",
+        "ip_address": "208.93.230.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spingola.chatango.com",
+        "count": "1",
+        "first_seen": "2019-07-15 02:59:09",
+        "last_seen": "2019-07-15 02:59:09",
+        "ip_address": "208.93.230.29",
+        "type": "IPv4"
+    }
+]

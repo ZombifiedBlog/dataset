@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "subscriber.thepiLLowtech.com",
+        "count": "1",
+        "first_seen": "2022-08-22 23:20:16",
+        "last_seen": "2022-08-22 23:20:16",
+        "ip_address": "69.16.231.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thepiLLowtech.com",
+        "count": "11",
+        "first_seen": "2022-08-22 23:20:16",
+        "last_seen": "2022-09-05 11:28:11",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thepiLLowtech.com",
+        "count": "1",
+        "first_seen": "2023-05-02 11:16:02",
+        "last_seen": "2023-05-02 11:16:02",
+        "ip_address": "81.171.22.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thepiLLowtech.com",
+        "count": "4",
+        "first_seen": "2023-12-19 22:26:22",
+        "last_seen": "2023-12-19 22:26:23",
+        "ip_address": "103.224.212.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thepiLLowtech.com",
+        "count": "29",
+        "first_seen": "2023-05-30 11:27:20",
+        "last_seen": "2023-09-26 22:28:00",
+        "ip_address": "103.224.212.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thepiLLowtech.com",
+        "count": "207",
+        "first_seen": "2022-08-20 11:47:01",
+        "last_seen": "2022-08-23 14:01:44",
+        "ip_address": "104.21.28.216",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thepiLLowtech.com",
+        "count": "207",
+        "first_seen": "2022-08-20 11:47:01",
+        "last_seen": "2022-08-23 14:01:44",
+        "ip_address": "172.67.147.159",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thepiLLowtech.com",
+        "count": "1",
+        "first_seen": "2023-05-02 11:15:44",
+        "last_seen": "2023-05-02 11:15:44",
+        "ip_address": "207.244.76.131",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thepiLLowtech.com",
+        "count": "2",
+        "first_seen": "2023-11-21 20:52:21",
+        "last_seen": "2023-11-21 20:52:21",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thepiLLowtech.com",
+        "count": "4",
+        "first_seen": "2022-08-21 12:31:13",
+        "last_seen": "2022-08-23 06:09:07",
+        "ip_address": "2606:4700:3032::ac43:939f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.thepiLLowtech.com",
+        "count": "4",
+        "first_seen": "2022-08-21 12:31:13",
+        "last_seen": "2022-08-23 06:09:07",
+        "ip_address": "2606:4700:3033::6815:1cd8",
+        "type": "IPv6"
+    }
+]

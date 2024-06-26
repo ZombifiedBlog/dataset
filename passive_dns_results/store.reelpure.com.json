@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "store.reelpure.com",
+        "count": "150",
+        "first_seen": "2015-10-15 19:30:45",
+        "last_seen": "2021-07-02 02:19:13",
+        "ip_address": "23.227.38.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "store.reelpure.com",
+        "count": "25231",
+        "first_seen": "2010-07-19 17:58:10",
+        "last_seen": "2014-10-08 00:52:35",
+        "ip_address": "67.212.142.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "store.reelpure.com",
+        "count": "82",
+        "first_seen": "2014-10-18 04:24:47",
+        "last_seen": "2015-04-13 13:34:53",
+        "ip_address": "173.240.54.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "store.reelpure.com",
+        "count": "8",
+        "first_seen": "2015-09-23 09:30:53",
+        "last_seen": "2021-10-01 12:15:26",
+        "ip_address": "208.91.197.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "store.reelpure.com",
+        "count": "14",
+        "first_seen": "2015-08-29 13:26:04",
+        "last_seen": "2021-09-21 07:50:02",
+        "ip_address": "208.91.197.44",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.zvwrb.com",
+        "count": "3312",
+        "first_seen": "2022-02-18 02:47:48",
+        "last_seen": "2023-02-02 00:30:10",
+        "ip_address": "104.21.46.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zvwrb.com",
+        "count": "3312",
+        "first_seen": "2022-02-18 02:47:48",
+        "last_seen": "2023-02-02 00:30:10",
+        "ip_address": "172.67.141.95",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zvwrb.com",
+        "count": "19",
+        "first_seen": "2022-03-12 09:04:57",
+        "last_seen": "2022-03-14 07:57:20",
+        "ip_address": "188.114.98.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zvwrb.com",
+        "count": "75",
+        "first_seen": "2022-02-18 04:28:20",
+        "last_seen": "2023-01-24 12:53:13",
+        "ip_address": "2606:4700:3033::ac43:8d5f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zvwrb.com",
+        "count": "75",
+        "first_seen": "2022-02-18 04:28:20",
+        "last_seen": "2023-01-24 12:53:13",
+        "ip_address": "2606:4700:3035::6815:2eb7",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "amazon-amazon.top",
+        "count": "53",
+        "first_seen": "2023-12-10 14:05:56",
+        "last_seen": "2024-01-17 06:55:53",
+        "ip_address": "35.186.223.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-amazon.top",
+        "count": "113",
+        "first_seen": "2020-09-19 20:18:56",
+        "last_seen": "2020-10-21 01:26:18",
+        "ip_address": "104.28.28.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-amazon.top",
+        "count": "113",
+        "first_seen": "2020-09-19 20:18:56",
+        "last_seen": "2020-10-21 01:26:18",
+        "ip_address": "104.28.29.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-amazon.top",
+        "count": "113",
+        "first_seen": "2020-09-19 20:18:56",
+        "last_seen": "2020-10-21 01:26:18",
+        "ip_address": "172.67.173.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-amazon.top",
+        "count": "11",
+        "first_seen": "2020-09-20 04:00:37",
+        "last_seen": "2020-10-03 10:09:23",
+        "ip_address": "2606:4700:3035::681c:1dc6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon-amazon.top",
+        "count": "11",
+        "first_seen": "2020-09-20 04:00:37",
+        "last_seen": "2020-10-03 10:09:23",
+        "ip_address": "2606:4700:3036::681c:1cc6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon-amazon.top",
+        "count": "11",
+        "first_seen": "2020-09-20 04:00:37",
+        "last_seen": "2020-10-03 10:09:23",
+        "ip_address": "2606:4700:3036::ac43:ad35",
+        "type": "IPv6"
+    }
+]

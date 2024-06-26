@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "shorensteincenter.org",
+        "count": "40581",
+        "first_seen": "2021-04-15 15:26:30",
+        "last_seen": "2024-01-18 07:14:45",
+        "ip_address": "23.185.0.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shorensteincenter.org",
+        "count": "81393",
+        "first_seen": "2014-07-18 03:02:59",
+        "last_seen": "2015-04-13 21:49:48",
+        "ip_address": "23.253.241.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shorensteincenter.org",
+        "count": "1936352",
+        "first_seen": "2015-04-13 21:57:35",
+        "last_seen": "2021-04-15 15:21:59",
+        "ip_address": "104.130.255.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shorensteincenter.org",
+        "count": "13",
+        "first_seen": "2018-11-13 15:00:30",
+        "last_seen": "2019-02-22 06:11:29",
+        "ip_address": "104.130.255.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shorensteincenter.org",
+        "count": "13",
+        "first_seen": "2018-11-13 15:00:30",
+        "last_seen": "2019-02-22 06:11:29",
+        "ip_address": "198.185.159.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shorensteincenter.org",
+        "count": "72561",
+        "first_seen": "2013-06-14 03:39:39",
+        "last_seen": "2014-07-18 02:16:48",
+        "ip_address": "166.78.19.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shorensteincenter.org",
+        "count": "16919",
+        "first_seen": "2011-08-16 19:07:08",
+        "last_seen": "2013-06-14 01:52:09",
+        "ip_address": "173.236.245.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shorensteincenter.org",
+        "count": "13",
+        "first_seen": "2010-10-22 21:54:19",
+        "last_seen": "2011-07-27 02:33:45",
+        "ip_address": "205.178.189.131",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shorensteincenter.org",
+        "count": "26661",
+        "first_seen": "2021-04-15 15:30:47",
+        "last_seen": "2024-01-18 06:05:36",
+        "ip_address": "2620:12a:8000::2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "shorensteincenter.org",
+        "count": "26661",
+        "first_seen": "2021-04-15 15:30:47",
+        "last_seen": "2024-01-18 06:05:36",
+        "ip_address": "2620:12a:8001::2",
+        "type": "IPv6"
+    }
+]

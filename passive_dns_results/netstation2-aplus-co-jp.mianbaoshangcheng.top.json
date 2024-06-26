@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "netstation2-aplus-co-jp.mianbaoshangcheng.top",
+        "count": "70",
+        "first_seen": "2021-12-20 13:25:28",
+        "last_seen": "2021-12-20 23:00:43",
+        "ip_address": "104.21.56.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.mianbaoshangcheng.top",
+        "count": "70",
+        "first_seen": "2021-12-20 13:25:28",
+        "last_seen": "2021-12-20 23:00:43",
+        "ip_address": "172.67.176.106",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.mianbaoshangcheng.top",
+        "count": "23",
+        "first_seen": "2021-12-20 13:25:29",
+        "last_seen": "2021-12-20 23:00:43",
+        "ip_address": "2606:4700:3034::ac43:b06a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.mianbaoshangcheng.top",
+        "count": "23",
+        "first_seen": "2021-12-20 13:25:29",
+        "last_seen": "2021-12-20 23:00:43",
+        "ip_address": "2606:4700:3037::6815:3824",
+        "type": "IPv6"
+    }
+]

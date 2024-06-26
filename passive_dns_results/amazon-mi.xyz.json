@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazon-mi.xyz",
+        "count": "128",
+        "first_seen": "2020-12-23 16:04:49",
+        "last_seen": "2020-12-25 12:11:15",
+        "ip_address": "96.43.92.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-mi.xyz",
+        "count": "4",
+        "first_seen": "2021-04-12 07:05:31",
+        "last_seen": "2021-04-12 13:31:08",
+        "ip_address": "172.86.125.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-mi.xyz",
+        "count": "6",
+        "first_seen": "2021-06-21 08:30:40",
+        "last_seen": "2021-06-23 00:24:41",
+        "ip_address": "211.253.128.64",
+        "type": "IPv4"
+    }
+]

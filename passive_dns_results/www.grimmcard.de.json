@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.grimmcard.de",
+        "count": "711",
+        "first_seen": "2013-06-06 11:56:12",
+        "last_seen": "2024-01-18 16:05:59",
+        "ip_address": "37.202.6.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.grimmcard.de",
+        "count": "57460",
+        "first_seen": "2014-07-07 16:22:39",
+        "last_seen": "2023-12-19 11:02:45",
+        "ip_address": "37.202.6.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.grimmcard.de",
+        "count": "212",
+        "first_seen": "2011-07-07 03:44:10",
+        "last_seen": "2013-06-03 12:44:27",
+        "ip_address": "82.165.155.166",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.grimmcard.de",
+        "count": "11",
+        "first_seen": "2010-09-27 21:48:45",
+        "last_seen": "2011-06-13 23:52:27",
+        "ip_address": "212.227.138.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.grimmcard.de",
+        "count": "180",
+        "first_seen": "2023-12-19 16:13:02",
+        "last_seen": "2024-01-18 16:04:41",
+        "ip_address": "2a03:2a00:1200:0:1::3722",
+        "type": "IPv6"
+    }
+]

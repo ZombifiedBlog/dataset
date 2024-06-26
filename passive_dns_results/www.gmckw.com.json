@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "www.gmckw.com",
+        "count": "1",
+        "first_seen": "2022-08-08 15:39:14",
+        "last_seen": "2022-08-08 15:39:14",
+        "ip_address": "69.176.89.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gmckw.com",
+        "count": "7",
+        "first_seen": "2022-05-20 20:30:18",
+        "last_seen": "2022-08-01 22:12:15",
+        "ip_address": "103.112.187.99",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gmckw.com",
+        "count": "1",
+        "first_seen": "2023-05-31 10:27:07",
+        "last_seen": "2023-05-31 10:27:07",
+        "ip_address": "103.224.212.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gmckw.com",
+        "count": "192",
+        "first_seen": "2018-04-12 16:14:25",
+        "last_seen": "2019-04-02 09:06:29",
+        "ip_address": "104.24.19.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gmckw.com",
+        "count": "429",
+        "first_seen": "2023-02-27 16:02:09",
+        "last_seen": "2023-04-01 03:41:16",
+        "ip_address": "155.94.184.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gmckw.com",
+        "count": "6",
+        "first_seen": "2022-09-29 03:47:40",
+        "last_seen": "2022-12-27 04:04:49",
+        "ip_address": "156.241.150.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gmckw.com",
+        "count": "7",
+        "first_seen": "2023-01-20 16:33:50",
+        "last_seen": "2023-02-24 03:24:16",
+        "ip_address": "202.79.174.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gmckw.com",
+        "count": "1",
+        "first_seen": "2020-02-11 15:54:05",
+        "last_seen": "2020-02-11 15:54:05",
+        "ip_address": "208.91.197.91",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gmckw.com",
+        "count": "1",
+        "first_seen": "2021-03-02 14:08:49",
+        "last_seen": "2021-03-02 14:08:49",
+        "ip_address": "209.99.40.222",
+        "type": "IPv4"
+    }
+]

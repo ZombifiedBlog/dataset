@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscribers.tcgcsk.asia",
+        "count": "2",
+        "first_seen": "2021-01-09 13:20:09",
+        "last_seen": "2021-01-09 13:20:11",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.tcgcsk.asia",
+        "count": "798",
+        "first_seen": "2020-10-13 05:02:02",
+        "last_seen": "2020-12-09 08:13:54",
+        "ip_address": "104.28.18.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.tcgcsk.asia",
+        "count": "798",
+        "first_seen": "2020-10-13 05:02:02",
+        "last_seen": "2020-12-09 08:13:54",
+        "ip_address": "104.28.19.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.tcgcsk.asia",
+        "count": "798",
+        "first_seen": "2020-10-13 05:02:02",
+        "last_seen": "2020-12-09 08:13:54",
+        "ip_address": "172.67.181.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.tcgcsk.asia",
+        "count": "289",
+        "first_seen": "2020-10-13 05:02:02",
+        "last_seen": "2020-12-08 04:32:18",
+        "ip_address": "2606:4700:3032::681c:12ac",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.tcgcsk.asia",
+        "count": "289",
+        "first_seen": "2020-10-13 05:02:02",
+        "last_seen": "2020-12-08 04:32:18",
+        "ip_address": "2606:4700:3036::681c:13ac",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.tcgcsk.asia",
+        "count": "289",
+        "first_seen": "2020-10-13 05:02:02",
+        "last_seen": "2020-12-08 04:32:18",
+        "ip_address": "2606:4700:3037::ac43:b595",
+        "type": "IPv6"
+    }
+]

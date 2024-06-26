@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazoncsn.buzz",
+        "count": "2",
+        "first_seen": "2021-09-09 17:22:40",
+        "last_seen": "2021-09-09 17:22:40",
+        "ip_address": "72.52.179.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazoncsn.buzz",
+        "count": "69",
+        "first_seen": "2020-08-29 20:07:12",
+        "last_seen": "2020-08-31 12:59:55",
+        "ip_address": "173.82.68.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazoncsn.buzz",
+        "count": "11",
+        "first_seen": "2020-08-25 22:49:14",
+        "last_seen": "2020-08-27 22:35:22",
+        "ip_address": "216.24.255.178",
+        "type": "IPv4"
+    }
+]

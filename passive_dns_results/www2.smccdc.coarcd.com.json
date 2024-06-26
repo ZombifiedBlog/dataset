@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www2.smccdc.coarcd.com",
+        "count": "132",
+        "first_seen": "2021-10-02 17:24:41",
+        "last_seen": "2021-10-04 05:27:07",
+        "ip_address": "198.12.81.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.smccdc.coarcd.com",
+        "count": "5",
+        "first_seen": "2022-10-02 21:10:58",
+        "last_seen": "2022-10-02 21:22:49",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.smccdc.coarcd.com",
+        "count": "247",
+        "first_seen": "2021-10-04 08:32:03",
+        "last_seen": "2022-09-15 06:23:20",
+        "ip_address": "206.189.196.215",
+        "type": "IPv4"
+    }
+]

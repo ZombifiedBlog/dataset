@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "msreng.com",
+        "count": "1481",
+        "first_seen": "2021-06-03 05:26:39",
+        "last_seen": "2024-01-15 13:18:45",
+        "ip_address": "20.86.177.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "msreng.com",
+        "count": "877",
+        "first_seen": "2019-04-30 21:51:16",
+        "last_seen": "2021-05-29 20:23:15",
+        "ip_address": "23.97.158.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "msreng.com",
+        "count": "8",
+        "first_seen": "2014-09-08 04:34:09",
+        "last_seen": "2015-01-13 06:35:16",
+        "ip_address": "110.45.130.51",
+        "type": "IPv4"
+    }
+]

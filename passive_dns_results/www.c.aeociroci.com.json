@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.c.aeociroci.com",
+        "count": "99",
+        "first_seen": "2021-12-07 20:51:33",
+        "last_seen": "2021-12-10 05:27:01",
+        "ip_address": "23.95.122.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.c.aeociroci.com",
+        "count": "1",
+        "first_seen": "2023-01-08 07:06:29",
+        "last_seen": "2023-01-08 07:06:29",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.c.aeociroci.com",
+        "count": "1",
+        "first_seen": "2022-12-18 07:10:02",
+        "last_seen": "2022-12-18 07:10:02",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.c.aeociroci.com",
+        "count": "2",
+        "first_seen": "2022-12-18 07:10:02",
+        "last_seen": "2023-01-08 07:06:29",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

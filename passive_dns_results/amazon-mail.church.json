@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "amazon-mail.church",
+        "count": "4",
+        "first_seen": "2021-10-01 19:51:48",
+        "last_seen": "2021-11-01 15:47:24",
+        "ip_address": "99.81.40.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-mail.church",
+        "count": "99",
+        "first_seen": "2020-09-29 16:58:27",
+        "last_seen": "2021-07-25 20:06:52",
+        "ip_address": "173.82.133.239",
+        "type": "IPv4"
+    }
+]

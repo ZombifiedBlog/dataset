@@ -1,0 +1,114 @@
+[
+    {
+        "domain": "www.greytheories.com",
+        "count": "18",
+        "first_seen": "2020-01-05 07:24:37",
+        "last_seen": "2020-01-23 04:03:28",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greytheories.com",
+        "count": "256",
+        "first_seen": "2022-06-09 08:50:17",
+        "last_seen": "2022-07-16 07:01:59",
+        "ip_address": "52.213.114.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greytheories.com",
+        "count": "2",
+        "first_seen": "2021-06-13 10:41:40",
+        "last_seen": "2021-06-13 10:41:40",
+        "ip_address": "103.66.216.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greytheories.com",
+        "count": "563",
+        "first_seen": "2018-12-30 11:56:16",
+        "last_seen": "2019-12-08 18:40:37",
+        "ip_address": "104.27.186.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greytheories.com",
+        "count": "563",
+        "first_seen": "2018-12-30 11:56:16",
+        "last_seen": "2019-12-08 18:40:37",
+        "ip_address": "104.27.187.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greytheories.com",
+        "count": "26",
+        "first_seen": "2021-10-26 14:23:26",
+        "last_seen": "2022-03-11 16:12:26",
+        "ip_address": "107.148.145.161",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greytheories.com",
+        "count": "4008",
+        "first_seen": "2022-05-28 08:49:26",
+        "last_seen": "2022-06-01 09:06:16",
+        "ip_address": "107.175.94.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greytheories.com",
+        "count": "283",
+        "first_seen": "2020-03-16 22:28:45",
+        "last_seen": "2021-03-04 17:29:44",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greytheories.com",
+        "count": "3",
+        "first_seen": "2021-03-10 15:18:54",
+        "last_seen": "2021-03-31 21:16:41",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greytheories.com",
+        "count": "2",
+        "first_seen": "2018-10-11 23:00:24",
+        "last_seen": "2018-10-11 23:00:24",
+        "ip_address": "209.99.64.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greytheories.com",
+        "count": "6",
+        "first_seen": "2020-03-29 23:07:09",
+        "last_seen": "2021-01-30 04:45:11",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greytheories.com",
+        "count": "1",
+        "first_seen": "2021-03-10 15:18:54",
+        "last_seen": "2021-03-10 15:18:54",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greytheories.com",
+        "count": "316",
+        "first_seen": "2018-12-31 01:09:41",
+        "last_seen": "2019-11-30 15:18:02",
+        "ip_address": "2606:4700:30::681b:ba3e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.greytheories.com",
+        "count": "316",
+        "first_seen": "2018-12-31 01:09:41",
+        "last_seen": "2019-11-30 15:18:02",
+        "ip_address": "2606:4700:30::681b:bb3e",
+        "type": "IPv6"
+    }
+]

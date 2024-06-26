@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.ssmmbbcc.top",
+        "count": "1",
+        "first_seen": "2021-01-28 10:47:38",
+        "last_seen": "2021-01-28 10:47:38",
+        "ip_address": "128.14.142.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ssmmbbcc.top",
+        "count": "7",
+        "first_seen": "2020-10-17 12:36:30",
+        "last_seen": "2020-11-02 13:48:02",
+        "ip_address": "128.14.142.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ssmmbbcc.top",
+        "count": "101",
+        "first_seen": "2020-09-27 18:54:50",
+        "last_seen": "2020-09-28 06:33:59",
+        "ip_address": "198.12.71.112",
+        "type": "IPv4"
+    }
+]

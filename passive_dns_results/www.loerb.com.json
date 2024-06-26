@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "www.loerb.com",
+        "count": "4",
+        "first_seen": "2021-01-13 19:06:50",
+        "last_seen": "2021-05-29 08:48:30",
+        "ip_address": "104.21.8.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.loerb.com",
+        "count": "4",
+        "first_seen": "2021-01-13 19:06:50",
+        "last_seen": "2021-05-29 08:48:30",
+        "ip_address": "172.67.139.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.loerb.com",
+        "count": "10",
+        "first_seen": "2020-09-21 18:54:05",
+        "last_seen": "2020-12-01 19:33:49",
+        "ip_address": "104.31.78.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.loerb.com",
+        "count": "10",
+        "first_seen": "2020-09-21 18:54:05",
+        "last_seen": "2020-12-01 19:33:49",
+        "ip_address": "104.31.79.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.loerb.com",
+        "count": "10",
+        "first_seen": "2020-09-21 18:54:05",
+        "last_seen": "2020-12-01 19:33:49",
+        "ip_address": "172.67.139.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.loerb.com",
+        "count": "1762",
+        "first_seen": "2020-06-28 21:02:01",
+        "last_seen": "2020-09-14 12:01:21",
+        "ip_address": "198.144.149.216",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.loerb.com",
+        "count": "7",
+        "first_seen": "2020-09-21 18:53:18",
+        "last_seen": "2020-10-05 11:56:48",
+        "ip_address": "2606:4700:3033::681f:4e2d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.loerb.com",
+        "count": "7",
+        "first_seen": "2020-09-21 18:53:18",
+        "last_seen": "2020-10-05 11:56:48",
+        "ip_address": "2606:4700:3034::ac43:8bc8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.loerb.com",
+        "count": "7",
+        "first_seen": "2020-09-21 18:53:18",
+        "last_seen": "2020-10-05 11:56:48",
+        "ip_address": "2606:4700:3035::681f:4f2d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.loerb.com",
+        "count": "4",
+        "first_seen": "2021-01-13 19:06:50",
+        "last_seen": "2021-05-29 08:06:43",
+        "ip_address": "2606:4700:3034::ac43:8bc8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.loerb.com",
+        "count": "4",
+        "first_seen": "2021-01-13 19:06:50",
+        "last_seen": "2021-05-29 08:06:43",
+        "ip_address": "2606:4700:3037::6815:8a5",
+        "type": "IPv6"
+    }
+]

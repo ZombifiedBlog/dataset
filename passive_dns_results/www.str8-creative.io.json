@@ -1,0 +1,186 @@
+[
+    {
+        "domain": "www.str8-creative.io",
+        "count": "9",
+        "first_seen": "2019-09-20 05:22:11",
+        "last_seen": "2019-09-20 15:03:44",
+        "ip_address": "45.131.2.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.str8-creative.io",
+        "count": "2",
+        "first_seen": "2020-11-22 12:47:30",
+        "last_seen": "2020-11-22 12:47:30",
+        "ip_address": "89.32.151.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.str8-creative.io",
+        "count": "157",
+        "first_seen": "2023-05-04 18:36:00",
+        "last_seen": "2024-01-17 17:42:12",
+        "ip_address": "104.21.50.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.str8-creative.io",
+        "count": "157",
+        "first_seen": "2023-05-04 18:36:00",
+        "last_seen": "2024-01-17 17:42:12",
+        "ip_address": "172.67.199.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.str8-creative.io",
+        "count": "6",
+        "first_seen": "2019-07-15 00:45:39",
+        "last_seen": "2019-07-15 08:37:01",
+        "ip_address": "104.27.156.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.str8-creative.io",
+        "count": "69874",
+        "first_seen": "2018-09-04 07:22:18",
+        "last_seen": "2019-08-26 20:31:02",
+        "ip_address": "104.27.156.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.str8-creative.io",
+        "count": "69874",
+        "first_seen": "2018-09-04 07:22:18",
+        "last_seen": "2019-08-26 20:31:02",
+        "ip_address": "104.27.157.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.str8-creative.io",
+        "count": "4",
+        "first_seen": "2019-07-14 23:26:41",
+        "last_seen": "2019-07-15 11:27:17",
+        "ip_address": "104.27.157.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.str8-creative.io",
+        "count": "430",
+        "first_seen": "2019-08-27 11:04:52",
+        "last_seen": "2019-08-29 01:24:01",
+        "ip_address": "104.27.182.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.str8-creative.io",
+        "count": "430",
+        "first_seen": "2019-08-27 11:04:52",
+        "last_seen": "2019-08-29 01:24:01",
+        "ip_address": "104.27.183.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.str8-creative.io",
+        "count": "2190",
+        "first_seen": "2019-08-30 18:12:25",
+        "last_seen": "2019-09-21 00:06:51",
+        "ip_address": "109.236.51.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.str8-creative.io",
+        "count": "3419",
+        "first_seen": "2020-11-22 17:45:57",
+        "last_seen": "2021-09-30 18:13:09",
+        "ip_address": "148.66.138.171",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.str8-creative.io",
+        "count": "129",
+        "first_seen": "2019-08-29 22:32:25",
+        "last_seen": "2019-08-30 18:06:42",
+        "ip_address": "160.153.47.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.str8-creative.io",
+        "count": "90",
+        "first_seen": "2018-09-04 07:22:19",
+        "last_seen": "2018-09-24 11:35:50",
+        "ip_address": "2400:cb00:2048:1::681b:9c91",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.str8-creative.io",
+        "count": "90",
+        "first_seen": "2018-09-04 07:22:19",
+        "last_seen": "2018-09-24 11:35:50",
+        "ip_address": "2400:cb00:2048:1::681b:9d91",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.str8-creative.io",
+        "count": "2",
+        "first_seen": "2019-07-14 20:29:39",
+        "last_seen": "2019-07-14 21:06:19",
+        "ip_address": "2606:4700:30::681b:9c91",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.str8-creative.io",
+        "count": "3117",
+        "first_seen": "2018-09-27 19:41:24",
+        "last_seen": "2019-08-26 20:31:02",
+        "ip_address": "2606:4700:30::681b:9c91",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.str8-creative.io",
+        "count": "3117",
+        "first_seen": "2018-09-27 19:41:24",
+        "last_seen": "2019-08-26 20:31:02",
+        "ip_address": "2606:4700:30::681b:9d91",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.str8-creative.io",
+        "count": "1",
+        "first_seen": "2019-07-14 20:29:39",
+        "last_seen": "2019-07-14 20:29:39",
+        "ip_address": "2606:4700:30::681b:9d91",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.str8-creative.io",
+        "count": "119",
+        "first_seen": "2019-08-27 11:20:06",
+        "last_seen": "2019-08-29 01:24:01",
+        "ip_address": "2606:4700:30::681b:b65c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.str8-creative.io",
+        "count": "119",
+        "first_seen": "2019-08-27 11:20:06",
+        "last_seen": "2019-08-29 01:24:01",
+        "ip_address": "2606:4700:30::681b:b75c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.str8-creative.io",
+        "count": "34",
+        "first_seen": "2023-06-03 21:26:38",
+        "last_seen": "2024-01-17 17:42:12",
+        "ip_address": "2606:4700:3034::ac43:c7b7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.str8-creative.io",
+        "count": "34",
+        "first_seen": "2023-06-03 21:26:38",
+        "last_seen": "2024-01-17 17:42:12",
+        "ip_address": "2606:4700:3035::6815:3218",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "subscriber.chutneychefs.com",
+        "count": "423",
+        "first_seen": "2022-11-29 11:20:45",
+        "last_seen": "2023-01-01 18:05:49",
+        "ip_address": "104.21.53.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chutneychefs.com",
+        "count": "423",
+        "first_seen": "2022-11-29 11:20:45",
+        "last_seen": "2023-01-01 18:05:49",
+        "ip_address": "172.67.211.151",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chutneychefs.com",
+        "count": "30",
+        "first_seen": "2023-04-04 18:53:39",
+        "last_seen": "2023-07-06 12:29:42",
+        "ip_address": "199.59.243.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chutneychefs.com",
+        "count": "15",
+        "first_seen": "2023-07-14 19:44:12",
+        "last_seen": "2023-09-21 19:14:25",
+        "ip_address": "199.59.243.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chutneychefs.com",
+        "count": "10",
+        "first_seen": "2023-10-09 20:28:52",
+        "last_seen": "2023-12-30 02:09:34",
+        "ip_address": "199.59.243.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chutneychefs.com",
+        "count": "22",
+        "first_seen": "2023-01-03 00:56:40",
+        "last_seen": "2023-01-25 10:34:54",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chutneychefs.com",
+        "count": "20",
+        "first_seen": "2022-11-29 11:20:45",
+        "last_seen": "2022-12-31 13:36:41",
+        "ip_address": "2606:4700:3035::6815:355e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.chutneychefs.com",
+        "count": "20",
+        "first_seen": "2022-11-29 11:20:45",
+        "last_seen": "2022-12-31 13:36:41",
+        "ip_address": "2606:4700:3037::ac43:d397",
+        "type": "IPv6"
+    }
+]

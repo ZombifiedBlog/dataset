@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "xtfr8ps6qeskejbf2ogqhinu.8csjxm.cfd",
+        "count": "54",
+        "first_seen": "2023-05-23 03:27:28",
+        "last_seen": "2023-05-25 11:47:43",
+        "ip_address": "104.21.74.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xtfr8ps6qeskejbf2ogqhinu.8csjxm.cfd",
+        "count": "54",
+        "first_seen": "2023-05-23 03:27:28",
+        "last_seen": "2023-05-25 11:47:43",
+        "ip_address": "172.67.195.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xtfr8ps6qeskejbf2ogqhinu.8csjxm.cfd",
+        "count": "2",
+        "first_seen": "2023-05-23 03:27:28",
+        "last_seen": "2023-05-23 03:27:28",
+        "ip_address": "2606:4700:3030::6815:4a16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "xtfr8ps6qeskejbf2ogqhinu.8csjxm.cfd",
+        "count": "2",
+        "first_seen": "2023-05-23 03:27:28",
+        "last_seen": "2023-05-23 03:27:28",
+        "ip_address": "2606:4700:3035::ac43:c37c",
+        "type": "IPv6"
+    }
+]

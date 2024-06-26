@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.xn--80aaiac8g.xn--p1ai",
+        "count": "636",
+        "first_seen": "2019-04-08 10:08:19",
+        "last_seen": "2020-08-27 09:06:22",
+        "ip_address": "92.53.96.188",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.xn--80aaiac8g.xn--p1ai",
+        "count": "5",
+        "first_seen": "2016-04-28 06:30:35",
+        "last_seen": "2018-04-29 02:15:28",
+        "ip_address": "109.70.26.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.xn--80aaiac8g.xn--p1ai",
+        "count": "5",
+        "first_seen": "2016-04-28 06:30:35",
+        "last_seen": "2018-04-29 02:15:28",
+        "ip_address": "194.85.61.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.xn--80aaiac8g.xn--p1ai",
+        "count": "490",
+        "first_seen": "2014-12-08 03:22:57",
+        "last_seen": "2017-01-21 08:38:32",
+        "ip_address": "178.210.77.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.xn--80aaiac8g.xn--p1ai",
+        "count": "275",
+        "first_seen": "2018-12-01 00:08:54",
+        "last_seen": "2019-04-07 04:21:52",
+        "ip_address": "178.210.92.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.xn--80aaiac8g.xn--p1ai",
+        "count": "2702",
+        "first_seen": "2020-08-31 08:45:46",
+        "last_seen": "2024-01-18 06:39:41",
+        "ip_address": "185.119.56.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.xn--80aaiac8g.xn--p1ai",
+        "count": "2089",
+        "first_seen": "2017-01-21 20:07:58",
+        "last_seen": "2018-11-22 18:33:55",
+        "ip_address": "195.208.1.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.xn--80aaiac8g.xn--p1ai",
+        "count": "241",
+        "first_seen": "2019-04-08 10:08:19",
+        "last_seen": "2020-08-26 13:21:43",
+        "ip_address": "2a03:6f00:1::5c35:60bc",
+        "type": "IPv6"
+    }
+]

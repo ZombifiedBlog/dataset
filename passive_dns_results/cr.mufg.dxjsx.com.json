@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "cr.mufg.dxjsx.com",
+        "count": "11",
+        "first_seen": "2021-03-09 18:42:17",
+        "last_seen": "2021-04-16 17:18:06",
+        "ip_address": "45.200.47.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.dxjsx.com",
+        "count": "10",
+        "first_seen": "2020-12-05 19:15:19",
+        "last_seen": "2020-12-23 19:05:00",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.dxjsx.com",
+        "count": "1",
+        "first_seen": "2022-02-26 15:45:51",
+        "last_seen": "2022-02-26 15:45:51",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.dxjsx.com",
+        "count": "381",
+        "first_seen": "2020-10-26 13:59:58",
+        "last_seen": "2020-11-29 19:12:53",
+        "ip_address": "98.126.215.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.dxjsx.com",
+        "count": "30",
+        "first_seen": "2021-06-12 17:32:49",
+        "last_seen": "2021-09-07 18:18:51",
+        "ip_address": "154.89.95.22",
+        "type": "IPv4"
+    }
+]

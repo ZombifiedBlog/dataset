@@ -1,0 +1,106 @@
+[
+    {
+        "domain": "www.ldwrb.com",
+        "count": "51",
+        "first_seen": "2017-03-09 23:33:53",
+        "last_seen": "2018-03-07 05:12:19",
+        "ip_address": "66.254.176.106",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ldwrb.com",
+        "count": "4",
+        "first_seen": "2021-01-26 15:22:59",
+        "last_seen": "2021-01-28 14:40:11",
+        "ip_address": "104.21.52.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ldwrb.com",
+        "count": "4",
+        "first_seen": "2021-01-26 15:22:59",
+        "last_seen": "2021-01-28 14:40:11",
+        "ip_address": "172.67.205.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ldwrb.com",
+        "count": "456",
+        "first_seen": "2020-11-01 02:16:14",
+        "last_seen": "2021-01-08 18:41:30",
+        "ip_address": "104.24.104.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ldwrb.com",
+        "count": "456",
+        "first_seen": "2020-11-01 02:16:14",
+        "last_seen": "2021-01-08 18:41:30",
+        "ip_address": "104.24.105.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ldwrb.com",
+        "count": "456",
+        "first_seen": "2020-11-01 02:16:14",
+        "last_seen": "2021-01-08 18:41:30",
+        "ip_address": "172.67.205.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ldwrb.com",
+        "count": "4",
+        "first_seen": "2018-03-12 18:56:03",
+        "last_seen": "2018-04-05 18:32:59",
+        "ip_address": "209.99.64.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ldwrb.com",
+        "count": "2",
+        "first_seen": "2018-03-21 08:30:30",
+        "last_seen": "2018-03-21 08:30:30",
+        "ip_address": "209.99.64.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ldwrb.com",
+        "count": "80",
+        "first_seen": "2020-11-01 01:54:51",
+        "last_seen": "2021-01-08 18:41:30",
+        "ip_address": "2606:4700:3030::6818:6953",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ldwrb.com",
+        "count": "80",
+        "first_seen": "2020-11-01 01:54:51",
+        "last_seen": "2021-01-08 18:41:30",
+        "ip_address": "2606:4700:3034::6818:6853",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ldwrb.com",
+        "count": "80",
+        "first_seen": "2020-11-01 01:54:51",
+        "last_seen": "2021-01-08 18:41:30",
+        "ip_address": "2606:4700:3036::ac43:cd3a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ldwrb.com",
+        "count": "3",
+        "first_seen": "2021-01-26 15:22:59",
+        "last_seen": "2021-01-28 14:40:11",
+        "ip_address": "2606:4700:3031::6815:34e6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ldwrb.com",
+        "count": "3",
+        "first_seen": "2021-01-26 15:22:59",
+        "last_seen": "2021-01-28 14:40:11",
+        "ip_address": "2606:4700:3036::ac43:cd3a",
+        "type": "IPv6"
+    }
+]

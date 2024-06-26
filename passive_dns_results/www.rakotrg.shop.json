@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.rakotrg.shop",
+        "count": "9",
+        "first_seen": "2021-09-15 18:35:56",
+        "last_seen": "2021-09-16 01:20:35",
+        "ip_address": "104.21.29.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.rakotrg.shop",
+        "count": "9",
+        "first_seen": "2021-09-15 18:35:56",
+        "last_seen": "2021-09-16 01:20:35",
+        "ip_address": "172.67.148.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.rakotrg.shop",
+        "count": "1",
+        "first_seen": "2021-09-15 16:03:28",
+        "last_seen": "2021-09-15 16:03:28",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.rakotrg.shop",
+        "count": "1",
+        "first_seen": "2021-09-16 00:08:05",
+        "last_seen": "2021-09-16 00:08:05",
+        "ip_address": "2606:4700:3033::6815:1d7b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.rakotrg.shop",
+        "count": "1",
+        "first_seen": "2021-09-16 00:08:05",
+        "last_seen": "2021-09-16 00:08:05",
+        "ip_address": "2606:4700:3037::ac43:94fd",
+        "type": "IPv6"
+    }
+]

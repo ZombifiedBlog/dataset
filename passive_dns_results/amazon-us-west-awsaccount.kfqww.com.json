@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "amazon-us-west-awsaccount.kfqww.com",
+        "count": "4",
+        "first_seen": "2021-08-31 10:09:58",
+        "last_seen": "2021-08-31 10:09:58",
+        "ip_address": "0.0.0.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.kfqww.com",
+        "count": "22",
+        "first_seen": "2019-10-30 09:33:21",
+        "last_seen": "2019-12-06 00:43:44",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.kfqww.com",
+        "count": "1",
+        "first_seen": "2023-05-31 17:47:57",
+        "last_seen": "2023-05-31 17:47:57",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.kfqww.com",
+        "count": "2933",
+        "first_seen": "2019-09-20 08:06:46",
+        "last_seen": "2019-10-26 20:56:21",
+        "ip_address": "104.24.114.182",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.kfqww.com",
+        "count": "2933",
+        "first_seen": "2019-09-20 08:06:46",
+        "last_seen": "2019-10-26 20:56:21",
+        "ip_address": "104.24.115.182",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.kfqww.com",
+        "count": "221",
+        "first_seen": "2019-09-20 08:06:46",
+        "last_seen": "2019-10-15 11:09:33",
+        "ip_address": "2606:4700:30::6818:72b6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.kfqww.com",
+        "count": "221",
+        "first_seen": "2019-09-20 08:06:46",
+        "last_seen": "2019-10-15 11:09:33",
+        "ip_address": "2606:4700:30::6818:73b6",
+        "type": "IPv6"
+    }
+]

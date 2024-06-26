@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "arhi.rs",
+        "count": "1",
+        "first_seen": "2021-02-08 03:45:15",
+        "last_seen": "2021-02-08 03:45:15",
+        "ip_address": "34.102.136.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "arhi.rs",
+        "count": "1",
+        "first_seen": "2011-08-20 20:05:07",
+        "last_seen": "2011-08-20 20:05:07",
+        "ip_address": "70.87.93.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "arhi.rs",
+        "count": "76",
+        "first_seen": "2021-02-19 02:14:14",
+        "last_seen": "2021-03-16 13:11:53",
+        "ip_address": "92.204.222.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "arhi.rs",
+        "count": "1396",
+        "first_seen": "2021-03-18 17:40:26",
+        "last_seen": "2024-01-18 03:05:46",
+        "ip_address": "92.205.4.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "arhi.rs",
+        "count": "1027",
+        "first_seen": "2019-09-01 23:52:15",
+        "last_seen": "2021-02-04 17:46:26",
+        "ip_address": "94.127.7.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "arhi.rs",
+        "count": "5",
+        "first_seen": "2021-03-18 07:01:22",
+        "last_seen": "2021-03-18 07:11:19",
+        "ip_address": "160.153.137.163",
+        "type": "IPv4"
+    }
+]

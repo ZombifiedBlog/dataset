@@ -1,0 +1,130 @@
+[
+    {
+        "domain": "my-jcb.wyattresearchincome.com",
+        "count": "1",
+        "first_seen": "2022-05-03 20:05:51",
+        "last_seen": "2022-05-03 20:05:51",
+        "ip_address": "37.48.65.154",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.wyattresearchincome.com",
+        "count": "2",
+        "first_seen": "2021-09-02 16:49:26",
+        "last_seen": "2021-09-02 16:49:26",
+        "ip_address": "78.41.204.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.wyattresearchincome.com",
+        "count": "6",
+        "first_seen": "2022-08-24 01:05:07",
+        "last_seen": "2022-10-14 03:17:22",
+        "ip_address": "103.214.175.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.wyattresearchincome.com",
+        "count": "1",
+        "first_seen": "2021-06-21 07:16:03",
+        "last_seen": "2021-06-21 07:16:03",
+        "ip_address": "103.224.212.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.wyattresearchincome.com",
+        "count": "180",
+        "first_seen": "2020-12-31 16:07:06",
+        "last_seen": "2021-01-05 04:33:49",
+        "ip_address": "104.24.104.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.wyattresearchincome.com",
+        "count": "180",
+        "first_seen": "2020-12-31 16:07:06",
+        "last_seen": "2021-01-05 04:33:49",
+        "ip_address": "104.24.105.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.wyattresearchincome.com",
+        "count": "180",
+        "first_seen": "2020-12-31 16:07:06",
+        "last_seen": "2021-01-05 04:33:49",
+        "ip_address": "172.67.189.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.wyattresearchincome.com",
+        "count": "10",
+        "first_seen": "2023-12-04 18:18:43",
+        "last_seen": "2023-12-29 19:01:27",
+        "ip_address": "149.29.91.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.wyattresearchincome.com",
+        "count": "66",
+        "first_seen": "2022-11-22 11:44:13",
+        "last_seen": "2023-11-22 17:57:25",
+        "ip_address": "160.124.124.182",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.wyattresearchincome.com",
+        "count": "1",
+        "first_seen": "2022-05-07 05:25:19",
+        "last_seen": "2022-05-07 05:25:19",
+        "ip_address": "162.210.196.171",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.wyattresearchincome.com",
+        "count": "1",
+        "first_seen": "2022-04-03 01:57:45",
+        "last_seen": "2022-04-03 01:57:45",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.wyattresearchincome.com",
+        "count": "1",
+        "first_seen": "2021-12-07 00:38:46",
+        "last_seen": "2021-12-07 00:38:46",
+        "ip_address": "209.126.123.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.wyattresearchincome.com",
+        "count": "1",
+        "first_seen": "2021-06-21 07:16:03",
+        "last_seen": "2021-06-21 07:16:03",
+        "ip_address": "103.224.212.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.wyattresearchincome.com",
+        "count": "14",
+        "first_seen": "2020-12-31 16:07:06",
+        "last_seen": "2021-01-05 03:45:05",
+        "ip_address": "2606:4700:3033::ac43:bd6f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.wyattresearchincome.com",
+        "count": "14",
+        "first_seen": "2020-12-31 16:07:06",
+        "last_seen": "2021-01-05 03:45:05",
+        "ip_address": "2606:4700:3035::6818:6992",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.wyattresearchincome.com",
+        "count": "14",
+        "first_seen": "2020-12-31 16:07:06",
+        "last_seen": "2021-01-05 03:45:05",
+        "ip_address": "2606:4700:3036::6818:6892",
+        "type": "IPv6"
+    }
+]

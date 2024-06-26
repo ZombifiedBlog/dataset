@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "proveedorahules.com",
+        "count": "2",
+        "first_seen": "2023-05-27 15:18:53",
+        "last_seen": "2023-05-28 07:15:44",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "proveedorahules.com",
+        "count": "829",
+        "first_seen": "2020-05-22 16:13:07",
+        "last_seen": "2022-02-25 02:55:38",
+        "ip_address": "209.59.187.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "proveedorahules.com",
+        "count": "1150",
+        "first_seen": "2022-03-06 06:51:31",
+        "last_seen": "2024-01-17 10:06:10",
+        "ip_address": "216.250.127.249",
+        "type": "IPv4"
+    }
+]

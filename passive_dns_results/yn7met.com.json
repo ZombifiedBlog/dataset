@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "yn7met.com",
+        "count": "79",
+        "first_seen": "2023-07-02 11:34:44",
+        "last_seen": "2024-01-14 09:49:31",
+        "ip_address": "74.119.239.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "yn7met.com",
+        "count": "106",
+        "first_seen": "2023-05-29 01:35:27",
+        "last_seen": "2023-06-03 06:57:45",
+        "ip_address": "104.21.79.202",
+        "type": "IPv4"
+    },
+    {
+        "domain": "yn7met.com",
+        "count": "106",
+        "first_seen": "2023-05-29 01:35:27",
+        "last_seen": "2023-06-03 06:57:45",
+        "ip_address": "172.67.147.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "yn7met.com",
+        "count": "1",
+        "first_seen": "2023-06-11 11:23:30",
+        "last_seen": "2023-06-11 11:23:30",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "yn7met.com",
+        "count": "1",
+        "first_seen": "2023-06-04 11:24:36",
+        "last_seen": "2023-06-04 11:24:36",
+        "ip_address": "2606:4700:3031::ac43:93d4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "yn7met.com",
+        "count": "1",
+        "first_seen": "2023-06-04 11:24:36",
+        "last_seen": "2023-06-04 11:24:36",
+        "ip_address": "2606:4700:3033::6815:4fca",
+        "type": "IPv6"
+    }
+]

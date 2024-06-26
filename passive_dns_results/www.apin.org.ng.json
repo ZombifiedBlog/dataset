@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.apin.org.ng",
+        "count": "3489",
+        "first_seen": "2015-12-09 10:16:08",
+        "last_seen": "2023-11-13 05:38:22",
+        "ip_address": "52.22.221.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.apin.org.ng",
+        "count": "69",
+        "first_seen": "2023-11-22 08:38:45",
+        "last_seen": "2024-01-18 10:05:59",
+        "ip_address": "52.200.42.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.apin.org.ng",
+        "count": "9",
+        "first_seen": "2010-07-19 08:28:09",
+        "last_seen": "2010-08-23 00:49:03",
+        "ip_address": "64.95.129.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.apin.org.ng",
+        "count": "3506",
+        "first_seen": "2010-08-31 06:16:33",
+        "last_seen": "2014-04-10 03:40:18",
+        "ip_address": "192.156.137.169",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.apin.org.ng",
+        "count": "2738",
+        "first_seen": "2014-04-12 03:12:50",
+        "last_seen": "2015-12-06 10:56:03",
+        "ip_address": "192.156.137.228",
+        "type": "IPv4"
+    }
+]

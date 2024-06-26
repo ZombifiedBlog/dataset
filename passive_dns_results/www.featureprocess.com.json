@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.featureprocess.com",
+        "count": "100",
+        "first_seen": "2020-03-08 12:11:16",
+        "last_seen": "2020-04-06 13:47:39",
+        "ip_address": "104.31.72.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.featureprocess.com",
+        "count": "100",
+        "first_seen": "2020-03-08 12:11:16",
+        "last_seen": "2020-04-06 13:47:39",
+        "ip_address": "104.31.73.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.featureprocess.com",
+        "count": "4",
+        "first_seen": "2020-04-12 05:13:03",
+        "last_seen": "2020-05-04 18:47:17",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.featureprocess.com",
+        "count": "4",
+        "first_seen": "2020-04-12 05:13:03",
+        "last_seen": "2020-05-04 18:47:17",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.featureprocess.com",
+        "count": "4",
+        "first_seen": "2020-04-12 05:13:03",
+        "last_seen": "2020-05-04 18:47:17",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.featureprocess.com",
+        "count": "4",
+        "first_seen": "2020-04-12 05:13:03",
+        "last_seen": "2020-05-04 18:47:17",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.featureprocess.com",
+        "count": "4",
+        "first_seen": "2020-03-08 13:24:57",
+        "last_seen": "2020-04-06 13:47:39",
+        "ip_address": "2606:4700:3031::681f:48e1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.featureprocess.com",
+        "count": "4",
+        "first_seen": "2020-03-08 13:24:57",
+        "last_seen": "2020-04-06 13:47:39",
+        "ip_address": "2606:4700:3037::681f:49e1",
+        "type": "IPv6"
+    }
+]

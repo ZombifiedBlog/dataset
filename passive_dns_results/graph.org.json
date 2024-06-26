@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "graph.org",
+        "count": "8",
+        "first_seen": "2011-05-31 09:01:23",
+        "last_seen": "2014-05-29 21:30:04",
+        "ip_address": "72.52.4.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "graph.org",
+        "count": "869",
+        "first_seen": "2014-06-06 01:01:05",
+        "last_seen": "2017-12-17 06:29:09",
+        "ip_address": "72.52.4.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "graph.org",
+        "count": "61",
+        "first_seen": "2010-09-28 22:31:57",
+        "last_seen": "2013-11-07 13:48:50",
+        "ip_address": "82.98.86.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "graph.org",
+        "count": "7",
+        "first_seen": "2013-12-06 04:03:18",
+        "last_seen": "2014-04-29 20:12:57",
+        "ip_address": "82.98.86.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "graph.org",
+        "count": "1",
+        "first_seen": "2013-11-19 15:45:50",
+        "last_seen": "2013-11-19 15:45:50",
+        "ip_address": "82.98.86.178",
+        "type": "IPv4"
+    },
+    {
+        "domain": "graph.org",
+        "count": "50658",
+        "first_seen": "2019-09-04 07:46:36",
+        "last_seen": "2019-12-12 19:34:14",
+        "ip_address": "104.222.176.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "graph.org",
+        "count": "153976",
+        "first_seen": "2019-12-12 19:34:28",
+        "last_seen": "2021-10-28 22:46:01",
+        "ip_address": "104.222.176.202",
+        "type": "IPv4"
+    },
+    {
+        "domain": "graph.org",
+        "count": "159175",
+        "first_seen": "2017-12-19 14:24:13",
+        "last_seen": "2019-09-04 07:42:53",
+        "ip_address": "149.154.164.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "graph.org",
+        "count": "159175",
+        "first_seen": "2017-12-19 14:24:13",
+        "last_seen": "2019-09-04 07:42:53",
+        "ip_address": "149.154.164.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "graph.org",
+        "count": "1",
+        "first_seen": "2019-07-15 12:36:04",
+        "last_seen": "2019-07-15 12:36:04",
+        "ip_address": "149.154.164.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "graph.org",
+        "count": "57970",
+        "first_seen": "2019-09-04 07:45:18",
+        "last_seen": "2024-01-18 10:34:16",
+        "ip_address": "149.154.164.13",
+        "type": "IPv4"
+    }
+]

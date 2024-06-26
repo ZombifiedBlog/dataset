@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "w.VULGAR-QUEEN.RU",
+        "count": "121",
+        "first_seen": "2019-12-25 04:24:39",
+        "last_seen": "2020-09-28 20:42:29",
+        "ip_address": "89.111.167.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "w.VULGAR-QUEEN.RU",
+        "count": "2",
+        "first_seen": "2019-12-09 08:48:11",
+        "last_seen": "2019-12-09 08:48:11",
+        "ip_address": "2a00:1768:2001:63::46:109",
+        "type": "IPv6"
+    },
+    {
+        "domain": "w.VULGAR-QUEEN.RU",
+        "count": "2",
+        "first_seen": "2019-12-09 08:48:11",
+        "last_seen": "2019-12-09 08:48:11",
+        "ip_address": "2a0b:1640:1:1:1:1:ed9:e667",
+        "type": "IPv6"
+    }
+]

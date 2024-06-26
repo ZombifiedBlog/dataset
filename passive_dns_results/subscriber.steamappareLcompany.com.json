@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "subscriber.steamappareLcompany.com",
+        "count": "6",
+        "first_seen": "2022-08-24 12:05:02",
+        "last_seen": "2022-09-05 07:10:55",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.steamappareLcompany.com",
+        "count": "3",
+        "first_seen": "2023-05-16 21:33:00",
+        "last_seen": "2023-09-07 15:30:41",
+        "ip_address": "103.224.212.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.steamappareLcompany.com",
+        "count": "210",
+        "first_seen": "2022-08-20 11:55:52",
+        "last_seen": "2022-08-22 23:34:18",
+        "ip_address": "104.21.66.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.steamappareLcompany.com",
+        "count": "210",
+        "first_seen": "2022-08-20 11:55:52",
+        "last_seen": "2022-08-22 23:34:18",
+        "ip_address": "172.67.201.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.steamappareLcompany.com",
+        "count": "1",
+        "first_seen": "2023-05-02 21:20:11",
+        "last_seen": "2023-05-02 21:20:11",
+        "ip_address": "199.115.115.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.steamappareLcompany.com",
+        "count": "5",
+        "first_seen": "2023-11-16 07:04:58",
+        "last_seen": "2023-11-17 20:06:42",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.steamappareLcompany.com",
+        "count": "2",
+        "first_seen": "2022-08-22 03:24:54",
+        "last_seen": "2022-08-22 16:19:25",
+        "ip_address": "2606:4700:3030::6815:4232",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.steamappareLcompany.com",
+        "count": "2",
+        "first_seen": "2022-08-22 03:24:54",
+        "last_seen": "2022-08-22 16:19:25",
+        "ip_address": "2606:4700:3032::ac43:c91e",
+        "type": "IPv6"
+    }
+]

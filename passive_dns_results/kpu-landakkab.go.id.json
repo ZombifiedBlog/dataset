@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "kpu-landakkab.go.id",
+        "count": "10",
+        "first_seen": "2017-08-28 02:10:01",
+        "last_seen": "2019-04-20 12:44:37",
+        "ip_address": "54.254.97.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kpu-landakkab.go.id",
+        "count": "3728",
+        "first_seen": "2020-01-21 12:46:06",
+        "last_seen": "2021-10-12 16:05:55",
+        "ip_address": "103.52.146.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kpu-landakkab.go.id",
+        "count": "756",
+        "first_seen": "2019-05-02 12:44:27",
+        "last_seen": "2020-01-20 14:09:41",
+        "ip_address": "103.84.194.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kpu-landakkab.go.id",
+        "count": "2299",
+        "first_seen": "2014-12-01 08:50:09",
+        "last_seen": "2019-05-01 12:38:05",
+        "ip_address": "103.252.100.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kpu-landakkab.go.id",
+        "count": "2723",
+        "first_seen": "2021-10-13 06:44:37",
+        "last_seen": "2024-01-01 15:35:20",
+        "ip_address": "222.124.219.213",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "amazon-us-west-awsaccount.kLkmw.com",
+        "count": "14",
+        "first_seen": "2019-10-30 10:37:45",
+        "last_seen": "2019-11-28 22:31:16",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.kLkmw.com",
+        "count": "3120",
+        "first_seen": "2019-09-20 07:55:10",
+        "last_seen": "2019-10-29 00:21:31",
+        "ip_address": "104.18.36.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.kLkmw.com",
+        "count": "3120",
+        "first_seen": "2019-09-20 07:55:10",
+        "last_seen": "2019-10-29 00:21:31",
+        "ip_address": "104.18.37.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.kLkmw.com",
+        "count": "307",
+        "first_seen": "2019-09-20 07:55:10",
+        "last_seen": "2019-10-29 00:21:31",
+        "ip_address": "2606:4700:30::6812:24d7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.kLkmw.com",
+        "count": "307",
+        "first_seen": "2019-09-20 07:55:10",
+        "last_seen": "2019-10-29 00:21:31",
+        "ip_address": "2606:4700:30::6812:25d7",
+        "type": "IPv6"
+    }
+]

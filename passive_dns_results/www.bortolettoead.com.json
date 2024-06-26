@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.bortolettoead.com",
+        "count": "8",
+        "first_seen": "2019-08-20 22:20:11",
+        "last_seen": "2019-09-04 21:01:45",
+        "ip_address": "104.18.62.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bortolettoead.com",
+        "count": "8",
+        "first_seen": "2019-08-20 22:20:11",
+        "last_seen": "2019-09-04 21:01:45",
+        "ip_address": "104.18.63.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bortolettoead.com",
+        "count": "77",
+        "first_seen": "2023-04-19 09:22:01",
+        "last_seen": "2023-04-20 03:02:08",
+        "ip_address": "155.94.197.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bortolettoead.com",
+        "count": "14",
+        "first_seen": "2022-11-07 04:02:48",
+        "last_seen": "2023-04-08 11:23:51",
+        "ip_address": "164.155.180.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bortolettoead.com",
+        "count": "2",
+        "first_seen": "2019-08-21 20:41:30",
+        "last_seen": "2019-08-21 20:41:30",
+        "ip_address": "2606:4700:30::6812:3e4a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bortolettoead.com",
+        "count": "2",
+        "first_seen": "2019-08-21 20:41:30",
+        "last_seen": "2019-08-21 20:41:30",
+        "ip_address": "2606:4700:30::6812:3f4a",
+        "type": "IPv6"
+    }
+]

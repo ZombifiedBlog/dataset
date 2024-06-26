@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "cfmpyz.com",
+        "count": "2",
+        "first_seen": "2023-04-01 08:55:01",
+        "last_seen": "2023-04-02 21:59:20",
+        "ip_address": "15.167.212.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cfmpyz.com",
+        "count": "2",
+        "first_seen": "2023-03-13 11:30:55",
+        "last_seen": "2023-03-18 04:00:19",
+        "ip_address": "34.160.73.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cfmpyz.com",
+        "count": "5",
+        "first_seen": "2023-02-24 08:18:07",
+        "last_seen": "2023-03-07 07:03:52",
+        "ip_address": "34.160.209.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cfmpyz.com",
+        "count": "60",
+        "first_seen": "2022-03-01 18:07:12",
+        "last_seen": "2023-02-18 20:32:01",
+        "ip_address": "74.206.228.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cfmpyz.com",
+        "count": "60",
+        "first_seen": "2022-03-01 18:07:12",
+        "last_seen": "2023-02-18 20:32:01",
+        "ip_address": "173.239.5.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cfmpyz.com",
+        "count": "60",
+        "first_seen": "2022-03-01 18:07:12",
+        "last_seen": "2023-02-18 20:32:01",
+        "ip_address": "173.239.8.164",
+        "type": "IPv4"
+    }
+]

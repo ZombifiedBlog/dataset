@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "webmail.infocert.it",
+        "count": "554",
+        "first_seen": "2010-06-25 05:30:43",
+        "last_seen": "2014-07-22 05:45:56",
+        "ip_address": "80.82.9.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmail.infocert.it",
+        "count": "1",
+        "first_seen": "2011-12-20 15:25:50",
+        "last_seen": "2011-12-20 15:25:50",
+        "ip_address": "80.82.9.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmail.infocert.it",
+        "count": "1",
+        "first_seen": "2011-12-20 15:25:50",
+        "last_seen": "2011-12-20 15:25:50",
+        "ip_address": "80.82.10.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmail.infocert.it",
+        "count": "261389",
+        "first_seen": "2016-11-14 16:40:05",
+        "last_seen": "2024-01-18 15:40:36",
+        "ip_address": "185.102.40.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmail.infocert.it",
+        "count": "40",
+        "first_seen": "2014-12-24 14:09:52",
+        "last_seen": "2015-04-29 17:58:14",
+        "ip_address": "78.6.251.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmail.infocert.it",
+        "count": "604",
+        "first_seen": "2015-06-09 11:13:01",
+        "last_seen": "2016-05-24 15:25:23",
+        "ip_address": "78.6.251.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmail.infocert.it",
+        "count": "604",
+        "first_seen": "2015-06-09 11:13:01",
+        "last_seen": "2016-05-24 15:25:23",
+        "ip_address": "82.85.191.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmail.infocert.it",
+        "count": "18",
+        "first_seen": "2015-01-07 16:16:37",
+        "last_seen": "2015-04-28 04:05:26",
+        "ip_address": "82.85.191.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmail.infocert.it",
+        "count": "1398",
+        "first_seen": "2016-05-25 08:19:29",
+        "last_seen": "2016-11-14 07:05:46",
+        "ip_address": "185.102.40.57",
+        "type": "IPv4"
+    }
+]

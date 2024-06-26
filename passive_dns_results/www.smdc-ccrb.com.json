@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.smdc-ccrb.com",
+        "count": "113",
+        "first_seen": "2021-01-25 20:28:49",
+        "last_seen": "2021-02-03 08:08:29",
+        "ip_address": "23.95.234.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smdc-ccrb.com",
+        "count": "797",
+        "first_seen": "2021-01-21 19:23:22",
+        "last_seen": "2021-01-25 18:58:05",
+        "ip_address": "23.95.234.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smdc-ccrb.com",
+        "count": "16",
+        "first_seen": "2021-04-03 07:10:10",
+        "last_seen": "2021-12-25 00:33:14",
+        "ip_address": "156.239.99.112",
+        "type": "IPv4"
+    }
+]

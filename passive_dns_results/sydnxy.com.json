@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "sydnxy.com",
+        "count": "131",
+        "first_seen": "2017-07-08 07:44:00",
+        "last_seen": "2018-08-16 21:17:18",
+        "ip_address": "23.227.38.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sydnxy.com",
+        "count": "406",
+        "first_seen": "2020-11-22 17:13:18",
+        "last_seen": "2021-01-25 09:15:03",
+        "ip_address": "85.208.109.159",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sydnxy.com",
+        "count": "17",
+        "first_seen": "2019-11-26 02:40:01",
+        "last_seen": "2019-12-22 12:42:13",
+        "ip_address": "99.81.40.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sydnxy.com",
+        "count": "229",
+        "first_seen": "2018-12-18 21:04:03",
+        "last_seen": "2019-11-19 05:17:51",
+        "ip_address": "104.25.53.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sydnxy.com",
+        "count": "34",
+        "first_seen": "2018-11-22 14:40:38",
+        "last_seen": "2018-12-13 11:28:45",
+        "ip_address": "104.25.57.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sydnxy.com",
+        "count": "281",
+        "first_seen": "2021-04-27 09:10:38",
+        "last_seen": "2023-04-24 11:23:17",
+        "ip_address": "108.186.124.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sydnxy.com",
+        "count": "17",
+        "first_seen": "2020-02-21 01:46:50",
+        "last_seen": "2020-03-08 11:43:30",
+        "ip_address": "154.48.228.235",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sydnxy.com",
+        "count": "16",
+        "first_seen": "2020-06-23 02:07:23",
+        "last_seen": "2020-07-16 14:10:01",
+        "ip_address": "154.205.9.135",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "security-subscriber-center.kungfumart.com",
+        "count": "2",
+        "first_seen": "2023-12-16 22:43:13",
+        "last_seen": "2023-12-16 22:43:13",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.kungfumart.com",
+        "count": "2",
+        "first_seen": "2023-12-22 14:18:45",
+        "last_seen": "2023-12-22 14:18:45",
+        "ip_address": "103.224.212.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.kungfumart.com",
+        "count": "18",
+        "first_seen": "2023-03-06 17:47:57",
+        "last_seen": "2023-08-28 21:17:20",
+        "ip_address": "103.224.212.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.kungfumart.com",
+        "count": "4724",
+        "first_seen": "2022-10-01 23:33:57",
+        "last_seen": "2022-12-31 06:21:36",
+        "ip_address": "104.21.95.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.kungfumart.com",
+        "count": "4724",
+        "first_seen": "2022-10-01 23:33:57",
+        "last_seen": "2022-12-31 06:21:36",
+        "ip_address": "172.67.170.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.kungfumart.com",
+        "count": "1",
+        "first_seen": "2023-02-26 16:52:48",
+        "last_seen": "2023-02-26 16:52:48",
+        "ip_address": "170.178.168.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.kungfumart.com",
+        "count": "2",
+        "first_seen": "2023-08-26 13:22:56",
+        "last_seen": "2023-08-26 13:22:56",
+        "ip_address": "170.178.183.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.kungfumart.com",
+        "count": "1",
+        "first_seen": "2023-02-11 10:34:11",
+        "last_seen": "2023-02-11 10:34:11",
+        "ip_address": "199.115.116.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.kungfumart.com",
+        "count": "233",
+        "first_seen": "2022-10-02 13:11:42",
+        "last_seen": "2022-12-30 14:00:43",
+        "ip_address": "2606:4700:3031::6815:5fb4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "security-subscriber-center.kungfumart.com",
+        "count": "233",
+        "first_seen": "2022-10-02 13:11:42",
+        "last_seen": "2022-12-30 14:00:43",
+        "ip_address": "2606:4700:3035::ac43:aaf7",
+        "type": "IPv6"
+    }
+]

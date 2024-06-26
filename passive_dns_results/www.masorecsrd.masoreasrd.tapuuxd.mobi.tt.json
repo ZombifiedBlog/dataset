@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.masorecsrd.masoreasrd.tapuuxd.mobi.tt",
+        "count": "3",
+        "first_seen": "2023-09-01 17:06:09",
+        "last_seen": "2024-01-15 13:01:38",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.masorecsrd.masoreasrd.tapuuxd.mobi.tt",
+        "count": "31",
+        "first_seen": "2022-07-11 17:44:09",
+        "last_seen": "2022-07-12 02:41:36",
+        "ip_address": "107.174.138.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.masorecsrd.masoreasrd.tapuuxd.mobi.tt",
+        "count": "2",
+        "first_seen": "2024-01-15 13:01:38",
+        "last_seen": "2024-01-15 13:01:38",
+        "ip_address": "::1",
+        "type": "IPv6"
+    }
+]

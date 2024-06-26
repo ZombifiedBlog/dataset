@@ -1,0 +1,234 @@
+[
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "1",
+        "first_seen": "2022-05-26 19:38:27",
+        "last_seen": "2022-05-26 19:38:27",
+        "ip_address": "37.48.65.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "1",
+        "first_seen": "2022-05-28 19:04:38",
+        "last_seen": "2022-05-28 19:04:38",
+        "ip_address": "37.48.65.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "12",
+        "first_seen": "2021-01-03 07:34:58",
+        "last_seen": "2021-01-23 12:02:53",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "1",
+        "first_seen": "2021-11-01 00:11:18",
+        "last_seen": "2021-11-01 00:11:18",
+        "ip_address": "63.143.32.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "2",
+        "first_seen": "2021-06-09 19:59:37",
+        "last_seen": "2021-06-10 08:02:08",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "9",
+        "first_seen": "2023-07-23 03:46:02",
+        "last_seen": "2023-08-26 16:42:31",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "21",
+        "first_seen": "2021-09-21 17:32:49",
+        "last_seen": "2021-10-07 15:30:04",
+        "ip_address": "78.41.204.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "59",
+        "first_seen": "2021-09-24 07:20:15",
+        "last_seen": "2021-10-30 04:47:11",
+        "ip_address": "78.41.204.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "6",
+        "first_seen": "2021-09-21 18:16:55",
+        "last_seen": "2021-10-22 00:41:26",
+        "ip_address": "78.41.204.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "2",
+        "first_seen": "2021-09-22 01:30:24",
+        "last_seen": "2022-04-03 01:22:29",
+        "ip_address": "78.41.204.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "1",
+        "first_seen": "2021-08-04 21:45:32",
+        "last_seen": "2021-08-04 21:45:32",
+        "ip_address": "78.41.204.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "2",
+        "first_seen": "2021-08-26 10:56:30",
+        "last_seen": "2021-12-22 11:38:20",
+        "ip_address": "78.41.204.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "12",
+        "first_seen": "2021-09-01 04:55:34",
+        "last_seen": "2022-04-24 23:18:21",
+        "ip_address": "78.41.204.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "2",
+        "first_seen": "2021-12-02 11:35:47",
+        "last_seen": "2021-12-11 00:52:51",
+        "ip_address": "78.41.204.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "9",
+        "first_seen": "2021-08-20 04:11:24",
+        "last_seen": "2021-08-28 17:18:55",
+        "ip_address": "78.41.204.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "7",
+        "first_seen": "2021-09-24 20:44:01",
+        "last_seen": "2022-01-27 21:22:30",
+        "ip_address": "78.41.204.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "35",
+        "first_seen": "2021-09-20 13:46:28",
+        "last_seen": "2021-09-21 07:38:39",
+        "ip_address": "78.41.204.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "2",
+        "first_seen": "2021-08-01 17:23:39",
+        "last_seen": "2021-08-01 17:23:39",
+        "ip_address": "81.171.22.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "3",
+        "first_seen": "2022-05-04 23:08:18",
+        "last_seen": "2022-05-05 11:07:19",
+        "ip_address": "91.195.240.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "65",
+        "first_seen": "2021-05-21 18:52:33",
+        "last_seen": "2021-07-02 06:49:17",
+        "ip_address": "103.224.212.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "472",
+        "first_seen": "2020-11-03 20:51:59",
+        "last_seen": "2020-11-22 06:23:21",
+        "ip_address": "104.168.99.243",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "2",
+        "first_seen": "2022-06-02 10:55:25",
+        "last_seen": "2022-06-02 10:55:25",
+        "ip_address": "162.210.196.171",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "2",
+        "first_seen": "2021-06-09 19:13:14",
+        "last_seen": "2021-06-09 20:16:00",
+        "ip_address": "170.178.168.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "1",
+        "first_seen": "2022-05-28 19:04:38",
+        "last_seen": "2022-05-28 19:04:38",
+        "ip_address": "199.115.116.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "22",
+        "first_seen": "2021-09-21 15:13:27",
+        "last_seen": "2022-04-24 23:18:21",
+        "ip_address": "209.126.123.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "12",
+        "first_seen": "2021-09-20 13:55:37",
+        "last_seen": "2022-02-24 02:25:29",
+        "ip_address": "209.126.123.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "7",
+        "first_seen": "2021-08-12 06:46:22",
+        "last_seen": "2022-02-15 01:26:45",
+        "ip_address": "209.126.123.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "1",
+        "first_seen": "2022-07-17 21:11:44",
+        "last_seen": "2022-07-17 21:11:44",
+        "ip_address": "150.95.255.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.lcsfg.com",
+        "count": "13",
+        "first_seen": "2022-07-17 21:11:40",
+        "last_seen": "2022-07-17 21:11:50",
+        "ip_address": "150.95.255.38",
+        "type": "IPv4"
+    }
+]

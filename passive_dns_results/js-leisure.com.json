@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "js-leisure.com",
+        "count": "20980",
+        "first_seen": "2019-06-29 01:11:12",
+        "last_seen": "2022-11-08 02:39:32",
+        "ip_address": "77.68.22.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "js-leisure.com",
+        "count": "1343",
+        "first_seen": "2019-01-14 15:55:07",
+        "last_seen": "2019-06-28 12:54:48",
+        "ip_address": "77.68.77.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "js-leisure.com",
+        "count": "68",
+        "first_seen": "2013-11-26 16:41:50",
+        "last_seen": "2016-02-02 11:09:13",
+        "ip_address": "94.126.40.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "js-leisure.com",
+        "count": "6",
+        "first_seen": "2011-12-05 08:54:30",
+        "last_seen": "2012-10-07 13:20:54",
+        "ip_address": "94.126.40.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "js-leisure.com",
+        "count": "25564",
+        "first_seen": "2023-01-23 16:20:50",
+        "last_seen": "2023-02-28 18:15:24",
+        "ip_address": "149.5.172.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "js-leisure.com",
+        "count": "14455",
+        "first_seen": "2022-12-23 16:20:00",
+        "last_seen": "2023-01-23 16:16:04",
+        "ip_address": "149.5.172.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "js-leisure.com",
+        "count": "55",
+        "first_seen": "2016-02-13 12:21:45",
+        "last_seen": "2016-06-08 19:37:58",
+        "ip_address": "162.13.196.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "js-leisure.com",
+        "count": "152",
+        "first_seen": "2016-06-15 20:02:23",
+        "last_seen": "2017-03-20 07:07:30",
+        "ip_address": "176.32.230.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "js-leisure.com",
+        "count": "322",
+        "first_seen": "2017-03-23 19:01:19",
+        "last_seen": "2019-01-14 03:29:30",
+        "ip_address": "185.151.28.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "js-leisure.com",
+        "count": "23",
+        "first_seen": "2022-11-09 02:16:16",
+        "last_seen": "2022-11-15 07:42:50",
+        "ip_address": "195.110.124.154",
+        "type": "IPv4"
+    },
+    {
+        "domain": "js-leisure.com",
+        "count": "58",
+        "first_seen": "2017-04-14 05:50:31",
+        "last_seen": "2019-01-08 07:38:12",
+        "ip_address": "2a07:7800::153",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.raum-3000.com",
+        "count": "34",
+        "first_seen": "2022-02-26 00:05:07",
+        "last_seen": "2022-03-27 19:19:29",
+        "ip_address": "45.136.119.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.raum-3000.com",
+        "count": "1039",
+        "first_seen": "2023-02-11 16:06:57",
+        "last_seen": "2023-02-25 16:07:18",
+        "ip_address": "66.63.179.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.raum-3000.com",
+        "count": "1",
+        "first_seen": "2023-02-25 01:53:56",
+        "last_seen": "2023-02-25 01:53:56",
+        "ip_address": "69.16.231.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.raum-3000.com",
+        "count": "522",
+        "first_seen": "2023-02-25 17:23:03",
+        "last_seen": "2023-04-06 17:20:03",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.raum-3000.com",
+        "count": "47",
+        "first_seen": "2022-03-30 15:46:29",
+        "last_seen": "2022-05-17 14:36:39",
+        "ip_address": "85.208.118.8",
+        "type": "IPv4"
+    }
+]

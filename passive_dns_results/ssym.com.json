@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "ssym.com",
+        "count": "53988",
+        "first_seen": "2016-09-24 22:35:08",
+        "last_seen": "2024-01-18 08:00:27",
+        "ip_address": "1.251.44.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ssym.com",
+        "count": "814",
+        "first_seen": "2012-09-23 02:38:35",
+        "last_seen": "2016-08-10 07:51:43",
+        "ip_address": "203.238.68.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ssym.com",
+        "count": "360",
+        "first_seen": "2010-07-17 21:31:07",
+        "last_seen": "2016-09-22 02:50:25",
+        "ip_address": "203.238.68.123",
+        "type": "IPv4"
+    }
+]

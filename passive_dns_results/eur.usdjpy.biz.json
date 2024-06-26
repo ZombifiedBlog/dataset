@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "eur.usdjpy.biz",
+        "count": "1",
+        "first_seen": "2011-03-21 15:51:18",
+        "last_seen": "2011-03-21 15:51:18",
+        "ip_address": "38.99.112.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "eur.usdjpy.biz",
+        "count": "176",
+        "first_seen": "2022-02-05 02:19:26",
+        "last_seen": "2024-01-16 07:45:33",
+        "ip_address": "162.43.117.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "eur.usdjpy.biz",
+        "count": "753",
+        "first_seen": "2017-03-26 11:28:08",
+        "last_seen": "2021-12-25 02:39:00",
+        "ip_address": "183.90.242.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "eur.usdjpy.biz",
+        "count": "701",
+        "first_seen": "2011-08-24 01:39:27",
+        "last_seen": "2014-11-16 02:49:54",
+        "ip_address": "209.54.61.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "eur.usdjpy.biz",
+        "count": "366",
+        "first_seen": "2014-11-20 01:16:46",
+        "last_seen": "2017-02-15 05:10:32",
+        "ip_address": "210.188.201.53",
+        "type": "IPv4"
+    }
+]

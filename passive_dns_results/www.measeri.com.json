@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.measeri.com",
+        "count": "292",
+        "first_seen": "2022-03-04 20:41:23",
+        "last_seen": "2022-03-08 03:19:19",
+        "ip_address": "107.172.13.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.measeri.com",
+        "count": "1",
+        "first_seen": "2023-03-04 19:48:03",
+        "last_seen": "2023-03-04 19:48:03",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.measeri.com",
+        "count": "3",
+        "first_seen": "2023-03-04 19:47:45",
+        "last_seen": "2023-03-29 16:41:43",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

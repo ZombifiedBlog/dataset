@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.ametek.de",
+        "count": "7",
+        "first_seen": "2017-06-04 12:45:22",
+        "last_seen": "2017-06-04 19:54:00",
+        "ip_address": "62.0.58.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ametek.de",
+        "count": "1253",
+        "first_seen": "2011-12-13 03:47:03",
+        "last_seen": "2015-04-24 15:04:06",
+        "ip_address": "63.80.255.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ametek.de",
+        "count": "344",
+        "first_seen": "2010-06-24 11:23:57",
+        "last_seen": "2011-12-10 18:07:58",
+        "ip_address": "63.80.255.244",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ametek.de",
+        "count": "10940",
+        "first_seen": "2015-04-24 16:20:27",
+        "last_seen": "2017-01-06 21:09:26",
+        "ip_address": "192.48.233.50",
+        "type": "IPv4"
+    }
+]

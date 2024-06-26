@@ -1,0 +1,146 @@
+[
+    {
+        "domain": "subscriber.oakum.top",
+        "count": "399",
+        "first_seen": "2023-06-15 12:33:36",
+        "last_seen": "2023-07-27 18:53:37",
+        "ip_address": "104.21.67.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.oakum.top",
+        "count": "399",
+        "first_seen": "2023-06-15 12:33:36",
+        "last_seen": "2023-07-27 18:53:37",
+        "ip_address": "172.67.183.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.oakum.top",
+        "count": "3",
+        "first_seen": "2023-06-27 13:10:40",
+        "last_seen": "2023-06-27 13:47:57",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.oakum.top",
+        "count": "3",
+        "first_seen": "2023-06-27 13:10:40",
+        "last_seen": "2023-06-27 13:47:57",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.oakum.top",
+        "count": "11",
+        "first_seen": "2023-06-21 19:01:45",
+        "last_seen": "2023-07-12 02:59:49",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.oakum.top",
+        "count": "11",
+        "first_seen": "2023-06-21 19:01:45",
+        "last_seen": "2023-07-12 02:59:49",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.oakum.top",
+        "count": "1",
+        "first_seen": "2023-06-18 04:45:09",
+        "last_seen": "2023-06-18 04:45:09",
+        "ip_address": "188.114.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.oakum.top",
+        "count": "1",
+        "first_seen": "2023-06-18 04:45:09",
+        "last_seen": "2023-06-18 04:45:09",
+        "ip_address": "188.114.97.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.oakum.top",
+        "count": "13",
+        "first_seen": "2023-06-17 14:51:18",
+        "last_seen": "2023-06-28 06:10:45",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.oakum.top",
+        "count": "13",
+        "first_seen": "2023-06-17 14:51:18",
+        "last_seen": "2023-06-28 06:10:45",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.oakum.top",
+        "count": "6",
+        "first_seen": "2023-06-16 23:36:30",
+        "last_seen": "2023-06-27 19:38:45",
+        "ip_address": "2606:4700:3033::6815:43f2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.oakum.top",
+        "count": "6",
+        "first_seen": "2023-06-16 23:36:30",
+        "last_seen": "2023-06-27 19:38:45",
+        "ip_address": "2606:4700:3037::ac43:b72b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.oakum.top",
+        "count": "8",
+        "first_seen": "2023-06-27 09:57:51",
+        "last_seen": "2023-07-06 10:07:23",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.oakum.top",
+        "count": "8",
+        "first_seen": "2023-06-27 09:57:51",
+        "last_seen": "2023-07-06 10:07:23",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.oakum.top",
+        "count": "2",
+        "first_seen": "2023-06-22 05:41:00",
+        "last_seen": "2023-06-22 05:41:00",
+        "ip_address": "2a06:98c1:3120::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.oakum.top",
+        "count": "2",
+        "first_seen": "2023-06-22 05:41:00",
+        "last_seen": "2023-06-22 05:41:00",
+        "ip_address": "2a06:98c1:3121::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.oakum.top",
+        "count": "6",
+        "first_seen": "2023-06-17 14:51:18",
+        "last_seen": "2023-06-28 06:10:45",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.oakum.top",
+        "count": "6",
+        "first_seen": "2023-06-17 14:51:18",
+        "last_seen": "2023-06-28 06:10:45",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

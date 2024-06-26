@@ -1,0 +1,394 @@
+[
+    {
+        "domain": "www.bookish.com",
+        "count": "56",
+        "first_seen": "2023-05-18 09:39:40",
+        "last_seen": "2023-05-25 03:36:54",
+        "ip_address": "3.208.131.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "56",
+        "first_seen": "2023-05-18 09:39:40",
+        "last_seen": "2023-05-25 03:36:54",
+        "ip_address": "3.228.34.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "34",
+        "first_seen": "2023-04-26 22:17:17",
+        "last_seen": "2023-04-30 23:09:39",
+        "ip_address": "3.226.95.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "34",
+        "first_seen": "2023-04-26 22:17:17",
+        "last_seen": "2023-04-30 23:09:39",
+        "ip_address": "52.4.181.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "34",
+        "first_seen": "2023-04-19 17:07:02",
+        "last_seen": "2023-04-26 06:08:37",
+        "ip_address": "3.226.95.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "34",
+        "first_seen": "2023-04-19 17:07:02",
+        "last_seen": "2023-04-26 06:08:37",
+        "ip_address": "52.201.110.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "49",
+        "first_seen": "2023-09-01 01:51:47",
+        "last_seen": "2023-09-13 23:03:34",
+        "ip_address": "3.233.33.244",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "49",
+        "first_seen": "2023-09-01 01:51:47",
+        "last_seen": "2023-09-13 23:03:34",
+        "ip_address": "54.87.204.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "1",
+        "first_seen": "2023-07-30 07:22:57",
+        "last_seen": "2023-07-30 07:22:57",
+        "ip_address": "18.213.241.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "1",
+        "first_seen": "2023-07-30 07:22:57",
+        "last_seen": "2023-07-30 07:22:57",
+        "ip_address": "35.174.87.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "151",
+        "first_seen": "2023-07-09 06:47:30",
+        "last_seen": "2023-07-30 06:55:20",
+        "ip_address": "18.213.241.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "151",
+        "first_seen": "2023-07-09 06:47:30",
+        "last_seen": "2023-07-30 06:55:20",
+        "ip_address": "44.206.217.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "12",
+        "first_seen": "2023-07-08 15:27:39",
+        "last_seen": "2023-07-09 03:01:02",
+        "ip_address": "18.213.241.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "12",
+        "first_seen": "2023-07-08 15:27:39",
+        "last_seen": "2023-07-09 03:01:02",
+        "ip_address": "54.225.159.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "6",
+        "first_seen": "2023-05-22 23:36:16",
+        "last_seen": "2023-05-23 02:45:28",
+        "ip_address": "34.192.12.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "6",
+        "first_seen": "2023-05-22 23:36:16",
+        "last_seen": "2023-05-23 02:45:28",
+        "ip_address": "44.214.174.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "30",
+        "first_seen": "2023-07-04 17:10:59",
+        "last_seen": "2023-07-07 20:32:47",
+        "ip_address": "34.235.12.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "30",
+        "first_seen": "2023-07-04 17:10:59",
+        "last_seen": "2023-07-07 20:32:47",
+        "ip_address": "44.206.217.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "180",
+        "first_seen": "2023-06-18 12:38:35",
+        "last_seen": "2023-07-03 13:40:19",
+        "ip_address": "34.235.12.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "180",
+        "first_seen": "2023-06-18 12:38:35",
+        "last_seen": "2023-07-03 13:40:19",
+        "ip_address": "54.88.148.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "187",
+        "first_seen": "2023-05-29 13:03:46",
+        "last_seen": "2023-06-18 03:52:58",
+        "ip_address": "34.235.12.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "187",
+        "first_seen": "2023-05-29 13:03:46",
+        "last_seen": "2023-06-18 03:52:58",
+        "ip_address": "54.164.132.99",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "117",
+        "first_seen": "2023-08-16 08:28:17",
+        "last_seen": "2023-08-31 17:36:26",
+        "ip_address": "34.236.14.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "117",
+        "first_seen": "2023-08-16 08:28:17",
+        "last_seen": "2023-08-31 17:36:26",
+        "ip_address": "54.165.150.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "133",
+        "first_seen": "2023-07-30 17:05:02",
+        "last_seen": "2023-08-16 04:46:54",
+        "ip_address": "35.174.87.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "133",
+        "first_seen": "2023-07-30 17:05:02",
+        "last_seen": "2023-08-16 04:46:54",
+        "ip_address": "184.73.69.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "2",
+        "first_seen": "2023-07-04 05:47:39",
+        "last_seen": "2023-07-04 05:47:39",
+        "ip_address": "44.198.236.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "2",
+        "first_seen": "2023-07-04 05:47:39",
+        "last_seen": "2023-07-04 05:47:39",
+        "ip_address": "54.88.148.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "128",
+        "first_seen": "2023-05-01 12:33:32",
+        "last_seen": "2023-05-18 04:55:44",
+        "ip_address": "52.4.181.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "128",
+        "first_seen": "2023-05-01 12:33:32",
+        "last_seen": "2023-05-18 04:55:44",
+        "ip_address": "54.90.19.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "30",
+        "first_seen": "2023-05-25 11:44:23",
+        "last_seen": "2023-05-29 06:45:30",
+        "ip_address": "54.83.31.95",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "30",
+        "first_seen": "2023-05-25 11:44:23",
+        "last_seen": "2023-05-29 06:45:30",
+        "ip_address": "54.205.137.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "732",
+        "first_seen": "2023-09-14 06:39:32",
+        "last_seen": "2024-01-17 23:27:22",
+        "ip_address": "54.152.115.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "1997",
+        "first_seen": "2016-11-14 22:56:47",
+        "last_seen": "2016-11-23 16:25:20",
+        "ip_address": "104.24.28.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "117216",
+        "first_seen": "2015-10-09 03:36:11",
+        "last_seen": "2016-11-15 17:12:38",
+        "ip_address": "104.24.28.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "117216",
+        "first_seen": "2015-10-09 03:36:11",
+        "last_seen": "2016-11-15 17:12:38",
+        "ip_address": "104.24.29.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "333948",
+        "first_seen": "2016-11-23 16:38:26",
+        "last_seen": "2023-04-19 17:00:17",
+        "ip_address": "107.20.245.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "16696",
+        "first_seen": "2014-10-20 20:26:18",
+        "last_seen": "2014-11-13 15:57:43",
+        "ip_address": "141.101.113.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "16696",
+        "first_seen": "2014-10-20 20:26:18",
+        "last_seen": "2014-11-13 15:57:43",
+        "ip_address": "141.101.123.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "16696",
+        "first_seen": "2014-10-20 20:26:18",
+        "last_seen": "2014-11-13 15:57:43",
+        "ip_address": "190.93.240.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "16696",
+        "first_seen": "2014-10-20 20:26:18",
+        "last_seen": "2014-11-13 15:57:43",
+        "ip_address": "190.93.241.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "16696",
+        "first_seen": "2014-10-20 20:26:18",
+        "last_seen": "2014-11-13 15:57:43",
+        "ip_address": "190.93.242.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "159071",
+        "first_seen": "2013-05-03 22:21:34",
+        "last_seen": "2014-10-20 20:25:05",
+        "ip_address": "141.101.123.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "159071",
+        "first_seen": "2013-05-03 22:21:34",
+        "last_seen": "2014-10-20 20:25:05",
+        "ip_address": "190.93.240.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "196527",
+        "first_seen": "2014-11-13 16:05:44",
+        "last_seen": "2015-10-09 03:24:56",
+        "ip_address": "162.159.250.188",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "196527",
+        "first_seen": "2014-11-13 16:05:44",
+        "last_seen": "2015-10-09 03:24:56",
+        "ip_address": "162.159.251.188",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "2490",
+        "first_seen": "2011-05-06 14:12:24",
+        "last_seen": "2012-07-14 15:34:35",
+        "ip_address": "173.192.205.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "9144",
+        "first_seen": "2016-08-19 23:42:10",
+        "last_seen": "2016-11-15 19:13:14",
+        "ip_address": "2400:cb00:2048:1::6818:1c15",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bookish.com",
+        "count": "9144",
+        "first_seen": "2016-08-19 23:42:10",
+        "last_seen": "2016-11-15 19:13:14",
+        "ip_address": "2400:cb00:2048:1::6818:1d15",
+        "type": "IPv6"
+    }
+]

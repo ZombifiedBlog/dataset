@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "cfgpropiedades.cl",
+        "count": "594",
+        "first_seen": "2015-11-29 23:00:15",
+        "last_seen": "2019-04-30 13:18:09",
+        "ip_address": "186.64.119.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cfgpropiedades.cl",
+        "count": "806",
+        "first_seen": "2019-05-07 06:06:29",
+        "last_seen": "2022-05-25 16:34:32",
+        "ip_address": "186.64.119.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cfgpropiedades.cl",
+        "count": "28",
+        "first_seen": "2022-05-28 21:13:50",
+        "last_seen": "2022-07-14 19:50:59",
+        "ip_address": "186.64.119.170",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "tezzasolutions.com",
+        "count": "2",
+        "first_seen": "2015-08-21 03:32:16",
+        "last_seen": "2015-08-21 03:32:16",
+        "ip_address": "50.63.202.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tezzasolutions.com",
+        "count": "2",
+        "first_seen": "2012-06-09 13:29:14",
+        "last_seen": "2012-06-09 13:29:14",
+        "ip_address": "68.178.232.99",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tezzasolutions.com",
+        "count": "2230",
+        "first_seen": "2010-06-26 22:01:41",
+        "last_seen": "2013-10-18 17:46:30",
+        "ip_address": "70.87.76.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tezzasolutions.com",
+        "count": "4707",
+        "first_seen": "2022-09-10 03:24:24",
+        "last_seen": "2024-01-18 00:20:56",
+        "ip_address": "154.12.231.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tezzasolutions.com",
+        "count": "14",
+        "first_seen": "2015-08-17 02:56:17",
+        "last_seen": "2015-08-20 19:16:29",
+        "ip_address": "184.168.221.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tezzasolutions.com",
+        "count": "53303",
+        "first_seen": "2013-10-22 12:33:17",
+        "last_seen": "2022-09-09 18:54:43",
+        "ip_address": "192.185.100.27",
+        "type": "IPv4"
+    }
+]

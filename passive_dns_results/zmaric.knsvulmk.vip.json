@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "zmaric.knsvulmk.vip",
+        "count": "2",
+        "first_seen": "2020-12-26 00:34:47",
+        "last_seen": "2020-12-27 02:17:23",
+        "ip_address": "104.28.6.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zmaric.knsvulmk.vip",
+        "count": "2",
+        "first_seen": "2020-12-26 00:34:47",
+        "last_seen": "2020-12-27 02:17:23",
+        "ip_address": "104.28.7.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zmaric.knsvulmk.vip",
+        "count": "2",
+        "first_seen": "2020-12-26 00:34:47",
+        "last_seen": "2020-12-27 02:17:23",
+        "ip_address": "172.67.166.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zmaric.knsvulmk.vip",
+        "count": "1",
+        "first_seen": "2020-12-27 02:17:23",
+        "last_seen": "2020-12-27 02:17:23",
+        "ip_address": "2606:4700:3035::681c:6e1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "zmaric.knsvulmk.vip",
+        "count": "1",
+        "first_seen": "2020-12-27 02:17:23",
+        "last_seen": "2020-12-27 02:17:23",
+        "ip_address": "2606:4700:3035::681c:7e1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "zmaric.knsvulmk.vip",
+        "count": "1",
+        "first_seen": "2020-12-27 02:17:23",
+        "last_seen": "2020-12-27 02:17:23",
+        "ip_address": "2606:4700:3037::ac43:a626",
+        "type": "IPv6"
+    }
+]

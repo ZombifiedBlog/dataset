@@ -1,0 +1,122 @@
+[
+    {
+        "domain": "www.hurraah.com",
+        "count": "2",
+        "first_seen": "2020-04-07 20:28:01",
+        "last_seen": "2020-04-13 23:52:52",
+        "ip_address": "34.206.12.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hurraah.com",
+        "count": "2",
+        "first_seen": "2020-04-07 20:28:01",
+        "last_seen": "2020-04-13 23:52:52",
+        "ip_address": "35.169.58.188",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hurraah.com",
+        "count": "2",
+        "first_seen": "2020-04-07 20:28:01",
+        "last_seen": "2020-04-13 23:52:52",
+        "ip_address": "54.208.77.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hurraah.com",
+        "count": "24",
+        "first_seen": "2018-08-11 09:01:55",
+        "last_seen": "2019-03-30 13:03:27",
+        "ip_address": "35.169.58.188",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hurraah.com",
+        "count": "24",
+        "first_seen": "2018-08-11 09:01:55",
+        "last_seen": "2019-03-30 13:03:27",
+        "ip_address": "54.208.77.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hurraah.com",
+        "count": "17",
+        "first_seen": "2016-05-24 18:16:17",
+        "last_seen": "2017-02-05 09:45:26",
+        "ip_address": "184.168.221.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hurraah.com",
+        "count": "15",
+        "first_seen": "2017-07-11 07:31:33",
+        "last_seen": "2018-07-15 04:29:40",
+        "ip_address": "184.168.221.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hurraah.com",
+        "count": "113",
+        "first_seen": "2023-04-06 14:52:09",
+        "last_seen": "2023-04-07 13:19:35",
+        "ip_address": "204.44.93.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hurraah.com",
+        "count": "6",
+        "first_seen": "2020-04-07 20:28:01",
+        "last_seen": "2020-04-13 23:52:52",
+        "ip_address": "34.206.12.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hurraah.com",
+        "count": "6",
+        "first_seen": "2020-04-07 20:28:01",
+        "last_seen": "2020-04-13 23:52:52",
+        "ip_address": "35.169.58.188",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hurraah.com",
+        "count": "6",
+        "first_seen": "2020-04-07 20:28:01",
+        "last_seen": "2020-04-13 23:52:52",
+        "ip_address": "54.208.77.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hurraah.com",
+        "count": "24",
+        "first_seen": "2018-08-11 09:01:55",
+        "last_seen": "2019-03-30 13:03:27",
+        "ip_address": "35.169.58.188",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hurraah.com",
+        "count": "24",
+        "first_seen": "2018-08-11 09:01:55",
+        "last_seen": "2019-03-30 13:03:27",
+        "ip_address": "54.208.77.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hurraah.com",
+        "count": "18",
+        "first_seen": "2016-05-24 18:16:17",
+        "last_seen": "2016-09-19 20:52:02",
+        "ip_address": "184.168.221.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hurraah.com",
+        "count": "17",
+        "first_seen": "2017-07-11 07:31:33",
+        "last_seen": "2018-07-15 04:29:40",
+        "ip_address": "184.168.221.104",
+        "type": "IPv4"
+    }
+]

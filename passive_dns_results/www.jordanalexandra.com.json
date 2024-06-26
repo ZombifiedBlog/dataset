@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.jordanalexandra.com",
+        "count": "5",
+        "first_seen": "2022-04-19 11:19:41",
+        "last_seen": "2022-04-27 07:45:31",
+        "ip_address": "23.104.111.166",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jordanalexandra.com",
+        "count": "1",
+        "first_seen": "2022-04-13 11:57:53",
+        "last_seen": "2022-04-13 11:57:53",
+        "ip_address": "23.104.111.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jordanalexandra.com",
+        "count": "2",
+        "first_seen": "2021-12-28 15:57:17",
+        "last_seen": "2022-01-27 16:36:53",
+        "ip_address": "23.247.77.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jordanalexandra.com",
+        "count": "1455",
+        "first_seen": "2020-02-22 03:24:30",
+        "last_seen": "2020-04-26 03:15:57",
+        "ip_address": "104.31.64.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jordanalexandra.com",
+        "count": "1455",
+        "first_seen": "2020-02-22 03:24:30",
+        "last_seen": "2020-04-26 03:15:57",
+        "ip_address": "104.31.65.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jordanalexandra.com",
+        "count": "550",
+        "first_seen": "2020-02-22 03:30:06",
+        "last_seen": "2020-04-25 01:42:29",
+        "ip_address": "2606:4700:3030::681f:40f0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.jordanalexandra.com",
+        "count": "550",
+        "first_seen": "2020-02-22 03:30:06",
+        "last_seen": "2020-04-25 01:42:29",
+        "ip_address": "2606:4700:3035::681f:41f0",
+        "type": "IPv6"
+    }
+]

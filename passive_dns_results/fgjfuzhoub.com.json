@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "fgjfuzhoub.com",
+        "count": "17",
+        "first_seen": "2022-12-01 04:53:45",
+        "last_seen": "2022-12-08 14:43:47",
+        "ip_address": "18.163.243.106",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fgjfuzhoub.com",
+        "count": "19",
+        "first_seen": "2023-12-01 06:53:23",
+        "last_seen": "2023-12-14 11:11:06",
+        "ip_address": "52.213.114.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fgjfuzhoub.com",
+        "count": "3287",
+        "first_seen": "2023-07-07 10:38:26",
+        "last_seen": "2023-11-17 04:24:26",
+        "ip_address": "104.21.40.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fgjfuzhoub.com",
+        "count": "3287",
+        "first_seen": "2023-07-07 10:38:26",
+        "last_seen": "2023-11-17 04:24:26",
+        "ip_address": "172.67.187.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fgjfuzhoub.com",
+        "count": "32",
+        "first_seen": "2022-12-17 09:38:14",
+        "last_seen": "2023-05-06 09:44:57",
+        "ip_address": "168.206.137.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fgjfuzhoub.com",
+        "count": "95",
+        "first_seen": "2023-05-07 08:47:13",
+        "last_seen": "2023-05-08 02:04:03",
+        "ip_address": "192.161.176.98",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fgjfuzhoub.com",
+        "count": "40",
+        "first_seen": "2023-07-07 10:38:26",
+        "last_seen": "2023-11-08 16:30:25",
+        "ip_address": "2606:4700:3034::6815:28a3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "fgjfuzhoub.com",
+        "count": "40",
+        "first_seen": "2023-07-07 10:38:26",
+        "last_seen": "2023-11-08 16:30:25",
+        "ip_address": "2606:4700:3034::ac43:bb6e",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscribers.aidrugs.shop",
+        "count": "58",
+        "first_seen": "2021-04-26 09:04:40",
+        "last_seen": "2021-05-03 22:23:38",
+        "ip_address": "104.21.87.175",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.aidrugs.shop",
+        "count": "58",
+        "first_seen": "2021-04-26 09:04:40",
+        "last_seen": "2021-05-03 22:23:38",
+        "ip_address": "172.67.170.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.aidrugs.shop",
+        "count": "260",
+        "first_seen": "2021-05-05 07:22:47",
+        "last_seen": "2021-05-06 00:18:35",
+        "ip_address": "104.168.174.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.aidrugs.shop",
+        "count": "5",
+        "first_seen": "2021-04-27 05:09:31",
+        "last_seen": "2021-05-01 19:40:06",
+        "ip_address": "2606:4700:3034::6815:57af",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.aidrugs.shop",
+        "count": "5",
+        "first_seen": "2021-04-27 05:09:31",
+        "last_seen": "2021-05-01 19:40:06",
+        "ip_address": "2606:4700:3036::ac43:aa7b",
+        "type": "IPv6"
+    }
+]

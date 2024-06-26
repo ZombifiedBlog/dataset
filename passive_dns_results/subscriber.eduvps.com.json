@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.eduvps.com",
+        "count": "10",
+        "first_seen": "2019-12-09 01:39:09",
+        "last_seen": "2020-01-02 21:19:39",
+        "ip_address": "104.27.158.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.eduvps.com",
+        "count": "10",
+        "first_seen": "2019-12-09 01:39:09",
+        "last_seen": "2020-01-02 21:19:39",
+        "ip_address": "104.27.159.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.eduvps.com",
+        "count": "12",
+        "first_seen": "2020-01-17 21:40:40",
+        "last_seen": "2020-01-31 06:45:19",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.eduvps.com",
+        "count": "10",
+        "first_seen": "2019-12-09 01:39:09",
+        "last_seen": "2020-01-02 21:19:39",
+        "ip_address": "2606:4700:30::681b:9e20",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.eduvps.com",
+        "count": "10",
+        "first_seen": "2019-12-09 01:39:09",
+        "last_seen": "2020-01-02 21:19:39",
+        "ip_address": "2606:4700:30::681b:9f20",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.ddllzr.ru",
+        "count": "4",
+        "first_seen": "2023-05-18 10:52:32",
+        "last_seen": "2023-06-04 03:43:11",
+        "ip_address": "31.177.76.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ddllzr.ru",
+        "count": "4",
+        "first_seen": "2023-05-18 10:52:32",
+        "last_seen": "2023-06-04 03:43:11",
+        "ip_address": "31.177.80.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ddllzr.ru",
+        "count": "4652",
+        "first_seen": "2022-06-03 03:57:32",
+        "last_seen": "2022-07-15 07:26:58",
+        "ip_address": "104.21.63.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ddllzr.ru",
+        "count": "4652",
+        "first_seen": "2022-06-03 03:57:32",
+        "last_seen": "2022-07-15 07:26:58",
+        "ip_address": "172.67.145.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ddllzr.ru",
+        "count": "347",
+        "first_seen": "2022-06-03 04:16:52",
+        "last_seen": "2022-07-15 07:24:47",
+        "ip_address": "2606:4700:3032::6815:3f5d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ddllzr.ru",
+        "count": "347",
+        "first_seen": "2022-06-03 04:16:52",
+        "last_seen": "2022-07-15 07:24:47",
+        "ip_address": "2606:4700:3032::ac43:911c",
+        "type": "IPv6"
+    }
+]

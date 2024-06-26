@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "my.rakuttnfdme.com",
+        "count": "7",
+        "first_seen": "2020-10-30 04:16:32",
+        "last_seen": "2020-10-30 06:43:03",
+        "ip_address": "104.27.154.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.rakuttnfdme.com",
+        "count": "7",
+        "first_seen": "2020-10-30 04:16:32",
+        "last_seen": "2020-10-30 06:43:03",
+        "ip_address": "104.27.155.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.rakuttnfdme.com",
+        "count": "7",
+        "first_seen": "2020-10-30 04:16:32",
+        "last_seen": "2020-10-30 06:43:03",
+        "ip_address": "172.67.208.231",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.rakuttnfdme.com",
+        "count": "2",
+        "first_seen": "2020-10-30 04:16:32",
+        "last_seen": "2020-10-30 04:16:32",
+        "ip_address": "2606:4700:3030::ac43:d0e7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my.rakuttnfdme.com",
+        "count": "2",
+        "first_seen": "2020-10-30 04:16:32",
+        "last_seen": "2020-10-30 04:16:32",
+        "ip_address": "2606:4700:3031::681b:9b42",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my.rakuttnfdme.com",
+        "count": "2",
+        "first_seen": "2020-10-30 04:16:32",
+        "last_seen": "2020-10-30 04:16:32",
+        "ip_address": "2606:4700:3035::681b:9a42",
+        "type": "IPv6"
+    }
+]

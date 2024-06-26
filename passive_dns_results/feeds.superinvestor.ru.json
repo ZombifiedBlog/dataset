@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "feeds.superinvestor.ru",
+        "count": "3",
+        "first_seen": "2011-01-20 22:51:04",
+        "last_seen": "2011-03-07 21:22:06",
+        "ip_address": "82.146.53.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "feeds.superinvestor.ru",
+        "count": "52",
+        "first_seen": "2023-08-31 19:11:38",
+        "last_seen": "2024-01-10 22:15:54",
+        "ip_address": "194.58.112.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "feeds.superinvestor.ru",
+        "count": "16",
+        "first_seen": "2023-08-31 19:11:38",
+        "last_seen": "2024-01-10 22:15:54",
+        "ip_address": "2a00:f940:4::152",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "order-yudobashi-com.equuji.bar",
+        "count": "60",
+        "first_seen": "2021-05-27 10:23:31",
+        "last_seen": "2021-06-05 14:05:08",
+        "ip_address": "104.21.58.175",
+        "type": "IPv4"
+    },
+    {
+        "domain": "order-yudobashi-com.equuji.bar",
+        "count": "60",
+        "first_seen": "2021-05-27 10:23:31",
+        "last_seen": "2021-06-05 14:05:08",
+        "ip_address": "172.67.162.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "order-yudobashi-com.equuji.bar",
+        "count": "15",
+        "first_seen": "2021-05-27 10:23:31",
+        "last_seen": "2021-06-04 07:15:39",
+        "ip_address": "2606:4700:3032::6815:3aaf",
+        "type": "IPv6"
+    },
+    {
+        "domain": "order-yudobashi-com.equuji.bar",
+        "count": "15",
+        "first_seen": "2021-05-27 10:23:31",
+        "last_seen": "2021-06-04 07:15:39",
+        "ip_address": "2606:4700:3032::ac43:a265",
+        "type": "IPv6"
+    }
+]

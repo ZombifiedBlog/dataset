@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "smcc-cacc.ffqyw.com",
+        "count": "1",
+        "first_seen": "2023-02-15 06:58:05",
+        "last_seen": "2023-02-15 06:58:05",
+        "ip_address": "45.199.101.166",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.ffqyw.com",
+        "count": "81",
+        "first_seen": "2020-10-22 16:49:12",
+        "last_seen": "2020-10-25 08:55:09",
+        "ip_address": "67.229.48.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.ffqyw.com",
+        "count": "1",
+        "first_seen": "2023-01-04 07:52:02",
+        "last_seen": "2023-01-04 07:52:02",
+        "ip_address": "103.226.155.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.ffqyw.com",
+        "count": "17",
+        "first_seen": "2023-02-22 08:45:58",
+        "last_seen": "2023-11-16 23:24:01",
+        "ip_address": "154.80.191.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.ffqyw.com",
+        "count": "123",
+        "first_seen": "2020-10-22 03:45:21",
+        "last_seen": "2020-10-22 16:25:27",
+        "ip_address": "174.139.126.176",
+        "type": "IPv4"
+    }
+]

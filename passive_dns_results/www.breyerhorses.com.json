@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "www.breyerhorses.com",
+        "count": "1",
+        "first_seen": "2023-02-23 18:30:15",
+        "last_seen": "2023-02-23 18:30:15",
+        "ip_address": "23.227.38.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.breyerhorses.com",
+        "count": "39",
+        "first_seen": "2023-02-23 16:34:56",
+        "last_seen": "2023-02-23 19:54:54",
+        "ip_address": "23.227.38.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.breyerhorses.com",
+        "count": "356274",
+        "first_seen": "2011-11-21 19:18:26",
+        "last_seen": "2015-04-14 16:16:41",
+        "ip_address": "50.57.29.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.breyerhorses.com",
+        "count": "213677",
+        "first_seen": "2015-04-14 16:16:33",
+        "last_seen": "2018-09-24 16:01:16",
+        "ip_address": "50.57.29.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.breyerhorses.com",
+        "count": "62490",
+        "first_seen": "2010-07-07 18:08:21",
+        "last_seen": "2011-11-21 18:07:04",
+        "ip_address": "64.90.185.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.breyerhorses.com",
+        "count": "765139",
+        "first_seen": "2016-09-30 15:58:59",
+        "last_seen": "2018-09-20 16:00:01",
+        "ip_address": "104.20.2.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.breyerhorses.com",
+        "count": "765139",
+        "first_seen": "2016-09-30 15:58:59",
+        "last_seen": "2018-09-20 16:00:01",
+        "ip_address": "104.20.3.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.breyerhorses.com",
+        "count": "26",
+        "first_seen": "2023-02-23 16:01:30",
+        "last_seen": "2023-02-23 18:02:14",
+        "ip_address": "206.188.192.161",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.breyerhorses.com",
+        "count": "47",
+        "first_seen": "2018-09-12 12:44:42",
+        "last_seen": "2023-02-23 17:50:09",
+        "ip_address": "208.91.197.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.breyerhorses.com",
+        "count": "3",
+        "first_seen": "2011-11-02 19:51:56",
+        "last_seen": "2011-11-03 16:31:07",
+        "ip_address": "209.62.20.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.breyerhorses.com",
+        "count": "572954",
+        "first_seen": "2016-09-30 16:21:49",
+        "last_seen": "2018-09-20 15:59:01",
+        "ip_address": "2400:cb00:2048:1::6814:239",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.breyerhorses.com",
+        "count": "572954",
+        "first_seen": "2016-09-30 16:21:49",
+        "last_seen": "2018-09-20 15:59:01",
+        "ip_address": "2400:cb00:2048:1::6814:339",
+        "type": "IPv6"
+    }
+]

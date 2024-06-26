@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.komplettapotek.no",
+        "count": "141",
+        "first_seen": "2023-09-29 10:42:34",
+        "last_seen": "2024-01-16 08:31:17",
+        "ip_address": "104.21.64.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.komplettapotek.no",
+        "count": "141",
+        "first_seen": "2023-09-29 10:42:34",
+        "last_seen": "2024-01-16 08:31:17",
+        "ip_address": "172.67.174.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.komplettapotek.no",
+        "count": "1342",
+        "first_seen": "2015-11-17 10:30:21",
+        "last_seen": "2016-09-13 09:19:56",
+        "ip_address": "195.177.98.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.komplettapotek.no",
+        "count": "37",
+        "first_seen": "2023-10-20 00:04:17",
+        "last_seen": "2024-01-11 01:08:25",
+        "ip_address": "2606:4700:3030::ac43:ae15",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.komplettapotek.no",
+        "count": "37",
+        "first_seen": "2023-10-20 00:04:17",
+        "last_seen": "2024-01-11 01:08:25",
+        "ip_address": "2606:4700:3036::6815:400a",
+        "type": "IPv6"
+    }
+]

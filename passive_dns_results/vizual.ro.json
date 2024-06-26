@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "vizual.ro",
+        "count": "840",
+        "first_seen": "2023-03-08 11:54:47",
+        "last_seen": "2024-01-18 10:12:49",
+        "ip_address": "45.67.39.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vizual.ro",
+        "count": "1216",
+        "first_seen": "2020-05-01 06:23:28",
+        "last_seen": "2021-04-22 10:35:52",
+        "ip_address": "46.242.233.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vizual.ro",
+        "count": "2754",
+        "first_seen": "2011-11-04 10:24:14",
+        "last_seen": "2017-10-13 15:07:22",
+        "ip_address": "89.46.6.41",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vizual.ro",
+        "count": "516",
+        "first_seen": "2018-09-28 01:14:17",
+        "last_seen": "2020-02-20 10:26:39",
+        "ip_address": "91.239.230.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vizual.ro",
+        "count": "206",
+        "first_seen": "2023-03-08 11:54:49",
+        "last_seen": "2024-01-18 10:12:49",
+        "ip_address": "2a00:ece1:0:1f::3c9",
+        "type": "IPv6"
+    }
+]

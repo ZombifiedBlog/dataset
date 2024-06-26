@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "etcmletcmeisaissl.top",
+        "count": "14",
+        "first_seen": "2023-01-11 08:52:31",
+        "last_seen": "2023-01-31 08:25:37",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etcmletcmeisaissl.top",
+        "count": "492",
+        "first_seen": "2022-06-08 15:20:53",
+        "last_seen": "2022-06-15 14:51:05",
+        "ip_address": "91.206.92.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etcmletcmeisaissl.top",
+        "count": "7259",
+        "first_seen": "2022-01-10 23:34:04",
+        "last_seen": "2022-06-08 14:05:34",
+        "ip_address": "104.21.12.64",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etcmletcmeisaissl.top",
+        "count": "7259",
+        "first_seen": "2022-01-10 23:34:04",
+        "last_seen": "2022-06-08 14:05:34",
+        "ip_address": "172.67.131.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etcmletcmeisaissl.top",
+        "count": "7",
+        "first_seen": "2022-03-11 08:12:12",
+        "last_seen": "2022-03-14 07:53:18",
+        "ip_address": "188.114.99.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etcmletcmeisaissl.top",
+        "count": "24",
+        "first_seen": "2022-01-10 09:21:16",
+        "last_seen": "2022-05-17 10:20:56",
+        "ip_address": "2606:4700:3032::ac43:83f2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "etcmletcmeisaissl.top",
+        "count": "24",
+        "first_seen": "2022-01-10 09:21:16",
+        "last_seen": "2022-05-17 10:20:56",
+        "ip_address": "2606:4700:3035::6815:c40",
+        "type": "IPv6"
+    }
+]

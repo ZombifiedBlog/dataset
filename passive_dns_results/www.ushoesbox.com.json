@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.ushoesbox.com",
+        "count": "34",
+        "first_seen": "2015-01-16 19:44:29",
+        "last_seen": "2015-06-08 04:48:09",
+        "ip_address": "43.224.152.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ushoesbox.com",
+        "count": "45",
+        "first_seen": "2015-08-03 03:51:23",
+        "last_seen": "2015-08-15 12:14:39",
+        "ip_address": "74.82.187.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ushoesbox.com",
+        "count": "37",
+        "first_seen": "2015-08-18 14:03:10",
+        "last_seen": "2015-11-02 05:33:28",
+        "ip_address": "104.224.252.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ushoesbox.com",
+        "count": "7",
+        "first_seen": "2016-01-06 08:31:14",
+        "last_seen": "2016-02-07 02:06:38",
+        "ip_address": "113.10.190.251",
+        "type": "IPv4"
+    }
+]

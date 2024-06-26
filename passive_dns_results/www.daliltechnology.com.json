@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.daliltechnology.com",
+        "count": "40",
+        "first_seen": "2023-06-11 01:00:44",
+        "last_seen": "2023-10-16 22:50:00",
+        "ip_address": "104.21.25.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.daliltechnology.com",
+        "count": "40",
+        "first_seen": "2023-06-11 01:00:44",
+        "last_seen": "2023-10-16 22:50:00",
+        "ip_address": "172.67.222.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.daliltechnology.com",
+        "count": "42",
+        "first_seen": "2023-10-28 16:04:38",
+        "last_seen": "2024-01-15 14:26:52",
+        "ip_address": "104.21.68.227",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.daliltechnology.com",
+        "count": "42",
+        "first_seen": "2023-10-28 16:04:38",
+        "last_seen": "2024-01-15 14:26:52",
+        "ip_address": "172.67.199.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.daliltechnology.com",
+        "count": "1",
+        "first_seen": "2023-11-08 11:23:31",
+        "last_seen": "2023-11-08 11:23:31",
+        "ip_address": "2606:4700:3030::6815:44e3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.daliltechnology.com",
+        "count": "1",
+        "first_seen": "2023-11-08 11:23:31",
+        "last_seen": "2023-11-08 11:23:31",
+        "ip_address": "2606:4700:3033::ac43:c735",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.daliltechnology.com",
+        "count": "9",
+        "first_seen": "2023-06-11 01:00:44",
+        "last_seen": "2023-09-15 00:38:59",
+        "ip_address": "2606:4700:3031::6815:192c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.daliltechnology.com",
+        "count": "9",
+        "first_seen": "2023-06-11 01:00:44",
+        "last_seen": "2023-09-15 00:38:59",
+        "ip_address": "2606:4700:3033::ac43:deae",
+        "type": "IPv6"
+    }
+]

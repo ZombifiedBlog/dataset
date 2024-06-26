@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "mazon-co.com",
+        "count": "1",
+        "first_seen": "2021-02-25 17:09:51",
+        "last_seen": "2021-02-25 17:09:51",
+        "ip_address": "128.14.142.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mazon-co.com",
+        "count": "76",
+        "first_seen": "2020-10-09 10:04:26",
+        "last_seen": "2021-02-12 07:05:03",
+        "ip_address": "198.211.29.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mazon-co.com",
+        "count": "24",
+        "first_seen": "2020-08-09 01:22:40",
+        "last_seen": "2020-09-10 16:08:54",
+        "ip_address": "216.240.150.88",
+        "type": "IPv4"
+    }
+]

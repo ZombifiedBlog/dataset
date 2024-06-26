@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "mks.vgmks.com",
+        "count": "681",
+        "first_seen": "2019-09-04 01:22:10",
+        "last_seen": "2020-04-29 14:53:10",
+        "ip_address": "104.28.8.157",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mks.vgmks.com",
+        "count": "681",
+        "first_seen": "2019-09-04 01:22:10",
+        "last_seen": "2020-04-29 14:53:10",
+        "ip_address": "104.28.9.157",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mks.vgmks.com",
+        "count": "3",
+        "first_seen": "2020-05-31 10:33:52",
+        "last_seen": "2020-07-31 08:39:03",
+        "ip_address": "104.28.8.157",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mks.vgmks.com",
+        "count": "3",
+        "first_seen": "2020-05-31 10:33:52",
+        "last_seen": "2020-07-31 08:39:03",
+        "ip_address": "104.28.9.157",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mks.vgmks.com",
+        "count": "3",
+        "first_seen": "2020-05-31 10:33:52",
+        "last_seen": "2020-07-31 08:39:03",
+        "ip_address": "172.67.186.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mks.vgmks.com",
+        "count": "19",
+        "first_seen": "2019-09-04 12:27:29",
+        "last_seen": "2020-01-05 20:22:51",
+        "ip_address": "2606:4700:30::681c:89d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mks.vgmks.com",
+        "count": "19",
+        "first_seen": "2019-09-04 12:27:29",
+        "last_seen": "2020-01-05 20:22:51",
+        "ip_address": "2606:4700:30::681c:99d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mks.vgmks.com",
+        "count": "10",
+        "first_seen": "2020-01-18 08:16:21",
+        "last_seen": "2020-04-29 14:53:10",
+        "ip_address": "2606:4700:3030::681c:89d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mks.vgmks.com",
+        "count": "10",
+        "first_seen": "2020-01-18 08:16:21",
+        "last_seen": "2020-04-29 14:53:10",
+        "ip_address": "2606:4700:3037::681c:99d",
+        "type": "IPv6"
+    }
+]

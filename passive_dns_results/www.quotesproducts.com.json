@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.quotesproducts.com",
+        "count": "626",
+        "first_seen": "2020-04-30 11:13:10",
+        "last_seen": "2020-05-09 14:51:43",
+        "ip_address": "104.31.76.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.quotesproducts.com",
+        "count": "626",
+        "first_seen": "2020-04-30 11:13:10",
+        "last_seen": "2020-05-09 14:51:43",
+        "ip_address": "104.31.77.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.quotesproducts.com",
+        "count": "6",
+        "first_seen": "2020-12-12 07:51:50",
+        "last_seen": "2021-01-19 22:35:24",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.quotesproducts.com",
+        "count": "6",
+        "first_seen": "2020-12-12 07:51:50",
+        "last_seen": "2021-01-19 22:35:24",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.quotesproducts.com",
+        "count": "6",
+        "first_seen": "2020-12-12 07:51:50",
+        "last_seen": "2021-01-19 22:35:24",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.quotesproducts.com",
+        "count": "6",
+        "first_seen": "2020-12-12 07:51:50",
+        "last_seen": "2021-01-19 22:35:24",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.quotesproducts.com",
+        "count": "232",
+        "first_seen": "2020-04-30 11:14:29",
+        "last_seen": "2020-05-08 13:07:25",
+        "ip_address": "2606:4700:3030::681f:4df8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.quotesproducts.com",
+        "count": "232",
+        "first_seen": "2020-04-30 11:14:29",
+        "last_seen": "2020-05-08 13:07:25",
+        "ip_address": "2606:4700:3031::681f:4cf8",
+        "type": "IPv6"
+    }
+]

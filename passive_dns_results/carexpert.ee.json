@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "carexpert.ee",
+        "count": "5889",
+        "first_seen": "2018-11-02 12:38:09",
+        "last_seen": "2021-01-26 19:07:20",
+        "ip_address": "88.99.147.202",
+        "type": "IPv4"
+    },
+    {
+        "domain": "carexpert.ee",
+        "count": "142",
+        "first_seen": "2021-11-10 10:10:15",
+        "last_seen": "2022-02-02 01:12:57",
+        "ip_address": "95.173.103.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "carexpert.ee",
+        "count": "557",
+        "first_seen": "2021-01-27 11:38:24",
+        "last_seen": "2021-08-26 11:12:46",
+        "ip_address": "185.4.75.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "carexpert.ee",
+        "count": "542",
+        "first_seen": "2021-11-08 10:54:31",
+        "last_seen": "2022-09-15 17:21:11",
+        "ip_address": "185.7.252.154",
+        "type": "IPv4"
+    },
+    {
+        "domain": "carexpert.ee",
+        "count": "2",
+        "first_seen": "2021-11-09 14:00:38",
+        "last_seen": "2021-11-09 21:57:51",
+        "ip_address": "192.168.1.175",
+        "type": "IPv4"
+    },
+    {
+        "domain": "carexpert.ee",
+        "count": "199",
+        "first_seen": "2021-01-27 19:08:19",
+        "last_seen": "2021-08-12 00:34:58",
+        "ip_address": "2a03:f480:1:b::5f",
+        "type": "IPv6"
+    }
+]

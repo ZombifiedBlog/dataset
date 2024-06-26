@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "ab2fc84be67d191915f4aea798bda68c.gxnyzf.cn",
+        "count": "7",
+        "first_seen": "2023-06-18 12:08:58",
+        "last_seen": "2023-08-11 19:37:54",
+        "ip_address": "104.21.66.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ab2fc84be67d191915f4aea798bda68c.gxnyzf.cn",
+        "count": "7",
+        "first_seen": "2023-06-18 12:08:58",
+        "last_seen": "2023-08-11 19:37:54",
+        "ip_address": "172.67.198.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ab2fc84be67d191915f4aea798bda68c.gxnyzf.cn",
+        "count": "4",
+        "first_seen": "2023-06-18 12:08:58",
+        "last_seen": "2023-08-11 19:37:53",
+        "ip_address": "2606:4700:3033::ac43:c6ac",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ab2fc84be67d191915f4aea798bda68c.gxnyzf.cn",
+        "count": "4",
+        "first_seen": "2023-06-18 12:08:58",
+        "last_seen": "2023-08-11 19:37:53",
+        "ip_address": "2606:4700:3037::6815:420e",
+        "type": "IPv6"
+    }
+]

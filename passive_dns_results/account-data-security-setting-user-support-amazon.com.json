@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "account-data-security-setting-user-support-amazon.com",
+        "count": "64",
+        "first_seen": "2020-05-02 11:05:01",
+        "last_seen": "2020-05-04 06:49:36",
+        "ip_address": "134.0.119.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "account-data-security-setting-user-support-amazon.com",
+        "count": "70",
+        "first_seen": "2020-05-01 06:20:21",
+        "last_seen": "2020-05-02 08:59:24",
+        "ip_address": "185.158.154.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "account-data-security-setting-user-support-amazon.com",
+        "count": "74",
+        "first_seen": "2020-05-01 06:20:21",
+        "last_seen": "2020-05-04 06:49:36",
+        "ip_address": "2a03:6f00:6:1::517:3283",
+        "type": "IPv6"
+    }
+]

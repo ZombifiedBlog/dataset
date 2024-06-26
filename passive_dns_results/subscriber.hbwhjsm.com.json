@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "subscriber.hbwhjsm.com",
+        "count": "299",
+        "first_seen": "2021-04-09 02:15:31",
+        "last_seen": "2021-05-15 22:07:20",
+        "ip_address": "104.21.41.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.hbwhjsm.com",
+        "count": "299",
+        "first_seen": "2021-04-09 02:15:31",
+        "last_seen": "2021-05-15 22:07:20",
+        "ip_address": "172.67.148.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.hbwhjsm.com",
+        "count": "132",
+        "first_seen": "2021-04-09 02:15:31",
+        "last_seen": "2021-05-15 22:07:21",
+        "ip_address": "2606:4700:3034::6815:2996",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.hbwhjsm.com",
+        "count": "132",
+        "first_seen": "2021-04-09 02:15:31",
+        "last_seen": "2021-05-15 22:07:21",
+        "ip_address": "2606:4700:3034::ac43:9421",
+        "type": "IPv6"
+    }
+]

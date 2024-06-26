@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "resetting-defend-accounts-support-amazon.com",
+        "count": "606",
+        "first_seen": "2019-07-11 06:52:59",
+        "last_seen": "2020-07-11 17:25:29",
+        "ip_address": "37.18.30.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "resetting-defend-accounts-support-amazon.com",
+        "count": "157",
+        "first_seen": "2020-07-12 17:24:35",
+        "last_seen": "2020-08-18 00:47:35",
+        "ip_address": "194.67.71.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "resetting-defend-accounts-support-amazon.com",
+        "count": "4",
+        "first_seen": "2020-08-02 00:55:56",
+        "last_seen": "2020-08-08 17:30:20",
+        "ip_address": "2a00:f940:4::10",
+        "type": "IPv6"
+    }
+]

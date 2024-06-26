@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "support.my-jcbs.co",
+        "count": "11",
+        "first_seen": "2020-12-12 05:54:32",
+        "last_seen": "2020-12-12 15:35:41",
+        "ip_address": "104.24.120.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.my-jcbs.co",
+        "count": "11",
+        "first_seen": "2020-12-12 05:54:32",
+        "last_seen": "2020-12-12 15:35:41",
+        "ip_address": "104.24.121.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.my-jcbs.co",
+        "count": "11",
+        "first_seen": "2020-12-12 05:54:32",
+        "last_seen": "2020-12-12 15:35:41",
+        "ip_address": "172.67.189.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.my-jcbs.co",
+        "count": "3",
+        "first_seen": "2020-12-12 05:54:32",
+        "last_seen": "2020-12-14 13:05:00",
+        "ip_address": "2606:4700:3031::6818:7995",
+        "type": "IPv6"
+    },
+    {
+        "domain": "support.my-jcbs.co",
+        "count": "3",
+        "first_seen": "2020-12-12 05:54:32",
+        "last_seen": "2020-12-14 13:05:00",
+        "ip_address": "2606:4700:3031::ac43:bd26",
+        "type": "IPv6"
+    },
+    {
+        "domain": "support.my-jcbs.co",
+        "count": "3",
+        "first_seen": "2020-12-12 05:54:32",
+        "last_seen": "2020-12-14 13:05:00",
+        "ip_address": "2606:4700:3033::6818:7895",
+        "type": "IPv6"
+    }
+]

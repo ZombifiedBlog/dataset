@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "42C7tSw9ww3y9uEuu7snsSU3OB9Bkh45cpvk9IsM9U6HtWtMLK.ax91.cn",
+        "count": "45",
+        "first_seen": "2021-09-25 05:02:42",
+        "last_seen": "2021-10-04 11:04:24",
+        "ip_address": "104.21.90.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "42C7tSw9ww3y9uEuu7snsSU3OB9Bkh45cpvk9IsM9U6HtWtMLK.ax91.cn",
+        "count": "45",
+        "first_seen": "2021-09-25 05:02:42",
+        "last_seen": "2021-10-04 11:04:24",
+        "ip_address": "172.67.158.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "42C7tSw9ww3y9uEuu7snsSU3OB9Bkh45cpvk9IsM9U6HtWtMLK.ax91.cn",
+        "count": "9",
+        "first_seen": "2021-09-25 05:40:57",
+        "last_seen": "2021-09-27 08:28:46",
+        "ip_address": "2606:4700:3031::6815:5aaa",
+        "type": "IPv6"
+    },
+    {
+        "domain": "42C7tSw9ww3y9uEuu7snsSU3OB9Bkh45cpvk9IsM9U6HtWtMLK.ax91.cn",
+        "count": "9",
+        "first_seen": "2021-09-25 05:40:57",
+        "last_seen": "2021-09-27 08:28:46",
+        "ip_address": "2606:4700:3036::ac43:9e37",
+        "type": "IPv6"
+    }
+]

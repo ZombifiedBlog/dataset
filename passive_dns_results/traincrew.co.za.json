@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "traincrew.co.za",
+        "count": "1016",
+        "first_seen": "2021-08-21 15:42:11",
+        "last_seen": "2024-01-16 01:59:07",
+        "ip_address": "154.0.160.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "traincrew.co.za",
+        "count": "915",
+        "first_seen": "2019-02-04 05:15:48",
+        "last_seen": "2021-08-16 04:35:28",
+        "ip_address": "154.0.171.186",
+        "type": "IPv4"
+    },
+    {
+        "domain": "traincrew.co.za",
+        "count": "7",
+        "first_seen": "2013-02-15 04:42:12",
+        "last_seen": "2013-06-25 11:59:44",
+        "ip_address": "196.25.207.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "traincrew.co.za",
+        "count": "294",
+        "first_seen": "2017-08-28 04:28:25",
+        "last_seen": "2019-02-01 00:20:38",
+        "ip_address": "196.201.6.95",
+        "type": "IPv4"
+    },
+    {
+        "domain": "traincrew.co.za",
+        "count": "304",
+        "first_seen": "2013-09-15 01:04:26",
+        "last_seen": "2017-08-21 05:20:56",
+        "ip_address": "196.201.6.183",
+        "type": "IPv4"
+    }
+]

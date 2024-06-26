@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.manager.com.br",
+        "count": "9363",
+        "first_seen": "2021-05-11 01:52:00",
+        "last_seen": "2021-08-17 20:02:25",
+        "ip_address": "34.231.58.154",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.manager.com.br",
+        "count": "74327",
+        "first_seen": "2017-10-19 21:51:33",
+        "last_seen": "2021-05-11 00:06:34",
+        "ip_address": "189.89.207.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.manager.com.br",
+        "count": "25724",
+        "first_seen": "2015-07-16 14:03:42",
+        "last_seen": "2015-12-03 16:11:07",
+        "ip_address": "189.89.207.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.manager.com.br",
+        "count": "584304",
+        "first_seen": "2010-06-27 21:48:33",
+        "last_seen": "2015-06-19 13:25:55",
+        "ip_address": "200.143.23.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.manager.com.br",
+        "count": "4577",
+        "first_seen": "2015-06-19 13:55:34",
+        "last_seen": "2015-07-16 13:59:44",
+        "ip_address": "200.189.186.140",
+        "type": "IPv4"
+    }
+]

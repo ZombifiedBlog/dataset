@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.standardbank.com",
+        "count": "40681",
+        "first_seen": "2016-01-14 15:53:31",
+        "last_seen": "2018-08-29 15:40:24",
+        "ip_address": "196.8.136.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.standardbank.com",
+        "count": "62053",
+        "first_seen": "2010-06-29 06:59:32",
+        "last_seen": "2015-09-29 07:46:07",
+        "ip_address": "196.38.49.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.standardbank.com",
+        "count": "3404",
+        "first_seen": "2015-09-29 10:05:05",
+        "last_seen": "2016-01-14 14:08:32",
+        "ip_address": "197.97.26.41",
+        "type": "IPv4"
+    }
+]

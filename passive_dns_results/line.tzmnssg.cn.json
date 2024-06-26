@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "line.tzmnssg.cn",
+        "count": "1",
+        "first_seen": "2022-06-04 00:31:04",
+        "last_seen": "2022-06-04 00:31:04",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "line.tzmnssg.cn",
+        "count": "157",
+        "first_seen": "2022-04-11 06:31:16",
+        "last_seen": "2022-05-08 21:57:30",
+        "ip_address": "104.21.60.41",
+        "type": "IPv4"
+    },
+    {
+        "domain": "line.tzmnssg.cn",
+        "count": "157",
+        "first_seen": "2022-04-11 06:31:16",
+        "last_seen": "2022-05-08 21:57:30",
+        "ip_address": "172.67.191.115",
+        "type": "IPv4"
+    },
+    {
+        "domain": "line.tzmnssg.cn",
+        "count": "19",
+        "first_seen": "2022-04-11 06:33:27",
+        "last_seen": "2022-04-22 16:05:02",
+        "ip_address": "2606:4700:3034::6815:3c29",
+        "type": "IPv6"
+    },
+    {
+        "domain": "line.tzmnssg.cn",
+        "count": "19",
+        "first_seen": "2022-04-11 06:33:27",
+        "last_seen": "2022-04-22 16:05:02",
+        "ip_address": "2606:4700:3034::ac43:bf73",
+        "type": "IPv6"
+    }
+]

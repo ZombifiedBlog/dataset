@@ -1,0 +1,154 @@
+[
+    {
+        "domain": "subscriber.0225235500.com",
+        "count": "379",
+        "first_seen": "2022-11-29 21:37:50",
+        "last_seen": "2023-01-02 14:46:44",
+        "ip_address": "104.21.6.171",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.0225235500.com",
+        "count": "379",
+        "first_seen": "2022-11-29 21:37:50",
+        "last_seen": "2023-01-02 14:46:44",
+        "ip_address": "172.67.135.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.0225235500.com",
+        "count": "13",
+        "first_seen": "2023-04-25 22:21:21",
+        "last_seen": "2023-12-05 21:36:46",
+        "ip_address": "104.206.21.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.0225235500.com",
+        "count": "1",
+        "first_seen": "2023-01-01 03:51:52",
+        "last_seen": "2023-01-01 03:51:52",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.0225235500.com",
+        "count": "1",
+        "first_seen": "2023-01-01 03:51:52",
+        "last_seen": "2023-01-01 03:51:52",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.0225235500.com",
+        "count": "18",
+        "first_seen": "2022-12-20 08:01:36",
+        "last_seen": "2023-01-01 21:44:40",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.0225235500.com",
+        "count": "18",
+        "first_seen": "2022-12-20 08:01:36",
+        "last_seen": "2023-01-01 21:44:40",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.0225235500.com",
+        "count": "2",
+        "first_seen": "2022-12-23 03:15:08",
+        "last_seen": "2022-12-23 03:15:08",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.0225235500.com",
+        "count": "2",
+        "first_seen": "2022-12-23 03:15:08",
+        "last_seen": "2022-12-23 03:15:08",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.0225235500.com",
+        "count": "4",
+        "first_seen": "2022-12-22 09:35:18",
+        "last_seen": "2022-12-27 09:21:15",
+        "ip_address": "188.114.96.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.0225235500.com",
+        "count": "4",
+        "first_seen": "2022-12-22 09:35:18",
+        "last_seen": "2022-12-27 09:21:15",
+        "ip_address": "188.114.97.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.0225235500.com",
+        "count": "1",
+        "first_seen": "2022-12-04 17:07:00",
+        "last_seen": "2022-12-04 17:07:00",
+        "ip_address": "188.114.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.0225235500.com",
+        "count": "1",
+        "first_seen": "2022-12-04 17:07:00",
+        "last_seen": "2022-12-04 17:07:00",
+        "ip_address": "188.114.97.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.0225235500.com",
+        "count": "2",
+        "first_seen": "2022-12-23 08:34:32",
+        "last_seen": "2022-12-23 08:34:32",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.0225235500.com",
+        "count": "2",
+        "first_seen": "2022-12-23 08:34:32",
+        "last_seen": "2022-12-23 08:34:32",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.0225235500.com",
+        "count": "10",
+        "first_seen": "2022-12-23 08:34:32",
+        "last_seen": "2023-01-01 20:23:11",
+        "ip_address": "2606:4700:3034::6815:6ab",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.0225235500.com",
+        "count": "10",
+        "first_seen": "2022-12-23 08:34:32",
+        "last_seen": "2023-01-01 20:23:11",
+        "ip_address": "2606:4700:3035::ac43:870f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.0225235500.com",
+        "count": "2",
+        "first_seen": "2022-12-26 21:10:38",
+        "last_seen": "2022-12-26 21:10:38",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.0225235500.com",
+        "count": "2",
+        "first_seen": "2022-12-26 21:10:38",
+        "last_seen": "2022-12-26 21:10:38",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    }
+]

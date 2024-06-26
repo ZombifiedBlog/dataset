@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "www.finetechingredients.com",
+        "count": "141",
+        "first_seen": "2022-01-12 07:15:27",
+        "last_seen": "2022-09-27 03:24:41",
+        "ip_address": "104.21.85.151",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.finetechingredients.com",
+        "count": "141",
+        "first_seen": "2022-01-12 07:15:27",
+        "last_seen": "2022-09-27 03:24:41",
+        "ip_address": "172.67.207.42",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.finetechingredients.com",
+        "count": "153",
+        "first_seen": "2022-10-11 23:56:42",
+        "last_seen": "2023-09-21 08:19:18",
+        "ip_address": "114.119.173.151",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.finetechingredients.com",
+        "count": "3",
+        "first_seen": "2022-03-11 18:26:56",
+        "last_seen": "2022-03-14 05:39:11",
+        "ip_address": "188.114.99.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.finetechingredients.com",
+        "count": "366",
+        "first_seen": "2021-07-01 13:08:17",
+        "last_seen": "2022-01-12 05:20:53",
+        "ip_address": "202.170.120.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.finetechingredients.com",
+        "count": "197",
+        "first_seen": "2023-10-17 09:15:31",
+        "last_seen": "2024-01-13 04:42:24",
+        "ip_address": "210.1.60.64",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.finetechingredients.com",
+        "count": "1",
+        "first_seen": "2022-04-22 11:21:47",
+        "last_seen": "2022-04-22 11:21:47",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.finetechingredients.com",
+        "count": "10",
+        "first_seen": "2022-01-12 07:10:00",
+        "last_seen": "2022-08-28 18:38:37",
+        "ip_address": "2606:4700:3037::6815:5597",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.finetechingredients.com",
+        "count": "10",
+        "first_seen": "2022-01-12 07:10:00",
+        "last_seen": "2022-08-28 18:38:37",
+        "ip_address": "2606:4700:3037::ac43:cf2a",
+        "type": "IPv6"
+    }
+]

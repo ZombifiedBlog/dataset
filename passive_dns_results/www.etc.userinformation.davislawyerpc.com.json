@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.etc.userinformation.davislawyerpc.com",
+        "count": "29",
+        "first_seen": "2023-06-13 14:32:08",
+        "last_seen": "2023-06-16 12:26:38",
+        "ip_address": "107.174.115.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etc.userinformation.davislawyerpc.com",
+        "count": "3",
+        "first_seen": "2023-09-22 23:32:39",
+        "last_seen": "2023-09-30 18:29:09",
+        "ip_address": "199.59.243.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etc.userinformation.davislawyerpc.com",
+        "count": "7",
+        "first_seen": "2023-10-22 07:23:25",
+        "last_seen": "2023-12-08 23:36:31",
+        "ip_address": "199.59.243.225",
+        "type": "IPv4"
+    }
+]

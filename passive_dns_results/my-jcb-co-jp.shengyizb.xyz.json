@@ -1,0 +1,114 @@
+[
+    {
+        "domain": "my-jcb-co-jp.shengyizb.xyz",
+        "count": "57",
+        "first_seen": "2022-02-16 15:02:18",
+        "last_seen": "2022-02-17 00:35:24",
+        "ip_address": "104.21.32.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.shengyizb.xyz",
+        "count": "57",
+        "first_seen": "2022-02-16 15:02:18",
+        "last_seen": "2022-02-17 00:35:24",
+        "ip_address": "172.67.182.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.shengyizb.xyz",
+        "count": "2",
+        "first_seen": "2022-02-17 00:46:05",
+        "last_seen": "2022-02-17 01:31:52",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.shengyizb.xyz",
+        "count": "2",
+        "first_seen": "2022-02-17 00:46:05",
+        "last_seen": "2022-02-17 01:31:52",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.shengyizb.xyz",
+        "count": "2",
+        "first_seen": "2022-02-16 18:06:48",
+        "last_seen": "2022-02-16 19:15:52",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.shengyizb.xyz",
+        "count": "2",
+        "first_seen": "2022-02-16 18:06:48",
+        "last_seen": "2022-02-16 19:15:52",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.shengyizb.xyz",
+        "count": "3",
+        "first_seen": "2022-02-16 16:25:25",
+        "last_seen": "2022-02-16 20:30:38",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.shengyizb.xyz",
+        "count": "3",
+        "first_seen": "2022-02-16 16:25:25",
+        "last_seen": "2022-02-16 20:30:38",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.shengyizb.xyz",
+        "count": "1",
+        "first_seen": "2022-02-16 15:53:29",
+        "last_seen": "2022-02-16 15:53:29",
+        "ip_address": "188.114.96.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.shengyizb.xyz",
+        "count": "1",
+        "first_seen": "2022-02-16 15:53:29",
+        "last_seen": "2022-02-16 15:53:29",
+        "ip_address": "188.114.97.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.shengyizb.xyz",
+        "count": "28",
+        "first_seen": "2022-02-16 14:28:58",
+        "last_seen": "2022-02-16 19:42:08",
+        "ip_address": "188.114.96.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.shengyizb.xyz",
+        "count": "28",
+        "first_seen": "2022-02-16 14:28:58",
+        "last_seen": "2022-02-16 19:42:08",
+        "ip_address": "188.114.97.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.shengyizb.xyz",
+        "count": "1",
+        "first_seen": "2022-02-16 14:28:58",
+        "last_seen": "2022-02-16 14:28:58",
+        "ip_address": "2a06:98c1:3120::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb-co-jp.shengyizb.xyz",
+        "count": "1",
+        "first_seen": "2022-02-16 14:28:58",
+        "last_seen": "2022-02-16 14:28:58",
+        "ip_address": "2a06:98c1:3121::16",
+        "type": "IPv6"
+    }
+]

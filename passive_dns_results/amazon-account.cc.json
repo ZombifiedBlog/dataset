@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazon-account.cc",
+        "count": "7",
+        "first_seen": "2021-10-26 08:12:12",
+        "last_seen": "2021-11-17 20:30:44",
+        "ip_address": "72.52.179.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-account.cc",
+        "count": "259",
+        "first_seen": "2020-10-15 03:29:13",
+        "last_seen": "2021-10-12 23:54:33",
+        "ip_address": "96.43.93.216",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-account.cc",
+        "count": "7",
+        "first_seen": "2022-02-10 15:02:54",
+        "last_seen": "2022-02-11 05:18:39",
+        "ip_address": "198.252.105.172",
+        "type": "IPv4"
+    }
+]

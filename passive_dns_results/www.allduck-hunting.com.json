@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.allduck-hunting.com",
+        "count": "2",
+        "first_seen": "2022-04-26 09:53:27",
+        "last_seen": "2022-04-26 10:39:30",
+        "ip_address": "104.21.49.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.allduck-hunting.com",
+        "count": "2",
+        "first_seen": "2022-04-26 09:53:27",
+        "last_seen": "2022-04-26 10:39:30",
+        "ip_address": "172.67.162.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.allduck-hunting.com",
+        "count": "2830",
+        "first_seen": "2022-06-10 12:28:17",
+        "last_seen": "2022-07-11 11:42:01",
+        "ip_address": "149.57.139.142",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.allduck-hunting.com",
+        "count": "2",
+        "first_seen": "2022-02-19 22:28:42",
+        "last_seen": "2022-02-19 22:28:42",
+        "ip_address": "154.92.52.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.allduck-hunting.com",
+        "count": "23",
+        "first_seen": "2021-08-16 05:13:00",
+        "last_seen": "2022-02-03 00:30:59",
+        "ip_address": "154.220.197.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.allduck-hunting.com",
+        "count": "2",
+        "first_seen": "2022-04-26 09:53:27",
+        "last_seen": "2022-04-26 10:39:30",
+        "ip_address": "2606:4700:3034::ac43:a202",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.allduck-hunting.com",
+        "count": "2",
+        "first_seen": "2022-04-26 09:53:27",
+        "last_seen": "2022-04-26 10:39:30",
+        "ip_address": "2606:4700:3037::6815:316e",
+        "type": "IPv6"
+    }
+]

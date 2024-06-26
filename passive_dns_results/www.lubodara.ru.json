@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.lubodara.ru",
+        "count": "573",
+        "first_seen": "2018-08-30 13:21:36",
+        "last_seen": "2019-08-12 13:03:55",
+        "ip_address": "104.27.138.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lubodara.ru",
+        "count": "573",
+        "first_seen": "2018-08-30 13:21:36",
+        "last_seen": "2019-08-12 13:03:55",
+        "ip_address": "104.27.139.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lubodara.ru",
+        "count": "2",
+        "first_seen": "2018-08-17 03:50:28",
+        "last_seen": "2018-08-17 03:50:28",
+        "ip_address": "194.58.56.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lubodara.ru",
+        "count": "50",
+        "first_seen": "2018-07-17 23:22:09",
+        "last_seen": "2018-08-14 19:48:56",
+        "ip_address": "194.58.56.238",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lubodara.ru",
+        "count": "77",
+        "first_seen": "2018-08-30 13:21:36",
+        "last_seen": "2018-09-21 19:32:41",
+        "ip_address": "2400:cb00:2048:1::681b:8a72",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lubodara.ru",
+        "count": "77",
+        "first_seen": "2018-08-30 13:21:36",
+        "last_seen": "2018-09-21 19:32:41",
+        "ip_address": "2400:cb00:2048:1::681b:8b72",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lubodara.ru",
+        "count": "168",
+        "first_seen": "2018-09-26 21:07:37",
+        "last_seen": "2019-08-08 05:01:42",
+        "ip_address": "2606:4700:30::681b:8a72",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lubodara.ru",
+        "count": "168",
+        "first_seen": "2018-09-26 21:07:37",
+        "last_seen": "2019-08-08 05:01:42",
+        "ip_address": "2606:4700:30::681b:8b72",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.mibremodeling.com",
+        "count": "496",
+        "first_seen": "2020-02-19 13:51:47",
+        "last_seen": "2024-01-16 17:24:44",
+        "ip_address": "66.235.200.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mibremodeling.com",
+        "count": "182",
+        "first_seen": "2019-07-12 15:03:09",
+        "last_seen": "2020-02-12 06:45:15",
+        "ip_address": "104.28.18.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mibremodeling.com",
+        "count": "182",
+        "first_seen": "2019-07-12 15:03:09",
+        "last_seen": "2020-02-12 06:45:15",
+        "ip_address": "104.28.19.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mibremodeling.com",
+        "count": "9",
+        "first_seen": "2020-02-16 05:39:08",
+        "last_seen": "2020-02-17 13:59:20",
+        "ip_address": "146.148.102.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mibremodeling.com",
+        "count": "75",
+        "first_seen": "2019-07-20 08:26:11",
+        "last_seen": "2020-01-14 15:06:11",
+        "ip_address": "2606:4700:30::681c:12fa",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.mibremodeling.com",
+        "count": "75",
+        "first_seen": "2019-07-20 08:26:11",
+        "last_seen": "2020-01-14 15:06:11",
+        "ip_address": "2606:4700:30::681c:13fa",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.mibremodeling.com",
+        "count": "4",
+        "first_seen": "2020-01-21 20:28:14",
+        "last_seen": "2020-01-28 12:52:43",
+        "ip_address": "2606:4700:3031::681c:13fa",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.mibremodeling.com",
+        "count": "4",
+        "first_seen": "2020-01-21 20:28:14",
+        "last_seen": "2020-01-28 12:52:43",
+        "ip_address": "2606:4700:3032::681c:12fa",
+        "type": "IPv6"
+    }
+]

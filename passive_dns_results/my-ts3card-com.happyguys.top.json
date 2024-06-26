@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "my-ts3card-com.happyguys.top",
+        "count": "1",
+        "first_seen": "2022-02-26 05:04:44",
+        "last_seen": "2022-02-26 05:04:44",
+        "ip_address": "103.120.80.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.happyguys.top",
+        "count": "1",
+        "first_seen": "2022-02-26 05:04:44",
+        "last_seen": "2022-02-26 05:04:44",
+        "ip_address": "103.139.0.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.happyguys.top",
+        "count": "128",
+        "first_seen": "2021-11-15 15:22:43",
+        "last_seen": "2021-11-23 08:28:39",
+        "ip_address": "104.21.23.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.happyguys.top",
+        "count": "128",
+        "first_seen": "2021-11-15 15:22:43",
+        "last_seen": "2021-11-23 08:28:39",
+        "ip_address": "172.67.210.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.happyguys.top",
+        "count": "27",
+        "first_seen": "2021-11-15 15:54:06",
+        "last_seen": "2021-11-23 08:28:39",
+        "ip_address": "2606:4700:3033::6815:175e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-ts3card-com.happyguys.top",
+        "count": "27",
+        "first_seen": "2021-11-15 15:54:06",
+        "last_seen": "2021-11-23 08:28:39",
+        "ip_address": "2606:4700:3036::ac43:d227",
+        "type": "IPv6"
+    }
+]

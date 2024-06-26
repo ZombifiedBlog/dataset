@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "gdr01-supports-account-security-card-amazon.org",
+        "count": "336",
+        "first_seen": "2020-03-04 06:55:40",
+        "last_seen": "2021-02-16 19:02:55",
+        "ip_address": "46.243.186.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gdr01-supports-account-security-card-amazon.org",
+        "count": "2",
+        "first_seen": "2021-03-10 21:26:02",
+        "last_seen": "2021-03-16 16:56:24",
+        "ip_address": "194.67.71.68",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gdr01-supports-account-security-card-amazon.org",
+        "count": "3",
+        "first_seen": "2021-03-10 21:26:02",
+        "last_seen": "2021-04-07 19:33:59",
+        "ip_address": "2a00:f940:4::10",
+        "type": "IPv6"
+    }
+]

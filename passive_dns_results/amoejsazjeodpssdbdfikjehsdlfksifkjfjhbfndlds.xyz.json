@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "amoejsazjeodpssdbdfikjehsdlfksifkjfjhbfndlds.xyz",
+        "count": "22",
+        "first_seen": "2020-09-20 06:36:04",
+        "last_seen": "2020-10-26 04:43:51",
+        "ip_address": "104.27.178.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amoejsazjeodpssdbdfikjehsdlfksifkjfjhbfndlds.xyz",
+        "count": "22",
+        "first_seen": "2020-09-20 06:36:04",
+        "last_seen": "2020-10-26 04:43:51",
+        "ip_address": "104.27.179.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amoejsazjeodpssdbdfikjehsdlfksifkjfjhbfndlds.xyz",
+        "count": "22",
+        "first_seen": "2020-09-20 06:36:04",
+        "last_seen": "2020-10-26 04:43:51",
+        "ip_address": "172.67.200.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amoejsazjeodpssdbdfikjehsdlfksifkjfjhbfndlds.xyz",
+        "count": "2",
+        "first_seen": "2020-10-22 23:18:29",
+        "last_seen": "2020-10-22 23:18:29",
+        "ip_address": "172.64.87.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amoejsazjeodpssdbdfikjehsdlfksifkjfjhbfndlds.xyz",
+        "count": "2",
+        "first_seen": "2020-09-20 20:03:02",
+        "last_seen": "2020-09-20 20:03:02",
+        "ip_address": "2606:4700:139:11b3:6a77:3518:649f:d4d1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amoejsazjeodpssdbdfikjehsdlfksifkjfjhbfndlds.xyz",
+        "count": "9",
+        "first_seen": "2020-09-20 06:36:04",
+        "last_seen": "2020-10-16 02:36:28",
+        "ip_address": "2606:4700:3032::681b:b369",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amoejsazjeodpssdbdfikjehsdlfksifkjfjhbfndlds.xyz",
+        "count": "9",
+        "first_seen": "2020-09-20 06:36:04",
+        "last_seen": "2020-10-16 02:36:28",
+        "ip_address": "2606:4700:3032::ac43:c8fe",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amoejsazjeodpssdbdfikjehsdlfksifkjfjhbfndlds.xyz",
+        "count": "9",
+        "first_seen": "2020-09-20 06:36:04",
+        "last_seen": "2020-10-16 02:36:28",
+        "ip_address": "2606:4700:3035::681b:b269",
+        "type": "IPv6"
+    }
+]

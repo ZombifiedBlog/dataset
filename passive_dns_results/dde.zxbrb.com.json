@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "dde.zxbrb.com",
+        "count": "1",
+        "first_seen": "2023-09-01 04:36:11",
+        "last_seen": "2023-09-01 04:36:11",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dde.zxbrb.com",
+        "count": "3",
+        "first_seen": "2022-05-26 17:42:18",
+        "last_seen": "2022-06-05 10:24:27",
+        "ip_address": "99.83.248.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dde.zxbrb.com",
+        "count": "2644",
+        "first_seen": "2022-04-07 02:47:17",
+        "last_seen": "2022-05-06 11:25:13",
+        "ip_address": "104.21.91.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dde.zxbrb.com",
+        "count": "2644",
+        "first_seen": "2022-04-07 02:47:17",
+        "last_seen": "2022-05-06 11:25:13",
+        "ip_address": "172.67.177.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dde.zxbrb.com",
+        "count": "2",
+        "first_seen": "2022-05-23 23:55:52",
+        "last_seen": "2022-06-13 15:49:39",
+        "ip_address": "104.247.82.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dde.zxbrb.com",
+        "count": "802",
+        "first_seen": "2022-04-07 02:47:17",
+        "last_seen": "2022-05-05 09:43:29",
+        "ip_address": "2606:4700:3032::ac43:b1d1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "dde.zxbrb.com",
+        "count": "802",
+        "first_seen": "2022-04-07 02:47:17",
+        "last_seen": "2022-05-05 09:43:29",
+        "ip_address": "2606:4700:3036::6815:5bb7",
+        "type": "IPv6"
+    }
+]

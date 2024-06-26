@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "fhntphpjyl.com",
+        "count": "371",
+        "first_seen": "2023-09-05 07:36:34",
+        "last_seen": "2024-01-18 02:42:18",
+        "ip_address": "89.116.239.42",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fhntphpjyl.com",
+        "count": "7",
+        "first_seen": "2023-05-02 04:50:04",
+        "last_seen": "2023-05-05 03:24:34",
+        "ip_address": "104.21.20.106",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fhntphpjyl.com",
+        "count": "7",
+        "first_seen": "2023-05-02 04:50:04",
+        "last_seen": "2023-05-05 03:24:34",
+        "ip_address": "172.67.192.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fhntphpjyl.com",
+        "count": "3",
+        "first_seen": "2023-05-08 02:41:17",
+        "last_seen": "2023-05-17 20:26:16",
+        "ip_address": "107.148.134.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fhntphpjyl.com",
+        "count": "28",
+        "first_seen": "2023-05-20 16:03:54",
+        "last_seen": "2023-05-21 10:50:27",
+        "ip_address": "192.161.176.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fhntphpjyl.com",
+        "count": "144",
+        "first_seen": "2023-05-20 08:30:53",
+        "last_seen": "2023-05-20 15:57:51",
+        "ip_address": "204.44.88.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fhntphpjyl.com",
+        "count": "20",
+        "first_seen": "2023-05-21 12:04:34",
+        "last_seen": "2023-05-22 01:41:11",
+        "ip_address": "204.44.93.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fhntphpjyl.com",
+        "count": "2",
+        "first_seen": "2023-05-02 04:50:04",
+        "last_seen": "2023-05-02 17:27:09",
+        "ip_address": "2606:4700:3034::6815:146a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "fhntphpjyl.com",
+        "count": "2",
+        "first_seen": "2023-05-02 04:50:04",
+        "last_seen": "2023-05-02 17:27:09",
+        "ip_address": "2606:4700:3037::ac43:c058",
+        "type": "IPv6"
+    },
+    {
+        "domain": "fhntphpjyl.com",
+        "count": "34",
+        "first_seen": "2023-09-05 07:36:51",
+        "last_seen": "2024-01-14 18:17:16",
+        "ip_address": "2a02:4780:b:1158:0:1e14:7aff:10",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.a.mnesrie.com",
+        "count": "65",
+        "first_seen": "2021-12-23 05:13:36",
+        "last_seen": "2021-12-23 17:53:21",
+        "ip_address": "23.95.122.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.a.mnesrie.com",
+        "count": "5",
+        "first_seen": "2022-12-23 19:21:02",
+        "last_seen": "2022-12-23 19:23:09",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.a.mnesrie.com",
+        "count": "4",
+        "first_seen": "2022-12-23 19:21:11",
+        "last_seen": "2023-01-13 13:49:23",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

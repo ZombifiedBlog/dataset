@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "szlotteryu.com",
+        "count": "9",
+        "first_seen": "2022-12-01 03:47:25",
+        "last_seen": "2022-12-01 04:13:24",
+        "ip_address": "18.163.243.106",
+        "type": "IPv4"
+    },
+    {
+        "domain": "szlotteryu.com",
+        "count": "43",
+        "first_seen": "2023-12-01 10:20:05",
+        "last_seen": "2023-12-15 10:23:55",
+        "ip_address": "52.213.114.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "szlotteryu.com",
+        "count": "30",
+        "first_seen": "2022-12-23 11:53:39",
+        "last_seen": "2023-05-06 09:48:18",
+        "ip_address": "168.206.137.54",
+        "type": "IPv4"
+    },
+    {
+        "domain": "szlotteryu.com",
+        "count": "107",
+        "first_seen": "2023-05-07 08:46:53",
+        "last_seen": "2023-05-08 01:23:56",
+        "ip_address": "192.161.176.98",
+        "type": "IPv4"
+    }
+]

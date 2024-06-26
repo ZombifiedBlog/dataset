@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "mail.leileizs.com",
+        "count": "16",
+        "first_seen": "2023-01-20 17:07:04",
+        "last_seen": "2023-02-08 18:31:16",
+        "ip_address": "104.198.85.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.leileizs.com",
+        "count": "286",
+        "first_seen": "2023-02-21 12:40:37",
+        "last_seen": "2023-09-11 19:00:54",
+        "ip_address": "154.31.31.159",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.leileizs.com",
+        "count": "681",
+        "first_seen": "2023-02-13 17:56:41",
+        "last_seen": "2023-02-21 12:28:32",
+        "ip_address": "163.197.46.189",
+        "type": "IPv4"
+    }
+]

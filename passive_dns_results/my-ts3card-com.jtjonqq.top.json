@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "my-ts3card-com.jtjonqq.top",
+        "count": "35",
+        "first_seen": "2021-11-24 14:13:30",
+        "last_seen": "2021-11-25 07:00:52",
+        "ip_address": "104.21.79.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.jtjonqq.top",
+        "count": "35",
+        "first_seen": "2021-11-24 14:13:30",
+        "last_seen": "2021-11-25 07:00:52",
+        "ip_address": "172.67.139.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.jtjonqq.top",
+        "count": "3",
+        "first_seen": "2021-11-24 16:22:06",
+        "last_seen": "2021-11-24 17:44:04",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.jtjonqq.top",
+        "count": "3",
+        "first_seen": "2021-11-24 16:22:06",
+        "last_seen": "2021-11-24 17:44:04",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.jtjonqq.top",
+        "count": "11",
+        "first_seen": "2021-11-24 16:38:56",
+        "last_seen": "2021-11-24 18:02:14",
+        "ip_address": "188.114.96.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.jtjonqq.top",
+        "count": "11",
+        "first_seen": "2021-11-24 16:38:56",
+        "last_seen": "2021-11-24 18:02:14",
+        "ip_address": "188.114.97.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.jtjonqq.top",
+        "count": "10",
+        "first_seen": "2021-11-24 14:13:31",
+        "last_seen": "2021-11-24 20:31:52",
+        "ip_address": "2606:4700:3033::6815:4f06",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-ts3card-com.jtjonqq.top",
+        "count": "10",
+        "first_seen": "2021-11-24 14:13:31",
+        "last_seen": "2021-11-24 20:31:52",
+        "ip_address": "2606:4700:3036::ac43:8b4d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-ts3card-com.jtjonqq.top",
+        "count": "5",
+        "first_seen": "2021-11-24 16:38:58",
+        "last_seen": "2021-11-24 18:02:14",
+        "ip_address": "2a06:98c1:3120::4e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-ts3card-com.jtjonqq.top",
+        "count": "5",
+        "first_seen": "2021-11-24 16:38:58",
+        "last_seen": "2021-11-24 18:02:14",
+        "ip_address": "2a06:98c1:3121::4e",
+        "type": "IPv6"
+    }
+]

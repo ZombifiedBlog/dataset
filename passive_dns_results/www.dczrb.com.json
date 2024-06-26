@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "www.dczrb.com",
+        "count": "1339",
+        "first_seen": "2021-11-18 03:15:51",
+        "last_seen": "2022-04-15 09:39:52",
+        "ip_address": "104.21.50.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dczrb.com",
+        "count": "1339",
+        "first_seen": "2021-11-18 03:15:51",
+        "last_seen": "2022-04-15 09:39:52",
+        "ip_address": "172.67.164.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dczrb.com",
+        "count": "1",
+        "first_seen": "2021-11-24 17:41:37",
+        "last_seen": "2021-11-24 17:41:37",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dczrb.com",
+        "count": "1",
+        "first_seen": "2021-11-24 17:41:37",
+        "last_seen": "2021-11-24 17:41:37",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dczrb.com",
+        "count": "2",
+        "first_seen": "2021-11-24 16:38:04",
+        "last_seen": "2021-11-24 17:49:02",
+        "ip_address": "188.114.96.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dczrb.com",
+        "count": "2",
+        "first_seen": "2021-11-24 16:38:04",
+        "last_seen": "2021-11-24 17:49:02",
+        "ip_address": "188.114.97.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dczrb.com",
+        "count": "5",
+        "first_seen": "2021-11-24 16:35:48",
+        "last_seen": "2021-11-24 17:43:37",
+        "ip_address": "188.114.96.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dczrb.com",
+        "count": "5",
+        "first_seen": "2021-11-24 16:35:48",
+        "last_seen": "2021-11-24 17:43:37",
+        "ip_address": "188.114.97.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dczrb.com",
+        "count": "2",
+        "first_seen": "2021-11-24 16:41:55",
+        "last_seen": "2021-11-24 18:08:31",
+        "ip_address": "188.114.96.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dczrb.com",
+        "count": "2",
+        "first_seen": "2021-11-24 16:41:55",
+        "last_seen": "2021-11-24 18:08:31",
+        "ip_address": "188.114.97.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dczrb.com",
+        "count": "107",
+        "first_seen": "2021-11-18 07:14:15",
+        "last_seen": "2022-04-13 11:19:35",
+        "ip_address": "2606:4700:3033::ac43:a46b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.dczrb.com",
+        "count": "107",
+        "first_seen": "2021-11-18 07:14:15",
+        "last_seen": "2022-04-13 11:19:35",
+        "ip_address": "2606:4700:3037::6815:32ad",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.gogogummo.com",
+        "count": "5",
+        "first_seen": "2020-12-25 14:05:46",
+        "last_seen": "2021-03-18 22:40:53",
+        "ip_address": "154.221.237.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gogogummo.com",
+        "count": "373",
+        "first_seen": "2022-09-14 16:07:07",
+        "last_seen": "2022-09-20 16:59:24",
+        "ip_address": "155.94.144.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gogogummo.com",
+        "count": "1",
+        "first_seen": "2022-03-20 04:48:58",
+        "last_seen": "2022-03-20 04:48:58",
+        "ip_address": "192.151.238.25",
+        "type": "IPv4"
+    }
+]

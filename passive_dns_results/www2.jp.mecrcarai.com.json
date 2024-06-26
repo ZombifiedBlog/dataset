@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www2.jp.mecrcarai.com",
+        "count": "1",
+        "first_seen": "2023-03-14 04:28:57",
+        "last_seen": "2023-03-14 04:28:57",
+        "ip_address": "63.141.242.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.jp.mecrcarai.com",
+        "count": "2",
+        "first_seen": "2023-12-06 13:19:32",
+        "last_seen": "2023-12-06 13:19:32",
+        "ip_address": "77.247.179.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.jp.mecrcarai.com",
+        "count": "2",
+        "first_seen": "2023-11-13 03:22:23",
+        "last_seen": "2023-11-13 03:22:23",
+        "ip_address": "77.247.179.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.jp.mecrcarai.com",
+        "count": "97",
+        "first_seen": "2021-10-11 21:20:09",
+        "last_seen": "2021-10-12 08:57:36",
+        "ip_address": "147.182.163.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.jp.mecrcarai.com",
+        "count": "104",
+        "first_seen": "2021-10-12 10:04:36",
+        "last_seen": "2021-10-14 13:10:26",
+        "ip_address": "198.12.81.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.jp.mecrcarai.com",
+        "count": "3",
+        "first_seen": "2023-09-12 21:22:08",
+        "last_seen": "2023-11-28 07:11:26",
+        "ip_address": "216.245.197.41",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.jp.mecrcarai.com",
+        "count": "1",
+        "first_seen": "2023-10-07 16:09:46",
+        "last_seen": "2023-10-07 16:09:46",
+        "ip_address": "216.245.197.42",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.jp.mecrcarai.com",
+        "count": "2",
+        "first_seen": "2023-09-14 16:51:37",
+        "last_seen": "2023-09-14 16:51:37",
+        "ip_address": "216.245.197.46",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "ca2m.fr",
+        "count": "31",
+        "first_seen": "2022-04-28 12:53:48",
+        "last_seen": "2023-07-23 18:24:31",
+        "ip_address": "75.2.37.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ca2m.fr",
+        "count": "1",
+        "first_seen": "2011-03-27 15:46:33",
+        "last_seen": "2011-03-27 15:46:33",
+        "ip_address": "88.191.39.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ca2m.fr",
+        "count": "23",
+        "first_seen": "2012-03-12 22:21:23",
+        "last_seen": "2013-06-01 23:33:49",
+        "ip_address": "88.191.84.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ca2m.fr",
+        "count": "2452",
+        "first_seen": "2019-04-27 12:00:31",
+        "last_seen": "2022-04-26 19:51:19",
+        "ip_address": "109.234.164.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ca2m.fr",
+        "count": "837",
+        "first_seen": "2014-11-17 03:25:23",
+        "last_seen": "2019-03-23 15:18:16",
+        "ip_address": "212.129.16.3",
+        "type": "IPv4"
+    }
+]

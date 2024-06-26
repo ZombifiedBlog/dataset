@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "www.citibank.com.tw",
+        "count": "8712",
+        "first_seen": "2010-07-19 06:56:31",
+        "last_seen": "2011-09-03 16:01:56",
+        "ip_address": "192.193.162.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.citibank.com.tw",
+        "count": "8718",
+        "first_seen": "2010-07-19 06:52:02",
+        "last_seen": "2011-09-03 16:16:36",
+        "ip_address": "192.193.166.58",
+        "type": "IPv4"
+    }
+]

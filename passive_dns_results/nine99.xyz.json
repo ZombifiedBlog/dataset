@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "nine99.xyz",
+        "count": "174",
+        "first_seen": "2019-01-15 12:21:29",
+        "last_seen": "2019-09-17 15:34:06",
+        "ip_address": "23.225.0.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nine99.xyz",
+        "count": "2",
+        "first_seen": "2020-07-26 01:25:26",
+        "last_seen": "2020-07-26 01:25:26",
+        "ip_address": "23.247.42.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nine99.xyz",
+        "count": "129",
+        "first_seen": "2018-09-19 04:59:34",
+        "last_seen": "2019-01-15 07:42:13",
+        "ip_address": "52.79.228.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nine99.xyz",
+        "count": "216",
+        "first_seen": "2020-07-28 13:45:37",
+        "last_seen": "2020-08-04 05:08:57",
+        "ip_address": "184.168.131.241",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nine99.xyz",
+        "count": "42",
+        "first_seen": "2019-09-22 09:44:24",
+        "last_seen": "2019-10-29 15:35:20",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nine99.xyz",
+        "count": "42",
+        "first_seen": "2019-09-22 09:44:24",
+        "last_seen": "2019-10-29 15:35:20",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nine99.xyz",
+        "count": "42",
+        "first_seen": "2019-09-22 09:44:24",
+        "last_seen": "2019-10-29 15:35:20",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nine99.xyz",
+        "count": "42",
+        "first_seen": "2019-09-22 09:44:24",
+        "last_seen": "2019-10-29 15:35:20",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    }
+]

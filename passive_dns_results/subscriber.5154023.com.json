@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscriber.5154023.com",
+        "count": "38",
+        "first_seen": "2021-11-25 05:18:29",
+        "last_seen": "2022-11-10 20:52:52",
+        "ip_address": "46.8.8.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.5154023.com",
+        "count": "75",
+        "first_seen": "2021-09-05 01:05:19",
+        "last_seen": "2021-10-09 14:04:24",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.5154023.com",
+        "count": "10082",
+        "first_seen": "2021-04-09 01:34:52",
+        "last_seen": "2021-08-31 01:05:19",
+        "ip_address": "104.21.19.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.5154023.com",
+        "count": "10082",
+        "first_seen": "2021-04-09 01:34:52",
+        "last_seen": "2021-08-31 01:05:19",
+        "ip_address": "172.67.187.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.5154023.com",
+        "count": "9",
+        "first_seen": "2021-12-17 10:52:57",
+        "last_seen": "2022-05-05 12:10:29",
+        "ip_address": "46.8.8.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.5154023.com",
+        "count": "3683",
+        "first_seen": "2021-04-09 01:41:38",
+        "last_seen": "2021-08-30 15:19:56",
+        "ip_address": "2606:4700:3034::ac43:bb04",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.5154023.com",
+        "count": "3683",
+        "first_seen": "2021-04-09 01:41:38",
+        "last_seen": "2021-08-30 15:19:56",
+        "ip_address": "2606:4700:3035::6815:13ad",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "very.acornug.com",
+        "count": "422",
+        "first_seen": "2023-05-05 07:36:43",
+        "last_seen": "2023-05-14 07:36:28",
+        "ip_address": "34.146.219.175",
+        "type": "IPv4"
+    },
+    {
+        "domain": "very.acornug.com",
+        "count": "263",
+        "first_seen": "2023-05-14 08:37:23",
+        "last_seen": "2023-05-20 02:51:23",
+        "ip_address": "38.47.111.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "very.acornug.com",
+        "count": "45",
+        "first_seen": "2023-04-24 19:46:06",
+        "last_seen": "2023-04-25 13:06:55",
+        "ip_address": "38.47.111.182",
+        "type": "IPv4"
+    },
+    {
+        "domain": "very.acornug.com",
+        "count": "1580",
+        "first_seen": "2023-03-30 13:10:49",
+        "last_seen": "2023-05-01 11:21:46",
+        "ip_address": "45.154.2.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "very.acornug.com",
+        "count": "156",
+        "first_seen": "2023-05-20 01:45:49",
+        "last_seen": "2023-05-27 07:52:21",
+        "ip_address": "103.120.80.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "very.acornug.com",
+        "count": "170",
+        "first_seen": "2023-05-01 12:36:40",
+        "last_seen": "2023-05-05 06:36:34",
+        "ip_address": "104.198.84.102",
+        "type": "IPv4"
+    }
+]

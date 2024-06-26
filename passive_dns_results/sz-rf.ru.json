@@ -1,0 +1,146 @@
+[
+    {
+        "domain": "sz-rf.ru",
+        "count": "6025",
+        "first_seen": "2017-04-20 14:55:25",
+        "last_seen": "2017-11-03 00:07:03",
+        "ip_address": "81.177.141.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sz-rf.ru",
+        "count": "57",
+        "first_seen": "2018-06-30 06:59:06",
+        "last_seen": "2019-07-03 05:01:19",
+        "ip_address": "83.222.14.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sz-rf.ru",
+        "count": "552",
+        "first_seen": "2019-08-28 10:19:32",
+        "last_seen": "2020-01-13 11:37:52",
+        "ip_address": "87.236.19.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sz-rf.ru",
+        "count": "3932",
+        "first_seen": "2020-07-01 06:03:35",
+        "last_seen": "2023-08-01 08:05:17",
+        "ip_address": "88.212.208.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sz-rf.ru",
+        "count": "5144",
+        "first_seen": "2017-11-07 08:56:02",
+        "last_seen": "2019-04-16 09:34:30",
+        "ip_address": "91.221.70.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sz-rf.ru",
+        "count": "18",
+        "first_seen": "2023-08-01 18:00:16",
+        "last_seen": "2023-08-03 07:54:57",
+        "ip_address": "91.226.31.82",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sz-rf.ru",
+        "count": "12",
+        "first_seen": "2023-08-01 20:33:31",
+        "last_seen": "2023-08-02 09:16:19",
+        "ip_address": "91.226.31.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sz-rf.ru",
+        "count": "961",
+        "first_seen": "2019-04-16 11:42:06",
+        "last_seen": "2019-08-28 04:30:37",
+        "ip_address": "92.53.90.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sz-rf.ru",
+        "count": "4987",
+        "first_seen": "2023-08-02 09:29:10",
+        "last_seen": "2024-01-18 11:24:44",
+        "ip_address": "104.21.93.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sz-rf.ru",
+        "count": "4987",
+        "first_seen": "2023-08-02 09:29:10",
+        "last_seen": "2024-01-18 11:24:44",
+        "ip_address": "172.67.217.98",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sz-rf.ru",
+        "count": "40937",
+        "first_seen": "2020-01-14 11:45:09",
+        "last_seen": "2023-07-01 05:09:09",
+        "ip_address": "178.208.83.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sz-rf.ru",
+        "count": "5",
+        "first_seen": "2017-11-07 14:16:58",
+        "last_seen": "2017-11-07 20:24:45",
+        "ip_address": "188.120.228.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sz-rf.ru",
+        "count": "1",
+        "first_seen": "2021-03-03 09:25:47",
+        "last_seen": "2021-03-03 09:25:47",
+        "ip_address": "195.211.222.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sz-rf.ru",
+        "count": "8",
+        "first_seen": "2021-01-02 20:04:34",
+        "last_seen": "2021-01-03 19:04:40",
+        "ip_address": "195.211.222.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sz-rf.ru",
+        "count": "4168",
+        "first_seen": "2013-06-07 08:49:17",
+        "last_seen": "2017-04-20 11:55:37",
+        "ip_address": "217.107.34.41",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sz-rf.ru",
+        "count": "1",
+        "first_seen": "2012-02-02 19:15:04",
+        "last_seen": "2012-02-02 19:15:04",
+        "ip_address": "217.107.219.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sz-rf.ru",
+        "count": "9387",
+        "first_seen": "2023-08-02 09:30:10",
+        "last_seen": "2024-01-18 11:12:59",
+        "ip_address": "2606:4700:3035::ac43:d962",
+        "type": "IPv6"
+    },
+    {
+        "domain": "sz-rf.ru",
+        "count": "9387",
+        "first_seen": "2023-08-02 09:30:10",
+        "last_seen": "2024-01-18 11:12:59",
+        "ip_address": "2606:4700:3037::6815:5dfd",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazonceoz.xyz",
+        "count": "7",
+        "first_seen": "2021-08-30 08:23:54",
+        "last_seen": "2021-10-01 04:37:22",
+        "ip_address": "72.52.179.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonceoz.xyz",
+        "count": "4",
+        "first_seen": "2020-08-30 02:37:42",
+        "last_seen": "2020-08-30 11:23:51",
+        "ip_address": "173.82.187.184",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonceoz.xyz",
+        "count": "71",
+        "first_seen": "2020-08-30 20:01:02",
+        "last_seen": "2020-08-31 11:43:49",
+        "ip_address": "173.82.227.176",
+        "type": "IPv4"
+    }
+]

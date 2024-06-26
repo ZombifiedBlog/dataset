@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.sansonts.icu",
+        "count": "380",
+        "first_seen": "2020-08-10 20:08:45",
+        "last_seen": "2020-08-17 17:40:51",
+        "ip_address": "104.31.68.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sansonts.icu",
+        "count": "380",
+        "first_seen": "2020-08-10 20:08:45",
+        "last_seen": "2020-08-17 17:40:51",
+        "ip_address": "104.31.69.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sansonts.icu",
+        "count": "380",
+        "first_seen": "2020-08-10 20:08:45",
+        "last_seen": "2020-08-17 17:40:51",
+        "ip_address": "172.67.154.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sansonts.icu",
+        "count": "108",
+        "first_seen": "2020-08-10 20:07:50",
+        "last_seen": "2020-08-17 17:30:14",
+        "ip_address": "2606:4700:3030::681f:44dc",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.sansonts.icu",
+        "count": "108",
+        "first_seen": "2020-08-10 20:07:50",
+        "last_seen": "2020-08-17 17:30:14",
+        "ip_address": "2606:4700:3036::ac43:9a02",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.sansonts.icu",
+        "count": "108",
+        "first_seen": "2020-08-10 20:07:50",
+        "last_seen": "2020-08-17 17:30:14",
+        "ip_address": "2606:4700:3037::681f:45dc",
+        "type": "IPv6"
+    }
+]

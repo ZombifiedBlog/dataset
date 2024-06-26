@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www-cr-mufg-jp.ghjt7n.com",
+        "count": "255",
+        "first_seen": "2023-02-06 02:16:56",
+        "last_seen": "2024-01-15 19:11:05",
+        "ip_address": "103.224.182.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.ghjt7n.com",
+        "count": "11",
+        "first_seen": "2023-01-27 14:22:53",
+        "last_seen": "2023-01-27 15:31:54",
+        "ip_address": "104.21.65.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.ghjt7n.com",
+        "count": "11",
+        "first_seen": "2023-01-27 14:22:53",
+        "last_seen": "2023-01-27 15:31:54",
+        "ip_address": "172.67.193.131",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.ghjt7n.com",
+        "count": "1",
+        "first_seen": "2023-06-10 12:37:28",
+        "last_seen": "2023-06-10 12:37:28",
+        "ip_address": "170.178.183.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.ghjt7n.com",
+        "count": "11",
+        "first_seen": "2023-01-27 13:53:24",
+        "last_seen": "2023-01-28 03:13:38",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.ghjt7n.com",
+        "count": "11",
+        "first_seen": "2023-01-27 13:53:24",
+        "last_seen": "2023-01-28 03:13:38",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.ghjt7n.com",
+        "count": "1",
+        "first_seen": "2023-01-27 13:53:26",
+        "last_seen": "2023-01-27 13:53:26",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-cr-mufg-jp.ghjt7n.com",
+        "count": "1",
+        "first_seen": "2023-01-27 13:53:26",
+        "last_seen": "2023-01-27 13:53:26",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

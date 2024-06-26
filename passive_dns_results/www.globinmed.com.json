@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.globinmed.com",
+        "count": "163",
+        "first_seen": "2018-12-30 14:29:00",
+        "last_seen": "2019-01-23 22:14:05",
+        "ip_address": "3.0.160.132",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.globinmed.com",
+        "count": "236",
+        "first_seen": "2019-01-25 17:54:06",
+        "last_seen": "2019-03-25 06:58:38",
+        "ip_address": "52.76.229.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.globinmed.com",
+        "count": "4496",
+        "first_seen": "2017-01-28 17:43:10",
+        "last_seen": "2018-02-16 07:39:55",
+        "ip_address": "52.77.232.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.globinmed.com",
+        "count": "3090",
+        "first_seen": "2019-03-25 07:40:56",
+        "last_seen": "2020-05-04 03:20:55",
+        "ip_address": "103.245.88.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.globinmed.com",
+        "count": "6085",
+        "first_seen": "2018-02-16 14:04:56",
+        "last_seen": "2018-12-29 22:35:52",
+        "ip_address": "139.162.53.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.globinmed.com",
+        "count": "47282",
+        "first_seen": "2010-07-19 22:29:54",
+        "last_seen": "2017-01-28 11:59:49",
+        "ip_address": "202.71.110.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.globinmed.com",
+        "count": "1058",
+        "first_seen": "2018-02-17 04:00:02",
+        "last_seen": "2018-12-29 22:48:40",
+        "ip_address": "2400:8901::f03c:91ff:fe5c:d88",
+        "type": "IPv6"
+    }
+]

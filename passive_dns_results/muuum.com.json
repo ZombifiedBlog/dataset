@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "muuum.com",
+        "count": "8085",
+        "first_seen": "2021-03-19 04:23:50",
+        "last_seen": "2024-01-18 17:23:30",
+        "ip_address": "103.3.2.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "muuum.com",
+        "count": "463",
+        "first_seen": "2010-07-28 15:50:47",
+        "last_seen": "2010-10-14 07:57:55",
+        "ip_address": "112.78.119.166",
+        "type": "IPv4"
+    },
+    {
+        "domain": "muuum.com",
+        "count": "8972",
+        "first_seen": "2016-09-17 10:41:27",
+        "last_seen": "2020-08-23 16:41:54",
+        "ip_address": "157.7.107.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "muuum.com",
+        "count": "19612",
+        "first_seen": "2011-08-15 03:48:06",
+        "last_seen": "2016-09-17 01:14:00",
+        "ip_address": "203.189.109.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "muuum.com",
+        "count": "2590",
+        "first_seen": "2010-10-15 15:52:47",
+        "last_seen": "2011-08-15 01:47:02",
+        "ip_address": "210.157.9.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "muuum.com",
+        "count": "1156",
+        "first_seen": "2020-08-24 17:05:34",
+        "last_seen": "2021-03-18 18:03:22",
+        "ip_address": "210.188.201.51",
+        "type": "IPv4"
+    }
+]

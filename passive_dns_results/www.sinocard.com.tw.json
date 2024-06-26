@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.sinocard.com.tw",
+        "count": "13",
+        "first_seen": "2020-10-12 04:58:37",
+        "last_seen": "2021-12-31 09:19:37",
+        "ip_address": "104.247.81.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sinocard.com.tw",
+        "count": "33",
+        "first_seen": "2022-01-20 08:04:39",
+        "last_seen": "2024-01-18 01:11:13",
+        "ip_address": "104.247.81.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sinocard.com.tw",
+        "count": "17",
+        "first_seen": "2020-11-23 11:28:03",
+        "last_seen": "2021-12-07 00:54:46",
+        "ip_address": "185.53.177.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sinocard.com.tw",
+        "count": "226",
+        "first_seen": "2022-05-14 18:36:11",
+        "last_seen": "2024-01-03 07:38:52",
+        "ip_address": "185.53.177.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sinocard.com.tw",
+        "count": "20756",
+        "first_seen": "2010-07-01 09:03:47",
+        "last_seen": "2020-08-28 17:47:38",
+        "ip_address": "211.76.146.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sinocard.com.tw",
+        "count": "1",
+        "first_seen": "2023-05-11 23:06:40",
+        "last_seen": "2023-05-11 23:06:40",
+        "ip_address": "104.247.81.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sinocard.com.tw",
+        "count": "1",
+        "first_seen": "2023-06-24 02:22:34",
+        "last_seen": "2023-06-24 02:22:34",
+        "ip_address": "185.53.177.51",
+        "type": "IPv4"
+    }
+]

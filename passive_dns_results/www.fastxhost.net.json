@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.fastxhost.net",
+        "count": "617",
+        "first_seen": "2020-06-06 11:13:17",
+        "last_seen": "2020-06-07 18:18:38",
+        "ip_address": "104.24.114.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.fastxhost.net",
+        "count": "617",
+        "first_seen": "2020-06-06 11:13:17",
+        "last_seen": "2020-06-07 18:18:38",
+        "ip_address": "104.24.115.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.fastxhost.net",
+        "count": "617",
+        "first_seen": "2020-06-06 11:13:17",
+        "last_seen": "2020-06-07 18:18:38",
+        "ip_address": "172.67.206.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.fastxhost.net",
+        "count": "262",
+        "first_seen": "2020-06-06 11:13:37",
+        "last_seen": "2020-06-07 18:18:38",
+        "ip_address": "2606:4700:3030::ac43:cec5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.fastxhost.net",
+        "count": "262",
+        "first_seen": "2020-06-06 11:13:37",
+        "last_seen": "2020-06-07 18:18:38",
+        "ip_address": "2606:4700:3031::6818:734a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.fastxhost.net",
+        "count": "262",
+        "first_seen": "2020-06-06 11:13:37",
+        "last_seen": "2020-06-07 18:18:38",
+        "ip_address": "2606:4700:3035::6818:724a",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.ithimple.casa",
+        "count": "531",
+        "first_seen": "2020-08-11 17:07:19",
+        "last_seen": "2020-08-14 01:28:16",
+        "ip_address": "104.27.158.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ithimple.casa",
+        "count": "531",
+        "first_seen": "2020-08-11 17:07:19",
+        "last_seen": "2020-08-14 01:28:16",
+        "ip_address": "104.27.159.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ithimple.casa",
+        "count": "531",
+        "first_seen": "2020-08-11 17:07:19",
+        "last_seen": "2020-08-14 01:28:16",
+        "ip_address": "172.67.163.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ithimple.casa",
+        "count": "2",
+        "first_seen": "2020-08-11 09:12:11",
+        "last_seen": "2020-08-11 09:12:11",
+        "ip_address": "172.64.83.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ithimple.casa",
+        "count": "2",
+        "first_seen": "2020-08-11 09:12:12",
+        "last_seen": "2020-08-11 09:12:12",
+        "ip_address": "2606:4700:13d:4515:6b5b:181b:8acc:5346",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ithimple.casa",
+        "count": "181",
+        "first_seen": "2020-08-10 19:39:56",
+        "last_seen": "2020-08-14 01:28:16",
+        "ip_address": "2606:4700:3031::681b:9ee9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ithimple.casa",
+        "count": "181",
+        "first_seen": "2020-08-10 19:39:56",
+        "last_seen": "2020-08-14 01:28:16",
+        "ip_address": "2606:4700:3032::ac43:a3d5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ithimple.casa",
+        "count": "181",
+        "first_seen": "2020-08-10 19:39:56",
+        "last_seen": "2020-08-14 01:28:16",
+        "ip_address": "2606:4700:3036::681b:9fe9",
+        "type": "IPv6"
+    }
+]

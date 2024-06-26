@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.670shop.top",
+        "count": "9285",
+        "first_seen": "2023-02-02 18:30:26",
+        "last_seen": "2023-05-30 04:21:37",
+        "ip_address": "104.21.82.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.670shop.top",
+        "count": "9285",
+        "first_seen": "2023-02-02 18:30:26",
+        "last_seen": "2023-05-30 04:21:37",
+        "ip_address": "172.67.164.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.670shop.top",
+        "count": "825",
+        "first_seen": "2023-05-30 14:31:33",
+        "last_seen": "2023-11-04 15:28:41",
+        "ip_address": "156.226.123.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.670shop.top",
+        "count": "266",
+        "first_seen": "2023-02-03 10:42:38",
+        "last_seen": "2023-05-30 02:24:22",
+        "ip_address": "2606:4700:3030::6815:52db",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.670shop.top",
+        "count": "266",
+        "first_seen": "2023-02-03 10:42:38",
+        "last_seen": "2023-05-30 02:24:22",
+        "ip_address": "2606:4700:3034::ac43:a445",
+        "type": "IPv6"
+    }
+]

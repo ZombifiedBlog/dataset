@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www1.smdc.coarcd.com",
+        "count": "136",
+        "first_seen": "2021-10-02 17:24:40",
+        "last_seen": "2021-10-04 04:48:16",
+        "ip_address": "198.12.81.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www1.smdc.coarcd.com",
+        "count": "6",
+        "first_seen": "2022-10-02 21:11:14",
+        "last_seen": "2022-10-31 06:08:54",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www1.smdc.coarcd.com",
+        "count": "189",
+        "first_seen": "2021-10-04 08:32:44",
+        "last_seen": "2022-09-26 07:39:49",
+        "ip_address": "206.189.196.215",
+        "type": "IPv4"
+    }
+]

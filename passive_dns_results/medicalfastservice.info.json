@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "medicalfastservice.info",
+        "count": "5",
+        "first_seen": "2020-02-24 17:17:12",
+        "last_seen": "2020-02-25 12:37:11",
+        "ip_address": "8.209.75.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "medicalfastservice.info",
+        "count": "3",
+        "first_seen": "2020-03-26 14:08:29",
+        "last_seen": "2020-03-26 14:08:31",
+        "ip_address": "8.209.93.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "medicalfastservice.info",
+        "count": "22",
+        "first_seen": "2020-03-17 11:33:20",
+        "last_seen": "2020-03-24 22:50:41",
+        "ip_address": "47.91.86.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "medicalfastservice.info",
+        "count": "2",
+        "first_seen": "2020-02-27 17:31:14",
+        "last_seen": "2020-02-27 17:31:14",
+        "ip_address": "47.252.10.108",
+        "type": "IPv4"
+    },
+    {
+        "domain": "medicalfastservice.info",
+        "count": "403",
+        "first_seen": "2020-03-03 12:35:10",
+        "last_seen": "2020-03-16 08:00:09",
+        "ip_address": "47.254.67.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "medicalfastservice.info",
+        "count": "3",
+        "first_seen": "2020-02-28 18:31:56",
+        "last_seen": "2020-02-28 18:31:57",
+        "ip_address": "47.254.171.159",
+        "type": "IPv4"
+    },
+    {
+        "domain": "medicalfastservice.info",
+        "count": "2",
+        "first_seen": "2020-03-02 18:38:18",
+        "last_seen": "2020-03-02 18:38:18",
+        "ip_address": "49.51.168.169",
+        "type": "IPv4"
+    }
+]

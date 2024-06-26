@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.amozon-co-jp.4ezhj.ml",
+        "count": "202",
+        "first_seen": "2021-08-03 23:32:38",
+        "last_seen": "2021-09-24 10:44:47",
+        "ip_address": "104.21.17.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amozon-co-jp.4ezhj.ml",
+        "count": "202",
+        "first_seen": "2021-08-03 23:32:38",
+        "last_seen": "2021-09-24 10:44:47",
+        "ip_address": "172.67.218.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amozon-co-jp.4ezhj.ml",
+        "count": "3",
+        "first_seen": "2021-08-04 12:08:31",
+        "last_seen": "2021-08-10 19:21:53",
+        "ip_address": "2606:4700:3031::ac43:da0c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.amozon-co-jp.4ezhj.ml",
+        "count": "3",
+        "first_seen": "2021-08-04 12:08:31",
+        "last_seen": "2021-08-10 19:21:53",
+        "ip_address": "2606:4700:3035::6815:1105",
+        "type": "IPv6"
+    }
+]

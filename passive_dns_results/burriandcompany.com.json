@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "burriandcompany.com",
+        "count": "1156",
+        "first_seen": "2018-03-14 02:08:22",
+        "last_seen": "2021-10-09 02:28:40",
+        "ip_address": "50.63.91.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "burriandcompany.com",
+        "count": "8142",
+        "first_seen": "2011-05-24 18:50:46",
+        "last_seen": "2018-03-09 15:07:08",
+        "ip_address": "66.175.58.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "burriandcompany.com",
+        "count": "846",
+        "first_seen": "2021-10-12 01:23:40",
+        "last_seen": "2024-01-18 02:26:08",
+        "ip_address": "160.153.41.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "burriandcompany.com",
+        "count": "37",
+        "first_seen": "2010-08-27 11:30:14",
+        "last_seen": "2011-03-30 11:25:00",
+        "ip_address": "207.217.125.50",
+        "type": "IPv4"
+    }
+]

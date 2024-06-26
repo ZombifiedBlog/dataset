@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www2-micard-co-jp.mgwyxy.shop",
+        "count": "144",
+        "first_seen": "2021-07-14 04:14:09",
+        "last_seen": "2021-07-16 04:59:08",
+        "ip_address": "104.21.3.232",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-micard-co-jp.mgwyxy.shop",
+        "count": "144",
+        "first_seen": "2021-07-14 04:14:09",
+        "last_seen": "2021-07-16 04:59:08",
+        "ip_address": "172.67.131.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-micard-co-jp.mgwyxy.shop",
+        "count": "3",
+        "first_seen": "2021-07-14 07:24:59",
+        "last_seen": "2021-07-14 07:30:09",
+        "ip_address": "172.64.198.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-micard-co-jp.mgwyxy.shop",
+        "count": "3",
+        "first_seen": "2021-07-14 07:24:59",
+        "last_seen": "2021-07-14 07:30:09",
+        "ip_address": "172.64.199.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-micard-co-jp.mgwyxy.shop",
+        "count": "1",
+        "first_seen": "2021-07-14 07:25:03",
+        "last_seen": "2021-07-14 07:25:03",
+        "ip_address": "2606:4700:e6::ac40:c605",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www2-micard-co-jp.mgwyxy.shop",
+        "count": "1",
+        "first_seen": "2021-07-14 07:25:03",
+        "last_seen": "2021-07-14 07:25:03",
+        "ip_address": "2606:4700:e6::ac40:c705",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www2-micard-co-jp.mgwyxy.shop",
+        "count": "40",
+        "first_seen": "2021-07-14 04:14:10",
+        "last_seen": "2021-07-16 04:59:14",
+        "ip_address": "2606:4700:3030::ac43:834a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www2-micard-co-jp.mgwyxy.shop",
+        "count": "40",
+        "first_seen": "2021-07-14 04:14:10",
+        "last_seen": "2021-07-16 04:59:14",
+        "ip_address": "2606:4700:3035::6815:3e8",
+        "type": "IPv6"
+    }
+]

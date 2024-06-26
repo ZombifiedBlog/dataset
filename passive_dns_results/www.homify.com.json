@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "www.homify.com",
+        "count": "6",
+        "first_seen": "2010-08-02 07:13:02",
+        "last_seen": "2011-08-05 06:45:36",
+        "ip_address": "64.39.19.135",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.homify.com",
+        "count": "52353",
+        "first_seen": "2016-09-29 13:24:27",
+        "last_seen": "2017-01-15 19:21:16",
+        "ip_address": "104.16.105.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.homify.com",
+        "count": "52353",
+        "first_seen": "2016-09-29 13:24:27",
+        "last_seen": "2017-01-15 19:21:16",
+        "ip_address": "104.16.106.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.homify.com",
+        "count": "11738",
+        "first_seen": "2016-07-01 07:24:15",
+        "last_seen": "2016-09-29 13:08:13",
+        "ip_address": "104.16.195.63",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.homify.com",
+        "count": "11738",
+        "first_seen": "2016-07-01 07:24:15",
+        "last_seen": "2016-09-29 13:08:13",
+        "ip_address": "104.16.196.63",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.homify.com",
+        "count": "11738",
+        "first_seen": "2016-07-01 07:24:15",
+        "last_seen": "2016-09-29 13:08:13",
+        "ip_address": "104.16.197.63",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.homify.com",
+        "count": "11738",
+        "first_seen": "2016-07-01 07:24:15",
+        "last_seen": "2016-09-29 13:08:13",
+        "ip_address": "104.16.198.63",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.homify.com",
+        "count": "11738",
+        "first_seen": "2016-07-01 07:24:15",
+        "last_seen": "2016-09-29 13:08:13",
+        "ip_address": "104.16.199.63",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.homify.com",
+        "count": "17",
+        "first_seen": "2016-06-16 14:19:09",
+        "last_seen": "2016-06-22 09:37:25",
+        "ip_address": "104.27.140.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.homify.com",
+        "count": "17",
+        "first_seen": "2016-06-16 14:19:09",
+        "last_seen": "2016-06-22 09:37:25",
+        "ip_address": "104.27.141.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.homify.com",
+        "count": "286",
+        "first_seen": "2014-01-31 00:34:48",
+        "last_seen": "2016-04-10 09:50:17",
+        "ip_address": "217.160.42.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.homify.com",
+        "count": "9",
+        "first_seen": "2016-02-02 08:22:04",
+        "last_seen": "2016-04-11 01:42:03",
+        "ip_address": "2001:8d8:1001:10df:4d38:92ce:7812:8011",
+        "type": "IPv6"
+    }
+]

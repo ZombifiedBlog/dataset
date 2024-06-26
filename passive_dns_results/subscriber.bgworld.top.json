@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.bgworld.top",
+        "count": "2698",
+        "first_seen": "2023-02-02 18:31:19",
+        "last_seen": "2023-03-05 13:23:46",
+        "ip_address": "104.21.59.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.bgworld.top",
+        "count": "2698",
+        "first_seen": "2023-02-02 18:31:19",
+        "last_seen": "2023-03-05 13:23:46",
+        "ip_address": "172.67.186.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.bgworld.top",
+        "count": "351",
+        "first_seen": "2023-03-05 07:39:30",
+        "last_seen": "2023-05-26 02:08:42",
+        "ip_address": "146.148.147.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.bgworld.top",
+        "count": "116",
+        "first_seen": "2023-02-03 00:22:38",
+        "last_seen": "2023-03-04 22:48:42",
+        "ip_address": "2606:4700:3032::ac43:ba4d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.bgworld.top",
+        "count": "116",
+        "first_seen": "2023-02-03 00:22:38",
+        "last_seen": "2023-03-04 22:48:42",
+        "ip_address": "2606:4700:3037::6815:3bfa",
+        "type": "IPv6"
+    }
+]

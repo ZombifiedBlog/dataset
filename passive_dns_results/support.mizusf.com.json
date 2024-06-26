@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "support.mizusf.com",
+        "count": "124",
+        "first_seen": "2020-12-17 07:58:27",
+        "last_seen": "2021-01-06 05:58:15",
+        "ip_address": "104.28.24.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.mizusf.com",
+        "count": "124",
+        "first_seen": "2020-12-17 07:58:27",
+        "last_seen": "2021-01-06 05:58:15",
+        "ip_address": "104.28.25.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.mizusf.com",
+        "count": "124",
+        "first_seen": "2020-12-17 07:58:27",
+        "last_seen": "2021-01-06 05:58:15",
+        "ip_address": "172.67.194.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.mizusf.com",
+        "count": "39",
+        "first_seen": "2020-12-17 07:58:27",
+        "last_seen": "2021-01-05 15:21:56",
+        "ip_address": "2606:4700:3031::681c:1881",
+        "type": "IPv6"
+    },
+    {
+        "domain": "support.mizusf.com",
+        "count": "39",
+        "first_seen": "2020-12-17 07:58:27",
+        "last_seen": "2021-01-05 15:21:56",
+        "ip_address": "2606:4700:3031::681c:1981",
+        "type": "IPv6"
+    },
+    {
+        "domain": "support.mizusf.com",
+        "count": "39",
+        "first_seen": "2020-12-17 07:58:27",
+        "last_seen": "2021-01-05 15:21:56",
+        "ip_address": "2606:4700:3037::ac43:c214",
+        "type": "IPv6"
+    }
+]

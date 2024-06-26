@@ -1,0 +1,386 @@
+[
+    {
+        "domain": "gleam.io",
+        "count": "3646236",
+        "first_seen": "2021-08-22 06:54:08",
+        "last_seen": "2021-10-31 05:28:21",
+        "ip_address": "44.235.137.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "2486150",
+        "first_seen": "2014-06-20 10:48:52",
+        "last_seen": "2016-12-27 03:51:00",
+        "ip_address": "66.85.138.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "1110796",
+        "first_seen": "2015-05-27 06:15:49",
+        "last_seen": "2015-08-11 16:11:36",
+        "ip_address": "66.85.138.115",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "271",
+        "first_seen": "2014-05-09 13:45:38",
+        "last_seen": "2014-05-10 00:02:51",
+        "ip_address": "108.162.198.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "271",
+        "first_seen": "2014-05-09 13:45:38",
+        "last_seen": "2014-05-10 00:02:51",
+        "ip_address": "108.162.199.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "35531048",
+        "first_seen": "2018-11-14 03:59:36",
+        "last_seen": "2021-03-13 02:06:06",
+        "ip_address": "108.170.54.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "222043",
+        "first_seen": "2021-10-31 04:41:23",
+        "last_seen": "2021-11-05 06:56:54",
+        "ip_address": "172.66.40.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "9687471",
+        "first_seen": "2021-11-04 07:11:17",
+        "last_seen": "2024-01-18 09:53:39",
+        "ip_address": "172.66.40.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "9687471",
+        "first_seen": "2021-11-04 07:11:17",
+        "last_seen": "2024-01-18 09:53:39",
+        "ip_address": "172.66.43.179",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "32626854",
+        "first_seen": "2017-01-03 02:25:15",
+        "last_seen": "2021-08-22 06:54:08",
+        "ip_address": "184.171.160.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "152825",
+        "first_seen": "2013-04-08 02:28:50",
+        "last_seen": "2014-06-20 10:45:24",
+        "ip_address": "184.171.169.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "235150",
+        "first_seen": "2022-03-10 17:00:40",
+        "last_seen": "2022-03-31 14:41:05",
+        "ip_address": "188.114.97.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "1",
+        "first_seen": "2022-03-23 06:47:29",
+        "last_seen": "2022-03-23 06:47:29",
+        "ip_address": "188.114.97.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "33",
+        "first_seen": "2022-03-22 15:56:29",
+        "last_seen": "2022-03-31 12:37:13",
+        "ip_address": "188.114.97.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "14",
+        "first_seen": "2022-10-22 20:06:38",
+        "last_seen": "2023-04-18 21:35:19",
+        "ip_address": "188.114.98.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "14",
+        "first_seen": "2022-10-22 20:06:38",
+        "last_seen": "2023-04-18 21:35:19",
+        "ip_address": "188.114.99.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "350516",
+        "first_seen": "2022-03-31 14:41:05",
+        "last_seen": "2022-05-03 17:31:04",
+        "ip_address": "188.114.98.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "2",
+        "first_seen": "2022-04-11 09:10:55",
+        "last_seen": "2022-04-21 03:42:10",
+        "ip_address": "188.114.98.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "225",
+        "first_seen": "2022-03-31 20:10:30",
+        "last_seen": "2022-05-03 13:03:13",
+        "ip_address": "188.114.98.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "206098",
+        "first_seen": "2022-05-03 17:31:25",
+        "last_seen": "2022-05-27 00:12:53",
+        "ip_address": "188.114.98.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "81",
+        "first_seen": "2022-05-23 01:42:25",
+        "last_seen": "2022-05-23 02:08:47",
+        "ip_address": "188.114.98.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "73",
+        "first_seen": "2022-05-03 20:59:00",
+        "last_seen": "2022-05-19 18:48:44",
+        "ip_address": "188.114.98.156",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "231247",
+        "first_seen": "2022-05-26 21:36:05",
+        "last_seen": "2022-06-27 13:40:28",
+        "ip_address": "188.114.98.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "131996",
+        "first_seen": "2022-07-27 20:30:56",
+        "last_seen": "2022-08-17 16:31:28",
+        "ip_address": "188.114.98.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "131996",
+        "first_seen": "2022-07-27 20:30:56",
+        "last_seen": "2022-08-17 16:31:28",
+        "ip_address": "188.114.99.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "2",
+        "first_seen": "2022-07-31 19:30:36",
+        "last_seen": "2022-08-13 21:17:58",
+        "ip_address": "188.114.98.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "2",
+        "first_seen": "2022-07-31 19:30:36",
+        "last_seen": "2022-08-13 21:17:58",
+        "ip_address": "188.114.99.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "77",
+        "first_seen": "2022-05-27 07:37:36",
+        "last_seen": "2022-06-27 06:37:00",
+        "ip_address": "188.114.98.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "326126",
+        "first_seen": "2022-08-17 16:30:53",
+        "last_seen": "2022-10-11 12:50:50",
+        "ip_address": "188.114.98.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "326126",
+        "first_seen": "2022-08-17 16:30:53",
+        "last_seen": "2022-10-11 12:50:50",
+        "ip_address": "188.114.99.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "1",
+        "first_seen": "2022-09-13 15:42:35",
+        "last_seen": "2022-09-13 15:42:35",
+        "ip_address": "188.114.98.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "1",
+        "first_seen": "2022-09-13 15:42:35",
+        "last_seen": "2022-09-13 15:42:35",
+        "ip_address": "188.114.99.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "13",
+        "first_seen": "2022-09-04 07:32:19",
+        "last_seen": "2022-09-30 19:01:02",
+        "ip_address": "188.114.98.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "13",
+        "first_seen": "2022-09-04 07:32:19",
+        "last_seen": "2022-09-30 19:01:02",
+        "ip_address": "188.114.99.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "2797305",
+        "first_seen": "2022-10-11 12:50:33",
+        "last_seen": "2024-01-04 01:38:47",
+        "ip_address": "188.114.98.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "2797305",
+        "first_seen": "2022-10-11 12:50:33",
+        "last_seen": "2024-01-04 01:38:47",
+        "ip_address": "188.114.99.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "2604516",
+        "first_seen": "2023-02-06 14:33:47",
+        "last_seen": "2024-01-18 08:54:02",
+        "ip_address": "188.114.98.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "2604516",
+        "first_seen": "2023-02-06 14:33:47",
+        "last_seen": "2024-01-18 08:54:02",
+        "ip_address": "188.114.99.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "14",
+        "first_seen": "2022-10-12 09:20:13",
+        "last_seen": "2023-08-03 09:07:26",
+        "ip_address": "188.114.98.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "14",
+        "first_seen": "2022-10-12 09:20:13",
+        "last_seen": "2023-08-03 09:07:26",
+        "ip_address": "188.114.99.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "48395",
+        "first_seen": "2022-10-30 12:35:53",
+        "last_seen": "2024-01-18 08:41:17",
+        "ip_address": "188.114.98.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "48395",
+        "first_seen": "2022-10-30 12:35:53",
+        "last_seen": "2024-01-18 08:41:17",
+        "ip_address": "188.114.99.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "1",
+        "first_seen": "2023-06-07 23:05:05",
+        "last_seen": "2023-06-07 23:05:05",
+        "ip_address": "188.114.98.237",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "1",
+        "first_seen": "2023-06-07 23:05:05",
+        "last_seen": "2023-06-07 23:05:05",
+        "ip_address": "188.114.99.237",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "223869",
+        "first_seen": "2022-06-27 13:40:16",
+        "last_seen": "2022-07-27 22:10:15",
+        "ip_address": "188.114.99.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "350",
+        "first_seen": "2022-07-13 00:24:14",
+        "last_seen": "2022-07-13 02:01:42",
+        "ip_address": "188.114.99.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "57",
+        "first_seen": "2022-06-27 14:05:15",
+        "last_seen": "2022-07-22 16:48:30",
+        "ip_address": "188.114.99.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gleam.io",
+        "count": "20488193",
+        "first_seen": "2015-10-12 23:38:03",
+        "last_seen": "2018-10-12 13:23:51",
+        "ip_address": "198.15.100.98",
+        "type": "IPv4"
+    }
+]

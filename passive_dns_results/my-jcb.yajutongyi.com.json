@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "my-jcb.yajutongyi.com",
+        "count": "2",
+        "first_seen": "2023-09-16 16:41:47",
+        "last_seen": "2023-09-16 16:41:47",
+        "ip_address": "38.36.96.109",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.yajutongyi.com",
+        "count": "4",
+        "first_seen": "2023-06-25 17:46:27",
+        "last_seen": "2023-07-29 20:01:25",
+        "ip_address": "102.134.49.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.yajutongyi.com",
+        "count": "102",
+        "first_seen": "2020-11-10 17:24:40",
+        "last_seen": "2020-11-30 02:07:04",
+        "ip_address": "104.24.98.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.yajutongyi.com",
+        "count": "102",
+        "first_seen": "2020-11-10 17:24:40",
+        "last_seen": "2020-11-30 02:07:04",
+        "ip_address": "104.24.99.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.yajutongyi.com",
+        "count": "102",
+        "first_seen": "2020-11-10 17:24:40",
+        "last_seen": "2020-11-30 02:07:04",
+        "ip_address": "172.67.174.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.yajutongyi.com",
+        "count": "1",
+        "first_seen": "2023-05-29 15:04:03",
+        "last_seen": "2023-05-29 15:04:03",
+        "ip_address": "107.187.169.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.yajutongyi.com",
+        "count": "35",
+        "first_seen": "2020-11-10 17:24:40",
+        "last_seen": "2020-11-15 12:48:47",
+        "ip_address": "2606:4700:3031::ac43:aed4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.yajutongyi.com",
+        "count": "35",
+        "first_seen": "2020-11-10 17:24:40",
+        "last_seen": "2020-11-15 12:48:47",
+        "ip_address": "2606:4700:3033::6818:63c1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.yajutongyi.com",
+        "count": "35",
+        "first_seen": "2020-11-10 17:24:40",
+        "last_seen": "2020-11-15 12:48:47",
+        "ip_address": "2606:4700:3037::6818:62c1",
+        "type": "IPv6"
+    }
+]

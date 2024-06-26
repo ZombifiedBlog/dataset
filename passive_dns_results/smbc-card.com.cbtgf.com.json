@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "smbc-card.com.cbtgf.com",
+        "count": "1",
+        "first_seen": "2022-07-27 11:08:28",
+        "last_seen": "2022-07-27 11:08:28",
+        "ip_address": "37.48.65.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-card.com.cbtgf.com",
+        "count": "228",
+        "first_seen": "2021-12-13 21:10:59",
+        "last_seen": "2022-01-13 18:50:45",
+        "ip_address": "103.120.80.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-card.com.cbtgf.com",
+        "count": "228",
+        "first_seen": "2021-12-13 21:10:59",
+        "last_seen": "2022-01-13 18:50:45",
+        "ip_address": "103.139.0.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-card.com.cbtgf.com",
+        "count": "5",
+        "first_seen": "2022-05-08 20:37:30",
+        "last_seen": "2023-02-05 08:37:27",
+        "ip_address": "103.224.212.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-card.com.cbtgf.com",
+        "count": "1",
+        "first_seen": "2022-11-16 15:17:21",
+        "last_seen": "2022-11-16 15:17:21",
+        "ip_address": "199.115.116.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-card.com.cbtgf.com",
+        "count": "334",
+        "first_seen": "2021-12-09 13:29:51",
+        "last_seen": "2021-12-13 20:18:48",
+        "ip_address": "216.224.120.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-card.com.cbtgf.com",
+        "count": "1",
+        "first_seen": "2022-05-08 20:37:30",
+        "last_seen": "2022-05-08 20:37:30",
+        "ip_address": "103.224.212.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-card.com.cbtgf.com",
+        "count": "1",
+        "first_seen": "2023-02-18 14:35:30",
+        "last_seen": "2023-02-18 14:35:30",
+        "ip_address": "199.115.116.43",
+        "type": "IPv4"
+    }
+]

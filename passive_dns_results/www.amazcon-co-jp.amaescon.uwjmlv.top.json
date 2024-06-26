@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.amazcon-co-jp.amaescon.uwjmlv.top",
+        "count": "1",
+        "first_seen": "2023-03-19 01:34:13",
+        "last_seen": "2023-03-19 01:34:13",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazcon-co-jp.amaescon.uwjmlv.top",
+        "count": "2",
+        "first_seen": "2023-02-07 02:59:23",
+        "last_seen": "2023-02-07 02:59:23",
+        "ip_address": "104.21.40.167",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazcon-co-jp.amaescon.uwjmlv.top",
+        "count": "2",
+        "first_seen": "2023-02-07 02:59:23",
+        "last_seen": "2023-02-07 02:59:23",
+        "ip_address": "172.67.187.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazcon-co-jp.amaescon.uwjmlv.top",
+        "count": "106",
+        "first_seen": "2022-11-28 19:29:19",
+        "last_seen": "2022-11-29 11:31:26",
+        "ip_address": "204.44.88.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazcon-co-jp.amaescon.uwjmlv.top",
+        "count": "1",
+        "first_seen": "2023-02-07 02:59:23",
+        "last_seen": "2023-02-07 02:59:23",
+        "ip_address": "2606:4700:3030::6815:28a7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.amazcon-co-jp.amaescon.uwjmlv.top",
+        "count": "1",
+        "first_seen": "2023-02-07 02:59:23",
+        "last_seen": "2023-02-07 02:59:23",
+        "ip_address": "2606:4700:3036::ac43:bb72",
+        "type": "IPv6"
+    }
+]

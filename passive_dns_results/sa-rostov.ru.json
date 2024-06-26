@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "sa-rostov.ru",
+        "count": "5878",
+        "first_seen": "2020-09-16 15:59:14",
+        "last_seen": "2024-01-18 03:24:38",
+        "ip_address": "31.31.198.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sa-rostov.ru",
+        "count": "17482",
+        "first_seen": "2014-09-12 21:20:30",
+        "last_seen": "2020-09-16 12:57:28",
+        "ip_address": "80.78.250.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sa-rostov.ru",
+        "count": "8",
+        "first_seen": "2011-05-16 11:28:14",
+        "last_seen": "2013-02-14 04:57:58",
+        "ip_address": "89.108.66.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sa-rostov.ru",
+        "count": "4",
+        "first_seen": "2022-02-03 04:14:11",
+        "last_seen": "2022-02-09 10:48:04",
+        "ip_address": "194.67.71.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sa-rostov.ru",
+        "count": "19",
+        "first_seen": "2022-02-03 02:21:00",
+        "last_seen": "2022-02-09 23:51:23",
+        "ip_address": "194.67.71.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sa-rostov.ru",
+        "count": "1923",
+        "first_seen": "2020-09-17 09:44:42",
+        "last_seen": "2024-01-18 08:24:36",
+        "ip_address": "2a00:f940:2:2:1:4:0:95",
+        "type": "IPv6"
+    },
+    {
+        "domain": "sa-rostov.ru",
+        "count": "10",
+        "first_seen": "2022-02-03 02:21:00",
+        "last_seen": "2022-02-09 15:39:28",
+        "ip_address": "2a00:f940:4::10",
+        "type": "IPv6"
+    },
+    {
+        "domain": "sa-rostov.ru",
+        "count": "8298",
+        "first_seen": "2014-09-12 21:20:30",
+        "last_seen": "2020-09-16 12:57:28",
+        "ip_address": "2a03:4900:0:6037:80:78:250:19",
+        "type": "IPv6"
+    }
+]

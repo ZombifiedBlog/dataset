@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.monsterpimp.com",
+        "count": "79",
+        "first_seen": "2022-08-24 14:53:14",
+        "last_seen": "2022-09-25 16:49:13",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.monsterpimp.com",
+        "count": "5527",
+        "first_seen": "2022-06-07 11:38:20",
+        "last_seen": "2022-08-22 17:59:24",
+        "ip_address": "104.21.77.73",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.monsterpimp.com",
+        "count": "5527",
+        "first_seen": "2022-06-07 11:38:20",
+        "last_seen": "2022-08-22 17:59:24",
+        "ip_address": "172.67.205.95",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.monsterpimp.com",
+        "count": "123",
+        "first_seen": "2022-06-08 16:22:56",
+        "last_seen": "2022-08-20 19:42:33",
+        "ip_address": "2606:4700:3034::6815:4d49",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.monsterpimp.com",
+        "count": "123",
+        "first_seen": "2022-06-08 16:22:56",
+        "last_seen": "2022-08-20 19:42:33",
+        "ip_address": "2606:4700:3035::ac43:cd5f",
+        "type": "IPv6"
+    }
+]

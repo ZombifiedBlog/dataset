@@ -1,0 +1,122 @@
+[
+    {
+        "domain": "www.90off-rb.com",
+        "count": "12",
+        "first_seen": "2023-09-07 02:37:39",
+        "last_seen": "2023-11-07 14:13:40",
+        "ip_address": "64.32.8.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.90off-rb.com",
+        "count": "3",
+        "first_seen": "2023-10-15 03:36:57",
+        "last_seen": "2023-10-26 01:54:28",
+        "ip_address": "64.32.8.68",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.90off-rb.com",
+        "count": "4",
+        "first_seen": "2023-09-23 08:41:59",
+        "last_seen": "2023-09-23 08:41:59",
+        "ip_address": "64.32.8.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.90off-rb.com",
+        "count": "6",
+        "first_seen": "2023-08-29 10:27:10",
+        "last_seen": "2023-11-09 20:55:00",
+        "ip_address": "64.32.8.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.90off-rb.com",
+        "count": "65280",
+        "first_seen": "2022-06-13 04:18:07",
+        "last_seen": "2023-06-11 22:03:43",
+        "ip_address": "104.21.94.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.90off-rb.com",
+        "count": "65280",
+        "first_seen": "2022-06-13 04:18:07",
+        "last_seen": "2023-06-11 22:03:43",
+        "ip_address": "172.67.139.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.90off-rb.com",
+        "count": "13",
+        "first_seen": "2023-11-20 00:05:07",
+        "last_seen": "2023-12-20 16:44:52",
+        "ip_address": "162.210.196.171",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.90off-rb.com",
+        "count": "9",
+        "first_seen": "2023-12-02 08:48:34",
+        "last_seen": "2024-01-04 15:29:55",
+        "ip_address": "162.210.196.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.90off-rb.com",
+        "count": "11",
+        "first_seen": "2023-11-22 06:48:03",
+        "last_seen": "2024-01-16 22:09:43",
+        "ip_address": "162.210.196.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.90off-rb.com",
+        "count": "23",
+        "first_seen": "2023-09-07 02:37:38",
+        "last_seen": "2024-01-10 14:34:22",
+        "ip_address": "185.107.56.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.90off-rb.com",
+        "count": "8",
+        "first_seen": "2023-11-22 06:48:02",
+        "last_seen": "2024-01-17 03:35:31",
+        "ip_address": "185.107.56.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.90off-rb.com",
+        "count": "3",
+        "first_seen": "2023-11-07 14:13:40",
+        "last_seen": "2023-12-02 12:50:42",
+        "ip_address": "185.107.56.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.90off-rb.com",
+        "count": "9",
+        "first_seen": "2023-08-31 10:28:47",
+        "last_seen": "2023-12-11 23:19:46",
+        "ip_address": "185.107.56.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.90off-rb.com",
+        "count": "2570",
+        "first_seen": "2022-06-15 02:00:53",
+        "last_seen": "2023-06-11 21:47:54",
+        "ip_address": "2606:4700:3035::6815:5ecc",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.90off-rb.com",
+        "count": "2570",
+        "first_seen": "2022-06-15 02:00:53",
+        "last_seen": "2023-06-11 21:47:54",
+        "ip_address": "2606:4700:3037::ac43:8bbe",
+        "type": "IPv6"
+    }
+]

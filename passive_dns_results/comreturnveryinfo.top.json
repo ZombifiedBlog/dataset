@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "comreturnveryinfo.top",
+        "count": "7",
+        "first_seen": "2022-06-09 07:49:45",
+        "last_seen": "2022-06-14 07:19:21",
+        "ip_address": "45.130.146.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "comreturnveryinfo.top",
+        "count": "9",
+        "first_seen": "2023-06-03 06:48:08",
+        "last_seen": "2023-06-20 16:19:51",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "comreturnveryinfo.top",
+        "count": "425",
+        "first_seen": "2022-06-02 16:07:42",
+        "last_seen": "2022-06-08 11:41:56",
+        "ip_address": "104.21.93.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "comreturnveryinfo.top",
+        "count": "425",
+        "first_seen": "2022-06-02 16:07:42",
+        "last_seen": "2022-06-08 11:41:56",
+        "ip_address": "172.67.204.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "comreturnveryinfo.top",
+        "count": "1",
+        "first_seen": "2022-06-03 22:46:29",
+        "last_seen": "2022-06-03 22:46:29",
+        "ip_address": "2606:4700:3035::ac43:cc33",
+        "type": "IPv6"
+    },
+    {
+        "domain": "comreturnveryinfo.top",
+        "count": "1",
+        "first_seen": "2022-06-03 22:46:29",
+        "last_seen": "2022-06-03 22:46:29",
+        "ip_address": "2606:4700:3037::6815:5d21",
+        "type": "IPv6"
+    }
+]

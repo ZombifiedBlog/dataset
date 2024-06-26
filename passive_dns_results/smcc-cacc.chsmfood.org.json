@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "smcc-cacc.chsmfood.org",
+        "count": "422",
+        "first_seen": "2020-10-23 19:28:07",
+        "last_seen": "2020-10-27 06:50:06",
+        "ip_address": "173.82.234.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.chsmfood.org",
+        "count": "305",
+        "first_seen": "2020-10-23 15:59:56",
+        "last_seen": "2020-10-23 19:25:53",
+        "ip_address": "198.74.110.142",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.chsmfood.org",
+        "count": "28",
+        "first_seen": "2020-10-27 08:41:23",
+        "last_seen": "2020-11-20 07:20:06",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.chsmfood.org",
+        "count": "2",
+        "first_seen": "2020-11-01 17:42:23",
+        "last_seen": "2020-11-01 17:42:23",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    }
+]

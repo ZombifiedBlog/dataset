@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "monun781-51ad21661dd-ind52155wa.info",
+        "count": "3",
+        "first_seen": "2023-06-16 01:07:18",
+        "last_seen": "2023-06-19 11:43:55",
+        "ip_address": "52.25.92.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "monun781-51ad21661dd-ind52155wa.info",
+        "count": "1",
+        "first_seen": "2023-06-19 11:43:55",
+        "last_seen": "2023-06-19 11:43:55",
+        "ip_address": "54.65.172.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "monun781-51ad21661dd-ind52155wa.info",
+        "count": "134",
+        "first_seen": "2022-05-27 09:22:27",
+        "last_seen": "2023-05-27 04:05:19",
+        "ip_address": "160.251.81.122",
+        "type": "IPv4"
+    }
+]

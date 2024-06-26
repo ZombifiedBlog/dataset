@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "www.exciling.top",
+        "count": "592",
+        "first_seen": "2021-01-13 12:01:22",
+        "last_seen": "2021-10-07 06:28:28",
+        "ip_address": "104.21.2.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.exciling.top",
+        "count": "592",
+        "first_seen": "2021-01-13 12:01:22",
+        "last_seen": "2021-10-07 06:28:28",
+        "ip_address": "172.67.128.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.exciling.top",
+        "count": "1687",
+        "first_seen": "2020-10-07 03:20:32",
+        "last_seen": "2021-01-10 04:31:34",
+        "ip_address": "104.28.8.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.exciling.top",
+        "count": "1687",
+        "first_seen": "2020-10-07 03:20:32",
+        "last_seen": "2021-01-10 04:31:34",
+        "ip_address": "104.28.9.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.exciling.top",
+        "count": "1687",
+        "first_seen": "2020-10-07 03:20:32",
+        "last_seen": "2021-01-10 04:31:34",
+        "ip_address": "172.67.128.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.exciling.top",
+        "count": "2",
+        "first_seen": "2020-10-07 03:22:51",
+        "last_seen": "2020-10-07 03:22:51",
+        "ip_address": "172.64.82.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.exciling.top",
+        "count": "9",
+        "first_seen": "2021-10-08 06:42:46",
+        "last_seen": "2021-10-15 07:10:39",
+        "ip_address": "199.59.242.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.exciling.top",
+        "count": "96",
+        "first_seen": "2021-01-13 12:01:22",
+        "last_seen": "2021-09-15 16:24:13",
+        "ip_address": "2606:4700:3031::6815:203",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.exciling.top",
+        "count": "96",
+        "first_seen": "2021-01-13 12:01:22",
+        "last_seen": "2021-09-15 16:24:13",
+        "ip_address": "2606:4700:3035::ac43:8072",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.exciling.top",
+        "count": "770",
+        "first_seen": "2020-10-07 03:20:33",
+        "last_seen": "2021-01-10 04:31:34",
+        "ip_address": "2606:4700:3031::681c:908",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.exciling.top",
+        "count": "770",
+        "first_seen": "2020-10-07 03:20:33",
+        "last_seen": "2021-01-10 04:31:34",
+        "ip_address": "2606:4700:3032::681c:808",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.exciling.top",
+        "count": "770",
+        "first_seen": "2020-10-07 03:20:33",
+        "last_seen": "2021-01-10 04:31:34",
+        "ip_address": "2606:4700:3035::ac43:8072",
+        "type": "IPv6"
+    }
+]

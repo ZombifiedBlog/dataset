@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.ibo.org",
+        "count": "3087493",
+        "first_seen": "2011-09-02 11:21:49",
+        "last_seen": "2015-05-27 16:21:03",
+        "ip_address": "72.52.6.232",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ibo.org",
+        "count": "349760",
+        "first_seen": "2010-06-24 08:46:46",
+        "last_seen": "2011-09-02 13:01:20",
+        "ip_address": "194.82.135.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ibo.org",
+        "count": "3487252",
+        "first_seen": "2015-05-27 16:21:34",
+        "last_seen": "2024-01-18 13:50:19",
+        "ip_address": "195.219.11.17",
+        "type": "IPv4"
+    }
+]

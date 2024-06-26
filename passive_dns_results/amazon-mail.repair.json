@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazon-mail.repair",
+        "count": "6",
+        "first_seen": "2021-10-04 14:40:23",
+        "last_seen": "2021-11-01 15:47:24",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-mail.repair",
+        "count": "210",
+        "first_seen": "2020-10-04 23:31:28",
+        "last_seen": "2020-10-08 18:11:40",
+        "ip_address": "204.15.75.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-mail.repair",
+        "count": "179",
+        "first_seen": "2020-10-08 19:06:40",
+        "last_seen": "2021-09-11 16:22:32",
+        "ip_address": "204.15.75.188",
+        "type": "IPv4"
+    }
+]

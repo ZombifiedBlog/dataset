@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "smcc-cacc.uudj.net",
+        "count": "13",
+        "first_seen": "2022-07-11 22:58:29",
+        "last_seen": "2023-03-17 23:05:38",
+        "ip_address": "23.251.55.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.uudj.net",
+        "count": "4504",
+        "first_seen": "2020-10-29 09:06:43",
+        "last_seen": "2020-12-02 19:16:00",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.uudj.net",
+        "count": "714",
+        "first_seen": "2020-10-22 18:34:44",
+        "last_seen": "2020-10-27 11:16:46",
+        "ip_address": "198.74.110.142",
+        "type": "IPv4"
+    }
+]

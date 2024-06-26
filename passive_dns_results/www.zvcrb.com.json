@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.zvcrb.com",
+        "count": "945",
+        "first_seen": "2021-10-30 02:27:03",
+        "last_seen": "2022-02-25 00:51:58",
+        "ip_address": "104.21.68.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zvcrb.com",
+        "count": "945",
+        "first_seen": "2021-10-30 02:27:03",
+        "last_seen": "2022-02-25 00:51:58",
+        "ip_address": "172.67.185.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zvcrb.com",
+        "count": "1",
+        "first_seen": "2021-12-31 14:03:57",
+        "last_seen": "2021-12-31 14:03:57",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zvcrb.com",
+        "count": "20",
+        "first_seen": "2021-10-30 02:27:04",
+        "last_seen": "2022-02-25 00:50:30",
+        "ip_address": "2606:4700:3035::ac43:b91b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zvcrb.com",
+        "count": "20",
+        "first_seen": "2021-10-30 02:27:04",
+        "last_seen": "2022-02-25 00:50:30",
+        "ip_address": "2606:4700:3037::6815:4413",
+        "type": "IPv6"
+    }
+]

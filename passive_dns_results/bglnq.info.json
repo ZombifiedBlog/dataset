@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "bglnq.info",
+        "count": "20",
+        "first_seen": "2017-04-17 23:14:32",
+        "last_seen": "2017-07-07 10:32:15",
+        "ip_address": "59.153.62.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bglnq.info",
+        "count": "29",
+        "first_seen": "2017-09-18 05:59:49",
+        "last_seen": "2018-04-02 06:54:04",
+        "ip_address": "104.143.33.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bglnq.info",
+        "count": "8",
+        "first_seen": "2017-07-16 15:26:37",
+        "last_seen": "2017-08-31 07:13:18",
+        "ip_address": "192.168.1.1",
+        "type": "IPv4"
+    }
+]

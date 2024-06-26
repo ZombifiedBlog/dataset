@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "d.oo14.com",
+        "count": "3295",
+        "first_seen": "2019-08-13 01:59:12",
+        "last_seen": "2020-01-08 10:02:36",
+        "ip_address": "47.110.225.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "d.oo14.com",
+        "count": "3295",
+        "first_seen": "2019-08-13 01:59:12",
+        "last_seen": "2020-01-08 10:02:36",
+        "ip_address": "47.110.233.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "d.oo14.com",
+        "count": "8884",
+        "first_seen": "2020-03-31 05:49:19",
+        "last_seen": "2020-05-25 08:06:03",
+        "ip_address": "119.8.38.245",
+        "type": "IPv4"
+    },
+    {
+        "domain": "d.oo14.com",
+        "count": "233681",
+        "first_seen": "2020-05-25 08:07:33",
+        "last_seen": "2024-01-12 03:52:10",
+        "ip_address": "119.8.38.245",
+        "type": "IPv4"
+    },
+    {
+        "domain": "d.oo14.com",
+        "count": "233681",
+        "first_seen": "2020-05-25 08:07:33",
+        "last_seen": "2024-01-12 03:52:10",
+        "ip_address": "119.8.41.154",
+        "type": "IPv4"
+    },
+    {
+        "domain": "d.oo14.com",
+        "count": "2180",
+        "first_seen": "2020-01-08 10:40:51",
+        "last_seen": "2020-03-31 01:36:20",
+        "ip_address": "139.159.240.160",
+        "type": "IPv4"
+    }
+]

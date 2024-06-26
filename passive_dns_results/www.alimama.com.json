@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.alimama.com",
+        "count": "31528",
+        "first_seen": "2012-10-17 09:18:27",
+        "last_seen": "2012-10-20 03:24:02",
+        "ip_address": "110.75.19.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alimama.com",
+        "count": "31528",
+        "first_seen": "2012-10-17 09:18:27",
+        "last_seen": "2012-10-20 03:24:02",
+        "ip_address": "110.75.36.42",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alimama.com",
+        "count": "31528",
+        "first_seen": "2012-10-17 09:18:27",
+        "last_seen": "2012-10-20 03:24:02",
+        "ip_address": "119.42.232.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alimama.com",
+        "count": "39146",
+        "first_seen": "2012-10-20 03:24:13",
+        "last_seen": "2012-10-23 09:37:04",
+        "ip_address": "110.75.36.42",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alimama.com",
+        "count": "39146",
+        "first_seen": "2012-10-20 03:24:13",
+        "last_seen": "2012-10-23 09:37:04",
+        "ip_address": "119.42.232.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alimama.com",
+        "count": "2618586",
+        "first_seen": "2010-06-24 03:36:58",
+        "last_seen": "2012-10-31 06:20:52",
+        "ip_address": "119.42.232.242",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www-smbc-card-com.david-bentley.com",
+        "count": "1576",
+        "first_seen": "2023-02-01 14:25:54",
+        "last_seen": "2023-02-28 09:07:19",
+        "ip_address": "104.21.25.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-smbc-card-com.david-bentley.com",
+        "count": "1576",
+        "first_seen": "2023-02-01 14:25:54",
+        "last_seen": "2023-02-28 09:07:19",
+        "ip_address": "172.67.133.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-smbc-card-com.david-bentley.com",
+        "count": "6",
+        "first_seen": "2023-02-01 14:31:27",
+        "last_seen": "2023-02-26 21:25:59",
+        "ip_address": "2606:4700:3035::ac43:85c9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-smbc-card-com.david-bentley.com",
+        "count": "6",
+        "first_seen": "2023-02-01 14:31:27",
+        "last_seen": "2023-02-26 21:25:59",
+        "ip_address": "2606:4700:3036::6815:1953",
+        "type": "IPv6"
+    }
+]

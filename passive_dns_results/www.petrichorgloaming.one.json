@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.petrichorgloaming.one",
+        "count": "393",
+        "first_seen": "2023-07-23 00:07:26",
+        "last_seen": "2024-01-13 20:37:14",
+        "ip_address": "104.21.92.227",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.petrichorgloaming.one",
+        "count": "393",
+        "first_seen": "2023-07-23 00:07:26",
+        "last_seen": "2024-01-13 20:37:14",
+        "ip_address": "172.67.199.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.petrichorgloaming.one",
+        "count": "1",
+        "first_seen": "2023-07-23 00:16:52",
+        "last_seen": "2023-07-23 00:16:52",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.petrichorgloaming.one",
+        "count": "42",
+        "first_seen": "2023-07-23 00:12:40",
+        "last_seen": "2023-12-31 17:23:50",
+        "ip_address": "2606:4700:3033::6815:5ce3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.petrichorgloaming.one",
+        "count": "42",
+        "first_seen": "2023-07-23 00:12:40",
+        "last_seen": "2023-12-31 17:23:50",
+        "ip_address": "2606:4700:3034::ac43:c760",
+        "type": "IPv6"
+    }
+]

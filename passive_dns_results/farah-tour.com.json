@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "farah-tour.com",
+        "count": "2",
+        "first_seen": "2016-08-23 13:13:24",
+        "last_seen": "2016-08-23 13:13:24",
+        "ip_address": "8.5.1.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "farah-tour.com",
+        "count": "32",
+        "first_seen": "2023-08-22 07:49:16",
+        "last_seen": "2023-09-06 10:03:17",
+        "ip_address": "15.197.172.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "farah-tour.com",
+        "count": "35",
+        "first_seen": "2023-09-11 10:45:01",
+        "last_seen": "2023-09-27 10:36:45",
+        "ip_address": "15.197.212.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "farah-tour.com",
+        "count": "1331",
+        "first_seen": "2014-01-08 17:26:44",
+        "last_seen": "2017-06-20 15:40:40",
+        "ip_address": "50.87.8.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "farah-tour.com",
+        "count": "160",
+        "first_seen": "2023-10-02 11:52:38",
+        "last_seen": "2024-01-17 11:54:29",
+        "ip_address": "69.25.142.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "farah-tour.com",
+        "count": "104",
+        "first_seen": "2020-08-22 11:09:44",
+        "last_seen": "2022-09-26 20:53:52",
+        "ip_address": "91.195.240.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "farah-tour.com",
+        "count": "792",
+        "first_seen": "2019-02-22 02:10:55",
+        "last_seen": "2019-11-22 12:21:12",
+        "ip_address": "162.241.5.182",
+        "type": "IPv4"
+    },
+    {
+        "domain": "farah-tour.com",
+        "count": "2578",
+        "first_seen": "2019-11-23 22:27:53",
+        "last_seen": "2023-09-29 20:26:07",
+        "ip_address": "192.185.104.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "farah-tour.com",
+        "count": "1002",
+        "first_seen": "2017-06-21 00:02:14",
+        "last_seen": "2019-02-18 00:40:56",
+        "ip_address": "192.185.106.145",
+        "type": "IPv4"
+    }
+]

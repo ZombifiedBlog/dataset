@@ -1,0 +1,106 @@
+[
+    {
+        "domain": "ic.rubiconatlas.org",
+        "count": "724",
+        "first_seen": "2015-07-25 18:13:45",
+        "last_seen": "2020-01-05 06:08:17",
+        "ip_address": "65.116.66.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ic.rubiconatlas.org",
+        "count": "20",
+        "first_seen": "2020-02-23 01:47:38",
+        "last_seen": "2020-05-31 03:45:39",
+        "ip_address": "65.116.66.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ic.rubiconatlas.org",
+        "count": "358",
+        "first_seen": "2014-09-06 19:19:53",
+        "last_seen": "2015-07-24 23:15:47",
+        "ip_address": "65.116.71.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ic.rubiconatlas.org",
+        "count": "5",
+        "first_seen": "2023-04-06 07:24:09",
+        "last_seen": "2024-01-04 12:00:18",
+        "ip_address": "104.18.14.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ic.rubiconatlas.org",
+        "count": "5",
+        "first_seen": "2023-04-06 07:24:09",
+        "last_seen": "2024-01-04 12:00:18",
+        "ip_address": "104.18.15.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ic.rubiconatlas.org",
+        "count": "17",
+        "first_seen": "2020-10-05 10:39:01",
+        "last_seen": "2022-04-07 10:32:40",
+        "ip_address": "104.26.8.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ic.rubiconatlas.org",
+        "count": "17",
+        "first_seen": "2020-10-05 10:39:01",
+        "last_seen": "2022-04-07 10:32:40",
+        "ip_address": "104.26.9.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ic.rubiconatlas.org",
+        "count": "17",
+        "first_seen": "2020-10-05 10:39:01",
+        "last_seen": "2022-04-07 10:32:40",
+        "ip_address": "172.67.70.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ic.rubiconatlas.org",
+        "count": "8",
+        "first_seen": "2022-12-02 01:24:31",
+        "last_seen": "2023-08-05 11:52:53",
+        "ip_address": "2606:4700::6812:e95",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ic.rubiconatlas.org",
+        "count": "8",
+        "first_seen": "2022-12-02 01:24:31",
+        "last_seen": "2023-08-05 11:52:53",
+        "ip_address": "2606:4700::6812:f95",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ic.rubiconatlas.org",
+        "count": "2",
+        "first_seen": "2021-10-31 19:23:01",
+        "last_seen": "2022-08-07 18:42:46",
+        "ip_address": "2606:4700:20::681a:811",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ic.rubiconatlas.org",
+        "count": "2",
+        "first_seen": "2021-10-31 19:23:01",
+        "last_seen": "2022-08-07 18:42:46",
+        "ip_address": "2606:4700:20::681a:911",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ic.rubiconatlas.org",
+        "count": "2",
+        "first_seen": "2021-10-31 19:23:01",
+        "last_seen": "2022-08-07 18:42:46",
+        "ip_address": "2606:4700:20::ac43:461f",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "mijcbs.com",
+        "count": "385",
+        "first_seen": "2020-10-28 16:09:16",
+        "last_seen": "2021-11-15 01:50:07",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mijcbs.com",
+        "count": "8",
+        "first_seen": "2020-10-15 09:30:22",
+        "last_seen": "2020-10-16 00:24:03",
+        "ip_address": "104.28.10.245",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mijcbs.com",
+        "count": "8",
+        "first_seen": "2020-10-15 09:30:22",
+        "last_seen": "2020-10-16 00:24:03",
+        "ip_address": "104.28.11.245",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mijcbs.com",
+        "count": "8",
+        "first_seen": "2020-10-15 09:30:22",
+        "last_seen": "2020-10-16 00:24:03",
+        "ip_address": "172.67.160.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mijcbs.com",
+        "count": "7",
+        "first_seen": "2020-10-15 09:30:23",
+        "last_seen": "2020-10-17 20:44:55",
+        "ip_address": "2606:4700:3033::681c:bf5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mijcbs.com",
+        "count": "7",
+        "first_seen": "2020-10-15 09:30:23",
+        "last_seen": "2020-10-17 20:44:55",
+        "ip_address": "2606:4700:3033::ac43:a09b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mijcbs.com",
+        "count": "7",
+        "first_seen": "2020-10-15 09:30:23",
+        "last_seen": "2020-10-17 20:44:55",
+        "ip_address": "2606:4700:3037::681c:af5",
+        "type": "IPv6"
+    }
+]

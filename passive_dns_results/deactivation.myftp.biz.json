@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "deactivation.myftp.biz",
+        "count": "1102",
+        "first_seen": "2019-08-07 02:56:54",
+        "last_seen": "2024-01-14 11:51:21",
+        "ip_address": "0.0.0.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "deactivation.myftp.biz",
+        "count": "392",
+        "first_seen": "2019-05-29 16:49:55",
+        "last_seen": "2019-08-07 00:01:45",
+        "ip_address": "192.64.115.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "deactivation.myftp.biz",
+        "count": "122",
+        "first_seen": "2019-05-24 01:19:01",
+        "last_seen": "2019-05-29 09:20:07",
+        "ip_address": "199.192.19.240",
+        "type": "IPv4"
+    }
+]

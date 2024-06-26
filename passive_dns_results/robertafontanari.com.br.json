@@ -1,0 +1,106 @@
+[
+    {
+        "domain": "robertafontanari.com.br",
+        "count": "656",
+        "first_seen": "2022-04-20 00:55:45",
+        "last_seen": "2023-11-12 05:42:06",
+        "ip_address": "67.23.238.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "robertafontanari.com.br",
+        "count": "154",
+        "first_seen": "2020-06-10 03:02:35",
+        "last_seen": "2020-10-11 14:15:08",
+        "ip_address": "104.18.50.188",
+        "type": "IPv4"
+    },
+    {
+        "domain": "robertafontanari.com.br",
+        "count": "154",
+        "first_seen": "2020-06-10 03:02:35",
+        "last_seen": "2020-10-11 14:15:08",
+        "ip_address": "104.18.51.188",
+        "type": "IPv4"
+    },
+    {
+        "domain": "robertafontanari.com.br",
+        "count": "154",
+        "first_seen": "2020-06-10 03:02:35",
+        "last_seen": "2020-10-11 14:15:08",
+        "ip_address": "172.67.151.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "robertafontanari.com.br",
+        "count": "49",
+        "first_seen": "2020-04-03 10:24:30",
+        "last_seen": "2020-06-06 19:06:29",
+        "ip_address": "142.44.212.167",
+        "type": "IPv4"
+    },
+    {
+        "domain": "robertafontanari.com.br",
+        "count": "29",
+        "first_seen": "2019-09-18 05:55:25",
+        "last_seen": "2020-03-15 17:33:17",
+        "ip_address": "142.44.214.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "robertafontanari.com.br",
+        "count": "917",
+        "first_seen": "2020-10-12 14:37:48",
+        "last_seen": "2022-04-17 23:51:58",
+        "ip_address": "162.214.147.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "robertafontanari.com.br",
+        "count": "7",
+        "first_seen": "2020-08-12 11:12:59",
+        "last_seen": "2020-08-12 11:15:32",
+        "ip_address": "162.241.203.115",
+        "type": "IPv4"
+    },
+    {
+        "domain": "robertafontanari.com.br",
+        "count": "2",
+        "first_seen": "2020-08-16 03:04:30",
+        "last_seen": "2020-08-16 03:04:30",
+        "ip_address": "172.64.92.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "robertafontanari.com.br",
+        "count": "2",
+        "first_seen": "2020-08-16 03:04:30",
+        "last_seen": "2020-08-16 03:04:30",
+        "ip_address": "2606:4700:139:11f6:2387:fafa:b3ad:57db",
+        "type": "IPv6"
+    },
+    {
+        "domain": "robertafontanari.com.br",
+        "count": "21",
+        "first_seen": "2020-06-09 13:45:56",
+        "last_seen": "2020-08-18 11:09:46",
+        "ip_address": "2606:4700:3032::6812:32bc",
+        "type": "IPv6"
+    },
+    {
+        "domain": "robertafontanari.com.br",
+        "count": "21",
+        "first_seen": "2020-06-09 13:45:56",
+        "last_seen": "2020-08-18 11:09:46",
+        "ip_address": "2606:4700:3033::6812:33bc",
+        "type": "IPv6"
+    },
+    {
+        "domain": "robertafontanari.com.br",
+        "count": "21",
+        "first_seen": "2020-06-09 13:45:56",
+        "last_seen": "2020-08-18 11:09:46",
+        "ip_address": "2606:4700:3033::ac43:9710",
+        "type": "IPv6"
+    }
+]

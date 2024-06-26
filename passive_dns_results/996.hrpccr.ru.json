@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "996.hrpccr.ru",
+        "count": "4",
+        "first_seen": "2023-05-21 06:59:02",
+        "last_seen": "2023-06-05 22:44:51",
+        "ip_address": "31.177.76.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "996.hrpccr.ru",
+        "count": "4",
+        "first_seen": "2023-05-21 06:59:02",
+        "last_seen": "2023-06-05 22:44:51",
+        "ip_address": "31.177.80.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "996.hrpccr.ru",
+        "count": "866",
+        "first_seen": "2022-05-14 03:13:33",
+        "last_seen": "2022-07-18 12:35:19",
+        "ip_address": "104.21.63.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "996.hrpccr.ru",
+        "count": "866",
+        "first_seen": "2022-05-14 03:13:33",
+        "last_seen": "2022-07-18 12:35:19",
+        "ip_address": "172.67.143.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "996.hrpccr.ru",
+        "count": "118",
+        "first_seen": "2022-05-14 03:13:33",
+        "last_seen": "2022-06-22 06:13:25",
+        "ip_address": "2606:4700:3034::6815:3f3c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "996.hrpccr.ru",
+        "count": "118",
+        "first_seen": "2022-05-14 03:13:33",
+        "last_seen": "2022-06-22 06:13:25",
+        "ip_address": "2606:4700:3035::ac43:8fde",
+        "type": "IPv6"
+    }
+]

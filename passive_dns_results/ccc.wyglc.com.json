@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "ccc.wyglc.com",
+        "count": "15",
+        "first_seen": "2023-01-13 23:29:21",
+        "last_seen": "2023-05-28 02:47:54",
+        "ip_address": "38.54.233.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ccc.wyglc.com",
+        "count": "63",
+        "first_seen": "2022-01-14 10:50:52",
+        "last_seen": "2022-11-02 01:40:27",
+        "ip_address": "45.204.4.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ccc.wyglc.com",
+        "count": "431",
+        "first_seen": "2021-10-23 08:29:00",
+        "last_seen": "2021-11-28 11:05:02",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    }
+]

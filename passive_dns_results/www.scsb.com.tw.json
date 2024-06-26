@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.scsb.com.tw",
+        "count": "1",
+        "first_seen": "2012-10-19 17:49:17",
+        "last_seen": "2012-10-19 17:49:17",
+        "ip_address": "210.63.174.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.scsb.com.tw",
+        "count": "1",
+        "first_seen": "2012-10-19 17:49:17",
+        "last_seen": "2012-10-19 17:49:17",
+        "ip_address": "210.63.174.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.scsb.com.tw",
+        "count": "11",
+        "first_seen": "2011-05-07 22:20:15",
+        "last_seen": "2012-10-20 04:31:32",
+        "ip_address": "210.63.174.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.scsb.com.tw",
+        "count": "1238",
+        "first_seen": "2010-11-11 09:07:25",
+        "last_seen": "2023-01-17 09:51:04",
+        "ip_address": "210.202.69.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.scsb.com.tw",
+        "count": "1104722",
+        "first_seen": "2010-06-30 06:49:13",
+        "last_seen": "2024-01-18 16:16:28",
+        "ip_address": "210.242.176.194",
+        "type": "IPv4"
+    }
+]

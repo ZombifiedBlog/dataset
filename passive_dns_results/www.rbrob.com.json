@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.rbrob.com",
+        "count": "121",
+        "first_seen": "2016-02-03 10:17:53",
+        "last_seen": "2016-03-09 00:56:02",
+        "ip_address": "23.252.79.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.rbrob.com",
+        "count": "171",
+        "first_seen": "2017-11-16 06:42:31",
+        "last_seen": "2017-12-11 06:30:40",
+        "ip_address": "31.210.117.47",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.rbrob.com",
+        "count": "124",
+        "first_seen": "2017-10-20 05:07:03",
+        "last_seen": "2017-11-13 00:02:09",
+        "ip_address": "66.79.182.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.rbrob.com",
+        "count": "188",
+        "first_seen": "2017-09-09 19:39:55",
+        "last_seen": "2017-10-13 07:11:18",
+        "ip_address": "148.153.24.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.rbrob.com",
+        "count": "2",
+        "first_seen": "2017-10-14 07:39:59",
+        "last_seen": "2017-10-14 07:39:59",
+        "ip_address": "180.131.42.233",
+        "type": "IPv4"
+    }
+]

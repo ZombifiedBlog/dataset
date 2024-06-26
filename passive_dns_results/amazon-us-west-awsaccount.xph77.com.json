@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "amazon-us-west-awsaccount.xph77.com",
+        "count": "4",
+        "first_seen": "2019-12-12 19:43:56",
+        "last_seen": "2019-12-21 20:45:33",
+        "ip_address": "15.164.83.206",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.xph77.com",
+        "count": "12",
+        "first_seen": "2019-11-21 05:15:17",
+        "last_seen": "2019-12-07 18:51:22",
+        "ip_address": "45.137.19.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.xph77.com",
+        "count": "1140",
+        "first_seen": "2019-10-03 05:13:31",
+        "last_seen": "2019-10-14 18:39:42",
+        "ip_address": "104.18.48.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.xph77.com",
+        "count": "1140",
+        "first_seen": "2019-10-03 05:13:31",
+        "last_seen": "2019-10-14 18:39:42",
+        "ip_address": "104.18.49.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.xph77.com",
+        "count": "17",
+        "first_seen": "2019-12-09 05:15:34",
+        "last_seen": "2020-01-04 02:01:12",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.xph77.com",
+        "count": "97",
+        "first_seen": "2019-10-03 05:13:31",
+        "last_seen": "2019-10-14 13:13:05",
+        "ip_address": "2606:4700:30::6812:3014",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.xph77.com",
+        "count": "97",
+        "first_seen": "2019-10-03 05:13:31",
+        "last_seen": "2019-10-14 13:13:05",
+        "ip_address": "2606:4700:30::6812:3114",
+        "type": "IPv6"
+    }
+]

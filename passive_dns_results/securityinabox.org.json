@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "securityinabox.org",
+        "count": "29283",
+        "first_seen": "2012-08-10 12:53:15",
+        "last_seen": "2014-05-08 08:12:07",
+        "ip_address": "69.64.92.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "securityinabox.org",
+        "count": "19991",
+        "first_seen": "2014-05-11 16:06:33",
+        "last_seen": "2015-04-16 12:14:45",
+        "ip_address": "88.198.62.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "securityinabox.org",
+        "count": "1774",
+        "first_seen": "2020-06-30 20:35:13",
+        "last_seen": "2020-09-29 06:10:43",
+        "ip_address": "172.105.80.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "securityinabox.org",
+        "count": "42827",
+        "first_seen": "2020-09-29 13:11:48",
+        "last_seen": "2024-01-18 04:33:01",
+        "ip_address": "172.105.249.143",
+        "type": "IPv4"
+    },
+    {
+        "domain": "securityinabox.org",
+        "count": "68",
+        "first_seen": "2014-05-08 14:24:34",
+        "last_seen": "2014-05-11 14:27:10",
+        "ip_address": "178.79.163.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "securityinabox.org",
+        "count": "23484",
+        "first_seen": "2020-01-22 13:29:07",
+        "last_seen": "2020-06-30 20:05:05",
+        "ip_address": "185.203.114.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "securityinabox.org",
+        "count": "36260",
+        "first_seen": "2015-04-16 12:48:38",
+        "last_seen": "2017-01-23 08:52:02",
+        "ip_address": "213.108.108.167",
+        "type": "IPv4"
+    },
+    {
+        "domain": "securityinabox.org",
+        "count": "192587",
+        "first_seen": "2016-11-27 22:33:22",
+        "last_seen": "2020-01-22 13:19:04",
+        "ip_address": "213.108.108.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "securityinabox.org",
+        "count": "37565",
+        "first_seen": "2020-09-29 19:22:35",
+        "last_seen": "2024-01-18 04:33:00",
+        "ip_address": "2a01:7e01::f03c:92ff:fecd:7e45",
+        "type": "IPv6"
+    }
+]

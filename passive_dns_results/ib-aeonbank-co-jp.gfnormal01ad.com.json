@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "ib-aeonbank-co-jp.gfnormal01ad.com",
+        "count": "692",
+        "first_seen": "2023-05-24 05:53:25",
+        "last_seen": "2023-06-01 10:51:23",
+        "ip_address": "104.21.79.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ib-aeonbank-co-jp.gfnormal01ad.com",
+        "count": "692",
+        "first_seen": "2023-05-24 05:53:25",
+        "last_seen": "2023-06-01 10:51:23",
+        "ip_address": "172.67.146.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ib-aeonbank-co-jp.gfnormal01ad.com",
+        "count": "6",
+        "first_seen": "2023-05-24 06:48:27",
+        "last_seen": "2023-05-24 23:45:10",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ib-aeonbank-co-jp.gfnormal01ad.com",
+        "count": "6",
+        "first_seen": "2023-05-24 06:48:27",
+        "last_seen": "2023-05-24 23:45:10",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ib-aeonbank-co-jp.gfnormal01ad.com",
+        "count": "7",
+        "first_seen": "2023-05-24 06:26:06",
+        "last_seen": "2023-05-24 12:12:31",
+        "ip_address": "188.114.96.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ib-aeonbank-co-jp.gfnormal01ad.com",
+        "count": "7",
+        "first_seen": "2023-05-24 06:26:06",
+        "last_seen": "2023-05-24 12:12:31",
+        "ip_address": "188.114.97.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ib-aeonbank-co-jp.gfnormal01ad.com",
+        "count": "2",
+        "first_seen": "2023-05-24 06:26:07",
+        "last_seen": "2023-05-24 23:45:10",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ib-aeonbank-co-jp.gfnormal01ad.com",
+        "count": "2",
+        "first_seen": "2023-05-24 06:26:07",
+        "last_seen": "2023-05-24 23:45:10",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    }
+]

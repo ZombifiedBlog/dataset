@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "smbc-card.aenbo.com",
+        "count": "2",
+        "first_seen": "2021-07-18 17:49:01",
+        "last_seen": "2021-07-29 17:45:51",
+        "ip_address": "8.209.69.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-card.aenbo.com",
+        "count": "4",
+        "first_seen": "2021-07-10 17:50:35",
+        "last_seen": "2021-07-14 17:45:15",
+        "ip_address": "8.209.113.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-card.aenbo.com",
+        "count": "7",
+        "first_seen": "2021-11-02 10:35:24",
+        "last_seen": "2021-11-23 09:02:09",
+        "ip_address": "31.44.185.182",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-card.aenbo.com",
+        "count": "50",
+        "first_seen": "2020-11-14 21:21:17",
+        "last_seen": "2020-12-18 19:05:51",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-card.aenbo.com",
+        "count": "298",
+        "first_seen": "2020-11-11 11:32:32",
+        "last_seen": "2020-11-14 02:07:26",
+        "ip_address": "67.229.29.132",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-card.aenbo.com",
+        "count": "2",
+        "first_seen": "2022-01-29 18:06:12",
+        "last_seen": "2022-02-02 18:04:46",
+        "ip_address": "99.83.154.118",
+        "type": "IPv4"
+    }
+]

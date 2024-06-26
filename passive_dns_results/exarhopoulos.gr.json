@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "exarhopoulos.gr",
+        "count": "348",
+        "first_seen": "2014-10-23 11:55:37",
+        "last_seen": "2016-02-24 14:24:07",
+        "ip_address": "5.79.80.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "exarhopoulos.gr",
+        "count": "6",
+        "first_seen": "2013-02-06 15:15:40",
+        "last_seen": "2013-06-25 17:45:55",
+        "ip_address": "95.211.63.98",
+        "type": "IPv4"
+    },
+    {
+        "domain": "exarhopoulos.gr",
+        "count": "1",
+        "first_seen": "2013-12-04 07:00:06",
+        "last_seen": "2013-12-04 07:00:06",
+        "ip_address": "95.211.234.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "exarhopoulos.gr",
+        "count": "1",
+        "first_seen": "2014-01-29 07:03:56",
+        "last_seen": "2014-01-29 07:03:56",
+        "ip_address": "95.211.234.41",
+        "type": "IPv4"
+    },
+    {
+        "domain": "exarhopoulos.gr",
+        "count": "5457",
+        "first_seen": "2017-07-23 02:32:28",
+        "last_seen": "2021-11-03 14:18:36",
+        "ip_address": "185.4.133.238",
+        "type": "IPv4"
+    },
+    {
+        "domain": "exarhopoulos.gr",
+        "count": "778",
+        "first_seen": "2016-02-24 19:04:53",
+        "last_seen": "2017-07-19 17:50:46",
+        "ip_address": "185.4.135.73",
+        "type": "IPv4"
+    },
+    {
+        "domain": "exarhopoulos.gr",
+        "count": "4569",
+        "first_seen": "2021-11-04 21:12:37",
+        "last_seen": "2024-01-16 21:14:11",
+        "ip_address": "185.138.42.158",
+        "type": "IPv4"
+    },
+    {
+        "domain": "exarhopoulos.gr",
+        "count": "1804",
+        "first_seen": "2018-12-02 04:06:08",
+        "last_seen": "2021-11-03 18:22:28",
+        "ip_address": "2a02:c500:1:19::1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "exarhopoulos.gr",
+        "count": "2710",
+        "first_seen": "2021-11-07 06:17:56",
+        "last_seen": "2024-01-16 16:23:09",
+        "ip_address": "2a02:c500:1:160::1",
+        "type": "IPv6"
+    }
+]

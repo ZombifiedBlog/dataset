@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.gmdbw.com",
+        "count": "4",
+        "first_seen": "2020-02-02 09:50:32",
+        "last_seen": "2020-02-06 10:40:53",
+        "ip_address": "15.164.83.206",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gmdbw.com",
+        "count": "157",
+        "first_seen": "2023-04-15 08:24:43",
+        "last_seen": "2024-01-14 01:11:16",
+        "ip_address": "38.6.124.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gmdbw.com",
+        "count": "8",
+        "first_seen": "2018-10-30 21:04:36",
+        "last_seen": "2018-11-26 11:46:09",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gmdbw.com",
+        "count": "1",
+        "first_seen": "2022-03-17 08:24:45",
+        "last_seen": "2022-03-17 08:24:45",
+        "ip_address": "103.112.187.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gmdbw.com",
+        "count": "28",
+        "first_seen": "2019-02-09 07:03:45",
+        "last_seen": "2019-10-23 10:54:24",
+        "ip_address": "154.208.127.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gmdbw.com",
+        "count": "230",
+        "first_seen": "2023-02-27 15:55:15",
+        "last_seen": "2023-03-08 13:38:56",
+        "ip_address": "155.94.184.225",
+        "type": "IPv4"
+    }
+]

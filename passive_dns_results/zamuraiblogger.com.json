@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "zamuraiblogger.com",
+        "count": "5387",
+        "first_seen": "2018-09-10 14:39:49",
+        "last_seen": "2019-03-19 13:11:04",
+        "ip_address": "103.195.102.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zamuraiblogger.com",
+        "count": "2",
+        "first_seen": "2019-03-19 10:44:13",
+        "last_seen": "2019-03-19 10:44:13",
+        "ip_address": "104.18.52.106",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zamuraiblogger.com",
+        "count": "2",
+        "first_seen": "2019-03-19 10:44:13",
+        "last_seen": "2019-03-19 10:44:13",
+        "ip_address": "104.18.53.106",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zamuraiblogger.com",
+        "count": "38791",
+        "first_seen": "2013-11-26 04:59:14",
+        "last_seen": "2015-07-09 08:12:57",
+        "ip_address": "108.61.55.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zamuraiblogger.com",
+        "count": "26466",
+        "first_seen": "2011-08-01 12:21:11",
+        "last_seen": "2013-08-27 19:51:36",
+        "ip_address": "174.120.180.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zamuraiblogger.com",
+        "count": "48613",
+        "first_seen": "2019-03-08 15:57:16",
+        "last_seen": "2024-01-18 11:22:22",
+        "ip_address": "192.34.62.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zamuraiblogger.com",
+        "count": "6659",
+        "first_seen": "2013-08-27 20:07:06",
+        "last_seen": "2013-11-26 14:29:50",
+        "ip_address": "192.185.225.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zamuraiblogger.com",
+        "count": "36770",
+        "first_seen": "2015-07-09 10:24:51",
+        "last_seen": "2018-09-09 13:46:13",
+        "ip_address": "206.221.181.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zamuraiblogger.com",
+        "count": "4",
+        "first_seen": "2019-03-19 10:44:13",
+        "last_seen": "2019-03-19 13:32:03",
+        "ip_address": "2606:4700:30::6812:346a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "zamuraiblogger.com",
+        "count": "4",
+        "first_seen": "2019-03-19 10:44:13",
+        "last_seen": "2019-03-19 13:32:03",
+        "ip_address": "2606:4700:30::6812:356a",
+        "type": "IPv6"
+    }
+]

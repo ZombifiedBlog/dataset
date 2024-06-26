@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "www.lborb.com",
+        "count": "737",
+        "first_seen": "2020-05-10 11:32:32",
+        "last_seen": "2020-05-26 04:24:37",
+        "ip_address": "104.28.2.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lborb.com",
+        "count": "737",
+        "first_seen": "2020-05-10 11:32:32",
+        "last_seen": "2020-05-26 04:24:37",
+        "ip_address": "104.28.3.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lborb.com",
+        "count": "30",
+        "first_seen": "2020-05-27 05:05:45",
+        "last_seen": "2020-06-30 22:01:45",
+        "ip_address": "104.28.2.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lborb.com",
+        "count": "30",
+        "first_seen": "2020-05-27 05:05:45",
+        "last_seen": "2020-06-30 22:01:45",
+        "ip_address": "104.28.3.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lborb.com",
+        "count": "30",
+        "first_seen": "2020-05-27 05:05:45",
+        "last_seen": "2020-06-30 22:01:45",
+        "ip_address": "172.67.132.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lborb.com",
+        "count": "91",
+        "first_seen": "2020-05-10 11:32:32",
+        "last_seen": "2020-05-26 04:24:37",
+        "ip_address": "2606:4700:3033::681c:341",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lborb.com",
+        "count": "91",
+        "first_seen": "2020-05-10 11:32:32",
+        "last_seen": "2020-05-26 04:24:37",
+        "ip_address": "2606:4700:3037::681c:241",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lborb.com",
+        "count": "17",
+        "first_seen": "2020-05-27 05:05:45",
+        "last_seen": "2020-06-12 03:28:17",
+        "ip_address": "2606:4700:3033::681c:341",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lborb.com",
+        "count": "17",
+        "first_seen": "2020-05-27 05:05:45",
+        "last_seen": "2020-06-12 03:28:17",
+        "ip_address": "2606:4700:3037::681c:241",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lborb.com",
+        "count": "17",
+        "first_seen": "2020-05-27 05:05:45",
+        "last_seen": "2020-06-12 03:28:17",
+        "ip_address": "2606:4700:3037::ac43:840a",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "ofainsider.com",
+        "count": "12",
+        "first_seen": "2023-04-03 06:55:07",
+        "last_seen": "2023-05-05 19:47:29",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ofainsider.com",
+        "count": "4",
+        "first_seen": "2019-04-15 08:17:12",
+        "last_seen": "2019-04-18 13:26:14",
+        "ip_address": "50.63.202.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ofainsider.com",
+        "count": "2",
+        "first_seen": "2019-03-30 23:14:16",
+        "last_seen": "2019-03-30 23:14:16",
+        "ip_address": "50.63.202.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ofainsider.com",
+        "count": "5480",
+        "first_seen": "2019-05-04 14:21:51",
+        "last_seen": "2023-03-30 03:56:00",
+        "ip_address": "160.153.57.64",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ofainsider.com",
+        "count": "1",
+        "first_seen": "2013-12-18 09:45:10",
+        "last_seen": "2013-12-18 09:45:10",
+        "ip_address": "176.74.176.179",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ofainsider.com",
+        "count": "2",
+        "first_seen": "2019-03-28 13:33:57",
+        "last_seen": "2019-03-28 13:33:57",
+        "ip_address": "184.168.221.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ofainsider.com",
+        "count": "2",
+        "first_seen": "2019-04-01 20:58:18",
+        "last_seen": "2019-04-01 20:58:18",
+        "ip_address": "184.168.221.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ofainsider.com",
+        "count": "2",
+        "first_seen": "2019-04-14 07:58:40",
+        "last_seen": "2019-04-14 07:58:40",
+        "ip_address": "184.168.221.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ofainsider.com",
+        "count": "8",
+        "first_seen": "2019-04-16 11:31:43",
+        "last_seen": "2019-04-25 15:16:34",
+        "ip_address": "184.168.221.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ofainsider.com",
+        "count": "2",
+        "first_seen": "2013-12-02 03:23:59",
+        "last_seen": "2013-12-04 03:45:17",
+        "ip_address": "208.73.211.28",
+        "type": "IPv4"
+    }
+]

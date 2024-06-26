@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "girlsforyou.info",
+        "count": "7",
+        "first_seen": "2015-12-20 23:51:56",
+        "last_seen": "2015-12-21 04:48:00",
+        "ip_address": "50.87.150.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "girlsforyou.info",
+        "count": "41",
+        "first_seen": "2017-04-29 09:14:21",
+        "last_seen": "2017-07-31 11:18:22",
+        "ip_address": "88.214.198.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "girlsforyou.info",
+        "count": "27",
+        "first_seen": "2016-09-14 04:43:08",
+        "last_seen": "2016-12-14 04:35:30",
+        "ip_address": "104.237.131.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "girlsforyou.info",
+        "count": "39",
+        "first_seen": "2016-01-06 21:57:34",
+        "last_seen": "2016-09-07 06:39:41",
+        "ip_address": "104.237.142.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "girlsforyou.info",
+        "count": "7726",
+        "first_seen": "2019-12-13 10:16:06",
+        "last_seen": "2020-01-11 15:16:56",
+        "ip_address": "185.127.24.156",
+        "type": "IPv4"
+    },
+    {
+        "domain": "girlsforyou.info",
+        "count": "1",
+        "first_seen": "2012-01-12 05:44:35",
+        "last_seen": "2012-01-12 05:44:35",
+        "ip_address": "188.138.11.130",
+        "type": "IPv4"
+    },
+    {
+        "domain": "girlsforyou.info",
+        "count": "27",
+        "first_seen": "2020-12-23 01:23:59",
+        "last_seen": "2020-12-23 01:26:18",
+        "ip_address": "194.67.71.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "girlsforyou.info",
+        "count": "22",
+        "first_seen": "2018-04-30 12:33:36",
+        "last_seen": "2018-06-06 08:12:09",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "girlsforyou.info",
+        "count": "15",
+        "first_seen": "2016-12-21 04:42:46",
+        "last_seen": "2017-01-20 20:13:17",
+        "ip_address": "198.54.117.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "girlsforyou.info",
+        "count": "2",
+        "first_seen": "2016-07-12 06:23:58",
+        "last_seen": "2016-07-12 06:23:58",
+        "ip_address": "2600:3c00::f03c:91ff:fe98:be69",
+        "type": "IPv6"
+    },
+    {
+        "domain": "girlsforyou.info",
+        "count": "27",
+        "first_seen": "2020-12-23 01:23:59",
+        "last_seen": "2020-12-23 01:27:32",
+        "ip_address": "2a00:f940:4::10",
+        "type": "IPv6"
+    },
+    {
+        "domain": "girlsforyou.info",
+        "count": "314",
+        "first_seen": "2019-12-13 12:45:00",
+        "last_seen": "2020-01-11 14:02:53",
+        "ip_address": "2a0d:c580:1:1:bc18:ff:fe56:c973",
+        "type": "IPv6"
+    }
+]

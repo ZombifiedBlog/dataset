@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "jp-user-data-account-support-amazon.com",
+        "count": "389",
+        "first_seen": "2020-05-15 06:51:22",
+        "last_seen": "2021-05-06 18:29:02",
+        "ip_address": "194.48.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jp-user-data-account-support-amazon.com",
+        "count": "26",
+        "first_seen": "2021-05-17 18:37:40",
+        "last_seen": "2021-06-15 17:01:40",
+        "ip_address": "194.67.71.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jp-user-data-account-support-amazon.com",
+        "count": "5",
+        "first_seen": "2021-05-21 14:49:43",
+        "last_seen": "2021-06-15 02:43:39",
+        "ip_address": "2a00:f940:4::10",
+        "type": "IPv6"
+    }
+]

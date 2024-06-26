@@ -1,0 +1,162 @@
+[
+    {
+        "domain": "www.lserb.com",
+        "count": "17",
+        "first_seen": "2021-01-20 11:59:59",
+        "last_seen": "2021-04-15 14:38:10",
+        "ip_address": "104.21.90.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lserb.com",
+        "count": "17",
+        "first_seen": "2021-01-20 11:59:59",
+        "last_seen": "2021-04-15 14:38:10",
+        "ip_address": "172.67.160.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lserb.com",
+        "count": "1900",
+        "first_seen": "2020-08-16 05:37:47",
+        "last_seen": "2021-01-01 19:10:19",
+        "ip_address": "104.27.178.241",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lserb.com",
+        "count": "1900",
+        "first_seen": "2020-08-16 05:37:47",
+        "last_seen": "2021-01-01 19:10:19",
+        "ip_address": "104.27.179.241",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lserb.com",
+        "count": "1900",
+        "first_seen": "2020-08-16 05:37:47",
+        "last_seen": "2021-01-01 19:10:19",
+        "ip_address": "172.67.160.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lserb.com",
+        "count": "2",
+        "first_seen": "2020-10-01 04:25:26",
+        "last_seen": "2020-10-01 04:25:26",
+        "ip_address": "172.64.82.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lserb.com",
+        "count": "2",
+        "first_seen": "2020-10-13 08:25:25",
+        "last_seen": "2020-10-13 08:25:25",
+        "ip_address": "172.64.82.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lserb.com",
+        "count": "2",
+        "first_seen": "2020-10-14 02:59:07",
+        "last_seen": "2020-10-14 02:59:07",
+        "ip_address": "172.64.82.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lserb.com",
+        "count": "2",
+        "first_seen": "2020-10-14 07:53:09",
+        "last_seen": "2020-10-14 07:53:09",
+        "ip_address": "172.64.82.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lserb.com",
+        "count": "2",
+        "first_seen": "2020-10-24 16:52:16",
+        "last_seen": "2020-10-24 16:52:16",
+        "ip_address": "172.64.86.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lserb.com",
+        "count": "2",
+        "first_seen": "2020-10-06 21:08:01",
+        "last_seen": "2020-10-06 21:08:01",
+        "ip_address": "172.64.86.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lserb.com",
+        "count": "2",
+        "first_seen": "2020-10-05 20:46:16",
+        "last_seen": "2020-10-05 20:46:16",
+        "ip_address": "172.64.91.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lserb.com",
+        "count": "2",
+        "first_seen": "2020-10-17 16:18:21",
+        "last_seen": "2020-10-17 16:18:21",
+        "ip_address": "172.64.92.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lserb.com",
+        "count": "2",
+        "first_seen": "2020-09-25 20:09:56",
+        "last_seen": "2020-09-25 20:09:56",
+        "ip_address": "172.64.95.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lserb.com",
+        "count": "3",
+        "first_seen": "2020-08-16 02:07:04",
+        "last_seen": "2020-08-16 02:07:08",
+        "ip_address": "198.144.149.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lserb.com",
+        "count": "253",
+        "first_seen": "2020-08-16 05:37:48",
+        "last_seen": "2021-01-01 19:10:19",
+        "ip_address": "2606:4700:3032::681b:b3f1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lserb.com",
+        "count": "253",
+        "first_seen": "2020-08-16 05:37:48",
+        "last_seen": "2021-01-01 19:10:19",
+        "ip_address": "2606:4700:3035::681b:b2f1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lserb.com",
+        "count": "253",
+        "first_seen": "2020-08-16 05:37:48",
+        "last_seen": "2021-01-01 19:10:19",
+        "ip_address": "2606:4700:3035::ac43:a03a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lserb.com",
+        "count": "11",
+        "first_seen": "2021-01-20 11:59:59",
+        "last_seen": "2021-04-15 14:38:10",
+        "ip_address": "2606:4700:3035::6815:5ac3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lserb.com",
+        "count": "11",
+        "first_seen": "2021-01-20 11:59:59",
+        "last_seen": "2021-04-15 14:38:10",
+        "ip_address": "2606:4700:3035::ac43:a03a",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "img.ldxrb.com",
+        "count": "994",
+        "first_seen": "2020-09-20 03:09:49",
+        "last_seen": "2020-11-05 18:29:20",
+        "ip_address": "104.27.156.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.ldxrb.com",
+        "count": "994",
+        "first_seen": "2020-09-20 03:09:49",
+        "last_seen": "2020-11-05 18:29:20",
+        "ip_address": "104.27.157.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.ldxrb.com",
+        "count": "994",
+        "first_seen": "2020-09-20 03:09:49",
+        "last_seen": "2020-11-05 18:29:20",
+        "ip_address": "172.67.181.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.ldxrb.com",
+        "count": "2",
+        "first_seen": "2020-10-12 08:53:19",
+        "last_seen": "2020-10-12 08:53:19",
+        "ip_address": "172.64.84.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.ldxrb.com",
+        "count": "129",
+        "first_seen": "2020-11-04 13:05:28",
+        "last_seen": "2020-12-19 19:52:24",
+        "ip_address": "198.144.149.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.ldxrb.com",
+        "count": "325",
+        "first_seen": "2020-09-20 03:09:49",
+        "last_seen": "2020-11-03 23:31:31",
+        "ip_address": "2606:4700:3033::681b:9cad",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.ldxrb.com",
+        "count": "325",
+        "first_seen": "2020-09-20 03:09:49",
+        "last_seen": "2020-11-03 23:31:31",
+        "ip_address": "2606:4700:3035::681b:9dad",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.ldxrb.com",
+        "count": "325",
+        "first_seen": "2020-09-20 03:09:49",
+        "last_seen": "2020-11-03 23:31:31",
+        "ip_address": "2606:4700:3036::ac43:b550",
+        "type": "IPv6"
+    }
+]

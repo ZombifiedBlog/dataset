@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.rapidefin.com",
+        "count": "856",
+        "first_seen": "2020-06-05 17:02:21",
+        "last_seen": "2020-06-16 01:25:46",
+        "ip_address": "104.18.32.238",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.rapidefin.com",
+        "count": "856",
+        "first_seen": "2020-06-05 17:02:21",
+        "last_seen": "2020-06-16 01:25:46",
+        "ip_address": "104.18.33.238",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.rapidefin.com",
+        "count": "856",
+        "first_seen": "2020-06-05 17:02:21",
+        "last_seen": "2020-06-16 01:25:46",
+        "ip_address": "172.67.161.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.rapidefin.com",
+        "count": "382",
+        "first_seen": "2020-06-05 17:02:22",
+        "last_seen": "2020-06-16 01:25:46",
+        "ip_address": "2606:4700:3032::6812:20ee",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.rapidefin.com",
+        "count": "382",
+        "first_seen": "2020-06-05 17:02:22",
+        "last_seen": "2020-06-16 01:25:46",
+        "ip_address": "2606:4700:3033::ac43:a1b1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.rapidefin.com",
+        "count": "382",
+        "first_seen": "2020-06-05 17:02:22",
+        "last_seen": "2020-06-16 01:25:46",
+        "ip_address": "2606:4700:3037::6812:21ee",
+        "type": "IPv6"
+    }
+]

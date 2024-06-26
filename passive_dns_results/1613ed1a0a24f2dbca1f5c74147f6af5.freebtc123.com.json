@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "1613ed1a0a24f2dbca1f5c74147f6af5.freebtc123.com",
+        "count": "64",
+        "first_seen": "2023-06-05 12:54:55",
+        "last_seen": "2023-06-14 18:37:11",
+        "ip_address": "64.190.63.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "1613ed1a0a24f2dbca1f5c74147f6af5.freebtc123.com",
+        "count": "2",
+        "first_seen": "2023-06-01 07:28:21",
+        "last_seen": "2023-06-01 20:31:48",
+        "ip_address": "104.21.7.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "1613ed1a0a24f2dbca1f5c74147f6af5.freebtc123.com",
+        "count": "2",
+        "first_seen": "2023-06-01 07:28:21",
+        "last_seen": "2023-06-01 20:31:48",
+        "ip_address": "172.67.188.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "1613ed1a0a24f2dbca1f5c74147f6af5.freebtc123.com",
+        "count": "1",
+        "first_seen": "2023-06-01 20:31:48",
+        "last_seen": "2023-06-01 20:31:48",
+        "ip_address": "2606:4700:3037::6815:7cb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "1613ed1a0a24f2dbca1f5c74147f6af5.freebtc123.com",
+        "count": "1",
+        "first_seen": "2023-06-01 20:31:48",
+        "last_seen": "2023-06-01 20:31:48",
+        "ip_address": "2606:4700:3037::ac43:bc02",
+        "type": "IPv6"
+    }
+]

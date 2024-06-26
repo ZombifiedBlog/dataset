@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.4531061.com",
+        "count": "28",
+        "first_seen": "2021-09-20 06:42:45",
+        "last_seen": "2021-10-16 21:42:34",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.4531061.com",
+        "count": "14417",
+        "first_seen": "2021-04-09 09:18:15",
+        "last_seen": "2021-09-10 01:38:58",
+        "ip_address": "104.21.90.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.4531061.com",
+        "count": "14417",
+        "first_seen": "2021-04-09 09:18:15",
+        "last_seen": "2021-09-10 01:38:58",
+        "ip_address": "172.67.161.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.4531061.com",
+        "count": "5645",
+        "first_seen": "2021-04-09 01:20:10",
+        "last_seen": "2021-09-09 09:06:13",
+        "ip_address": "2606:4700:3033::ac43:a112",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.4531061.com",
+        "count": "5645",
+        "first_seen": "2021-04-09 01:20:10",
+        "last_seen": "2021-09-09 09:06:13",
+        "ip_address": "2606:4700:3037::6815:5ac7",
+        "type": "IPv6"
+    }
+]

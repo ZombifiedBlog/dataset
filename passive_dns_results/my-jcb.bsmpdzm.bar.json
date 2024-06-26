@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "my-jcb.bsmpdzm.bar",
+        "count": "91",
+        "first_seen": "2021-03-16 15:58:58",
+        "last_seen": "2021-03-17 10:05:07",
+        "ip_address": "103.245.209.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.bsmpdzm.bar",
+        "count": "40",
+        "first_seen": "2021-03-16 06:03:18",
+        "last_seen": "2021-03-16 07:46:19",
+        "ip_address": "104.244.72.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.bsmpdzm.bar",
+        "count": "73",
+        "first_seen": "2021-03-15 14:28:10",
+        "last_seen": "2021-03-15 16:01:10",
+        "ip_address": "209.141.40.171",
+        "type": "IPv4"
+    }
+]

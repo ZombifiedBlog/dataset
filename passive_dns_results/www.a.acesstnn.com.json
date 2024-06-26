@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.a.acesstnn.com",
+        "count": "135",
+        "first_seen": "2021-12-16 18:12:49",
+        "last_seen": "2021-12-18 23:24:03",
+        "ip_address": "198.144.176.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.a.acesstnn.com",
+        "count": "1",
+        "first_seen": "2023-01-15 18:25:10",
+        "last_seen": "2023-01-15 18:25:10",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.a.acesstnn.com",
+        "count": "3",
+        "first_seen": "2023-01-15 18:25:10",
+        "last_seen": "2023-01-15 18:30:06",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

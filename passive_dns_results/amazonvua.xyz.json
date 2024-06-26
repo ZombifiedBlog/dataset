@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazonvua.xyz",
+        "count": "1",
+        "first_seen": "2021-09-26 17:02:57",
+        "last_seen": "2021-09-26 17:02:57",
+        "ip_address": "72.52.179.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonvua.xyz",
+        "count": "422",
+        "first_seen": "2020-09-28 21:25:39",
+        "last_seen": "2020-10-05 09:17:36",
+        "ip_address": "157.52.230.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonvua.xyz",
+        "count": "19",
+        "first_seen": "2020-09-26 20:44:18",
+        "last_seen": "2020-09-28 11:15:41",
+        "ip_address": "173.82.232.109",
+        "type": "IPv4"
+    }
+]

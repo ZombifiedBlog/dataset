@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "5f351a53aee5414e9e515787c77eb8d0.luoaihua.cn",
+        "count": "1",
+        "first_seen": "2023-10-11 20:12:48",
+        "last_seen": "2023-10-11 20:12:48",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "5f351a53aee5414e9e515787c77eb8d0.luoaihua.cn",
+        "count": "9",
+        "first_seen": "2023-07-19 15:09:08",
+        "last_seen": "2023-09-13 18:51:53",
+        "ip_address": "104.21.17.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "5f351a53aee5414e9e515787c77eb8d0.luoaihua.cn",
+        "count": "9",
+        "first_seen": "2023-07-19 15:09:08",
+        "last_seen": "2023-09-13 18:51:53",
+        "ip_address": "172.67.178.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "5f351a53aee5414e9e515787c77eb8d0.luoaihua.cn",
+        "count": "2",
+        "first_seen": "2023-09-13 18:51:52",
+        "last_seen": "2023-09-13 18:51:53",
+        "ip_address": "2606:4700:3033::6815:11f2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "5f351a53aee5414e9e515787c77eb8d0.luoaihua.cn",
+        "count": "2",
+        "first_seen": "2023-09-13 18:51:52",
+        "last_seen": "2023-09-13 18:51:53",
+        "ip_address": "2606:4700:3036::ac43:b2e0",
+        "type": "IPv6"
+    }
+]

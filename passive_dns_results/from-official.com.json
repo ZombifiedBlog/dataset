@@ -1,0 +1,634 @@
+[
+    {
+        "domain": "from-official.com",
+        "count": "57",
+        "first_seen": "2020-03-03 21:26:57",
+        "last_seen": "2020-04-26 23:23:03",
+        "ip_address": "3.114.125.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "57",
+        "first_seen": "2020-03-03 21:26:57",
+        "last_seen": "2020-04-26 23:23:03",
+        "ip_address": "52.69.46.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "57",
+        "first_seen": "2020-03-03 21:26:57",
+        "last_seen": "2020-04-26 23:23:03",
+        "ip_address": "52.69.88.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "12",
+        "first_seen": "2019-09-06 17:45:02",
+        "last_seen": "2019-09-27 08:14:11",
+        "ip_address": "3.115.30.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "12",
+        "first_seen": "2019-09-06 17:45:02",
+        "last_seen": "2019-09-27 08:14:11",
+        "ip_address": "13.231.88.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "12",
+        "first_seen": "2019-09-06 17:45:02",
+        "last_seen": "2019-09-27 08:14:11",
+        "ip_address": "52.69.46.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "27",
+        "first_seen": "2020-02-03 18:25:07",
+        "last_seen": "2020-02-12 14:29:00",
+        "ip_address": "13.114.18.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "27",
+        "first_seen": "2020-02-03 18:25:07",
+        "last_seen": "2020-02-12 14:29:00",
+        "ip_address": "52.69.46.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "27",
+        "first_seen": "2020-02-03 18:25:07",
+        "last_seen": "2020-02-12 14:29:00",
+        "ip_address": "52.193.149.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "12",
+        "first_seen": "2021-03-16 17:36:38",
+        "last_seen": "2021-05-15 20:14:33",
+        "ip_address": "13.114.84.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "12",
+        "first_seen": "2021-03-16 17:36:38",
+        "last_seen": "2021-05-15 20:14:33",
+        "ip_address": "13.230.203.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "12",
+        "first_seen": "2021-03-16 17:36:38",
+        "last_seen": "2021-05-15 20:14:33",
+        "ip_address": "54.178.94.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "12",
+        "first_seen": "2021-08-18 18:11:18",
+        "last_seen": "2021-08-27 15:39:03",
+        "ip_address": "13.115.147.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "12",
+        "first_seen": "2021-08-18 18:11:18",
+        "last_seen": "2021-08-27 15:39:03",
+        "ip_address": "35.73.160.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "12",
+        "first_seen": "2021-08-18 18:11:18",
+        "last_seen": "2021-08-27 15:39:03",
+        "ip_address": "54.178.94.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "30",
+        "first_seen": "2020-06-16 03:12:24",
+        "last_seen": "2020-07-07 15:53:29",
+        "ip_address": "13.230.86.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "30",
+        "first_seen": "2020-06-16 03:12:24",
+        "last_seen": "2020-07-07 15:53:29",
+        "ip_address": "52.196.213.132",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "30",
+        "first_seen": "2020-06-16 03:12:24",
+        "last_seen": "2020-07-07 15:53:29",
+        "ip_address": "52.197.57.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "2",
+        "first_seen": "2021-03-12 15:37:28",
+        "last_seen": "2021-03-15 12:02:48",
+        "ip_address": "13.230.203.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "2",
+        "first_seen": "2021-03-12 15:37:28",
+        "last_seen": "2021-03-15 12:02:48",
+        "ip_address": "52.196.186.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "2",
+        "first_seen": "2021-03-12 15:37:28",
+        "last_seen": "2021-03-15 12:02:48",
+        "ip_address": "54.178.94.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "19",
+        "first_seen": "2019-12-31 06:06:03",
+        "last_seen": "2020-01-18 19:33:37",
+        "ip_address": "13.231.88.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "19",
+        "first_seen": "2019-12-31 06:06:03",
+        "last_seen": "2020-01-18 19:33:37",
+        "ip_address": "18.178.8.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "19",
+        "first_seen": "2019-12-31 06:06:03",
+        "last_seen": "2020-01-18 19:33:37",
+        "ip_address": "52.69.46.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "57",
+        "first_seen": "2019-10-24 11:04:41",
+        "last_seen": "2019-12-26 22:25:55",
+        "ip_address": "13.231.88.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "57",
+        "first_seen": "2019-10-24 11:04:41",
+        "last_seen": "2019-12-26 22:25:55",
+        "ip_address": "52.69.46.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "57",
+        "first_seen": "2019-10-24 11:04:41",
+        "last_seen": "2019-12-26 22:25:55",
+        "ip_address": "52.193.178.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "2",
+        "first_seen": "2019-10-10 22:46:21",
+        "last_seen": "2019-10-10 22:46:21",
+        "ip_address": "13.231.96.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "2",
+        "first_seen": "2019-10-10 22:46:21",
+        "last_seen": "2019-10-10 22:46:21",
+        "ip_address": "54.65.133.97",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "2",
+        "first_seen": "2019-10-10 22:46:21",
+        "last_seen": "2019-10-10 22:46:21",
+        "ip_address": "54.249.91.232",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "8",
+        "first_seen": "2020-05-19 13:13:11",
+        "last_seen": "2020-05-23 02:14:13",
+        "ip_address": "13.231.97.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "8",
+        "first_seen": "2020-05-19 13:13:11",
+        "last_seen": "2020-05-23 02:14:13",
+        "ip_address": "52.196.132.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "8",
+        "first_seen": "2020-05-19 13:13:11",
+        "last_seen": "2020-05-23 02:14:13",
+        "ip_address": "52.199.72.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "14",
+        "first_seen": "2020-05-26 21:14:16",
+        "last_seen": "2020-06-06 07:01:35",
+        "ip_address": "13.231.97.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "14",
+        "first_seen": "2020-05-26 21:14:16",
+        "last_seen": "2020-06-06 07:01:35",
+        "ip_address": "52.197.3.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "14",
+        "first_seen": "2020-05-26 21:14:16",
+        "last_seen": "2020-06-06 07:01:35",
+        "ip_address": "52.199.72.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "18",
+        "first_seen": "2021-05-27 22:59:11",
+        "last_seen": "2021-08-06 02:07:20",
+        "ip_address": "18.180.69.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "18",
+        "first_seen": "2021-05-27 22:59:11",
+        "last_seen": "2021-08-06 02:07:20",
+        "ip_address": "35.73.160.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "18",
+        "first_seen": "2021-05-27 22:59:11",
+        "last_seen": "2021-08-06 02:07:20",
+        "ip_address": "54.178.94.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "34",
+        "first_seen": "2021-01-10 17:19:35",
+        "last_seen": "2021-02-26 20:29:53",
+        "ip_address": "18.182.204.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "34",
+        "first_seen": "2021-01-10 17:19:35",
+        "last_seen": "2021-02-26 20:29:53",
+        "ip_address": "52.196.186.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "34",
+        "first_seen": "2021-01-10 17:19:35",
+        "last_seen": "2021-02-26 20:29:53",
+        "ip_address": "54.178.94.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "33",
+        "first_seen": "2020-07-21 21:34:18",
+        "last_seen": "2020-08-20 01:39:24",
+        "ip_address": "18.182.204.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "33",
+        "first_seen": "2020-07-21 21:34:18",
+        "last_seen": "2020-08-20 01:39:24",
+        "ip_address": "52.197.57.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "33",
+        "first_seen": "2020-07-21 21:34:18",
+        "last_seen": "2020-08-20 01:39:24",
+        "ip_address": "54.64.35.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "35",
+        "first_seen": "2020-08-29 05:07:52",
+        "last_seen": "2020-10-14 00:11:58",
+        "ip_address": "18.182.204.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "35",
+        "first_seen": "2020-08-29 05:07:52",
+        "last_seen": "2020-10-14 00:11:58",
+        "ip_address": "52.198.213.238",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "35",
+        "first_seen": "2020-08-29 05:07:52",
+        "last_seen": "2020-10-14 00:11:58",
+        "ip_address": "54.64.35.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "52",
+        "first_seen": "2020-10-22 05:44:50",
+        "last_seen": "2021-01-04 07:00:55",
+        "ip_address": "18.182.204.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "52",
+        "first_seen": "2020-10-22 05:44:50",
+        "last_seen": "2021-01-04 07:00:55",
+        "ip_address": "54.64.35.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "52",
+        "first_seen": "2020-10-22 05:44:50",
+        "last_seen": "2021-01-04 07:00:55",
+        "ip_address": "54.178.94.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "12",
+        "first_seen": "2021-09-10 04:42:28",
+        "last_seen": "2021-09-19 13:04:00",
+        "ip_address": "34.254.1.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "249",
+        "first_seen": "2022-07-26 14:57:19",
+        "last_seen": "2022-08-04 09:16:43",
+        "ip_address": "45.63.57.68",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "3",
+        "first_seen": "2020-06-08 15:37:32",
+        "last_seen": "2020-06-08 15:37:37",
+        "ip_address": "52.68.131.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "3",
+        "first_seen": "2020-06-08 15:37:32",
+        "last_seen": "2020-06-08 15:37:37",
+        "ip_address": "52.193.82.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "3",
+        "first_seen": "2020-06-08 15:37:32",
+        "last_seen": "2020-06-08 15:37:37",
+        "ip_address": "52.197.133.179",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "4",
+        "first_seen": "2020-02-15 16:52:22",
+        "last_seen": "2020-02-17 06:11:31",
+        "ip_address": "52.69.46.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "4",
+        "first_seen": "2020-02-15 16:52:22",
+        "last_seen": "2020-02-17 06:11:31",
+        "ip_address": "52.69.88.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "4",
+        "first_seen": "2020-02-15 16:52:22",
+        "last_seen": "2020-02-17 06:11:31",
+        "ip_address": "52.193.149.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "2",
+        "first_seen": "2020-01-30 10:51:41",
+        "last_seen": "2020-01-30 10:51:41",
+        "ip_address": "52.69.46.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "2",
+        "first_seen": "2020-01-30 10:51:41",
+        "last_seen": "2020-01-30 10:51:41",
+        "ip_address": "52.193.149.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "2",
+        "first_seen": "2020-01-30 10:51:41",
+        "last_seen": "2020-01-30 10:51:41",
+        "ip_address": "54.199.186.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "16",
+        "first_seen": "2020-04-29 12:09:36",
+        "last_seen": "2020-05-07 18:42:30",
+        "ip_address": "52.69.185.99",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "16",
+        "first_seen": "2020-04-29 12:09:36",
+        "last_seen": "2020-05-07 18:42:30",
+        "ip_address": "52.192.132.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "16",
+        "first_seen": "2020-04-29 12:09:36",
+        "last_seen": "2020-05-07 18:42:30",
+        "ip_address": "52.198.104.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "4",
+        "first_seen": "2020-05-09 15:21:56",
+        "last_seen": "2020-05-09 15:22:17",
+        "ip_address": "52.192.65.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "4",
+        "first_seen": "2020-05-09 15:21:56",
+        "last_seen": "2020-05-09 15:22:17",
+        "ip_address": "52.198.104.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "4",
+        "first_seen": "2020-05-09 15:21:56",
+        "last_seen": "2020-05-09 15:22:17",
+        "ip_address": "54.64.44.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "5",
+        "first_seen": "2020-05-08 18:33:58",
+        "last_seen": "2020-05-08 19:47:13",
+        "ip_address": "52.192.65.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "5",
+        "first_seen": "2020-05-08 18:33:58",
+        "last_seen": "2020-05-08 19:47:13",
+        "ip_address": "54.64.44.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "5",
+        "first_seen": "2020-05-08 18:33:58",
+        "last_seen": "2020-05-08 19:47:13",
+        "ip_address": "54.64.235.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "4",
+        "first_seen": "2020-01-21 19:40:58",
+        "last_seen": "2020-01-22 09:54:14",
+        "ip_address": "52.196.23.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "4",
+        "first_seen": "2020-01-21 19:40:58",
+        "last_seen": "2020-01-22 09:54:14",
+        "ip_address": "52.198.223.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "4",
+        "first_seen": "2020-01-21 19:40:58",
+        "last_seen": "2020-01-22 09:54:14",
+        "ip_address": "52.199.110.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "4",
+        "first_seen": "2020-07-15 14:22:29",
+        "last_seen": "2020-07-17 11:03:39",
+        "ip_address": "52.196.213.132",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "4",
+        "first_seen": "2020-07-15 14:22:29",
+        "last_seen": "2020-07-17 11:03:39",
+        "ip_address": "52.197.57.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "4",
+        "first_seen": "2020-07-15 14:22:29",
+        "last_seen": "2020-07-17 11:03:39",
+        "ip_address": "54.64.35.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "985",
+        "first_seen": "2022-08-04 09:44:07",
+        "last_seen": "2022-08-17 19:42:18",
+        "ip_address": "104.129.12.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "from-official.com",
+        "count": "3",
+        "first_seen": "2022-07-26 12:44:51",
+        "last_seen": "2022-07-26 12:50:56",
+        "ip_address": "173.82.206.156",
+        "type": "IPv4"
+    }
+]

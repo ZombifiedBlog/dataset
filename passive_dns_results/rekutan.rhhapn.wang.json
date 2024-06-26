@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "rekutan.rhhapn.wang",
+        "count": "56",
+        "first_seen": "2020-10-10 10:02:29",
+        "last_seen": "2020-10-28 11:41:07",
+        "ip_address": "104.24.118.179",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekutan.rhhapn.wang",
+        "count": "56",
+        "first_seen": "2020-10-10 10:02:29",
+        "last_seen": "2020-10-28 11:41:07",
+        "ip_address": "104.24.119.179",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekutan.rhhapn.wang",
+        "count": "56",
+        "first_seen": "2020-10-10 10:02:29",
+        "last_seen": "2020-10-28 11:41:07",
+        "ip_address": "172.67.150.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekutan.rhhapn.wang",
+        "count": "26",
+        "first_seen": "2020-10-10 12:30:36",
+        "last_seen": "2020-10-11 10:30:17",
+        "ip_address": "2606:4700:3031::ac43:9667",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rekutan.rhhapn.wang",
+        "count": "26",
+        "first_seen": "2020-10-10 12:30:36",
+        "last_seen": "2020-10-11 10:30:17",
+        "ip_address": "2606:4700:3036::6818:77b3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rekutan.rhhapn.wang",
+        "count": "26",
+        "first_seen": "2020-10-10 12:30:36",
+        "last_seen": "2020-10-11 10:30:17",
+        "ip_address": "2606:4700:3037::6818:76b3",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "373news.com",
+        "count": "81252",
+        "first_seen": "2022-08-07 16:46:15",
+        "last_seen": "2024-01-18 02:40:19",
+        "ip_address": "61.205.65.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "373news.com",
+        "count": "22515",
+        "first_seen": "2010-06-26 21:03:35",
+        "last_seen": "2011-10-16 16:38:44",
+        "ip_address": "61.205.68.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "373news.com",
+        "count": "107908",
+        "first_seen": "2011-10-16 16:57:46",
+        "last_seen": "2016-12-09 16:53:14",
+        "ip_address": "61.205.68.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "373news.com",
+        "count": "852704",
+        "first_seen": "2016-12-09 17:01:25",
+        "last_seen": "2022-08-07 16:21:20",
+        "ip_address": "61.205.69.209",
+        "type": "IPv4"
+    }
+]

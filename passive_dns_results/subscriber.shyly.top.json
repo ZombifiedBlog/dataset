@@ -1,0 +1,146 @@
+[
+    {
+        "domain": "subscriber.shyly.top",
+        "count": "1",
+        "first_seen": "2023-11-27 16:38:03",
+        "last_seen": "2023-11-27 16:38:03",
+        "ip_address": "49.51.79.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.shyly.top",
+        "count": "420",
+        "first_seen": "2023-06-15 12:42:22",
+        "last_seen": "2023-08-12 18:20:38",
+        "ip_address": "104.21.61.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.shyly.top",
+        "count": "420",
+        "first_seen": "2023-06-15 12:42:22",
+        "last_seen": "2023-08-12 18:20:38",
+        "ip_address": "172.67.212.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.shyly.top",
+        "count": "6",
+        "first_seen": "2023-12-11 16:24:17",
+        "last_seen": "2023-12-15 08:36:19",
+        "ip_address": "167.88.180.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.shyly.top",
+        "count": "13",
+        "first_seen": "2023-06-27 12:50:24",
+        "last_seen": "2023-08-09 18:16:26",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.shyly.top",
+        "count": "13",
+        "first_seen": "2023-06-27 12:50:24",
+        "last_seen": "2023-08-09 18:16:26",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.shyly.top",
+        "count": "2",
+        "first_seen": "2023-06-27 05:58:03",
+        "last_seen": "2023-06-27 05:58:03",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.shyly.top",
+        "count": "2",
+        "first_seen": "2023-06-27 05:58:03",
+        "last_seen": "2023-06-27 05:58:03",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.shyly.top",
+        "count": "2",
+        "first_seen": "2023-07-11 21:27:46",
+        "last_seen": "2023-07-11 21:27:46",
+        "ip_address": "188.114.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.shyly.top",
+        "count": "2",
+        "first_seen": "2023-07-11 21:27:46",
+        "last_seen": "2023-07-11 21:27:46",
+        "ip_address": "188.114.97.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.shyly.top",
+        "count": "11",
+        "first_seen": "2023-06-17 14:36:52",
+        "last_seen": "2023-06-27 21:18:21",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.shyly.top",
+        "count": "11",
+        "first_seen": "2023-06-17 14:36:52",
+        "last_seen": "2023-06-27 21:18:21",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.shyly.top",
+        "count": "11",
+        "first_seen": "2023-06-27 13:58:20",
+        "last_seen": "2023-07-11 01:44:48",
+        "ip_address": "2606:4700:3030::ac43:d42d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.shyly.top",
+        "count": "11",
+        "first_seen": "2023-06-27 13:58:20",
+        "last_seen": "2023-07-11 01:44:48",
+        "ip_address": "2606:4700:3031::6815:3da8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.shyly.top",
+        "count": "3",
+        "first_seen": "2023-06-27 20:19:27",
+        "last_seen": "2023-06-27 21:02:54",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.shyly.top",
+        "count": "3",
+        "first_seen": "2023-06-27 20:19:27",
+        "last_seen": "2023-06-27 21:02:54",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.shyly.top",
+        "count": "5",
+        "first_seen": "2023-06-17 14:36:53",
+        "last_seen": "2023-06-27 19:24:22",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.shyly.top",
+        "count": "5",
+        "first_seen": "2023-06-17 14:36:53",
+        "last_seen": "2023-06-27 19:24:22",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

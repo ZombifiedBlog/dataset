@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.sevengens.net",
+        "count": "2",
+        "first_seen": "2018-03-10 03:17:26",
+        "last_seen": "2018-03-10 03:17:26",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sevengens.net",
+        "count": "30",
+        "first_seen": "2017-05-25 07:56:20",
+        "last_seen": "2018-04-01 18:51:50",
+        "ip_address": "103.224.212.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sevengens.net",
+        "count": "911",
+        "first_seen": "2018-07-01 05:55:24",
+        "last_seen": "2019-06-10 22:49:36",
+        "ip_address": "104.31.94.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sevengens.net",
+        "count": "911",
+        "first_seen": "2018-07-01 05:55:24",
+        "last_seen": "2019-06-10 22:49:36",
+        "ip_address": "104.31.95.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sevengens.net",
+        "count": "3",
+        "first_seen": "2015-02-16 03:53:33",
+        "last_seen": "2015-02-16 03:53:33",
+        "ip_address": "192.30.133.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sevengens.net",
+        "count": "304",
+        "first_seen": "2012-02-06 20:20:22",
+        "last_seen": "2013-11-06 14:08:40",
+        "ip_address": "199.192.155.16",
+        "type": "IPv4"
+    }
+]

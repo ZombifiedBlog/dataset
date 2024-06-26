@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.ergo.nu",
+        "count": "598",
+        "first_seen": "2010-06-27 18:16:37",
+        "last_seen": "2011-08-21 04:45:28",
+        "ip_address": "193.88.99.142",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ergo.nu",
+        "count": "98",
+        "first_seen": "2011-10-26 19:41:22",
+        "last_seen": "2011-12-15 02:17:25",
+        "ip_address": "195.74.38.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ergo.nu",
+        "count": "49507",
+        "first_seen": "2011-12-18 17:25:10",
+        "last_seen": "2021-06-21 12:50:46",
+        "ip_address": "195.74.38.65",
+        "type": "IPv4"
+    }
+]

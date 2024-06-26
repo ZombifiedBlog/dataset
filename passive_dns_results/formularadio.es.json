@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "formularadio.es",
+        "count": "123",
+        "first_seen": "2011-08-19 19:53:32",
+        "last_seen": "2015-05-26 11:22:00",
+        "ip_address": "87.98.231.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "formularadio.es",
+        "count": "1279",
+        "first_seen": "2017-09-25 07:11:48",
+        "last_seen": "2021-01-29 03:52:33",
+        "ip_address": "212.227.247.188",
+        "type": "IPv4"
+    },
+    {
+        "domain": "formularadio.es",
+        "count": "1619",
+        "first_seen": "2021-02-04 10:10:02",
+        "last_seen": "2024-01-17 22:19:19",
+        "ip_address": "217.160.0.54",
+        "type": "IPv4"
+    },
+    {
+        "domain": "formularadio.es",
+        "count": "146",
+        "first_seen": "2017-09-25 07:10:13",
+        "last_seen": "2021-01-15 15:04:02",
+        "ip_address": "2001:8d8:1000:8096:adac:9785:a4fd:8832",
+        "type": "IPv6"
+    },
+    {
+        "domain": "formularadio.es",
+        "count": "576",
+        "first_seen": "2021-02-06 03:36:16",
+        "last_seen": "2024-01-15 21:04:30",
+        "ip_address": "2001:8d8:100f:f000::2dd",
+        "type": "IPv6"
+    }
+]

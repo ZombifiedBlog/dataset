@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "demo.leoprim.com",
+        "count": "915",
+        "first_seen": "2019-05-06 19:11:46",
+        "last_seen": "2024-01-14 08:08:21",
+        "ip_address": "93.188.2.54",
+        "type": "IPv4"
+    },
+    {
+        "domain": "demo.leoprim.com",
+        "count": "157",
+        "first_seen": "2019-07-05 05:58:02",
+        "last_seen": "2023-12-17 21:37:16",
+        "ip_address": "2a02:250:0:8::54",
+        "type": "IPv6"
+    }
+]

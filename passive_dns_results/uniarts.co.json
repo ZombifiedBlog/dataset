@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "uniarts.co",
+        "count": "104",
+        "first_seen": "2021-11-23 16:56:29",
+        "last_seen": "2023-07-28 15:25:15",
+        "ip_address": "3.64.163.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "uniarts.co",
+        "count": "16",
+        "first_seen": "2021-05-24 23:35:38",
+        "last_seen": "2021-09-30 05:09:39",
+        "ip_address": "52.58.78.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "uniarts.co",
+        "count": "135",
+        "first_seen": "2022-01-06 22:47:21",
+        "last_seen": "2022-04-23 19:25:26",
+        "ip_address": "104.168.87.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "uniarts.co",
+        "count": "7",
+        "first_seen": "2021-05-24 23:25:54",
+        "last_seen": "2021-11-23 17:02:56",
+        "ip_address": "2a05:d014:9da:8c10:306e:3e07:a16f:a552",
+        "type": "IPv6"
+    }
+]

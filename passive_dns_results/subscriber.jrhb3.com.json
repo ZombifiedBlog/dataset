@@ -1,0 +1,146 @@
+[
+    {
+        "domain": "subscriber.jrhb3.com",
+        "count": "1",
+        "first_seen": "2021-02-25 16:26:25",
+        "last_seen": "2021-02-25 16:26:25",
+        "ip_address": "47.74.14.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jrhb3.com",
+        "count": "2",
+        "first_seen": "2021-01-18 15:58:32",
+        "last_seen": "2021-01-18 15:58:32",
+        "ip_address": "104.21.67.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jrhb3.com",
+        "count": "2",
+        "first_seen": "2021-01-18 15:58:32",
+        "last_seen": "2021-01-18 15:58:32",
+        "ip_address": "172.67.218.108",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jrhb3.com",
+        "count": "13",
+        "first_seen": "2020-12-30 19:37:23",
+        "last_seen": "2021-01-12 19:52:15",
+        "ip_address": "104.24.126.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jrhb3.com",
+        "count": "13",
+        "first_seen": "2020-12-30 19:37:23",
+        "last_seen": "2021-01-12 19:52:15",
+        "ip_address": "104.24.127.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jrhb3.com",
+        "count": "13",
+        "first_seen": "2020-12-30 19:37:23",
+        "last_seen": "2021-01-12 19:52:15",
+        "ip_address": "172.67.218.108",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jrhb3.com",
+        "count": "1735",
+        "first_seen": "2020-10-29 15:32:58",
+        "last_seen": "2020-12-29 17:21:11",
+        "ip_address": "104.28.28.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jrhb3.com",
+        "count": "1735",
+        "first_seen": "2020-10-29 15:32:58",
+        "last_seen": "2020-12-29 17:21:11",
+        "ip_address": "104.28.29.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jrhb3.com",
+        "count": "1735",
+        "first_seen": "2020-10-29 15:32:58",
+        "last_seen": "2020-12-29 17:21:11",
+        "ip_address": "172.67.135.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jrhb3.com",
+        "count": "2",
+        "first_seen": "2020-11-03 08:51:13",
+        "last_seen": "2020-11-03 08:51:13",
+        "ip_address": "172.64.81.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jrhb3.com",
+        "count": "10",
+        "first_seen": "2020-12-30 19:37:23",
+        "last_seen": "2021-01-12 19:52:15",
+        "ip_address": "2606:4700:3030::6818:7e1c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.jrhb3.com",
+        "count": "10",
+        "first_seen": "2020-12-30 19:37:23",
+        "last_seen": "2021-01-12 19:52:15",
+        "ip_address": "2606:4700:3035::6818:7f1c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.jrhb3.com",
+        "count": "10",
+        "first_seen": "2020-12-30 19:37:23",
+        "last_seen": "2021-01-12 19:52:15",
+        "ip_address": "2606:4700:3037::ac43:da6c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.jrhb3.com",
+        "count": "343",
+        "first_seen": "2020-10-29 16:12:29",
+        "last_seen": "2020-12-29 17:21:11",
+        "ip_address": "2606:4700:3030::681c:1d77",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.jrhb3.com",
+        "count": "343",
+        "first_seen": "2020-10-29 16:12:29",
+        "last_seen": "2020-12-29 17:21:11",
+        "ip_address": "2606:4700:3034::681c:1c77",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.jrhb3.com",
+        "count": "343",
+        "first_seen": "2020-10-29 16:12:29",
+        "last_seen": "2020-12-29 17:21:11",
+        "ip_address": "2606:4700:3037::ac43:877d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.jrhb3.com",
+        "count": "2",
+        "first_seen": "2021-01-18 15:58:32",
+        "last_seen": "2021-01-18 15:58:32",
+        "ip_address": "2606:4700:3035::6815:434b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.jrhb3.com",
+        "count": "2",
+        "first_seen": "2021-01-18 15:58:32",
+        "last_seen": "2021-01-18 15:58:32",
+        "ip_address": "2606:4700:3037::ac43:da6c",
+        "type": "IPv6"
+    }
+]

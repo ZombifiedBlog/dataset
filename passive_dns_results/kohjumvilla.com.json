@@ -1,0 +1,130 @@
+[
+    {
+        "domain": "kohjumvilla.com",
+        "count": "56",
+        "first_seen": "2022-09-12 16:53:15",
+        "last_seen": "2022-10-18 11:33:01",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kohjumvilla.com",
+        "count": "76",
+        "first_seen": "2022-10-19 00:07:53",
+        "last_seen": "2022-12-16 17:24:14",
+        "ip_address": "34.102.136.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kohjumvilla.com",
+        "count": "186",
+        "first_seen": "2022-06-16 06:39:18",
+        "last_seen": "2022-09-08 16:08:02",
+        "ip_address": "46.17.172.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kohjumvilla.com",
+        "count": "4",
+        "first_seen": "2022-12-19 14:34:55",
+        "last_seen": "2022-12-19 14:35:40",
+        "ip_address": "104.21.77.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kohjumvilla.com",
+        "count": "4",
+        "first_seen": "2022-12-19 14:34:55",
+        "last_seen": "2022-12-19 14:35:40",
+        "ip_address": "172.67.207.91",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kohjumvilla.com",
+        "count": "17",
+        "first_seen": "2024-01-02 10:37:05",
+        "last_seen": "2024-01-18 09:40:16",
+        "ip_address": "104.200.137.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kohjumvilla.com",
+        "count": "622",
+        "first_seen": "2022-12-19 16:01:30",
+        "last_seen": "2024-01-02 06:16:21",
+        "ip_address": "141.193.213.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kohjumvilla.com",
+        "count": "622",
+        "first_seen": "2022-12-19 16:01:30",
+        "last_seen": "2024-01-02 06:16:21",
+        "ip_address": "141.193.213.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kohjumvilla.com",
+        "count": "25",
+        "first_seen": "2012-11-17 15:29:03",
+        "last_seen": "2013-07-04 18:51:43",
+        "ip_address": "174.120.29.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kohjumvilla.com",
+        "count": "6",
+        "first_seen": "2017-09-12 06:50:18",
+        "last_seen": "2017-09-12 11:33:03",
+        "ip_address": "184.168.221.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kohjumvilla.com",
+        "count": "10555",
+        "first_seen": "2015-05-12 09:42:33",
+        "last_seen": "2022-06-15 18:25:52",
+        "ip_address": "192.185.95.202",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kohjumvilla.com",
+        "count": "1131",
+        "first_seen": "2013-09-18 01:47:40",
+        "last_seen": "2015-05-09 05:05:25",
+        "ip_address": "192.185.230.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kohjumvilla.com",
+        "count": "16",
+        "first_seen": "2013-07-17 14:01:17",
+        "last_seen": "2013-07-23 17:52:43",
+        "ip_address": "192.254.186.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kohjumvilla.com",
+        "count": "1",
+        "first_seen": "2022-12-19 14:35:59",
+        "last_seen": "2022-12-19 14:35:59",
+        "ip_address": "2606:4700:3035::ac43:cf5b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "kohjumvilla.com",
+        "count": "1",
+        "first_seen": "2022-12-19 14:35:59",
+        "last_seen": "2022-12-19 14:35:59",
+        "ip_address": "2606:4700:3037::6815:4d75",
+        "type": "IPv6"
+    },
+    {
+        "domain": "kohjumvilla.com",
+        "count": "90",
+        "first_seen": "2022-06-16 07:04:32",
+        "last_seen": "2022-09-07 00:31:44",
+        "ip_address": "2a02:4780:3:447:0:2e64:2a40:15",
+        "type": "IPv6"
+    }
+]

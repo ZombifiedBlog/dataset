@@ -1,0 +1,114 @@
+[
+    {
+        "domain": "www.berenjifamilylaw.com",
+        "count": "12614",
+        "first_seen": "2016-12-27 09:25:55",
+        "last_seen": "2017-09-28 00:09:38",
+        "ip_address": "104.24.19.108",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.berenjifamilylaw.com",
+        "count": "12614",
+        "first_seen": "2016-12-27 09:25:55",
+        "last_seen": "2017-09-28 00:09:38",
+        "ip_address": "104.24.20.108",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.berenjifamilylaw.com",
+        "count": "58393",
+        "first_seen": "2015-10-21 08:51:45",
+        "last_seen": "2016-12-27 04:07:47",
+        "ip_address": "104.25.42.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.berenjifamilylaw.com",
+        "count": "58393",
+        "first_seen": "2015-10-21 08:51:45",
+        "last_seen": "2016-12-27 04:07:47",
+        "ip_address": "104.25.43.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.berenjifamilylaw.com",
+        "count": "2",
+        "first_seen": "2016-12-27 06:03:00",
+        "last_seen": "2016-12-27 06:03:00",
+        "ip_address": "104.25.50.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.berenjifamilylaw.com",
+        "count": "2",
+        "first_seen": "2016-12-27 06:03:00",
+        "last_seen": "2016-12-27 06:03:00",
+        "ip_address": "104.25.51.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.berenjifamilylaw.com",
+        "count": "1180",
+        "first_seen": "2015-04-13 02:01:56",
+        "last_seen": "2015-10-20 22:33:17",
+        "ip_address": "108.162.207.245",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.berenjifamilylaw.com",
+        "count": "1180",
+        "first_seen": "2015-04-13 02:01:56",
+        "last_seen": "2015-10-20 22:33:17",
+        "ip_address": "141.101.124.245",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.berenjifamilylaw.com",
+        "count": "3650",
+        "first_seen": "2016-12-27 09:25:55",
+        "last_seen": "2017-09-28 00:09:38",
+        "ip_address": "2400:cb00:2048:1::6818:136c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.berenjifamilylaw.com",
+        "count": "3650",
+        "first_seen": "2016-12-27 09:25:55",
+        "last_seen": "2017-09-28 00:09:38",
+        "ip_address": "2400:cb00:2048:1::6818:146c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.berenjifamilylaw.com",
+        "count": "21525",
+        "first_seen": "2015-10-21 08:51:45",
+        "last_seen": "2016-12-27 01:43:47",
+        "ip_address": "2400:cb00:2048:1::6819:2a10",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.berenjifamilylaw.com",
+        "count": "21525",
+        "first_seen": "2015-10-21 08:51:45",
+        "last_seen": "2016-12-27 01:43:47",
+        "ip_address": "2400:cb00:2048:1::6819:2b10",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.berenjifamilylaw.com",
+        "count": "90",
+        "first_seen": "2015-06-04 10:42:32",
+        "last_seen": "2015-10-19 08:34:46",
+        "ip_address": "2400:cb00:2048:1::6ca2:cff5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.berenjifamilylaw.com",
+        "count": "90",
+        "first_seen": "2015-06-04 10:42:32",
+        "last_seen": "2015-10-19 08:34:46",
+        "ip_address": "2400:cb00:2048:1::8d65:7cf5",
+        "type": "IPv6"
+    }
+]

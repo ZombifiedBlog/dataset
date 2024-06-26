@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www-aeon-co-jp.aeonkiss.com",
+        "count": "16",
+        "first_seen": "2022-12-21 14:59:46",
+        "last_seen": "2022-12-22 12:08:35",
+        "ip_address": "104.21.30.47",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-aeon-co-jp.aeonkiss.com",
+        "count": "16",
+        "first_seen": "2022-12-21 14:59:46",
+        "last_seen": "2022-12-22 12:08:35",
+        "ip_address": "172.67.150.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-aeon-co-jp.aeonkiss.com",
+        "count": "1",
+        "first_seen": "2022-12-21 14:59:48",
+        "last_seen": "2022-12-21 14:59:48",
+        "ip_address": "2606:4700:3035::ac43:9694",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-aeon-co-jp.aeonkiss.com",
+        "count": "1",
+        "first_seen": "2022-12-21 14:59:48",
+        "last_seen": "2022-12-21 14:59:48",
+        "ip_address": "2606:4700:3037::6815:1e2f",
+        "type": "IPv6"
+    }
+]

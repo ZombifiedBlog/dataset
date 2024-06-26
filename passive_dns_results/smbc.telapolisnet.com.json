@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "smbc.telapolisnet.com",
+        "count": "380",
+        "first_seen": "2023-06-20 10:37:18",
+        "last_seen": "2023-06-26 06:22:14",
+        "ip_address": "23.94.179.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.telapolisnet.com",
+        "count": "7",
+        "first_seen": "2023-06-11 21:02:11",
+        "last_seen": "2023-06-12 00:30:26",
+        "ip_address": "34.85.34.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.telapolisnet.com",
+        "count": "102",
+        "first_seen": "2023-06-12 12:53:19",
+        "last_seen": "2023-06-14 18:21:34",
+        "ip_address": "34.146.116.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.telapolisnet.com",
+        "count": "141",
+        "first_seen": "2023-06-14 18:46:35",
+        "last_seen": "2023-06-19 03:36:10",
+        "ip_address": "47.87.146.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.telapolisnet.com",
+        "count": "25",
+        "first_seen": "2023-06-19 08:49:55",
+        "last_seen": "2023-06-20 09:22:06",
+        "ip_address": "140.99.32.37",
+        "type": "IPv4"
+    }
+]

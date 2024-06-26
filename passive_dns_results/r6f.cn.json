@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "r6f.cn",
+        "count": "141",
+        "first_seen": "2020-11-28 19:19:31",
+        "last_seen": "2020-12-06 06:33:38",
+        "ip_address": "47.57.12.47",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6f.cn",
+        "count": "717",
+        "first_seen": "2022-04-02 15:44:53",
+        "last_seen": "2022-12-27 09:50:52",
+        "ip_address": "123.58.215.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6f.cn",
+        "count": "36",
+        "first_seen": "2022-12-28 15:55:31",
+        "last_seen": "2023-01-17 04:10:49",
+        "ip_address": "156.224.2.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6f.cn",
+        "count": "36",
+        "first_seen": "2022-12-28 15:55:31",
+        "last_seen": "2023-01-17 04:10:49",
+        "ip_address": "156.224.2.102",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "my.jcb.co.jp.wbin.top",
+        "count": "3",
+        "first_seen": "2022-10-26 16:14:31",
+        "last_seen": "2022-11-02 13:23:22",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.jp.wbin.top",
+        "count": "199",
+        "first_seen": "2020-11-17 08:28:05",
+        "last_seen": "2020-11-18 06:00:28",
+        "ip_address": "157.52.230.182",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.jp.wbin.top",
+        "count": "7",
+        "first_seen": "2020-11-18 06:38:12",
+        "last_seen": "2020-11-18 08:49:18",
+        "ip_address": "157.52.230.251",
+        "type": "IPv4"
+    }
+]

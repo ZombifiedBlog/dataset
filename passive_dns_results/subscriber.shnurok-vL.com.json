@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "subscriber.shnurok-vL.com",
+        "count": "2",
+        "first_seen": "2021-07-25 06:53:49",
+        "last_seen": "2021-07-25 06:53:49",
+        "ip_address": "45.205.63.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.shnurok-vL.com",
+        "count": "1",
+        "first_seen": "2022-08-27 04:30:30",
+        "last_seen": "2022-08-27 04:30:30",
+        "ip_address": "54.39.193.115",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.shnurok-vL.com",
+        "count": "1083",
+        "first_seen": "2020-10-29 16:56:33",
+        "last_seen": "2020-11-23 06:03:00",
+        "ip_address": "104.31.80.245",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.shnurok-vL.com",
+        "count": "1083",
+        "first_seen": "2020-10-29 16:56:33",
+        "last_seen": "2020-11-23 06:03:00",
+        "ip_address": "104.31.81.245",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.shnurok-vL.com",
+        "count": "1083",
+        "first_seen": "2020-10-29 16:56:33",
+        "last_seen": "2020-11-23 06:03:00",
+        "ip_address": "172.67.160.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.shnurok-vL.com",
+        "count": "7",
+        "first_seen": "2022-02-12 00:29:28",
+        "last_seen": "2022-05-14 19:34:19",
+        "ip_address": "206.2.139.108",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.shnurok-vL.com",
+        "count": "5",
+        "first_seen": "2021-02-24 23:35:09",
+        "last_seen": "2021-03-27 16:09:38",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.shnurok-vL.com",
+        "count": "152",
+        "first_seen": "2020-10-29 17:56:33",
+        "last_seen": "2020-11-23 01:27:00",
+        "ip_address": "2606:4700:3033::681f:51f5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.shnurok-vL.com",
+        "count": "152",
+        "first_seen": "2020-10-29 17:56:33",
+        "last_seen": "2020-11-23 01:27:00",
+        "ip_address": "2606:4700:3034::681f:50f5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.shnurok-vL.com",
+        "count": "152",
+        "first_seen": "2020-10-29 17:56:33",
+        "last_seen": "2020-11-23 01:27:00",
+        "ip_address": "2606:4700:3034::ac43:a088",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazon-support-sppapaliseuzcmdnqsixbaicnmmuhqstoreoukcom003.cf",
+        "count": "5",
+        "first_seen": "2020-09-17 11:01:28",
+        "last_seen": "2020-09-17 11:03:27",
+        "ip_address": "195.20.48.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-support-sppapaliseuzcmdnqsixbaicnmmuhqstoreoukcom003.cf",
+        "count": "40",
+        "first_seen": "2020-09-15 08:55:54",
+        "last_seen": "2020-09-15 19:49:47",
+        "ip_address": "20.48.104.181",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-support-sppapaliseuzcmdnqsixbaicnmmuhqstoreoukcom003.cf",
+        "count": "623",
+        "first_seen": "2020-09-15 21:25:42",
+        "last_seen": "2020-09-17 10:48:58",
+        "ip_address": "23.94.186.104",
+        "type": "IPv4"
+    }
+]

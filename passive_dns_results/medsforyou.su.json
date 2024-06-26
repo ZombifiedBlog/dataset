@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "medsforyou.su",
+        "count": "15004",
+        "first_seen": "2019-02-24 12:18:22",
+        "last_seen": "2019-03-01 16:30:08",
+        "ip_address": "37.139.56.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "medsforyou.su",
+        "count": "6035",
+        "first_seen": "2019-02-22 08:20:33",
+        "last_seen": "2019-02-24 12:17:27",
+        "ip_address": "47.74.63.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "medsforyou.su",
+        "count": "2",
+        "first_seen": "2019-03-05 11:27:05",
+        "last_seen": "2019-03-05 11:27:05",
+        "ip_address": "47.91.87.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "medsforyou.su",
+        "count": "90",
+        "first_seen": "2019-03-01 17:55:04",
+        "last_seen": "2019-03-05 05:05:35",
+        "ip_address": "47.254.27.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "medsforyou.su",
+        "count": "30",
+        "first_seen": "2019-03-05 19:49:54",
+        "last_seen": "2019-03-14 16:14:45",
+        "ip_address": "47.254.145.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "medsforyou.su",
+        "count": "18",
+        "first_seen": "2020-02-28 11:02:38",
+        "last_seen": "2020-03-21 15:46:48",
+        "ip_address": "109.70.26.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "medsforyou.su",
+        "count": "18",
+        "first_seen": "2020-02-28 11:02:38",
+        "last_seen": "2020-03-21 15:46:48",
+        "ip_address": "194.85.61.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "medsforyou.su",
+        "count": "5",
+        "first_seen": "2019-02-24 11:39:34",
+        "last_seen": "2019-02-24 11:40:06",
+        "ip_address": "161.117.6.71",
+        "type": "IPv4"
+    }
+]

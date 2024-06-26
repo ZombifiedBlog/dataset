@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "www.shsntl.com",
+        "count": "3",
+        "first_seen": "2021-10-10 16:26:55",
+        "last_seen": "2021-10-16 22:37:48",
+        "ip_address": "23.248.237.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shsntl.com",
+        "count": "1",
+        "first_seen": "2021-10-03 13:13:20",
+        "last_seen": "2021-10-03 13:13:20",
+        "ip_address": "23.248.237.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shsntl.com",
+        "count": "1",
+        "first_seen": "2021-10-03 13:13:20",
+        "last_seen": "2021-10-03 13:13:20",
+        "ip_address": "156.224.108.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shsntl.com",
+        "count": "1",
+        "first_seen": "2013-03-19 04:03:31",
+        "last_seen": "2013-03-19 04:03:31",
+        "ip_address": "65.19.157.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shsntl.com",
+        "count": "38",
+        "first_seen": "2018-12-19 07:20:00",
+        "last_seen": "2019-11-18 14:27:32",
+        "ip_address": "104.27.180.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shsntl.com",
+        "count": "38",
+        "first_seen": "2018-12-19 07:20:00",
+        "last_seen": "2019-11-18 14:27:32",
+        "ip_address": "104.27.181.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shsntl.com",
+        "count": "25",
+        "first_seen": "2017-10-07 18:27:03",
+        "last_seen": "2018-08-29 20:15:35",
+        "ip_address": "104.202.252.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shsntl.com",
+        "count": "82",
+        "first_seen": "2022-03-05 14:12:43",
+        "last_seen": "2022-03-23 23:00:49",
+        "ip_address": "107.174.68.166",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shsntl.com",
+        "count": "2",
+        "first_seen": "2019-12-16 07:23:41",
+        "last_seen": "2019-12-16 07:23:41",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shsntl.com",
+        "count": "48",
+        "first_seen": "2022-05-15 06:46:23",
+        "last_seen": "2023-04-03 14:07:05",
+        "ip_address": "156.239.67.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shsntl.com",
+        "count": "14",
+        "first_seen": "2018-12-19 07:20:00",
+        "last_seen": "2019-01-03 10:04:39",
+        "ip_address": "2606:4700:30::681b:b431",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.shsntl.com",
+        "count": "14",
+        "first_seen": "2018-12-19 07:20:00",
+        "last_seen": "2019-01-03 10:04:39",
+        "ip_address": "2606:4700:30::681b:b531",
+        "type": "IPv6"
+    }
+]

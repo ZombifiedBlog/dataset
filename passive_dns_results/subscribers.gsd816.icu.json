@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscribers.gsd816.icu",
+        "count": "11",
+        "first_seen": "2020-07-28 22:12:59",
+        "last_seen": "2020-08-25 02:23:51",
+        "ip_address": "104.28.18.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.gsd816.icu",
+        "count": "11",
+        "first_seen": "2020-07-28 22:12:59",
+        "last_seen": "2020-08-25 02:23:51",
+        "ip_address": "104.28.19.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.gsd816.icu",
+        "count": "11",
+        "first_seen": "2020-07-28 22:12:59",
+        "last_seen": "2020-08-25 02:23:51",
+        "ip_address": "172.67.135.184",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.gsd816.icu",
+        "count": "9",
+        "first_seen": "2020-07-28 22:12:59",
+        "last_seen": "2020-11-05 10:24:27",
+        "ip_address": "2606:4700:3032::681c:137b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.gsd816.icu",
+        "count": "9",
+        "first_seen": "2020-07-28 22:12:59",
+        "last_seen": "2020-11-05 10:24:27",
+        "ip_address": "2606:4700:3033::681c:127b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.gsd816.icu",
+        "count": "9",
+        "first_seen": "2020-07-28 22:12:59",
+        "last_seen": "2020-11-05 10:24:27",
+        "ip_address": "2606:4700:3037::ac43:87b8",
+        "type": "IPv6"
+    }
+]

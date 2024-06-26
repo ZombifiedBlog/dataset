@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "d-ina.com",
+        "count": "7",
+        "first_seen": "2023-08-06 20:11:59",
+        "last_seen": "2023-08-25 07:29:30",
+        "ip_address": "52.25.92.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "d-ina.com",
+        "count": "5",
+        "first_seen": "2023-08-06 09:27:31",
+        "last_seen": "2023-08-19 08:48:44",
+        "ip_address": "54.65.172.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "d-ina.com",
+        "count": "1348",
+        "first_seen": "2011-07-12 03:35:57",
+        "last_seen": "2012-03-13 06:09:14",
+        "ip_address": "61.58.36.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "d-ina.com",
+        "count": "567",
+        "first_seen": "2011-02-28 06:02:24",
+        "last_seen": "2011-07-11 16:31:00",
+        "ip_address": "61.58.36.186",
+        "type": "IPv4"
+    },
+    {
+        "domain": "d-ina.com",
+        "count": "1275",
+        "first_seen": "2010-07-01 15:33:36",
+        "last_seen": "2011-02-27 02:37:41",
+        "ip_address": "61.58.37.72",
+        "type": "IPv4"
+    },
+    {
+        "domain": "d-ina.com",
+        "count": "1029",
+        "first_seen": "2012-03-13 08:40:34",
+        "last_seen": "2013-01-27 22:52:13",
+        "ip_address": "61.58.37.115",
+        "type": "IPv4"
+    },
+    {
+        "domain": "d-ina.com",
+        "count": "67",
+        "first_seen": "2023-10-21 04:12:52",
+        "last_seen": "2024-01-15 21:36:51",
+        "ip_address": "156.240.224.106",
+        "type": "IPv4"
+    },
+    {
+        "domain": "d-ina.com",
+        "count": "895",
+        "first_seen": "2013-02-01 07:49:10",
+        "last_seen": "2017-02-16 11:06:14",
+        "ip_address": "157.7.170.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "d-ina.com",
+        "count": "1875",
+        "first_seen": "2017-03-04 11:24:23",
+        "last_seen": "2023-07-29 06:06:25",
+        "ip_address": "211.125.90.4",
+        "type": "IPv4"
+    }
+]

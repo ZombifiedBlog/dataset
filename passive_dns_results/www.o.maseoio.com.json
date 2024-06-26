@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.o.maseoio.com",
+        "count": "82",
+        "first_seen": "2022-01-02 16:20:01",
+        "last_seen": "2022-01-04 08:07:17",
+        "ip_address": "198.23.174.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.o.maseoio.com",
+        "count": "1",
+        "first_seen": "2023-01-22 08:04:23",
+        "last_seen": "2023-01-22 08:04:23",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.o.maseoio.com",
+        "count": "1",
+        "first_seen": "2023-01-22 08:04:23",
+        "last_seen": "2023-01-22 08:04:23",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

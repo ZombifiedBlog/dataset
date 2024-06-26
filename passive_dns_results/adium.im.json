@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "adium.im",
+        "count": "2",
+        "first_seen": "2012-09-05 22:50:14",
+        "last_seen": "2012-09-05 22:50:17",
+        "ip_address": "10.102.130.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "adium.im",
+        "count": "28",
+        "first_seen": "2017-07-07 11:31:57",
+        "last_seen": "2017-07-10 01:02:02",
+        "ip_address": "46.183.219.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "adium.im",
+        "count": "28",
+        "first_seen": "2017-07-07 11:31:57",
+        "last_seen": "2017-07-10 01:02:02",
+        "ip_address": "46.183.219.206",
+        "type": "IPv4"
+    },
+    {
+        "domain": "adium.im",
+        "count": "278724",
+        "first_seen": "2020-12-01 04:45:08",
+        "last_seen": "2024-01-18 18:16:03",
+        "ip_address": "51.79.38.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "adium.im",
+        "count": "352314",
+        "first_seen": "2010-06-24 03:46:44",
+        "last_seen": "2012-07-27 05:26:06",
+        "ip_address": "74.63.12.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "adium.im",
+        "count": "2005070",
+        "first_seen": "2012-07-27 02:51:27",
+        "last_seen": "2020-12-06 23:23:41",
+        "ip_address": "209.191.185.66",
+        "type": "IPv4"
+    }
+]

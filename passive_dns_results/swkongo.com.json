@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "swkongo.com",
+        "count": "8",
+        "first_seen": "2022-12-01 04:40:56",
+        "last_seen": "2023-01-07 07:47:58",
+        "ip_address": "18.162.206.188",
+        "type": "IPv4"
+    },
+    {
+        "domain": "swkongo.com",
+        "count": "27",
+        "first_seen": "2023-02-01 10:05:32",
+        "last_seen": "2023-05-10 18:28:02",
+        "ip_address": "34.92.186.171",
+        "type": "IPv4"
+    },
+    {
+        "domain": "swkongo.com",
+        "count": "38",
+        "first_seen": "2023-12-02 12:11:43",
+        "last_seen": "2023-12-14 13:14:08",
+        "ip_address": "52.213.114.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "swkongo.com",
+        "count": "340",
+        "first_seen": "2023-06-28 12:37:11",
+        "last_seen": "2023-11-30 11:21:18",
+        "ip_address": "104.21.2.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "swkongo.com",
+        "count": "340",
+        "first_seen": "2023-06-28 12:37:11",
+        "last_seen": "2023-11-30 11:21:18",
+        "ip_address": "172.67.129.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "swkongo.com",
+        "count": "270",
+        "first_seen": "2023-05-12 07:42:21",
+        "last_seen": "2023-06-27 21:13:45",
+        "ip_address": "192.161.176.98",
+        "type": "IPv4"
+    },
+    {
+        "domain": "swkongo.com",
+        "count": "24",
+        "first_seen": "2023-06-28 13:17:16",
+        "last_seen": "2023-11-18 14:42:18",
+        "ip_address": "2606:4700:3030::ac43:8156",
+        "type": "IPv6"
+    },
+    {
+        "domain": "swkongo.com",
+        "count": "24",
+        "first_seen": "2023-06-28 13:17:16",
+        "last_seen": "2023-11-18 14:42:18",
+        "ip_address": "2606:4700:3033::6815:298",
+        "type": "IPv6"
+    }
+]

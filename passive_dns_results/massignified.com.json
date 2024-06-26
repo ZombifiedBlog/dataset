@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "massignified.com",
+        "count": "5113",
+        "first_seen": "2023-07-05 18:35:30",
+        "last_seen": "2023-07-27 19:15:20",
+        "ip_address": "37.48.117.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "massignified.com",
+        "count": "1520",
+        "first_seen": "2023-03-09 01:29:54",
+        "last_seen": "2023-06-30 21:25:04",
+        "ip_address": "103.153.183.81",
+        "type": "IPv4"
+    },
+    {
+        "domain": "massignified.com",
+        "count": "110",
+        "first_seen": "2023-03-22 16:00:03",
+        "last_seen": "2023-03-24 12:10:07",
+        "ip_address": "198.54.117.242",
+        "type": "IPv4"
+    }
+]

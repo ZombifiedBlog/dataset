@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "armfitness.am",
+        "count": "705",
+        "first_seen": "2017-07-21 17:58:44",
+        "last_seen": "2019-10-12 04:21:38",
+        "ip_address": "77.72.0.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "armfitness.am",
+        "count": "4328",
+        "first_seen": "2019-10-13 07:09:10",
+        "last_seen": "2021-01-30 02:25:53",
+        "ip_address": "144.91.81.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "armfitness.am",
+        "count": "9",
+        "first_seen": "2016-03-14 18:25:49",
+        "last_seen": "2016-03-20 21:00:54",
+        "ip_address": "185.116.212.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "armfitness.am",
+        "count": "62",
+        "first_seen": "2016-05-25 20:17:42",
+        "last_seen": "2017-06-24 04:35:42",
+        "ip_address": "185.116.214.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "armfitness.am",
+        "count": "423",
+        "first_seen": "2021-01-30 21:14:30",
+        "last_seen": "2022-02-22 08:10:47",
+        "ip_address": "185.151.30.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "armfitness.am",
+        "count": "158",
+        "first_seen": "2021-01-30 21:14:30",
+        "last_seen": "2022-02-17 14:10:48",
+        "ip_address": "2a07:7800::170",
+        "type": "IPv6"
+    }
+]

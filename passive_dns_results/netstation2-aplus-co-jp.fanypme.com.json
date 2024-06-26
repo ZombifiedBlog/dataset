@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "netstation2-aplus-co-jp.fanypme.com",
+        "count": "446",
+        "first_seen": "2022-04-24 14:13:08",
+        "last_seen": "2022-05-19 06:23:40",
+        "ip_address": "104.21.81.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.fanypme.com",
+        "count": "446",
+        "first_seen": "2022-04-24 14:13:08",
+        "last_seen": "2022-05-19 06:23:40",
+        "ip_address": "172.67.188.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.fanypme.com",
+        "count": "19",
+        "first_seen": "2022-04-24 14:16:53",
+        "last_seen": "2022-05-09 08:09:35",
+        "ip_address": "2606:4700:3030::6815:512e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.fanypme.com",
+        "count": "19",
+        "first_seen": "2022-04-24 14:16:53",
+        "last_seen": "2022-05-09 08:09:35",
+        "ip_address": "2606:4700:3036::ac43:bc2c",
+        "type": "IPv6"
+    }
+]

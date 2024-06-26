@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "vipefood.com",
+        "count": "1210",
+        "first_seen": "2022-05-11 14:59:59",
+        "last_seen": "2023-06-11 08:18:58",
+        "ip_address": "37.97.209.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vipefood.com",
+        "count": "16",
+        "first_seen": "2022-01-29 22:41:40",
+        "last_seen": "2022-03-03 18:28:35",
+        "ip_address": "67.222.128.91",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vipefood.com",
+        "count": "364",
+        "first_seen": "2021-09-06 13:42:12",
+        "last_seen": "2021-12-06 06:20:16",
+        "ip_address": "74.63.220.108",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vipefood.com",
+        "count": "9",
+        "first_seen": "2022-01-09 11:04:24",
+        "last_seen": "2022-01-26 03:26:29",
+        "ip_address": "91.143.83.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vipefood.com",
+        "count": "2",
+        "first_seen": "2022-09-05 14:42:10",
+        "last_seen": "2022-09-05 14:42:10",
+        "ip_address": "99.83.154.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vipefood.com",
+        "count": "16",
+        "first_seen": "2023-09-03 20:05:44",
+        "last_seen": "2023-09-06 05:38:05",
+        "ip_address": "172.232.4.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vipefood.com",
+        "count": "16",
+        "first_seen": "2023-09-03 18:18:10",
+        "last_seen": "2023-09-05 19:03:55",
+        "ip_address": "172.232.30.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vipefood.com",
+        "count": "8",
+        "first_seen": "2023-09-03 18:06:07",
+        "last_seen": "2023-09-06 06:23:11",
+        "ip_address": "172.233.218.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vipefood.com",
+        "count": "10",
+        "first_seen": "2022-03-13 22:19:49",
+        "last_seen": "2022-05-10 07:54:55",
+        "ip_address": "185.17.147.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vipefood.com",
+        "count": "12219",
+        "first_seen": "2023-06-15 09:46:33",
+        "last_seen": "2023-11-02 23:08:09",
+        "ip_address": "198.23.189.18",
+        "type": "IPv4"
+    }
+]

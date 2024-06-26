@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.consumeraction.gov",
+        "count": "12415",
+        "first_seen": "2020-03-23 15:07:13",
+        "last_seen": "2023-06-29 16:57:47",
+        "ip_address": "23.22.13.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.consumeraction.gov",
+        "count": "26513",
+        "first_seen": "2016-09-15 17:00:40",
+        "last_seen": "2020-03-21 20:34:23",
+        "ip_address": "54.85.132.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.consumeraction.gov",
+        "count": "956",
+        "first_seen": "2010-09-03 17:20:58",
+        "last_seen": "2010-09-05 09:56:29",
+        "ip_address": "159.142.1.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.consumeraction.gov",
+        "count": "42",
+        "first_seen": "2010-09-05 09:57:20",
+        "last_seen": "2010-09-05 14:36:17",
+        "ip_address": "159.142.160.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.consumeraction.gov",
+        "count": "307509",
+        "first_seen": "2010-09-05 14:49:27",
+        "last_seen": "2012-10-31 15:19:15",
+        "ip_address": "159.142.160.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.consumeraction.gov",
+        "count": "11608",
+        "first_seen": "2010-06-27 08:20:41",
+        "last_seen": "2010-09-03 17:15:41",
+        "ip_address": "159.142.174.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.consumeraction.gov",
+        "count": "4483",
+        "first_seen": "2020-03-24 09:50:47",
+        "last_seen": "2023-06-29 16:57:47",
+        "ip_address": "2600:1f18:f88:4313:6df7:f986:f915:78d6",
+        "type": "IPv6"
+    }
+]

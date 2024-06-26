@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.amazonk.top",
+        "count": "2",
+        "first_seen": "2020-11-03 09:20:33",
+        "last_seen": "2020-11-03 09:20:33",
+        "ip_address": "128.14.142.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazonk.top",
+        "count": "99",
+        "first_seen": "2022-11-12 16:59:21",
+        "last_seen": "2022-11-12 17:38:41",
+        "ip_address": "185.224.168.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazonk.top",
+        "count": "226",
+        "first_seen": "2020-09-26 07:18:21",
+        "last_seen": "2020-09-27 09:32:27",
+        "ip_address": "198.12.71.112",
+        "type": "IPv4"
+    }
+]

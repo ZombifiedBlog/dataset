@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.diudiuje.com",
+        "count": "2",
+        "first_seen": "2020-08-01 13:48:42",
+        "last_seen": "2020-08-01 13:48:42",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.diudiuje.com",
+        "count": "3",
+        "first_seen": "2019-07-07 08:22:57",
+        "last_seen": "2019-07-07 08:22:58",
+        "ip_address": "202.168.149.135",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.diudiuje.com",
+        "count": "5",
+        "first_seen": "2019-07-07 00:31:47",
+        "last_seen": "2019-07-07 04:31:08",
+        "ip_address": "202.168.149.136",
+        "type": "IPv4"
+    }
+]

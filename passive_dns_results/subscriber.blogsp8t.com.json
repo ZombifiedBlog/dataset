@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "subscriber.blogsp8t.com",
+        "count": "5238",
+        "first_seen": "2022-06-07 17:37:02",
+        "last_seen": "2022-08-23 15:29:12",
+        "ip_address": "104.21.16.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.blogsp8t.com",
+        "count": "5238",
+        "first_seen": "2022-06-07 17:37:02",
+        "last_seen": "2022-08-23 15:29:12",
+        "ip_address": "172.67.213.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.blogsp8t.com",
+        "count": "129",
+        "first_seen": "2022-06-07 20:39:08",
+        "last_seen": "2022-08-23 15:29:12",
+        "ip_address": "2606:4700:3031::6815:1098",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.blogsp8t.com",
+        "count": "129",
+        "first_seen": "2022-06-07 20:39:08",
+        "last_seen": "2022-08-23 15:29:12",
+        "ip_address": "2606:4700:3031::ac43:d5a8",
+        "type": "IPv6"
+    }
+]

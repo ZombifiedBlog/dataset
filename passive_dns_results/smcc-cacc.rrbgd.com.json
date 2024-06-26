@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "smcc-cacc.rrbgd.com",
+        "count": "21",
+        "first_seen": "2020-10-31 12:59:21",
+        "last_seen": "2020-11-09 23:21:38",
+        "ip_address": "0.0.0.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.rrbgd.com",
+        "count": "296",
+        "first_seen": "2020-10-24 20:20:55",
+        "last_seen": "2020-10-26 07:56:40",
+        "ip_address": "107.172.43.161",
+        "type": "IPv4"
+    }
+]

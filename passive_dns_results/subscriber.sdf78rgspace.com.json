@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "subscriber.sdf78rgspace.com",
+        "count": "9",
+        "first_seen": "2020-05-14 08:37:30",
+        "last_seen": "2020-05-17 02:23:55",
+        "ip_address": "104.24.110.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sdf78rgspace.com",
+        "count": "9",
+        "first_seen": "2020-05-14 08:37:30",
+        "last_seen": "2020-05-17 02:23:55",
+        "ip_address": "104.24.111.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sdf78rgspace.com",
+        "count": "31",
+        "first_seen": "2020-03-12 18:48:25",
+        "last_seen": "2020-04-16 08:04:15",
+        "ip_address": "104.27.128.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sdf78rgspace.com",
+        "count": "31",
+        "first_seen": "2020-03-12 18:48:25",
+        "last_seen": "2020-04-16 08:04:15",
+        "ip_address": "104.27.129.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sdf78rgspace.com",
+        "count": "2",
+        "first_seen": "2020-05-14 08:37:30",
+        "last_seen": "2020-05-14 08:37:30",
+        "ip_address": "2606:4700:3031::6818:6f94",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.sdf78rgspace.com",
+        "count": "2",
+        "first_seen": "2020-05-14 08:37:30",
+        "last_seen": "2020-05-14 08:37:30",
+        "ip_address": "2606:4700:3033::6818:6e94",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.sdf78rgspace.com",
+        "count": "13",
+        "first_seen": "2020-03-12 18:48:25",
+        "last_seen": "2020-03-13 07:31:11",
+        "ip_address": "2606:4700:3032::681b:8096",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.sdf78rgspace.com",
+        "count": "13",
+        "first_seen": "2020-03-12 18:48:25",
+        "last_seen": "2020-03-13 07:31:11",
+        "ip_address": "2606:4700:3035::681b:8196",
+        "type": "IPv6"
+    }
+]

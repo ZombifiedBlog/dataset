@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "smbcte.com",
+        "count": "2",
+        "first_seen": "2019-10-28 10:28:31",
+        "last_seen": "2019-10-28 10:28:31",
+        "ip_address": "67.198.189.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbcte.com",
+        "count": "285",
+        "first_seen": "2019-10-29 16:27:24",
+        "last_seen": "2020-10-28 04:02:27",
+        "ip_address": "67.198.189.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbcte.com",
+        "count": "24",
+        "first_seen": "2020-10-28 19:31:42",
+        "last_seen": "2020-12-01 14:49:28",
+        "ip_address": "91.195.240.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbcte.com",
+        "count": "4",
+        "first_seen": "2015-06-22 22:00:17",
+        "last_seen": "2015-06-23 00:34:27",
+        "ip_address": "103.39.110.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbcte.com",
+        "count": "2",
+        "first_seen": "2015-06-23 02:29:45",
+        "last_seen": "2015-06-23 02:29:45",
+        "ip_address": "103.39.110.202",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbcte.com",
+        "count": "3",
+        "first_seen": "2019-10-28 12:18:41",
+        "last_seen": "2019-10-28 12:43:25",
+        "ip_address": "109.94.169.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbcte.com",
+        "count": "3",
+        "first_seen": "2019-10-28 12:18:41",
+        "last_seen": "2019-10-28 12:43:25",
+        "ip_address": "109.94.169.127",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbcte.com",
+        "count": "2",
+        "first_seen": "2019-10-29 02:11:54",
+        "last_seen": "2019-10-29 02:11:54",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbcte.com",
+        "count": "25",
+        "first_seen": "2019-10-28 14:43:47",
+        "last_seen": "2019-10-29 00:44:24",
+        "ip_address": "203.90.247.113",
+        "type": "IPv4"
+    }
+]

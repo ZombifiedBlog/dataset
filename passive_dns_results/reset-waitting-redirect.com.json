@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "reset-waitting-redirect.com",
+        "count": "17",
+        "first_seen": "2019-01-29 10:10:32",
+        "last_seen": "2019-01-29 14:21:59",
+        "ip_address": "151.248.122.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "reset-waitting-redirect.com",
+        "count": "34",
+        "first_seen": "2019-01-30 01:18:39",
+        "last_seen": "2019-02-14 00:12:45",
+        "ip_address": "185.178.45.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "reset-waitting-redirect.com",
+        "count": "3",
+        "first_seen": "2019-01-25 13:09:34",
+        "last_seen": "2019-01-26 17:37:06",
+        "ip_address": "194.58.112.174",
+        "type": "IPv4"
+    }
+]

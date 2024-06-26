@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "frinight.com",
+        "count": "7",
+        "first_seen": "2024-01-14 09:17:44",
+        "last_seen": "2024-01-18 09:11:52",
+        "ip_address": "15.197.210.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "frinight.com",
+        "count": "59",
+        "first_seen": "2022-12-16 21:14:11",
+        "last_seen": "2023-04-27 18:43:34",
+        "ip_address": "27.102.134.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "frinight.com",
+        "count": "14",
+        "first_seen": "2020-07-17 10:53:03",
+        "last_seen": "2020-08-14 20:09:15",
+        "ip_address": "47.74.0.181",
+        "type": "IPv4"
+    },
+    {
+        "domain": "frinight.com",
+        "count": "57",
+        "first_seen": "2020-03-18 08:35:08",
+        "last_seen": "2020-05-31 00:34:41",
+        "ip_address": "91.195.240.126",
+        "type": "IPv4"
+    },
+    {
+        "domain": "frinight.com",
+        "count": "21",
+        "first_seen": "2020-06-04 05:05:26",
+        "last_seen": "2020-07-03 17:05:45",
+        "ip_address": "91.195.241.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "frinight.com",
+        "count": "9",
+        "first_seen": "2017-07-14 00:57:23",
+        "last_seen": "2017-08-05 09:54:26",
+        "ip_address": "103.232.215.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "frinight.com",
+        "count": "229",
+        "first_seen": "2020-09-26 05:06:41",
+        "last_seen": "2022-09-20 15:43:33",
+        "ip_address": "104.236.42.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "frinight.com",
+        "count": "226",
+        "first_seen": "2023-06-30 20:02:33",
+        "last_seen": "2024-01-12 19:12:17",
+        "ip_address": "140.99.219.79",
+        "type": "IPv4"
+    },
+    {
+        "domain": "frinight.com",
+        "count": "11",
+        "first_seen": "2023-07-12 11:29:04",
+        "last_seen": "2023-07-24 21:24:04",
+        "ip_address": "172.252.253.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "frinight.com",
+        "count": "10",
+        "first_seen": "2023-05-03 10:35:44",
+        "last_seen": "2023-05-03 14:35:02",
+        "ip_address": "192.161.176.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "frinight.com",
+        "count": "737",
+        "first_seen": "2011-10-07 16:49:51",
+        "last_seen": "2020-03-13 23:14:25",
+        "ip_address": "203.169.164.18",
+        "type": "IPv4"
+    }
+]

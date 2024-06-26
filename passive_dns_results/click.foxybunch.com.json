@@ -1,0 +1,858 @@
+[
+    {
+        "domain": "click.foxybunch.com",
+        "count": "4",
+        "first_seen": "2023-10-24 22:07:27",
+        "last_seen": "2023-10-25 00:59:58",
+        "ip_address": "3.211.0.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "4",
+        "first_seen": "2023-10-24 22:07:27",
+        "last_seen": "2023-10-25 00:59:58",
+        "ip_address": "35.171.233.179",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "4",
+        "first_seen": "2023-10-24 22:07:27",
+        "last_seen": "2023-10-25 00:59:58",
+        "ip_address": "44.213.185.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1",
+        "first_seen": "2023-10-22 06:07:17",
+        "last_seen": "2023-10-22 06:07:17",
+        "ip_address": "3.211.0.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1",
+        "first_seen": "2023-10-22 06:07:17",
+        "last_seen": "2023-10-22 06:07:17",
+        "ip_address": "35.171.233.179",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1",
+        "first_seen": "2023-10-22 06:07:17",
+        "last_seen": "2023-10-22 06:07:17",
+        "ip_address": "44.217.232.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "3701",
+        "first_seen": "2023-01-02 10:12:50",
+        "last_seen": "2023-02-22 13:26:45",
+        "ip_address": "3.213.33.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "3701",
+        "first_seen": "2023-01-02 10:12:50",
+        "last_seen": "2023-02-22 13:26:45",
+        "ip_address": "34.200.101.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "3701",
+        "first_seen": "2023-01-02 10:12:50",
+        "last_seen": "2023-02-22 13:26:45",
+        "ip_address": "54.236.114.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "153",
+        "first_seen": "2023-02-22 14:11:54",
+        "last_seen": "2023-03-17 01:47:07",
+        "ip_address": "3.213.33.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "153",
+        "first_seen": "2023-02-22 14:11:54",
+        "last_seen": "2023-03-17 01:47:07",
+        "ip_address": "54.196.188.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "153",
+        "first_seen": "2023-02-22 14:11:54",
+        "last_seen": "2023-03-17 01:47:07",
+        "ip_address": "54.236.114.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "12",
+        "first_seen": "2023-08-04 18:10:28",
+        "last_seen": "2023-08-04 18:11:29",
+        "ip_address": "3.214.187.238",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "12",
+        "first_seen": "2023-08-04 18:10:28",
+        "last_seen": "2023-08-04 18:11:29",
+        "ip_address": "52.205.0.139",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "12",
+        "first_seen": "2023-08-04 18:10:28",
+        "last_seen": "2023-08-04 18:11:29",
+        "ip_address": "54.88.39.175",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1",
+        "first_seen": "2023-12-24 15:54:23",
+        "last_seen": "2023-12-24 15:54:23",
+        "ip_address": "3.216.17.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1",
+        "first_seen": "2023-12-24 15:54:23",
+        "last_seen": "2023-12-24 15:54:23",
+        "ip_address": "34.236.86.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1",
+        "first_seen": "2023-12-24 15:54:23",
+        "last_seen": "2023-12-24 15:54:23",
+        "ip_address": "54.161.227.63",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1",
+        "first_seen": "2023-07-29 15:28:01",
+        "last_seen": "2023-07-29 15:28:01",
+        "ip_address": "3.218.253.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1",
+        "first_seen": "2023-07-29 15:28:01",
+        "last_seen": "2023-07-29 15:28:01",
+        "ip_address": "54.88.39.175",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1",
+        "first_seen": "2023-07-29 15:28:01",
+        "last_seen": "2023-07-29 15:28:01",
+        "ip_address": "54.243.140.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "7",
+        "first_seen": "2023-07-11 23:33:23",
+        "last_seen": "2023-07-17 16:04:30",
+        "ip_address": "3.221.63.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "7",
+        "first_seen": "2023-07-11 23:33:23",
+        "last_seen": "2023-07-17 16:04:30",
+        "ip_address": "34.228.122.245",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "7",
+        "first_seen": "2023-07-11 23:33:23",
+        "last_seen": "2023-07-17 16:04:30",
+        "ip_address": "34.231.183.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1",
+        "first_seen": "2023-07-06 14:43:05",
+        "last_seen": "2023-07-06 14:43:05",
+        "ip_address": "3.221.63.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1",
+        "first_seen": "2023-07-06 14:43:05",
+        "last_seen": "2023-07-06 14:43:05",
+        "ip_address": "44.208.216.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1",
+        "first_seen": "2023-07-06 14:43:05",
+        "last_seen": "2023-07-06 14:43:05",
+        "ip_address": "54.146.71.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1",
+        "first_seen": "2023-06-28 02:56:11",
+        "last_seen": "2023-06-28 02:56:11",
+        "ip_address": "3.221.63.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1",
+        "first_seen": "2023-06-28 02:56:11",
+        "last_seen": "2023-06-28 02:56:11",
+        "ip_address": "52.21.190.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1",
+        "first_seen": "2023-06-28 02:56:11",
+        "last_seen": "2023-06-28 02:56:11",
+        "ip_address": "54.146.71.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "4",
+        "first_seen": "2023-08-09 22:01:17",
+        "last_seen": "2023-08-09 22:04:37",
+        "ip_address": "3.223.169.235",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "4",
+        "first_seen": "2023-08-09 22:01:17",
+        "last_seen": "2023-08-09 22:04:37",
+        "ip_address": "34.235.191.41",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "4",
+        "first_seen": "2023-08-09 22:01:17",
+        "last_seen": "2023-08-09 22:04:37",
+        "ip_address": "54.88.39.175",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "4",
+        "first_seen": "2023-08-15 05:06:21",
+        "last_seen": "2023-08-20 12:17:15",
+        "ip_address": "3.223.169.235",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "4",
+        "first_seen": "2023-08-15 05:06:21",
+        "last_seen": "2023-08-20 12:17:15",
+        "ip_address": "34.235.191.41",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "4",
+        "first_seen": "2023-08-15 05:06:21",
+        "last_seen": "2023-08-20 12:17:15",
+        "ip_address": "54.208.89.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "2",
+        "first_seen": "2024-01-02 12:49:02",
+        "last_seen": "2024-01-02 12:49:02",
+        "ip_address": "18.210.125.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "2",
+        "first_seen": "2024-01-02 12:49:02",
+        "last_seen": "2024-01-02 12:49:02",
+        "ip_address": "34.225.142.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "2",
+        "first_seen": "2024-01-02 12:49:02",
+        "last_seen": "2024-01-02 12:49:02",
+        "ip_address": "52.204.206.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1",
+        "first_seen": "2023-04-29 16:55:25",
+        "last_seen": "2023-04-29 16:55:25",
+        "ip_address": "18.213.60.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1",
+        "first_seen": "2023-04-29 16:55:25",
+        "last_seen": "2023-04-29 16:55:25",
+        "ip_address": "18.232.191.42",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1",
+        "first_seen": "2023-04-29 16:55:25",
+        "last_seen": "2023-04-29 16:55:25",
+        "ip_address": "52.7.155.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "8",
+        "first_seen": "2023-04-17 10:50:04",
+        "last_seen": "2023-04-24 21:48:42",
+        "ip_address": "18.213.60.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "8",
+        "first_seen": "2023-04-17 10:50:04",
+        "last_seen": "2023-04-24 21:48:42",
+        "ip_address": "52.7.155.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "8",
+        "first_seen": "2023-04-17 10:50:04",
+        "last_seen": "2023-04-24 21:48:42",
+        "ip_address": "54.161.187.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "11",
+        "first_seen": "2023-11-03 00:22:37",
+        "last_seen": "2023-11-25 04:22:55",
+        "ip_address": "18.214.124.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "11",
+        "first_seen": "2023-11-03 00:22:37",
+        "last_seen": "2023-11-25 04:22:55",
+        "ip_address": "35.168.176.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "11",
+        "first_seen": "2023-11-03 00:22:37",
+        "last_seen": "2023-11-25 04:22:55",
+        "ip_address": "44.214.35.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "2",
+        "first_seen": "2023-07-22 15:17:40",
+        "last_seen": "2023-07-22 15:17:40",
+        "ip_address": "34.228.122.245",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "2",
+        "first_seen": "2023-07-22 15:17:40",
+        "last_seen": "2023-07-22 15:17:40",
+        "ip_address": "34.231.183.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "2",
+        "first_seen": "2023-07-22 15:17:40",
+        "last_seen": "2023-07-22 15:17:40",
+        "ip_address": "34.235.202.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1",
+        "first_seen": "2022-09-28 13:57:09",
+        "last_seen": "2022-09-28 13:57:09",
+        "ip_address": "34.242.35.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "2413",
+        "first_seen": "2022-09-28 14:14:24",
+        "last_seen": "2022-10-22 07:54:11",
+        "ip_address": "34.242.35.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "2413",
+        "first_seen": "2022-09-28 14:14:24",
+        "last_seen": "2022-10-22 07:54:11",
+        "ip_address": "54.76.68.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1026",
+        "first_seen": "2022-09-19 01:59:50",
+        "last_seen": "2022-09-28 13:50:02",
+        "ip_address": "34.242.35.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1026",
+        "first_seen": "2022-09-19 01:59:50",
+        "last_seen": "2022-09-28 13:50:02",
+        "ip_address": "54.77.57.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1987",
+        "first_seen": "2022-06-03 10:40:41",
+        "last_seen": "2022-06-18 18:54:09",
+        "ip_address": "34.249.213.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1987",
+        "first_seen": "2022-06-03 10:40:41",
+        "last_seen": "2022-06-18 18:54:09",
+        "ip_address": "54.194.55.63",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1336",
+        "first_seen": "2022-05-24 16:33:00",
+        "last_seen": "2022-06-03 09:54:01",
+        "ip_address": "34.249.213.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1336",
+        "first_seen": "2022-05-24 16:33:00",
+        "last_seen": "2022-06-03 09:54:01",
+        "ip_address": "63.33.82.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1",
+        "first_seen": "2023-10-04 01:34:40",
+        "last_seen": "2023-10-04 01:34:40",
+        "ip_address": "44.197.9.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1",
+        "first_seen": "2023-10-04 01:34:40",
+        "last_seen": "2023-10-04 01:34:40",
+        "ip_address": "44.217.232.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1",
+        "first_seen": "2023-10-04 01:34:40",
+        "last_seen": "2023-10-04 01:34:40",
+        "ip_address": "107.23.56.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "9",
+        "first_seen": "2023-08-30 14:09:30",
+        "last_seen": "2023-09-20 04:04:11",
+        "ip_address": "44.197.9.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "9",
+        "first_seen": "2023-08-30 14:09:30",
+        "last_seen": "2023-09-20 04:04:11",
+        "ip_address": "52.204.165.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "9",
+        "first_seen": "2023-08-30 14:09:30",
+        "last_seen": "2023-09-20 04:04:11",
+        "ip_address": "54.92.131.135",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "4",
+        "first_seen": "2023-09-30 05:33:31",
+        "last_seen": "2023-09-30 05:33:35",
+        "ip_address": "44.197.9.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "4",
+        "first_seen": "2023-09-30 05:33:31",
+        "last_seen": "2023-09-30 05:33:35",
+        "ip_address": "54.225.38.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "4",
+        "first_seen": "2023-09-30 05:33:31",
+        "last_seen": "2023-09-30 05:33:35",
+        "ip_address": "107.23.56.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "26",
+        "first_seen": "2023-03-19 20:28:55",
+        "last_seen": "2023-04-08 03:18:21",
+        "ip_address": "52.7.155.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "26",
+        "first_seen": "2023-03-19 20:28:55",
+        "last_seen": "2023-04-08 03:18:21",
+        "ip_address": "54.161.187.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "26",
+        "first_seen": "2023-03-19 20:28:55",
+        "last_seen": "2023-04-08 03:18:21",
+        "ip_address": "54.196.188.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "2249",
+        "first_seen": "2022-12-03 16:23:41",
+        "last_seen": "2022-12-27 10:56:22",
+        "ip_address": "52.17.219.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "2249",
+        "first_seen": "2022-12-03 16:23:41",
+        "last_seen": "2022-12-27 10:56:22",
+        "ip_address": "52.215.39.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "713",
+        "first_seen": "2022-11-24 10:08:52",
+        "last_seen": "2022-12-03 15:18:19",
+        "ip_address": "52.17.219.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "713",
+        "first_seen": "2022-11-24 10:08:52",
+        "last_seen": "2022-12-03 15:18:19",
+        "ip_address": "54.77.206.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "7",
+        "first_seen": "2023-05-24 14:18:15",
+        "last_seen": "2023-06-01 23:59:16",
+        "ip_address": "52.21.190.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "7",
+        "first_seen": "2023-05-24 14:18:15",
+        "last_seen": "2023-06-01 23:59:16",
+        "ip_address": "52.204.50.227",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "7",
+        "first_seen": "2023-05-24 14:18:15",
+        "last_seen": "2023-06-01 23:59:16",
+        "ip_address": "54.159.219.235",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "6",
+        "first_seen": "2023-06-05 05:01:36",
+        "last_seen": "2023-06-09 08:03:52",
+        "ip_address": "52.21.190.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "6",
+        "first_seen": "2023-06-05 05:01:36",
+        "last_seen": "2023-06-09 08:03:52",
+        "ip_address": "54.146.71.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "6",
+        "first_seen": "2023-06-05 05:01:36",
+        "last_seen": "2023-06-09 08:03:52",
+        "ip_address": "54.159.219.235",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1201",
+        "first_seen": "2022-03-23 17:24:27",
+        "last_seen": "2022-03-31 17:03:43",
+        "ip_address": "52.31.15.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1201",
+        "first_seen": "2022-03-23 17:24:27",
+        "last_seen": "2022-03-31 17:03:43",
+        "ip_address": "52.212.129.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "7218",
+        "first_seen": "2022-01-26 09:32:14",
+        "last_seen": "2022-02-28 00:10:02",
+        "ip_address": "52.31.15.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "7218",
+        "first_seen": "2022-01-26 09:32:14",
+        "last_seen": "2022-02-28 00:10:02",
+        "ip_address": "54.73.79.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "4031",
+        "first_seen": "2022-02-28 00:44:43",
+        "last_seen": "2022-03-23 16:53:01",
+        "ip_address": "52.31.15.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "4031",
+        "first_seen": "2022-02-28 00:44:43",
+        "last_seen": "2022-03-23 16:53:01",
+        "ip_address": "54.76.250.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "2147",
+        "first_seen": "2022-08-28 13:37:44",
+        "last_seen": "2022-09-19 01:19:42",
+        "ip_address": "52.51.96.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "2147",
+        "first_seen": "2022-08-28 13:37:44",
+        "last_seen": "2022-09-19 01:19:42",
+        "ip_address": "54.77.57.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1196",
+        "first_seen": "2022-08-17 01:54:10",
+        "last_seen": "2022-08-28 12:21:21",
+        "ip_address": "52.51.96.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1196",
+        "first_seen": "2022-08-17 01:54:10",
+        "last_seen": "2022-08-28 12:21:21",
+        "ip_address": "54.194.55.63",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "585",
+        "first_seen": "2022-12-27 11:28:43",
+        "last_seen": "2023-01-02 09:56:15",
+        "ip_address": "52.209.239.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "585",
+        "first_seen": "2022-12-27 11:28:43",
+        "last_seen": "2023-01-02 09:56:15",
+        "ip_address": "52.215.39.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "2841",
+        "first_seen": "2022-03-31 17:59:50",
+        "last_seen": "2022-04-18 12:03:46",
+        "ip_address": "52.213.180.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "2841",
+        "first_seen": "2022-03-31 17:59:50",
+        "last_seen": "2022-04-18 12:03:46",
+        "ip_address": "63.32.11.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "6957",
+        "first_seen": "2022-06-18 19:08:08",
+        "last_seen": "2022-08-17 01:14:23",
+        "ip_address": "54.74.73.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "6957",
+        "first_seen": "2022-06-18 19:08:08",
+        "last_seen": "2022-08-17 01:14:23",
+        "ip_address": "54.194.55.63",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "891",
+        "first_seen": "2022-10-22 09:44:24",
+        "last_seen": "2022-10-31 14:59:07",
+        "ip_address": "54.75.81.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "891",
+        "first_seen": "2022-10-22 09:44:24",
+        "last_seen": "2022-10-31 14:59:07",
+        "ip_address": "54.76.68.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1899",
+        "first_seen": "2022-10-31 15:28:22",
+        "last_seen": "2022-11-24 10:06:41",
+        "ip_address": "54.75.81.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1899",
+        "first_seen": "2022-10-31 15:28:22",
+        "last_seen": "2022-11-24 10:06:41",
+        "ip_address": "54.77.206.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "2",
+        "first_seen": "2022-10-23 11:29:01",
+        "last_seen": "2022-10-23 11:29:01",
+        "ip_address": "54.76.68.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "3100",
+        "first_seen": "2022-04-28 21:25:49",
+        "last_seen": "2022-05-24 16:23:46",
+        "ip_address": "54.170.216.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "3100",
+        "first_seen": "2022-04-28 21:25:49",
+        "last_seen": "2022-05-24 16:23:46",
+        "ip_address": "63.33.82.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1440",
+        "first_seen": "2022-04-18 12:45:37",
+        "last_seen": "2022-04-28 21:19:03",
+        "ip_address": "63.32.11.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "click.foxybunch.com",
+        "count": "1440",
+        "first_seen": "2022-04-18 12:45:37",
+        "last_seen": "2022-04-28 21:19:03",
+        "ip_address": "63.33.82.240",
+        "type": "IPv4"
+    }
+]

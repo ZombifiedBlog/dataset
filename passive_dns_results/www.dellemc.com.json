@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "www.dellemc.com",
+        "count": "572",
+        "first_seen": "2018-04-19 22:03:43",
+        "last_seen": "2018-10-23 03:53:32",
+        "ip_address": "10.250.21.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dellemc.com",
+        "count": "6",
+        "first_seen": "2015-02-27 06:45:09",
+        "last_seen": "2015-06-05 17:27:49",
+        "ip_address": "217.19.248.132",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.z.myjesab.com",
+        "count": "55",
+        "first_seen": "2022-01-12 19:13:05",
+        "last_seen": "2022-01-13 16:38:25",
+        "ip_address": "172.245.94.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.z.myjesab.com",
+        "count": "1",
+        "first_seen": "2023-01-12 19:52:33",
+        "last_seen": "2023-01-12 19:52:33",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.z.myjesab.com",
+        "count": "10",
+        "first_seen": "2023-01-12 19:52:32",
+        "last_seen": "2023-01-12 19:56:03",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

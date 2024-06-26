@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "information.zignpyx.cn",
+        "count": "5",
+        "first_seen": "2020-08-06 05:47:56",
+        "last_seen": "2020-08-06 06:45:06",
+        "ip_address": "104.18.58.186",
+        "type": "IPv4"
+    },
+    {
+        "domain": "information.zignpyx.cn",
+        "count": "5",
+        "first_seen": "2020-08-06 05:47:56",
+        "last_seen": "2020-08-06 06:45:06",
+        "ip_address": "104.18.59.186",
+        "type": "IPv4"
+    },
+    {
+        "domain": "information.zignpyx.cn",
+        "count": "5",
+        "first_seen": "2020-08-06 05:47:56",
+        "last_seen": "2020-08-06 06:45:06",
+        "ip_address": "172.67.177.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "information.zignpyx.cn",
+        "count": "2",
+        "first_seen": "2020-08-06 05:47:56",
+        "last_seen": "2020-08-06 05:47:56",
+        "ip_address": "2606:4700:3031::6812:3aba",
+        "type": "IPv6"
+    },
+    {
+        "domain": "information.zignpyx.cn",
+        "count": "2",
+        "first_seen": "2020-08-06 05:47:56",
+        "last_seen": "2020-08-06 05:47:56",
+        "ip_address": "2606:4700:3032::6812:3bba",
+        "type": "IPv6"
+    },
+    {
+        "domain": "information.zignpyx.cn",
+        "count": "2",
+        "first_seen": "2020-08-06 05:47:56",
+        "last_seen": "2020-08-06 05:47:56",
+        "ip_address": "2606:4700:3035::ac43:b198",
+        "type": "IPv6"
+    }
+]

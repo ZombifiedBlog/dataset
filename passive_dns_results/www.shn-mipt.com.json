@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.shn-mipt.com",
+        "count": "1",
+        "first_seen": "2022-12-27 18:15:05",
+        "last_seen": "2022-12-27 18:15:05",
+        "ip_address": "23.82.73.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shn-mipt.com",
+        "count": "34272",
+        "first_seen": "2023-07-09 17:24:45",
+        "last_seen": "2024-01-18 15:20:51",
+        "ip_address": "38.48.229.158",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shn-mipt.com",
+        "count": "659",
+        "first_seen": "2023-02-18 13:01:32",
+        "last_seen": "2023-04-01 08:26:15",
+        "ip_address": "52.213.114.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shn-mipt.com",
+        "count": "13945",
+        "first_seen": "2023-05-21 18:30:52",
+        "last_seen": "2023-07-09 16:56:08",
+        "ip_address": "107.149.100.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shn-mipt.com",
+        "count": "872",
+        "first_seen": "2023-01-17 12:10:39",
+        "last_seen": "2023-02-18 08:27:41",
+        "ip_address": "107.150.5.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shn-mipt.com",
+        "count": "3",
+        "first_seen": "2022-08-29 01:53:21",
+        "last_seen": "2022-08-29 01:53:22",
+        "ip_address": "142.91.241.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shn-mipt.com",
+        "count": "15",
+        "first_seen": "2016-03-31 22:52:48",
+        "last_seen": "2016-07-25 22:22:12",
+        "ip_address": "185.82.210.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shn-mipt.com",
+        "count": "2",
+        "first_seen": "2023-03-26 04:21:44",
+        "last_seen": "2023-03-26 08:08:17",
+        "ip_address": "52.213.114.86",
+        "type": "IPv4"
+    }
+]

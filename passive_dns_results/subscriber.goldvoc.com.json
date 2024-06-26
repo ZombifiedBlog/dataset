@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.goldvoc.com",
+        "count": "3",
+        "first_seen": "2022-11-16 11:53:06",
+        "last_seen": "2022-11-27 05:09:10",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.goldvoc.com",
+        "count": "4243",
+        "first_seen": "2022-08-23 14:27:00",
+        "last_seen": "2022-10-22 19:05:33",
+        "ip_address": "104.21.90.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.goldvoc.com",
+        "count": "4243",
+        "first_seen": "2022-08-23 14:27:00",
+        "last_seen": "2022-10-22 19:05:33",
+        "ip_address": "172.67.161.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.goldvoc.com",
+        "count": "149",
+        "first_seen": "2022-08-23 22:31:36",
+        "last_seen": "2022-10-18 05:23:14",
+        "ip_address": "2606:4700:3030::6815:5ad5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.goldvoc.com",
+        "count": "149",
+        "first_seen": "2022-08-23 22:31:36",
+        "last_seen": "2022-10-18 05:23:14",
+        "ip_address": "2606:4700:3031::ac43:a16b",
+        "type": "IPv6"
+    }
+]

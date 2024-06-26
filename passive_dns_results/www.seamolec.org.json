@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.seamolec.org",
+        "count": "2",
+        "first_seen": "2019-05-20 23:08:46",
+        "last_seen": "2019-05-20 23:08:46",
+        "ip_address": "114.4.109.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.seamolec.org",
+        "count": "1",
+        "first_seen": "2011-12-13 05:04:03",
+        "last_seen": "2011-12-13 05:04:03",
+        "ip_address": "116.90.167.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.seamolec.org",
+        "count": "178",
+        "first_seen": "2012-02-11 01:42:42",
+        "last_seen": "2012-08-22 01:51:40",
+        "ip_address": "118.98.222.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.seamolec.org",
+        "count": "141",
+        "first_seen": "2011-09-29 12:38:50",
+        "last_seen": "2012-02-08 08:30:34",
+        "ip_address": "118.98.222.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.seamolec.org",
+        "count": "493",
+        "first_seen": "2016-01-12 20:00:59",
+        "last_seen": "2016-05-02 16:22:35",
+        "ip_address": "180.240.134.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.seamolec.org",
+        "count": "4511",
+        "first_seen": "2010-07-19 00:04:03",
+        "last_seen": "2012-03-30 04:10:40",
+        "ip_address": "202.134.4.156",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.seamolec.org",
+        "count": "987",
+        "first_seen": "2012-08-28 21:43:10",
+        "last_seen": "2015-01-30 07:49:36",
+        "ip_address": "216.185.114.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.seamolec.org",
+        "count": "682",
+        "first_seen": "2015-02-01 10:04:31",
+        "last_seen": "2016-01-12 03:44:35",
+        "ip_address": "216.185.114.141",
+        "type": "IPv4"
+    }
+]

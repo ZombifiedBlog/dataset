@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "mallenion.com",
+        "count": "1610",
+        "first_seen": "2023-03-16 07:14:11",
+        "last_seen": "2023-11-07 10:40:32",
+        "ip_address": "51.38.157.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mallenion.com",
+        "count": "30",
+        "first_seen": "2022-11-18 05:19:15",
+        "last_seen": "2023-03-12 19:17:43",
+        "ip_address": "139.28.24.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mallenion.com",
+        "count": "41",
+        "first_seen": "2023-11-10 08:33:48",
+        "last_seen": "2023-12-17 14:06:46",
+        "ip_address": "172.234.25.151",
+        "type": "IPv4"
+    }
+]

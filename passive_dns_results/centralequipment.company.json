@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "centralequipment.company",
+        "count": "100",
+        "first_seen": "2019-01-28 15:22:35",
+        "last_seen": "2019-01-29 09:46:17",
+        "ip_address": "47.52.240.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "centralequipment.company",
+        "count": "911",
+        "first_seen": "2019-06-01 16:53:44",
+        "last_seen": "2024-01-17 08:54:20",
+        "ip_address": "104.27.146.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "centralequipment.company",
+        "count": "216",
+        "first_seen": "2016-03-29 11:29:48",
+        "last_seen": "2019-01-26 18:38:35",
+        "ip_address": "184.168.221.59",
+        "type": "IPv4"
+    }
+]

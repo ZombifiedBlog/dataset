@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "www.wnaksbeta.com",
+        "count": "7",
+        "first_seen": "2018-10-15 09:44:24",
+        "last_seen": "2018-10-15 09:44:25",
+        "ip_address": "104.27.186.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wnaksbeta.com",
+        "count": "7",
+        "first_seen": "2018-10-15 09:44:24",
+        "last_seen": "2018-10-15 09:44:25",
+        "ip_address": "104.27.187.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wnaksbeta.com",
+        "count": "388",
+        "first_seen": "2018-11-16 02:24:07",
+        "last_seen": "2019-10-11 03:40:40",
+        "ip_address": "104.28.2.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wnaksbeta.com",
+        "count": "388",
+        "first_seen": "2018-11-16 02:24:07",
+        "last_seen": "2019-10-11 03:40:40",
+        "ip_address": "104.28.3.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wnaksbeta.com",
+        "count": "2",
+        "first_seen": "2019-11-01 13:54:19",
+        "last_seen": "2019-11-01 13:54:19",
+        "ip_address": "209.99.40.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wnaksbeta.com",
+        "count": "2",
+        "first_seen": "2018-10-15 09:44:24",
+        "last_seen": "2018-10-15 09:44:24",
+        "ip_address": "2606:4700:30::681b:bac5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.wnaksbeta.com",
+        "count": "2",
+        "first_seen": "2018-10-15 09:44:24",
+        "last_seen": "2018-10-15 09:44:24",
+        "ip_address": "2606:4700:30::681b:bbc5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.wnaksbeta.com",
+        "count": "187",
+        "first_seen": "2018-11-16 02:24:07",
+        "last_seen": "2019-10-11 00:40:41",
+        "ip_address": "2606:4700:30::681c:2c5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.wnaksbeta.com",
+        "count": "187",
+        "first_seen": "2018-11-16 02:24:07",
+        "last_seen": "2019-10-11 00:40:41",
+        "ip_address": "2606:4700:30::681c:3c5",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www-biccamera-com.fuyun120.com",
+        "count": "59",
+        "first_seen": "2023-02-02 14:51:50",
+        "last_seen": "2023-02-07 16:56:51",
+        "ip_address": "104.21.17.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-biccamera-com.fuyun120.com",
+        "count": "59",
+        "first_seen": "2023-02-02 14:51:50",
+        "last_seen": "2023-02-07 16:56:51",
+        "ip_address": "172.67.175.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-biccamera-com.fuyun120.com",
+        "count": "2",
+        "first_seen": "2023-02-03 02:22:09",
+        "last_seen": "2023-02-03 02:22:09",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-biccamera-com.fuyun120.com",
+        "count": "2",
+        "first_seen": "2023-02-03 02:22:09",
+        "last_seen": "2023-02-03 02:22:09",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-biccamera-com.fuyun120.com",
+        "count": "11",
+        "first_seen": "2023-02-02 14:15:27",
+        "last_seen": "2023-02-02 21:04:38",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-biccamera-com.fuyun120.com",
+        "count": "11",
+        "first_seen": "2023-02-02 14:15:27",
+        "last_seen": "2023-02-02 21:04:38",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-biccamera-com.fuyun120.com",
+        "count": "1",
+        "first_seen": "2023-02-02 14:15:28",
+        "last_seen": "2023-02-02 14:15:28",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-biccamera-com.fuyun120.com",
+        "count": "1",
+        "first_seen": "2023-02-02 14:15:28",
+        "last_seen": "2023-02-02 14:15:28",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

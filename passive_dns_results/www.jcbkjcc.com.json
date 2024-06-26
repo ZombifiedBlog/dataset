@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.jcbkjcc.com",
+        "count": "33",
+        "first_seen": "2020-11-13 04:47:15",
+        "last_seen": "2020-11-15 02:23:17",
+        "ip_address": "104.24.116.42",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jcbkjcc.com",
+        "count": "33",
+        "first_seen": "2020-11-13 04:47:15",
+        "last_seen": "2020-11-15 02:23:17",
+        "ip_address": "104.24.117.42",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jcbkjcc.com",
+        "count": "33",
+        "first_seen": "2020-11-13 04:47:15",
+        "last_seen": "2020-11-15 02:23:17",
+        "ip_address": "172.67.213.95",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jcbkjcc.com",
+        "count": "4",
+        "first_seen": "2020-11-13 04:46:45",
+        "last_seen": "2020-11-14 16:18:22",
+        "ip_address": "2606:4700:3031::6818:752a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.jcbkjcc.com",
+        "count": "4",
+        "first_seen": "2020-11-13 04:46:45",
+        "last_seen": "2020-11-14 16:18:22",
+        "ip_address": "2606:4700:3035::ac43:d55f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.jcbkjcc.com",
+        "count": "4",
+        "first_seen": "2020-11-13 04:46:45",
+        "last_seen": "2020-11-14 16:18:22",
+        "ip_address": "2606:4700:3037::6818:742a",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "etc.tips",
+        "count": "24",
+        "first_seen": "2023-09-22 12:01:38",
+        "last_seen": "2023-10-06 03:24:30",
+        "ip_address": "3.33.130.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.tips",
+        "count": "24",
+        "first_seen": "2023-09-22 12:01:38",
+        "last_seen": "2023-10-06 03:24:30",
+        "ip_address": "15.197.148.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.tips",
+        "count": "51",
+        "first_seen": "2023-10-07 05:05:19",
+        "last_seen": "2023-11-12 03:07:58",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.tips",
+        "count": "502",
+        "first_seen": "2022-10-03 00:32:12",
+        "last_seen": "2023-09-19 21:31:07",
+        "ip_address": "34.102.136.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.tips",
+        "count": "128",
+        "first_seen": "2018-04-03 10:41:04",
+        "last_seen": "2019-04-04 03:56:46",
+        "ip_address": "69.172.201.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.tips",
+        "count": "1",
+        "first_seen": "2014-04-23 19:18:32",
+        "last_seen": "2014-04-23 19:18:32",
+        "ip_address": "89.31.143.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.tips",
+        "count": "3",
+        "first_seen": "2014-10-12 19:16:34",
+        "last_seen": "2014-10-12 19:16:35",
+        "ip_address": "89.31.143.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.tips",
+        "count": "73",
+        "first_seen": "2022-05-18 07:45:11",
+        "last_seen": "2022-05-18 20:16:11",
+        "ip_address": "104.21.18.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.tips",
+        "count": "73",
+        "first_seen": "2022-05-18 07:45:11",
+        "last_seen": "2022-05-18 20:16:11",
+        "ip_address": "172.67.179.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.tips",
+        "count": "17",
+        "first_seen": "2019-04-08 19:30:12",
+        "last_seen": "2019-05-12 00:37:58",
+        "ip_address": "199.184.144.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.tips",
+        "count": "2",
+        "first_seen": "2022-05-18 07:48:08",
+        "last_seen": "2022-05-18 11:50:20",
+        "ip_address": "2606:4700:3031::6815:120c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "etc.tips",
+        "count": "2",
+        "first_seen": "2022-05-18 07:48:08",
+        "last_seen": "2022-05-18 11:50:20",
+        "ip_address": "2606:4700:3037::ac43:b328",
+        "type": "IPv6"
+    }
+]

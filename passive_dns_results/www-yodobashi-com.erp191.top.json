@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www-yodobashi-com.erp191.top",
+        "count": "126",
+        "first_seen": "2021-08-24 16:25:52",
+        "last_seen": "2021-08-26 01:09:03",
+        "ip_address": "104.21.70.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-yodobashi-com.erp191.top",
+        "count": "126",
+        "first_seen": "2021-08-24 16:25:52",
+        "last_seen": "2021-08-26 01:09:03",
+        "ip_address": "172.67.218.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-yodobashi-com.erp191.top",
+        "count": "7",
+        "first_seen": "2021-11-17 00:31:19",
+        "last_seen": "2021-11-25 05:23:49",
+        "ip_address": "128.14.142.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-yodobashi-com.erp191.top",
+        "count": "45",
+        "first_seen": "2021-08-24 16:25:56",
+        "last_seen": "2021-08-26 01:03:51",
+        "ip_address": "2606:4700:3031::6815:4621",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-yodobashi-com.erp191.top",
+        "count": "45",
+        "first_seen": "2021-08-24 16:25:56",
+        "last_seen": "2021-08-26 01:03:51",
+        "ip_address": "2606:4700:3037::ac43:dad2",
+        "type": "IPv6"
+    }
+]

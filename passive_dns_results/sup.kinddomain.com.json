@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "sup.kinddomain.com",
+        "count": "71",
+        "first_seen": "2022-12-24 16:38:39",
+        "last_seen": "2023-01-05 02:06:35",
+        "ip_address": "34.85.101.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sup.kinddomain.com",
+        "count": "1",
+        "first_seen": "2023-01-14 10:20:21",
+        "last_seen": "2023-01-14 10:20:21",
+        "ip_address": "103.120.80.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sup.kinddomain.com",
+        "count": "1",
+        "first_seen": "2023-01-14 10:20:21",
+        "last_seen": "2023-01-14 10:20:21",
+        "ip_address": "103.139.0.32",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "trifolie.net",
+        "count": "2288",
+        "first_seen": "2015-10-30 04:55:13",
+        "last_seen": "2020-08-09 13:05:04",
+        "ip_address": "157.7.107.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "trifolie.net",
+        "count": "506",
+        "first_seen": "2022-05-30 20:01:33",
+        "last_seen": "2024-01-18 04:28:29",
+        "ip_address": "163.44.185.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "trifolie.net",
+        "count": "825",
+        "first_seen": "2020-08-10 17:38:50",
+        "last_seen": "2022-05-26 18:23:32",
+        "ip_address": "163.44.185.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "trifolie.net",
+        "count": "1191",
+        "first_seen": "2011-09-20 00:05:30",
+        "last_seen": "2015-10-07 20:37:21",
+        "ip_address": "203.189.109.143",
+        "type": "IPv4"
+    },
+    {
+        "domain": "trifolie.net",
+        "count": "5",
+        "first_seen": "2010-09-07 18:40:34",
+        "last_seen": "2011-05-09 02:31:11",
+        "ip_address": "219.94.194.71",
+        "type": "IPv4"
+    }
+]

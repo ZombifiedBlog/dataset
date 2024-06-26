@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.90offbags.com",
+        "count": "50141",
+        "first_seen": "2022-04-08 00:43:45",
+        "last_seen": "2022-08-27 07:44:52",
+        "ip_address": "104.21.24.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.90offbags.com",
+        "count": "50141",
+        "first_seen": "2022-04-08 00:43:45",
+        "last_seen": "2022-08-27 07:44:52",
+        "ip_address": "172.67.216.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.90offbags.com",
+        "count": "1",
+        "first_seen": "2022-06-06 13:59:05",
+        "last_seen": "2022-06-06 13:59:05",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.90offbags.com",
+        "count": "1",
+        "first_seen": "2022-04-08 00:43:03",
+        "last_seen": "2022-04-08 00:43:03",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.90offbags.com",
+        "count": "2452",
+        "first_seen": "2022-04-08 01:00:05",
+        "last_seen": "2022-08-27 05:40:06",
+        "ip_address": "2606:4700:3030::6815:1811",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.90offbags.com",
+        "count": "2452",
+        "first_seen": "2022-04-08 01:00:05",
+        "last_seen": "2022-08-27 05:40:06",
+        "ip_address": "2606:4700:3035::ac43:d84b",
+        "type": "IPv6"
+    }
+]

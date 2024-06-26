@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "grp01-id.bkrkh52.top",
+        "count": "5",
+        "first_seen": "2020-09-10 08:40:56",
+        "last_seen": "2020-09-10 11:05:07",
+        "ip_address": "104.27.172.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grp01-id.bkrkh52.top",
+        "count": "5",
+        "first_seen": "2020-09-10 08:40:56",
+        "last_seen": "2020-09-10 11:05:07",
+        "ip_address": "104.27.173.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grp01-id.bkrkh52.top",
+        "count": "5",
+        "first_seen": "2020-09-10 08:40:56",
+        "last_seen": "2020-09-10 11:05:07",
+        "ip_address": "172.67.173.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grp01-id.bkrkh52.top",
+        "count": "2",
+        "first_seen": "2020-09-10 08:40:57",
+        "last_seen": "2020-09-10 08:40:57",
+        "ip_address": "2606:4700:3032::681b:acc7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "grp01-id.bkrkh52.top",
+        "count": "2",
+        "first_seen": "2020-09-10 08:40:57",
+        "last_seen": "2020-09-10 08:40:57",
+        "ip_address": "2606:4700:3033::ac43:ad07",
+        "type": "IPv6"
+    },
+    {
+        "domain": "grp01-id.bkrkh52.top",
+        "count": "2",
+        "first_seen": "2020-09-10 08:40:57",
+        "last_seen": "2020-09-10 08:40:57",
+        "ip_address": "2606:4700:3034::681b:adc7",
+        "type": "IPv6"
+    }
+]

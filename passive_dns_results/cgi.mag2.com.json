@@ -1,0 +1,994 @@
+[
+    {
+        "domain": "cgi.mag2.com",
+        "count": "57",
+        "first_seen": "2023-01-11 15:59:09",
+        "last_seen": "2023-01-24 22:17:42",
+        "ip_address": "3.113.64.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "57",
+        "first_seen": "2023-01-11 15:59:09",
+        "last_seen": "2023-01-24 22:17:42",
+        "ip_address": "52.68.160.135",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "104",
+        "first_seen": "2023-12-27 09:14:52",
+        "last_seen": "2024-01-04 16:14:42",
+        "ip_address": "3.113.138.161",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "104",
+        "first_seen": "2023-12-27 09:14:52",
+        "last_seen": "2024-01-04 16:14:42",
+        "ip_address": "52.192.79.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "160",
+        "first_seen": "2020-09-13 11:59:05",
+        "last_seen": "2021-11-08 06:51:17",
+        "ip_address": "3.113.141.182",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "160",
+        "first_seen": "2020-09-13 11:59:05",
+        "last_seen": "2021-11-08 06:51:17",
+        "ip_address": "52.68.237.244",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "2",
+        "first_seen": "2021-12-18 03:13:31",
+        "last_seen": "2021-12-18 03:35:47",
+        "ip_address": "3.113.141.182",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "2",
+        "first_seen": "2021-12-18 03:13:31",
+        "last_seen": "2021-12-18 03:35:47",
+        "ip_address": "52.197.18.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "149",
+        "first_seen": "2021-11-12 01:15:18",
+        "last_seen": "2021-12-14 00:30:32",
+        "ip_address": "3.113.141.182",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "149",
+        "first_seen": "2021-11-12 01:15:18",
+        "last_seen": "2021-12-14 00:30:32",
+        "ip_address": "54.150.65.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "43",
+        "first_seen": "2022-12-17 19:44:45",
+        "last_seen": "2023-01-02 13:27:59",
+        "ip_address": "3.113.174.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "43",
+        "first_seen": "2022-12-17 19:44:45",
+        "last_seen": "2023-01-02 13:27:59",
+        "ip_address": "52.68.160.135",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "1",
+        "first_seen": "2022-11-30 20:51:57",
+        "last_seen": "2022-11-30 20:51:57",
+        "ip_address": "3.113.174.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "1",
+        "first_seen": "2022-11-30 20:51:57",
+        "last_seen": "2022-11-30 20:51:57",
+        "ip_address": "52.197.199.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "36",
+        "first_seen": "2023-07-18 10:40:31",
+        "last_seen": "2023-07-18 15:53:45",
+        "ip_address": "3.113.235.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "36",
+        "first_seen": "2023-07-18 10:40:31",
+        "last_seen": "2023-07-18 15:53:45",
+        "ip_address": "3.114.253.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "271",
+        "first_seen": "2023-07-19 22:32:36",
+        "last_seen": "2023-07-31 03:16:14",
+        "ip_address": "3.113.235.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "271",
+        "first_seen": "2023-07-19 22:32:36",
+        "last_seen": "2023-07-31 03:16:14",
+        "ip_address": "54.92.91.95",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "14",
+        "first_seen": "2022-02-01 21:14:42",
+        "last_seen": "2022-02-15 01:58:26",
+        "ip_address": "3.114.68.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "14",
+        "first_seen": "2022-02-01 21:14:42",
+        "last_seen": "2022-02-15 01:58:26",
+        "ip_address": "52.196.194.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "469",
+        "first_seen": "2022-02-18 01:58:52",
+        "last_seen": "2022-03-31 01:12:12",
+        "ip_address": "3.114.68.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "469",
+        "first_seen": "2022-02-18 01:58:52",
+        "last_seen": "2022-03-31 01:12:12",
+        "ip_address": "54.168.146.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "577",
+        "first_seen": "2023-07-10 23:41:59",
+        "last_seen": "2023-07-18 10:26:31",
+        "ip_address": "3.114.253.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "577",
+        "first_seen": "2023-07-10 23:41:59",
+        "last_seen": "2023-07-18 10:26:31",
+        "ip_address": "3.115.100.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "118",
+        "first_seen": "2023-06-21 12:50:59",
+        "last_seen": "2023-06-26 14:39:15",
+        "ip_address": "3.114.253.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "118",
+        "first_seen": "2023-06-21 12:50:59",
+        "last_seen": "2023-06-26 14:39:15",
+        "ip_address": "52.199.29.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "132",
+        "first_seen": "2023-03-18 02:27:10",
+        "last_seen": "2023-03-26 13:13:33",
+        "ip_address": "13.114.133.167",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "132",
+        "first_seen": "2023-03-18 02:27:10",
+        "last_seen": "2023-03-26 13:13:33",
+        "ip_address": "35.73.25.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "32",
+        "first_seen": "2023-04-15 14:59:18",
+        "last_seen": "2023-04-22 02:46:36",
+        "ip_address": "13.114.133.167",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "32",
+        "first_seen": "2023-04-15 14:59:18",
+        "last_seen": "2023-04-22 02:46:36",
+        "ip_address": "54.92.23.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "181",
+        "first_seen": "2023-05-29 04:35:36",
+        "last_seen": "2023-06-03 06:14:42",
+        "ip_address": "13.230.140.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "181",
+        "first_seen": "2023-05-29 04:35:36",
+        "last_seen": "2023-06-03 06:14:42",
+        "ip_address": "52.196.134.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "3",
+        "first_seen": "2022-09-16 20:04:50",
+        "last_seen": "2022-09-20 02:38:36",
+        "ip_address": "18.176.121.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "3",
+        "first_seen": "2022-09-16 20:04:50",
+        "last_seen": "2022-09-20 02:38:36",
+        "ip_address": "54.199.169.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "11",
+        "first_seen": "2023-11-13 22:08:17",
+        "last_seen": "2023-11-21 05:25:35",
+        "ip_address": "18.176.228.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "11",
+        "first_seen": "2023-11-13 22:08:17",
+        "last_seen": "2023-11-21 05:25:35",
+        "ip_address": "35.79.10.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "46",
+        "first_seen": "2023-08-03 14:02:42",
+        "last_seen": "2023-08-17 14:44:03",
+        "ip_address": "18.176.243.235",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "46",
+        "first_seen": "2023-08-03 14:02:42",
+        "last_seen": "2023-08-17 14:44:03",
+        "ip_address": "35.74.225.238",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "19",
+        "first_seen": "2022-06-09 20:12:41",
+        "last_seen": "2022-06-18 07:13:53",
+        "ip_address": "18.177.249.169",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "19",
+        "first_seen": "2022-06-09 20:12:41",
+        "last_seen": "2022-06-18 07:13:53",
+        "ip_address": "52.194.117.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "4",
+        "first_seen": "2022-11-23 23:45:15",
+        "last_seen": "2022-11-25 03:49:10",
+        "ip_address": "18.178.153.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "4",
+        "first_seen": "2022-11-23 23:45:15",
+        "last_seen": "2022-11-25 03:49:10",
+        "ip_address": "52.197.199.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "10",
+        "first_seen": "2022-10-29 12:43:15",
+        "last_seen": "2022-11-09 15:14:26",
+        "ip_address": "18.178.153.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "10",
+        "first_seen": "2022-10-29 12:43:15",
+        "last_seen": "2022-11-09 15:14:26",
+        "ip_address": "54.168.184.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "4",
+        "first_seen": "2023-02-12 03:41:09",
+        "last_seen": "2023-02-20 14:04:36",
+        "ip_address": "18.179.236.142",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "4",
+        "first_seen": "2023-02-12 03:41:09",
+        "last_seen": "2023-02-20 14:04:36",
+        "ip_address": "18.180.23.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "3",
+        "first_seen": "2023-02-01 12:07:04",
+        "last_seen": "2023-02-03 08:08:41",
+        "ip_address": "18.179.236.142",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "3",
+        "first_seen": "2023-02-01 12:07:04",
+        "last_seen": "2023-02-03 08:08:41",
+        "ip_address": "52.198.33.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "2",
+        "first_seen": "2023-03-03 07:49:52",
+        "last_seen": "2023-03-10 08:38:09",
+        "ip_address": "18.180.23.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "2",
+        "first_seen": "2023-03-03 07:49:52",
+        "last_seen": "2023-03-10 08:38:09",
+        "ip_address": "35.73.25.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "575",
+        "first_seen": "2022-04-16 22:39:46",
+        "last_seen": "2022-05-02 06:32:09",
+        "ip_address": "18.180.198.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "575",
+        "first_seen": "2022-04-16 22:39:46",
+        "last_seen": "2022-05-02 06:32:09",
+        "ip_address": "52.197.75.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "9",
+        "first_seen": "2022-05-03 03:12:40",
+        "last_seen": "2022-05-04 00:16:46",
+        "ip_address": "18.180.198.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "9",
+        "first_seen": "2022-05-03 03:12:40",
+        "last_seen": "2022-05-04 00:16:46",
+        "ip_address": "52.197.187.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "1256",
+        "first_seen": "2022-04-02 02:23:34",
+        "last_seen": "2022-04-12 20:04:32",
+        "ip_address": "18.180.198.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "1256",
+        "first_seen": "2022-04-02 02:23:34",
+        "last_seen": "2022-04-12 20:04:32",
+        "ip_address": "54.168.146.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "4",
+        "first_seen": "2022-10-19 04:57:48",
+        "last_seen": "2022-10-24 10:01:01",
+        "ip_address": "18.180.235.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "4",
+        "first_seen": "2022-10-19 04:57:48",
+        "last_seen": "2022-10-24 10:01:01",
+        "ip_address": "54.168.184.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "7",
+        "first_seen": "2022-09-29 15:02:11",
+        "last_seen": "2022-10-18 02:17:09",
+        "ip_address": "18.180.235.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "7",
+        "first_seen": "2022-09-29 15:02:11",
+        "last_seen": "2022-10-18 02:17:09",
+        "ip_address": "54.199.169.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "8",
+        "first_seen": "2022-07-27 23:20:46",
+        "last_seen": "2022-08-09 14:37:02",
+        "ip_address": "18.181.89.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "8",
+        "first_seen": "2022-07-27 23:20:46",
+        "last_seen": "2022-08-09 14:37:02",
+        "ip_address": "52.193.111.231",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "6",
+        "first_seen": "2022-06-29 16:08:51",
+        "last_seen": "2022-07-16 22:25:35",
+        "ip_address": "18.181.89.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "6",
+        "first_seen": "2022-06-29 16:08:51",
+        "last_seen": "2022-07-16 22:25:35",
+        "ip_address": "52.194.117.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "12",
+        "first_seen": "2022-08-18 11:01:41",
+        "last_seen": "2022-08-19 22:00:54",
+        "ip_address": "18.181.89.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "12",
+        "first_seen": "2022-08-18 11:01:41",
+        "last_seen": "2022-08-19 22:00:54",
+        "ip_address": "52.198.97.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "1",
+        "first_seen": "2023-10-08 18:55:18",
+        "last_seen": "2023-10-08 18:55:18",
+        "ip_address": "18.182.176.127",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "1",
+        "first_seen": "2023-10-08 18:55:18",
+        "last_seen": "2023-10-08 18:55:18",
+        "ip_address": "54.92.126.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "514",
+        "first_seen": "2022-05-18 21:46:35",
+        "last_seen": "2022-06-06 21:45:41",
+        "ip_address": "35.78.35.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "514",
+        "first_seen": "2022-05-18 21:46:35",
+        "last_seen": "2022-06-06 21:45:41",
+        "ip_address": "52.194.117.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "3",
+        "first_seen": "2023-10-20 19:13:33",
+        "last_seen": "2023-10-22 13:03:46",
+        "ip_address": "43.207.18.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "3",
+        "first_seen": "2023-10-20 19:13:33",
+        "last_seen": "2023-10-22 13:03:46",
+        "ip_address": "54.64.210.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "2",
+        "first_seen": "2016-01-15 23:30:16",
+        "last_seen": "2016-01-15 23:30:16",
+        "ip_address": "52.68.0.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "2",
+        "first_seen": "2016-01-15 23:30:16",
+        "last_seen": "2016-01-15 23:30:16",
+        "ip_address": "54.92.118.109",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "4",
+        "first_seen": "2023-06-07 19:36:40",
+        "last_seen": "2023-06-20 06:41:52",
+        "ip_address": "52.68.136.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "4",
+        "first_seen": "2023-06-07 19:36:40",
+        "last_seen": "2023-06-20 06:41:52",
+        "ip_address": "52.196.134.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "59",
+        "first_seen": "2017-09-08 12:41:05",
+        "last_seen": "2018-01-30 00:07:49",
+        "ip_address": "52.68.141.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "59",
+        "first_seen": "2017-09-08 12:41:05",
+        "last_seen": "2018-01-30 00:07:49",
+        "ip_address": "54.65.193.182",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "316",
+        "first_seen": "2017-06-18 15:57:09",
+        "last_seen": "2017-09-02 02:42:23",
+        "ip_address": "52.68.141.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "316",
+        "first_seen": "2017-06-18 15:57:09",
+        "last_seen": "2017-09-02 02:42:23",
+        "ip_address": "54.249.8.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "2",
+        "first_seen": "2020-08-03 18:06:45",
+        "last_seen": "2020-08-03 18:06:45",
+        "ip_address": "52.68.237.244",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "2",
+        "first_seen": "2020-08-03 18:06:45",
+        "last_seen": "2020-08-03 18:06:45",
+        "ip_address": "52.194.54.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "142",
+        "first_seen": "2018-02-14 02:18:34",
+        "last_seen": "2019-01-08 22:13:56",
+        "ip_address": "52.69.140.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "142",
+        "first_seen": "2018-02-14 02:18:34",
+        "last_seen": "2019-01-08 22:13:56",
+        "ip_address": "52.198.105.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "10",
+        "first_seen": "2018-02-01 16:07:04",
+        "last_seen": "2018-02-11 01:10:00",
+        "ip_address": "52.69.140.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "10",
+        "first_seen": "2018-02-01 16:07:04",
+        "last_seen": "2018-02-11 01:10:00",
+        "ip_address": "54.65.193.182",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "5",
+        "first_seen": "2015-11-28 18:41:43",
+        "last_seen": "2015-11-29 03:32:47",
+        "ip_address": "52.69.186.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "5",
+        "first_seen": "2015-11-28 18:41:43",
+        "last_seen": "2015-11-29 03:32:47",
+        "ip_address": "52.192.143.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "1",
+        "first_seen": "2016-04-12 09:57:36",
+        "last_seen": "2016-04-12 09:57:36",
+        "ip_address": "52.193.95.244",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "1",
+        "first_seen": "2016-04-12 09:57:36",
+        "last_seen": "2016-04-12 09:57:36",
+        "ip_address": "54.250.242.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "29",
+        "first_seen": "2022-05-05 23:02:33",
+        "last_seen": "2022-05-18 21:24:25",
+        "ip_address": "52.194.117.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "29",
+        "first_seen": "2022-05-05 23:02:33",
+        "last_seen": "2022-05-18 21:24:25",
+        "ip_address": "52.197.187.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "41",
+        "first_seen": "2019-03-02 20:12:15",
+        "last_seen": "2019-06-13 09:44:06",
+        "ip_address": "52.196.58.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "41",
+        "first_seen": "2019-03-02 20:12:15",
+        "last_seen": "2019-06-13 09:44:06",
+        "ip_address": "52.198.105.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "77",
+        "first_seen": "2020-02-05 05:32:35",
+        "last_seen": "2020-03-30 16:08:59",
+        "ip_address": "52.196.58.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "77",
+        "first_seen": "2020-02-05 05:32:35",
+        "last_seen": "2020-03-30 16:08:59",
+        "ip_address": "52.198.153.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "11",
+        "first_seen": "2020-04-04 14:19:24",
+        "last_seen": "2020-04-11 14:28:10",
+        "ip_address": "52.196.58.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "11",
+        "first_seen": "2020-04-04 14:19:24",
+        "last_seen": "2020-04-11 14:28:10",
+        "ip_address": "54.250.143.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "28",
+        "first_seen": "2019-07-03 07:14:06",
+        "last_seen": "2020-01-20 02:34:10",
+        "ip_address": "52.196.58.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "28",
+        "first_seen": "2019-07-03 07:14:06",
+        "last_seen": "2020-01-20 02:34:10",
+        "ip_address": "54.250.147.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "4",
+        "first_seen": "2020-07-27 05:18:45",
+        "last_seen": "2020-07-29 21:00:28",
+        "ip_address": "52.196.175.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "4",
+        "first_seen": "2020-07-27 05:18:45",
+        "last_seen": "2020-07-29 21:00:28",
+        "ip_address": "52.197.191.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "41",
+        "first_seen": "2022-01-17 12:42:45",
+        "last_seen": "2022-01-31 06:10:02",
+        "ip_address": "52.196.194.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "41",
+        "first_seen": "2022-01-17 12:42:45",
+        "last_seen": "2022-01-31 06:10:02",
+        "ip_address": "54.178.51.245",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "18",
+        "first_seen": "2021-12-18 04:02:15",
+        "last_seen": "2022-01-01 12:09:20",
+        "ip_address": "52.197.18.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "18",
+        "first_seen": "2021-12-18 04:02:15",
+        "last_seen": "2022-01-01 12:09:20",
+        "ip_address": "54.150.65.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "17",
+        "first_seen": "2022-01-06 06:27:45",
+        "last_seen": "2022-01-15 10:45:04",
+        "ip_address": "52.197.18.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "17",
+        "first_seen": "2022-01-06 06:27:45",
+        "last_seen": "2022-01-15 10:45:04",
+        "ip_address": "54.178.51.245",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "18",
+        "first_seen": "2020-04-25 04:35:48",
+        "last_seen": "2020-06-11 01:15:21",
+        "ip_address": "52.198.213.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "18",
+        "first_seen": "2020-04-25 04:35:48",
+        "last_seen": "2020-06-11 01:15:21",
+        "ip_address": "54.250.143.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "4",
+        "first_seen": "2023-05-08 08:01:45",
+        "last_seen": "2023-05-17 22:29:13",
+        "ip_address": "52.199.144.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "4",
+        "first_seen": "2023-05-08 08:01:45",
+        "last_seen": "2023-05-17 22:29:13",
+        "ip_address": "176.34.39.241",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "1",
+        "first_seen": "2023-12-05 01:03:15",
+        "last_seen": "2023-12-05 01:03:15",
+        "ip_address": "54.65.40.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "1",
+        "first_seen": "2023-12-05 01:03:15",
+        "last_seen": "2023-12-05 01:03:15",
+        "ip_address": "54.150.15.127",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "2280",
+        "first_seen": "2015-10-12 14:55:18",
+        "last_seen": "2017-05-16 05:38:43",
+        "ip_address": "54.65.171.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "2280",
+        "first_seen": "2015-10-12 14:55:18",
+        "last_seen": "2017-05-16 05:38:43",
+        "ip_address": "54.249.8.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "8",
+        "first_seen": "2023-09-11 15:30:42",
+        "last_seen": "2023-10-06 00:56:24",
+        "ip_address": "54.65.203.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "8",
+        "first_seen": "2023-09-11 15:30:42",
+        "last_seen": "2023-10-06 00:56:24",
+        "ip_address": "54.92.126.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "2",
+        "first_seen": "2015-10-11 14:23:05",
+        "last_seen": "2015-10-11 14:23:05",
+        "ip_address": "54.65.232.159",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "2",
+        "first_seen": "2015-10-11 14:23:05",
+        "last_seen": "2015-10-11 14:23:05",
+        "ip_address": "54.249.8.139",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "184",
+        "first_seen": "2023-04-24 22:29:46",
+        "last_seen": "2023-05-07 11:49:17",
+        "ip_address": "54.92.23.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "184",
+        "first_seen": "2023-04-24 22:29:46",
+        "last_seen": "2023-05-07 11:49:17",
+        "ip_address": "176.34.39.241",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "2",
+        "first_seen": "2023-10-27 19:20:50",
+        "last_seen": "2023-10-27 19:20:50",
+        "ip_address": "54.95.240.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cgi.mag2.com",
+        "count": "2",
+        "first_seen": "2023-10-27 19:20:50",
+        "last_seen": "2023-10-27 19:20:50",
+        "ip_address": "54.250.184.54",
+        "type": "IPv4"
+    }
+]

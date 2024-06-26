@@ -1,0 +1,130 @@
+[
+    {
+        "domain": "subscriber.animalfolkmusic.com",
+        "count": "3372",
+        "first_seen": "2021-11-04 03:25:38",
+        "last_seen": "2022-03-16 11:10:58",
+        "ip_address": "104.21.63.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.animalfolkmusic.com",
+        "count": "3372",
+        "first_seen": "2021-11-04 03:25:38",
+        "last_seen": "2022-03-16 11:10:58",
+        "ip_address": "172.67.143.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.animalfolkmusic.com",
+        "count": "1",
+        "first_seen": "2021-11-24 17:31:23",
+        "last_seen": "2021-11-24 17:31:23",
+        "ip_address": "188.114.96.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.animalfolkmusic.com",
+        "count": "1",
+        "first_seen": "2021-11-24 17:31:23",
+        "last_seen": "2021-11-24 17:31:23",
+        "ip_address": "188.114.97.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.animalfolkmusic.com",
+        "count": "2",
+        "first_seen": "2021-11-24 16:17:09",
+        "last_seen": "2021-11-24 17:43:25",
+        "ip_address": "188.114.96.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.animalfolkmusic.com",
+        "count": "2",
+        "first_seen": "2021-11-24 16:17:09",
+        "last_seen": "2021-11-24 17:43:25",
+        "ip_address": "188.114.97.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.animalfolkmusic.com",
+        "count": "18",
+        "first_seen": "2022-03-10 20:15:54",
+        "last_seen": "2022-03-13 18:28:25",
+        "ip_address": "188.114.99.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.animalfolkmusic.com",
+        "count": "103",
+        "first_seen": "2022-06-02 15:26:21",
+        "last_seen": "2023-05-30 00:43:32",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.animalfolkmusic.com",
+        "count": "6",
+        "first_seen": "2023-06-04 03:06:42",
+        "last_seen": "2023-07-07 09:38:44",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.animalfolkmusic.com",
+        "count": "3",
+        "first_seen": "2023-01-20 07:49:28",
+        "last_seen": "2023-01-20 07:49:31",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.animalfolkmusic.com",
+        "count": "1033",
+        "first_seen": "2021-11-04 03:26:30",
+        "last_seen": "2022-03-16 11:10:58",
+        "ip_address": "2606:4700:3034::6815:3f3b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.animalfolkmusic.com",
+        "count": "1033",
+        "first_seen": "2021-11-04 03:26:30",
+        "last_seen": "2022-03-16 11:10:58",
+        "ip_address": "2606:4700:3037::ac43:8fdd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.animalfolkmusic.com",
+        "count": "1",
+        "first_seen": "2021-11-24 17:31:23",
+        "last_seen": "2021-11-24 17:31:23",
+        "ip_address": "2a06:98c1:3120::15",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.animalfolkmusic.com",
+        "count": "1",
+        "first_seen": "2021-11-24 17:31:23",
+        "last_seen": "2021-11-24 17:31:23",
+        "ip_address": "2a06:98c1:3121::15",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.animalfolkmusic.com",
+        "count": "2",
+        "first_seen": "2021-11-24 16:17:09",
+        "last_seen": "2021-11-24 17:43:24",
+        "ip_address": "2a06:98c1:3120::47",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.animalfolkmusic.com",
+        "count": "2",
+        "first_seen": "2021-11-24 16:17:09",
+        "last_seen": "2021-11-24 17:43:24",
+        "ip_address": "2a06:98c1:3121::47",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.mfc.co.za",
+        "count": "21773",
+        "first_seen": "2021-09-18 14:46:20",
+        "last_seen": "2024-01-18 13:50:40",
+        "ip_address": "168.142.204.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mfc.co.za",
+        "count": "1339",
+        "first_seen": "2012-02-06 18:09:07",
+        "last_seen": "2013-11-13 16:16:10",
+        "ip_address": "196.33.224.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mfc.co.za",
+        "count": "9485",
+        "first_seen": "2013-11-13 19:23:50",
+        "last_seen": "2016-07-25 15:48:37",
+        "ip_address": "196.35.12.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mfc.co.za",
+        "count": "20494",
+        "first_seen": "2016-07-25 22:07:44",
+        "last_seen": "2021-09-18 12:06:17",
+        "ip_address": "196.35.12.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mfc.co.za",
+        "count": "1511",
+        "first_seen": "2010-06-30 13:06:41",
+        "last_seen": "2012-02-05 08:27:47",
+        "ip_address": "196.46.137.136",
+        "type": "IPv4"
+    }
+]

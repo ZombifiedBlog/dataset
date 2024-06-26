@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.lzxlv.su",
+        "count": "1691",
+        "first_seen": "2022-05-02 08:29:27",
+        "last_seen": "2023-04-30 12:47:35",
+        "ip_address": "104.21.39.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzxlv.su",
+        "count": "1691",
+        "first_seen": "2022-05-02 08:29:27",
+        "last_seen": "2023-04-30 12:47:35",
+        "ip_address": "172.67.143.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzxlv.su",
+        "count": "1",
+        "first_seen": "2022-08-26 06:29:55",
+        "last_seen": "2022-08-26 06:29:55",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lzxlv.su",
+        "count": "74",
+        "first_seen": "2022-05-02 21:28:46",
+        "last_seen": "2023-04-30 12:47:35",
+        "ip_address": "2606:4700:3030::ac43:8fc8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lzxlv.su",
+        "count": "74",
+        "first_seen": "2022-05-02 21:28:46",
+        "last_seen": "2023-04-30 12:47:35",
+        "ip_address": "2606:4700:3036::6815:274d",
+        "type": "IPv6"
+    }
+]

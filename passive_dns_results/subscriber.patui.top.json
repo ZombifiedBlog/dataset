@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "subscriber.patui.top",
+        "count": "6",
+        "first_seen": "2023-06-04 09:47:26",
+        "last_seen": "2023-06-14 06:16:19",
+        "ip_address": "49.51.77.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.patui.top",
+        "count": "1",
+        "first_seen": "2023-06-25 09:46:13",
+        "last_seen": "2023-06-25 09:46:13",
+        "ip_address": "49.51.79.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.patui.top",
+        "count": "9682",
+        "first_seen": "2023-02-02 18:20:42",
+        "last_seen": "2023-06-02 08:30:16",
+        "ip_address": "104.21.74.216",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.patui.top",
+        "count": "9682",
+        "first_seen": "2023-02-02 18:20:42",
+        "last_seen": "2023-06-02 08:30:16",
+        "ip_address": "172.67.163.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.patui.top",
+        "count": "1",
+        "first_seen": "2023-04-24 04:45:47",
+        "last_seen": "2023-04-24 04:45:47",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.patui.top",
+        "count": "1",
+        "first_seen": "2023-04-24 04:45:47",
+        "last_seen": "2023-04-24 04:45:47",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.patui.top",
+        "count": "282",
+        "first_seen": "2023-02-02 21:12:17",
+        "last_seen": "2023-05-26 21:22:25",
+        "ip_address": "2606:4700:3032::6815:4ad8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.patui.top",
+        "count": "282",
+        "first_seen": "2023-02-02 21:12:17",
+        "last_seen": "2023-05-26 21:22:25",
+        "ip_address": "2606:4700:3032::ac43:a369",
+        "type": "IPv6"
+    }
+]

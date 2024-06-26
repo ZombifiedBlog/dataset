@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.scheid-automotive.com",
+        "count": "6624",
+        "first_seen": "2016-05-13 16:58:46",
+        "last_seen": "2024-01-18 11:44:36",
+        "ip_address": "217.160.0.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.scheid-automotive.com",
+        "count": "273",
+        "first_seen": "2012-08-06 12:35:07",
+        "last_seen": "2016-05-11 03:59:35",
+        "ip_address": "217.160.118.134",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.scheid-automotive.com",
+        "count": "1897",
+        "first_seen": "2016-05-13 16:58:47",
+        "last_seen": "2024-01-16 16:59:50",
+        "ip_address": "2001:8d8:100f:f000::2e8",
+        "type": "IPv6"
+    }
+]

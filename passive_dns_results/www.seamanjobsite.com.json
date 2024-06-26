@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.seamanjobsite.com",
+        "count": "2817",
+        "first_seen": "2017-06-16 21:00:43",
+        "last_seen": "2017-10-29 07:17:05",
+        "ip_address": "27.111.210.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.seamanjobsite.com",
+        "count": "650",
+        "first_seen": "2017-09-20 08:00:41",
+        "last_seen": "2017-10-27 12:09:48",
+        "ip_address": "104.24.11.99",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.seamanjobsite.com",
+        "count": "650",
+        "first_seen": "2017-09-20 08:00:41",
+        "last_seen": "2017-10-27 12:09:48",
+        "ip_address": "104.24.12.99",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.seamanjobsite.com",
+        "count": "2",
+        "first_seen": "2013-06-14 04:24:06",
+        "last_seen": "2013-06-14 04:24:06",
+        "ip_address": "108.162.205.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.seamanjobsite.com",
+        "count": "2",
+        "first_seen": "2013-06-14 04:24:06",
+        "last_seen": "2013-06-14 04:24:06",
+        "ip_address": "108.162.206.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.seamanjobsite.com",
+        "count": "236",
+        "first_seen": "2017-09-20 16:15:08",
+        "last_seen": "2017-10-27 12:09:48",
+        "ip_address": "2400:cb00:2048:1::6818:b63",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.seamanjobsite.com",
+        "count": "236",
+        "first_seen": "2017-09-20 16:15:08",
+        "last_seen": "2017-10-27 12:09:48",
+        "ip_address": "2400:cb00:2048:1::6818:c63",
+        "type": "IPv6"
+    }
+]

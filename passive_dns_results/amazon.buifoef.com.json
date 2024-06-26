@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "amazon.buifoef.com",
+        "count": "97",
+        "first_seen": "2020-05-23 03:28:02",
+        "last_seen": "2020-05-25 18:23:23",
+        "ip_address": "104.27.182.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.buifoef.com",
+        "count": "97",
+        "first_seen": "2020-05-23 03:28:02",
+        "last_seen": "2020-05-25 18:23:23",
+        "ip_address": "104.27.183.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.buifoef.com",
+        "count": "85",
+        "first_seen": "2020-05-23 03:28:02",
+        "last_seen": "2020-05-25 18:23:23",
+        "ip_address": "2606:4700:3031::681b:b622",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon.buifoef.com",
+        "count": "85",
+        "first_seen": "2020-05-23 03:28:02",
+        "last_seen": "2020-05-25 18:23:23",
+        "ip_address": "2606:4700:3031::681b:b722",
+        "type": "IPv6"
+    }
+]

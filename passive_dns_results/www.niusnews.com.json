@@ -1,0 +1,818 @@
+[
+    {
+        "domain": "www.niusnews.com",
+        "count": "9504",
+        "first_seen": "2015-07-27 07:58:12",
+        "last_seen": "2015-07-31 07:20:28",
+        "ip_address": "74.125.23.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "2",
+        "first_seen": "2018-07-12 03:37:05",
+        "last_seen": "2018-07-12 03:37:05",
+        "ip_address": "104.18.142.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "2",
+        "first_seen": "2018-07-12 03:37:05",
+        "last_seen": "2018-07-12 03:37:05",
+        "ip_address": "104.18.143.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "2",
+        "first_seen": "2018-07-12 03:37:05",
+        "last_seen": "2018-07-12 03:37:05",
+        "ip_address": "104.18.144.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "2",
+        "first_seen": "2018-07-12 03:37:05",
+        "last_seen": "2018-07-12 03:37:05",
+        "ip_address": "104.18.145.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "2",
+        "first_seen": "2018-07-12 03:37:05",
+        "last_seen": "2018-07-12 03:37:05",
+        "ip_address": "104.18.146.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "2",
+        "first_seen": "2018-07-12 03:41:43",
+        "last_seen": "2018-07-12 03:41:43",
+        "ip_address": "104.18.150.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "2",
+        "first_seen": "2018-07-12 03:41:43",
+        "last_seen": "2018-07-12 03:41:43",
+        "ip_address": "104.18.151.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "4",
+        "first_seen": "2017-03-09 04:54:50",
+        "last_seen": "2017-03-09 05:00:37",
+        "ip_address": "104.20.54.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "4",
+        "first_seen": "2017-03-09 04:54:50",
+        "last_seen": "2017-03-09 05:00:37",
+        "ip_address": "104.20.55.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "1",
+        "first_seen": "2019-07-15 11:16:48",
+        "last_seen": "2019-07-15 11:16:48",
+        "ip_address": "104.20.67.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "398270",
+        "first_seen": "2017-03-09 05:01:33",
+        "last_seen": "2020-03-25 23:37:33",
+        "ip_address": "104.20.67.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "398270",
+        "first_seen": "2017-03-09 05:01:33",
+        "last_seen": "2020-03-25 23:37:33",
+        "ip_address": "104.20.68.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "7",
+        "first_seen": "2019-07-14 18:55:14",
+        "last_seen": "2019-07-15 13:37:14",
+        "ip_address": "104.20.68.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "30893",
+        "first_seen": "2020-03-25 23:44:00",
+        "last_seen": "2020-06-04 21:23:40",
+        "ip_address": "104.22.62.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "30893",
+        "first_seen": "2020-03-25 23:44:00",
+        "last_seen": "2020-06-04 21:23:40",
+        "ip_address": "104.22.63.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "84180",
+        "first_seen": "2020-06-04 21:47:57",
+        "last_seen": "2021-09-13 23:38:07",
+        "ip_address": "104.22.62.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "84180",
+        "first_seen": "2020-06-04 21:47:57",
+        "last_seen": "2021-09-13 23:38:07",
+        "ip_address": "104.22.63.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "84180",
+        "first_seen": "2020-06-04 21:47:57",
+        "last_seen": "2021-09-13 23:38:07",
+        "ip_address": "172.67.30.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "439945",
+        "first_seen": "2015-10-20 22:12:31",
+        "last_seen": "2016-12-28 00:19:08",
+        "ip_address": "104.24.30.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "439945",
+        "first_seen": "2015-10-20 22:12:31",
+        "last_seen": "2016-12-28 00:19:08",
+        "ip_address": "104.24.31.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "45682",
+        "first_seen": "2016-12-28 00:57:06",
+        "last_seen": "2017-03-09 04:45:56",
+        "ip_address": "104.25.20.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "45682",
+        "first_seen": "2016-12-28 00:57:06",
+        "last_seen": "2017-03-09 04:45:56",
+        "ip_address": "104.25.21.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "34",
+        "first_seen": "2016-12-28 00:07:40",
+        "last_seen": "2016-12-28 01:14:54",
+        "ip_address": "104.25.83.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "34",
+        "first_seen": "2016-12-28 00:07:40",
+        "last_seen": "2016-12-28 01:14:54",
+        "ip_address": "104.25.84.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "161",
+        "first_seen": "2015-07-31 07:15:34",
+        "last_seen": "2015-07-31 09:41:43",
+        "ip_address": "104.28.2.97",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "161",
+        "first_seen": "2015-07-31 07:15:34",
+        "last_seen": "2015-07-31 09:41:43",
+        "ip_address": "104.28.3.97",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "785",
+        "first_seen": "2014-01-21 14:50:27",
+        "last_seen": "2014-01-23 02:50:02",
+        "ip_address": "107.170.253.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "785",
+        "first_seen": "2014-01-21 14:50:27",
+        "last_seen": "2014-01-23 02:50:02",
+        "ip_address": "198.199.101.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "176554",
+        "first_seen": "2015-07-31 09:37:36",
+        "last_seen": "2015-10-20 22:09:59",
+        "ip_address": "108.162.200.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "176554",
+        "first_seen": "2015-07-31 09:37:36",
+        "last_seen": "2015-10-20 22:09:59",
+        "ip_address": "141.101.127.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "6",
+        "first_seen": "2015-07-31 09:32:34",
+        "last_seen": "2015-07-31 09:46:46",
+        "ip_address": "108.162.207.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "6",
+        "first_seen": "2015-07-31 09:32:34",
+        "last_seen": "2015-07-31 09:46:46",
+        "ip_address": "141.101.124.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "146405",
+        "first_seen": "2021-09-13 23:47:18",
+        "last_seen": "2024-01-18 06:02:00",
+        "ip_address": "172.66.40.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "146405",
+        "first_seen": "2021-09-13 23:47:18",
+        "last_seen": "2024-01-18 06:02:00",
+        "ip_address": "172.66.43.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "784",
+        "first_seen": "2022-03-10 18:11:57",
+        "last_seen": "2022-03-31 14:39:53",
+        "ip_address": "188.114.96.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "1",
+        "first_seen": "2022-03-30 23:15:49",
+        "last_seen": "2022-03-30 23:15:49",
+        "ip_address": "188.114.96.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "2413",
+        "first_seen": "2022-04-01 05:43:48",
+        "last_seen": "2022-05-03 17:04:22",
+        "ip_address": "188.114.98.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "3",
+        "first_seen": "2022-04-15 09:18:44",
+        "last_seen": "2022-04-22 17:30:30",
+        "ip_address": "188.114.98.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "2007",
+        "first_seen": "2022-05-03 18:05:04",
+        "last_seen": "2022-05-26 23:29:31",
+        "ip_address": "188.114.98.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "1",
+        "first_seen": "2022-05-09 18:32:37",
+        "last_seen": "2022-05-09 18:32:37",
+        "ip_address": "188.114.98.156",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "3209",
+        "first_seen": "2022-05-26 23:29:31",
+        "last_seen": "2022-07-27 20:55:38",
+        "ip_address": "188.114.98.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "803",
+        "first_seen": "2022-07-27 20:55:21",
+        "last_seen": "2022-08-17 11:09:35",
+        "ip_address": "188.114.98.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "803",
+        "first_seen": "2022-07-27 20:55:21",
+        "last_seen": "2022-08-17 11:09:35",
+        "ip_address": "188.114.99.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "2",
+        "first_seen": "2022-06-07 18:12:29",
+        "last_seen": "2022-06-19 12:54:54",
+        "ip_address": "188.114.98.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "3402",
+        "first_seen": "2022-08-17 17:23:30",
+        "last_seen": "2022-10-11 12:38:44",
+        "ip_address": "188.114.98.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "3402",
+        "first_seen": "2022-08-17 17:23:30",
+        "last_seen": "2022-10-11 12:38:44",
+        "ip_address": "188.114.99.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "18310",
+        "first_seen": "2022-10-11 13:20:23",
+        "last_seen": "2023-11-22 09:42:18",
+        "ip_address": "188.114.98.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "18310",
+        "first_seen": "2022-10-11 13:20:23",
+        "last_seen": "2023-11-22 09:42:18",
+        "ip_address": "188.114.99.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "13854",
+        "first_seen": "2023-02-06 18:26:12",
+        "last_seen": "2024-01-18 04:00:31",
+        "ip_address": "188.114.98.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "13854",
+        "first_seen": "2023-02-06 18:26:12",
+        "last_seen": "2024-01-18 04:00:31",
+        "ip_address": "188.114.99.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "226",
+        "first_seen": "2023-01-06 07:48:41",
+        "last_seen": "2023-12-28 13:38:16",
+        "ip_address": "188.114.98.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "226",
+        "first_seen": "2023-01-06 07:48:41",
+        "last_seen": "2023-12-28 13:38:16",
+        "ip_address": "188.114.99.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "810",
+        "first_seen": "2014-01-21 13:09:30",
+        "last_seen": "2017-07-13 01:56:08",
+        "ip_address": "198.199.101.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "72582",
+        "first_seen": "2012-08-16 15:31:42",
+        "last_seen": "2013-07-30 03:48:22",
+        "ip_address": "203.69.41.178",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "2",
+        "first_seen": "2018-07-12 03:37:05",
+        "last_seen": "2018-07-12 03:37:05",
+        "ip_address": "2400:cb00:2048:1::6812:8e75",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "2",
+        "first_seen": "2018-07-12 03:37:05",
+        "last_seen": "2018-07-12 03:37:05",
+        "ip_address": "2400:cb00:2048:1::6812:8f75",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "2",
+        "first_seen": "2018-07-12 03:37:05",
+        "last_seen": "2018-07-12 03:37:05",
+        "ip_address": "2400:cb00:2048:1::6812:9075",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "2",
+        "first_seen": "2018-07-12 03:37:05",
+        "last_seen": "2018-07-12 03:37:05",
+        "ip_address": "2400:cb00:2048:1::6812:9175",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "2",
+        "first_seen": "2018-07-12 03:37:05",
+        "last_seen": "2018-07-12 03:37:05",
+        "ip_address": "2400:cb00:2048:1::6812:9275",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "2",
+        "first_seen": "2018-07-12 03:41:43",
+        "last_seen": "2018-07-12 03:41:43",
+        "ip_address": "2400:cb00:2048:1::6812:9622",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "2",
+        "first_seen": "2018-07-12 03:41:43",
+        "last_seen": "2018-07-12 03:41:43",
+        "ip_address": "2400:cb00:2048:1::6812:9722",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "5",
+        "first_seen": "2017-03-09 04:32:25",
+        "last_seen": "2017-03-09 05:00:37",
+        "ip_address": "2400:cb00:2048:1::6814:36be",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "5",
+        "first_seen": "2017-03-09 04:32:25",
+        "last_seen": "2017-03-09 05:00:37",
+        "ip_address": "2400:cb00:2048:1::6814:37be",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "70566",
+        "first_seen": "2017-03-09 04:38:36",
+        "last_seen": "2018-10-08 08:46:03",
+        "ip_address": "2400:cb00:2048:1::6814:434c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "70566",
+        "first_seen": "2017-03-09 04:38:36",
+        "last_seen": "2018-10-08 08:46:03",
+        "ip_address": "2400:cb00:2048:1::6814:444c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "110356",
+        "first_seen": "2015-10-20 22:32:57",
+        "last_seen": "2016-12-28 00:19:08",
+        "ip_address": "2400:cb00:2048:1::6818:1e14",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "110356",
+        "first_seen": "2015-10-20 22:32:57",
+        "last_seen": "2016-12-28 00:19:08",
+        "ip_address": "2400:cb00:2048:1::6818:1f14",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "20359",
+        "first_seen": "2016-12-28 01:04:27",
+        "last_seen": "2017-03-09 04:48:44",
+        "ip_address": "2400:cb00:2048:1::6819:140a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "20359",
+        "first_seen": "2016-12-28 01:04:27",
+        "last_seen": "2017-03-09 04:48:44",
+        "ip_address": "2400:cb00:2048:1::6819:150a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "20",
+        "first_seen": "2016-12-28 00:07:40",
+        "last_seen": "2016-12-28 01:13:35",
+        "ip_address": "2400:cb00:2048:1::6819:5372",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "20",
+        "first_seen": "2016-12-28 00:07:40",
+        "last_seen": "2016-12-28 01:13:35",
+        "ip_address": "2400:cb00:2048:1::6819:5472",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "18",
+        "first_seen": "2015-07-31 07:27:13",
+        "last_seen": "2015-07-31 09:10:22",
+        "ip_address": "2400:cb00:2048:1::681c:261",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "18",
+        "first_seen": "2015-07-31 07:27:13",
+        "last_seen": "2015-07-31 09:10:22",
+        "ip_address": "2400:cb00:2048:1::681c:361",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "23319",
+        "first_seen": "2015-07-31 10:07:00",
+        "last_seen": "2015-10-20 22:09:46",
+        "ip_address": "2400:cb00:2048:1::6ca2:c84b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "23319",
+        "first_seen": "2015-07-31 10:07:00",
+        "last_seen": "2015-10-20 22:09:46",
+        "ip_address": "2400:cb00:2048:1::8d65:7f4a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "6",
+        "first_seen": "2019-07-15 06:06:49",
+        "last_seen": "2019-07-15 16:55:28",
+        "ip_address": "2606:4700:10::6814:434c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "151954",
+        "first_seen": "2018-10-08 09:17:26",
+        "last_seen": "2020-03-25 23:37:33",
+        "ip_address": "2606:4700:10::6814:434c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "151954",
+        "first_seen": "2018-10-08 09:17:26",
+        "last_seen": "2020-03-25 23:37:33",
+        "ip_address": "2606:4700:10::6814:444c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "1",
+        "first_seen": "2019-07-15 07:44:17",
+        "last_seen": "2019-07-15 07:44:17",
+        "ip_address": "2606:4700:10::6814:444c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "22293",
+        "first_seen": "2020-03-25 23:44:00",
+        "last_seen": "2020-06-04 21:17:04",
+        "ip_address": "2606:4700:10::6816:3efa",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "22293",
+        "first_seen": "2020-03-25 23:44:00",
+        "last_seen": "2020-06-04 21:17:04",
+        "ip_address": "2606:4700:10::6816:3ffa",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "47684",
+        "first_seen": "2020-06-04 21:59:12",
+        "last_seen": "2021-09-13 23:38:07",
+        "ip_address": "2606:4700:10::6816:3efa",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "47684",
+        "first_seen": "2020-06-04 21:59:12",
+        "last_seen": "2021-09-13 23:38:07",
+        "ip_address": "2606:4700:10::6816:3ffa",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "47684",
+        "first_seen": "2020-06-04 21:59:12",
+        "last_seen": "2021-09-13 23:38:07",
+        "ip_address": "2606:4700:10::ac43:1e21",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "84042",
+        "first_seen": "2021-09-13 23:47:18",
+        "last_seen": "2024-01-18 03:40:05",
+        "ip_address": "2606:4700:3108::ac42:2889",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "84042",
+        "first_seen": "2021-09-13 23:47:18",
+        "last_seen": "2024-01-18 03:40:05",
+        "ip_address": "2606:4700:3108::ac42:2b77",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "119",
+        "first_seen": "2022-03-10 20:31:08",
+        "last_seen": "2022-03-31 13:20:00",
+        "ip_address": "2a06:98c1:3121:8000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "823",
+        "first_seen": "2022-04-02 13:18:10",
+        "last_seen": "2022-05-03 17:04:22",
+        "ip_address": "2a06:98c1:3122:8000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "674",
+        "first_seen": "2022-05-03 18:05:04",
+        "last_seen": "2022-05-26 23:29:31",
+        "ip_address": "2a06:98c1:3122:9000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "605",
+        "first_seen": "2022-05-26 22:33:56",
+        "last_seen": "2022-06-27 06:07:44",
+        "ip_address": "2a06:98c1:3122:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "130",
+        "first_seen": "2022-07-27 22:01:44",
+        "last_seen": "2022-08-17 02:18:45",
+        "ip_address": "2a06:98c1:3122:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "130",
+        "first_seen": "2022-07-27 22:01:44",
+        "last_seen": "2022-08-17 02:18:45",
+        "ip_address": "2a06:98c1:3123:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "953",
+        "first_seen": "2022-08-17 17:53:02",
+        "last_seen": "2022-10-11 09:51:06",
+        "ip_address": "2a06:98c1:3122:c000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "953",
+        "first_seen": "2022-08-17 17:53:02",
+        "last_seen": "2022-10-11 09:51:06",
+        "ip_address": "2a06:98c1:3123:c000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "5491",
+        "first_seen": "2022-10-11 13:20:23",
+        "last_seen": "2023-11-22 06:16:22",
+        "ip_address": "2a06:98c1:3122:e000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "5491",
+        "first_seen": "2022-10-11 13:20:23",
+        "last_seen": "2023-11-22 06:16:22",
+        "ip_address": "2a06:98c1:3123:e000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "3568",
+        "first_seen": "2023-02-06 18:26:12",
+        "last_seen": "2024-01-18 04:27:49",
+        "ip_address": "2a06:98c1:3122:e000::5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "3568",
+        "first_seen": "2023-02-06 18:26:12",
+        "last_seen": "2024-01-18 04:27:49",
+        "ip_address": "2a06:98c1:3123:e000::5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "61",
+        "first_seen": "2023-04-10 17:37:54",
+        "last_seen": "2023-11-21 10:17:55",
+        "ip_address": "2a06:98c1:3122:e000::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "61",
+        "first_seen": "2023-04-10 17:37:54",
+        "last_seen": "2023-11-21 10:17:55",
+        "ip_address": "2a06:98c1:3123:e000::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.niusnews.com",
+        "count": "335",
+        "first_seen": "2022-06-27 15:32:09",
+        "last_seen": "2022-07-27 20:55:38",
+        "ip_address": "2a06:98c1:3123:a000::",
+        "type": "IPv6"
+    }
+]

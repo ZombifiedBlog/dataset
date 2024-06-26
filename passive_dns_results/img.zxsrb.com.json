@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "img.zxsrb.com",
+        "count": "640",
+        "first_seen": "2021-04-15 00:55:12",
+        "last_seen": "2021-04-17 01:31:47",
+        "ip_address": "104.21.85.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.zxsrb.com",
+        "count": "640",
+        "first_seen": "2021-04-15 00:55:12",
+        "last_seen": "2021-04-17 01:31:47",
+        "ip_address": "172.67.206.169",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.zxsrb.com",
+        "count": "3180",
+        "first_seen": "2021-04-16 03:31:10",
+        "last_seen": "2021-05-05 02:11:12",
+        "ip_address": "198.144.154.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.zxsrb.com",
+        "count": "624",
+        "first_seen": "2021-05-05 03:23:41",
+        "last_seen": "2022-04-07 14:19:20",
+        "ip_address": "198.144.154.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.zxsrb.com",
+        "count": "342",
+        "first_seen": "2021-04-15 01:45:07",
+        "last_seen": "2021-04-16 23:57:23",
+        "ip_address": "2606:4700:3032::6815:5590",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.zxsrb.com",
+        "count": "342",
+        "first_seen": "2021-04-15 01:45:07",
+        "last_seen": "2021-04-16 23:57:23",
+        "ip_address": "2606:4700:3037::ac43:cea9",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "hzuistate.com",
+        "count": "3",
+        "first_seen": "2022-09-30 15:55:29",
+        "last_seen": "2022-10-05 15:30:19",
+        "ip_address": "43.129.220.68",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hzuistate.com",
+        "count": "642",
+        "first_seen": "2023-04-22 17:11:13",
+        "last_seen": "2023-05-03 05:18:33",
+        "ip_address": "47.87.154.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hzuistate.com",
+        "count": "9",
+        "first_seen": "2022-11-09 01:54:48",
+        "last_seen": "2022-11-10 18:26:37",
+        "ip_address": "104.21.27.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hzuistate.com",
+        "count": "9",
+        "first_seen": "2022-11-09 01:54:48",
+        "last_seen": "2022-11-10 18:26:37",
+        "ip_address": "172.67.169.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hzuistate.com",
+        "count": "15",
+        "first_seen": "2022-05-05 14:43:09",
+        "last_seen": "2022-05-05 14:59:26",
+        "ip_address": "107.148.19.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hzuistate.com",
+        "count": "5",
+        "first_seen": "2022-11-09 01:54:48",
+        "last_seen": "2022-12-02 03:40:18",
+        "ip_address": "2606:4700:3032::6815:1b75",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hzuistate.com",
+        "count": "5",
+        "first_seen": "2022-11-09 01:54:48",
+        "last_seen": "2022-12-02 03:40:18",
+        "ip_address": "2606:4700:3035::ac43:a942",
+        "type": "IPv6"
+    }
+]

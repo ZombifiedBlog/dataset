@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "subscriber.gtr4hg8gweb.xyz",
+        "count": "24",
+        "first_seen": "2020-03-12 20:05:27",
+        "last_seen": "2020-04-09 05:12:55",
+        "ip_address": "104.27.146.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gtr4hg8gweb.xyz",
+        "count": "24",
+        "first_seen": "2020-03-12 20:05:27",
+        "last_seen": "2020-04-09 05:12:55",
+        "ip_address": "104.27.147.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gtr4hg8gweb.xyz",
+        "count": "13",
+        "first_seen": "2020-03-12 20:05:27",
+        "last_seen": "2020-04-09 05:11:35",
+        "ip_address": "2606:4700:3034::681b:92e6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.gtr4hg8gweb.xyz",
+        "count": "13",
+        "first_seen": "2020-03-12 20:05:27",
+        "last_seen": "2020-04-09 05:11:35",
+        "ip_address": "2606:4700:3036::681b:93e6",
+        "type": "IPv6"
+    }
+]

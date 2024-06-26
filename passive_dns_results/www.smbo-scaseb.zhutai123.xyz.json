@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.smbo-scaseb.zhutai123.xyz",
+        "count": "2",
+        "first_seen": "2022-08-12 10:44:57",
+        "last_seen": "2022-08-24 10:38:59",
+        "ip_address": "43.153.178.154",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smbo-scaseb.zhutai123.xyz",
+        "count": "1",
+        "first_seen": "2022-09-16 21:17:16",
+        "last_seen": "2022-09-16 21:17:16",
+        "ip_address": "43.153.179.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smbo-scaseb.zhutai123.xyz",
+        "count": "3",
+        "first_seen": "2023-04-29 13:48:07",
+        "last_seen": "2023-05-27 02:02:24",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smbo-scaseb.zhutai123.xyz",
+        "count": "6",
+        "first_seen": "2023-02-20 09:02:37",
+        "last_seen": "2023-04-24 07:43:32",
+        "ip_address": "103.30.43.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smbo-scaseb.zhutai123.xyz",
+        "count": "4",
+        "first_seen": "2023-01-02 09:03:45",
+        "last_seen": "2023-01-31 09:03:11",
+        "ip_address": "103.229.124.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smbo-scaseb.zhutai123.xyz",
+        "count": "4",
+        "first_seen": "2023-01-02 09:03:45",
+        "last_seen": "2023-01-31 09:03:11",
+        "ip_address": "103.229.125.135",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smbo-scaseb.zhutai123.xyz",
+        "count": "77",
+        "first_seen": "2022-06-22 20:16:06",
+        "last_seen": "2022-06-23 09:01:18",
+        "ip_address": "198.12.89.117",
+        "type": "IPv4"
+    }
+]

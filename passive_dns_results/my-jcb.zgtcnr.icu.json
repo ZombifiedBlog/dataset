@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "my-jcb.zgtcnr.icu",
+        "count": "2",
+        "first_seen": "2020-10-24 02:00:34",
+        "last_seen": "2020-10-24 02:00:34",
+        "ip_address": "104.24.108.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.zgtcnr.icu",
+        "count": "2",
+        "first_seen": "2020-10-24 02:00:34",
+        "last_seen": "2020-10-24 02:00:34",
+        "ip_address": "104.24.109.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.zgtcnr.icu",
+        "count": "2",
+        "first_seen": "2020-10-24 02:00:34",
+        "last_seen": "2020-10-24 02:00:34",
+        "ip_address": "172.67.184.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.zgtcnr.icu",
+        "count": "2",
+        "first_seen": "2020-10-24 02:00:34",
+        "last_seen": "2020-10-24 02:00:34",
+        "ip_address": "2606:4700:3034::6818:6da0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.zgtcnr.icu",
+        "count": "2",
+        "first_seen": "2020-10-24 02:00:34",
+        "last_seen": "2020-10-24 02:00:34",
+        "ip_address": "2606:4700:3037::6818:6ca0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.zgtcnr.icu",
+        "count": "2",
+        "first_seen": "2020-10-24 02:00:34",
+        "last_seen": "2020-10-24 02:00:34",
+        "ip_address": "2606:4700:3037::ac43:b8a3",
+        "type": "IPv6"
+    }
+]

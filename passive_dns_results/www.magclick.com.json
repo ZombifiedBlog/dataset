@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "www.magclick.com",
+        "count": "363",
+        "first_seen": "2022-09-09 10:42:50",
+        "last_seen": "2024-01-15 10:20:34",
+        "ip_address": "104.21.70.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.magclick.com",
+        "count": "363",
+        "first_seen": "2022-09-09 10:42:50",
+        "last_seen": "2024-01-15 10:20:34",
+        "ip_address": "172.67.218.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.magclick.com",
+        "count": "1234",
+        "first_seen": "2010-07-23 18:33:21",
+        "last_seen": "2014-07-03 03:57:47",
+        "ip_address": "115.31.199.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.magclick.com",
+        "count": "265",
+        "first_seen": "2020-01-12 06:08:24",
+        "last_seen": "2022-07-28 12:16:26",
+        "ip_address": "154.127.63.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.magclick.com",
+        "count": "1836",
+        "first_seen": "2015-08-25 16:46:44",
+        "last_seen": "2017-12-27 23:42:48",
+        "ip_address": "157.7.188.179",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.magclick.com",
+        "count": "352",
+        "first_seen": "2014-07-24 08:40:08",
+        "last_seen": "2015-08-23 15:07:37",
+        "ip_address": "182.48.26.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.magclick.com",
+        "count": "2",
+        "first_seen": "2020-01-06 17:24:57",
+        "last_seen": "2020-01-06 17:24:57",
+        "ip_address": "209.99.64.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.magclick.com",
+        "count": "145",
+        "first_seen": "2022-09-09 15:20:06",
+        "last_seen": "2024-01-10 17:04:03",
+        "ip_address": "2606:4700:3034::6815:4618",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.magclick.com",
+        "count": "145",
+        "first_seen": "2022-09-09 15:20:06",
+        "last_seen": "2024-01-10 17:04:03",
+        "ip_address": "2606:4700:3037::ac43:da72",
+        "type": "IPv6"
+    }
+]

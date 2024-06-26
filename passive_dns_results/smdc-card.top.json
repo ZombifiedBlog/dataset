@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "smdc-card.top",
+        "count": "118",
+        "first_seen": "2020-12-07 19:55:37",
+        "last_seen": "2020-12-08 08:44:20",
+        "ip_address": "23.95.233.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smdc-card.top",
+        "count": "45",
+        "first_seen": "2023-12-27 22:41:21",
+        "last_seen": "2024-01-18 15:49:12",
+        "ip_address": "104.21.57.243",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smdc-card.top",
+        "count": "45",
+        "first_seen": "2023-12-27 22:41:21",
+        "last_seen": "2024-01-18 15:49:12",
+        "ip_address": "172.67.194.64",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smdc-card.top",
+        "count": "7",
+        "first_seen": "2023-12-27 22:41:38",
+        "last_seen": "2024-01-09 12:31:46",
+        "ip_address": "2606:4700:3030::6815:39f3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "smdc-card.top",
+        "count": "7",
+        "first_seen": "2023-12-27 22:41:38",
+        "last_seen": "2024-01-09 12:31:46",
+        "ip_address": "2606:4700:3036::ac43:c240",
+        "type": "IPv6"
+    }
+]

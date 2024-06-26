@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "bahriaenclaveheights.info",
+        "count": "353",
+        "first_seen": "2020-11-17 15:55:25",
+        "last_seen": "2022-01-30 19:15:42",
+        "ip_address": "23.111.151.202",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bahriaenclaveheights.info",
+        "count": "225",
+        "first_seen": "2022-02-05 12:15:27",
+        "last_seen": "2022-11-15 11:26:38",
+        "ip_address": "64.31.43.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bahriaenclaveheights.info",
+        "count": "14",
+        "first_seen": "2022-11-21 13:10:36",
+        "last_seen": "2022-12-26 17:39:34",
+        "ip_address": "74.119.239.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bahriaenclaveheights.info",
+        "count": "1",
+        "first_seen": "2021-04-08 21:02:49",
+        "last_seen": "2021-04-08 21:02:49",
+        "ip_address": "104.21.35.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bahriaenclaveheights.info",
+        "count": "1",
+        "first_seen": "2021-04-08 21:02:49",
+        "last_seen": "2021-04-08 21:02:49",
+        "ip_address": "172.67.180.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bahriaenclaveheights.info",
+        "count": "2",
+        "first_seen": "2021-04-08 08:08:28",
+        "last_seen": "2021-04-09 07:35:25",
+        "ip_address": "2606:4700:3035::ac43:b45a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "bahriaenclaveheights.info",
+        "count": "2",
+        "first_seen": "2021-04-08 08:08:28",
+        "last_seen": "2021-04-09 07:35:25",
+        "ip_address": "2606:4700:3036::6815:23e6",
+        "type": "IPv6"
+    }
+]

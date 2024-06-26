@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.jp.eki-02.com",
+        "count": "53",
+        "first_seen": "2022-09-12 15:24:47",
+        "last_seen": "2022-09-13 11:10:12",
+        "ip_address": "103.231.166.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jp.eki-02.com",
+        "count": "12",
+        "first_seen": "2022-10-24 11:28:54",
+        "last_seen": "2022-11-27 09:13:38",
+        "ip_address": "121.127.253.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jp.eki-02.com",
+        "count": "88",
+        "first_seen": "2022-09-13 12:24:14",
+        "last_seen": "2022-10-09 02:29:28",
+        "ip_address": "202.146.220.247",
+        "type": "IPv4"
+    }
+]

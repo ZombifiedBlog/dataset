@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "my-jcb.jyscompany.com",
+        "count": "47",
+        "first_seen": "2020-12-18 15:58:59",
+        "last_seen": "2020-12-21 01:27:27",
+        "ip_address": "104.28.24.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.jyscompany.com",
+        "count": "47",
+        "first_seen": "2020-12-18 15:58:59",
+        "last_seen": "2020-12-21 01:27:27",
+        "ip_address": "104.28.25.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.jyscompany.com",
+        "count": "47",
+        "first_seen": "2020-12-18 15:58:59",
+        "last_seen": "2020-12-21 01:27:27",
+        "ip_address": "172.67.128.237",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.jyscompany.com",
+        "count": "3",
+        "first_seen": "2020-12-18 15:59:00",
+        "last_seen": "2020-12-20 19:00:15",
+        "ip_address": "2606:4700:3030::681c:180f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.jyscompany.com",
+        "count": "3",
+        "first_seen": "2020-12-18 15:59:00",
+        "last_seen": "2020-12-20 19:00:15",
+        "ip_address": "2606:4700:3031::ac43:80ed",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.jyscompany.com",
+        "count": "3",
+        "first_seen": "2020-12-18 15:59:00",
+        "last_seen": "2020-12-20 19:00:15",
+        "ip_address": "2606:4700:3033::681c:190f",
+        "type": "IPv6"
+    }
+]

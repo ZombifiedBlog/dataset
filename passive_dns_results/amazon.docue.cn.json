@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "amazon.docue.cn",
+        "count": "34",
+        "first_seen": "2023-11-23 19:23:36",
+        "last_seen": "2023-11-25 07:10:58",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.docue.cn",
+        "count": "5",
+        "first_seen": "2023-09-22 04:03:17",
+        "last_seen": "2023-10-06 07:05:01",
+        "ip_address": "164.152.166.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.docue.cn",
+        "count": "6",
+        "first_seen": "2023-08-12 20:33:10",
+        "last_seen": "2023-08-18 04:23:34",
+        "ip_address": "173.249.201.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.docue.cn",
+        "count": "609",
+        "first_seen": "2022-12-16 21:16:06",
+        "last_seen": "2023-03-05 01:26:38",
+        "ip_address": "209.141.42.44",
+        "type": "IPv4"
+    }
+]

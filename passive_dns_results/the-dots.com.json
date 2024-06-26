@@ -1,0 +1,490 @@
+[
+    {
+        "domain": "the-dots.com",
+        "count": "8",
+        "first_seen": "2019-06-24 12:22:21",
+        "last_seen": "2019-06-24 12:32:40",
+        "ip_address": "35.227.223.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "45",
+        "first_seen": "2016-09-07 17:26:39",
+        "last_seen": "2016-09-08 12:24:30",
+        "ip_address": "52.18.123.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "45",
+        "first_seen": "2016-09-07 17:26:39",
+        "last_seen": "2016-09-08 12:24:30",
+        "ip_address": "54.171.119.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "78",
+        "first_seen": "2016-09-08 12:59:52",
+        "last_seen": "2016-09-09 08:24:48",
+        "ip_address": "52.50.111.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "78",
+        "first_seen": "2016-09-08 12:59:52",
+        "last_seen": "2016-09-09 08:24:48",
+        "ip_address": "52.208.12.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "1",
+        "first_seen": "2012-09-17 08:03:13",
+        "last_seen": "2012-09-17 08:03:13",
+        "ip_address": "64.95.64.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "19",
+        "first_seen": "2019-07-14 17:28:45",
+        "last_seen": "2019-07-15 17:10:06",
+        "ip_address": "104.20.55.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "108441",
+        "first_seen": "2016-09-09 11:23:02",
+        "last_seen": "2020-03-26 03:22:51",
+        "ip_address": "104.20.55.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "108441",
+        "first_seen": "2016-09-09 11:23:02",
+        "last_seen": "2020-03-26 03:22:51",
+        "ip_address": "104.20.56.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "2",
+        "first_seen": "2019-07-15 11:03:30",
+        "last_seen": "2019-07-15 13:02:26",
+        "ip_address": "104.20.56.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "10628",
+        "first_seen": "2020-03-26 03:24:56",
+        "last_seen": "2020-06-04 18:59:13",
+        "ip_address": "104.22.24.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "10628",
+        "first_seen": "2020-03-26 03:24:56",
+        "last_seen": "2020-06-04 18:59:13",
+        "ip_address": "104.22.25.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "185103",
+        "first_seen": "2020-06-04 19:28:09",
+        "last_seen": "2024-01-18 09:19:09",
+        "ip_address": "104.22.24.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "185103",
+        "first_seen": "2020-06-04 19:28:09",
+        "last_seen": "2024-01-18 09:19:09",
+        "ip_address": "104.22.25.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "185103",
+        "first_seen": "2020-06-04 19:28:09",
+        "last_seen": "2024-01-18 09:19:09",
+        "ip_address": "172.67.22.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "15087",
+        "first_seen": "2016-02-09 20:46:07",
+        "last_seen": "2016-09-21 18:02:32",
+        "ip_address": "134.213.50.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "140",
+        "first_seen": "2014-11-07 15:43:54",
+        "last_seen": "2016-02-04 10:30:23",
+        "ip_address": "184.168.221.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "3",
+        "first_seen": "2014-06-20 02:36:27",
+        "last_seen": "2014-06-22 02:21:05",
+        "ip_address": "184.168.221.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "3747",
+        "first_seen": "2022-03-10 16:11:48",
+        "last_seen": "2022-05-03 17:11:47",
+        "ip_address": "188.114.96.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "1",
+        "first_seen": "2022-04-03 21:17:45",
+        "last_seen": "2022-04-03 21:17:45",
+        "ip_address": "188.114.96.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "1783",
+        "first_seen": "2022-05-03 17:39:45",
+        "last_seen": "2022-05-26 23:58:28",
+        "ip_address": "188.114.96.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "2000",
+        "first_seen": "2022-05-26 22:42:36",
+        "last_seen": "2022-06-27 13:05:53",
+        "ip_address": "188.114.96.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "3354",
+        "first_seen": "2022-06-27 13:44:23",
+        "last_seen": "2022-07-27 21:16:28",
+        "ip_address": "188.114.98.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "1931",
+        "first_seen": "2022-07-27 21:13:55",
+        "last_seen": "2022-08-17 15:31:18",
+        "ip_address": "188.114.98.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "1931",
+        "first_seen": "2022-07-27 21:13:55",
+        "last_seen": "2022-08-17 15:31:18",
+        "ip_address": "188.114.99.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "10",
+        "first_seen": "2022-07-13 00:33:00",
+        "last_seen": "2022-07-13 01:30:25",
+        "ip_address": "188.114.98.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "3338",
+        "first_seen": "2022-08-17 16:54:16",
+        "last_seen": "2022-10-11 12:31:44",
+        "ip_address": "188.114.98.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "3338",
+        "first_seen": "2022-08-17 16:54:16",
+        "last_seen": "2022-10-11 12:31:44",
+        "ip_address": "188.114.99.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "12719",
+        "first_seen": "2022-10-11 13:28:36",
+        "last_seen": "2023-12-04 11:24:37",
+        "ip_address": "188.114.98.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "12719",
+        "first_seen": "2022-10-11 13:28:36",
+        "last_seen": "2023-12-04 11:24:37",
+        "ip_address": "188.114.99.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "13215",
+        "first_seen": "2023-02-06 18:15:16",
+        "last_seen": "2024-01-18 10:12:52",
+        "ip_address": "188.114.98.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "13215",
+        "first_seen": "2023-02-06 18:15:16",
+        "last_seen": "2024-01-18 10:12:52",
+        "ip_address": "188.114.99.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "181",
+        "first_seen": "2023-01-15 20:05:15",
+        "last_seen": "2023-11-22 11:07:17",
+        "ip_address": "188.114.98.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "181",
+        "first_seen": "2023-01-15 20:05:15",
+        "last_seen": "2023-11-22 11:07:17",
+        "ip_address": "188.114.99.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "17738",
+        "first_seen": "2016-10-07 01:32:36",
+        "last_seen": "2018-10-08 14:18:02",
+        "ip_address": "2400:cb00:2048:1::6814:37bb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "17738",
+        "first_seen": "2016-10-07 01:32:36",
+        "last_seen": "2018-10-08 14:18:02",
+        "ip_address": "2400:cb00:2048:1::6814:38bb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "4",
+        "first_seen": "2019-07-15 09:01:53",
+        "last_seen": "2019-07-15 17:06:52",
+        "ip_address": "2606:4700:10::6814:37bb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "18964",
+        "first_seen": "2018-10-08 15:25:58",
+        "last_seen": "2020-03-26 03:22:51",
+        "ip_address": "2606:4700:10::6814:37bb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "18964",
+        "first_seen": "2018-10-08 15:25:58",
+        "last_seen": "2020-03-26 03:22:51",
+        "ip_address": "2606:4700:10::6814:38bb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "8",
+        "first_seen": "2019-07-15 08:52:06",
+        "last_seen": "2019-07-15 17:12:31",
+        "ip_address": "2606:4700:10::6814:38bb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "8397",
+        "first_seen": "2020-03-26 03:25:07",
+        "last_seen": "2020-06-04 18:59:13",
+        "ip_address": "2606:4700:10::6816:18df",
+        "type": "IPv6"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "8397",
+        "first_seen": "2020-03-26 03:25:07",
+        "last_seen": "2020-06-04 18:59:13",
+        "ip_address": "2606:4700:10::6816:19df",
+        "type": "IPv6"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "118872",
+        "first_seen": "2020-06-04 19:28:09",
+        "last_seen": "2024-01-18 04:56:43",
+        "ip_address": "2606:4700:10::6816:18df",
+        "type": "IPv6"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "118872",
+        "first_seen": "2020-06-04 19:28:09",
+        "last_seen": "2024-01-18 04:56:43",
+        "ip_address": "2606:4700:10::6816:19df",
+        "type": "IPv6"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "118872",
+        "first_seen": "2020-06-04 19:28:09",
+        "last_seen": "2024-01-18 04:56:43",
+        "ip_address": "2606:4700:10::ac43:16ef",
+        "type": "IPv6"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "836",
+        "first_seen": "2022-03-10 16:11:48",
+        "last_seen": "2022-03-31 11:17:41",
+        "ip_address": "2a06:98c1:3121:8000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "1326",
+        "first_seen": "2022-03-31 15:47:48",
+        "last_seen": "2022-05-03 17:11:47",
+        "ip_address": "2a06:98c1:3122:8000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "1066",
+        "first_seen": "2022-05-03 17:39:45",
+        "last_seen": "2022-05-26 23:23:25",
+        "ip_address": "2a06:98c1:3122:9000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "1061",
+        "first_seen": "2022-05-26 22:37:41",
+        "last_seen": "2022-06-27 13:05:53",
+        "ip_address": "2a06:98c1:3122:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "1486",
+        "first_seen": "2022-07-27 22:12:55",
+        "last_seen": "2022-08-17 13:36:34",
+        "ip_address": "2a06:98c1:3122:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "1486",
+        "first_seen": "2022-07-27 22:12:55",
+        "last_seen": "2022-08-17 13:36:34",
+        "ip_address": "2a06:98c1:3123:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "1989",
+        "first_seen": "2022-08-17 16:54:25",
+        "last_seen": "2022-10-11 11:28:50",
+        "ip_address": "2a06:98c1:3122:c000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "1989",
+        "first_seen": "2022-08-17 16:54:25",
+        "last_seen": "2022-10-11 11:28:50",
+        "ip_address": "2a06:98c1:3123:c000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "5483",
+        "first_seen": "2022-10-11 14:02:09",
+        "last_seen": "2023-12-04 11:24:37",
+        "ip_address": "2a06:98c1:3122:e000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "5483",
+        "first_seen": "2022-10-11 14:02:09",
+        "last_seen": "2023-12-04 11:24:37",
+        "ip_address": "2a06:98c1:3123:e000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "4760",
+        "first_seen": "2023-03-11 21:54:21",
+        "last_seen": "2024-01-18 04:50:55",
+        "ip_address": "2a06:98c1:3122:e000::5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "4760",
+        "first_seen": "2023-03-11 21:54:21",
+        "last_seen": "2024-01-18 04:50:55",
+        "ip_address": "2a06:98c1:3123:e000::5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "70",
+        "first_seen": "2023-04-10 16:55:28",
+        "last_seen": "2023-11-22 08:51:19",
+        "ip_address": "2a06:98c1:3122:e000::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "70",
+        "first_seen": "2023-04-10 16:55:28",
+        "last_seen": "2023-11-22 08:51:19",
+        "ip_address": "2a06:98c1:3123:e000::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "2328",
+        "first_seen": "2022-06-27 17:33:37",
+        "last_seen": "2022-07-27 22:12:47",
+        "ip_address": "2a06:98c1:3123:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "the-dots.com",
+        "count": "10",
+        "first_seen": "2022-07-13 00:33:01",
+        "last_seen": "2022-07-13 01:30:25",
+        "ip_address": "2a06:98c1:3123:a000::5",
+        "type": "IPv6"
+    }
+]

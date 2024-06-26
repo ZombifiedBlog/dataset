@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "s.symomt.com",
+        "count": "10",
+        "first_seen": "2023-05-02 13:08:19",
+        "last_seen": "2024-01-12 07:36:36",
+        "ip_address": "34.254.1.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "s.symomt.com",
+        "count": "1",
+        "first_seen": "2022-04-12 18:09:23",
+        "last_seen": "2022-04-12 18:09:23",
+        "ip_address": "104.21.19.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "s.symomt.com",
+        "count": "1",
+        "first_seen": "2022-04-12 18:09:23",
+        "last_seen": "2022-04-12 18:09:23",
+        "ip_address": "172.67.190.132",
+        "type": "IPv4"
+    }
+]

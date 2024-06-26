@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "alpus.ntoca.com",
+        "count": "5",
+        "first_seen": "2022-11-03 00:44:47",
+        "last_seen": "2023-02-15 11:36:48",
+        "ip_address": "38.238.237.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "alpus.ntoca.com",
+        "count": "2",
+        "first_seen": "2022-03-07 16:01:34",
+        "last_seen": "2022-03-12 21:07:35",
+        "ip_address": "43.130.64.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "alpus.ntoca.com",
+        "count": "691",
+        "first_seen": "2022-02-09 20:22:27",
+        "last_seen": "2022-02-20 06:39:05",
+        "ip_address": "154.204.58.108",
+        "type": "IPv4"
+    },
+    {
+        "domain": "alpus.ntoca.com",
+        "count": "1",
+        "first_seen": "2023-03-22 05:26:04",
+        "last_seen": "2023-03-22 05:26:04",
+        "ip_address": "170.106.49.122",
+        "type": "IPv4"
+    }
+]

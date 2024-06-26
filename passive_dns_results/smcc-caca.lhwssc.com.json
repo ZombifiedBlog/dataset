@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "smcc-caca.lhwssc.com",
+        "count": "1",
+        "first_seen": "2021-02-19 18:45:15",
+        "last_seen": "2021-02-19 18:45:15",
+        "ip_address": "23.107.47.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-caca.lhwssc.com",
+        "count": "1",
+        "first_seen": "2020-12-19 19:10:55",
+        "last_seen": "2020-12-19 19:10:55",
+        "ip_address": "23.225.95.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-caca.lhwssc.com",
+        "count": "17",
+        "first_seen": "2021-01-02 10:45:04",
+        "last_seen": "2021-02-04 18:57:44",
+        "ip_address": "23.225.95.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-caca.lhwssc.com",
+        "count": "6",
+        "first_seen": "2021-12-05 02:34:47",
+        "last_seen": "2021-12-21 02:31:24",
+        "ip_address": "43.130.64.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-caca.lhwssc.com",
+        "count": "2",
+        "first_seen": "2021-12-11 18:36:23",
+        "last_seen": "2021-12-16 02:28:16",
+        "ip_address": "43.130.65.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-caca.lhwssc.com",
+        "count": "28",
+        "first_seen": "2020-11-24 09:25:30",
+        "last_seen": "2020-12-15 19:11:40",
+        "ip_address": "47.91.29.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-caca.lhwssc.com",
+        "count": "78",
+        "first_seen": "2020-11-09 06:19:58",
+        "last_seen": "2020-11-21 19:06:35",
+        "ip_address": "67.198.228.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-caca.lhwssc.com",
+        "count": "1",
+        "first_seen": "2021-11-30 18:37:54",
+        "last_seen": "2021-11-30 18:37:54",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    }
+]

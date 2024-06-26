@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.namc.co.za",
+        "count": "2357",
+        "first_seen": "2010-07-23 10:23:49",
+        "last_seen": "2012-06-01 10:25:48",
+        "ip_address": "41.204.198.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.namc.co.za",
+        "count": "8485",
+        "first_seen": "2017-02-07 21:06:13",
+        "last_seen": "2020-08-03 14:44:29",
+        "ip_address": "129.232.219.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.namc.co.za",
+        "count": "1064",
+        "first_seen": "2020-08-03 19:19:34",
+        "last_seen": "2021-03-30 09:19:26",
+        "ip_address": "154.0.164.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.namc.co.za",
+        "count": "7259",
+        "first_seen": "2013-09-24 11:58:32",
+        "last_seen": "2017-02-07 07:30:14",
+        "ip_address": "196.2.147.190",
+        "type": "IPv4"
+    }
+]

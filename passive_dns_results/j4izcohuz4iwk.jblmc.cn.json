@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "j4izcohuz4iwk.jblmc.cn",
+        "count": "14",
+        "first_seen": "2023-09-17 21:30:03",
+        "last_seen": "2023-10-14 06:05:16",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "j4izcohuz4iwk.jblmc.cn",
+        "count": "65",
+        "first_seen": "2023-05-17 04:19:43",
+        "last_seen": "2023-08-19 08:52:55",
+        "ip_address": "104.21.32.237",
+        "type": "IPv4"
+    },
+    {
+        "domain": "j4izcohuz4iwk.jblmc.cn",
+        "count": "65",
+        "first_seen": "2023-05-17 04:19:43",
+        "last_seen": "2023-08-19 08:52:55",
+        "ip_address": "172.67.156.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "j4izcohuz4iwk.jblmc.cn",
+        "count": "3",
+        "first_seen": "2023-07-14 11:17:09",
+        "last_seen": "2023-08-19 08:52:55",
+        "ip_address": "2606:4700:3033::ac43:9cd1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "j4izcohuz4iwk.jblmc.cn",
+        "count": "3",
+        "first_seen": "2023-07-14 11:17:09",
+        "last_seen": "2023-08-19 08:52:55",
+        "ip_address": "2606:4700:3037::6815:20ed",
+        "type": "IPv6"
+    }
+]

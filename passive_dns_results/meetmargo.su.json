@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "meetmargo.su",
+        "count": "14",
+        "first_seen": "2019-07-30 13:41:44",
+        "last_seen": "2019-07-31 11:02:45",
+        "ip_address": "84.201.175.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "meetmargo.su",
+        "count": "1672",
+        "first_seen": "2019-07-26 10:29:48",
+        "last_seen": "2019-07-26 18:56:23",
+        "ip_address": "95.214.62.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "meetmargo.su",
+        "count": "109",
+        "first_seen": "2020-07-28 13:55:19",
+        "last_seen": "2020-08-27 00:16:26",
+        "ip_address": "109.70.26.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "meetmargo.su",
+        "count": "109",
+        "first_seen": "2020-07-28 13:55:19",
+        "last_seen": "2020-08-27 00:16:26",
+        "ip_address": "194.85.61.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "meetmargo.su",
+        "count": "14659",
+        "first_seen": "2019-07-26 18:56:52",
+        "last_seen": "2019-07-30 03:04:55",
+        "ip_address": "129.226.62.162",
+        "type": "IPv4"
+    }
+]

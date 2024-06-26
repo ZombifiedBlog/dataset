@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "order-yodobashi-com.915fh.com",
+        "count": "891",
+        "first_seen": "2022-12-16 12:25:10",
+        "last_seen": "2022-12-31 19:48:48",
+        "ip_address": "104.21.11.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "order-yodobashi-com.915fh.com",
+        "count": "891",
+        "first_seen": "2022-12-16 12:25:10",
+        "last_seen": "2022-12-31 19:48:48",
+        "ip_address": "172.67.192.99",
+        "type": "IPv4"
+    },
+    {
+        "domain": "order-yodobashi-com.915fh.com",
+        "count": "27",
+        "first_seen": "2022-12-25 10:15:54",
+        "last_seen": "2022-12-31 14:23:38",
+        "ip_address": "2606:4700:3035::6815:bbd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "order-yodobashi-com.915fh.com",
+        "count": "27",
+        "first_seen": "2022-12-25 10:15:54",
+        "last_seen": "2022-12-31 14:23:38",
+        "ip_address": "2606:4700:3037::ac43:c063",
+        "type": "IPv6"
+    }
+]

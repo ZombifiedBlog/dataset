@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazon-co-jpweb.co",
+        "count": "140",
+        "first_seen": "2020-08-05 12:42:06",
+        "last_seen": "2021-07-18 03:42:14",
+        "ip_address": "14.63.174.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-co-jpweb.co",
+        "count": "218",
+        "first_seen": "2020-07-22 17:28:49",
+        "last_seen": "2020-08-05 10:26:53",
+        "ip_address": "34.102.136.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-co-jpweb.co",
+        "count": "57",
+        "first_seen": "2020-07-16 10:22:39",
+        "last_seen": "2020-07-22 07:13:51",
+        "ip_address": "184.168.131.241",
+        "type": "IPv4"
+    }
+]

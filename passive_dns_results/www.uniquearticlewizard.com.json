@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "www.uniquearticlewizard.com",
+        "count": "544",
+        "first_seen": "2021-01-13 19:30:52",
+        "last_seen": "2021-03-16 14:44:47",
+        "ip_address": "104.21.28.41",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.uniquearticlewizard.com",
+        "count": "544",
+        "first_seen": "2021-01-13 19:30:52",
+        "last_seen": "2021-03-16 14:44:47",
+        "ip_address": "172.67.144.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.uniquearticlewizard.com",
+        "count": "822",
+        "first_seen": "2020-09-30 16:14:10",
+        "last_seen": "2021-01-13 17:45:52",
+        "ip_address": "104.31.64.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.uniquearticlewizard.com",
+        "count": "822",
+        "first_seen": "2020-09-30 16:14:10",
+        "last_seen": "2021-01-13 17:45:52",
+        "ip_address": "104.31.65.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.uniquearticlewizard.com",
+        "count": "822",
+        "first_seen": "2020-09-30 16:14:10",
+        "last_seen": "2021-01-13 17:45:52",
+        "ip_address": "172.67.144.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.uniquearticlewizard.com",
+        "count": "11462",
+        "first_seen": "2022-07-21 18:29:58",
+        "last_seen": "2024-01-18 06:10:53",
+        "ip_address": "192.64.119.176",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.uniquearticlewizard.com",
+        "count": "6119",
+        "first_seen": "2021-03-16 18:03:32",
+        "last_seen": "2022-07-21 16:14:01",
+        "ip_address": "192.64.119.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.uniquearticlewizard.com",
+        "count": "688",
+        "first_seen": "2020-09-30 16:13:26",
+        "last_seen": "2021-01-13 17:45:52",
+        "ip_address": "2606:4700:3031::681f:405c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.uniquearticlewizard.com",
+        "count": "688",
+        "first_seen": "2020-09-30 16:13:26",
+        "last_seen": "2021-01-13 17:45:52",
+        "ip_address": "2606:4700:3032::681f:415c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.uniquearticlewizard.com",
+        "count": "688",
+        "first_seen": "2020-09-30 16:13:26",
+        "last_seen": "2021-01-13 17:45:52",
+        "ip_address": "2606:4700:3034::ac43:9012",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.uniquearticlewizard.com",
+        "count": "483",
+        "first_seen": "2021-01-13 19:30:52",
+        "last_seen": "2021-03-16 14:44:47",
+        "ip_address": "2606:4700:3032::6815:1c29",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.uniquearticlewizard.com",
+        "count": "483",
+        "first_seen": "2021-01-13 19:30:52",
+        "last_seen": "2021-03-16 14:44:47",
+        "ip_address": "2606:4700:3034::ac43:9012",
+        "type": "IPv6"
+    }
+]

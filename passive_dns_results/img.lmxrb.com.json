@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "img.lmxrb.com",
+        "count": "1114",
+        "first_seen": "2020-08-10 10:19:04",
+        "last_seen": "2020-10-22 14:01:37",
+        "ip_address": "104.28.24.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lmxrb.com",
+        "count": "1114",
+        "first_seen": "2020-08-10 10:19:04",
+        "last_seen": "2020-10-22 14:01:37",
+        "ip_address": "104.28.25.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lmxrb.com",
+        "count": "1114",
+        "first_seen": "2020-08-10 10:19:04",
+        "last_seen": "2020-10-22 14:01:37",
+        "ip_address": "172.67.187.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lmxrb.com",
+        "count": "265",
+        "first_seen": "2020-08-10 13:11:14",
+        "last_seen": "2020-10-22 14:01:37",
+        "ip_address": "2606:4700:3033::ac43:bb39",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lmxrb.com",
+        "count": "265",
+        "first_seen": "2020-08-10 13:11:14",
+        "last_seen": "2020-10-22 14:01:37",
+        "ip_address": "2606:4700:3036::681c:1899",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lmxrb.com",
+        "count": "265",
+        "first_seen": "2020-08-10 13:11:14",
+        "last_seen": "2020-10-22 14:01:37",
+        "ip_address": "2606:4700:3037::681c:1999",
+        "type": "IPv6"
+    }
+]

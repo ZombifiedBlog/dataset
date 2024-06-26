@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www2-micard-co-jp.jysw3.top",
+        "count": "105",
+        "first_seen": "2021-09-20 16:02:38",
+        "last_seen": "2021-09-21 18:48:25",
+        "ip_address": "104.21.95.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-micard-co-jp.jysw3.top",
+        "count": "105",
+        "first_seen": "2021-09-20 16:02:38",
+        "last_seen": "2021-09-21 18:48:25",
+        "ip_address": "172.67.170.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-micard-co-jp.jysw3.top",
+        "count": "1",
+        "first_seen": "2021-09-20 16:39:53",
+        "last_seen": "2021-09-20 16:39:53",
+        "ip_address": "2606:4700:3035::6815:5f90",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www2-micard-co-jp.jysw3.top",
+        "count": "1",
+        "first_seen": "2021-09-20 16:39:53",
+        "last_seen": "2021-09-20 16:39:53",
+        "ip_address": "2606:4700:3037::ac43:aa77",
+        "type": "IPv6"
+    }
+]

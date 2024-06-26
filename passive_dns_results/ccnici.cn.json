@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "ccnici.cn",
+        "count": "251",
+        "first_seen": "2022-11-27 08:27:29",
+        "last_seen": "2022-12-04 17:08:50",
+        "ip_address": "34.96.201.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ccnici.cn",
+        "count": "206",
+        "first_seen": "2022-12-16 17:20:02",
+        "last_seen": "2023-01-05 00:52:08",
+        "ip_address": "103.120.80.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ccnici.cn",
+        "count": "206",
+        "first_seen": "2022-12-16 17:20:02",
+        "last_seen": "2023-01-05 00:52:08",
+        "ip_address": "103.139.0.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ccnici.cn",
+        "count": "17",
+        "first_seen": "2019-09-22 01:07:07",
+        "last_seen": "2020-09-02 18:51:14",
+        "ip_address": "142.111.64.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ccnici.cn",
+        "count": "24",
+        "first_seen": "2020-11-27 02:51:21",
+        "last_seen": "2021-10-30 13:02:01",
+        "ip_address": "173.232.200.163",
+        "type": "IPv4"
+    }
+]

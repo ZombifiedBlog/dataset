@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "account-abnormal-content-reset-support-security-amazon.com",
+        "count": "29",
+        "first_seen": "2020-06-11 18:50:11",
+        "last_seen": "2020-06-12 12:51:35",
+        "ip_address": "91.215.169.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "account-abnormal-content-reset-support-security-amazon.com",
+        "count": "47",
+        "first_seen": "2020-06-10 06:37:08",
+        "last_seen": "2020-06-11 16:52:10",
+        "ip_address": "185.167.116.20",
+        "type": "IPv4"
+    }
+]

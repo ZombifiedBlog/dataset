@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www-yodobashi-com.neky797c.top",
+        "count": "207",
+        "first_seen": "2021-08-16 02:14:53",
+        "last_seen": "2021-08-18 18:12:25",
+        "ip_address": "104.21.20.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-yodobashi-com.neky797c.top",
+        "count": "207",
+        "first_seen": "2021-08-16 02:14:53",
+        "last_seen": "2021-08-18 18:12:25",
+        "ip_address": "172.67.190.249",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-yodobashi-com.neky797c.top",
+        "count": "4",
+        "first_seen": "2021-12-14 19:36:29",
+        "last_seen": "2021-12-14 19:36:33",
+        "ip_address": "128.14.142.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-yodobashi-com.neky797c.top",
+        "count": "8",
+        "first_seen": "2021-08-16 02:14:56",
+        "last_seen": "2021-08-16 16:16:49",
+        "ip_address": "2606:4700:3030::6815:1418",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-yodobashi-com.neky797c.top",
+        "count": "8",
+        "first_seen": "2021-08-16 02:14:56",
+        "last_seen": "2021-08-16 16:16:49",
+        "ip_address": "2606:4700:3035::ac43:bef9",
+        "type": "IPv6"
+    }
+]

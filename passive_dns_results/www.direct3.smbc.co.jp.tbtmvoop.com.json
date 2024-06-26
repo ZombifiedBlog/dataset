@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.direct3.smbc.co.jp.tbtmvoop.com",
+        "count": "4827",
+        "first_seen": "2023-05-14 02:43:23",
+        "last_seen": "2024-01-15 17:43:59",
+        "ip_address": "104.21.74.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.direct3.smbc.co.jp.tbtmvoop.com",
+        "count": "4827",
+        "first_seen": "2023-05-14 02:43:23",
+        "last_seen": "2024-01-15 17:43:59",
+        "ip_address": "172.67.152.175",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.direct3.smbc.co.jp.tbtmvoop.com",
+        "count": "624",
+        "first_seen": "2023-03-13 00:06:42",
+        "last_seen": "2023-03-28 01:25:35",
+        "ip_address": "162.245.189.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.direct3.smbc.co.jp.tbtmvoop.com",
+        "count": "10",
+        "first_seen": "2023-06-09 03:14:47",
+        "last_seen": "2024-01-16 11:31:43",
+        "ip_address": "2606:4700:3030::6815:4a0d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.direct3.smbc.co.jp.tbtmvoop.com",
+        "count": "10",
+        "first_seen": "2023-06-09 03:14:47",
+        "last_seen": "2024-01-16 11:31:43",
+        "ip_address": "2606:4700:3032::ac43:98af",
+        "type": "IPv6"
+    }
+]

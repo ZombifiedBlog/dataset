@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.stonehill.edu",
+        "count": "51940",
+        "first_seen": "2016-07-13 19:23:28",
+        "last_seen": "2017-07-27 13:05:25",
+        "ip_address": "23.253.152.132",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.stonehill.edu",
+        "count": "125404",
+        "first_seen": "2013-05-29 00:23:38",
+        "last_seen": "2016-07-13 19:17:51",
+        "ip_address": "69.20.31.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.stonehill.edu",
+        "count": "210908",
+        "first_seen": "2017-07-27 13:26:02",
+        "last_seen": "2024-01-18 04:27:44",
+        "ip_address": "207.97.249.27",
+        "type": "IPv4"
+    }
+]

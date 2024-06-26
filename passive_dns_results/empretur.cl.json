@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "empretur.cl",
+        "count": "3",
+        "first_seen": "2012-06-03 11:25:18",
+        "last_seen": "2012-10-14 18:17:44",
+        "ip_address": "69.163.161.185",
+        "type": "IPv4"
+    },
+    {
+        "domain": "empretur.cl",
+        "count": "6",
+        "first_seen": "2010-11-11 20:07:01",
+        "last_seen": "2011-08-07 02:31:45",
+        "ip_address": "173.192.214.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "empretur.cl",
+        "count": "8",
+        "first_seen": "2011-12-01 14:07:22",
+        "last_seen": "2012-01-30 16:58:40",
+        "ip_address": "173.193.232.184",
+        "type": "IPv4"
+    },
+    {
+        "domain": "empretur.cl",
+        "count": "5",
+        "first_seen": "2014-11-05 13:07:02",
+        "last_seen": "2014-11-05 23:41:47",
+        "ip_address": "173.236.154.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "empretur.cl",
+        "count": "156",
+        "first_seen": "2023-10-25 02:03:49",
+        "last_seen": "2024-01-18 03:30:04",
+        "ip_address": "186.64.116.135",
+        "type": "IPv4"
+    },
+    {
+        "domain": "empretur.cl",
+        "count": "1999",
+        "first_seen": "2020-01-31 17:59:31",
+        "last_seen": "2023-10-23 20:20:08",
+        "ip_address": "186.64.118.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "empretur.cl",
+        "count": "2",
+        "first_seen": "2012-02-14 19:06:29",
+        "last_seen": "2012-02-14 19:06:29",
+        "ip_address": "190.98.219.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "empretur.cl",
+        "count": "12",
+        "first_seen": "2015-03-18 18:03:03",
+        "last_seen": "2015-09-06 21:07:37",
+        "ip_address": "208.113.222.66",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "regence.asia",
+        "count": "199",
+        "first_seen": "2015-07-10 15:05:52",
+        "last_seen": "2016-03-04 23:54:47",
+        "ip_address": "50.63.202.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "regence.asia",
+        "count": "22",
+        "first_seen": "2014-02-20 21:32:54",
+        "last_seen": "2014-09-08 17:07:49",
+        "ip_address": "64.187.180.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "regence.asia",
+        "count": "953",
+        "first_seen": "2015-02-20 11:55:10",
+        "last_seen": "2015-07-10 10:45:40",
+        "ip_address": "160.153.49.102",
+        "type": "IPv4"
+    }
+]

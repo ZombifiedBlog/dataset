@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "account-amazon.email",
+        "count": "4",
+        "first_seen": "2021-07-23 04:41:15",
+        "last_seen": "2021-07-26 21:07:36",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "account-amazon.email",
+        "count": "2",
+        "first_seen": "2020-06-26 09:53:35",
+        "last_seen": "2020-06-26 09:53:35",
+        "ip_address": "50.63.202.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "account-amazon.email",
+        "count": "105",
+        "first_seen": "2020-06-27 20:31:05",
+        "last_seen": "2021-06-27 22:44:09",
+        "ip_address": "118.27.11.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "account-amazon.email",
+        "count": "2",
+        "first_seen": "2020-06-27 01:54:35",
+        "last_seen": "2020-06-27 01:54:35",
+        "ip_address": "184.168.221.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "account-amazon.email",
+        "count": "4",
+        "first_seen": "2020-06-26 10:00:35",
+        "last_seen": "2020-06-27 08:13:49",
+        "ip_address": "184.168.221.50",
+        "type": "IPv4"
+    }
+]

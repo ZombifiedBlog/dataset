@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "verification-amazon-tz009.ml",
+        "count": "53",
+        "first_seen": "2021-01-29 17:42:26",
+        "last_seen": "2023-02-23 17:38:26",
+        "ip_address": "195.20.52.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "verification-amazon-tz009.ml",
+        "count": "2315",
+        "first_seen": "2020-09-03 22:12:01",
+        "last_seen": "2020-11-19 16:11:25",
+        "ip_address": "52.246.186.145",
+        "type": "IPv4"
+    }
+]

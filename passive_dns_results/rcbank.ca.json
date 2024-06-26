@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "rcbank.ca",
+        "count": "661",
+        "first_seen": "2020-11-19 06:12:05",
+        "last_seen": "2020-12-07 16:14:11",
+        "ip_address": "91.234.99.97",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rcbank.ca",
+        "count": "11",
+        "first_seen": "2020-08-04 09:36:27",
+        "last_seen": "2020-09-12 19:39:32",
+        "ip_address": "91.234.99.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rcbank.ca",
+        "count": "45",
+        "first_seen": "2020-02-04 01:50:49",
+        "last_seen": "2020-06-01 16:19:22",
+        "ip_address": "195.144.21.127",
+        "type": "IPv4"
+    }
+]

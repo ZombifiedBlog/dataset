@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.nhkplus.or.login.donnabjorklund.com",
+        "count": "1",
+        "first_seen": "2023-07-29 06:06:03",
+        "last_seen": "2023-07-29 06:06:03",
+        "ip_address": "104.21.72.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.nhkplus.or.login.donnabjorklund.com",
+        "count": "1",
+        "first_seen": "2023-07-29 06:06:03",
+        "last_seen": "2023-07-29 06:06:03",
+        "ip_address": "172.67.187.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.nhkplus.or.login.donnabjorklund.com",
+        "count": "2",
+        "first_seen": "2023-07-12 15:22:06",
+        "last_seen": "2023-07-12 15:22:06",
+        "ip_address": "107.174.65.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.nhkplus.or.login.donnabjorklund.com",
+        "count": "2",
+        "first_seen": "2023-09-13 01:00:09",
+        "last_seen": "2023-09-30 09:02:09",
+        "ip_address": "172.87.28.166",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.nhkplus.or.login.donnabjorklund.com",
+        "count": "3",
+        "first_seen": "2023-07-11 11:36:31",
+        "last_seen": "2023-07-11 11:41:17",
+        "ip_address": "204.44.99.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.nhkplus.or.login.donnabjorklund.com",
+        "count": "1",
+        "first_seen": "2023-11-24 06:35:08",
+        "last_seen": "2023-11-24 06:35:08",
+        "ip_address": "2606:4700:3035::ac43:998c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.nhkplus.or.login.donnabjorklund.com",
+        "count": "1",
+        "first_seen": "2023-11-24 06:35:08",
+        "last_seen": "2023-11-24 06:35:08",
+        "ip_address": "2606:4700:3036::6815:58da",
+        "type": "IPv6"
+    }
+]

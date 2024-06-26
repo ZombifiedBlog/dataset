@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.gva7.cn",
+        "count": "17",
+        "first_seen": "2022-04-30 16:43:13",
+        "last_seen": "2022-05-03 20:38:57",
+        "ip_address": "43.130.65.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gva7.cn",
+        "count": "77",
+        "first_seen": "2022-03-09 18:27:47",
+        "last_seen": "2022-04-26 13:18:24",
+        "ip_address": "104.21.47.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gva7.cn",
+        "count": "77",
+        "first_seen": "2022-03-09 18:27:47",
+        "last_seen": "2022-04-26 13:18:24",
+        "ip_address": "172.67.172.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gva7.cn",
+        "count": "4",
+        "first_seen": "2022-03-13 04:44:55",
+        "last_seen": "2022-03-14 04:29:01",
+        "ip_address": "188.114.96.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gva7.cn",
+        "count": "12",
+        "first_seen": "2022-03-11 04:56:51",
+        "last_seen": "2022-04-04 02:00:41",
+        "ip_address": "2606:4700:3034::ac43:ac28",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.gva7.cn",
+        "count": "12",
+        "first_seen": "2022-03-11 04:56:51",
+        "last_seen": "2022-04-04 02:00:41",
+        "ip_address": "2606:4700:3036::6815:2fc5",
+        "type": "IPv6"
+    }
+]

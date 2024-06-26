@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "my.jcb.co.nbwsdb.com",
+        "count": "288",
+        "first_seen": "2020-12-20 16:35:06",
+        "last_seen": "2021-01-04 00:49:20",
+        "ip_address": "45.80.184.249",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.nbwsdb.com",
+        "count": "1",
+        "first_seen": "2021-01-06 04:58:00",
+        "last_seen": "2021-01-06 04:58:00",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.nbwsdb.com",
+        "count": "2",
+        "first_seen": "2022-04-06 23:44:40",
+        "last_seen": "2022-04-29 09:32:12",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    }
+]

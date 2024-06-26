@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "timesofemail.com",
+        "count": "490",
+        "first_seen": "2018-03-22 20:16:13",
+        "last_seen": "2018-04-13 11:40:08",
+        "ip_address": "162.144.116.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "timesofemail.com",
+        "count": "138",
+        "first_seen": "2018-04-13 16:00:16",
+        "last_seen": "2018-04-25 03:46:16",
+        "ip_address": "162.144.130.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "timesofemail.com",
+        "count": "392",
+        "first_seen": "2018-02-26 13:48:16",
+        "last_seen": "2018-03-23 09:58:30",
+        "ip_address": "162.144.197.231",
+        "type": "IPv4"
+    },
+    {
+        "domain": "timesofemail.com",
+        "count": "17",
+        "first_seen": "2019-02-26 04:13:01",
+        "last_seen": "2019-04-07 04:16:55",
+        "ip_address": "209.99.40.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "timesofemail.com",
+        "count": "8",
+        "first_seen": "2019-03-13 05:15:28",
+        "last_seen": "2019-04-06 11:14:16",
+        "ip_address": "209.99.40.223",
+        "type": "IPv4"
+    }
+]

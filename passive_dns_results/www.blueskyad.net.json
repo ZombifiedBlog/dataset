@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.blueskyad.net",
+        "count": "59",
+        "first_seen": "2019-11-28 01:14:15",
+        "last_seen": "2020-10-04 21:57:45",
+        "ip_address": "45.192.64.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.blueskyad.net",
+        "count": "4",
+        "first_seen": "2021-04-01 21:45:03",
+        "last_seen": "2022-01-28 05:16:26",
+        "ip_address": "45.192.64.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.blueskyad.net",
+        "count": "4",
+        "first_seen": "2021-04-01 21:45:03",
+        "last_seen": "2022-01-28 05:16:26",
+        "ip_address": "45.199.108.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.blueskyad.net",
+        "count": "15",
+        "first_seen": "2022-07-11 22:08:33",
+        "last_seen": "2022-10-30 09:25:48",
+        "ip_address": "104.232.72.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.blueskyad.net",
+        "count": "98",
+        "first_seen": "2023-03-06 21:31:05",
+        "last_seen": "2023-04-17 23:43:04",
+        "ip_address": "104.232.75.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.blueskyad.net",
+        "count": "2179",
+        "first_seen": "2023-04-22 02:37:54",
+        "last_seen": "2023-05-06 06:29:11",
+        "ip_address": "192.161.55.21",
+        "type": "IPv4"
+    }
+]

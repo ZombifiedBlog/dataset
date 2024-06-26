@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "spockvii.com",
+        "count": "83",
+        "first_seen": "2019-11-24 18:30:09",
+        "last_seen": "2022-01-02 07:13:06",
+        "ip_address": "31.47.72.143",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spockvii.com",
+        "count": "83",
+        "first_seen": "2019-11-24 18:30:09",
+        "last_seen": "2022-01-02 07:13:06",
+        "ip_address": "31.47.72.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spockvii.com",
+        "count": "27093",
+        "first_seen": "2016-09-16 11:33:06",
+        "last_seen": "2021-11-24 09:23:19",
+        "ip_address": "178.60.224.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spockvii.com",
+        "count": "25",
+        "first_seen": "2015-11-25 03:53:29",
+        "last_seen": "2016-09-01 01:56:51",
+        "ip_address": "178.60.224.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "spockvii.com",
+        "count": "16",
+        "first_seen": "2021-11-25 00:48:45",
+        "last_seen": "2021-12-23 08:06:57",
+        "ip_address": "2a01:a940:419:8f::1000",
+        "type": "IPv6"
+    },
+    {
+        "domain": "spockvii.com",
+        "count": "16",
+        "first_seen": "2021-11-25 00:48:45",
+        "last_seen": "2021-12-23 08:06:57",
+        "ip_address": "2a01:a940:419:99::1000",
+        "type": "IPv6"
+    }
+]

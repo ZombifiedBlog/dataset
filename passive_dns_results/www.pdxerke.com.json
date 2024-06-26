@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.pdxerke.com",
+        "count": "3288",
+        "first_seen": "2022-05-13 11:57:15",
+        "last_seen": "2022-05-22 18:13:07",
+        "ip_address": "23.94.24.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.pdxerke.com",
+        "count": "20",
+        "first_seen": "2022-06-07 03:44:24",
+        "last_seen": "2022-06-14 07:18:56",
+        "ip_address": "35.240.224.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.pdxerke.com",
+        "count": "190",
+        "first_seen": "2022-08-01 18:40:47",
+        "last_seen": "2023-09-08 00:46:41",
+        "ip_address": "103.224.212.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.pdxerke.com",
+        "count": "1",
+        "first_seen": "2022-10-22 15:05:32",
+        "last_seen": "2022-10-22 15:05:32",
+        "ip_address": "108.59.12.98",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.pdxerke.com",
+        "count": "1",
+        "first_seen": "2023-02-25 11:29:55",
+        "last_seen": "2023-02-25 11:29:55",
+        "ip_address": "170.178.168.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.pdxerke.com",
+        "count": "4",
+        "first_seen": "2023-06-18 20:11:49",
+        "last_seen": "2023-06-18 20:12:02",
+        "ip_address": "170.178.183.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.pdxerke.com",
+        "count": "1",
+        "first_seen": "2021-06-03 16:13:12",
+        "last_seen": "2021-06-03 16:13:12",
+        "ip_address": "180.215.129.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.pdxerke.com",
+        "count": "6",
+        "first_seen": "2022-11-16 15:20:05",
+        "last_seen": "2023-06-18 20:11:45",
+        "ip_address": "199.115.116.43",
+        "type": "IPv4"
+    }
+]

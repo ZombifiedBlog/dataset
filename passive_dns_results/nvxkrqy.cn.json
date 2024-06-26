@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "nvxkrqy.cn",
+        "count": "28",
+        "first_seen": "2022-12-16 20:12:02",
+        "last_seen": "2023-01-13 03:58:16",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nvxkrqy.cn",
+        "count": "584",
+        "first_seen": "2022-07-06 08:14:18",
+        "last_seen": "2022-08-09 08:13:22",
+        "ip_address": "104.21.77.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nvxkrqy.cn",
+        "count": "584",
+        "first_seen": "2022-07-06 08:14:18",
+        "last_seen": "2022-08-09 08:13:22",
+        "ip_address": "172.67.208.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nvxkrqy.cn",
+        "count": "1",
+        "first_seen": "2022-07-06 08:14:38",
+        "last_seen": "2022-07-06 08:14:38",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nvxkrqy.cn",
+        "count": "1",
+        "first_seen": "2022-07-06 08:14:39",
+        "last_seen": "2022-07-06 08:14:39",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "nvxkrqy.cn",
+        "count": "16",
+        "first_seen": "2022-07-06 08:44:45",
+        "last_seen": "2022-07-06 22:25:50",
+        "ip_address": "2606:4700:3033::ac43:d0e6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "nvxkrqy.cn",
+        "count": "16",
+        "first_seen": "2022-07-06 08:44:45",
+        "last_seen": "2022-07-06 22:25:50",
+        "ip_address": "2606:4700:3035::6815:4d8a",
+        "type": "IPv6"
+    }
+]

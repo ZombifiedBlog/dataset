@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "szaszberek.hu",
+        "count": "19",
+        "first_seen": "2019-01-21 20:11:34",
+        "last_seen": "2019-02-12 11:28:08",
+        "ip_address": "80.249.164.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "szaszberek.hu",
+        "count": "21",
+        "first_seen": "2012-05-29 08:03:19",
+        "last_seen": "2013-11-04 15:41:34",
+        "ip_address": "87.229.73.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "szaszberek.hu",
+        "count": "2",
+        "first_seen": "2011-05-25 22:44:37",
+        "last_seen": "2012-03-10 01:30:14",
+        "ip_address": "87.229.73.156",
+        "type": "IPv4"
+    },
+    {
+        "domain": "szaszberek.hu",
+        "count": "2489",
+        "first_seen": "2019-02-13 01:22:59",
+        "last_seen": "2024-01-16 13:12:46",
+        "ip_address": "193.91.64.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "szaszberek.hu",
+        "count": "2558",
+        "first_seen": "2013-11-25 10:30:45",
+        "last_seen": "2019-01-18 21:59:05",
+        "ip_address": "195.228.152.16",
+        "type": "IPv4"
+    }
+]

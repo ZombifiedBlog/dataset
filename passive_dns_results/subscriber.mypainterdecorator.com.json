@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.mypainterdecorator.com",
+        "count": "3796",
+        "first_seen": "2023-01-06 15:24:43",
+        "last_seen": "2023-01-31 09:01:11",
+        "ip_address": "104.21.18.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.mypainterdecorator.com",
+        "count": "3796",
+        "first_seen": "2023-01-06 15:24:43",
+        "last_seen": "2023-01-31 09:01:11",
+        "ip_address": "172.67.179.159",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.mypainterdecorator.com",
+        "count": "48",
+        "first_seen": "2023-05-23 21:09:50",
+        "last_seen": "2024-01-10 06:45:32",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.mypainterdecorator.com",
+        "count": "14",
+        "first_seen": "2023-09-07 16:22:50",
+        "last_seen": "2024-01-09 18:20:15",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.mypainterdecorator.com",
+        "count": "87",
+        "first_seen": "2023-01-06 17:14:33",
+        "last_seen": "2023-01-31 09:24:51",
+        "ip_address": "2606:4700:3030::6815:1212",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.mypainterdecorator.com",
+        "count": "87",
+        "first_seen": "2023-01-06 17:14:33",
+        "last_seen": "2023-01-31 09:24:51",
+        "ip_address": "2606:4700:3033::ac43:b39f",
+        "type": "IPv6"
+    }
+]

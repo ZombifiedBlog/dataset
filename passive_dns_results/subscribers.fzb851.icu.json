@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscribers.fzb851.icu",
+        "count": "320",
+        "first_seen": "2020-08-27 00:30:29",
+        "last_seen": "2020-09-14 21:00:32",
+        "ip_address": "104.31.80.238",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.fzb851.icu",
+        "count": "320",
+        "first_seen": "2020-08-27 00:30:29",
+        "last_seen": "2020-09-14 21:00:32",
+        "ip_address": "104.31.81.238",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.fzb851.icu",
+        "count": "320",
+        "first_seen": "2020-08-27 00:30:29",
+        "last_seen": "2020-09-14 21:00:32",
+        "ip_address": "172.67.160.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.fzb851.icu",
+        "count": "136",
+        "first_seen": "2020-08-27 16:43:26",
+        "last_seen": "2020-09-14 21:00:32",
+        "ip_address": "2606:4700:3033::681f:51ee",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.fzb851.icu",
+        "count": "136",
+        "first_seen": "2020-08-27 16:43:26",
+        "last_seen": "2020-09-14 21:00:32",
+        "ip_address": "2606:4700:3037::681f:50ee",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.fzb851.icu",
+        "count": "136",
+        "first_seen": "2020-08-27 16:43:26",
+        "last_seen": "2020-09-14 21:00:32",
+        "ip_address": "2606:4700:3037::ac43:a0f6",
+        "type": "IPv6"
+    }
+]

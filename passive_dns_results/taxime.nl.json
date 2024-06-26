@@ -1,0 +1,106 @@
+[
+    {
+        "domain": "taxime.nl",
+        "count": "74",
+        "first_seen": "2021-10-09 05:54:31",
+        "last_seen": "2022-02-20 19:03:57",
+        "ip_address": "3.64.163.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "taxime.nl",
+        "count": "2",
+        "first_seen": "2013-03-22 07:09:03",
+        "last_seen": "2013-06-04 07:25:06",
+        "ip_address": "37.153.97.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "taxime.nl",
+        "count": "53",
+        "first_seen": "2021-02-24 01:49:59",
+        "last_seen": "2021-09-30 14:53:56",
+        "ip_address": "52.58.78.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "taxime.nl",
+        "count": "216",
+        "first_seen": "2019-01-23 00:25:18",
+        "last_seen": "2019-06-03 10:43:33",
+        "ip_address": "94.142.214.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "taxime.nl",
+        "count": "1",
+        "first_seen": "2022-04-02 07:58:30",
+        "last_seen": "2022-04-02 07:58:30",
+        "ip_address": "104.21.64.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "taxime.nl",
+        "count": "1",
+        "first_seen": "2022-04-02 07:58:30",
+        "last_seen": "2022-04-02 07:58:30",
+        "ip_address": "172.67.187.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "taxime.nl",
+        "count": "1",
+        "first_seen": "2010-12-02 18:16:32",
+        "last_seen": "2010-12-02 18:16:32",
+        "ip_address": "184.106.196.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "taxime.nl",
+        "count": "605",
+        "first_seen": "2022-04-08 09:47:59",
+        "last_seen": "2024-01-16 07:30:37",
+        "ip_address": "185.85.211.151",
+        "type": "IPv4"
+    },
+    {
+        "domain": "taxime.nl",
+        "count": "1819",
+        "first_seen": "2019-12-25 18:00:39",
+        "last_seen": "2021-01-12 07:56:55",
+        "ip_address": "185.182.56.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "taxime.nl",
+        "count": "157",
+        "first_seen": "2019-06-05 20:31:31",
+        "last_seen": "2019-10-06 01:31:36",
+        "ip_address": "185.182.57.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "taxime.nl",
+        "count": "24",
+        "first_seen": "2021-02-24 02:00:09",
+        "last_seen": "2021-11-12 17:53:31",
+        "ip_address": "2a05:d014:9da:8c10:306e:3e07:a16f:a552",
+        "type": "IPv6"
+    },
+    {
+        "domain": "taxime.nl",
+        "count": "166",
+        "first_seen": "2019-12-27 13:01:33",
+        "last_seen": "2021-01-06 03:36:01",
+        "ip_address": "2a0b:7280:200:0:1c00:b2ff:fe00:de1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "taxime.nl",
+        "count": "59",
+        "first_seen": "2019-06-06 13:00:39",
+        "last_seen": "2019-09-27 15:31:28",
+        "ip_address": "2a0b:7280:300:0:433:64ff:fe00:2367",
+        "type": "IPv6"
+    }
+]

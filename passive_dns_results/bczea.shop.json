@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "bczea.shop",
+        "count": "20",
+        "first_seen": "2022-11-09 09:26:42",
+        "last_seen": "2023-01-30 08:23:24",
+        "ip_address": "23.227.38.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bczea.shop",
+        "count": "333",
+        "first_seen": "2023-02-06 18:32:03",
+        "last_seen": "2023-09-12 20:14:00",
+        "ip_address": "45.83.140.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bczea.shop",
+        "count": "39",
+        "first_seen": "2023-09-20 22:43:27",
+        "last_seen": "2023-10-25 11:12:27",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bczea.shop",
+        "count": "9",
+        "first_seen": "2022-09-25 06:31:06",
+        "last_seen": "2022-10-11 04:22:42",
+        "ip_address": "104.222.243.68",
+        "type": "IPv4"
+    }
+]

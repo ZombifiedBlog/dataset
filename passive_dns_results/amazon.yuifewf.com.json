@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "amazon.yuifewf.com",
+        "count": "79",
+        "first_seen": "2020-06-14 08:08:03",
+        "last_seen": "2020-06-16 14:30:23",
+        "ip_address": "104.31.84.63",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.yuifewf.com",
+        "count": "79",
+        "first_seen": "2020-06-14 08:08:03",
+        "last_seen": "2020-06-16 14:30:23",
+        "ip_address": "104.31.85.63",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.yuifewf.com",
+        "count": "79",
+        "first_seen": "2020-06-14 08:08:03",
+        "last_seen": "2020-06-16 14:30:23",
+        "ip_address": "172.67.209.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.yuifewf.com",
+        "count": "81",
+        "first_seen": "2020-06-14 08:08:03",
+        "last_seen": "2020-06-16 14:30:23",
+        "ip_address": "2606:4700:3032::681f:543f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon.yuifewf.com",
+        "count": "81",
+        "first_seen": "2020-06-14 08:08:03",
+        "last_seen": "2020-06-16 14:30:23",
+        "ip_address": "2606:4700:3033::681f:553f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon.yuifewf.com",
+        "count": "81",
+        "first_seen": "2020-06-14 08:08:03",
+        "last_seen": "2020-06-16 14:30:23",
+        "ip_address": "2606:4700:3033::ac43:d1c5",
+        "type": "IPv6"
+    }
+]

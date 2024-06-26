@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "mm.cclfvyqm.ru",
+        "count": "12",
+        "first_seen": "2023-11-16 21:10:47",
+        "last_seen": "2023-12-03 16:11:43",
+        "ip_address": "31.177.76.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mm.cclfvyqm.ru",
+        "count": "12",
+        "first_seen": "2023-11-16 21:10:47",
+        "last_seen": "2023-12-03 16:11:43",
+        "ip_address": "31.177.80.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mm.cclfvyqm.ru",
+        "count": "5351",
+        "first_seen": "2023-05-06 00:59:19",
+        "last_seen": "2023-10-30 23:53:45",
+        "ip_address": "104.21.46.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mm.cclfvyqm.ru",
+        "count": "5351",
+        "first_seen": "2023-05-06 00:59:19",
+        "last_seen": "2023-10-30 23:53:45",
+        "ip_address": "172.67.138.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mm.cclfvyqm.ru",
+        "count": "14",
+        "first_seen": "2023-12-11 21:14:26",
+        "last_seen": "2024-01-09 01:39:29",
+        "ip_address": "185.53.177.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mm.cclfvyqm.ru",
+        "count": "177",
+        "first_seen": "2023-05-06 00:59:20",
+        "last_seen": "2023-10-30 23:53:45",
+        "ip_address": "2606:4700:3034::6815:2e75",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mm.cclfvyqm.ru",
+        "count": "177",
+        "first_seen": "2023-05-06 00:59:20",
+        "last_seen": "2023-10-30 23:53:45",
+        "ip_address": "2606:4700:3036::ac43:8a4c",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www_rekutan_co_jp.mccm2122.vip",
+        "count": "105",
+        "first_seen": "2021-06-02 12:50:12",
+        "last_seen": "2021-07-09 20:26:53",
+        "ip_address": "104.21.63.186",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www_rekutan_co_jp.mccm2122.vip",
+        "count": "105",
+        "first_seen": "2021-06-02 12:50:12",
+        "last_seen": "2021-07-09 20:26:53",
+        "ip_address": "172.67.149.82",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www_rekutan_co_jp.mccm2122.vip",
+        "count": "60",
+        "first_seen": "2021-08-03 21:10:21",
+        "last_seen": "2021-11-19 12:39:36",
+        "ip_address": "160.251.13.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www_rekutan_co_jp.mccm2122.vip",
+        "count": "50",
+        "first_seen": "2021-06-02 12:50:12",
+        "last_seen": "2021-07-19 21:17:00",
+        "ip_address": "2606:4700:3036::6815:3fba",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www_rekutan_co_jp.mccm2122.vip",
+        "count": "50",
+        "first_seen": "2021-06-02 12:50:12",
+        "last_seen": "2021-07-19 21:17:00",
+        "ip_address": "2606:4700:3036::ac43:9552",
+        "type": "IPv6"
+    }
+]

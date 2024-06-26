@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.87off-bags.com",
+        "count": "37",
+        "first_seen": "2023-10-25 04:06:11",
+        "last_seen": "2023-11-27 04:06:19",
+        "ip_address": "91.195.240.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.87off-bags.com",
+        "count": "24607",
+        "first_seen": "2022-10-17 23:37:42",
+        "last_seen": "2022-11-21 20:12:40",
+        "ip_address": "104.21.24.142",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.87off-bags.com",
+        "count": "24607",
+        "first_seen": "2022-10-17 23:37:42",
+        "last_seen": "2022-11-21 20:12:40",
+        "ip_address": "172.67.218.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.87off-bags.com",
+        "count": "2",
+        "first_seen": "2022-10-30 20:46:55",
+        "last_seen": "2022-11-20 08:17:11",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.87off-bags.com",
+        "count": "118",
+        "first_seen": "2022-10-17 23:38:25",
+        "last_seen": "2022-11-21 02:20:54",
+        "ip_address": "2606:4700:3030::6815:188e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.87off-bags.com",
+        "count": "118",
+        "first_seen": "2022-10-17 23:38:25",
+        "last_seen": "2022-11-21 02:20:54",
+        "ip_address": "2606:4700:3036::ac43:dafb",
+        "type": "IPv6"
+    }
+]

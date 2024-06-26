@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "security-subscriber-center.draudience.com",
+        "count": "2",
+        "first_seen": "2023-11-06 19:26:43",
+        "last_seen": "2023-11-06 19:26:43",
+        "ip_address": "103.224.212.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.draudience.com",
+        "count": "15",
+        "first_seen": "2023-02-13 21:41:40",
+        "last_seen": "2023-08-23 02:20:55",
+        "ip_address": "103.224.212.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.draudience.com",
+        "count": "4274",
+        "first_seen": "2022-10-01 23:25:03",
+        "last_seen": "2022-12-06 12:59:02",
+        "ip_address": "104.21.50.109",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.draudience.com",
+        "count": "4274",
+        "first_seen": "2022-10-01 23:25:03",
+        "last_seen": "2022-12-06 12:59:02",
+        "ip_address": "172.67.204.243",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.draudience.com",
+        "count": "194",
+        "first_seen": "2022-10-07 22:14:46",
+        "last_seen": "2022-12-06 04:48:24",
+        "ip_address": "2606:4700:3030::6815:326d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "security-subscriber-center.draudience.com",
+        "count": "194",
+        "first_seen": "2022-10-07 22:14:46",
+        "last_seen": "2022-12-06 04:48:24",
+        "ip_address": "2606:4700:3034::ac43:ccf3",
+        "type": "IPv6"
+    }
+]

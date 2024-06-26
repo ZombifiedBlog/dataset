@@ -1,0 +1,106 @@
+[
+    {
+        "domain": "www.kddi.com",
+        "count": "215838",
+        "first_seen": "2010-06-24 15:27:23",
+        "last_seen": "2013-03-25 19:53:27",
+        "ip_address": "61.200.220.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kddi.com",
+        "count": "31420",
+        "first_seen": "2019-01-28 01:42:35",
+        "last_seen": "2020-06-21 00:28:16",
+        "ip_address": "106.162.242.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kddi.com",
+        "count": "267307",
+        "first_seen": "2020-06-21 01:32:42",
+        "last_seen": "2024-01-18 14:31:46",
+        "ip_address": "106.162.242.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kddi.com",
+        "count": "41320",
+        "first_seen": "2013-03-25 20:06:25",
+        "last_seen": "2014-03-07 01:56:04",
+        "ip_address": "106.162.242.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kddi.com",
+        "count": "152033",
+        "first_seen": "2014-03-07 02:06:32",
+        "last_seen": "2019-01-28 01:25:22",
+        "ip_address": "106.162.242.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kddi.com",
+        "count": "8597",
+        "first_seen": "2011-06-06 08:30:44",
+        "last_seen": "2013-03-25 17:41:18",
+        "ip_address": "2001:268:fa01:b03::1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.kddi.com",
+        "count": "8597",
+        "first_seen": "2011-06-06 08:30:44",
+        "last_seen": "2013-03-25 17:41:18",
+        "ip_address": "2001:268:fa01:b04::1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.kddi.com",
+        "count": "18550",
+        "first_seen": "2019-01-28 01:42:36",
+        "last_seen": "2020-06-21 00:28:17",
+        "ip_address": "2001:268:fa03:500:106:162:242:8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.kddi.com",
+        "count": "135563",
+        "first_seen": "2020-06-21 01:32:42",
+        "last_seen": "2024-01-18 08:05:03",
+        "ip_address": "2001:268:fa03:500:106:162:242:11",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.kddi.com",
+        "count": "4177",
+        "first_seen": "2013-03-26 02:18:37",
+        "last_seen": "2014-03-07 01:39:24",
+        "ip_address": "2001:268:fa03:500:106:162:242:16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.kddi.com",
+        "count": "41173",
+        "first_seen": "2014-03-07 04:52:41",
+        "last_seen": "2019-01-28 01:25:22",
+        "ip_address": "2001:268:fa03:500:106:162:242:107",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.kddi.com",
+        "count": "6578",
+        "first_seen": "2010-06-30 16:39:25",
+        "last_seen": "2011-06-06 05:01:45",
+        "ip_address": "2001:268:fd01::1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.kddi.com",
+        "count": "6578",
+        "first_seen": "2010-06-30 16:39:25",
+        "last_seen": "2011-06-06 05:01:45",
+        "ip_address": "2001:268:fd02::1",
+        "type": "IPv6"
+    }
+]

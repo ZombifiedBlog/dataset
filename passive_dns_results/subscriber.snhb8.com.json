@@ -1,0 +1,130 @@
+[
+    {
+        "domain": "subscriber.snhb8.com",
+        "count": "2",
+        "first_seen": "2021-03-14 15:58:05",
+        "last_seen": "2021-03-14 15:58:05",
+        "ip_address": "47.74.14.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.snhb8.com",
+        "count": "1",
+        "first_seen": "2021-01-17 02:05:28",
+        "last_seen": "2021-01-17 02:05:28",
+        "ip_address": "104.21.72.131",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.snhb8.com",
+        "count": "1",
+        "first_seen": "2021-01-17 02:05:28",
+        "last_seen": "2021-01-17 02:05:28",
+        "ip_address": "172.67.185.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.snhb8.com",
+        "count": "12",
+        "first_seen": "2020-12-30 02:05:25",
+        "last_seen": "2021-01-07 02:05:27",
+        "ip_address": "104.24.118.169",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.snhb8.com",
+        "count": "12",
+        "first_seen": "2020-12-30 02:05:25",
+        "last_seen": "2021-01-07 02:05:27",
+        "ip_address": "104.24.119.169",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.snhb8.com",
+        "count": "12",
+        "first_seen": "2020-12-30 02:05:25",
+        "last_seen": "2021-01-07 02:05:27",
+        "ip_address": "172.67.185.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.snhb8.com",
+        "count": "1586",
+        "first_seen": "2020-10-29 15:10:48",
+        "last_seen": "2020-12-25 02:05:30",
+        "ip_address": "104.28.22.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.snhb8.com",
+        "count": "1586",
+        "first_seen": "2020-10-29 15:10:48",
+        "last_seen": "2020-12-25 02:05:30",
+        "ip_address": "104.28.23.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.snhb8.com",
+        "count": "1586",
+        "first_seen": "2020-10-29 15:10:48",
+        "last_seen": "2020-12-25 02:05:30",
+        "ip_address": "172.67.181.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.snhb8.com",
+        "count": "2",
+        "first_seen": "2020-10-29 16:32:07",
+        "last_seen": "2020-10-29 16:32:07",
+        "ip_address": "172.64.83.243",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.snhb8.com",
+        "count": "4",
+        "first_seen": "2020-12-31 13:21:34",
+        "last_seen": "2021-01-06 21:07:09",
+        "ip_address": "2606:4700:3034::6818:77a9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.snhb8.com",
+        "count": "4",
+        "first_seen": "2020-12-31 13:21:34",
+        "last_seen": "2021-01-06 21:07:09",
+        "ip_address": "2606:4700:3035::ac43:b91f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.snhb8.com",
+        "count": "4",
+        "first_seen": "2020-12-31 13:21:34",
+        "last_seen": "2021-01-06 21:07:09",
+        "ip_address": "2606:4700:3036::6818:76a9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.snhb8.com",
+        "count": "318",
+        "first_seen": "2020-10-29 16:33:11",
+        "last_seen": "2020-12-11 10:05:05",
+        "ip_address": "2606:4700:3034::ac43:b5dc",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.snhb8.com",
+        "count": "318",
+        "first_seen": "2020-10-29 16:33:11",
+        "last_seen": "2020-12-11 10:05:05",
+        "ip_address": "2606:4700:3035::681c:16a5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.snhb8.com",
+        "count": "318",
+        "first_seen": "2020-10-29 16:33:11",
+        "last_seen": "2020-12-11 10:05:05",
+        "ip_address": "2606:4700:3035::681c:17a5",
+        "type": "IPv6"
+    }
+]

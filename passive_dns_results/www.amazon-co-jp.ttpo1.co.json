@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.amazon-co-jp.ttpo1.co",
+        "count": "5",
+        "first_seen": "2022-06-14 02:01:22",
+        "last_seen": "2022-12-26 18:01:41",
+        "ip_address": "103.224.182.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazon-co-jp.ttpo1.co",
+        "count": "83",
+        "first_seen": "2022-01-20 20:19:01",
+        "last_seen": "2022-01-21 16:08:18",
+        "ip_address": "112.213.124.178",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazon-co-jp.ttpo1.co",
+        "count": "1",
+        "first_seen": "2022-05-22 14:04:51",
+        "last_seen": "2022-05-22 14:04:51",
+        "ip_address": "170.178.168.203",
+        "type": "IPv4"
+    }
+]

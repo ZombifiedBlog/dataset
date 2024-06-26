@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.3657081.com",
+        "count": "97",
+        "first_seen": "2021-09-11 01:05:17",
+        "last_seen": "2021-10-14 06:42:35",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.3657081.com",
+        "count": "8854",
+        "first_seen": "2021-04-09 00:56:10",
+        "last_seen": "2021-09-10 08:36:03",
+        "ip_address": "104.21.58.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.3657081.com",
+        "count": "8854",
+        "first_seen": "2021-04-09 00:56:10",
+        "last_seen": "2021-09-10 08:36:03",
+        "ip_address": "172.67.206.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.3657081.com",
+        "count": "3179",
+        "first_seen": "2021-04-09 02:12:28",
+        "last_seen": "2021-09-10 08:36:03",
+        "ip_address": "2606:4700:3035::ac43:ce3d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.3657081.com",
+        "count": "3179",
+        "first_seen": "2021-04-09 02:12:28",
+        "last_seen": "2021-09-10 08:36:03",
+        "ip_address": "2606:4700:3037::6815:3ab7",
+        "type": "IPv6"
+    }
+]

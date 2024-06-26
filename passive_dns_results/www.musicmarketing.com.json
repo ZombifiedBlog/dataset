@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "www.musicmarketing.com",
+        "count": "365",
+        "first_seen": "2020-01-18 06:42:01",
+        "last_seen": "2020-05-27 17:30:10",
+        "ip_address": "104.27.148.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.musicmarketing.com",
+        "count": "365",
+        "first_seen": "2020-01-18 06:42:01",
+        "last_seen": "2020-05-27 17:30:10",
+        "ip_address": "104.27.149.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.musicmarketing.com",
+        "count": "738",
+        "first_seen": "2020-05-28 10:13:16",
+        "last_seen": "2020-10-20 12:39:55",
+        "ip_address": "104.27.148.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.musicmarketing.com",
+        "count": "738",
+        "first_seen": "2020-05-28 10:13:16",
+        "last_seen": "2020-10-20 12:39:55",
+        "ip_address": "104.27.149.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.musicmarketing.com",
+        "count": "738",
+        "first_seen": "2020-05-28 10:13:16",
+        "last_seen": "2020-10-20 12:39:55",
+        "ip_address": "172.67.200.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.musicmarketing.com",
+        "count": "2",
+        "first_seen": "2020-10-16 12:07:31",
+        "last_seen": "2020-10-16 12:07:31",
+        "ip_address": "172.64.86.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.musicmarketing.com",
+        "count": "1187",
+        "first_seen": "2018-08-02 22:29:29",
+        "last_seen": "2020-10-25 10:59:40",
+        "ip_address": "192.64.119.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.musicmarketing.com",
+        "count": "704",
+        "first_seen": "2020-05-28 10:13:16",
+        "last_seen": "2020-10-20 12:39:55",
+        "ip_address": "2606:4700:3032::681b:9568",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.musicmarketing.com",
+        "count": "704",
+        "first_seen": "2020-05-28 10:13:16",
+        "last_seen": "2020-10-20 12:39:55",
+        "ip_address": "2606:4700:3035::ac43:c876",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.musicmarketing.com",
+        "count": "704",
+        "first_seen": "2020-05-28 10:13:16",
+        "last_seen": "2020-10-20 12:39:55",
+        "ip_address": "2606:4700:3036::681b:9468",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.musicmarketing.com",
+        "count": "330",
+        "first_seen": "2020-01-18 06:42:02",
+        "last_seen": "2020-05-27 17:30:10",
+        "ip_address": "2606:4700:3032::681b:9568",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.musicmarketing.com",
+        "count": "330",
+        "first_seen": "2020-01-18 06:42:02",
+        "last_seen": "2020-05-27 17:30:10",
+        "ip_address": "2606:4700:3036::681b:9468",
+        "type": "IPv6"
+    }
+]

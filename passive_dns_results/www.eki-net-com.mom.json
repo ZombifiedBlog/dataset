@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.eki-net-com.mom",
+        "count": "5",
+        "first_seen": "2023-01-10 00:51:09",
+        "last_seen": "2023-01-10 06:09:13",
+        "ip_address": "103.75.118.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.eki-net-com.mom",
+        "count": "4862",
+        "first_seen": "2023-01-04 10:11:21",
+        "last_seen": "2023-03-07 17:32:50",
+        "ip_address": "104.21.43.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.eki-net-com.mom",
+        "count": "4862",
+        "first_seen": "2023-01-04 10:11:21",
+        "last_seen": "2023-03-07 17:32:50",
+        "ip_address": "172.67.177.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.eki-net-com.mom",
+        "count": "8",
+        "first_seen": "2023-01-04 10:11:56",
+        "last_seen": "2023-02-21 18:52:37",
+        "ip_address": "2606:4700:3035::ac43:b167",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.eki-net-com.mom",
+        "count": "8",
+        "first_seen": "2023-01-04 10:11:56",
+        "last_seen": "2023-02-21 18:52:37",
+        "ip_address": "2606:4700:3037::6815:2b58",
+        "type": "IPv6"
+    }
+]

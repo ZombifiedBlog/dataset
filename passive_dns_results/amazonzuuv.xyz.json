@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazonzuuv.xyz",
+        "count": "2",
+        "first_seen": "2021-09-03 08:22:40",
+        "last_seen": "2021-09-27 08:51:20",
+        "ip_address": "99.81.40.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonzuuv.xyz",
+        "count": "7",
+        "first_seen": "2020-09-05 22:26:42",
+        "last_seen": "2020-09-06 16:39:53",
+        "ip_address": "173.82.57.206",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonzuuv.xyz",
+        "count": "27",
+        "first_seen": "2020-09-02 20:32:57",
+        "last_seen": "2020-09-04 16:10:44",
+        "ip_address": "198.211.10.98",
+        "type": "IPv4"
+    }
+]

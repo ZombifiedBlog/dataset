@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.nomas.top",
+        "count": "450",
+        "first_seen": "2023-06-15 13:45:28",
+        "last_seen": "2023-07-31 16:31:04",
+        "ip_address": "104.21.46.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.nomas.top",
+        "count": "450",
+        "first_seen": "2023-06-15 13:45:28",
+        "last_seen": "2023-07-31 16:31:04",
+        "ip_address": "172.67.222.157",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.nomas.top",
+        "count": "1",
+        "first_seen": "2023-12-23 02:43:34",
+        "last_seen": "2023-12-23 02:43:34",
+        "ip_address": "167.88.180.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.nomas.top",
+        "count": "18",
+        "first_seen": "2023-06-17 14:51:25",
+        "last_seen": "2023-07-06 19:45:07",
+        "ip_address": "2606:4700:3031::6815:2e15",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.nomas.top",
+        "count": "18",
+        "first_seen": "2023-06-17 14:51:25",
+        "last_seen": "2023-07-06 19:45:07",
+        "ip_address": "2606:4700:3031::ac43:de9d",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "world.wng.org",
+        "count": "2",
+        "first_seen": "2021-04-19 20:04:17",
+        "last_seen": "2021-04-19 20:04:18",
+        "ip_address": "54.84.182.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "world.wng.org",
+        "count": "3307",
+        "first_seen": "2021-04-16 23:21:39",
+        "last_seen": "2021-04-19 20:03:33",
+        "ip_address": "104.26.2.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "world.wng.org",
+        "count": "3307",
+        "first_seen": "2021-04-16 23:21:39",
+        "last_seen": "2021-04-19 20:03:33",
+        "ip_address": "104.26.3.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "world.wng.org",
+        "count": "3307",
+        "first_seen": "2021-04-16 23:21:39",
+        "last_seen": "2021-04-19 20:03:33",
+        "ip_address": "172.67.70.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "world.wng.org",
+        "count": "956238",
+        "first_seen": "2016-04-20 02:02:29",
+        "last_seen": "2017-11-17 20:51:35",
+        "ip_address": "161.47.20.249",
+        "type": "IPv4"
+    },
+    {
+        "domain": "world.wng.org",
+        "count": "3",
+        "first_seen": "2013-10-09 10:19:05",
+        "last_seen": "2014-08-21 17:28:59",
+        "ip_address": "216.74.49.79",
+        "type": "IPv4"
+    },
+    {
+        "domain": "world.wng.org",
+        "count": "2044",
+        "first_seen": "2021-04-16 23:21:39",
+        "last_seen": "2021-04-19 20:03:33",
+        "ip_address": "2606:4700:20::681a:2db",
+        "type": "IPv6"
+    },
+    {
+        "domain": "world.wng.org",
+        "count": "2044",
+        "first_seen": "2021-04-16 23:21:39",
+        "last_seen": "2021-04-19 20:03:33",
+        "ip_address": "2606:4700:20::681a:3db",
+        "type": "IPv6"
+    },
+    {
+        "domain": "world.wng.org",
+        "count": "2044",
+        "first_seen": "2021-04-16 23:21:39",
+        "last_seen": "2021-04-19 20:03:33",
+        "ip_address": "2606:4700:20::ac43:4645",
+        "type": "IPv6"
+    }
+]

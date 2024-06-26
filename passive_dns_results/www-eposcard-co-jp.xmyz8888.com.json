@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www-eposcard-co-jp.xmyz8888.com",
+        "count": "24",
+        "first_seen": "2023-08-02 20:59:14",
+        "last_seen": "2024-01-10 15:29:59",
+        "ip_address": "23.234.39.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-eposcard-co-jp.xmyz8888.com",
+        "count": "14",
+        "first_seen": "2022-10-22 22:42:43",
+        "last_seen": "2022-10-23 01:22:02",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-eposcard-co-jp.xmyz8888.com",
+        "count": "478",
+        "first_seen": "2022-07-17 14:34:53",
+        "last_seen": "2022-08-19 16:40:40",
+        "ip_address": "104.21.85.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-eposcard-co-jp.xmyz8888.com",
+        "count": "478",
+        "first_seen": "2022-07-17 14:34:53",
+        "last_seen": "2022-08-19 16:40:40",
+        "ip_address": "172.67.204.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-eposcard-co-jp.xmyz8888.com",
+        "count": "10",
+        "first_seen": "2022-07-17 14:34:53",
+        "last_seen": "2022-07-17 21:03:26",
+        "ip_address": "2606:4700:3032::ac43:cc3a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-eposcard-co-jp.xmyz8888.com",
+        "count": "10",
+        "first_seen": "2022-07-17 14:34:53",
+        "last_seen": "2022-07-17 21:03:26",
+        "ip_address": "2606:4700:3037::6815:5558",
+        "type": "IPv6"
+    }
+]

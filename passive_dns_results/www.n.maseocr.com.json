@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.n.maseocr.com",
+        "count": "59",
+        "first_seen": "2022-01-12 22:06:38",
+        "last_seen": "2022-01-13 16:48:27",
+        "ip_address": "198.46.199.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.n.maseocr.com",
+        "count": "1",
+        "first_seen": "2023-01-12 21:27:21",
+        "last_seen": "2023-01-12 21:27:21",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.n.maseocr.com",
+        "count": "14",
+        "first_seen": "2023-01-12 21:27:11",
+        "last_seen": "2023-01-12 22:32:02",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

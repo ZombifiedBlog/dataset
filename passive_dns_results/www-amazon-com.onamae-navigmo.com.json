@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www-amazon-com.onamae-navigmo.com",
+        "count": "137",
+        "first_seen": "2022-12-17 01:02:42",
+        "last_seen": "2022-12-24 08:32:54",
+        "ip_address": "104.21.74.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-amazon-com.onamae-navigmo.com",
+        "count": "137",
+        "first_seen": "2022-12-17 01:02:42",
+        "last_seen": "2022-12-24 08:32:54",
+        "ip_address": "172.67.167.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-amazon-com.onamae-navigmo.com",
+        "count": "6",
+        "first_seen": "2023-01-11 12:03:55",
+        "last_seen": "2023-01-11 12:04:01",
+        "ip_address": "154.55.202.175",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-amazon-com.onamae-navigmo.com",
+        "count": "21",
+        "first_seen": "2023-06-01 06:01:57",
+        "last_seen": "2024-01-08 19:36:51",
+        "ip_address": "154.212.170.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-amazon-com.onamae-navigmo.com",
+        "count": "1",
+        "first_seen": "2022-12-18 11:58:41",
+        "last_seen": "2022-12-18 11:58:41",
+        "ip_address": "2606:4700:3031::ac43:a78d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-amazon-com.onamae-navigmo.com",
+        "count": "1",
+        "first_seen": "2022-12-18 11:58:41",
+        "last_seen": "2022-12-18 11:58:41",
+        "ip_address": "2606:4700:3032::6815:4a12",
+        "type": "IPv6"
+    }
+]

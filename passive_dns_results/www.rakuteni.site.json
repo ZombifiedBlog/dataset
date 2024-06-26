@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.rakuteni.site",
+        "count": "6",
+        "first_seen": "2023-02-24 18:19:08",
+        "last_seen": "2023-02-25 06:50:58",
+        "ip_address": "23.160.193.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.rakuteni.site",
+        "count": "3",
+        "first_seen": "2023-02-24 15:50:00",
+        "last_seen": "2023-02-24 16:33:11",
+        "ip_address": "23.160.193.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.rakuteni.site",
+        "count": "39",
+        "first_seen": "2023-02-25 09:09:28",
+        "last_seen": "2023-02-28 00:39:56",
+        "ip_address": "23.160.193.187",
+        "type": "IPv4"
+    }
+]

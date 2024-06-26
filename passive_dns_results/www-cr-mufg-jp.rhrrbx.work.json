@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www-cr-mufg-jp.rhrrbx.work",
+        "count": "9",
+        "first_seen": "2022-02-26 05:46:45",
+        "last_seen": "2022-06-10 08:31:57",
+        "ip_address": "45.192.230.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.rhrrbx.work",
+        "count": "51",
+        "first_seen": "2021-11-03 16:08:25",
+        "last_seen": "2021-11-06 03:46:37",
+        "ip_address": "104.21.38.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.rhrrbx.work",
+        "count": "51",
+        "first_seen": "2021-11-03 16:08:25",
+        "last_seen": "2021-11-06 03:46:37",
+        "ip_address": "172.67.220.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.rhrrbx.work",
+        "count": "1",
+        "first_seen": "2021-11-06 02:55:25",
+        "last_seen": "2021-11-06 02:55:25",
+        "ip_address": "2606:4700:3033::6815:2654",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-cr-mufg-jp.rhrrbx.work",
+        "count": "1",
+        "first_seen": "2021-11-06 02:55:25",
+        "last_seen": "2021-11-06 02:55:25",
+        "ip_address": "2606:4700:3037::ac43:dcc6",
+        "type": "IPv6"
+    }
+]

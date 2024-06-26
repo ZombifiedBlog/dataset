@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "img.lbzrb.com",
+        "count": "6",
+        "first_seen": "2022-07-28 19:53:22",
+        "last_seen": "2022-08-29 11:07:04",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lbzrb.com",
+        "count": "607",
+        "first_seen": "2020-05-17 01:43:00",
+        "last_seen": "2020-05-28 05:22:48",
+        "ip_address": "104.31.66.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lbzrb.com",
+        "count": "607",
+        "first_seen": "2020-05-17 01:43:00",
+        "last_seen": "2020-05-28 05:22:48",
+        "ip_address": "104.31.67.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lbzrb.com",
+        "count": "2229",
+        "first_seen": "2020-05-28 05:39:36",
+        "last_seen": "2020-10-28 00:57:38",
+        "ip_address": "104.31.66.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lbzrb.com",
+        "count": "2229",
+        "first_seen": "2020-05-28 05:39:36",
+        "last_seen": "2020-10-28 00:57:38",
+        "ip_address": "104.31.67.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lbzrb.com",
+        "count": "2229",
+        "first_seen": "2020-05-28 05:39:36",
+        "last_seen": "2020-10-28 00:57:38",
+        "ip_address": "172.67.208.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lbzrb.com",
+        "count": "179",
+        "first_seen": "2020-05-29 00:45:42",
+        "last_seen": "2020-10-28 00:57:38",
+        "ip_address": "2606:4700:3032::ac43:d0a2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lbzrb.com",
+        "count": "179",
+        "first_seen": "2020-05-29 00:45:42",
+        "last_seen": "2020-10-28 00:57:38",
+        "ip_address": "2606:4700:3035::681f:4246",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lbzrb.com",
+        "count": "179",
+        "first_seen": "2020-05-29 00:45:42",
+        "last_seen": "2020-10-28 00:57:38",
+        "ip_address": "2606:4700:3037::681f:4346",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lbzrb.com",
+        "count": "63",
+        "first_seen": "2020-05-17 03:38:04",
+        "last_seen": "2020-05-28 02:54:21",
+        "ip_address": "2606:4700:3035::681f:4246",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lbzrb.com",
+        "count": "63",
+        "first_seen": "2020-05-17 03:38:04",
+        "last_seen": "2020-05-28 02:54:21",
+        "ip_address": "2606:4700:3037::681f:4346",
+        "type": "IPv6"
+    }
+]

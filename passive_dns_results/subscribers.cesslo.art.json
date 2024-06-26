@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscribers.cesslo.art",
+        "count": "388",
+        "first_seen": "2020-08-05 19:27:15",
+        "last_seen": "2020-11-05 03:03:20",
+        "ip_address": "104.18.36.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.cesslo.art",
+        "count": "388",
+        "first_seen": "2020-08-05 19:27:15",
+        "last_seen": "2020-11-05 03:03:20",
+        "ip_address": "104.18.37.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.cesslo.art",
+        "count": "388",
+        "first_seen": "2020-08-05 19:27:15",
+        "last_seen": "2020-11-05 03:03:20",
+        "ip_address": "172.67.206.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.cesslo.art",
+        "count": "263",
+        "first_seen": "2020-08-06 08:19:24",
+        "last_seen": "2020-10-19 11:41:00",
+        "ip_address": "2606:4700:3030::ac43:ce24",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.cesslo.art",
+        "count": "263",
+        "first_seen": "2020-08-06 08:19:24",
+        "last_seen": "2020-10-19 11:41:00",
+        "ip_address": "2606:4700:3033::6812:2550",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.cesslo.art",
+        "count": "263",
+        "first_seen": "2020-08-06 08:19:24",
+        "last_seen": "2020-10-19 11:41:00",
+        "ip_address": "2606:4700:3037::6812:2450",
+        "type": "IPv6"
+    }
+]

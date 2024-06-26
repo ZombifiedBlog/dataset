@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "tnxdigpz.cf",
+        "count": "518",
+        "first_seen": "2022-11-14 23:50:29",
+        "last_seen": "2023-04-14 17:23:27",
+        "ip_address": "104.21.22.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tnxdigpz.cf",
+        "count": "518",
+        "first_seen": "2022-11-14 23:50:29",
+        "last_seen": "2023-04-14 17:23:27",
+        "ip_address": "172.67.204.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tnxdigpz.cf",
+        "count": "2",
+        "first_seen": "2022-11-14 21:35:59",
+        "last_seen": "2022-11-14 21:35:59",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tnxdigpz.cf",
+        "count": "2",
+        "first_seen": "2022-11-14 21:35:59",
+        "last_seen": "2022-11-14 21:35:59",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tnxdigpz.cf",
+        "count": "2",
+        "first_seen": "2022-11-14 21:06:28",
+        "last_seen": "2022-11-14 21:06:28",
+        "ip_address": "204.44.75.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tnxdigpz.cf",
+        "count": "11",
+        "first_seen": "2022-11-15 04:52:48",
+        "last_seen": "2023-04-14 17:23:27",
+        "ip_address": "2606:4700:3030::6815:1677",
+        "type": "IPv6"
+    },
+    {
+        "domain": "tnxdigpz.cf",
+        "count": "11",
+        "first_seen": "2022-11-15 04:52:48",
+        "last_seen": "2023-04-14 17:23:27",
+        "ip_address": "2606:4700:3035::ac43:cccb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "tnxdigpz.cf",
+        "count": "2",
+        "first_seen": "2022-11-14 21:29:15",
+        "last_seen": "2022-11-14 21:29:15",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "tnxdigpz.cf",
+        "count": "2",
+        "first_seen": "2022-11-14 21:29:15",
+        "last_seen": "2022-11-14 21:29:15",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    }
+]

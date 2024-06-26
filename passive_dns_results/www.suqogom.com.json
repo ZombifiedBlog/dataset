@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.suqogom.com",
+        "count": "2",
+        "first_seen": "2021-08-25 09:21:23",
+        "last_seen": "2021-08-25 09:21:23",
+        "ip_address": "154.201.133.169",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.suqogom.com",
+        "count": "1435",
+        "first_seen": "2022-06-22 13:11:07",
+        "last_seen": "2022-07-04 16:39:45",
+        "ip_address": "155.94.158.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.suqogom.com",
+        "count": "1",
+        "first_seen": "2021-03-23 19:10:17",
+        "last_seen": "2021-03-23 19:10:17",
+        "ip_address": "103.224.182.241",
+        "type": "IPv4"
+    }
+]

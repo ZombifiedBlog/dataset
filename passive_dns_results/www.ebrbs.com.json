@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "www.ebrbs.com",
+        "count": "1",
+        "first_seen": "2021-01-19 00:21:47",
+        "last_seen": "2021-01-19 00:21:47",
+        "ip_address": "104.21.59.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ebrbs.com",
+        "count": "1",
+        "first_seen": "2021-01-19 00:21:47",
+        "last_seen": "2021-01-19 00:21:47",
+        "ip_address": "172.67.215.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ebrbs.com",
+        "count": "938",
+        "first_seen": "2020-10-03 11:14:44",
+        "last_seen": "2021-01-03 12:08:15",
+        "ip_address": "104.27.142.42",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ebrbs.com",
+        "count": "938",
+        "first_seen": "2020-10-03 11:14:44",
+        "last_seen": "2021-01-03 12:08:15",
+        "ip_address": "104.27.143.42",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ebrbs.com",
+        "count": "938",
+        "first_seen": "2020-10-03 11:14:44",
+        "last_seen": "2021-01-03 12:08:15",
+        "ip_address": "172.67.215.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ebrbs.com",
+        "count": "2",
+        "first_seen": "2020-11-02 11:59:19",
+        "last_seen": "2020-11-02 11:59:19",
+        "ip_address": "172.64.85.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ebrbs.com",
+        "count": "2",
+        "first_seen": "2020-11-01 16:48:17",
+        "last_seen": "2020-11-01 16:48:17",
+        "ip_address": "172.64.94.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ebrbs.com",
+        "count": "2",
+        "first_seen": "2020-11-01 16:48:17",
+        "last_seen": "2020-11-01 16:48:17",
+        "ip_address": "2606:4700:131:58c0:2213:fb84:d549:f30c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ebrbs.com",
+        "count": "2",
+        "first_seen": "2020-11-02 11:59:24",
+        "last_seen": "2020-11-02 11:59:24",
+        "ip_address": "2606:4700:133:1d86:a212:e44a:cf75:85d9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ebrbs.com",
+        "count": "29",
+        "first_seen": "2020-10-03 11:15:09",
+        "last_seen": "2020-12-22 14:51:37",
+        "ip_address": "2606:4700:3033::681b:8e2a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ebrbs.com",
+        "count": "29",
+        "first_seen": "2020-10-03 11:15:09",
+        "last_seen": "2020-12-22 14:51:37",
+        "ip_address": "2606:4700:3034::ac43:d71f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ebrbs.com",
+        "count": "29",
+        "first_seen": "2020-10-03 11:15:09",
+        "last_seen": "2020-12-22 14:51:37",
+        "ip_address": "2606:4700:3035::681b:8f2a",
+        "type": "IPv6"
+    }
+]

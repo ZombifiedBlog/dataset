@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "f0584008.xsph.ru",
+        "count": "88",
+        "first_seen": "2021-09-28 18:21:25",
+        "last_seen": "2021-10-15 05:01:00",
+        "ip_address": "141.8.192.151",
+        "type": "IPv4"
+    },
+    {
+        "domain": "f0584008.xsph.ru",
+        "count": "66",
+        "first_seen": "2021-12-25 23:10:29",
+        "last_seen": "2023-10-28 05:28:06",
+        "ip_address": "141.8.197.42",
+        "type": "IPv4"
+    },
+    {
+        "domain": "f0584008.xsph.ru",
+        "count": "572",
+        "first_seen": "2021-09-28 18:21:25",
+        "last_seen": "2021-10-01 18:23:56",
+        "ip_address": "141.8.192.151",
+        "type": "IPv4"
+    },
+    {
+        "domain": "f0584008.xsph.ru",
+        "count": "6",
+        "first_seen": "2022-03-22 16:31:59",
+        "last_seen": "2022-03-22 16:32:03",
+        "ip_address": "2a0a:2b47:c:6777::",
+        "type": "IPv6"
+    }
+]

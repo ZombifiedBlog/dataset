@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "indecofactory.com",
+        "count": "44",
+        "first_seen": "2017-12-05 11:00:07",
+        "last_seen": "2018-01-10 02:17:52",
+        "ip_address": "69.64.147.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "indecofactory.com",
+        "count": "695",
+        "first_seen": "2010-09-28 23:29:34",
+        "last_seen": "2013-01-10 20:14:17",
+        "ip_address": "85.13.246.186",
+        "type": "IPv4"
+    },
+    {
+        "domain": "indecofactory.com",
+        "count": "1577",
+        "first_seen": "2015-05-17 18:08:28",
+        "last_seen": "2017-11-27 05:36:07",
+        "ip_address": "87.98.231.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "indecofactory.com",
+        "count": "549",
+        "first_seen": "2014-10-15 08:35:22",
+        "last_seen": "2015-05-17 04:12:27",
+        "ip_address": "89.187.85.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "indecofactory.com",
+        "count": "760",
+        "first_seen": "2013-01-11 14:07:45",
+        "last_seen": "2014-10-04 03:25:54",
+        "ip_address": "89.187.85.14",
+        "type": "IPv4"
+    }
+]

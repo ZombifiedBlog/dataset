@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscriber.23o3.com",
+        "count": "2",
+        "first_seen": "2020-01-02 20:58:55",
+        "last_seen": "2020-01-02 20:58:55",
+        "ip_address": "15.164.83.206",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.23o3.com",
+        "count": "5",
+        "first_seen": "2019-12-14 03:28:57",
+        "last_seen": "2019-12-27 14:30:56",
+        "ip_address": "104.27.164.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.23o3.com",
+        "count": "5",
+        "first_seen": "2019-12-14 03:28:57",
+        "last_seen": "2019-12-27 14:30:56",
+        "ip_address": "104.27.165.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.23o3.com",
+        "count": "2",
+        "first_seen": "2019-12-04 23:05:09",
+        "last_seen": "2019-12-04 23:05:09",
+        "ip_address": "104.27.190.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.23o3.com",
+        "count": "2",
+        "first_seen": "2019-12-04 23:05:09",
+        "last_seen": "2019-12-04 23:05:09",
+        "ip_address": "104.27.191.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.23o3.com",
+        "count": "2",
+        "first_seen": "2019-12-27 14:30:56",
+        "last_seen": "2019-12-27 14:30:56",
+        "ip_address": "2606:4700:30::681b:a476",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.23o3.com",
+        "count": "2",
+        "first_seen": "2019-12-27 14:30:56",
+        "last_seen": "2019-12-27 14:30:56",
+        "ip_address": "2606:4700:30::681b:a576",
+        "type": "IPv6"
+    }
+]

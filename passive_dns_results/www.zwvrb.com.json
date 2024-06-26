@@ -1,0 +1,170 @@
+[
+    {
+        "domain": "www.zwvrb.com",
+        "count": "300",
+        "first_seen": "2022-04-09 02:32:45",
+        "last_seen": "2022-05-03 01:08:40",
+        "ip_address": "104.21.82.167",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zwvrb.com",
+        "count": "300",
+        "first_seen": "2022-04-09 02:32:45",
+        "last_seen": "2022-05-03 01:08:40",
+        "ip_address": "172.67.159.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zwvrb.com",
+        "count": "103",
+        "first_seen": "2022-04-09 07:41:43",
+        "last_seen": "2022-04-15 21:37:34",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zwvrb.com",
+        "count": "103",
+        "first_seen": "2022-04-09 07:41:43",
+        "last_seen": "2022-04-15 21:37:34",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zwvrb.com",
+        "count": "283",
+        "first_seen": "2022-04-09 02:21:28",
+        "last_seen": "2022-04-20 14:08:10",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zwvrb.com",
+        "count": "283",
+        "first_seen": "2022-04-09 02:21:28",
+        "last_seen": "2022-04-20 14:08:10",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zwvrb.com",
+        "count": "22",
+        "first_seen": "2022-04-10 00:36:54",
+        "last_seen": "2022-04-15 06:13:06",
+        "ip_address": "188.114.96.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zwvrb.com",
+        "count": "22",
+        "first_seen": "2022-04-10 00:36:54",
+        "last_seen": "2022-04-15 06:13:06",
+        "ip_address": "188.114.97.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zwvrb.com",
+        "count": "40",
+        "first_seen": "2022-04-10 01:50:01",
+        "last_seen": "2022-04-15 06:48:12",
+        "ip_address": "188.114.96.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zwvrb.com",
+        "count": "40",
+        "first_seen": "2022-04-10 01:50:01",
+        "last_seen": "2022-04-15 06:48:12",
+        "ip_address": "188.114.97.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zwvrb.com",
+        "count": "168",
+        "first_seen": "2022-04-09 04:33:41",
+        "last_seen": "2022-04-30 05:38:13",
+        "ip_address": "188.114.96.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zwvrb.com",
+        "count": "168",
+        "first_seen": "2022-04-09 04:33:41",
+        "last_seen": "2022-04-30 05:38:13",
+        "ip_address": "188.114.97.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zwvrb.com",
+        "count": "477",
+        "first_seen": "2021-05-14 17:09:26",
+        "last_seen": "2022-03-13 02:04:15",
+        "ip_address": "198.144.154.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zwvrb.com",
+        "count": "10",
+        "first_seen": "2022-04-10 14:40:36",
+        "last_seen": "2022-05-03 01:08:40",
+        "ip_address": "2606:4700:3031::6815:52a7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zwvrb.com",
+        "count": "10",
+        "first_seen": "2022-04-10 14:40:36",
+        "last_seen": "2022-05-03 01:08:40",
+        "ip_address": "2606:4700:3037::ac43:9fd3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zwvrb.com",
+        "count": "4",
+        "first_seen": "2022-04-14 09:36:29",
+        "last_seen": "2022-04-19 06:34:56",
+        "ip_address": "2a06:98c1:3120::7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zwvrb.com",
+        "count": "4",
+        "first_seen": "2022-04-14 09:36:29",
+        "last_seen": "2022-04-19 06:34:56",
+        "ip_address": "2a06:98c1:3121::7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zwvrb.com",
+        "count": "1",
+        "first_seen": "2022-04-18 08:45:30",
+        "last_seen": "2022-04-18 08:45:30",
+        "ip_address": "2a06:98c1:3120::14",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zwvrb.com",
+        "count": "1",
+        "first_seen": "2022-04-18 08:45:30",
+        "last_seen": "2022-04-18 08:45:30",
+        "ip_address": "2a06:98c1:3121::14",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zwvrb.com",
+        "count": "8",
+        "first_seen": "2022-04-09 04:33:41",
+        "last_seen": "2022-04-30 05:38:13",
+        "ip_address": "2a06:98c1:3120::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zwvrb.com",
+        "count": "8",
+        "first_seen": "2022-04-09 04:33:41",
+        "last_seen": "2022-04-30 05:38:13",
+        "ip_address": "2a06:98c1:3121::16",
+        "type": "IPv6"
+    }
+]

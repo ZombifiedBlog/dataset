@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.smdc-carb.caoscud.com",
+        "count": "246",
+        "first_seen": "2021-09-16 21:29:07",
+        "last_seen": "2022-08-02 06:49:54",
+        "ip_address": "137.184.67.161",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smdc-carb.caoscud.com",
+        "count": "2",
+        "first_seen": "2022-09-18 01:18:03",
+        "last_seen": "2022-10-03 07:16:51",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smdc-carb.caoscud.com",
+        "count": "1",
+        "first_seen": "2022-10-03 07:16:51",
+        "last_seen": "2022-10-03 07:16:51",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

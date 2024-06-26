@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "support-securityprotection-microsoft.com",
+        "count": "103",
+        "first_seen": "2017-01-30 07:51:00",
+        "last_seen": "2017-01-30 12:10:25",
+        "ip_address": "104.27.160.63",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support-securityprotection-microsoft.com",
+        "count": "103",
+        "first_seen": "2017-01-30 07:51:00",
+        "last_seen": "2017-01-30 12:10:25",
+        "ip_address": "104.27.161.63",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support-securityprotection-microsoft.com",
+        "count": "30",
+        "first_seen": "2017-01-31 04:42:47",
+        "last_seen": "2017-02-02 07:04:38",
+        "ip_address": "205.251.129.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support-securityprotection-microsoft.com",
+        "count": "10",
+        "first_seen": "2017-01-30 09:31:14",
+        "last_seen": "2017-01-30 12:01:51",
+        "ip_address": "2400:cb00:2048:1::681b:a03f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "support-securityprotection-microsoft.com",
+        "count": "10",
+        "first_seen": "2017-01-30 09:31:14",
+        "last_seen": "2017-01-30 12:01:51",
+        "ip_address": "2400:cb00:2048:1::681b:a13f",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "domain": "jobwebrwanda.com",
+        "count": "11589",
+        "first_seen": "2021-01-13 21:24:03",
+        "last_seen": "2024-01-18 11:17:26",
+        "ip_address": "104.21.18.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jobwebrwanda.com",
+        "count": "11589",
+        "first_seen": "2021-01-13 21:24:03",
+        "last_seen": "2024-01-18 11:17:26",
+        "ip_address": "172.67.181.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jobwebrwanda.com",
+        "count": "10514",
+        "first_seen": "2017-09-24 19:11:00",
+        "last_seen": "2020-05-27 21:28:02",
+        "ip_address": "104.28.10.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jobwebrwanda.com",
+        "count": "10514",
+        "first_seen": "2017-09-24 19:11:00",
+        "last_seen": "2020-05-27 21:28:02",
+        "ip_address": "104.28.11.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jobwebrwanda.com",
+        "count": "1193",
+        "first_seen": "2020-05-28 19:54:59",
+        "last_seen": "2021-01-13 12:18:59",
+        "ip_address": "104.28.10.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jobwebrwanda.com",
+        "count": "1193",
+        "first_seen": "2020-05-28 19:54:59",
+        "last_seen": "2021-01-13 12:18:59",
+        "ip_address": "104.28.11.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jobwebrwanda.com",
+        "count": "1193",
+        "first_seen": "2020-05-28 19:54:59",
+        "last_seen": "2021-01-13 12:18:59",
+        "ip_address": "172.67.181.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jobwebrwanda.com",
+        "count": "2",
+        "first_seen": "2020-12-06 12:32:10",
+        "last_seen": "2020-12-06 12:32:10",
+        "ip_address": "172.64.92.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jobwebrwanda.com",
+        "count": "12",
+        "first_seen": "2022-03-10 19:32:58",
+        "last_seen": "2022-03-14 10:47:02",
+        "ip_address": "188.114.98.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jobwebrwanda.com",
+        "count": "820",
+        "first_seen": "2017-09-23 13:18:04",
+        "last_seen": "2018-09-25 20:28:55",
+        "ip_address": "2400:cb00:2048:1::681c:aac",
+        "type": "IPv6"
+    },
+    {
+        "domain": "jobwebrwanda.com",
+        "count": "820",
+        "first_seen": "2017-09-23 13:18:04",
+        "last_seen": "2018-09-25 20:28:55",
+        "ip_address": "2400:cb00:2048:1::681c:bac",
+        "type": "IPv6"
+    },
+    {
+        "domain": "jobwebrwanda.com",
+        "count": "2272",
+        "first_seen": "2018-09-26 13:01:46",
+        "last_seen": "2020-01-14 06:21:27",
+        "ip_address": "2606:4700:30::681c:aac",
+        "type": "IPv6"
+    },
+    {
+        "domain": "jobwebrwanda.com",
+        "count": "2272",
+        "first_seen": "2018-09-26 13:01:46",
+        "last_seen": "2020-01-14 06:21:27",
+        "ip_address": "2606:4700:30::681c:bac",
+        "type": "IPv6"
+    },
+    {
+        "domain": "jobwebrwanda.com",
+        "count": "393",
+        "first_seen": "2020-05-28 19:54:59",
+        "last_seen": "2021-01-13 11:57:41",
+        "ip_address": "2606:4700:3033::681c:aac",
+        "type": "IPv6"
+    },
+    {
+        "domain": "jobwebrwanda.com",
+        "count": "393",
+        "first_seen": "2020-05-28 19:54:59",
+        "last_seen": "2021-01-13 11:57:41",
+        "ip_address": "2606:4700:3035::ac43:b599",
+        "type": "IPv6"
+    },
+    {
+        "domain": "jobwebrwanda.com",
+        "count": "393",
+        "first_seen": "2020-05-28 19:54:59",
+        "last_seen": "2021-01-13 11:57:41",
+        "ip_address": "2606:4700:3037::681c:bac",
+        "type": "IPv6"
+    },
+    {
+        "domain": "jobwebrwanda.com",
+        "count": "2634",
+        "first_seen": "2020-01-17 00:21:04",
+        "last_seen": "2020-05-27 21:28:02",
+        "ip_address": "2606:4700:3033::681c:aac",
+        "type": "IPv6"
+    },
+    {
+        "domain": "jobwebrwanda.com",
+        "count": "2634",
+        "first_seen": "2020-01-17 00:21:04",
+        "last_seen": "2020-05-27 21:28:02",
+        "ip_address": "2606:4700:3037::681c:bac",
+        "type": "IPv6"
+    },
+    {
+        "domain": "jobwebrwanda.com",
+        "count": "3301",
+        "first_seen": "2021-01-14 23:39:33",
+        "last_seen": "2024-01-17 16:26:08",
+        "ip_address": "2606:4700:3034::6815:126b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "jobwebrwanda.com",
+        "count": "3301",
+        "first_seen": "2021-01-14 23:39:33",
+        "last_seen": "2024-01-17 16:26:08",
+        "ip_address": "2606:4700:3035::ac43:b599",
+        "type": "IPv6"
+    },
+    {
+        "domain": "jobwebrwanda.com",
+        "count": "1",
+        "first_seen": "2022-03-11 02:35:13",
+        "last_seen": "2022-03-11 02:35:13",
+        "ip_address": "2a06:98c1:3122:8000::",
+        "type": "IPv6"
+    }
+]

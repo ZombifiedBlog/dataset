@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.bbqbb.top",
+        "count": "9275",
+        "first_seen": "2023-02-02 18:48:43",
+        "last_seen": "2023-05-29 15:03:30",
+        "ip_address": "104.21.72.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.bbqbb.top",
+        "count": "9275",
+        "first_seen": "2023-02-02 18:48:43",
+        "last_seen": "2023-05-29 15:03:30",
+        "ip_address": "172.67.182.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.bbqbb.top",
+        "count": "52",
+        "first_seen": "2023-05-30 14:48:27",
+        "last_seen": "2023-10-29 05:41:23",
+        "ip_address": "156.226.123.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.bbqbb.top",
+        "count": "288",
+        "first_seen": "2023-02-03 05:36:04",
+        "last_seen": "2023-05-28 20:42:19",
+        "ip_address": "2606:4700:3031::ac43:b610",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.bbqbb.top",
+        "count": "288",
+        "first_seen": "2023-02-03 05:36:04",
+        "last_seen": "2023-05-28 20:42:19",
+        "ip_address": "2606:4700:3035::6815:486f",
+        "type": "IPv6"
+    }
+]

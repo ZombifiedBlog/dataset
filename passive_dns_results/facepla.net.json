@@ -1,0 +1,706 @@
+[
+    {
+        "domain": "facepla.net",
+        "count": "1514",
+        "first_seen": "2011-12-25 17:12:09",
+        "last_seen": "2013-01-30 16:29:58",
+        "ip_address": "46.4.99.134",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "30811",
+        "first_seen": "2014-01-21 01:10:03",
+        "last_seen": "2016-01-30 20:24:38",
+        "ip_address": "77.222.132.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "545",
+        "first_seen": "2010-08-02 03:06:30",
+        "last_seen": "2011-12-21 16:01:09",
+        "ip_address": "78.46.250.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "2497",
+        "first_seen": "2013-02-17 00:02:09",
+        "last_seen": "2014-01-20 11:35:32",
+        "ip_address": "91.197.130.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "8",
+        "first_seen": "2013-02-01 14:49:09",
+        "last_seen": "2013-02-02 18:12:34",
+        "ip_address": "93.190.40.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "176535",
+        "first_seen": "2021-04-21 07:22:15",
+        "last_seen": "2024-01-18 04:34:12",
+        "ip_address": "104.21.57.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "176535",
+        "first_seen": "2021-04-21 07:22:15",
+        "last_seen": "2024-01-18 04:34:12",
+        "ip_address": "172.67.195.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "15421",
+        "first_seen": "2021-01-15 04:58:20",
+        "last_seen": "2021-04-21 06:13:49",
+        "ip_address": "104.21.84.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "15421",
+        "first_seen": "2021-01-15 04:58:20",
+        "last_seen": "2021-04-21 06:13:49",
+        "ip_address": "172.67.195.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "170447",
+        "first_seen": "2017-06-16 08:34:59",
+        "last_seen": "2020-05-28 01:37:32",
+        "ip_address": "104.27.170.127",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "170447",
+        "first_seen": "2017-06-16 08:34:59",
+        "last_seen": "2020-05-28 01:37:32",
+        "ip_address": "104.27.171.127",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "39564",
+        "first_seen": "2020-05-28 02:21:55",
+        "last_seen": "2021-01-15 04:53:01",
+        "ip_address": "104.27.170.127",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "39564",
+        "first_seen": "2020-05-28 02:21:55",
+        "last_seen": "2021-01-15 04:53:01",
+        "ip_address": "104.27.171.127",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "39564",
+        "first_seen": "2020-05-28 02:21:55",
+        "last_seen": "2021-01-15 04:53:01",
+        "ip_address": "172.67.195.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "132",
+        "first_seen": "2013-01-30 21:13:53",
+        "last_seen": "2013-02-16 19:48:25",
+        "ip_address": "144.76.5.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "2",
+        "first_seen": "2020-10-16 10:18:26",
+        "last_seen": "2020-10-16 10:18:26",
+        "ip_address": "172.64.92.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "9",
+        "first_seen": "2021-04-21 06:29:15",
+        "last_seen": "2021-04-21 07:09:04",
+        "ip_address": "172.64.142.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "9",
+        "first_seen": "2021-04-21 06:29:15",
+        "last_seen": "2021-04-21 07:09:04",
+        "ip_address": "172.64.143.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "526",
+        "first_seen": "2022-02-08 08:59:23",
+        "last_seen": "2023-12-06 01:20:16",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "526",
+        "first_seen": "2022-02-08 08:59:23",
+        "last_seen": "2023-12-06 01:20:16",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "31",
+        "first_seen": "2022-01-31 12:10:39",
+        "last_seen": "2022-03-07 22:56:01",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "31",
+        "first_seen": "2022-01-31 12:10:39",
+        "last_seen": "2022-03-07 22:56:01",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "818",
+        "first_seen": "2022-05-12 01:44:03",
+        "last_seen": "2024-01-04 17:58:54",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "818",
+        "first_seen": "2022-05-12 01:44:03",
+        "last_seen": "2024-01-04 17:58:54",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "10",
+        "first_seen": "2022-07-28 21:43:12",
+        "last_seen": "2023-09-09 14:06:59",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "10",
+        "first_seen": "2022-07-28 21:43:12",
+        "last_seen": "2023-09-09 14:06:59",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "69",
+        "first_seen": "2022-02-02 16:02:57",
+        "last_seen": "2022-05-01 14:45:34",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "69",
+        "first_seen": "2022-02-02 16:02:57",
+        "last_seen": "2022-05-01 14:45:34",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "6",
+        "first_seen": "2022-02-27 15:44:12",
+        "last_seen": "2022-04-23 18:50:46",
+        "ip_address": "188.114.96.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "6",
+        "first_seen": "2022-02-27 15:44:12",
+        "last_seen": "2022-04-23 18:50:46",
+        "ip_address": "188.114.97.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "14",
+        "first_seen": "2022-05-05 09:01:38",
+        "last_seen": "2022-05-26 14:09:03",
+        "ip_address": "188.114.96.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "14",
+        "first_seen": "2022-05-05 09:01:38",
+        "last_seen": "2022-05-26 14:09:03",
+        "ip_address": "188.114.97.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "2",
+        "first_seen": "2022-05-13 13:12:49",
+        "last_seen": "2022-05-15 21:13:56",
+        "ip_address": "188.114.96.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "2",
+        "first_seen": "2022-05-13 13:12:49",
+        "last_seen": "2022-05-15 21:13:56",
+        "ip_address": "188.114.97.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "3",
+        "first_seen": "2022-08-28 15:54:10",
+        "last_seen": "2023-02-10 00:59:20",
+        "ip_address": "188.114.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "3",
+        "first_seen": "2022-08-28 15:54:10",
+        "last_seen": "2023-02-10 00:59:20",
+        "ip_address": "188.114.97.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "103",
+        "first_seen": "2021-11-23 20:29:00",
+        "last_seen": "2021-11-24 18:29:59",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "103",
+        "first_seen": "2021-11-23 20:29:00",
+        "last_seen": "2021-11-24 18:29:59",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "5",
+        "first_seen": "2021-11-24 06:45:33",
+        "last_seen": "2022-02-22 04:08:04",
+        "ip_address": "188.114.96.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "5",
+        "first_seen": "2021-11-24 06:45:33",
+        "last_seen": "2022-02-22 04:08:04",
+        "ip_address": "188.114.97.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "1",
+        "first_seen": "2021-11-24 18:19:25",
+        "last_seen": "2021-11-24 18:19:25",
+        "ip_address": "188.114.96.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "1",
+        "first_seen": "2021-11-24 18:19:25",
+        "last_seen": "2021-11-24 18:19:25",
+        "ip_address": "188.114.97.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "9",
+        "first_seen": "2022-02-25 13:47:43",
+        "last_seen": "2022-04-04 19:51:45",
+        "ip_address": "188.114.96.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "9",
+        "first_seen": "2022-02-25 13:47:43",
+        "last_seen": "2022-04-04 19:51:45",
+        "ip_address": "188.114.97.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "1",
+        "first_seen": "2021-11-24 15:42:22",
+        "last_seen": "2021-11-24 15:42:22",
+        "ip_address": "188.114.96.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "1",
+        "first_seen": "2021-11-24 15:42:22",
+        "last_seen": "2021-11-24 15:42:22",
+        "ip_address": "188.114.97.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "310",
+        "first_seen": "2022-03-10 16:03:30",
+        "last_seen": "2022-03-14 10:45:41",
+        "ip_address": "188.114.99.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "30812",
+        "first_seen": "2016-01-30 21:52:10",
+        "last_seen": "2017-06-17 04:42:58",
+        "ip_address": "195.191.25.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "9529",
+        "first_seen": "2017-06-16 08:46:14",
+        "last_seen": "2018-09-26 06:34:45",
+        "ip_address": "2400:cb00:2048:1::681b:aa7f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "9529",
+        "first_seen": "2017-06-16 08:46:14",
+        "last_seen": "2018-09-26 06:34:45",
+        "ip_address": "2400:cb00:2048:1::681b:ab7f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "14899",
+        "first_seen": "2018-09-26 10:46:21",
+        "last_seen": "2020-01-15 13:05:10",
+        "ip_address": "2606:4700:30::681b:aa7f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "14899",
+        "first_seen": "2018-09-26 10:46:21",
+        "last_seen": "2020-01-15 13:05:10",
+        "ip_address": "2606:4700:30::681b:ab7f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "5",
+        "first_seen": "2021-04-21 06:29:15",
+        "last_seen": "2021-04-21 07:07:52",
+        "ip_address": "2606:4700:e2::ac40:8e0a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "5",
+        "first_seen": "2021-04-21 06:29:15",
+        "last_seen": "2021-04-21 07:07:52",
+        "ip_address": "2606:4700:e2::ac40:8f0a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "55130",
+        "first_seen": "2021-04-21 07:20:09",
+        "last_seen": "2024-01-18 03:41:31",
+        "ip_address": "2606:4700:3030::ac43:c3c2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "55130",
+        "first_seen": "2021-04-21 07:20:09",
+        "last_seen": "2024-01-18 03:41:31",
+        "ip_address": "2606:4700:3034::6815:39fb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "5771",
+        "first_seen": "2021-01-15 05:11:05",
+        "last_seen": "2021-04-21 05:57:01",
+        "ip_address": "2606:4700:3034::6815:54ae",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "5771",
+        "first_seen": "2021-01-15 05:11:05",
+        "last_seen": "2021-04-21 05:57:01",
+        "ip_address": "2606:4700:3037::ac43:c370",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "30",
+        "first_seen": "2020-01-15 14:46:51",
+        "last_seen": "2020-01-16 12:33:22",
+        "ip_address": "2606:4700:3034::681b:ab7f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "30",
+        "first_seen": "2020-01-15 14:46:51",
+        "last_seen": "2020-01-16 12:33:22",
+        "ip_address": "2606:4700:3036::681b:aa7f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "16722",
+        "first_seen": "2020-01-16 15:36:10",
+        "last_seen": "2020-05-28 00:52:07",
+        "ip_address": "2606:4700:3036::681b:ab7f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "16722",
+        "first_seen": "2020-01-16 15:36:10",
+        "last_seen": "2020-05-28 00:52:07",
+        "ip_address": "2606:4700:3037::681b:aa7f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "22839",
+        "first_seen": "2020-05-28 02:21:56",
+        "last_seen": "2021-01-15 04:49:05",
+        "ip_address": "2606:4700:3036::681b:ab7f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "22839",
+        "first_seen": "2020-05-28 02:21:56",
+        "last_seen": "2021-01-15 04:49:05",
+        "ip_address": "2606:4700:3037::681b:aa7f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "22839",
+        "first_seen": "2020-05-28 02:21:56",
+        "last_seen": "2021-01-15 04:49:05",
+        "ip_address": "2606:4700:3037::ac43:c370",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "89",
+        "first_seen": "2022-03-07 02:14:05",
+        "last_seen": "2023-11-22 04:35:55",
+        "ip_address": "2a06:98c1:3120::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "89",
+        "first_seen": "2022-03-07 02:14:05",
+        "last_seen": "2023-11-22 04:35:55",
+        "ip_address": "2a06:98c1:3121::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "3",
+        "first_seen": "2022-02-12 15:14:40",
+        "last_seen": "2022-02-17 10:32:50",
+        "ip_address": "2a06:98c1:3120::2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "3",
+        "first_seen": "2022-02-12 15:14:40",
+        "last_seen": "2022-02-17 10:32:50",
+        "ip_address": "2a06:98c1:3121::2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "230",
+        "first_seen": "2022-05-29 13:39:40",
+        "last_seen": "2024-01-09 00:27:56",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "230",
+        "first_seen": "2022-05-29 13:39:40",
+        "last_seen": "2024-01-09 00:27:56",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "3",
+        "first_seen": "2022-12-23 14:25:06",
+        "last_seen": "2023-03-20 14:43:09",
+        "ip_address": "2a06:98c1:3120::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "3",
+        "first_seen": "2022-12-23 14:25:06",
+        "last_seen": "2023-03-20 14:43:09",
+        "ip_address": "2a06:98c1:3121::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "40",
+        "first_seen": "2022-01-31 10:04:35",
+        "last_seen": "2022-05-01 14:45:34",
+        "ip_address": "2a06:98c1:3120::7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "40",
+        "first_seen": "2022-01-31 10:04:35",
+        "last_seen": "2022-05-01 14:45:34",
+        "ip_address": "2a06:98c1:3121::7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "2",
+        "first_seen": "2022-02-27 15:44:12",
+        "last_seen": "2022-04-14 15:12:14",
+        "ip_address": "2a06:98c1:3120::8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "2",
+        "first_seen": "2022-02-27 15:44:12",
+        "last_seen": "2022-04-14 15:12:14",
+        "ip_address": "2a06:98c1:3121::8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "4",
+        "first_seen": "2022-05-05 15:25:12",
+        "last_seen": "2022-05-24 12:01:51",
+        "ip_address": "2a06:98c1:3120::a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "4",
+        "first_seen": "2022-05-05 15:25:12",
+        "last_seen": "2022-05-24 12:01:51",
+        "ip_address": "2a06:98c1:3121::a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "1",
+        "first_seen": "2022-05-13 13:12:49",
+        "last_seen": "2022-05-13 13:12:49",
+        "ip_address": "2a06:98c1:3120::b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "1",
+        "first_seen": "2022-05-13 13:12:49",
+        "last_seen": "2022-05-13 13:12:49",
+        "ip_address": "2a06:98c1:3121::b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "12",
+        "first_seen": "2021-11-24 02:08:06",
+        "last_seen": "2021-11-24 15:48:35",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "12",
+        "first_seen": "2021-11-24 02:08:06",
+        "last_seen": "2021-11-24 15:48:35",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "4",
+        "first_seen": "2021-11-24 06:45:33",
+        "last_seen": "2022-02-22 04:08:04",
+        "ip_address": "2a06:98c1:3120::10",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "4",
+        "first_seen": "2021-11-24 06:45:33",
+        "last_seen": "2022-02-22 04:08:04",
+        "ip_address": "2a06:98c1:3121::10",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "9",
+        "first_seen": "2022-02-25 13:47:43",
+        "last_seen": "2022-04-04 19:51:45",
+        "ip_address": "2a06:98c1:3120::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "9",
+        "first_seen": "2022-02-25 13:47:43",
+        "last_seen": "2022-04-04 19:51:45",
+        "ip_address": "2a06:98c1:3121::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "facepla.net",
+        "count": "49",
+        "first_seen": "2022-03-10 16:03:30",
+        "last_seen": "2022-03-14 10:09:46",
+        "ip_address": "2a06:98c1:3123:8000::",
+        "type": "IPv6"
+    }
+]

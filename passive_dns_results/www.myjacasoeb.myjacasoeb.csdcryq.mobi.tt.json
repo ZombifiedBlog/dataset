@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.myjacasoeb.myjacasoeb.csdcryq.mobi.tt",
+        "count": "8",
+        "first_seen": "2023-07-18 10:27:19",
+        "last_seen": "2024-01-02 06:58:13",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.myjacasoeb.myjacasoeb.csdcryq.mobi.tt",
+        "count": "12",
+        "first_seen": "2022-07-11 18:08:10",
+        "last_seen": "2022-07-11 23:48:04",
+        "ip_address": "107.174.138.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.myjacasoeb.myjacasoeb.csdcryq.mobi.tt",
+        "count": "2",
+        "first_seen": "2024-01-02 06:58:13",
+        "last_seen": "2024-01-02 06:58:13",
+        "ip_address": "::1",
+        "type": "IPv6"
+    }
+]

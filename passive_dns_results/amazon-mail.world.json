@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "amazon-mail.world",
+        "count": "109",
+        "first_seen": "2021-09-01 18:31:52",
+        "last_seen": "2021-10-04 09:13:46",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-mail.world",
+        "count": "59",
+        "first_seen": "2020-11-19 18:47:13",
+        "last_seen": "2021-03-02 18:28:30",
+        "ip_address": "128.14.142.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-mail.world",
+        "count": "26",
+        "first_seen": "2020-10-15 17:39:43",
+        "last_seen": "2020-11-02 18:47:33",
+        "ip_address": "128.14.142.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-mail.world",
+        "count": "263",
+        "first_seen": "2020-08-31 15:48:52",
+        "last_seen": "2020-09-15 07:55:55",
+        "ip_address": "160.153.251.7",
+        "type": "IPv4"
+    }
+]

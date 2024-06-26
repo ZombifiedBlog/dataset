@@ -1,0 +1,122 @@
+[
+    {
+        "domain": "camilledimaio.com",
+        "count": "77",
+        "first_seen": "2021-12-25 23:39:25",
+        "last_seen": "2022-02-28 23:39:12",
+        "ip_address": "64.190.62.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "camilledimaio.com",
+        "count": "63",
+        "first_seen": "2022-03-04 01:40:30",
+        "last_seen": "2022-05-25 17:33:43",
+        "ip_address": "64.190.63.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "camilledimaio.com",
+        "count": "1553",
+        "first_seen": "2022-05-27 03:27:22",
+        "last_seen": "2024-01-18 06:52:44",
+        "ip_address": "104.21.24.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "camilledimaio.com",
+        "count": "1553",
+        "first_seen": "2022-05-27 03:27:22",
+        "last_seen": "2024-01-18 06:52:44",
+        "ip_address": "172.67.216.188",
+        "type": "IPv4"
+    },
+    {
+        "domain": "camilledimaio.com",
+        "count": "312",
+        "first_seen": "2015-08-31 12:37:32",
+        "last_seen": "2016-04-13 18:10:48",
+        "ip_address": "184.168.47.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "camilledimaio.com",
+        "count": "5",
+        "first_seen": "2014-10-06 03:58:07",
+        "last_seen": "2014-11-28 21:04:28",
+        "ip_address": "184.168.221.47",
+        "type": "IPv4"
+    },
+    {
+        "domain": "camilledimaio.com",
+        "count": "1513",
+        "first_seen": "2016-04-23 08:36:13",
+        "last_seen": "2017-07-30 08:56:07",
+        "ip_address": "198.12.145.135",
+        "type": "IPv4"
+    },
+    {
+        "domain": "camilledimaio.com",
+        "count": "991",
+        "first_seen": "2019-01-16 16:26:08",
+        "last_seen": "2021-11-15 03:22:11",
+        "ip_address": "198.49.23.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "camilledimaio.com",
+        "count": "991",
+        "first_seen": "2019-01-16 16:26:08",
+        "last_seen": "2021-11-15 03:22:11",
+        "ip_address": "198.49.23.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "camilledimaio.com",
+        "count": "991",
+        "first_seen": "2019-01-16 16:26:08",
+        "last_seen": "2021-11-15 03:22:11",
+        "ip_address": "198.185.159.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "camilledimaio.com",
+        "count": "991",
+        "first_seen": "2019-01-16 16:26:08",
+        "last_seen": "2021-11-15 03:22:11",
+        "ip_address": "198.185.159.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "camilledimaio.com",
+        "count": "3377",
+        "first_seen": "2017-10-14 11:27:07",
+        "last_seen": "2020-03-23 00:17:48",
+        "ip_address": "198.71.233.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "camilledimaio.com",
+        "count": "263",
+        "first_seen": "2017-08-01 05:46:52",
+        "last_seen": "2017-10-12 03:29:44",
+        "ip_address": "198.71.233.184",
+        "type": "IPv4"
+    },
+    {
+        "domain": "camilledimaio.com",
+        "count": "908",
+        "first_seen": "2022-05-27 08:50:23",
+        "last_seen": "2024-01-16 21:42:40",
+        "ip_address": "2606:4700:3030::6815:1822",
+        "type": "IPv6"
+    },
+    {
+        "domain": "camilledimaio.com",
+        "count": "908",
+        "first_seen": "2022-05-27 08:50:23",
+        "last_seen": "2024-01-16 21:42:40",
+        "ip_address": "2606:4700:3035::ac43:d8bc",
+        "type": "IPv6"
+    }
+]

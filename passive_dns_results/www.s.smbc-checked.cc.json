@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "www.s.smbc-checked.cc",
+        "count": "26",
+        "first_seen": "2022-04-10 11:08:07",
+        "last_seen": "2022-04-11 05:11:24",
+        "ip_address": "107.175.83.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.s.smbc-checked.cc",
+        "count": "2",
+        "first_seen": "2022-04-10 11:09:21",
+        "last_seen": "2022-04-10 11:11:31",
+        "ip_address": "2602:ffc5:105:600::2b13:94e8",
+        "type": "IPv6"
+    }
+]

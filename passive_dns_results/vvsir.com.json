@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "vvsir.com",
+        "count": "2",
+        "first_seen": "2016-10-30 02:31:52",
+        "last_seen": "2016-10-30 02:31:52",
+        "ip_address": "8.5.1.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vvsir.com",
+        "count": "1",
+        "first_seen": "2012-02-06 18:22:34",
+        "last_seen": "2012-02-06 18:22:34",
+        "ip_address": "66.7.213.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vvsir.com",
+        "count": "17",
+        "first_seen": "2022-10-29 01:56:25",
+        "last_seen": "2022-10-30 00:47:54",
+        "ip_address": "91.195.240.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vvsir.com",
+        "count": "1486",
+        "first_seen": "2014-06-12 06:03:50",
+        "last_seen": "2018-02-04 10:05:49",
+        "ip_address": "107.190.142.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vvsir.com",
+        "count": "5757",
+        "first_seen": "2018-02-08 00:29:45",
+        "last_seen": "2024-01-15 14:22:25",
+        "ip_address": "162.221.187.154",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vvsir.com",
+        "count": "14",
+        "first_seen": "2012-05-28 10:05:57",
+        "last_seen": "2014-03-13 12:36:55",
+        "ip_address": "184.171.252.182",
+        "type": "IPv4"
+    }
+]

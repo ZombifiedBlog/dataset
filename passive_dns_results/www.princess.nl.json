@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.princess.nl",
+        "count": "4868",
+        "first_seen": "2018-12-05 12:07:39",
+        "last_seen": "2024-01-14 07:55:24",
+        "ip_address": "52.166.251.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.princess.nl",
+        "count": "13286",
+        "first_seen": "2016-05-10 11:34:33",
+        "last_seen": "2018-07-02 09:38:44",
+        "ip_address": "80.84.231.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.princess.nl",
+        "count": "16796",
+        "first_seen": "2011-11-18 01:29:10",
+        "last_seen": "2016-05-10 06:47:49",
+        "ip_address": "83.96.141.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.princess.nl",
+        "count": "8",
+        "first_seen": "2013-10-09 14:53:39",
+        "last_seen": "2013-10-10 01:04:59",
+        "ip_address": "91.184.27.206",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.princess.nl",
+        "count": "1134",
+        "first_seen": "2018-05-24 15:31:48",
+        "last_seen": "2018-10-09 06:24:11",
+        "ip_address": "94.228.131.95",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.princess.nl",
+        "count": "468",
+        "first_seen": "2018-10-10 09:53:34",
+        "last_seen": "2019-01-17 06:37:43",
+        "ip_address": "206.189.241.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.princess.nl",
+        "count": "2451",
+        "first_seen": "2010-06-30 10:45:25",
+        "last_seen": "2011-11-17 13:26:35",
+        "ip_address": "213.206.88.199",
+        "type": "IPv4"
+    }
+]

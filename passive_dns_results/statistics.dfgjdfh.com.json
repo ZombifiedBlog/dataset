@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "statistics.dfgjdfh.com",
+        "count": "721",
+        "first_seen": "2020-04-08 18:16:13",
+        "last_seen": "2020-05-26 17:33:19",
+        "ip_address": "104.18.56.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "statistics.dfgjdfh.com",
+        "count": "721",
+        "first_seen": "2020-04-08 18:16:13",
+        "last_seen": "2020-05-26 17:33:19",
+        "ip_address": "104.18.57.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "statistics.dfgjdfh.com",
+        "count": "2376",
+        "first_seen": "2020-05-26 20:35:27",
+        "last_seen": "2020-08-05 01:23:29",
+        "ip_address": "104.18.56.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "statistics.dfgjdfh.com",
+        "count": "2376",
+        "first_seen": "2020-05-26 20:35:27",
+        "last_seen": "2020-08-05 01:23:29",
+        "ip_address": "104.18.57.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "statistics.dfgjdfh.com",
+        "count": "2376",
+        "first_seen": "2020-05-26 20:35:27",
+        "last_seen": "2020-08-05 01:23:29",
+        "ip_address": "172.67.151.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "statistics.dfgjdfh.com",
+        "count": "852",
+        "first_seen": "2020-05-26 21:43:50",
+        "last_seen": "2020-08-03 03:12:35",
+        "ip_address": "2606:4700:3031::ac43:97a8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "statistics.dfgjdfh.com",
+        "count": "852",
+        "first_seen": "2020-05-26 21:43:50",
+        "last_seen": "2020-08-03 03:12:35",
+        "ip_address": "2606:4700:3034::6812:39c3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "statistics.dfgjdfh.com",
+        "count": "852",
+        "first_seen": "2020-05-26 21:43:50",
+        "last_seen": "2020-08-03 03:12:35",
+        "ip_address": "2606:4700:3037::6812:38c3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "statistics.dfgjdfh.com",
+        "count": "378",
+        "first_seen": "2020-04-08 19:33:30",
+        "last_seen": "2020-05-26 07:34:41",
+        "ip_address": "2606:4700:3034::6812:39c3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "statistics.dfgjdfh.com",
+        "count": "378",
+        "first_seen": "2020-04-08 19:33:30",
+        "last_seen": "2020-05-26 07:34:41",
+        "ip_address": "2606:4700:3037::6812:38c3",
+        "type": "IPv6"
+    }
+]

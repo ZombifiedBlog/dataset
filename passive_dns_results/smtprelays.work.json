@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "smtprelays.work",
+        "count": "2",
+        "first_seen": "2016-07-31 20:14:51",
+        "last_seen": "2016-07-31 20:14:51",
+        "ip_address": "188.241.73.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smtprelays.work",
+        "count": "299",
+        "first_seen": "2015-12-29 08:45:01",
+        "last_seen": "2016-01-25 16:23:20",
+        "ip_address": "192.3.168.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smtprelays.work",
+        "count": "23",
+        "first_seen": "2017-01-01 02:47:05",
+        "last_seen": "2017-02-04 18:05:27",
+        "ip_address": "209.99.40.226",
+        "type": "IPv4"
+    }
+]

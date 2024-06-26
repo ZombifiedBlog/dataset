@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "www.minmide.com",
+        "count": "3",
+        "first_seen": "2019-06-22 07:42:16",
+        "last_seen": "2019-06-22 07:42:17",
+        "ip_address": "103.24.205.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.minmide.com",
+        "count": "12",
+        "first_seen": "2019-06-22 22:15:45",
+        "last_seen": "2019-06-23 04:45:13",
+        "ip_address": "156.236.75.9",
+        "type": "IPv4"
+    }
+]

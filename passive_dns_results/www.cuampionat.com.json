@@ -1,0 +1,146 @@
+[
+    {
+        "domain": "www.cuampionat.com",
+        "count": "3",
+        "first_seen": "2021-02-08 17:55:30",
+        "last_seen": "2021-02-25 08:14:42",
+        "ip_address": "104.21.72.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cuampionat.com",
+        "count": "3",
+        "first_seen": "2021-02-08 17:55:30",
+        "last_seen": "2021-02-25 08:14:42",
+        "ip_address": "172.67.187.82",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cuampionat.com",
+        "count": "812",
+        "first_seen": "2020-07-19 16:09:33",
+        "last_seen": "2020-10-21 16:09:21",
+        "ip_address": "104.27.148.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cuampionat.com",
+        "count": "812",
+        "first_seen": "2020-07-19 16:09:33",
+        "last_seen": "2020-10-21 16:09:21",
+        "ip_address": "104.27.149.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cuampionat.com",
+        "count": "812",
+        "first_seen": "2020-07-19 16:09:33",
+        "last_seen": "2020-10-21 16:09:21",
+        "ip_address": "172.67.187.82",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cuampionat.com",
+        "count": "90",
+        "first_seen": "2020-07-19 16:45:42",
+        "last_seen": "2020-07-19 17:31:35",
+        "ip_address": "172.64.196.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cuampionat.com",
+        "count": "90",
+        "first_seen": "2020-07-19 16:45:42",
+        "last_seen": "2020-07-19 17:31:35",
+        "ip_address": "172.64.197.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cuampionat.com",
+        "count": "1",
+        "first_seen": "2021-04-08 05:02:01",
+        "last_seen": "2021-04-08 05:02:01",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cuampionat.com",
+        "count": "1",
+        "first_seen": "2021-04-08 05:02:01",
+        "last_seen": "2021-04-08 05:02:01",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cuampionat.com",
+        "count": "1",
+        "first_seen": "2021-04-08 05:02:01",
+        "last_seen": "2021-04-08 05:02:01",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cuampionat.com",
+        "count": "1",
+        "first_seen": "2021-04-08 05:02:01",
+        "last_seen": "2021-04-08 05:02:01",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cuampionat.com",
+        "count": "54",
+        "first_seen": "2020-07-19 16:45:42",
+        "last_seen": "2020-07-19 17:30:54",
+        "ip_address": "2606:4700:e6::ac40:c427",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.cuampionat.com",
+        "count": "54",
+        "first_seen": "2020-07-19 16:45:42",
+        "last_seen": "2020-07-19 17:30:54",
+        "ip_address": "2606:4700:e6::ac40:c527",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.cuampionat.com",
+        "count": "347",
+        "first_seen": "2020-07-19 16:09:41",
+        "last_seen": "2020-10-21 16:09:21",
+        "ip_address": "2606:4700:3032::681b:9599",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.cuampionat.com",
+        "count": "347",
+        "first_seen": "2020-07-19 16:09:41",
+        "last_seen": "2020-10-21 16:09:21",
+        "ip_address": "2606:4700:3032::ac43:bb52",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.cuampionat.com",
+        "count": "347",
+        "first_seen": "2020-07-19 16:09:41",
+        "last_seen": "2020-10-21 16:09:21",
+        "ip_address": "2606:4700:3037::681b:9499",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.cuampionat.com",
+        "count": "1",
+        "first_seen": "2021-02-25 08:14:42",
+        "last_seen": "2021-02-25 08:14:42",
+        "ip_address": "2606:4700:3032::ac43:bb52",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.cuampionat.com",
+        "count": "1",
+        "first_seen": "2021-02-25 08:14:42",
+        "last_seen": "2021-02-25 08:14:42",
+        "ip_address": "2606:4700:3033::6815:48cc",
+        "type": "IPv6"
+    }
+]

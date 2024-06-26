@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "www.sncf.com",
+        "count": "198957",
+        "first_seen": "2010-06-24 03:14:03",
+        "last_seen": "2012-05-09 07:35:48",
+        "ip_address": "148.169.0.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sncf.com",
+        "count": "198057",
+        "first_seen": "2010-07-19 13:20:03",
+        "last_seen": "2012-07-02 02:31:52",
+        "ip_address": "148.169.128.12",
+        "type": "IPv4"
+    }
+]

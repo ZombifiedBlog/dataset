@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.zwwrb.com",
+        "count": "906",
+        "first_seen": "2022-04-09 01:54:38",
+        "last_seen": "2022-04-15 06:08:26",
+        "ip_address": "104.21.35.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zwwrb.com",
+        "count": "906",
+        "first_seen": "2022-04-09 01:54:38",
+        "last_seen": "2022-04-15 06:08:26",
+        "ip_address": "172.67.214.82",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zwwrb.com",
+        "count": "430",
+        "first_seen": "2021-05-14 12:40:04",
+        "last_seen": "2022-02-28 01:59:14",
+        "ip_address": "198.144.154.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zwwrb.com",
+        "count": "17",
+        "first_seen": "2022-04-09 01:58:01",
+        "last_seen": "2022-04-14 09:17:27",
+        "ip_address": "2606:4700:3036::6815:233a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zwwrb.com",
+        "count": "17",
+        "first_seen": "2022-04-09 01:58:01",
+        "last_seen": "2022-04-14 09:17:27",
+        "ip_address": "2606:4700:3037::ac43:d652",
+        "type": "IPv6"
+    }
+]

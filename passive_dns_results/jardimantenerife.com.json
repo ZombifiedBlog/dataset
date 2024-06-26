@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "jardimantenerife.com",
+        "count": "18",
+        "first_seen": "2019-02-11 04:27:48",
+        "last_seen": "2022-03-21 07:42:27",
+        "ip_address": "31.47.72.143",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jardimantenerife.com",
+        "count": "18",
+        "first_seen": "2019-02-11 04:27:48",
+        "last_seen": "2022-03-21 07:42:27",
+        "ip_address": "31.47.72.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jardimantenerife.com",
+        "count": "8",
+        "first_seen": "2022-01-27 07:56:52",
+        "last_seen": "2022-02-09 17:36:48",
+        "ip_address": "37.32.98.64",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jardimantenerife.com",
+        "count": "1966",
+        "first_seen": "2018-03-21 08:20:46",
+        "last_seen": "2022-01-24 13:55:02",
+        "ip_address": "89.44.32.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jardimantenerife.com",
+        "count": "193",
+        "first_seen": "2010-08-30 00:48:20",
+        "last_seen": "2017-06-16 17:24:30",
+        "ip_address": "93.93.112.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jardimantenerife.com",
+        "count": "189",
+        "first_seen": "2017-06-17 09:30:23",
+        "last_seen": "2018-03-16 12:24:08",
+        "ip_address": "185.104.152.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jardimantenerife.com",
+        "count": "4",
+        "first_seen": "2022-02-18 03:11:52",
+        "last_seen": "2022-02-26 19:40:55",
+        "ip_address": "2a01:a940:419:8f::1000",
+        "type": "IPv6"
+    },
+    {
+        "domain": "jardimantenerife.com",
+        "count": "4",
+        "first_seen": "2022-02-18 03:11:52",
+        "last_seen": "2022-02-26 19:40:55",
+        "ip_address": "2a01:a940:419:99::1000",
+        "type": "IPv6"
+    }
+]

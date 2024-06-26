@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "adminr.icu",
+        "count": "2",
+        "first_seen": "2020-08-27 14:41:35",
+        "last_seen": "2020-08-27 14:41:35",
+        "ip_address": "23.234.201.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "adminr.icu",
+        "count": "2",
+        "first_seen": "2020-08-27 14:41:35",
+        "last_seen": "2020-08-27 14:41:35",
+        "ip_address": "143.92.63.134",
+        "type": "IPv4"
+    },
+    {
+        "domain": "adminr.icu",
+        "count": "2",
+        "first_seen": "2020-08-22 11:52:03",
+        "last_seen": "2020-08-22 11:52:03",
+        "ip_address": "143.92.63.134",
+        "type": "IPv4"
+    },
+    {
+        "domain": "adminr.icu",
+        "count": "2",
+        "first_seen": "2020-08-22 11:52:03",
+        "last_seen": "2020-08-22 11:52:03",
+        "ip_address": "173.82.19.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "adminr.icu",
+        "count": "4",
+        "first_seen": "2020-08-13 09:40:44",
+        "last_seen": "2020-08-14 09:49:30",
+        "ip_address": "160.251.12.246",
+        "type": "IPv4"
+    }
+]

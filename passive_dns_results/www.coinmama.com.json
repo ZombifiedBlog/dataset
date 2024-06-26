@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.coinmama.com",
+        "count": "388139",
+        "first_seen": "2016-01-14 11:56:18",
+        "last_seen": "2017-12-12 10:59:22",
+        "ip_address": "104.20.77.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.coinmama.com",
+        "count": "388139",
+        "first_seen": "2016-01-14 11:56:18",
+        "last_seen": "2017-12-12 10:59:22",
+        "ip_address": "104.20.78.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.coinmama.com",
+        "count": "2",
+        "first_seen": "2015-10-25 17:14:45",
+        "last_seen": "2015-10-25 17:14:45",
+        "ip_address": "104.20.92.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.coinmama.com",
+        "count": "2",
+        "first_seen": "2015-10-25 17:14:45",
+        "last_seen": "2015-10-25 17:14:45",
+        "ip_address": "104.20.93.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.coinmama.com",
+        "count": "160470",
+        "first_seen": "2016-01-14 12:00:00",
+        "last_seen": "2017-12-12 07:57:18",
+        "ip_address": "2400:cb00:2048:1::6814:4d1e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.coinmama.com",
+        "count": "160470",
+        "first_seen": "2016-01-14 12:00:00",
+        "last_seen": "2017-12-12 07:57:18",
+        "ip_address": "2400:cb00:2048:1::6814:4e1e",
+        "type": "IPv6"
+    }
+]

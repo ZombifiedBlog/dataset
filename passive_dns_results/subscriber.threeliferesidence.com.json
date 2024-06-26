@@ -1,0 +1,186 @@
+[
+    {
+        "domain": "subscriber.threeliferesidence.com",
+        "count": "3647",
+        "first_seen": "2023-01-06 14:07:02",
+        "last_seen": "2023-01-31 10:23:53",
+        "ip_address": "104.21.86.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.threeliferesidence.com",
+        "count": "3647",
+        "first_seen": "2023-01-06 14:07:02",
+        "last_seen": "2023-01-31 10:23:53",
+        "ip_address": "172.67.215.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.threeliferesidence.com",
+        "count": "2",
+        "first_seen": "2023-01-16 02:55:09",
+        "last_seen": "2023-01-16 03:02:59",
+        "ip_address": "188.114.96.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.threeliferesidence.com",
+        "count": "2",
+        "first_seen": "2023-01-16 02:55:09",
+        "last_seen": "2023-01-16 03:02:59",
+        "ip_address": "188.114.97.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.threeliferesidence.com",
+        "count": "56",
+        "first_seen": "2023-01-06 19:57:48",
+        "last_seen": "2023-01-26 16:59:06",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.threeliferesidence.com",
+        "count": "56",
+        "first_seen": "2023-01-06 19:57:48",
+        "last_seen": "2023-01-26 16:59:06",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.threeliferesidence.com",
+        "count": "52",
+        "first_seen": "2023-01-07 02:17:49",
+        "last_seen": "2023-01-31 08:49:29",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.threeliferesidence.com",
+        "count": "52",
+        "first_seen": "2023-01-07 02:17:49",
+        "last_seen": "2023-01-31 08:49:29",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.threeliferesidence.com",
+        "count": "3",
+        "first_seen": "2023-01-17 12:12:48",
+        "last_seen": "2023-01-25 10:27:07",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.threeliferesidence.com",
+        "count": "3",
+        "first_seen": "2023-01-17 12:12:48",
+        "last_seen": "2023-01-25 10:27:07",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.threeliferesidence.com",
+        "count": "9",
+        "first_seen": "2023-01-09 01:58:15",
+        "last_seen": "2023-01-25 13:25:54",
+        "ip_address": "188.114.96.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.threeliferesidence.com",
+        "count": "9",
+        "first_seen": "2023-01-09 01:58:15",
+        "last_seen": "2023-01-25 13:25:54",
+        "ip_address": "188.114.97.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.threeliferesidence.com",
+        "count": "77",
+        "first_seen": "2023-01-15 09:27:12",
+        "last_seen": "2023-01-31 05:00:38",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.threeliferesidence.com",
+        "count": "77",
+        "first_seen": "2023-01-15 09:27:12",
+        "last_seen": "2023-01-31 05:00:38",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.threeliferesidence.com",
+        "count": "39",
+        "first_seen": "2023-05-21 20:58:05",
+        "last_seen": "2023-12-19 20:46:49",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.threeliferesidence.com",
+        "count": "43",
+        "first_seen": "2023-01-09 06:28:11",
+        "last_seen": "2023-01-27 19:29:47",
+        "ip_address": "2606:4700:3033::ac43:d715",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.threeliferesidence.com",
+        "count": "43",
+        "first_seen": "2023-01-09 06:28:11",
+        "last_seen": "2023-01-27 19:29:47",
+        "ip_address": "2606:4700:3037::6815:5632",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.threeliferesidence.com",
+        "count": "26",
+        "first_seen": "2023-01-08 11:12:55",
+        "last_seen": "2023-01-31 08:49:30",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.threeliferesidence.com",
+        "count": "26",
+        "first_seen": "2023-01-08 11:12:55",
+        "last_seen": "2023-01-31 08:49:30",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.threeliferesidence.com",
+        "count": "3",
+        "first_seen": "2023-01-12 09:33:56",
+        "last_seen": "2023-01-19 18:57:27",
+        "ip_address": "2a06:98c1:3120::8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.threeliferesidence.com",
+        "count": "3",
+        "first_seen": "2023-01-12 09:33:56",
+        "last_seen": "2023-01-19 18:57:27",
+        "ip_address": "2a06:98c1:3121::8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.threeliferesidence.com",
+        "count": "16",
+        "first_seen": "2023-01-15 09:27:14",
+        "last_seen": "2023-01-29 05:40:45",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.threeliferesidence.com",
+        "count": "16",
+        "first_seen": "2023-01-15 09:27:14",
+        "last_seen": "2023-01-29 05:40:45",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

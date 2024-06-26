@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "my.jcb.co.jp.lijt.top",
+        "count": "5",
+        "first_seen": "2020-12-25 10:12:06",
+        "last_seen": "2021-01-18 18:52:32",
+        "ip_address": "47.74.14.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.jp.lijt.top",
+        "count": "119",
+        "first_seen": "2020-11-16 16:20:09",
+        "last_seen": "2020-11-17 04:39:25",
+        "ip_address": "157.52.230.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.jp.lijt.top",
+        "count": "75",
+        "first_seen": "2020-11-17 05:19:11",
+        "last_seen": "2020-12-18 19:04:06",
+        "ip_address": "157.52.230.182",
+        "type": "IPv4"
+    }
+]

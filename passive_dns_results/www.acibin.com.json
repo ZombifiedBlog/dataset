@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "www.acibin.com",
+        "count": "2",
+        "first_seen": "2020-07-01 23:14:51",
+        "last_seen": "2020-07-01 23:14:51",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.acibin.com",
+        "count": "26",
+        "first_seen": "2019-06-09 00:01:04",
+        "last_seen": "2019-06-09 05:45:03",
+        "ip_address": "154.221.22.17",
+        "type": "IPv4"
+    }
+]

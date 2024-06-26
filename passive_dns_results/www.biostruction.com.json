@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.biostruction.com",
+        "count": "20",
+        "first_seen": "2018-03-18 07:31:17",
+        "last_seen": "2018-03-22 20:33:54",
+        "ip_address": "88.99.168.166",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.biostruction.com",
+        "count": "1758",
+        "first_seen": "2018-03-27 19:00:46",
+        "last_seen": "2021-11-16 22:16:23",
+        "ip_address": "88.99.187.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.biostruction.com",
+        "count": "1",
+        "first_seen": "2021-02-15 05:15:13",
+        "last_seen": "2021-02-15 05:15:13",
+        "ip_address": "91.195.240.117",
+        "type": "IPv4"
+    }
+]

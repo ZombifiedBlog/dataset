@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "server.youboo.net",
+        "count": "1",
+        "first_seen": "2023-06-06 05:39:49",
+        "last_seen": "2023-06-06 05:39:49",
+        "ip_address": "113.108.9.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "server.youboo.net",
+        "count": "1",
+        "first_seen": "2023-05-29 23:22:11",
+        "last_seen": "2023-05-29 23:22:11",
+        "ip_address": "113.108.94.235",
+        "type": "IPv4"
+    },
+    {
+        "domain": "server.youboo.net",
+        "count": "67",
+        "first_seen": "2023-04-18 16:37:56",
+        "last_seen": "2023-05-08 08:02:21",
+        "ip_address": "155.94.128.51",
+        "type": "IPv4"
+    }
+]

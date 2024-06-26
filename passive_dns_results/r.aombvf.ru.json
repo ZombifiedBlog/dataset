@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "r.aombvf.ru",
+        "count": "2",
+        "first_seen": "2023-05-28 12:42:48",
+        "last_seen": "2023-06-04 20:14:57",
+        "ip_address": "31.177.76.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r.aombvf.ru",
+        "count": "2",
+        "first_seen": "2023-05-28 12:42:48",
+        "last_seen": "2023-06-04 20:14:57",
+        "ip_address": "31.177.80.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r.aombvf.ru",
+        "count": "14960",
+        "first_seen": "2022-05-16 01:20:09",
+        "last_seen": "2022-07-13 06:58:38",
+        "ip_address": "104.21.45.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r.aombvf.ru",
+        "count": "14960",
+        "first_seen": "2022-05-16 01:20:09",
+        "last_seen": "2022-07-13 06:58:38",
+        "ip_address": "172.67.213.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r.aombvf.ru",
+        "count": "1179",
+        "first_seen": "2022-05-16 01:20:09",
+        "last_seen": "2022-07-11 06:56:21",
+        "ip_address": "2606:4700:3031::6815:2d6b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "r.aombvf.ru",
+        "count": "1179",
+        "first_seen": "2022-05-16 01:20:09",
+        "last_seen": "2022-07-11 06:56:21",
+        "ip_address": "2606:4700:3035::ac43:d528",
+        "type": "IPv6"
+    }
+]

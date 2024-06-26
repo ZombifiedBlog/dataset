@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.myhusbandhastoomanyhobbies.com",
+        "count": "117",
+        "first_seen": "2017-07-11 17:22:23",
+        "last_seen": "2017-07-14 19:32:57",
+        "ip_address": "104.28.26.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.myhusbandhastoomanyhobbies.com",
+        "count": "117",
+        "first_seen": "2017-07-11 17:22:23",
+        "last_seen": "2017-07-14 19:32:57",
+        "ip_address": "104.28.27.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.myhusbandhastoomanyhobbies.com",
+        "count": "17",
+        "first_seen": "2021-02-01 21:52:26",
+        "last_seen": "2021-02-08 18:21:24",
+        "ip_address": "104.247.81.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.myhusbandhastoomanyhobbies.com",
+        "count": "7",
+        "first_seen": "2021-02-06 09:42:56",
+        "last_seen": "2021-02-08 16:24:19",
+        "ip_address": "185.53.177.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.myhusbandhastoomanyhobbies.com",
+        "count": "17",
+        "first_seen": "2021-02-02 03:57:45",
+        "last_seen": "2021-02-05 03:29:10",
+        "ip_address": "208.91.197.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.myhusbandhastoomanyhobbies.com",
+        "count": "27",
+        "first_seen": "2021-01-29 13:29:47",
+        "last_seen": "2021-02-01 19:41:49",
+        "ip_address": "209.99.64.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.myhusbandhastoomanyhobbies.com",
+        "count": "61",
+        "first_seen": "2017-07-11 17:22:23",
+        "last_seen": "2017-07-14 18:02:32",
+        "ip_address": "2400:cb00:2048:1::681c:1ac6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.myhusbandhastoomanyhobbies.com",
+        "count": "61",
+        "first_seen": "2017-07-11 17:22:23",
+        "last_seen": "2017-07-14 18:02:32",
+        "ip_address": "2400:cb00:2048:1::681c:1bc6",
+        "type": "IPv6"
+    }
+]

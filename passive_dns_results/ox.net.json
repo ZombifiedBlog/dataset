@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "ox.net",
+        "count": "7466",
+        "first_seen": "2015-02-22 12:08:22",
+        "last_seen": "2016-01-19 23:47:16",
+        "ip_address": "66.96.147.106",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ox.net",
+        "count": "9985",
+        "first_seen": "2014-01-24 20:23:28",
+        "last_seen": "2015-02-22 08:43:49",
+        "ip_address": "66.96.147.159",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ox.net",
+        "count": "8473",
+        "first_seen": "2016-01-20 03:07:02",
+        "last_seen": "2016-12-12 04:44:25",
+        "ip_address": "66.96.149.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ox.net",
+        "count": "4947",
+        "first_seen": "2016-12-12 11:03:54",
+        "last_seen": "2017-07-23 15:17:07",
+        "ip_address": "66.96.149.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ox.net",
+        "count": "22592",
+        "first_seen": "2017-07-23 14:48:07",
+        "last_seen": "2019-08-10 03:24:43",
+        "ip_address": "151.101.1.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ox.net",
+        "count": "3822",
+        "first_seen": "2019-08-09 23:17:50",
+        "last_seen": "2020-01-27 22:38:59",
+        "ip_address": "198.74.58.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ox.net",
+        "count": "1",
+        "first_seen": "2014-01-24 16:12:43",
+        "last_seen": "2014-01-24 16:12:43",
+        "ip_address": "198.251.65.205",
+        "type": "IPv4"
+    }
+]

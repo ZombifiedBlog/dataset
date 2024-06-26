@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "4e94cae6aeac9d7db4df308b42e6fa46.sh-lutong.cn",
+        "count": "44",
+        "first_seen": "2023-07-12 07:25:01",
+        "last_seen": "2023-09-04 10:56:40",
+        "ip_address": "104.21.57.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "4e94cae6aeac9d7db4df308b42e6fa46.sh-lutong.cn",
+        "count": "44",
+        "first_seen": "2023-07-12 07:25:01",
+        "last_seen": "2023-09-04 10:56:40",
+        "ip_address": "172.67.146.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "4e94cae6aeac9d7db4df308b42e6fa46.sh-lutong.cn",
+        "count": "51",
+        "first_seen": "2023-06-11 11:30:21",
+        "last_seen": "2023-07-11 11:07:44",
+        "ip_address": "104.21.90.82",
+        "type": "IPv4"
+    },
+    {
+        "domain": "4e94cae6aeac9d7db4df308b42e6fa46.sh-lutong.cn",
+        "count": "51",
+        "first_seen": "2023-06-11 11:30:21",
+        "last_seen": "2023-07-11 11:07:44",
+        "ip_address": "172.67.197.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "4e94cae6aeac9d7db4df308b42e6fa46.sh-lutong.cn",
+        "count": "21",
+        "first_seen": "2023-06-13 07:38:49",
+        "last_seen": "2023-07-11 11:07:44",
+        "ip_address": "2606:4700:3030::6815:5a52",
+        "type": "IPv6"
+    },
+    {
+        "domain": "4e94cae6aeac9d7db4df308b42e6fa46.sh-lutong.cn",
+        "count": "21",
+        "first_seen": "2023-06-13 07:38:49",
+        "last_seen": "2023-07-11 11:07:44",
+        "ip_address": "2606:4700:3033::ac43:c5ae",
+        "type": "IPv6"
+    },
+    {
+        "domain": "4e94cae6aeac9d7db4df308b42e6fa46.sh-lutong.cn",
+        "count": "17",
+        "first_seen": "2023-07-20 22:13:12",
+        "last_seen": "2023-09-04 10:56:40",
+        "ip_address": "2606:4700:3034::ac43:92e0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "4e94cae6aeac9d7db4df308b42e6fa46.sh-lutong.cn",
+        "count": "17",
+        "first_seen": "2023-07-20 22:13:12",
+        "last_seen": "2023-09-04 10:56:40",
+        "ip_address": "2606:4700:3037::6815:399b",
+        "type": "IPv6"
+    }
+]

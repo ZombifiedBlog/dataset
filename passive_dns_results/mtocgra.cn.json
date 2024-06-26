@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "mtocgra.cn",
+        "count": "3",
+        "first_seen": "2023-03-10 02:44:01",
+        "last_seen": "2023-03-18 22:16:37",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mtocgra.cn",
+        "count": "836",
+        "first_seen": "2023-01-01 10:12:02",
+        "last_seen": "2023-01-14 14:20:10",
+        "ip_address": "104.21.84.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mtocgra.cn",
+        "count": "836",
+        "first_seen": "2023-01-01 10:12:02",
+        "last_seen": "2023-01-14 14:20:10",
+        "ip_address": "172.67.185.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mtocgra.cn",
+        "count": "44",
+        "first_seen": "2023-01-01 10:12:02",
+        "last_seen": "2023-01-13 16:11:45",
+        "ip_address": "2606:4700:3031::ac43:b90a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mtocgra.cn",
+        "count": "44",
+        "first_seen": "2023-01-01 10:12:02",
+        "last_seen": "2023-01-13 16:11:45",
+        "ip_address": "2606:4700:3037::6815:541a",
+        "type": "IPv6"
+    }
+]

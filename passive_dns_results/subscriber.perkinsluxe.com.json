@@ -1,0 +1,178 @@
+[
+    {
+        "domain": "subscriber.perkinsluxe.com",
+        "count": "20",
+        "first_seen": "2022-08-24 10:32:33",
+        "last_seen": "2022-09-11 14:55:18",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.perkinsluxe.com",
+        "count": "5247",
+        "first_seen": "2022-06-06 23:05:57",
+        "last_seen": "2022-08-23 02:27:16",
+        "ip_address": "104.21.89.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.perkinsluxe.com",
+        "count": "5247",
+        "first_seen": "2022-06-06 23:05:57",
+        "last_seen": "2022-08-23 02:27:16",
+        "ip_address": "172.67.160.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.perkinsluxe.com",
+        "count": "54",
+        "first_seen": "2022-06-07 19:38:59",
+        "last_seen": "2022-08-21 08:06:37",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.perkinsluxe.com",
+        "count": "54",
+        "first_seen": "2022-06-07 19:38:59",
+        "last_seen": "2022-08-21 08:06:37",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.perkinsluxe.com",
+        "count": "171",
+        "first_seen": "2022-06-07 20:18:50",
+        "last_seen": "2022-08-22 10:42:48",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.perkinsluxe.com",
+        "count": "171",
+        "first_seen": "2022-06-07 20:18:50",
+        "last_seen": "2022-08-22 10:42:48",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.perkinsluxe.com",
+        "count": "8",
+        "first_seen": "2022-06-08 02:56:14",
+        "last_seen": "2022-07-13 16:05:45",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.perkinsluxe.com",
+        "count": "8",
+        "first_seen": "2022-06-08 02:56:14",
+        "last_seen": "2022-07-13 16:05:45",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.perkinsluxe.com",
+        "count": "1",
+        "first_seen": "2022-08-18 00:16:39",
+        "last_seen": "2022-08-18 00:16:39",
+        "ip_address": "188.114.96.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.perkinsluxe.com",
+        "count": "1",
+        "first_seen": "2022-08-18 00:16:39",
+        "last_seen": "2022-08-18 00:16:39",
+        "ip_address": "188.114.97.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.perkinsluxe.com",
+        "count": "10",
+        "first_seen": "2022-06-08 04:16:06",
+        "last_seen": "2022-07-22 19:45:19",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.perkinsluxe.com",
+        "count": "10",
+        "first_seen": "2022-06-08 04:16:06",
+        "last_seen": "2022-07-22 19:45:19",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.perkinsluxe.com",
+        "count": "3",
+        "first_seen": "2022-08-25 13:04:41",
+        "last_seen": "2022-08-25 21:35:14",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.perkinsluxe.com",
+        "count": "58",
+        "first_seen": "2022-06-07 22:33:07",
+        "last_seen": "2022-08-21 17:14:35",
+        "ip_address": "2606:4700:3031::ac43:a0e0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.perkinsluxe.com",
+        "count": "58",
+        "first_seen": "2022-06-07 22:33:07",
+        "last_seen": "2022-08-21 17:14:35",
+        "ip_address": "2606:4700:3032::6815:5993",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.perkinsluxe.com",
+        "count": "43",
+        "first_seen": "2022-06-08 07:23:42",
+        "last_seen": "2022-08-19 11:36:53",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.perkinsluxe.com",
+        "count": "43",
+        "first_seen": "2022-06-08 07:23:42",
+        "last_seen": "2022-08-19 11:36:53",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.perkinsluxe.com",
+        "count": "5",
+        "first_seen": "2022-06-08 07:52:59",
+        "last_seen": "2022-07-07 07:44:55",
+        "ip_address": "2a06:98c1:3120::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.perkinsluxe.com",
+        "count": "5",
+        "first_seen": "2022-06-08 07:52:59",
+        "last_seen": "2022-07-07 07:44:55",
+        "ip_address": "2a06:98c1:3121::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.perkinsluxe.com",
+        "count": "2",
+        "first_seen": "2022-06-21 08:43:44",
+        "last_seen": "2022-06-21 08:43:44",
+        "ip_address": "2a06:98c1:3120::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.perkinsluxe.com",
+        "count": "2",
+        "first_seen": "2022-06-21 08:43:44",
+        "last_seen": "2022-06-21 08:43:44",
+        "ip_address": "2a06:98c1:3121::c",
+        "type": "IPv6"
+    }
+]

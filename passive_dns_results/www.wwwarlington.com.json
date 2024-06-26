@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "www.wwwarlington.com",
+        "count": "2",
+        "first_seen": "2019-02-19 22:56:57",
+        "last_seen": "2019-02-19 22:56:57",
+        "ip_address": "46.17.101.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wwwarlington.com",
+        "count": "2",
+        "first_seen": "2015-06-08 08:34:50",
+        "last_seen": "2015-06-08 08:34:50",
+        "ip_address": "64.29.151.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wwwarlington.com",
+        "count": "2",
+        "first_seen": "2020-01-07 14:39:03",
+        "last_seen": "2020-01-07 14:39:03",
+        "ip_address": "81.17.18.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wwwarlington.com",
+        "count": "2",
+        "first_seen": "2019-11-16 03:56:08",
+        "last_seen": "2019-11-16 03:56:08",
+        "ip_address": "81.17.18.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wwwarlington.com",
+        "count": "2",
+        "first_seen": "2019-03-30 21:45:09",
+        "last_seen": "2019-03-30 21:45:09",
+        "ip_address": "89.35.39.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wwwarlington.com",
+        "count": "1",
+        "first_seen": "2019-04-28 01:40:13",
+        "last_seen": "2019-04-28 01:40:13",
+        "ip_address": "89.35.39.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wwwarlington.com",
+        "count": "4",
+        "first_seen": "2019-04-02 15:29:44",
+        "last_seen": "2019-04-21 10:38:48",
+        "ip_address": "89.35.39.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wwwarlington.com",
+        "count": "653",
+        "first_seen": "2022-06-13 11:47:44",
+        "last_seen": "2022-06-29 20:55:56",
+        "ip_address": "104.219.209.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wwwarlington.com",
+        "count": "8",
+        "first_seen": "2019-02-16 07:04:56",
+        "last_seen": "2019-04-03 13:53:25",
+        "ip_address": "200.63.47.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wwwarlington.com",
+        "count": "2",
+        "first_seen": "2017-02-12 07:01:57",
+        "last_seen": "2017-02-12 07:01:57",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wwwarlington.com",
+        "count": "4",
+        "first_seen": "2017-10-21 21:38:25",
+        "last_seen": "2017-10-31 01:02:29",
+        "ip_address": "208.91.197.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wwwarlington.com",
+        "count": "39",
+        "first_seen": "2017-08-12 00:00:07",
+        "last_seen": "2018-11-14 15:20:48",
+        "ip_address": "208.91.197.137",
+        "type": "IPv4"
+    }
+]

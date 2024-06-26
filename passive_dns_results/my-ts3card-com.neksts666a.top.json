@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "my-ts3card-com.neksts666a.top",
+        "count": "252",
+        "first_seen": "2021-08-08 02:18:25",
+        "last_seen": "2021-08-10 06:13:12",
+        "ip_address": "104.21.80.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.neksts666a.top",
+        "count": "252",
+        "first_seen": "2021-08-08 02:18:25",
+        "last_seen": "2021-08-10 06:13:12",
+        "ip_address": "172.67.155.202",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.neksts666a.top",
+        "count": "22",
+        "first_seen": "2021-08-08 02:18:27",
+        "last_seen": "2021-08-08 07:26:50",
+        "ip_address": "2606:4700:3035::ac43:9bca",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-ts3card-com.neksts666a.top",
+        "count": "22",
+        "first_seen": "2021-08-08 02:18:27",
+        "last_seen": "2021-08-08 07:26:50",
+        "ip_address": "2606:4700:3036::6815:50f6",
+        "type": "IPv6"
+    }
+]

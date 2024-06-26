@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "et-gbs.com",
+        "count": "2720",
+        "first_seen": "2019-04-16 14:59:06",
+        "last_seen": "2020-03-12 08:34:18",
+        "ip_address": "103.50.161.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "et-gbs.com",
+        "count": "7",
+        "first_seen": "2020-05-21 17:51:35",
+        "last_seen": "2020-05-21 19:59:02",
+        "ip_address": "119.18.55.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "et-gbs.com",
+        "count": "4369",
+        "first_seen": "2020-03-12 22:55:59",
+        "last_seen": "2021-03-12 04:46:28",
+        "ip_address": "119.18.62.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "et-gbs.com",
+        "count": "16827",
+        "first_seen": "2020-11-26 11:48:10",
+        "last_seen": "2024-01-18 04:41:33",
+        "ip_address": "119.18.62.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "et-gbs.com",
+        "count": "16827",
+        "first_seen": "2020-11-26 11:48:10",
+        "last_seen": "2024-01-18 04:41:33",
+        "ip_address": "192.124.249.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "et-gbs.com",
+        "count": "22",
+        "first_seen": "2020-12-17 17:11:46",
+        "last_seen": "2021-03-12 04:46:28",
+        "ip_address": "192.124.249.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "et-gbs.com",
+        "count": "26357",
+        "first_seen": "2014-09-16 15:48:31",
+        "last_seen": "2019-04-16 06:25:56",
+        "ip_address": "208.91.198.97",
+        "type": "IPv4"
+    }
+]

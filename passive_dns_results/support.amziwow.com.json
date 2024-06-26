@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "support.amziwow.com",
+        "count": "2",
+        "first_seen": "2020-07-13 08:02:02",
+        "last_seen": "2020-07-13 08:02:02",
+        "ip_address": "104.27.136.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.amziwow.com",
+        "count": "2",
+        "first_seen": "2020-07-13 08:02:02",
+        "last_seen": "2020-07-13 08:02:02",
+        "ip_address": "104.27.137.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.amziwow.com",
+        "count": "2",
+        "first_seen": "2020-07-13 08:02:02",
+        "last_seen": "2020-07-13 08:02:02",
+        "ip_address": "172.67.160.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.amziwow.com",
+        "count": "2",
+        "first_seen": "2020-07-13 08:02:02",
+        "last_seen": "2020-07-13 08:02:02",
+        "ip_address": "2606:4700:3035::681b:89f6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "support.amziwow.com",
+        "count": "2",
+        "first_seen": "2020-07-13 08:02:02",
+        "last_seen": "2020-07-13 08:02:02",
+        "ip_address": "2606:4700:3036::ac43:a05c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "support.amziwow.com",
+        "count": "2",
+        "first_seen": "2020-07-13 08:02:02",
+        "last_seen": "2020-07-13 08:02:02",
+        "ip_address": "2606:4700:3037::681b:88f6",
+        "type": "IPv6"
+    }
+]

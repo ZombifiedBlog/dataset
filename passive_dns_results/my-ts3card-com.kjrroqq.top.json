@@ -1,0 +1,146 @@
+[
+    {
+        "domain": "my-ts3card-com.kjrroqq.top",
+        "count": "24",
+        "first_seen": "2021-11-24 18:35:34",
+        "last_seen": "2021-12-02 07:58:42",
+        "ip_address": "104.21.11.252",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.kjrroqq.top",
+        "count": "24",
+        "first_seen": "2021-11-24 18:35:34",
+        "last_seen": "2021-12-02 07:58:42",
+        "ip_address": "172.67.150.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.kjrroqq.top",
+        "count": "3",
+        "first_seen": "2021-11-24 15:50:12",
+        "last_seen": "2021-11-24 16:50:13",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.kjrroqq.top",
+        "count": "3",
+        "first_seen": "2021-11-24 15:50:12",
+        "last_seen": "2021-11-24 16:50:13",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.kjrroqq.top",
+        "count": "4",
+        "first_seen": "2021-11-24 14:43:22",
+        "last_seen": "2021-11-24 14:43:22",
+        "ip_address": "188.114.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.kjrroqq.top",
+        "count": "4",
+        "first_seen": "2021-11-24 14:43:22",
+        "last_seen": "2021-11-24 14:43:22",
+        "ip_address": "188.114.97.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.kjrroqq.top",
+        "count": "2",
+        "first_seen": "2021-11-24 15:22:58",
+        "last_seen": "2021-11-24 17:52:16",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.kjrroqq.top",
+        "count": "2",
+        "first_seen": "2021-11-24 15:22:58",
+        "last_seen": "2021-11-24 17:52:16",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.kjrroqq.top",
+        "count": "1",
+        "first_seen": "2021-11-24 16:14:19",
+        "last_seen": "2021-11-24 16:14:19",
+        "ip_address": "188.114.96.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.kjrroqq.top",
+        "count": "1",
+        "first_seen": "2021-11-24 16:14:19",
+        "last_seen": "2021-11-24 16:14:19",
+        "ip_address": "188.114.97.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.kjrroqq.top",
+        "count": "1",
+        "first_seen": "2021-11-24 16:35:12",
+        "last_seen": "2021-11-24 16:35:12",
+        "ip_address": "188.114.96.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.kjrroqq.top",
+        "count": "1",
+        "first_seen": "2021-11-24 16:35:12",
+        "last_seen": "2021-11-24 16:35:12",
+        "ip_address": "188.114.97.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.kjrroqq.top",
+        "count": "27",
+        "first_seen": "2021-11-24 14:13:29",
+        "last_seen": "2021-11-24 17:56:43",
+        "ip_address": "188.114.96.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.kjrroqq.top",
+        "count": "27",
+        "first_seen": "2021-11-24 14:13:29",
+        "last_seen": "2021-11-24 17:56:43",
+        "ip_address": "188.114.97.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.kjrroqq.top",
+        "count": "7",
+        "first_seen": "2021-11-24 18:35:35",
+        "last_seen": "2021-11-28 20:36:56",
+        "ip_address": "2606:4700:3032::6815:bfc",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-ts3card-com.kjrroqq.top",
+        "count": "7",
+        "first_seen": "2021-11-24 18:35:35",
+        "last_seen": "2021-11-28 20:36:56",
+        "ip_address": "2606:4700:3037::ac43:96e2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-ts3card-com.kjrroqq.top",
+        "count": "12",
+        "first_seen": "2021-11-24 14:13:30",
+        "last_seen": "2021-11-24 17:56:43",
+        "ip_address": "2a06:98c1:3120::4e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-ts3card-com.kjrroqq.top",
+        "count": "12",
+        "first_seen": "2021-11-24 14:13:30",
+        "last_seen": "2021-11-24 17:56:43",
+        "ip_address": "2a06:98c1:3121::4e",
+        "type": "IPv6"
+    }
+]

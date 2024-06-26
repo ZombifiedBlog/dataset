@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.jp.weq.mnareci.com",
+        "count": "72",
+        "first_seen": "2021-12-29 19:25:50",
+        "last_seen": "2021-12-31 05:16:01",
+        "ip_address": "198.23.174.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jp.weq.mnareci.com",
+        "count": "1",
+        "first_seen": "2023-01-18 13:14:21",
+        "last_seen": "2023-01-18 13:14:21",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jp.weq.mnareci.com",
+        "count": "11",
+        "first_seen": "2023-01-02 07:16:49",
+        "last_seen": "2023-01-18 13:14:21",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

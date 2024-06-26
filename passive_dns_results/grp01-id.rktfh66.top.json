@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "grp01-id.rktfh66.top",
+        "count": "5",
+        "first_seen": "2020-09-10 03:17:18",
+        "last_seen": "2020-09-10 18:16:49",
+        "ip_address": "104.31.90.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grp01-id.rktfh66.top",
+        "count": "5",
+        "first_seen": "2020-09-10 03:17:18",
+        "last_seen": "2020-09-10 18:16:49",
+        "ip_address": "104.31.91.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grp01-id.rktfh66.top",
+        "count": "5",
+        "first_seen": "2020-09-10 03:17:18",
+        "last_seen": "2020-09-10 18:16:49",
+        "ip_address": "172.67.171.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grp01-id.rktfh66.top",
+        "count": "1",
+        "first_seen": "2020-09-10 18:16:49",
+        "last_seen": "2020-09-10 18:16:49",
+        "ip_address": "2606:4700:3031::681f:5bcf",
+        "type": "IPv6"
+    },
+    {
+        "domain": "grp01-id.rktfh66.top",
+        "count": "1",
+        "first_seen": "2020-09-10 18:16:49",
+        "last_seen": "2020-09-10 18:16:49",
+        "ip_address": "2606:4700:3035::681f:5acf",
+        "type": "IPv6"
+    },
+    {
+        "domain": "grp01-id.rktfh66.top",
+        "count": "1",
+        "first_seen": "2020-09-10 18:16:49",
+        "last_seen": "2020-09-10 18:16:49",
+        "ip_address": "2606:4700:3037::ac43:ab5e",
+        "type": "IPv6"
+    }
+]

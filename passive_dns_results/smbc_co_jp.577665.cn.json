@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "smbc_co_jp.577665.cn",
+        "count": "10",
+        "first_seen": "2021-10-23 10:31:18",
+        "last_seen": "2022-10-17 07:26:06",
+        "ip_address": "103.224.182.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc_co_jp.577665.cn",
+        "count": "249",
+        "first_seen": "2021-08-04 05:34:02",
+        "last_seen": "2021-08-10 23:05:42",
+        "ip_address": "104.21.93.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc_co_jp.577665.cn",
+        "count": "249",
+        "first_seen": "2021-08-04 05:34:02",
+        "last_seen": "2021-08-10 23:05:42",
+        "ip_address": "172.67.203.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc_co_jp.577665.cn",
+        "count": "3",
+        "first_seen": "2021-08-06 04:00:57",
+        "last_seen": "2021-08-10 23:05:42",
+        "ip_address": "2606:4700:3034::6815:5d16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "smbc_co_jp.577665.cn",
+        "count": "3",
+        "first_seen": "2021-08-06 04:00:57",
+        "last_seen": "2021-08-10 23:05:42",
+        "ip_address": "2606:4700:3037::ac43:cb04",
+        "type": "IPv6"
+    }
+]

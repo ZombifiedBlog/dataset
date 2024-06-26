@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.my-jcb-jp.cc",
+        "count": "80",
+        "first_seen": "2021-06-12 05:43:38",
+        "last_seen": "2022-05-31 23:17:01",
+        "ip_address": "0.0.0.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.my-jcb-jp.cc",
+        "count": "544",
+        "first_seen": "2021-06-02 01:19:24",
+        "last_seen": "2021-06-07 21:47:52",
+        "ip_address": "23.95.15.186",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.my-jcb-jp.cc",
+        "count": "1",
+        "first_seen": "2021-09-28 00:15:08",
+        "last_seen": "2021-09-28 00:15:08",
+        "ip_address": "::",
+        "type": "IPv6"
+    }
+]

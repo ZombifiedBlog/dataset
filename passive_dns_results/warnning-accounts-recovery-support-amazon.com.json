@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "warnning-accounts-recovery-support-amazon.com",
+        "count": "166",
+        "first_seen": "2019-07-26 07:29:26",
+        "last_seen": "2020-07-21 16:26:56",
+        "ip_address": "37.18.30.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "warnning-accounts-recovery-support-amazon.com",
+        "count": "24",
+        "first_seen": "2020-07-28 00:56:59",
+        "last_seen": "2020-09-03 07:52:30",
+        "ip_address": "194.67.71.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "warnning-accounts-recovery-support-amazon.com",
+        "count": "8",
+        "first_seen": "2020-08-02 01:12:52",
+        "last_seen": "2020-08-21 21:46:40",
+        "ip_address": "2a00:f940:4::10",
+        "type": "IPv6"
+    }
+]

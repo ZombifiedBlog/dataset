@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "jp-cna.casa",
+        "count": "147",
+        "first_seen": "2021-11-22 04:23:36",
+        "last_seen": "2021-11-27 19:07:43",
+        "ip_address": "23.94.160.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jp-cna.casa",
+        "count": "129",
+        "first_seen": "2021-06-23 01:03:13",
+        "last_seen": "2021-08-14 01:30:57",
+        "ip_address": "45.89.229.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jp-cna.casa",
+        "count": "82",
+        "first_seen": "2021-08-28 19:59:38",
+        "last_seen": "2021-11-10 01:02:00",
+        "ip_address": "66.150.66.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jp-cna.casa",
+        "count": "223",
+        "first_seen": "2022-06-27 06:06:40",
+        "last_seen": "2022-07-15 00:19:41",
+        "ip_address": "99.81.40.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jp-cna.casa",
+        "count": "7",
+        "first_seen": "2022-05-06 12:58:00",
+        "last_seen": "2022-06-13 16:40:53",
+        "ip_address": "104.168.71.124",
+        "type": "IPv4"
+    }
+]

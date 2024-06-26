@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "goodsnews.su",
+        "count": "251",
+        "first_seen": "2019-02-01 15:27:51",
+        "last_seen": "2019-02-01 16:35:57",
+        "ip_address": "35.228.150.139",
+        "type": "IPv4"
+    },
+    {
+        "domain": "goodsnews.su",
+        "count": "23433",
+        "first_seen": "2019-01-28 09:38:24",
+        "last_seen": "2019-02-01 15:27:45",
+        "ip_address": "47.75.14.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "goodsnews.su",
+        "count": "123",
+        "first_seen": "2019-02-04 09:13:37",
+        "last_seen": "2019-02-04 10:50:51",
+        "ip_address": "47.254.91.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "goodsnews.su",
+        "count": "344",
+        "first_seen": "2020-01-28 05:47:54",
+        "last_seen": "2020-02-27 00:17:08",
+        "ip_address": "109.70.26.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "goodsnews.su",
+        "count": "344",
+        "first_seen": "2020-01-28 05:47:54",
+        "last_seen": "2020-02-27 00:17:08",
+        "ip_address": "194.85.61.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "goodsnews.su",
+        "count": "15114",
+        "first_seen": "2019-02-01 16:36:52",
+        "last_seen": "2019-02-04 09:13:13",
+        "ip_address": "194.87.145.162",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www1.scmdn.carucd.com",
+        "count": "347",
+        "first_seen": "2021-10-15 19:44:45",
+        "last_seen": "2022-10-01 21:28:04",
+        "ip_address": "198.23.174.98",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www1.scmdn.carucd.com",
+        "count": "6",
+        "first_seen": "2022-10-15 21:48:29",
+        "last_seen": "2022-11-24 07:45:33",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www1.scmdn.carucd.com",
+        "count": "2",
+        "first_seen": "2022-11-12 05:49:21",
+        "last_seen": "2022-11-19 23:54:16",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www1.scmdn.carucd.com",
+        "count": "2",
+        "first_seen": "2022-10-22 16:28:12",
+        "last_seen": "2022-11-19 23:54:16",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

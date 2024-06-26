@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.chungcudepthekpark.com",
+        "count": "12",
+        "first_seen": "2022-08-23 01:41:53",
+        "last_seen": "2022-09-10 15:30:49",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chungcudepthekpark.com",
+        "count": "202",
+        "first_seen": "2022-08-20 11:28:23",
+        "last_seen": "2022-08-23 03:00:38",
+        "ip_address": "104.21.91.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chungcudepthekpark.com",
+        "count": "202",
+        "first_seen": "2022-08-20 11:28:23",
+        "last_seen": "2022-08-23 03:00:38",
+        "ip_address": "172.67.208.216",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chungcudepthekpark.com",
+        "count": "6",
+        "first_seen": "2022-08-20 21:27:44",
+        "last_seen": "2022-08-22 18:27:36",
+        "ip_address": "2606:4700:3031::ac43:d0d8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.chungcudepthekpark.com",
+        "count": "6",
+        "first_seen": "2022-08-20 21:27:44",
+        "last_seen": "2022-08-22 18:27:36",
+        "ip_address": "2606:4700:3035::6815:5b17",
+        "type": "IPv6"
+    }
+]

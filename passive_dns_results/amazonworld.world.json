@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazonworld.world",
+        "count": "14",
+        "first_seen": "2021-07-06 10:35:50",
+        "last_seen": "2021-08-08 00:09:26",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonworld.world",
+        "count": "421",
+        "first_seen": "2020-07-01 19:48:39",
+        "last_seen": "2021-07-03 13:05:09",
+        "ip_address": "128.14.16.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonworld.world",
+        "count": "123",
+        "first_seen": "2020-06-29 18:05:19",
+        "last_seen": "2020-07-01 09:09:39",
+        "ip_address": "208.109.14.43",
+        "type": "IPv4"
+    }
+]

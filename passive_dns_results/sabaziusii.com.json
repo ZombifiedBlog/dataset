@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "sabaziusii.com",
+        "count": "190",
+        "first_seen": "2019-11-23 14:35:26",
+        "last_seen": "2022-01-01 07:38:46",
+        "ip_address": "31.47.72.143",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sabaziusii.com",
+        "count": "190",
+        "first_seen": "2019-11-23 14:35:26",
+        "last_seen": "2022-01-01 07:38:46",
+        "ip_address": "31.47.72.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sabaziusii.com",
+        "count": "34874",
+        "first_seen": "2015-11-25 06:28:38",
+        "last_seen": "2021-11-23 09:50:17",
+        "ip_address": "178.60.224.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sabaziusii.com",
+        "count": "7",
+        "first_seen": "2017-06-23 07:56:57",
+        "last_seen": "2017-06-23 18:03:49",
+        "ip_address": "178.60.224.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sabaziusii.com",
+        "count": "31",
+        "first_seen": "2021-11-25 04:36:36",
+        "last_seen": "2021-12-22 16:12:27",
+        "ip_address": "2a01:a940:419:8f::1000",
+        "type": "IPv6"
+    },
+    {
+        "domain": "sabaziusii.com",
+        "count": "31",
+        "first_seen": "2021-11-25 04:36:36",
+        "last_seen": "2021-12-22 16:12:27",
+        "ip_address": "2a01:a940:419:99::1000",
+        "type": "IPv6"
+    }
+]

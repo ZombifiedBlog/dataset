@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "mail-id.tokyo",
+        "count": "231",
+        "first_seen": "2020-10-22 17:32:03",
+        "last_seen": "2020-10-27 16:18:10",
+        "ip_address": "13.67.73.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail-id.tokyo",
+        "count": "231",
+        "first_seen": "2020-10-22 17:32:03",
+        "last_seen": "2020-10-27 16:18:10",
+        "ip_address": "160.251.16.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail-id.tokyo",
+        "count": "275",
+        "first_seen": "2020-10-14 03:07:21",
+        "last_seen": "2020-10-16 02:46:53",
+        "ip_address": "160.251.14.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail-id.tokyo",
+        "count": "1094",
+        "first_seen": "2020-10-16 02:57:53",
+        "last_seen": "2020-10-21 21:25:46",
+        "ip_address": "160.251.16.138",
+        "type": "IPv4"
+    }
+]

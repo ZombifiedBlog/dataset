@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "www.easyasphi.com",
+        "count": "8",
+        "first_seen": "2022-09-30 23:20:00",
+        "last_seen": "2023-01-07 16:47:19",
+        "ip_address": "23.82.73.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.easyasphi.com",
+        "count": "366",
+        "first_seen": "2011-10-20 00:14:32",
+        "last_seen": "2012-04-09 10:21:25",
+        "ip_address": "64.81.157.167",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.easyasphi.com",
+        "count": "94",
+        "first_seen": "2012-04-09 21:24:47",
+        "last_seen": "2012-05-01 21:35:45",
+        "ip_address": "69.198.68.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.easyasphi.com",
+        "count": "275",
+        "first_seen": "2012-05-03 13:38:43",
+        "last_seen": "2013-10-17 15:11:00",
+        "ip_address": "74.84.134.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.easyasphi.com",
+        "count": "9",
+        "first_seen": "2020-03-06 23:12:08",
+        "last_seen": "2020-04-05 16:46:45",
+        "ip_address": "134.209.225.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.easyasphi.com",
+        "count": "1",
+        "first_seen": "2022-08-07 19:48:43",
+        "last_seen": "2022-08-07 19:48:43",
+        "ip_address": "142.234.114.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.easyasphi.com",
+        "count": "122",
+        "first_seen": "2023-03-01 15:42:59",
+        "last_seen": "2023-04-04 09:28:36",
+        "ip_address": "155.94.201.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.easyasphi.com",
+        "count": "209",
+        "first_seen": "2016-11-13 14:08:39",
+        "last_seen": "2017-07-08 00:25:33",
+        "ip_address": "173.230.141.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.easyasphi.com",
+        "count": "10",
+        "first_seen": "2016-11-26 17:36:50",
+        "last_seen": "2017-05-31 04:16:50",
+        "ip_address": "2600:3c02::f03c:91ff:fe2c:c67a",
+        "type": "IPv6"
+    }
+]

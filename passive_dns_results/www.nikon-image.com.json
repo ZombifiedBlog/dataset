@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.nikon-image.com",
+        "count": "142745",
+        "first_seen": "2017-03-27 19:38:19",
+        "last_seen": "2018-06-26 02:01:21",
+        "ip_address": "58.138.171.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.nikon-image.com",
+        "count": "40521",
+        "first_seen": "2010-06-26 07:58:35",
+        "last_seen": "2012-03-12 17:33:54",
+        "ip_address": "118.155.222.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.nikon-image.com",
+        "count": "623657",
+        "first_seen": "2012-03-12 17:52:24",
+        "last_seen": "2017-03-27 19:33:11",
+        "ip_address": "202.232.212.20",
+        "type": "IPv4"
+    }
+]

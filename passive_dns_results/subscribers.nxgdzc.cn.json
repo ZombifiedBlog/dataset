@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscribers.nxgdzc.cn",
+        "count": "172",
+        "first_seen": "2020-12-02 10:49:39",
+        "last_seen": "2020-12-19 11:33:49",
+        "ip_address": "104.31.74.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.nxgdzc.cn",
+        "count": "172",
+        "first_seen": "2020-12-02 10:49:39",
+        "last_seen": "2020-12-19 11:33:49",
+        "ip_address": "104.31.75.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.nxgdzc.cn",
+        "count": "172",
+        "first_seen": "2020-12-02 10:49:39",
+        "last_seen": "2020-12-19 11:33:49",
+        "ip_address": "172.67.196.134",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.nxgdzc.cn",
+        "count": "72",
+        "first_seen": "2020-12-02 10:49:39",
+        "last_seen": "2020-12-19 10:12:05",
+        "ip_address": "2606:4700:3030::ac43:c486",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.nxgdzc.cn",
+        "count": "72",
+        "first_seen": "2020-12-02 10:49:39",
+        "last_seen": "2020-12-19 10:12:05",
+        "ip_address": "2606:4700:3035::681f:4b78",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.nxgdzc.cn",
+        "count": "72",
+        "first_seen": "2020-12-02 10:49:39",
+        "last_seen": "2020-12-19 10:12:05",
+        "ip_address": "2606:4700:3036::681f:4a78",
+        "type": "IPv6"
+    }
+]

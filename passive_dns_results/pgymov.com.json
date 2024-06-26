@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "pgymov.com",
+        "count": "5",
+        "first_seen": "2020-11-30 16:17:13",
+        "last_seen": "2020-12-22 10:19:57",
+        "ip_address": "13.124.210.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pgymov.com",
+        "count": "706",
+        "first_seen": "2022-01-13 22:08:32",
+        "last_seen": "2022-01-31 15:03:41",
+        "ip_address": "23.94.218.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pgymov.com",
+        "count": "5",
+        "first_seen": "2023-05-16 14:14:46",
+        "last_seen": "2023-05-29 15:48:12",
+        "ip_address": "38.26.139.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pgymov.com",
+        "count": "104",
+        "first_seen": "2023-06-02 18:20:37",
+        "last_seen": "2024-01-14 20:11:11",
+        "ip_address": "38.48.176.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pgymov.com",
+        "count": "41",
+        "first_seen": "2022-02-01 08:03:27",
+        "last_seen": "2022-03-09 14:32:45",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pgymov.com",
+        "count": "8",
+        "first_seen": "2021-12-15 22:25:22",
+        "last_seen": "2021-12-27 23:48:45",
+        "ip_address": "104.21.53.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pgymov.com",
+        "count": "8",
+        "first_seen": "2021-12-15 22:25:22",
+        "last_seen": "2021-12-27 23:48:45",
+        "ip_address": "172.67.207.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pgymov.com",
+        "count": "70",
+        "first_seen": "2021-02-12 21:48:44",
+        "last_seen": "2021-11-28 22:19:34",
+        "ip_address": "156.250.28.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pgymov.com",
+        "count": "140",
+        "first_seen": "2022-05-10 09:58:16",
+        "last_seen": "2023-04-16 16:41:11",
+        "ip_address": "165.3.97.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pgymov.com",
+        "count": "6",
+        "first_seen": "2021-12-15 22:25:22",
+        "last_seen": "2022-01-03 06:06:28",
+        "ip_address": "2606:4700:3030::ac43:cf71",
+        "type": "IPv6"
+    },
+    {
+        "domain": "pgymov.com",
+        "count": "6",
+        "first_seen": "2021-12-15 22:25:22",
+        "last_seen": "2022-01-03 06:06:28",
+        "ip_address": "2606:4700:3033::6815:350b",
+        "type": "IPv6"
+    }
+]

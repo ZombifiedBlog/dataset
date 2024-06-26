@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.leadxpress.com",
+        "count": "462",
+        "first_seen": "2013-04-01 20:49:32",
+        "last_seen": "2013-11-21 22:22:22",
+        "ip_address": "67.23.238.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.leadxpress.com",
+        "count": "253",
+        "first_seen": "2012-07-04 20:42:34",
+        "last_seen": "2013-03-31 10:53:34",
+        "ip_address": "203.217.175.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.leadxpress.com",
+        "count": "631",
+        "first_seen": "2010-07-27 18:57:38",
+        "last_seen": "2012-06-30 05:06:05",
+        "ip_address": "210.245.166.68",
+        "type": "IPv4"
+    }
+]

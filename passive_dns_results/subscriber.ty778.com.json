@@ -1,0 +1,162 @@
+[
+    {
+        "domain": "subscriber.ty778.com",
+        "count": "1097",
+        "first_seen": "2021-11-04 01:43:53",
+        "last_seen": "2022-01-02 10:06:06",
+        "ip_address": "104.21.29.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ty778.com",
+        "count": "1097",
+        "first_seen": "2021-11-04 01:43:53",
+        "last_seen": "2022-01-02 10:06:06",
+        "ip_address": "172.67.171.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ty778.com",
+        "count": "4",
+        "first_seen": "2021-11-24 07:41:43",
+        "last_seen": "2021-11-24 11:34:13",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ty778.com",
+        "count": "4",
+        "first_seen": "2021-11-24 07:41:43",
+        "last_seen": "2021-11-24 11:34:13",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ty778.com",
+        "count": "7",
+        "first_seen": "2021-11-24 04:28:51",
+        "last_seen": "2021-11-24 17:11:42",
+        "ip_address": "188.114.96.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ty778.com",
+        "count": "7",
+        "first_seen": "2021-11-24 04:28:51",
+        "last_seen": "2021-11-24 17:11:42",
+        "ip_address": "188.114.97.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ty778.com",
+        "count": "19",
+        "first_seen": "2021-11-23 20:20:21",
+        "last_seen": "2021-11-24 14:46:19",
+        "ip_address": "188.114.96.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ty778.com",
+        "count": "19",
+        "first_seen": "2021-11-23 20:20:21",
+        "last_seen": "2021-11-24 14:46:19",
+        "ip_address": "188.114.97.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ty778.com",
+        "count": "6",
+        "first_seen": "2021-11-23 22:16:33",
+        "last_seen": "2021-11-24 18:12:59",
+        "ip_address": "188.114.96.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ty778.com",
+        "count": "6",
+        "first_seen": "2021-11-23 22:16:33",
+        "last_seen": "2021-11-24 18:12:59",
+        "ip_address": "188.114.97.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ty778.com",
+        "count": "559",
+        "first_seen": "2021-11-04 01:43:53",
+        "last_seen": "2022-01-02 10:06:06",
+        "ip_address": "2606:4700:3034::ac43:abe0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.ty778.com",
+        "count": "559",
+        "first_seen": "2021-11-04 01:43:53",
+        "last_seen": "2022-01-02 10:06:06",
+        "ip_address": "2606:4700:3037::6815:1de4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.ty778.com",
+        "count": "1",
+        "first_seen": "2021-11-24 07:41:43",
+        "last_seen": "2021-11-24 07:41:43",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.ty778.com",
+        "count": "1",
+        "first_seen": "2021-11-24 07:41:43",
+        "last_seen": "2021-11-24 07:41:43",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.ty778.com",
+        "count": "3",
+        "first_seen": "2021-11-24 07:42:36",
+        "last_seen": "2021-11-24 17:11:42",
+        "ip_address": "2a06:98c1:3120::10",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.ty778.com",
+        "count": "3",
+        "first_seen": "2021-11-24 07:42:36",
+        "last_seen": "2021-11-24 17:11:42",
+        "ip_address": "2a06:98c1:3121::10",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.ty778.com",
+        "count": "16",
+        "first_seen": "2021-11-23 20:55:09",
+        "last_seen": "2021-11-24 14:46:19",
+        "ip_address": "2a06:98c1:3120::15",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.ty778.com",
+        "count": "16",
+        "first_seen": "2021-11-23 20:55:09",
+        "last_seen": "2021-11-24 14:46:19",
+        "ip_address": "2a06:98c1:3121::15",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.ty778.com",
+        "count": "3",
+        "first_seen": "2021-11-23 22:16:33",
+        "last_seen": "2021-11-24 18:13:00",
+        "ip_address": "2a06:98c1:3120::47",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.ty778.com",
+        "count": "3",
+        "first_seen": "2021-11-23 22:16:33",
+        "last_seen": "2021-11-24 18:13:00",
+        "ip_address": "2a06:98c1:3121::47",
+        "type": "IPv6"
+    }
+]

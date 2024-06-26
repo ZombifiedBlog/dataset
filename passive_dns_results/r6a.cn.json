@@ -1,0 +1,138 @@
+[
+    {
+        "domain": "r6a.cn",
+        "count": "163",
+        "first_seen": "2019-06-12 22:30:17",
+        "last_seen": "2020-06-04 05:58:30",
+        "ip_address": "23.234.27.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6a.cn",
+        "count": "365",
+        "first_seen": "2023-06-30 02:01:57",
+        "last_seen": "2023-07-27 01:22:49",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6a.cn",
+        "count": "7",
+        "first_seen": "2016-02-23 11:06:30",
+        "last_seen": "2016-03-31 09:28:16",
+        "ip_address": "65.19.157.235",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6a.cn",
+        "count": "2",
+        "first_seen": "2016-06-24 06:33:29",
+        "last_seen": "2016-06-24 06:33:29",
+        "ip_address": "103.51.144.81",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6a.cn",
+        "count": "21",
+        "first_seen": "2023-10-01 09:38:48",
+        "last_seen": "2023-10-19 13:07:09",
+        "ip_address": "104.21.86.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6a.cn",
+        "count": "21",
+        "first_seen": "2023-10-01 09:38:48",
+        "last_seen": "2023-10-19 13:07:09",
+        "ip_address": "172.67.215.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6a.cn",
+        "count": "77",
+        "first_seen": "2016-07-28 09:40:32",
+        "last_seen": "2018-05-03 01:45:03",
+        "ip_address": "107.183.186.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6a.cn",
+        "count": "512",
+        "first_seen": "2022-07-19 04:43:20",
+        "last_seen": "2022-12-20 22:33:50",
+        "ip_address": "121.36.217.72",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6a.cn",
+        "count": "124",
+        "first_seen": "2023-02-20 08:19:18",
+        "last_seen": "2023-06-25 07:41:52",
+        "ip_address": "123.58.215.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6a.cn",
+        "count": "15",
+        "first_seen": "2020-07-02 02:57:26",
+        "last_seen": "2020-08-20 07:58:09",
+        "ip_address": "124.156.141.134",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6a.cn",
+        "count": "66",
+        "first_seen": "2022-12-22 06:41:03",
+        "last_seen": "2023-02-18 09:09:52",
+        "ip_address": "156.224.2.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6a.cn",
+        "count": "66",
+        "first_seen": "2022-12-22 06:41:03",
+        "last_seen": "2023-02-18 09:09:52",
+        "ip_address": "156.224.2.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6a.cn",
+        "count": "4",
+        "first_seen": "2016-05-31 01:16:40",
+        "last_seen": "2016-06-05 14:02:08",
+        "ip_address": "184.105.178.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6a.cn",
+        "count": "2",
+        "first_seen": "2015-08-13 11:45:59",
+        "last_seen": "2015-08-13 11:45:59",
+        "ip_address": "198.12.15.244",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6a.cn",
+        "count": "2",
+        "first_seen": "2015-05-10 16:02:39",
+        "last_seen": "2015-05-10 16:02:39",
+        "ip_address": "205.164.14.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r6a.cn",
+        "count": "4",
+        "first_seen": "2023-10-01 09:40:19",
+        "last_seen": "2023-10-01 10:03:49",
+        "ip_address": "2606:4700:3031::ac43:d714",
+        "type": "IPv6"
+    },
+    {
+        "domain": "r6a.cn",
+        "count": "4",
+        "first_seen": "2023-10-01 09:40:19",
+        "last_seen": "2023-10-01 10:03:49",
+        "ip_address": "2606:4700:3033::6815:5631",
+        "type": "IPv6"
+    }
+]

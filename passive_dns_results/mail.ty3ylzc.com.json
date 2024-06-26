@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "mail.ty3ylzc.com",
+        "count": "2050",
+        "first_seen": "2020-07-06 12:14:00",
+        "last_seen": "2020-09-16 07:27:53",
+        "ip_address": "104.31.84.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.ty3ylzc.com",
+        "count": "2050",
+        "first_seen": "2020-07-06 12:14:00",
+        "last_seen": "2020-09-16 07:27:53",
+        "ip_address": "104.31.85.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.ty3ylzc.com",
+        "count": "2050",
+        "first_seen": "2020-07-06 12:14:00",
+        "last_seen": "2020-09-16 07:27:53",
+        "ip_address": "172.67.151.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.ty3ylzc.com",
+        "count": "790",
+        "first_seen": "2020-07-06 13:38:01",
+        "last_seen": "2020-09-16 07:27:53",
+        "ip_address": "2606:4700:3032::681f:54bd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.ty3ylzc.com",
+        "count": "790",
+        "first_seen": "2020-07-06 13:38:01",
+        "last_seen": "2020-09-16 07:27:53",
+        "ip_address": "2606:4700:3034::ac43:9743",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.ty3ylzc.com",
+        "count": "790",
+        "first_seen": "2020-07-06 13:38:01",
+        "last_seen": "2020-09-16 07:27:53",
+        "ip_address": "2606:4700:3037::681f:55bd",
+        "type": "IPv6"
+    }
+]

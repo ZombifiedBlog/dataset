@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "bvrnzslpystoxesx.com",
+        "count": "29",
+        "first_seen": "2023-06-06 03:47:23",
+        "last_seen": "2023-07-09 09:44:50",
+        "ip_address": "104.21.4.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bvrnzslpystoxesx.com",
+        "count": "29",
+        "first_seen": "2023-06-06 03:47:23",
+        "last_seen": "2023-07-09 09:44:50",
+        "ip_address": "172.67.132.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bvrnzslpystoxesx.com",
+        "count": "127",
+        "first_seen": "2023-07-09 16:18:10",
+        "last_seen": "2023-07-10 03:56:50",
+        "ip_address": "204.44.70.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bvrnzslpystoxesx.com",
+        "count": "4",
+        "first_seen": "2023-06-06 03:47:23",
+        "last_seen": "2023-06-27 14:21:23",
+        "ip_address": "2606:4700:3032::ac43:8422",
+        "type": "IPv6"
+    },
+    {
+        "domain": "bvrnzslpystoxesx.com",
+        "count": "4",
+        "first_seen": "2023-06-06 03:47:23",
+        "last_seen": "2023-06-27 14:21:23",
+        "ip_address": "2606:4700:3036::6815:48a",
+        "type": "IPv6"
+    }
+]

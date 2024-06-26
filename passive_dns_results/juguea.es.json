@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "juguea.es",
+        "count": "10",
+        "first_seen": "2018-10-08 12:51:44",
+        "last_seen": "2019-01-13 12:27:44",
+        "ip_address": "87.98.231.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "juguea.es",
+        "count": "4698",
+        "first_seen": "2019-01-15 21:14:52",
+        "last_seen": "2022-07-04 19:18:28",
+        "ip_address": "145.239.51.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "juguea.es",
+        "count": "258",
+        "first_seen": "2023-05-17 16:11:01",
+        "last_seen": "2024-01-16 06:18:20",
+        "ip_address": "217.160.0.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "juguea.es",
+        "count": "217",
+        "first_seen": "2022-07-05 01:14:12",
+        "last_seen": "2023-05-16 07:46:12",
+        "ip_address": "217.160.230.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "juguea.es",
+        "count": "25",
+        "first_seen": "2022-07-07 16:50:43",
+        "last_seen": "2023-05-13 15:26:34",
+        "ip_address": "2001:8d8:1000:d20d:31ae:5cee:9ee3:7808",
+        "type": "IPv6"
+    },
+    {
+        "domain": "juguea.es",
+        "count": "89",
+        "first_seen": "2023-05-17 16:11:01",
+        "last_seen": "2023-12-07 15:20:22",
+        "ip_address": "2001:8d8:100f:f000::200",
+        "type": "IPv6"
+    }
+]

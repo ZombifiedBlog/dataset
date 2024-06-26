@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "34d891d59da023741b30788271294638.hearinghat.com",
+        "count": "4",
+        "first_seen": "2023-07-18 20:49:16",
+        "last_seen": "2023-07-18 20:49:17",
+        "ip_address": "104.21.25.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "34d891d59da023741b30788271294638.hearinghat.com",
+        "count": "4",
+        "first_seen": "2023-07-18 20:49:16",
+        "last_seen": "2023-07-18 20:49:17",
+        "ip_address": "172.67.134.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "34d891d59da023741b30788271294638.hearinghat.com",
+        "count": "1",
+        "first_seen": "2023-10-03 23:19:09",
+        "last_seen": "2023-10-03 23:19:09",
+        "ip_address": "114.134.189.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "34d891d59da023741b30788271294638.hearinghat.com",
+        "count": "2",
+        "first_seen": "2023-07-18 20:49:16",
+        "last_seen": "2023-07-18 20:49:16",
+        "ip_address": "2606:4700:3035::ac43:86e4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "34d891d59da023741b30788271294638.hearinghat.com",
+        "count": "2",
+        "first_seen": "2023-07-18 20:49:16",
+        "last_seen": "2023-07-18 20:49:16",
+        "ip_address": "2606:4700:3036::6815:19ec",
+        "type": "IPv6"
+    }
+]

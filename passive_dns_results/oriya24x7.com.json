@@ -1,0 +1,162 @@
+[
+    {
+        "domain": "oriya24x7.com",
+        "count": "30",
+        "first_seen": "2021-03-30 17:06:04",
+        "last_seen": "2021-04-28 17:51:23",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "oriya24x7.com",
+        "count": "2",
+        "first_seen": "2018-04-05 15:01:50",
+        "last_seen": "2018-04-05 15:01:50",
+        "ip_address": "50.63.202.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "oriya24x7.com",
+        "count": "2",
+        "first_seen": "2018-04-03 07:04:39",
+        "last_seen": "2018-04-03 07:04:39",
+        "ip_address": "50.63.202.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "oriya24x7.com",
+        "count": "2",
+        "first_seen": "2018-03-29 03:53:34",
+        "last_seen": "2018-03-29 03:53:34",
+        "ip_address": "50.63.202.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "oriya24x7.com",
+        "count": "5",
+        "first_seen": "2018-04-03 07:02:14",
+        "last_seen": "2018-04-05 19:50:20",
+        "ip_address": "50.63.202.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "oriya24x7.com",
+        "count": "2583",
+        "first_seen": "2019-05-21 08:24:15",
+        "last_seen": "2020-05-26 13:31:19",
+        "ip_address": "104.24.112.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "oriya24x7.com",
+        "count": "2583",
+        "first_seen": "2019-05-21 08:24:15",
+        "last_seen": "2020-05-26 13:31:19",
+        "ip_address": "104.24.113.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "oriya24x7.com",
+        "count": "226",
+        "first_seen": "2020-05-26 20:16:09",
+        "last_seen": "2020-08-23 14:27:31",
+        "ip_address": "104.24.112.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "oriya24x7.com",
+        "count": "226",
+        "first_seen": "2020-05-26 20:16:09",
+        "last_seen": "2020-08-23 14:27:31",
+        "ip_address": "104.24.113.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "oriya24x7.com",
+        "count": "226",
+        "first_seen": "2020-05-26 20:16:09",
+        "last_seen": "2020-08-23 14:27:31",
+        "ip_address": "172.67.148.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "oriya24x7.com",
+        "count": "465",
+        "first_seen": "2020-08-24 23:21:27",
+        "last_seen": "2021-03-30 09:51:39",
+        "ip_address": "107.6.182.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "oriya24x7.com",
+        "count": "1954",
+        "first_seen": "2018-04-16 01:07:54",
+        "last_seen": "2019-05-21 04:10:13",
+        "ip_address": "166.62.117.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "oriya24x7.com",
+        "count": "1",
+        "first_seen": "2018-04-10 21:19:06",
+        "last_seen": "2018-04-10 21:19:06",
+        "ip_address": "184.168.221.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "oriya24x7.com",
+        "count": "219",
+        "first_seen": "2019-05-21 08:24:16",
+        "last_seen": "2020-01-15 15:54:17",
+        "ip_address": "2606:4700:30::6818:7090",
+        "type": "IPv6"
+    },
+    {
+        "domain": "oriya24x7.com",
+        "count": "219",
+        "first_seen": "2019-05-21 08:24:16",
+        "last_seen": "2020-01-15 15:54:17",
+        "ip_address": "2606:4700:30::6818:7190",
+        "type": "IPv6"
+    },
+    {
+        "domain": "oriya24x7.com",
+        "count": "139",
+        "first_seen": "2020-05-26 20:16:09",
+        "last_seen": "2020-08-21 15:39:46",
+        "ip_address": "2606:4700:3030::ac43:942c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "oriya24x7.com",
+        "count": "139",
+        "first_seen": "2020-05-26 20:16:09",
+        "last_seen": "2020-08-21 15:39:46",
+        "ip_address": "2606:4700:3033::6818:7090",
+        "type": "IPv6"
+    },
+    {
+        "domain": "oriya24x7.com",
+        "count": "139",
+        "first_seen": "2020-05-26 20:16:09",
+        "last_seen": "2020-08-21 15:39:46",
+        "ip_address": "2606:4700:3034::6818:7190",
+        "type": "IPv6"
+    },
+    {
+        "domain": "oriya24x7.com",
+        "count": "2105",
+        "first_seen": "2020-01-19 07:38:02",
+        "last_seen": "2020-05-26 13:31:20",
+        "ip_address": "2606:4700:3033::6818:7090",
+        "type": "IPv6"
+    },
+    {
+        "domain": "oriya24x7.com",
+        "count": "2105",
+        "first_seen": "2020-01-19 07:38:02",
+        "last_seen": "2020-05-26 13:31:20",
+        "ip_address": "2606:4700:3034::6818:7190",
+        "type": "IPv6"
+    }
+]

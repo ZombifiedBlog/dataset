@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.aiLiz.com",
+        "count": "4",
+        "first_seen": "2023-11-26 17:04:36",
+        "last_seen": "2023-12-31 19:15:38",
+        "ip_address": "3.64.163.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.aiLiz.com",
+        "count": "312",
+        "first_seen": "2021-04-09 01:43:07",
+        "last_seen": "2021-05-28 15:11:10",
+        "ip_address": "104.21.47.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.aiLiz.com",
+        "count": "312",
+        "first_seen": "2021-04-09 01:43:07",
+        "last_seen": "2021-05-28 15:11:10",
+        "ip_address": "172.67.148.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.aiLiz.com",
+        "count": "2",
+        "first_seen": "2021-07-26 05:09:58",
+        "last_seen": "2021-07-26 05:09:58",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.aiLiz.com",
+        "count": "170",
+        "first_seen": "2021-04-09 02:52:00",
+        "last_seen": "2021-05-28 15:11:10",
+        "ip_address": "2606:4700:3032::ac43:9475",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.aiLiz.com",
+        "count": "170",
+        "first_seen": "2021-04-09 02:52:00",
+        "last_seen": "2021-05-28 15:11:10",
+        "ip_address": "2606:4700:3037::6815:2f94",
+        "type": "IPv6"
+    }
+]

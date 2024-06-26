@@ -1,0 +1,162 @@
+[
+    {
+        "domain": "ainnews.net",
+        "count": "10",
+        "first_seen": "2022-03-21 23:44:48",
+        "last_seen": "2022-03-22 07:49:51",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ainnews.net",
+        "count": "2",
+        "first_seen": "2018-03-21 11:29:18",
+        "last_seen": "2018-03-21 11:29:18",
+        "ip_address": "50.63.202.72",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ainnews.net",
+        "count": "35",
+        "first_seen": "2018-05-31 10:18:27",
+        "last_seen": "2018-05-31 22:36:24",
+        "ip_address": "104.18.38.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ainnews.net",
+        "count": "35",
+        "first_seen": "2018-05-31 10:18:27",
+        "last_seen": "2018-05-31 22:36:24",
+        "ip_address": "104.18.39.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ainnews.net",
+        "count": "7599",
+        "first_seen": "2021-07-30 14:43:23",
+        "last_seen": "2021-11-10 17:49:10",
+        "ip_address": "104.21.38.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ainnews.net",
+        "count": "7599",
+        "first_seen": "2021-07-30 14:43:23",
+        "last_seen": "2021-11-10 17:49:10",
+        "ip_address": "172.67.220.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ainnews.net",
+        "count": "232415",
+        "first_seen": "2010-12-28 03:11:09",
+        "last_seen": "2016-08-10 05:02:06",
+        "ip_address": "109.75.162.206",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ainnews.net",
+        "count": "1",
+        "first_seen": "2012-10-21 07:49:32",
+        "last_seen": "2012-10-21 07:49:32",
+        "ip_address": "109.75.162.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ainnews.net",
+        "count": "34429",
+        "first_seen": "2016-08-10 06:24:48",
+        "last_seen": "2018-08-29 17:18:33",
+        "ip_address": "109.203.101.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ainnews.net",
+        "count": "3581",
+        "first_seen": "2018-08-29 17:38:11",
+        "last_seen": "2018-11-11 22:03:47",
+        "ip_address": "142.93.91.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ainnews.net",
+        "count": "77540",
+        "first_seen": "2022-06-28 11:14:43",
+        "last_seen": "2024-01-18 15:26:58",
+        "ip_address": "162.240.73.82",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ainnews.net",
+        "count": "1",
+        "first_seen": "2021-09-27 20:26:00",
+        "last_seen": "2021-09-27 20:26:00",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ainnews.net",
+        "count": "4506",
+        "first_seen": "2010-06-24 09:38:17",
+        "last_seen": "2010-12-27 20:07:51",
+        "ip_address": "174.121.177.167",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ainnews.net",
+        "count": "2",
+        "first_seen": "2014-03-17 11:38:30",
+        "last_seen": "2014-03-17 13:22:21",
+        "ip_address": "184.168.221.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ainnews.net",
+        "count": "60861",
+        "first_seen": "2018-11-12 01:43:06",
+        "last_seen": "2022-06-28 06:14:26",
+        "ip_address": "213.175.211.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ainnews.net",
+        "count": "10",
+        "first_seen": "2018-05-31 10:18:28",
+        "last_seen": "2018-05-31 19:27:52",
+        "ip_address": "2400:cb00:2048:1::6812:260d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ainnews.net",
+        "count": "10",
+        "first_seen": "2018-05-31 10:18:28",
+        "last_seen": "2018-05-31 19:27:52",
+        "ip_address": "2400:cb00:2048:1::6812:270d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ainnews.net",
+        "count": "1",
+        "first_seen": "2021-09-27 20:26:01",
+        "last_seen": "2021-09-27 20:26:01",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ainnews.net",
+        "count": "2871",
+        "first_seen": "2021-08-03 18:02:07",
+        "last_seen": "2021-11-10 18:12:46",
+        "ip_address": "2606:4700:3033::6815:2653",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ainnews.net",
+        "count": "2871",
+        "first_seen": "2021-08-03 18:02:07",
+        "last_seen": "2021-11-10 18:12:46",
+        "ip_address": "2606:4700:3037::ac43:dcc5",
+        "type": "IPv6"
+    }
+]

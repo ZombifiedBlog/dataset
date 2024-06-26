@@ -1,0 +1,130 @@
+[
+    {
+        "domain": "paste.gd",
+        "count": "459",
+        "first_seen": "2021-01-12 23:53:21",
+        "last_seen": "2021-08-18 18:01:39",
+        "ip_address": "104.21.0.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "paste.gd",
+        "count": "459",
+        "first_seen": "2021-01-12 23:53:21",
+        "last_seen": "2021-08-18 18:01:39",
+        "ip_address": "172.67.128.72",
+        "type": "IPv4"
+    },
+    {
+        "domain": "paste.gd",
+        "count": "1977",
+        "first_seen": "2021-08-19 15:55:04",
+        "last_seen": "2024-01-18 05:22:07",
+        "ip_address": "104.21.85.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "paste.gd",
+        "count": "1977",
+        "first_seen": "2021-08-19 15:55:04",
+        "last_seen": "2024-01-18 05:22:07",
+        "ip_address": "172.67.208.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "paste.gd",
+        "count": "435",
+        "first_seen": "2020-07-07 05:46:18",
+        "last_seen": "2021-01-10 11:48:18",
+        "ip_address": "104.28.20.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "paste.gd",
+        "count": "435",
+        "first_seen": "2020-07-07 05:46:18",
+        "last_seen": "2021-01-10 11:48:18",
+        "ip_address": "104.28.21.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "paste.gd",
+        "count": "435",
+        "first_seen": "2020-07-07 05:46:18",
+        "last_seen": "2021-01-10 11:48:18",
+        "ip_address": "172.67.128.72",
+        "type": "IPv4"
+    },
+    {
+        "domain": "paste.gd",
+        "count": "9732",
+        "first_seen": "2017-03-24 02:29:25",
+        "last_seen": "2020-07-06 09:00:32",
+        "ip_address": "163.172.139.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "paste.gd",
+        "count": "3",
+        "first_seen": "2022-03-10 17:48:46",
+        "last_seen": "2022-03-12 14:27:30",
+        "ip_address": "188.114.99.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "paste.gd",
+        "count": "171",
+        "first_seen": "2021-01-12 23:53:21",
+        "last_seen": "2021-08-18 16:13:09",
+        "ip_address": "2606:4700:3030::6815:d0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "paste.gd",
+        "count": "171",
+        "first_seen": "2021-01-12 23:53:21",
+        "last_seen": "2021-08-18 16:13:09",
+        "ip_address": "2606:4700:3033::ac43:8048",
+        "type": "IPv6"
+    },
+    {
+        "domain": "paste.gd",
+        "count": "163",
+        "first_seen": "2020-07-06 21:16:15",
+        "last_seen": "2021-01-10 08:06:57",
+        "ip_address": "2606:4700:3030::681c:1405",
+        "type": "IPv6"
+    },
+    {
+        "domain": "paste.gd",
+        "count": "163",
+        "first_seen": "2020-07-06 21:16:15",
+        "last_seen": "2021-01-10 08:06:57",
+        "ip_address": "2606:4700:3033::681c:1505",
+        "type": "IPv6"
+    },
+    {
+        "domain": "paste.gd",
+        "count": "163",
+        "first_seen": "2020-07-06 21:16:15",
+        "last_seen": "2021-01-10 08:06:57",
+        "ip_address": "2606:4700:3033::ac43:8048",
+        "type": "IPv6"
+    },
+    {
+        "domain": "paste.gd",
+        "count": "315",
+        "first_seen": "2021-08-20 05:08:12",
+        "last_seen": "2024-01-10 20:26:13",
+        "ip_address": "2606:4700:3032::ac43:d0e0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "paste.gd",
+        "count": "315",
+        "first_seen": "2021-08-20 05:08:12",
+        "last_seen": "2024-01-10 20:26:13",
+        "ip_address": "2606:4700:3037::6815:55b4",
+        "type": "IPv6"
+    }
+]

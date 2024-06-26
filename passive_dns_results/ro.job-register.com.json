@@ -1,0 +1,138 @@
+[
+    {
+        "domain": "ro.job-register.com",
+        "count": "1",
+        "first_seen": "2022-10-21 14:52:31",
+        "last_seen": "2022-10-21 14:52:31",
+        "ip_address": "23.82.12.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ro.job-register.com",
+        "count": "3",
+        "first_seen": "2022-06-20 15:13:23",
+        "last_seen": "2023-01-12 12:41:02",
+        "ip_address": "37.48.65.143",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ro.job-register.com",
+        "count": "1",
+        "first_seen": "2022-08-03 14:46:02",
+        "last_seen": "2022-08-03 14:46:02",
+        "ip_address": "37.48.65.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ro.job-register.com",
+        "count": "2",
+        "first_seen": "2022-09-17 13:52:17",
+        "last_seen": "2022-09-17 13:52:17",
+        "ip_address": "74.63.241.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ro.job-register.com",
+        "count": "1",
+        "first_seen": "2023-01-02 12:16:54",
+        "last_seen": "2023-01-02 12:16:54",
+        "ip_address": "81.171.28.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ro.job-register.com",
+        "count": "1",
+        "first_seen": "2023-03-16 12:47:04",
+        "last_seen": "2023-03-16 12:47:04",
+        "ip_address": "81.171.28.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ro.job-register.com",
+        "count": "1",
+        "first_seen": "2022-11-26 07:27:23",
+        "last_seen": "2022-11-26 07:27:23",
+        "ip_address": "82.192.82.227",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ro.job-register.com",
+        "count": "9",
+        "first_seen": "2021-02-04 11:10:54",
+        "last_seen": "2021-12-20 09:38:03",
+        "ip_address": "104.21.52.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ro.job-register.com",
+        "count": "9",
+        "first_seen": "2021-02-04 11:10:54",
+        "last_seen": "2021-12-20 09:38:03",
+        "ip_address": "172.67.197.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ro.job-register.com",
+        "count": "1",
+        "first_seen": "2020-12-09 05:49:15",
+        "last_seen": "2020-12-09 05:49:15",
+        "ip_address": "104.24.100.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ro.job-register.com",
+        "count": "1",
+        "first_seen": "2020-12-09 05:49:15",
+        "last_seen": "2020-12-09 05:49:15",
+        "ip_address": "104.24.101.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ro.job-register.com",
+        "count": "1",
+        "first_seen": "2020-12-09 05:49:15",
+        "last_seen": "2020-12-09 05:49:15",
+        "ip_address": "172.67.197.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ro.job-register.com",
+        "count": "1",
+        "first_seen": "2022-12-22 20:25:13",
+        "last_seen": "2022-12-22 20:25:13",
+        "ip_address": "162.210.199.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ro.job-register.com",
+        "count": "1",
+        "first_seen": "2022-12-26 13:14:41",
+        "last_seen": "2022-12-26 13:14:41",
+        "ip_address": "162.210.199.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ro.job-register.com",
+        "count": "1",
+        "first_seen": "2022-11-15 15:31:12",
+        "last_seen": "2022-11-15 15:31:12",
+        "ip_address": "185.107.56.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ro.job-register.com",
+        "count": "3",
+        "first_seen": "2021-02-04 11:10:54",
+        "last_seen": "2021-03-10 15:35:53",
+        "ip_address": "2606:4700:3036::ac43:c547",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ro.job-register.com",
+        "count": "3",
+        "first_seen": "2021-02-04 11:10:54",
+        "last_seen": "2021-03-10 15:35:53",
+        "ip_address": "2606:4700:3037::6815:3457",
+        "type": "IPv6"
+    }
+]

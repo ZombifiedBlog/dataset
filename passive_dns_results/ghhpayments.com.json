@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "ghhpayments.com",
+        "count": "249",
+        "first_seen": "2015-06-02 01:08:57",
+        "last_seen": "2016-10-09 23:24:10",
+        "ip_address": "52.8.158.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ghhpayments.com",
+        "count": "70",
+        "first_seen": "2014-11-07 21:46:38",
+        "last_seen": "2015-05-25 18:29:32",
+        "ip_address": "54.193.126.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ghhpayments.com",
+        "count": "13",
+        "first_seen": "2013-07-07 14:24:06",
+        "last_seen": "2014-11-01 20:54:26",
+        "ip_address": "54.215.153.115",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ghhpayments.com",
+        "count": "3",
+        "first_seen": "2012-11-20 05:08:41",
+        "last_seen": "2012-11-21 21:04:04",
+        "ip_address": "67.225.255.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ghhpayments.com",
+        "count": "13",
+        "first_seen": "2013-02-15 04:03:57",
+        "last_seen": "2013-07-03 21:34:21",
+        "ip_address": "207.223.255.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ghhpayments.com",
+        "count": "11",
+        "first_seen": "2016-10-19 15:11:32",
+        "last_seen": "2016-11-24 03:26:52",
+        "ip_address": "208.91.197.44",
+        "type": "IPv4"
+    }
+]

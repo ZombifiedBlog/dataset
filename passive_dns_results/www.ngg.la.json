@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.ngg.la",
+        "count": "4",
+        "first_seen": "2019-03-19 10:54:07",
+        "last_seen": "2019-03-24 08:45:56",
+        "ip_address": "159.69.158.244",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ngg.la",
+        "count": "2",
+        "first_seen": "2019-02-09 05:00:54",
+        "last_seen": "2019-02-09 05:00:54",
+        "ip_address": "167.99.201.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ngg.la",
+        "count": "483",
+        "first_seen": "2018-02-21 01:53:46",
+        "last_seen": "2020-09-14 13:10:04",
+        "ip_address": "173.230.141.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ngg.la",
+        "count": "6",
+        "first_seen": "2019-02-16 22:43:15",
+        "last_seen": "2019-02-22 03:58:13",
+        "ip_address": "178.128.23.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ngg.la",
+        "count": "4249",
+        "first_seen": "2017-02-27 11:37:31",
+        "last_seen": "2017-12-09 01:07:42",
+        "ip_address": "104.28.12.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ngg.la",
+        "count": "4249",
+        "first_seen": "2017-02-27 11:37:31",
+        "last_seen": "2017-12-09 01:07:42",
+        "ip_address": "104.28.13.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ngg.la",
+        "count": "3050",
+        "first_seen": "2017-02-27 11:37:31",
+        "last_seen": "2017-12-02 12:58:45",
+        "ip_address": "2400:cb00:2048:1::681c:c28",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ngg.la",
+        "count": "3050",
+        "first_seen": "2017-02-27 11:37:31",
+        "last_seen": "2017-12-02 12:58:45",
+        "ip_address": "2400:cb00:2048:1::681c:d28",
+        "type": "IPv6"
+    }
+]

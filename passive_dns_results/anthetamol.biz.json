@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "anthetamol.biz",
+        "count": "2",
+        "first_seen": "2023-09-26 22:12:27",
+        "last_seen": "2023-09-26 22:12:27",
+        "ip_address": "192.168.60.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anthetamol.biz",
+        "count": "8756",
+        "first_seen": "2022-07-15 14:16:09",
+        "last_seen": "2023-11-01 14:25:14",
+        "ip_address": "23.95.82.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anthetamol.biz",
+        "count": "693",
+        "first_seen": "2023-11-02 05:06:05",
+        "last_seen": "2024-01-18 05:14:52",
+        "ip_address": "83.149.97.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anthetamol.biz",
+        "count": "90",
+        "first_seen": "2022-07-16 15:30:23",
+        "last_seen": "2022-07-16 17:13:36",
+        "ip_address": "198.54.117.244",
+        "type": "IPv4"
+    }
+]

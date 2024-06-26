@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.propesreferences.com",
+        "count": "124",
+        "first_seen": "2020-03-07 20:08:36",
+        "last_seen": "2020-04-11 19:12:29",
+        "ip_address": "104.31.66.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.propesreferences.com",
+        "count": "124",
+        "first_seen": "2020-03-07 20:08:36",
+        "last_seen": "2020-04-11 19:12:29",
+        "ip_address": "104.31.67.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.propesreferences.com",
+        "count": "3",
+        "first_seen": "2020-04-15 13:54:01",
+        "last_seen": "2020-04-20 16:59:31",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.propesreferences.com",
+        "count": "3",
+        "first_seen": "2020-04-15 13:54:01",
+        "last_seen": "2020-04-20 16:59:31",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.propesreferences.com",
+        "count": "3",
+        "first_seen": "2020-04-15 13:54:01",
+        "last_seen": "2020-04-20 16:59:31",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.propesreferences.com",
+        "count": "3",
+        "first_seen": "2020-04-15 13:54:01",
+        "last_seen": "2020-04-20 16:59:31",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.propesreferences.com",
+        "count": "11",
+        "first_seen": "2020-03-07 20:10:36",
+        "last_seen": "2020-03-23 16:39:00",
+        "ip_address": "2606:4700:3030::681f:4272",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.propesreferences.com",
+        "count": "11",
+        "first_seen": "2020-03-07 20:10:36",
+        "last_seen": "2020-03-23 16:39:00",
+        "ip_address": "2606:4700:3033::681f:4372",
+        "type": "IPv6"
+    }
+]

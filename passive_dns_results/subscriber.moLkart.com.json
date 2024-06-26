@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.moLkart.com",
+        "count": "3",
+        "first_seen": "2022-08-16 04:33:24",
+        "last_seen": "2022-09-10 09:32:57",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.moLkart.com",
+        "count": "105",
+        "first_seen": "2020-02-27 23:51:14",
+        "last_seen": "2020-03-26 16:06:46",
+        "ip_address": "104.28.6.216",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.moLkart.com",
+        "count": "105",
+        "first_seen": "2020-02-27 23:51:14",
+        "last_seen": "2020-03-26 16:06:46",
+        "ip_address": "104.28.7.216",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.moLkart.com",
+        "count": "63",
+        "first_seen": "2020-03-05 20:16:15",
+        "last_seen": "2020-03-25 02:53:44",
+        "ip_address": "2606:4700:3032::681c:6d8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.moLkart.com",
+        "count": "63",
+        "first_seen": "2020-03-05 20:16:15",
+        "last_seen": "2020-03-25 02:53:44",
+        "ip_address": "2606:4700:3036::681c:7d8",
+        "type": "IPv6"
+    }
+]

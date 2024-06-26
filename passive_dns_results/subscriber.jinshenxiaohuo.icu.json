@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.jinshenxiaohuo.icu",
+        "count": "2195",
+        "first_seen": "2021-11-25 19:45:18",
+        "last_seen": "2022-05-06 14:19:35",
+        "ip_address": "104.21.43.131",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jinshenxiaohuo.icu",
+        "count": "2195",
+        "first_seen": "2021-11-25 19:45:18",
+        "last_seen": "2022-05-06 14:19:35",
+        "ip_address": "172.67.179.139",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jinshenxiaohuo.icu",
+        "count": "14",
+        "first_seen": "2022-03-10 17:05:04",
+        "last_seen": "2022-03-14 09:43:19",
+        "ip_address": "188.114.99.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jinshenxiaohuo.icu",
+        "count": "527",
+        "first_seen": "2021-11-27 05:17:11",
+        "last_seen": "2022-03-20 15:36:25",
+        "ip_address": "2606:4700:3030::ac43:b38b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.jinshenxiaohuo.icu",
+        "count": "527",
+        "first_seen": "2021-11-27 05:17:11",
+        "last_seen": "2022-03-20 15:36:25",
+        "ip_address": "2606:4700:3033::6815:2b83",
+        "type": "IPv6"
+    }
+]

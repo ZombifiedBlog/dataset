@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.ammazonu.xyz",
+        "count": "13",
+        "first_seen": "2020-11-08 23:16:18",
+        "last_seen": "2020-11-09 07:32:31",
+        "ip_address": "72.167.226.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ammazonu.xyz",
+        "count": "3",
+        "first_seen": "2020-11-10 09:43:38",
+        "last_seen": "2020-11-10 09:43:40",
+        "ip_address": "107.180.103.157",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ammazonu.xyz",
+        "count": "2",
+        "first_seen": "2020-11-10 08:20:27",
+        "last_seen": "2020-11-10 08:20:27",
+        "ip_address": "160.153.247.244",
+        "type": "IPv4"
+    }
+]

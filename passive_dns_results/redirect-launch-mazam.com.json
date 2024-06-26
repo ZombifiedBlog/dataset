@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "redirect-launch-mazam.com",
+        "count": "4",
+        "first_seen": "2019-04-09 10:23:24",
+        "last_seen": "2019-04-09 11:14:47",
+        "ip_address": "45.66.135.159",
+        "type": "IPv4"
+    },
+    {
+        "domain": "redirect-launch-mazam.com",
+        "count": "230",
+        "first_seen": "2019-04-09 15:30:42",
+        "last_seen": "2020-04-07 13:25:05",
+        "ip_address": "176.53.162.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "redirect-launch-mazam.com",
+        "count": "22",
+        "first_seen": "2020-04-09 17:55:07",
+        "last_seen": "2020-05-17 06:15:29",
+        "ip_address": "194.58.56.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "redirect-launch-mazam.com",
+        "count": "4",
+        "first_seen": "2020-04-27 14:03:57",
+        "last_seen": "2020-05-12 01:02:52",
+        "ip_address": "194.58.56.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "redirect-launch-mazam.com",
+        "count": "2",
+        "first_seen": "2019-04-09 10:20:28",
+        "last_seen": "2019-04-09 10:20:28",
+        "ip_address": "194.58.112.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "redirect-launch-mazam.com",
+        "count": "19",
+        "first_seen": "2020-04-09 17:55:07",
+        "last_seen": "2020-05-11 12:55:28",
+        "ip_address": "2a00:f940:4::10",
+        "type": "IPv6"
+    }
+]

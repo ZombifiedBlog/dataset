@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "amazon.lastchancegarageinc.com",
+        "count": "10",
+        "first_seen": "2020-07-20 02:41:28",
+        "last_seen": "2020-07-20 04:49:52",
+        "ip_address": "104.24.96.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.lastchancegarageinc.com",
+        "count": "10",
+        "first_seen": "2020-07-20 02:41:28",
+        "last_seen": "2020-07-20 04:49:52",
+        "ip_address": "104.24.97.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.lastchancegarageinc.com",
+        "count": "10",
+        "first_seen": "2020-07-20 02:41:28",
+        "last_seen": "2020-07-20 04:49:52",
+        "ip_address": "172.67.158.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.lastchancegarageinc.com",
+        "count": "9",
+        "first_seen": "2021-05-07 14:54:02",
+        "last_seen": "2021-09-02 20:31:58",
+        "ip_address": "199.59.242.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.lastchancegarageinc.com",
+        "count": "1",
+        "first_seen": "2021-12-07 07:29:08",
+        "last_seen": "2021-12-07 07:29:08",
+        "ip_address": "199.59.243.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.lastchancegarageinc.com",
+        "count": "4",
+        "first_seen": "2020-07-20 02:41:28",
+        "last_seen": "2020-07-20 03:26:34",
+        "ip_address": "2606:4700:3032::6818:61fa",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon.lastchancegarageinc.com",
+        "count": "4",
+        "first_seen": "2020-07-20 02:41:28",
+        "last_seen": "2020-07-20 03:26:34",
+        "ip_address": "2606:4700:3032::ac43:9e7a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon.lastchancegarageinc.com",
+        "count": "4",
+        "first_seen": "2020-07-20 02:41:28",
+        "last_seen": "2020-07-20 03:26:34",
+        "ip_address": "2606:4700:3037::6818:60fa",
+        "type": "IPv6"
+    }
+]

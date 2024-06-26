@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "subscriber.jnsdbdfkjs.com",
+        "count": "150",
+        "first_seen": "2020-02-27 23:52:11",
+        "last_seen": "2020-03-26 16:08:08",
+        "ip_address": "104.28.20.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jnsdbdfkjs.com",
+        "count": "150",
+        "first_seen": "2020-02-27 23:52:11",
+        "last_seen": "2020-03-26 16:08:08",
+        "ip_address": "104.28.21.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jnsdbdfkjs.com",
+        "count": "100",
+        "first_seen": "2020-03-05 07:10:24",
+        "last_seen": "2020-03-25 02:52:27",
+        "ip_address": "2606:4700:3031::681c:1431",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.jnsdbdfkjs.com",
+        "count": "100",
+        "first_seen": "2020-03-05 07:10:24",
+        "last_seen": "2020-03-25 02:52:27",
+        "ip_address": "2606:4700:3033::681c:1531",
+        "type": "IPv6"
+    }
+]

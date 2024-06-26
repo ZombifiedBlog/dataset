@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "nmap.org",
+        "count": "1538650",
+        "first_seen": "2015-08-24 03:50:29",
+        "last_seen": "2024-01-18 07:30:10",
+        "ip_address": "45.33.49.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nmap.org",
+        "count": "112470",
+        "first_seen": "2010-06-24 07:17:12",
+        "last_seen": "2013-04-12 19:29:00",
+        "ip_address": "74.207.254.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nmap.org",
+        "count": "156043",
+        "first_seen": "2013-04-12 19:39:49",
+        "last_seen": "2015-08-24 03:48:33",
+        "ip_address": "173.255.243.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nmap.org",
+        "count": "48102",
+        "first_seen": "2013-04-12 19:56:56",
+        "last_seen": "2015-08-24 03:36:34",
+        "ip_address": "2600:3c01::f03c:91ff:fe70:d085",
+        "type": "IPv6"
+    },
+    {
+        "domain": "nmap.org",
+        "count": "29369",
+        "first_seen": "2011-06-06 20:43:30",
+        "last_seen": "2013-04-12 19:18:24",
+        "ip_address": "2600:3c01::f03c:91ff:fe96:967c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "nmap.org",
+        "count": "467129",
+        "first_seen": "2015-08-24 03:50:54",
+        "last_seen": "2020-09-25 18:43:06",
+        "ip_address": "2600:3c01::f03c:91ff:fe98:ff4e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "nmap.org",
+        "count": "338573",
+        "first_seen": "2020-09-25 18:50:55",
+        "last_seen": "2024-01-18 04:00:00",
+        "ip_address": "2600:3c01:e000:3e6::6d4e:7061",
+        "type": "IPv6"
+    }
+]

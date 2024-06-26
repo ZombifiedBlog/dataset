@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www2-micard-co-jp.fnsyrp.shop",
+        "count": "78",
+        "first_seen": "2021-06-13 15:22:48",
+        "last_seen": "2021-07-03 15:21:36",
+        "ip_address": "104.21.9.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-micard-co-jp.fnsyrp.shop",
+        "count": "78",
+        "first_seen": "2021-06-13 15:22:48",
+        "last_seen": "2021-07-03 15:21:36",
+        "ip_address": "172.67.161.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-micard-co-jp.fnsyrp.shop",
+        "count": "5",
+        "first_seen": "2021-06-13 15:22:58",
+        "last_seen": "2021-06-24 23:04:07",
+        "ip_address": "2606:4700:3030::6815:9d5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www2-micard-co-jp.fnsyrp.shop",
+        "count": "5",
+        "first_seen": "2021-06-13 15:22:58",
+        "last_seen": "2021-06-24 23:04:07",
+        "ip_address": "2606:4700:3031::ac43:a155",
+        "type": "IPv6"
+    }
+]

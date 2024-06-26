@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "sniff.topintown.net",
+        "count": "5",
+        "first_seen": "2022-10-01 18:00:08",
+        "last_seen": "2023-01-27 06:42:23",
+        "ip_address": "104.164.124.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sniff.topintown.net",
+        "count": "130",
+        "first_seen": "2022-06-17 12:05:02",
+        "last_seen": "2022-07-13 07:51:21",
+        "ip_address": "155.94.128.131",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sniff.topintown.net",
+        "count": "12",
+        "first_seen": "2023-11-06 09:31:58",
+        "last_seen": "2023-12-14 00:33:47",
+        "ip_address": "168.76.252.70",
+        "type": "IPv4"
+    }
+]

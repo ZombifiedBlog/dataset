@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.cjeoth.ru",
+        "count": "7",
+        "first_seen": "2023-05-12 09:39:49",
+        "last_seen": "2023-05-30 14:37:16",
+        "ip_address": "31.177.76.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cjeoth.ru",
+        "count": "7",
+        "first_seen": "2023-05-12 09:39:49",
+        "last_seen": "2023-05-30 14:37:16",
+        "ip_address": "31.177.80.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cjeoth.ru",
+        "count": "3697",
+        "first_seen": "2022-06-04 02:21:28",
+        "last_seen": "2022-07-15 07:24:36",
+        "ip_address": "104.21.3.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cjeoth.ru",
+        "count": "3697",
+        "first_seen": "2022-06-04 02:21:28",
+        "last_seen": "2022-07-15 07:24:36",
+        "ip_address": "172.67.130.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cjeoth.ru",
+        "count": "285",
+        "first_seen": "2022-06-04 05:00:30",
+        "last_seen": "2022-07-15 07:24:37",
+        "ip_address": "2606:4700:3034::6815:32d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.cjeoth.ru",
+        "count": "285",
+        "first_seen": "2022-06-04 05:00:30",
+        "last_seen": "2022-07-15 07:24:37",
+        "ip_address": "2606:4700:3035::ac43:823b",
+        "type": "IPv6"
+    }
+]

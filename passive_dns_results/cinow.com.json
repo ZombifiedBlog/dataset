@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "cinow.com",
+        "count": "6",
+        "first_seen": "2018-10-17 00:49:21",
+        "last_seen": "2018-10-17 07:17:38",
+        "ip_address": "34.195.144.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cinow.com",
+        "count": "5",
+        "first_seen": "2018-10-17 03:52:35",
+        "last_seen": "2018-10-17 11:45:56",
+        "ip_address": "34.195.238.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cinow.com",
+        "count": "15",
+        "first_seen": "2014-08-19 02:14:38",
+        "last_seen": "2015-01-06 00:06:53",
+        "ip_address": "54.209.129.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cinow.com",
+        "count": "3",
+        "first_seen": "2014-11-04 18:51:25",
+        "last_seen": "2014-12-01 19:12:52",
+        "ip_address": "54.209.221.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cinow.com",
+        "count": "2",
+        "first_seen": "2010-09-18 15:12:39",
+        "last_seen": "2010-09-18 15:12:39",
+        "ip_address": "64.27.88.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cinow.com",
+        "count": "2",
+        "first_seen": "2010-12-29 02:49:51",
+        "last_seen": "2010-12-30 02:38:45",
+        "ip_address": "74.117.114.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cinow.com",
+        "count": "9",
+        "first_seen": "2013-01-15 10:42:37",
+        "last_seen": "2013-12-12 00:03:48",
+        "ip_address": "107.20.206.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cinow.com",
+        "count": "4",
+        "first_seen": "2010-10-16 13:21:14",
+        "last_seen": "2010-10-18 14:10:07",
+        "ip_address": "208.73.210.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cinow.com",
+        "count": "21",
+        "first_seen": "2011-01-01 01:17:33",
+        "last_seen": "2012-10-28 09:44:25",
+        "ip_address": "216.150.214.58",
+        "type": "IPv4"
+    }
+]

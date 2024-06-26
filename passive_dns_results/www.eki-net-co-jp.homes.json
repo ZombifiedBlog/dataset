@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.eki-net-co-jp.homes",
+        "count": "22",
+        "first_seen": "2023-01-13 16:15:53",
+        "last_seen": "2023-01-13 21:06:59",
+        "ip_address": "103.75.118.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.eki-net-co-jp.homes",
+        "count": "23",
+        "first_seen": "2023-01-04 10:11:21",
+        "last_seen": "2023-02-03 00:24:04",
+        "ip_address": "104.21.27.185",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.eki-net-co-jp.homes",
+        "count": "23",
+        "first_seen": "2023-01-04 10:11:21",
+        "last_seen": "2023-02-03 00:24:04",
+        "ip_address": "172.67.143.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.eki-net-co-jp.homes",
+        "count": "8",
+        "first_seen": "2023-01-04 10:12:40",
+        "last_seen": "2023-02-26 18:40:09",
+        "ip_address": "2606:4700:3034::ac43:8f71",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.eki-net-co-jp.homes",
+        "count": "8",
+        "first_seen": "2023-01-04 10:12:40",
+        "last_seen": "2023-02-26 18:40:09",
+        "ip_address": "2606:4700:3035::6815:1bb9",
+        "type": "IPv6"
+    }
+]

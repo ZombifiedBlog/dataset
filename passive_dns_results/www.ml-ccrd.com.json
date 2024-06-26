@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.ml-ccrd.com",
+        "count": "1273",
+        "first_seen": "2021-08-12 18:48:19",
+        "last_seen": "2022-08-13 00:55:32",
+        "ip_address": "155.235.250.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ml-ccrd.com",
+        "count": "4",
+        "first_seen": "2022-08-13 00:54:48",
+        "last_seen": "2022-09-10 06:22:34",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ml-ccrd.com",
+        "count": "2",
+        "first_seen": "2022-08-13 00:57:42",
+        "last_seen": "2022-08-20 11:17:01",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

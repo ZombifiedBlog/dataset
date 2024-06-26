@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "amazon-us-west-awsaccount.xph33.com",
+        "count": "4",
+        "first_seen": "2019-12-21 20:45:18",
+        "last_seen": "2019-12-23 18:13:50",
+        "ip_address": "15.164.83.206",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.xph33.com",
+        "count": "55",
+        "first_seen": "2019-10-17 08:33:09",
+        "last_seen": "2019-12-07 18:51:20",
+        "ip_address": "103.42.30.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.xph33.com",
+        "count": "1332",
+        "first_seen": "2019-10-03 05:10:10",
+        "last_seen": "2019-10-16 05:15:40",
+        "ip_address": "104.27.134.106",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.xph33.com",
+        "count": "1332",
+        "first_seen": "2019-10-03 05:10:10",
+        "last_seen": "2019-10-16 05:15:40",
+        "ip_address": "104.27.135.106",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.xph33.com",
+        "count": "187",
+        "first_seen": "2019-10-03 05:10:10",
+        "last_seen": "2019-10-16 05:15:40",
+        "ip_address": "2606:4700:30::681b:866a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.xph33.com",
+        "count": "187",
+        "first_seen": "2019-10-03 05:10:10",
+        "last_seen": "2019-10-16 05:15:40",
+        "ip_address": "2606:4700:30::681b:876a",
+        "type": "IPv6"
+    }
+]

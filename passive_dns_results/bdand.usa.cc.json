@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "bdand.usa.cc",
+        "count": "28",
+        "first_seen": "2021-12-12 16:31:06",
+        "last_seen": "2022-11-29 19:11:54",
+        "ip_address": "69.16.231.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bdand.usa.cc",
+        "count": "2",
+        "first_seen": "2019-11-22 10:51:39",
+        "last_seen": "2019-11-22 10:51:39",
+        "ip_address": "78.41.204.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bdand.usa.cc",
+        "count": "153",
+        "first_seen": "2018-08-21 23:49:17",
+        "last_seen": "2018-10-28 01:36:30",
+        "ip_address": "188.165.199.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bdand.usa.cc",
+        "count": "1",
+        "first_seen": "2022-11-23 16:07:06",
+        "last_seen": "2022-11-23 16:07:06",
+        "ip_address": "69.16.231.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bdand.usa.cc",
+        "count": "10",
+        "first_seen": "2021-12-12 16:31:04",
+        "last_seen": "2023-01-06 05:28:41",
+        "ip_address": "::1",
+        "type": "IPv6"
+    }
+]

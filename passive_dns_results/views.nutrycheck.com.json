@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "views.nutrycheck.com",
+        "count": "737",
+        "first_seen": "2017-01-31 16:16:19",
+        "last_seen": "2017-12-04 20:18:20",
+        "ip_address": "104.18.32.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "views.nutrycheck.com",
+        "count": "737",
+        "first_seen": "2017-01-31 16:16:19",
+        "last_seen": "2017-12-04 20:18:20",
+        "ip_address": "104.18.33.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "views.nutrycheck.com",
+        "count": "161",
+        "first_seen": "2017-01-31 16:18:32",
+        "last_seen": "2017-10-05 22:11:37",
+        "ip_address": "2400:cb00:2048:1::6812:203e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "views.nutrycheck.com",
+        "count": "161",
+        "first_seen": "2017-01-31 16:18:32",
+        "last_seen": "2017-10-05 22:11:37",
+        "ip_address": "2400:cb00:2048:1::6812:213e",
+        "type": "IPv6"
+    }
+]

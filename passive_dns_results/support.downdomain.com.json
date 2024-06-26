@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "support.downdomain.com",
+        "count": "619",
+        "first_seen": "2022-12-25 15:55:19",
+        "last_seen": "2023-01-12 19:57:04",
+        "ip_address": "34.85.101.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.downdomain.com",
+        "count": "52",
+        "first_seen": "2023-01-12 23:00:06",
+        "last_seen": "2023-01-15 05:49:13",
+        "ip_address": "103.120.80.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.downdomain.com",
+        "count": "52",
+        "first_seen": "2023-01-12 23:00:06",
+        "last_seen": "2023-01-15 05:49:13",
+        "ip_address": "103.139.0.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.downdomain.com",
+        "count": "62",
+        "first_seen": "2023-04-01 09:55:25",
+        "last_seen": "2023-12-24 17:52:22",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.downdomain.com",
+        "count": "5",
+        "first_seen": "2023-12-13 23:36:05",
+        "last_seen": "2023-12-14 00:54:09",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    }
+]

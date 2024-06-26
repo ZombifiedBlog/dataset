@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.faxemail.co.za",
+        "count": "8736",
+        "first_seen": "2016-03-31 14:26:05",
+        "last_seen": "2021-05-03 10:39:26",
+        "ip_address": "41.193.31.126",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.faxemail.co.za",
+        "count": "1469",
+        "first_seen": "2021-05-06 05:43:58",
+        "last_seen": "2024-01-16 12:10:58",
+        "ip_address": "196.22.195.237",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.faxemail.co.za",
+        "count": "3",
+        "first_seen": "2011-03-03 14:49:52",
+        "last_seen": "2011-03-04 06:25:52",
+        "ip_address": "196.41.214.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.faxemail.co.za",
+        "count": "391",
+        "first_seen": "2010-07-15 16:32:14",
+        "last_seen": "2011-03-02 19:50:26",
+        "ip_address": "196.41.214.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.faxemail.co.za",
+        "count": "5251",
+        "first_seen": "2011-03-05 00:13:21",
+        "last_seen": "2016-03-31 14:22:14",
+        "ip_address": "196.41.214.244",
+        "type": "IPv4"
+    }
+]

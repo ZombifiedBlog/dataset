@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www-cr-mufg-jp.kia8k.com",
+        "count": "221",
+        "first_seen": "2023-01-05 14:03:40",
+        "last_seen": "2023-01-07 11:53:37",
+        "ip_address": "104.21.29.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.kia8k.com",
+        "count": "221",
+        "first_seen": "2023-01-05 14:03:40",
+        "last_seen": "2023-01-07 11:53:37",
+        "ip_address": "172.67.171.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.kia8k.com",
+        "count": "11",
+        "first_seen": "2023-01-05 14:04:43",
+        "last_seen": "2023-01-05 20:21:58",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.kia8k.com",
+        "count": "11",
+        "first_seen": "2023-01-05 14:04:43",
+        "last_seen": "2023-01-05 20:21:58",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.kia8k.com",
+        "count": "1",
+        "first_seen": "2023-01-05 14:04:44",
+        "last_seen": "2023-01-05 14:04:44",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-cr-mufg-jp.kia8k.com",
+        "count": "1",
+        "first_seen": "2023-01-05 14:04:44",
+        "last_seen": "2023-01-05 14:04:44",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

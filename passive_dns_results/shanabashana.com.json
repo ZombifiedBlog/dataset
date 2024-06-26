@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "shanabashana.com",
+        "count": "2",
+        "first_seen": "2010-07-03 16:14:04",
+        "last_seen": "2010-07-03 16:14:04",
+        "ip_address": "67.222.130.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shanabashana.com",
+        "count": "100",
+        "first_seen": "2023-04-23 07:19:09",
+        "last_seen": "2023-06-03 06:41:16",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shanabashana.com",
+        "count": "315",
+        "first_seen": "2023-08-25 13:36:12",
+        "last_seen": "2023-11-11 07:39:43",
+        "ip_address": "154.86.220.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shanabashana.com",
+        "count": "175",
+        "first_seen": "2023-07-11 13:44:07",
+        "last_seen": "2023-08-24 20:24:32",
+        "ip_address": "156.234.31.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shanabashana.com",
+        "count": "232",
+        "first_seen": "2023-11-11 12:38:21",
+        "last_seen": "2024-01-18 05:33:14",
+        "ip_address": "160.124.168.54",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shanabashana.com",
+        "count": "3753",
+        "first_seen": "2020-06-01 08:04:39",
+        "last_seen": "2023-01-27 13:58:55",
+        "ip_address": "162.246.19.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shanabashana.com",
+        "count": "9687",
+        "first_seen": "2013-12-07 03:33:53",
+        "last_seen": "2020-05-31 13:30:18",
+        "ip_address": "199.79.62.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shanabashana.com",
+        "count": "12",
+        "first_seen": "2013-11-26 08:23:12",
+        "last_seen": "2013-12-05 17:26:00",
+        "ip_address": "205.251.133.202",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shanabashana.com",
+        "count": "499",
+        "first_seen": "2010-11-03 23:44:16",
+        "last_seen": "2012-05-10 16:47:50",
+        "ip_address": "205.251.134.98",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shanabashana.com",
+        "count": "632",
+        "first_seen": "2012-05-15 12:15:00",
+        "last_seen": "2013-11-07 13:45:21",
+        "ip_address": "205.251.135.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shanabashana.com",
+        "count": "494",
+        "first_seen": "2010-07-25 03:50:04",
+        "last_seen": "2010-11-01 21:03:24",
+        "ip_address": "209.236.116.118",
+        "type": "IPv4"
+    }
+]

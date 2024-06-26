@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amaczowoe.buzz",
+        "count": "2",
+        "first_seen": "2021-09-02 15:13:13",
+        "last_seen": "2021-09-02 15:15:05",
+        "ip_address": "99.81.40.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amaczowoe.buzz",
+        "count": "8",
+        "first_seen": "2020-08-31 23:08:21",
+        "last_seen": "2020-09-01 05:06:00",
+        "ip_address": "173.82.219.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amaczowoe.buzz",
+        "count": "4",
+        "first_seen": "2020-08-27 22:06:50",
+        "last_seen": "2020-08-27 23:19:20",
+        "ip_address": "173.82.238.167",
+        "type": "IPv4"
+    }
+]

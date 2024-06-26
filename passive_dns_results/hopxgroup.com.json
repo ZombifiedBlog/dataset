@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "hopxgroup.com",
+        "count": "1024",
+        "first_seen": "2018-07-27 13:23:33",
+        "last_seen": "2022-01-20 18:31:13",
+        "ip_address": "204.11.58.156",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hopxgroup.com",
+        "count": "3010",
+        "first_seen": "2022-01-21 11:43:10",
+        "last_seen": "2024-01-13 22:57:50",
+        "ip_address": "204.11.59.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hopxgroup.com",
+        "count": "2",
+        "first_seen": "2020-07-26 05:16:40",
+        "last_seen": "2020-07-26 05:16:40",
+        "ip_address": "209.99.40.222",
+        "type": "IPv4"
+    }
+]

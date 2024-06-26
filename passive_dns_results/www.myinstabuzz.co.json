@@ -1,0 +1,170 @@
+[
+    {
+        "domain": "www.myinstabuzz.co",
+        "count": "4",
+        "first_seen": "2019-02-18 08:53:16",
+        "last_seen": "2019-02-18 09:17:53",
+        "ip_address": "103.39.78.143",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.myinstabuzz.co",
+        "count": "19674",
+        "first_seen": "2018-09-04 07:26:01",
+        "last_seen": "2019-02-18 03:17:09",
+        "ip_address": "104.28.8.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.myinstabuzz.co",
+        "count": "19674",
+        "first_seen": "2018-09-04 07:26:01",
+        "last_seen": "2019-02-18 03:17:09",
+        "ip_address": "104.28.9.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.myinstabuzz.co",
+        "count": "6321",
+        "first_seen": "2020-11-22 12:02:15",
+        "last_seen": "2022-09-01 20:36:53",
+        "ip_address": "148.66.138.171",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.myinstabuzz.co",
+        "count": "50",
+        "first_seen": "2019-02-18 03:28:14",
+        "last_seen": "2019-02-18 08:47:08",
+        "ip_address": "160.153.47.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.myinstabuzz.co",
+        "count": "2",
+        "first_seen": "2023-10-13 12:40:46",
+        "last_seen": "2023-11-24 23:09:41",
+        "ip_address": "185.107.56.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.myinstabuzz.co",
+        "count": "5",
+        "first_seen": "2023-07-12 00:18:48",
+        "last_seen": "2024-01-01 10:01:28",
+        "ip_address": "185.107.56.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.myinstabuzz.co",
+        "count": "4",
+        "first_seen": "2023-09-08 03:22:24",
+        "last_seen": "2024-01-10 23:04:23",
+        "ip_address": "185.107.56.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.myinstabuzz.co",
+        "count": "6",
+        "first_seen": "2023-08-27 23:47:27",
+        "last_seen": "2023-11-04 20:04:34",
+        "ip_address": "185.107.56.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.myinstabuzz.co",
+        "count": "72",
+        "first_seen": "2023-01-20 09:42:37",
+        "last_seen": "2023-03-05 04:01:27",
+        "ip_address": "199.59.243.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.myinstabuzz.co",
+        "count": "20",
+        "first_seen": "2023-03-11 12:02:56",
+        "last_seen": "2023-05-26 07:51:30",
+        "ip_address": "199.59.243.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.myinstabuzz.co",
+        "count": "2",
+        "first_seen": "2023-12-25 10:03:17",
+        "last_seen": "2023-12-25 10:03:17",
+        "ip_address": "199.115.115.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.myinstabuzz.co",
+        "count": "2",
+        "first_seen": "2023-06-25 14:24:43",
+        "last_seen": "2023-06-25 14:24:43",
+        "ip_address": "199.115.115.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.myinstabuzz.co",
+        "count": "11",
+        "first_seen": "2023-08-06 21:22:25",
+        "last_seen": "2023-11-26 09:07:01",
+        "ip_address": "204.152.214.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.myinstabuzz.co",
+        "count": "8",
+        "first_seen": "2023-06-29 13:36:16",
+        "last_seen": "2023-12-16 23:27:45",
+        "ip_address": "204.152.214.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.myinstabuzz.co",
+        "count": "5",
+        "first_seen": "2023-06-13 14:15:19",
+        "last_seen": "2023-11-27 17:12:46",
+        "ip_address": "204.152.214.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.myinstabuzz.co",
+        "count": "12",
+        "first_seen": "2023-09-19 21:24:36",
+        "last_seen": "2023-12-18 09:58:17",
+        "ip_address": "204.152.214.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.myinstabuzz.co",
+        "count": "35",
+        "first_seen": "2018-09-04 07:26:02",
+        "last_seen": "2018-09-20 21:23:04",
+        "ip_address": "2400:cb00:2048:1::681c:815",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.myinstabuzz.co",
+        "count": "35",
+        "first_seen": "2018-09-04 07:26:02",
+        "last_seen": "2018-09-20 21:23:04",
+        "ip_address": "2400:cb00:2048:1::681c:915",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.myinstabuzz.co",
+        "count": "482",
+        "first_seen": "2018-09-22 01:15:22",
+        "last_seen": "2019-02-16 18:56:57",
+        "ip_address": "2606:4700:30::681c:815",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.myinstabuzz.co",
+        "count": "482",
+        "first_seen": "2018-09-22 01:15:22",
+        "last_seen": "2019-02-16 18:56:57",
+        "ip_address": "2606:4700:30::681c:915",
+        "type": "IPv6"
+    }
+]

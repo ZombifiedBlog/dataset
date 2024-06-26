@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.rcgp.org.uk",
+        "count": "11095",
+        "first_seen": "2023-08-22 10:22:17",
+        "last_seen": "2024-01-18 12:02:52",
+        "ip_address": "20.108.26.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.rcgp.org.uk",
+        "count": "98788",
+        "first_seen": "2016-09-27 14:25:06",
+        "last_seen": "2020-04-29 19:25:41",
+        "ip_address": "40.127.139.252",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.rcgp.org.uk",
+        "count": "3124",
+        "first_seen": "2020-04-29 20:01:16",
+        "last_seen": "2020-07-02 16:20:44",
+        "ip_address": "51.105.74.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.rcgp.org.uk",
+        "count": "300872",
+        "first_seen": "2012-09-25 11:55:27",
+        "last_seen": "2016-09-27 14:06:48",
+        "ip_address": "80.85.67.89",
+        "type": "IPv4"
+    }
+]

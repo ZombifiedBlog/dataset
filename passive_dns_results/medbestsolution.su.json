@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "medbestsolution.su",
+        "count": "3068",
+        "first_seen": "2019-02-28 19:47:54",
+        "last_seen": "2019-03-01 16:48:17",
+        "ip_address": "37.139.56.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "medbestsolution.su",
+        "count": "602",
+        "first_seen": "2019-03-05 10:22:50",
+        "last_seen": "2019-03-05 15:23:18",
+        "ip_address": "47.91.87.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "medbestsolution.su",
+        "count": "11037",
+        "first_seen": "2019-03-01 16:49:44",
+        "last_seen": "2019-03-05 10:21:26",
+        "ip_address": "47.254.27.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "medbestsolution.su",
+        "count": "11746",
+        "first_seen": "2019-03-05 15:23:52",
+        "last_seen": "2019-03-28 09:57:48",
+        "ip_address": "47.254.145.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "medbestsolution.su",
+        "count": "25",
+        "first_seen": "2020-03-03 21:35:38",
+        "last_seen": "2020-04-06 02:38:11",
+        "ip_address": "109.70.26.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "medbestsolution.su",
+        "count": "25",
+        "first_seen": "2020-03-03 21:35:38",
+        "last_seen": "2020-04-06 02:38:11",
+        "ip_address": "194.85.61.76",
+        "type": "IPv4"
+    }
+]

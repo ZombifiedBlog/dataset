@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "car-mastercard.ergyhjk.com",
+        "count": "722",
+        "first_seen": "2020-01-17 18:07:56",
+        "last_seen": "2020-05-24 00:07:38",
+        "ip_address": "104.31.80.161",
+        "type": "IPv4"
+    },
+    {
+        "domain": "car-mastercard.ergyhjk.com",
+        "count": "722",
+        "first_seen": "2020-01-17 18:07:56",
+        "last_seen": "2020-05-24 00:07:38",
+        "ip_address": "104.31.81.161",
+        "type": "IPv4"
+    },
+    {
+        "domain": "car-mastercard.ergyhjk.com",
+        "count": "27",
+        "first_seen": "2020-05-28 05:26:10",
+        "last_seen": "2020-09-14 02:59:00",
+        "ip_address": "104.31.80.161",
+        "type": "IPv4"
+    },
+    {
+        "domain": "car-mastercard.ergyhjk.com",
+        "count": "27",
+        "first_seen": "2020-05-28 05:26:10",
+        "last_seen": "2020-09-14 02:59:00",
+        "ip_address": "104.31.81.161",
+        "type": "IPv4"
+    },
+    {
+        "domain": "car-mastercard.ergyhjk.com",
+        "count": "27",
+        "first_seen": "2020-05-28 05:26:10",
+        "last_seen": "2020-09-14 02:59:00",
+        "ip_address": "172.67.149.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "car-mastercard.ergyhjk.com",
+        "count": "26",
+        "first_seen": "2020-05-28 05:26:10",
+        "last_seen": "2020-09-14 02:59:00",
+        "ip_address": "2606:4700:3034::ac43:95a8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "car-mastercard.ergyhjk.com",
+        "count": "26",
+        "first_seen": "2020-05-28 05:26:10",
+        "last_seen": "2020-09-14 02:59:00",
+        "ip_address": "2606:4700:3035::681f:50a1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "car-mastercard.ergyhjk.com",
+        "count": "26",
+        "first_seen": "2020-05-28 05:26:10",
+        "last_seen": "2020-09-14 02:59:00",
+        "ip_address": "2606:4700:3037::681f:51a1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "car-mastercard.ergyhjk.com",
+        "count": "474",
+        "first_seen": "2020-01-17 18:07:56",
+        "last_seen": "2020-05-24 00:07:38",
+        "ip_address": "2606:4700:3035::681f:50a1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "car-mastercard.ergyhjk.com",
+        "count": "474",
+        "first_seen": "2020-01-17 18:07:56",
+        "last_seen": "2020-05-24 00:07:38",
+        "ip_address": "2606:4700:3037::681f:51a1",
+        "type": "IPv6"
+    }
+]

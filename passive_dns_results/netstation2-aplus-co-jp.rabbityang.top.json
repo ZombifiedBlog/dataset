@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "netstation2-aplus-co-jp.rabbityang.top",
+        "count": "92",
+        "first_seen": "2021-12-03 14:02:05",
+        "last_seen": "2021-12-05 04:32:40",
+        "ip_address": "104.21.71.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.rabbityang.top",
+        "count": "92",
+        "first_seen": "2021-12-03 14:02:05",
+        "last_seen": "2021-12-05 04:32:40",
+        "ip_address": "172.67.143.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.rabbityang.top",
+        "count": "10",
+        "first_seen": "2021-12-03 14:12:13",
+        "last_seen": "2021-12-03 19:07:45",
+        "ip_address": "2606:4700:3036::6815:4735",
+        "type": "IPv6"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.rabbityang.top",
+        "count": "10",
+        "first_seen": "2021-12-03 14:12:13",
+        "last_seen": "2021-12-03 19:07:45",
+        "ip_address": "2606:4700:3036::ac43:8f6f",
+        "type": "IPv6"
+    }
+]

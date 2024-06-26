@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www-cr-mufg-jp.lgoo666.com",
+        "count": "117",
+        "first_seen": "2022-03-31 13:59:22",
+        "last_seen": "2022-04-01 10:57:18",
+        "ip_address": "104.21.78.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.lgoo666.com",
+        "count": "117",
+        "first_seen": "2022-03-31 13:59:22",
+        "last_seen": "2022-04-01 10:57:18",
+        "ip_address": "172.67.137.135",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.lgoo666.com",
+        "count": "19",
+        "first_seen": "2022-03-31 13:59:23",
+        "last_seen": "2022-03-31 19:43:05",
+        "ip_address": "2606:4700:3033::ac43:8987",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-cr-mufg-jp.lgoo666.com",
+        "count": "19",
+        "first_seen": "2022-03-31 13:59:23",
+        "last_seen": "2022-03-31 19:43:05",
+        "ip_address": "2606:4700:3036::6815:4ed4",
+        "type": "IPv6"
+    }
+]

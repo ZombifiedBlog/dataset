@@ -1,0 +1,410 @@
+[
+    {
+        "domain": "springclub.com.tw",
+        "count": "124",
+        "first_seen": "2023-01-15 01:14:30",
+        "last_seen": "2023-03-02 07:46:46",
+        "ip_address": "104.21.22.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "124",
+        "first_seen": "2023-01-15 01:14:30",
+        "last_seen": "2023-03-02 07:46:46",
+        "ip_address": "172.67.202.161",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "338",
+        "first_seen": "2018-11-25 07:38:42",
+        "last_seen": "2019-04-09 15:42:18",
+        "ip_address": "104.24.122.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "338",
+        "first_seen": "2018-11-25 07:38:42",
+        "last_seen": "2019-04-09 15:42:18",
+        "ip_address": "104.24.123.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "758",
+        "first_seen": "2019-04-10 04:11:05",
+        "last_seen": "2020-01-20 19:02:35",
+        "ip_address": "104.25.158.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "758",
+        "first_seen": "2019-04-10 04:11:05",
+        "last_seen": "2020-01-20 19:02:35",
+        "ip_address": "104.25.159.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "413",
+        "first_seen": "2018-08-10 08:12:47",
+        "last_seen": "2018-11-24 18:09:01",
+        "ip_address": "104.25.238.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "413",
+        "first_seen": "2018-08-10 08:12:47",
+        "last_seen": "2018-11-24 18:09:01",
+        "ip_address": "104.25.239.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "84",
+        "first_seen": "2023-03-13 16:53:09",
+        "last_seen": "2024-01-11 13:50:05",
+        "ip_address": "104.26.6.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "84",
+        "first_seen": "2023-03-13 16:53:09",
+        "last_seen": "2024-01-11 13:50:05",
+        "ip_address": "104.26.7.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "84",
+        "first_seen": "2023-03-13 16:53:09",
+        "last_seen": "2024-01-11 13:50:05",
+        "ip_address": "172.67.74.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "421",
+        "first_seen": "2020-01-21 04:09:36",
+        "last_seen": "2020-06-01 17:44:46",
+        "ip_address": "104.26.14.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "421",
+        "first_seen": "2020-01-21 04:09:36",
+        "last_seen": "2020-06-01 17:44:46",
+        "ip_address": "104.26.15.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "1384",
+        "first_seen": "2020-06-02 12:53:18",
+        "last_seen": "2023-01-12 16:57:30",
+        "ip_address": "104.26.14.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "1384",
+        "first_seen": "2020-06-02 12:53:18",
+        "last_seen": "2023-01-12 16:57:30",
+        "ip_address": "104.26.15.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "1384",
+        "first_seen": "2020-06-02 12:53:18",
+        "last_seen": "2023-01-12 16:57:30",
+        "ip_address": "172.67.68.156",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "35",
+        "first_seen": "2018-08-07 08:33:16",
+        "last_seen": "2018-08-10 03:08:29",
+        "ip_address": "104.31.78.178",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "35",
+        "first_seen": "2018-08-07 08:33:16",
+        "last_seen": "2018-08-10 03:08:29",
+        "ip_address": "104.31.79.178",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "62",
+        "first_seen": "2022-04-01 23:57:02",
+        "last_seen": "2022-05-03 04:29:16",
+        "ip_address": "188.114.98.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "54",
+        "first_seen": "2022-05-04 03:21:48",
+        "last_seen": "2022-05-25 04:37:46",
+        "ip_address": "188.114.98.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "51",
+        "first_seen": "2022-05-27 05:49:04",
+        "last_seen": "2022-06-27 05:27:02",
+        "ip_address": "188.114.98.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "43",
+        "first_seen": "2022-07-27 23:52:38",
+        "last_seen": "2022-08-17 05:42:29",
+        "ip_address": "188.114.98.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "43",
+        "first_seen": "2022-07-27 23:52:38",
+        "last_seen": "2022-08-17 05:42:29",
+        "ip_address": "188.114.99.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "105",
+        "first_seen": "2022-08-18 04:23:52",
+        "last_seen": "2022-10-11 06:54:23",
+        "ip_address": "188.114.98.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "105",
+        "first_seen": "2022-08-18 04:23:52",
+        "last_seen": "2022-10-11 06:54:23",
+        "ip_address": "188.114.99.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "480",
+        "first_seen": "2022-10-12 09:37:18",
+        "last_seen": "2023-11-22 04:03:10",
+        "ip_address": "188.114.98.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "480",
+        "first_seen": "2022-10-12 09:37:18",
+        "last_seen": "2023-11-22 04:03:10",
+        "ip_address": "188.114.99.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "474",
+        "first_seen": "2023-03-12 04:55:22",
+        "last_seen": "2024-01-18 06:21:37",
+        "ip_address": "188.114.98.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "474",
+        "first_seen": "2023-03-12 04:55:22",
+        "last_seen": "2024-01-18 06:21:37",
+        "ip_address": "188.114.99.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "10",
+        "first_seen": "2023-05-29 07:28:39",
+        "last_seen": "2023-10-06 07:53:32",
+        "ip_address": "188.114.98.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "10",
+        "first_seen": "2023-05-29 07:28:39",
+        "last_seen": "2023-10-06 07:53:32",
+        "ip_address": "188.114.99.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "48",
+        "first_seen": "2022-03-11 05:18:27",
+        "last_seen": "2022-03-31 11:19:01",
+        "ip_address": "188.114.99.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "69",
+        "first_seen": "2022-06-28 06:00:08",
+        "last_seen": "2022-07-27 18:41:27",
+        "ip_address": "188.114.99.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "4",
+        "first_seen": "2010-09-05 07:59:05",
+        "last_seen": "2010-09-16 08:47:17",
+        "ip_address": "210.64.12.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "14",
+        "first_seen": "2013-04-07 16:29:35",
+        "last_seen": "2014-06-22 16:32:29",
+        "ip_address": "210.64.124.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "3316",
+        "first_seen": "2014-07-30 22:40:00",
+        "last_seen": "2018-08-06 09:23:33",
+        "ip_address": "211.72.249.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "72",
+        "first_seen": "2018-08-10 08:12:47",
+        "last_seen": "2018-09-26 20:26:33",
+        "ip_address": "2400:cb00:2048:1::6819:ee23",
+        "type": "IPv6"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "72",
+        "first_seen": "2018-08-10 08:12:47",
+        "last_seen": "2018-09-26 20:26:33",
+        "ip_address": "2400:cb00:2048:1::6819:ef23",
+        "type": "IPv6"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "21",
+        "first_seen": "2018-08-07 08:33:17",
+        "last_seen": "2018-08-10 03:08:31",
+        "ip_address": "2400:cb00:2048:1::681f:4eb2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "21",
+        "first_seen": "2018-08-07 08:33:17",
+        "last_seen": "2018-08-10 03:08:31",
+        "ip_address": "2400:cb00:2048:1::681f:4fb2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "95",
+        "first_seen": "2019-04-11 12:58:12",
+        "last_seen": "2020-01-19 19:46:55",
+        "ip_address": "2606:4700:20::6819:9e11",
+        "type": "IPv6"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "95",
+        "first_seen": "2019-04-11 12:58:12",
+        "last_seen": "2020-01-19 19:46:55",
+        "ip_address": "2606:4700:20::6819:9f11",
+        "type": "IPv6"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "94",
+        "first_seen": "2018-10-03 17:45:18",
+        "last_seen": "2018-11-25 06:17:44",
+        "ip_address": "2606:4700:20::6819:ee23",
+        "type": "IPv6"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "94",
+        "first_seen": "2018-10-03 17:45:18",
+        "last_seen": "2018-11-25 06:17:44",
+        "ip_address": "2606:4700:20::6819:ef23",
+        "type": "IPv6"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "80",
+        "first_seen": "2020-01-21 04:09:33",
+        "last_seen": "2020-05-20 08:36:23",
+        "ip_address": "2606:4700:20::681a:e28",
+        "type": "IPv6"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "80",
+        "first_seen": "2020-01-21 04:09:33",
+        "last_seen": "2020-05-20 08:36:23",
+        "ip_address": "2606:4700:20::681a:f28",
+        "type": "IPv6"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "47",
+        "first_seen": "2020-06-10 02:20:14",
+        "last_seen": "2020-12-09 06:44:55",
+        "ip_address": "2606:4700:20::681a:e28",
+        "type": "IPv6"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "47",
+        "first_seen": "2020-06-10 02:20:14",
+        "last_seen": "2020-12-09 06:44:55",
+        "ip_address": "2606:4700:20::681a:f28",
+        "type": "IPv6"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "47",
+        "first_seen": "2020-06-10 02:20:14",
+        "last_seen": "2020-12-09 06:44:55",
+        "ip_address": "2606:4700:20::ac43:449c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "17",
+        "first_seen": "2018-11-25 07:38:42",
+        "last_seen": "2019-03-19 17:43:42",
+        "ip_address": "2606:4700:30::6818:7aef",
+        "type": "IPv6"
+    },
+    {
+        "domain": "springclub.com.tw",
+        "count": "17",
+        "first_seen": "2018-11-25 07:38:42",
+        "last_seen": "2019-03-19 17:43:42",
+        "ip_address": "2606:4700:30::6818:7bef",
+        "type": "IPv6"
+    }
+]

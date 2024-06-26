@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "my-ts3card-com.xnruizhe.com",
+        "count": "6",
+        "first_seen": "2022-07-30 07:30:13",
+        "last_seen": "2022-08-13 19:04:50",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.xnruizhe.com",
+        "count": "844",
+        "first_seen": "2022-06-08 14:01:17",
+        "last_seen": "2022-07-07 02:43:45",
+        "ip_address": "104.21.80.181",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.xnruizhe.com",
+        "count": "844",
+        "first_seen": "2022-06-08 14:01:17",
+        "last_seen": "2022-07-07 02:43:45",
+        "ip_address": "172.67.153.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.xnruizhe.com",
+        "count": "14",
+        "first_seen": "2022-06-08 14:28:19",
+        "last_seen": "2022-07-01 08:17:53",
+        "ip_address": "2606:4700:3033::ac43:991a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-ts3card-com.xnruizhe.com",
+        "count": "14",
+        "first_seen": "2022-06-08 14:28:19",
+        "last_seen": "2022-07-01 08:17:53",
+        "ip_address": "2606:4700:3037::6815:50b5",
+        "type": "IPv6"
+    }
+]

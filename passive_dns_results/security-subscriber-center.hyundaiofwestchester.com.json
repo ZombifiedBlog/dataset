@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "security-subscriber-center.hyundaiofwestchester.com",
+        "count": "5",
+        "first_seen": "2023-10-29 02:17:53",
+        "last_seen": "2023-11-12 00:43:13",
+        "ip_address": "103.224.212.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.hyundaiofwestchester.com",
+        "count": "24",
+        "first_seen": "2023-02-25 08:21:39",
+        "last_seen": "2023-09-29 10:39:32",
+        "ip_address": "103.224.212.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.hyundaiofwestchester.com",
+        "count": "4984",
+        "first_seen": "2022-10-01 23:44:17",
+        "last_seen": "2022-12-31 06:04:51",
+        "ip_address": "104.21.66.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.hyundaiofwestchester.com",
+        "count": "4984",
+        "first_seen": "2022-10-01 23:44:17",
+        "last_seen": "2022-12-31 06:04:51",
+        "ip_address": "172.67.158.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.hyundaiofwestchester.com",
+        "count": "1",
+        "first_seen": "2023-02-25 08:21:39",
+        "last_seen": "2023-02-25 08:21:39",
+        "ip_address": "103.224.212.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.hyundaiofwestchester.com",
+        "count": "196",
+        "first_seen": "2022-10-08 23:41:58",
+        "last_seen": "2022-12-31 05:51:19",
+        "ip_address": "2606:4700:3035::6815:4259",
+        "type": "IPv6"
+    },
+    {
+        "domain": "security-subscriber-center.hyundaiofwestchester.com",
+        "count": "196",
+        "first_seen": "2022-10-08 23:41:58",
+        "last_seen": "2022-12-31 05:51:19",
+        "ip_address": "2606:4700:3036::ac43:9e04",
+        "type": "IPv6"
+    }
+]

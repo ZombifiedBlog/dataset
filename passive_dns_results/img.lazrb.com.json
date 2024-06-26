@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "img.lazrb.com",
+        "count": "754",
+        "first_seen": "2020-05-10 12:45:39",
+        "last_seen": "2020-05-26 16:50:41",
+        "ip_address": "104.28.12.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lazrb.com",
+        "count": "754",
+        "first_seen": "2020-05-10 12:45:39",
+        "last_seen": "2020-05-26 16:50:41",
+        "ip_address": "104.28.13.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lazrb.com",
+        "count": "406",
+        "first_seen": "2020-05-26 20:00:40",
+        "last_seen": "2020-12-13 23:41:06",
+        "ip_address": "104.28.12.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lazrb.com",
+        "count": "406",
+        "first_seen": "2020-05-26 20:00:40",
+        "last_seen": "2020-12-13 23:41:06",
+        "ip_address": "104.28.13.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lazrb.com",
+        "count": "406",
+        "first_seen": "2020-05-26 20:00:40",
+        "last_seen": "2020-12-13 23:41:06",
+        "ip_address": "172.67.167.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lazrb.com",
+        "count": "143",
+        "first_seen": "2020-05-10 12:45:39",
+        "last_seen": "2020-05-26 16:28:12",
+        "ip_address": "2606:4700:3035::681c:cd9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lazrb.com",
+        "count": "143",
+        "first_seen": "2020-05-10 12:45:39",
+        "last_seen": "2020-05-26 16:28:12",
+        "ip_address": "2606:4700:3035::681c:dd9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lazrb.com",
+        "count": "62",
+        "first_seen": "2020-05-27 16:44:23",
+        "last_seen": "2020-12-09 17:36:35",
+        "ip_address": "2606:4700:3035::681c:cd9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lazrb.com",
+        "count": "62",
+        "first_seen": "2020-05-27 16:44:23",
+        "last_seen": "2020-12-09 17:36:35",
+        "ip_address": "2606:4700:3035::681c:dd9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lazrb.com",
+        "count": "62",
+        "first_seen": "2020-05-27 16:44:23",
+        "last_seen": "2020-12-09 17:36:35",
+        "ip_address": "2606:4700:3037::ac43:a747",
+        "type": "IPv6"
+    }
+]

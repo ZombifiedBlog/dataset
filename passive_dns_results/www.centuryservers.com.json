@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.centuryservers.com",
+        "count": "2",
+        "first_seen": "2020-02-12 15:44:24",
+        "last_seen": "2020-02-17 00:56:12",
+        "ip_address": "104.24.104.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.centuryservers.com",
+        "count": "2",
+        "first_seen": "2020-02-12 15:44:24",
+        "last_seen": "2020-02-17 00:56:12",
+        "ip_address": "104.24.105.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.centuryservers.com",
+        "count": "1083",
+        "first_seen": "2020-04-06 12:12:33",
+        "last_seen": "2020-04-26 04:08:46",
+        "ip_address": "104.27.148.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.centuryservers.com",
+        "count": "1083",
+        "first_seen": "2020-04-06 12:12:33",
+        "last_seen": "2020-04-26 04:08:46",
+        "ip_address": "104.27.149.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.centuryservers.com",
+        "count": "443",
+        "first_seen": "2020-04-06 12:13:11",
+        "last_seen": "2020-04-26 03:56:38",
+        "ip_address": "2606:4700:3034::681b:94da",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.centuryservers.com",
+        "count": "443",
+        "first_seen": "2020-04-06 12:13:11",
+        "last_seen": "2020-04-26 03:56:38",
+        "ip_address": "2606:4700:3034::681b:95da",
+        "type": "IPv6"
+    }
+]

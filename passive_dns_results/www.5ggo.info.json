@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.5ggo.info",
+        "count": "402",
+        "first_seen": "2020-06-27 03:02:07",
+        "last_seen": "2020-12-23 23:13:45",
+        "ip_address": "104.18.38.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.5ggo.info",
+        "count": "402",
+        "first_seen": "2020-06-27 03:02:07",
+        "last_seen": "2020-12-23 23:13:45",
+        "ip_address": "104.18.39.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.5ggo.info",
+        "count": "402",
+        "first_seen": "2020-06-27 03:02:07",
+        "last_seen": "2020-12-23 23:13:45",
+        "ip_address": "172.67.142.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.5ggo.info",
+        "count": "136",
+        "first_seen": "2021-05-26 19:35:47",
+        "last_seen": "2024-01-13 01:00:05",
+        "ip_address": "104.21.39.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.5ggo.info",
+        "count": "136",
+        "first_seen": "2021-05-26 19:35:47",
+        "last_seen": "2024-01-13 01:00:05",
+        "ip_address": "172.67.142.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.5ggo.info",
+        "count": "1",
+        "first_seen": "2020-06-26 14:04:10",
+        "last_seen": "2020-06-26 14:04:10",
+        "ip_address": "2606:4700:3031::6812:274e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.5ggo.info",
+        "count": "1",
+        "first_seen": "2020-06-26 14:04:10",
+        "last_seen": "2020-06-26 14:04:10",
+        "ip_address": "2606:4700:3031::ac43:8ed2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.5ggo.info",
+        "count": "1",
+        "first_seen": "2020-06-26 14:04:10",
+        "last_seen": "2020-06-26 14:04:10",
+        "ip_address": "2606:4700:3036::6812:264e",
+        "type": "IPv6"
+    }
+]

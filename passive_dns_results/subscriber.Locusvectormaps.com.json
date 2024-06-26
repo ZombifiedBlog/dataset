@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscriber.Locusvectormaps.com",
+        "count": "1",
+        "first_seen": "2023-02-04 05:34:34",
+        "last_seen": "2023-02-04 05:34:34",
+        "ip_address": "103.120.80.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.Locusvectormaps.com",
+        "count": "1",
+        "first_seen": "2023-02-04 05:34:34",
+        "last_seen": "2023-02-04 05:34:34",
+        "ip_address": "103.139.0.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.Locusvectormaps.com",
+        "count": "2773",
+        "first_seen": "2022-11-19 15:52:49",
+        "last_seen": "2023-01-23 11:13:54",
+        "ip_address": "104.21.26.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.Locusvectormaps.com",
+        "count": "2773",
+        "first_seen": "2022-11-19 15:52:49",
+        "last_seen": "2023-01-23 11:13:54",
+        "ip_address": "172.67.135.184",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.Locusvectormaps.com",
+        "count": "6",
+        "first_seen": "2023-03-04 09:26:46",
+        "last_seen": "2023-07-17 20:56:38",
+        "ip_address": "107.164.113.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.Locusvectormaps.com",
+        "count": "167",
+        "first_seen": "2022-11-19 16:52:41",
+        "last_seen": "2023-01-18 16:21:53",
+        "ip_address": "2606:4700:3034::6815:1a54",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.Locusvectormaps.com",
+        "count": "167",
+        "first_seen": "2022-11-19 16:52:41",
+        "last_seen": "2023-01-18 16:21:53",
+        "ip_address": "2606:4700:3037::ac43:87b8",
+        "type": "IPv6"
+    }
+]

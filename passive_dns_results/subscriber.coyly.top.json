@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.coyly.top",
+        "count": "4",
+        "first_seen": "2023-11-16 22:38:54",
+        "last_seen": "2023-11-24 03:14:57",
+        "ip_address": "49.51.79.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.coyly.top",
+        "count": "458",
+        "first_seen": "2023-06-15 13:21:27",
+        "last_seen": "2023-07-30 02:17:33",
+        "ip_address": "104.21.71.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.coyly.top",
+        "count": "458",
+        "first_seen": "2023-06-15 13:21:27",
+        "last_seen": "2023-07-30 02:17:33",
+        "ip_address": "172.67.145.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.coyly.top",
+        "count": "22",
+        "first_seen": "2023-06-17 14:39:41",
+        "last_seen": "2023-07-30 02:17:33",
+        "ip_address": "2606:4700:3035::6815:477b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.coyly.top",
+        "count": "22",
+        "first_seen": "2023-06-17 14:39:41",
+        "last_seen": "2023-07-30 02:17:33",
+        "ip_address": "2606:4700:3035::ac43:9127",
+        "type": "IPv6"
+    }
+]

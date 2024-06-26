@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "l.lmksb.com",
+        "count": "152",
+        "first_seen": "2022-02-26 09:23:16",
+        "last_seen": "2022-10-18 01:25:15",
+        "ip_address": "104.21.79.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "l.lmksb.com",
+        "count": "152",
+        "first_seen": "2022-02-26 09:23:16",
+        "last_seen": "2022-10-18 01:25:15",
+        "ip_address": "172.67.142.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "l.lmksb.com",
+        "count": "1",
+        "first_seen": "2022-03-13 23:34:08",
+        "last_seen": "2022-03-13 23:34:08",
+        "ip_address": "188.114.96.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "l.lmksb.com",
+        "count": "45",
+        "first_seen": "2022-02-26 19:04:35",
+        "last_seen": "2022-05-03 20:42:34",
+        "ip_address": "2606:4700:3030::ac43:8e8a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "l.lmksb.com",
+        "count": "45",
+        "first_seen": "2022-02-26 19:04:35",
+        "last_seen": "2022-05-03 20:42:34",
+        "ip_address": "2606:4700:3031::6815:4f3c",
+        "type": "IPv6"
+    }
+]

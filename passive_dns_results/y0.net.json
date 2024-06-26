@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "y0.net",
+        "count": "9",
+        "first_seen": "2013-03-11 01:52:17",
+        "last_seen": "2013-04-10 12:29:14",
+        "ip_address": "202.124.214.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "y0.net",
+        "count": "35",
+        "first_seen": "2011-05-04 00:41:48",
+        "last_seen": "2012-06-09 15:45:39",
+        "ip_address": "202.124.214.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "y0.net",
+        "count": "11",
+        "first_seen": "2010-08-11 20:31:22",
+        "last_seen": "2011-03-30 11:15:02",
+        "ip_address": "202.124.214.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "y0.net",
+        "count": "2",
+        "first_seen": "2013-06-10 07:53:22",
+        "last_seen": "2013-11-02 15:42:41",
+        "ip_address": "202.124.214.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "y0.net",
+        "count": "407",
+        "first_seen": "2023-05-19 11:43:00",
+        "last_seen": "2024-01-18 02:54:47",
+        "ip_address": "202.124.214.202",
+        "type": "IPv4"
+    },
+    {
+        "domain": "y0.net",
+        "count": "6",
+        "first_seen": "2011-08-13 05:06:42",
+        "last_seen": "2012-06-05 17:33:57",
+        "ip_address": "2001:380:5803:1:224:1dff:fe63:73c0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "y0.net",
+        "count": "154",
+        "first_seen": "2023-05-19 11:43:01",
+        "last_seen": "2024-01-18 02:54:47",
+        "ip_address": "2001:f58:2003:1::a",
+        "type": "IPv6"
+    }
+]

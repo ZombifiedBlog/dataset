@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "oxymorbond.com",
+        "count": "7",
+        "first_seen": "2020-12-18 02:34:41",
+        "last_seen": "2021-01-18 11:31:42",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "oxymorbond.com",
+        "count": "68",
+        "first_seen": "2020-07-10 10:53:13",
+        "last_seen": "2020-12-08 15:42:52",
+        "ip_address": "34.102.136.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "oxymorbond.com",
+        "count": "115",
+        "first_seen": "2019-02-25 15:27:06",
+        "last_seen": "2019-02-26 05:42:00",
+        "ip_address": "47.74.23.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "oxymorbond.com",
+        "count": "41539",
+        "first_seen": "2014-10-24 04:51:29",
+        "last_seen": "2020-07-05 10:46:47",
+        "ip_address": "184.168.221.37",
+        "type": "IPv4"
+    }
+]

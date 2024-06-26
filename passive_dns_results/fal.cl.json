@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "fal.cl",
+        "count": "52",
+        "first_seen": "2015-04-23 06:14:28",
+        "last_seen": "2015-06-27 11:59:56",
+        "ip_address": "50.87.205.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fal.cl",
+        "count": "1675",
+        "first_seen": "2022-07-30 15:41:15",
+        "last_seen": "2024-01-18 03:31:28",
+        "ip_address": "186.64.116.95",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fal.cl",
+        "count": "649",
+        "first_seen": "2021-01-20 23:10:19",
+        "last_seen": "2022-07-25 16:04:45",
+        "ip_address": "186.64.116.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fal.cl",
+        "count": "9",
+        "first_seen": "2013-03-20 16:32:07",
+        "last_seen": "2013-08-23 08:29:13",
+        "ip_address": "190.107.177.235",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fal.cl",
+        "count": "130",
+        "first_seen": "2015-08-18 18:51:07",
+        "last_seen": "2016-01-26 06:30:02",
+        "ip_address": "200.29.131.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fal.cl",
+        "count": "4036",
+        "first_seen": "2015-05-07 23:00:10",
+        "last_seen": "2021-01-20 15:34:55",
+        "ip_address": "209.99.16.58",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "amaeor.xkmfjts.com",
+        "count": "97",
+        "first_seen": "2020-05-12 13:04:19",
+        "last_seen": "2020-05-15 16:59:29",
+        "ip_address": "104.31.76.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amaeor.xkmfjts.com",
+        "count": "97",
+        "first_seen": "2020-05-12 13:04:19",
+        "last_seen": "2020-05-15 16:59:29",
+        "ip_address": "104.31.77.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amaeor.xkmfjts.com",
+        "count": "74",
+        "first_seen": "2020-05-12 13:04:19",
+        "last_seen": "2020-05-15 16:59:29",
+        "ip_address": "2606:4700:3031::681f:4c0a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amaeor.xkmfjts.com",
+        "count": "74",
+        "first_seen": "2020-05-12 13:04:19",
+        "last_seen": "2020-05-15 16:59:29",
+        "ip_address": "2606:4700:3034::681f:4d0a",
+        "type": "IPv6"
+    }
+]

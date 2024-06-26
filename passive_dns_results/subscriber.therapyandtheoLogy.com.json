@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.therapyandtheoLogy.com",
+        "count": "6",
+        "first_seen": "2022-09-10 19:15:19",
+        "last_seen": "2022-09-12 13:58:06",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.therapyandtheoLogy.com",
+        "count": "350",
+        "first_seen": "2022-08-20 11:40:25",
+        "last_seen": "2022-08-31 05:40:25",
+        "ip_address": "104.21.86.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.therapyandtheoLogy.com",
+        "count": "350",
+        "first_seen": "2022-08-20 11:40:25",
+        "last_seen": "2022-08-31 05:40:25",
+        "ip_address": "172.67.219.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.therapyandtheoLogy.com",
+        "count": "6",
+        "first_seen": "2022-08-23 04:39:49",
+        "last_seen": "2022-08-30 13:52:57",
+        "ip_address": "2606:4700:3034::6815:5675",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.therapyandtheoLogy.com",
+        "count": "6",
+        "first_seen": "2022-08-23 04:39:49",
+        "last_seen": "2022-08-30 13:52:57",
+        "ip_address": "2606:4700:3035::ac43:db07",
+        "type": "IPv6"
+    }
+]

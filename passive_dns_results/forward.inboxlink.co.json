@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "forward.inboxlink.co",
+        "count": "30",
+        "first_seen": "2023-10-09 23:19:31",
+        "last_seen": "2024-01-08 20:28:30",
+        "ip_address": "103.224.212.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "forward.inboxlink.co",
+        "count": "2878",
+        "first_seen": "2022-12-04 07:33:42",
+        "last_seen": "2023-06-19 16:21:15",
+        "ip_address": "104.21.25.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "forward.inboxlink.co",
+        "count": "2878",
+        "first_seen": "2022-12-04 07:33:42",
+        "last_seen": "2023-06-19 16:21:15",
+        "ip_address": "172.67.134.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "forward.inboxlink.co",
+        "count": "521",
+        "first_seen": "2022-12-04 07:34:02",
+        "last_seen": "2023-06-24 15:32:28",
+        "ip_address": "2606:4700:3032::ac43:86f0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "forward.inboxlink.co",
+        "count": "521",
+        "first_seen": "2022-12-04 07:34:02",
+        "last_seen": "2023-06-24 15:32:28",
+        "ip_address": "2606:4700:3035::6815:19f7",
+        "type": "IPv6"
+    }
+]

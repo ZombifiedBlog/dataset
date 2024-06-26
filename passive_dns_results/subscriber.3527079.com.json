@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.3527079.com",
+        "count": "29",
+        "first_seen": "2021-09-14 15:55:23",
+        "last_seen": "2021-10-14 06:39:15",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.3527079.com",
+        "count": "9738",
+        "first_seen": "2021-04-09 01:13:42",
+        "last_seen": "2021-09-01 07:12:11",
+        "ip_address": "104.21.75.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.3527079.com",
+        "count": "9738",
+        "first_seen": "2021-04-09 01:13:42",
+        "last_seen": "2021-09-01 07:12:11",
+        "ip_address": "172.67.167.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.3527079.com",
+        "count": "3785",
+        "first_seen": "2021-04-09 01:13:42",
+        "last_seen": "2021-09-07 05:13:30",
+        "ip_address": "2606:4700:3034::6815:4b1d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.3527079.com",
+        "count": "3785",
+        "first_seen": "2021-04-09 01:13:42",
+        "last_seen": "2021-09-07 05:13:30",
+        "ip_address": "2606:4700:3037::ac43:a702",
+        "type": "IPv6"
+    }
+]

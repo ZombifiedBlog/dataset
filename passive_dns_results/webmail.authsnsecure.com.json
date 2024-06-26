@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "webmail.authsnsecure.com",
+        "count": "1",
+        "first_seen": "2021-11-04 04:41:25",
+        "last_seen": "2021-11-04 04:41:25",
+        "ip_address": "99.83.154.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmail.authsnsecure.com",
+        "count": "95",
+        "first_seen": "2020-11-02 03:04:13",
+        "last_seen": "2021-10-24 00:35:43",
+        "ip_address": "162.0.232.164",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "domain": "www.serenetulbafiz.one",
+        "count": "608",
+        "first_seen": "2023-08-01 19:43:49",
+        "last_seen": "2024-01-13 14:28:16",
+        "ip_address": "104.21.32.186",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.serenetulbafiz.one",
+        "count": "608",
+        "first_seen": "2023-08-01 19:43:49",
+        "last_seen": "2024-01-13 14:28:16",
+        "ip_address": "172.67.153.176",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.serenetulbafiz.one",
+        "count": "28",
+        "first_seen": "2023-08-01 19:44:17",
+        "last_seen": "2023-08-21 10:06:31",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.serenetulbafiz.one",
+        "count": "28",
+        "first_seen": "2023-08-01 19:44:17",
+        "last_seen": "2023-08-21 10:06:31",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.serenetulbafiz.one",
+        "count": "1",
+        "first_seen": "2023-08-01 19:45:57",
+        "last_seen": "2023-08-01 19:45:57",
+        "ip_address": "188.114.96.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.serenetulbafiz.one",
+        "count": "1",
+        "first_seen": "2023-08-01 19:45:57",
+        "last_seen": "2023-08-01 19:45:57",
+        "ip_address": "188.114.97.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.serenetulbafiz.one",
+        "count": "2",
+        "first_seen": "2023-08-01 19:44:07",
+        "last_seen": "2023-08-01 19:44:07",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.serenetulbafiz.one",
+        "count": "2",
+        "first_seen": "2023-08-01 19:44:07",
+        "last_seen": "2023-08-01 19:44:07",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.serenetulbafiz.one",
+        "count": "58",
+        "first_seen": "2023-08-01 19:44:37",
+        "last_seen": "2023-11-06 03:17:47",
+        "ip_address": "2606:4700:3031::ac43:99b0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.serenetulbafiz.one",
+        "count": "58",
+        "first_seen": "2023-08-01 19:44:37",
+        "last_seen": "2023-11-06 03:17:47",
+        "ip_address": "2606:4700:3033::6815:20ba",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.serenetulbafiz.one",
+        "count": "3",
+        "first_seen": "2023-08-01 22:20:15",
+        "last_seen": "2023-08-02 08:19:50",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.serenetulbafiz.one",
+        "count": "3",
+        "first_seen": "2023-08-01 22:20:15",
+        "last_seen": "2023-08-02 08:19:50",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.serenetulbafiz.one",
+        "count": "2",
+        "first_seen": "2023-08-01 19:44:07",
+        "last_seen": "2023-08-01 19:44:07",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.serenetulbafiz.one",
+        "count": "2",
+        "first_seen": "2023-08-01 19:44:07",
+        "last_seen": "2023-08-01 19:44:07",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

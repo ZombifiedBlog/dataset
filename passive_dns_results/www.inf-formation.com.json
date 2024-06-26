@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "www.inf-formation.com",
+        "count": "2",
+        "first_seen": "2023-06-18 02:37:28",
+        "last_seen": "2023-06-18 02:37:28",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.inf-formation.com",
+        "count": "11",
+        "first_seen": "2020-05-16 12:12:29",
+        "last_seen": "2020-05-27 00:53:37",
+        "ip_address": "91.195.240.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.inf-formation.com",
+        "count": "165",
+        "first_seen": "2022-05-24 05:39:05",
+        "last_seen": "2023-07-02 10:32:23",
+        "ip_address": "103.224.182.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.inf-formation.com",
+        "count": "2",
+        "first_seen": "2021-07-20 04:16:34",
+        "last_seen": "2021-07-20 04:16:34",
+        "ip_address": "154.219.89.79",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.inf-formation.com",
+        "count": "1",
+        "first_seen": "2021-03-22 18:15:06",
+        "last_seen": "2021-03-22 18:15:06",
+        "ip_address": "156.237.199.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.inf-formation.com",
+        "count": "4",
+        "first_seen": "2022-06-23 03:03:52",
+        "last_seen": "2023-04-16 08:29:13",
+        "ip_address": "170.178.168.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.inf-formation.com",
+        "count": "1",
+        "first_seen": "2023-06-10 11:01:42",
+        "last_seen": "2023-06-10 11:01:42",
+        "ip_address": "170.178.183.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.inf-formation.com",
+        "count": "5",
+        "first_seen": "2023-06-10 11:01:05",
+        "last_seen": "2023-06-10 11:01:18",
+        "ip_address": "199.115.116.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.inf-formation.com",
+        "count": "4",
+        "first_seen": "2022-03-12 05:54:38",
+        "last_seen": "2022-03-12 08:25:14",
+        "ip_address": "216.118.225.202",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.inf-formation.com",
+        "count": "14",
+        "first_seen": "2018-04-28 10:13:18",
+        "last_seen": "2020-02-27 21:31:15",
+        "ip_address": "217.160.0.249",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.inf-formation.com",
+        "count": "4",
+        "first_seen": "2018-07-12 00:18:29",
+        "last_seen": "2018-09-07 03:01:45",
+        "ip_address": "2001:8d8:100f:f000::264",
+        "type": "IPv6"
+    }
+]

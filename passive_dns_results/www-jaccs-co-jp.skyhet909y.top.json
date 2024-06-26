@@ -1,0 +1,130 @@
+[
+    {
+        "domain": "www-jaccs-co-jp.skyhet909y.top",
+        "count": "6",
+        "first_seen": "2021-09-29 15:07:20",
+        "last_seen": "2021-09-29 17:04:41",
+        "ip_address": "104.21.2.178",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.skyhet909y.top",
+        "count": "6",
+        "first_seen": "2021-09-29 15:07:20",
+        "last_seen": "2021-09-29 17:04:41",
+        "ip_address": "172.67.129.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.skyhet909y.top",
+        "count": "142",
+        "first_seen": "2021-09-30 01:54:04",
+        "last_seen": "2021-10-13 05:11:26",
+        "ip_address": "104.21.79.91",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.skyhet909y.top",
+        "count": "142",
+        "first_seen": "2021-09-30 01:54:04",
+        "last_seen": "2021-10-13 05:11:26",
+        "ip_address": "172.67.143.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.skyhet909y.top",
+        "count": "23",
+        "first_seen": "2021-09-29 17:29:23",
+        "last_seen": "2021-09-29 23:30:17",
+        "ip_address": "172.64.100.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.skyhet909y.top",
+        "count": "23",
+        "first_seen": "2021-09-29 17:29:23",
+        "last_seen": "2021-09-29 23:30:17",
+        "ip_address": "172.64.101.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.skyhet909y.top",
+        "count": "2",
+        "first_seen": "2021-09-29 16:30:30",
+        "last_seen": "2021-09-29 16:37:38",
+        "ip_address": "172.64.196.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.skyhet909y.top",
+        "count": "2",
+        "first_seen": "2021-09-29 16:30:30",
+        "last_seen": "2021-09-29 16:37:38",
+        "ip_address": "172.64.197.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.skyhet909y.top",
+        "count": "4",
+        "first_seen": "2021-09-29 18:04:54",
+        "last_seen": "2021-09-29 21:55:44",
+        "ip_address": "2606:4700:e0::ac40:640d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.skyhet909y.top",
+        "count": "4",
+        "first_seen": "2021-09-29 18:04:54",
+        "last_seen": "2021-09-29 21:55:44",
+        "ip_address": "2606:4700:e0::ac40:650d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.skyhet909y.top",
+        "count": "1",
+        "first_seen": "2021-09-29 16:53:29",
+        "last_seen": "2021-09-29 16:53:29",
+        "ip_address": "2606:4700:e6::ac40:c412",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.skyhet909y.top",
+        "count": "1",
+        "first_seen": "2021-09-29 16:53:29",
+        "last_seen": "2021-09-29 16:53:29",
+        "ip_address": "2606:4700:e6::ac40:c512",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.skyhet909y.top",
+        "count": "10",
+        "first_seen": "2021-09-30 03:18:08",
+        "last_seen": "2021-10-13 05:11:26",
+        "ip_address": "2606:4700:3030::ac43:8f0c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.skyhet909y.top",
+        "count": "10",
+        "first_seen": "2021-09-30 03:18:08",
+        "last_seen": "2021-10-13 05:11:26",
+        "ip_address": "2606:4700:3034::6815:4f5b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.skyhet909y.top",
+        "count": "2",
+        "first_seen": "2021-09-29 15:47:51",
+        "last_seen": "2021-09-29 15:47:51",
+        "ip_address": "2606:4700:3033::ac43:8185",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.skyhet909y.top",
+        "count": "2",
+        "first_seen": "2021-09-29 15:47:51",
+        "last_seen": "2021-09-29 15:47:51",
+        "ip_address": "2606:4700:3037::6815:2b2",
+        "type": "IPv6"
+    }
+]

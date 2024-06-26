@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "ahfi.ht",
+        "count": "13",
+        "first_seen": "2021-07-12 08:06:35",
+        "last_seen": "2021-10-07 20:20:20",
+        "ip_address": "69.64.38.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ahfi.ht",
+        "count": "421",
+        "first_seen": "2021-01-21 22:49:37",
+        "last_seen": "2024-01-18 07:01:58",
+        "ip_address": "104.21.24.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ahfi.ht",
+        "count": "421",
+        "first_seen": "2021-01-21 22:49:37",
+        "last_seen": "2024-01-18 07:01:58",
+        "ip_address": "172.67.218.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ahfi.ht",
+        "count": "194",
+        "first_seen": "2020-06-17 05:17:08",
+        "last_seen": "2020-12-31 08:40:06",
+        "ip_address": "104.31.72.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ahfi.ht",
+        "count": "194",
+        "first_seen": "2020-06-17 05:17:08",
+        "last_seen": "2020-12-31 08:40:06",
+        "ip_address": "104.31.73.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ahfi.ht",
+        "count": "194",
+        "first_seen": "2020-06-17 05:17:08",
+        "last_seen": "2020-12-31 08:40:06",
+        "ip_address": "172.67.218.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ahfi.ht",
+        "count": "1",
+        "first_seen": "2021-10-25 13:18:43",
+        "last_seen": "2021-10-25 13:18:43",
+        "ip_address": "162.215.249.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ahfi.ht",
+        "count": "118",
+        "first_seen": "2021-10-09 08:06:46",
+        "last_seen": "2024-01-14 15:53:15",
+        "ip_address": "2606:4700:3033::ac43:da17",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ahfi.ht",
+        "count": "118",
+        "first_seen": "2021-10-09 08:06:46",
+        "last_seen": "2024-01-14 15:53:15",
+        "ip_address": "2606:4700:3035::6815:1857",
+        "type": "IPv6"
+    }
+]

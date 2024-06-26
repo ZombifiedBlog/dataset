@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "my.jcb.co.jp.gzjct.com",
+        "count": "6",
+        "first_seen": "2021-09-03 08:38:50",
+        "last_seen": "2021-09-14 17:30:36",
+        "ip_address": "107.149.28.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.jp.gzjct.com",
+        "count": "149",
+        "first_seen": "2020-11-12 16:06:19",
+        "last_seen": "2020-11-13 06:01:01",
+        "ip_address": "157.52.230.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.jp.gzjct.com",
+        "count": "133",
+        "first_seen": "2020-11-13 07:49:44",
+        "last_seen": "2020-11-23 14:19:59",
+        "ip_address": "194.36.191.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.jp.gzjct.com",
+        "count": "3",
+        "first_seen": "2021-01-02 18:19:40",
+        "last_seen": "2021-01-11 19:58:24",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.jp.gzjct.com",
+        "count": "1",
+        "first_seen": "2021-01-02 18:19:40",
+        "last_seen": "2021-01-02 18:19:40",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    }
+]

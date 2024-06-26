@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "maximiadis.gr",
+        "count": "3808",
+        "first_seen": "2017-08-28 02:08:05",
+        "last_seen": "2024-01-17 08:34:13",
+        "ip_address": "94.130.11.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "maximiadis.gr",
+        "count": "34",
+        "first_seen": "2015-08-03 21:10:14",
+        "last_seen": "2016-05-06 09:10:44",
+        "ip_address": "95.129.46.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "maximiadis.gr",
+        "count": "189",
+        "first_seen": "2016-06-18 19:08:15",
+        "last_seen": "2017-08-25 02:34:38",
+        "ip_address": "95.129.46.47",
+        "type": "IPv4"
+    },
+    {
+        "domain": "maximiadis.gr",
+        "count": "24",
+        "first_seen": "2013-10-22 17:37:12",
+        "last_seen": "2015-07-23 12:36:05",
+        "ip_address": "194.219.29.91",
+        "type": "IPv4"
+    },
+    {
+        "domain": "maximiadis.gr",
+        "count": "4",
+        "first_seen": "2017-06-27 10:25:53",
+        "last_seen": "2017-06-27 10:40:12",
+        "ip_address": "209.99.64.53",
+        "type": "IPv4"
+    }
+]

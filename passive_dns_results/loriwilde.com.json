@@ -1,0 +1,122 @@
+[
+    {
+        "domain": "loriwilde.com",
+        "count": "8486",
+        "first_seen": "2020-03-04 19:11:34",
+        "last_seen": "2023-05-10 17:31:19",
+        "ip_address": "35.209.179.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "loriwilde.com",
+        "count": "1119",
+        "first_seen": "2023-05-12 03:49:23",
+        "last_seen": "2024-01-18 03:06:16",
+        "ip_address": "35.215.97.188",
+        "type": "IPv4"
+    },
+    {
+        "domain": "loriwilde.com",
+        "count": "22208",
+        "first_seen": "2014-07-17 00:42:22",
+        "last_seen": "2019-05-13 10:16:10",
+        "ip_address": "104.28.26.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "loriwilde.com",
+        "count": "22208",
+        "first_seen": "2014-07-17 00:42:22",
+        "last_seen": "2019-05-13 10:16:10",
+        "ip_address": "104.28.27.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "loriwilde.com",
+        "count": "258",
+        "first_seen": "2014-06-12 15:03:18",
+        "last_seen": "2014-07-16 21:37:13",
+        "ip_address": "108.162.198.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "loriwilde.com",
+        "count": "258",
+        "first_seen": "2014-06-12 15:03:18",
+        "last_seen": "2014-07-16 21:37:13",
+        "ip_address": "108.162.199.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "loriwilde.com",
+        "count": "3020",
+        "first_seen": "2019-05-13 21:45:01",
+        "last_seen": "2020-03-03 23:59:50",
+        "ip_address": "146.66.96.181",
+        "type": "IPv4"
+    },
+    {
+        "domain": "loriwilde.com",
+        "count": "13230",
+        "first_seen": "2010-07-02 17:52:14",
+        "last_seen": "2012-05-10 17:05:27",
+        "ip_address": "198.63.49.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "loriwilde.com",
+        "count": "60",
+        "first_seen": "2014-07-03 13:23:47",
+        "last_seen": "2014-07-10 10:20:12",
+        "ip_address": "199.27.134.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "loriwilde.com",
+        "count": "60",
+        "first_seen": "2014-07-03 13:23:47",
+        "last_seen": "2014-07-10 10:20:12",
+        "ip_address": "199.27.135.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "loriwilde.com",
+        "count": "19967",
+        "first_seen": "2012-05-10 19:38:23",
+        "last_seen": "2014-06-12 02:33:21",
+        "ip_address": "204.10.137.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "loriwilde.com",
+        "count": "2947",
+        "first_seen": "2016-10-22 23:44:26",
+        "last_seen": "2018-09-25 04:56:01",
+        "ip_address": "2400:cb00:2048:1::681c:1a2d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "loriwilde.com",
+        "count": "2947",
+        "first_seen": "2016-10-22 23:44:26",
+        "last_seen": "2018-09-25 04:56:01",
+        "ip_address": "2400:cb00:2048:1::681c:1b2d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "loriwilde.com",
+        "count": "2097",
+        "first_seen": "2018-09-25 15:48:40",
+        "last_seen": "2019-05-13 02:19:17",
+        "ip_address": "2606:4700:30::681c:1a2d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "loriwilde.com",
+        "count": "2097",
+        "first_seen": "2018-09-25 15:48:40",
+        "last_seen": "2019-05-13 02:19:17",
+        "ip_address": "2606:4700:30::681c:1b2d",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "597e95d6c0097389229632098b18e0bf.asdff05.cn",
+        "count": "10",
+        "first_seen": "2023-09-12 13:38:43",
+        "last_seen": "2023-09-12 13:38:44",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "597e95d6c0097389229632098b18e0bf.asdff05.cn",
+        "count": "10",
+        "first_seen": "2023-06-19 08:05:10",
+        "last_seen": "2023-08-04 01:10:56",
+        "ip_address": "104.21.24.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "597e95d6c0097389229632098b18e0bf.asdff05.cn",
+        "count": "10",
+        "first_seen": "2023-06-19 08:05:10",
+        "last_seen": "2023-08-04 01:10:56",
+        "ip_address": "172.67.218.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "597e95d6c0097389229632098b18e0bf.asdff05.cn",
+        "count": "2",
+        "first_seen": "2023-07-02 12:30:32",
+        "last_seen": "2023-07-02 12:30:32",
+        "ip_address": "2606:4700:3035::6815:1855",
+        "type": "IPv6"
+    },
+    {
+        "domain": "597e95d6c0097389229632098b18e0bf.asdff05.cn",
+        "count": "2",
+        "first_seen": "2023-07-02 12:30:32",
+        "last_seen": "2023-07-02 12:30:32",
+        "ip_address": "2606:4700:3035::ac43:da14",
+        "type": "IPv6"
+    }
+]

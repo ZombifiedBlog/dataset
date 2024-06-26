@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.homemediamagazine.com",
+        "count": "11051",
+        "first_seen": "2021-05-13 08:22:35",
+        "last_seen": "2023-02-21 22:59:55",
+        "ip_address": "23.94.9.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.homemediamagazine.com",
+        "count": "7398",
+        "first_seen": "2020-03-18 00:38:45",
+        "last_seen": "2021-05-13 04:03:27",
+        "ip_address": "71.19.146.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.homemediamagazine.com",
+        "count": "7168",
+        "first_seen": "2023-02-21 23:08:27",
+        "last_seen": "2024-01-18 04:48:55",
+        "ip_address": "172.245.228.227",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.homemediamagazine.com",
+        "count": "2541",
+        "first_seen": "2020-01-04 01:35:12",
+        "last_seen": "2020-03-14 05:28:17",
+        "ip_address": "208.91.197.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.homemediamagazine.com",
+        "count": "57",
+        "first_seen": "2019-12-31 22:29:45",
+        "last_seen": "2020-01-05 01:37:52",
+        "ip_address": "209.99.64.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.homemediamagazine.com",
+        "count": "111",
+        "first_seen": "2020-03-14 09:12:30",
+        "last_seen": "2020-03-18 21:54:21",
+        "ip_address": "209.99.64.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.homemediamagazine.com",
+        "count": "18",
+        "first_seen": "2020-01-02 09:04:40",
+        "last_seen": "2020-01-03 17:57:07",
+        "ip_address": "209.99.64.18",
+        "type": "IPv4"
+    }
+]

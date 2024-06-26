@@ -1,0 +1,146 @@
+[
+    {
+        "domain": "www.mydedicatedserver.com",
+        "count": "42",
+        "first_seen": "2023-05-11 07:15:36",
+        "last_seen": "2023-12-29 07:57:50",
+        "ip_address": "13.248.169.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mydedicatedserver.com",
+        "count": "42",
+        "first_seen": "2023-05-11 07:15:36",
+        "last_seen": "2023-12-29 07:57:50",
+        "ip_address": "76.223.54.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mydedicatedserver.com",
+        "count": "36",
+        "first_seen": "2020-06-24 12:03:36",
+        "last_seen": "2021-04-24 18:21:31",
+        "ip_address": "52.58.78.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mydedicatedserver.com",
+        "count": "22",
+        "first_seen": "2021-05-05 19:31:53",
+        "last_seen": "2023-04-22 14:12:58",
+        "ip_address": "75.2.26.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mydedicatedserver.com",
+        "count": "22",
+        "first_seen": "2021-05-05 19:31:53",
+        "last_seen": "2023-04-22 14:12:58",
+        "ip_address": "99.83.153.108",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mydedicatedserver.com",
+        "count": "188",
+        "first_seen": "2020-02-28 14:09:56",
+        "last_seen": "2020-03-13 00:24:51",
+        "ip_address": "104.24.112.185",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mydedicatedserver.com",
+        "count": "188",
+        "first_seen": "2020-02-28 14:09:56",
+        "last_seen": "2020-03-13 00:24:51",
+        "ip_address": "104.24.113.185",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mydedicatedserver.com",
+        "count": "6",
+        "first_seen": "2020-04-03 04:24:49",
+        "last_seen": "2020-04-08 20:18:50",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mydedicatedserver.com",
+        "count": "6",
+        "first_seen": "2020-04-03 04:24:49",
+        "last_seen": "2020-04-08 20:18:50",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mydedicatedserver.com",
+        "count": "6",
+        "first_seen": "2020-04-03 04:24:49",
+        "last_seen": "2020-04-08 20:18:50",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mydedicatedserver.com",
+        "count": "6",
+        "first_seen": "2020-04-03 04:24:49",
+        "last_seen": "2020-04-08 20:18:50",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mydedicatedserver.com",
+        "count": "95",
+        "first_seen": "2023-05-11 07:15:36",
+        "last_seen": "2023-12-27 22:28:57",
+        "ip_address": "13.248.169.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mydedicatedserver.com",
+        "count": "95",
+        "first_seen": "2023-05-11 07:15:36",
+        "last_seen": "2023-12-27 22:28:57",
+        "ip_address": "76.223.54.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mydedicatedserver.com",
+        "count": "30",
+        "first_seen": "2021-05-05 19:31:53",
+        "last_seen": "2023-04-22 14:13:02",
+        "ip_address": "75.2.26.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mydedicatedserver.com",
+        "count": "30",
+        "first_seen": "2021-05-05 19:31:53",
+        "last_seen": "2023-04-22 14:13:02",
+        "ip_address": "99.83.153.108",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mydedicatedserver.com",
+        "count": "23",
+        "first_seen": "2020-02-28 14:10:09",
+        "last_seen": "2020-03-03 17:13:42",
+        "ip_address": "2606:4700:3032::6818:70b9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.mydedicatedserver.com",
+        "count": "23",
+        "first_seen": "2020-02-28 14:10:09",
+        "last_seen": "2020-03-03 17:13:42",
+        "ip_address": "2606:4700:3035::6818:71b9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.mydedicatedserver.com",
+        "count": "15",
+        "first_seen": "2020-06-24 12:02:37",
+        "last_seen": "2021-02-23 09:04:03",
+        "ip_address": "2a05:d014:9da:8c10:306e:3e07:a16f:a552",
+        "type": "IPv6"
+    }
+]

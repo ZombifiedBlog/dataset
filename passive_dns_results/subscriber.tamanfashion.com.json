@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.tamanfashion.com",
+        "count": "89",
+        "first_seen": "2022-09-05 01:43:45",
+        "last_seen": "2022-10-03 04:26:43",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tamanfashion.com",
+        "count": "6072",
+        "first_seen": "2022-06-07 17:28:17",
+        "last_seen": "2022-08-23 04:23:24",
+        "ip_address": "104.21.81.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tamanfashion.com",
+        "count": "6072",
+        "first_seen": "2022-06-07 17:28:17",
+        "last_seen": "2022-08-23 04:23:24",
+        "ip_address": "172.67.165.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tamanfashion.com",
+        "count": "1",
+        "first_seen": "2022-10-03 04:26:43",
+        "last_seen": "2022-10-03 04:26:43",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tamanfashion.com",
+        "count": "166",
+        "first_seen": "2022-06-07 17:45:51",
+        "last_seen": "2022-08-23 04:23:24",
+        "ip_address": "2606:4700:3031::ac43:a5c6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.tamanfashion.com",
+        "count": "166",
+        "first_seen": "2022-06-07 17:45:51",
+        "last_seen": "2022-08-23 04:23:24",
+        "ip_address": "2606:4700:3037::6815:51ea",
+        "type": "IPv6"
+    }
+]

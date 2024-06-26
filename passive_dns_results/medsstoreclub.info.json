@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "medsstoreclub.info",
+        "count": "3",
+        "first_seen": "2020-02-23 10:00:07",
+        "last_seen": "2020-02-23 10:24:23",
+        "ip_address": "8.209.75.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "medsstoreclub.info",
+        "count": "11",
+        "first_seen": "2020-02-15 17:43:52",
+        "last_seen": "2020-02-20 04:12:26",
+        "ip_address": "47.89.178.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "medsstoreclub.info",
+        "count": "20020",
+        "first_seen": "2020-01-19 12:14:43",
+        "last_seen": "2020-01-23 13:22:28",
+        "ip_address": "47.254.178.42",
+        "type": "IPv4"
+    },
+    {
+        "domain": "medsstoreclub.info",
+        "count": "3014",
+        "first_seen": "2020-01-22 19:11:21",
+        "last_seen": "2020-01-30 13:56:36",
+        "ip_address": "104.24.120.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "medsstoreclub.info",
+        "count": "3014",
+        "first_seen": "2020-01-22 19:11:21",
+        "last_seen": "2020-01-30 13:56:36",
+        "ip_address": "104.24.121.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "medsstoreclub.info",
+        "count": "105",
+        "first_seen": "2020-01-30 15:05:35",
+        "last_seen": "2020-02-13 22:06:22",
+        "ip_address": "161.117.178.167",
+        "type": "IPv4"
+    },
+    {
+        "domain": "medsstoreclub.info",
+        "count": "167",
+        "first_seen": "2020-01-22 19:55:49",
+        "last_seen": "2020-01-30 13:56:36",
+        "ip_address": "2606:4700:3032::6818:7839",
+        "type": "IPv6"
+    },
+    {
+        "domain": "medsstoreclub.info",
+        "count": "167",
+        "first_seen": "2020-01-22 19:55:49",
+        "last_seen": "2020-01-30 13:56:36",
+        "ip_address": "2606:4700:3034::6818:7939",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "www.dvthut.com",
+        "count": "1",
+        "first_seen": "2022-07-11 20:03:39",
+        "last_seen": "2022-07-11 20:03:39",
+        "ip_address": "50.28.56.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dvthut.com",
+        "count": "1",
+        "first_seen": "2022-07-04 12:54:33",
+        "last_seen": "2022-07-04 12:54:33",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dvthut.com",
+        "count": "1",
+        "first_seen": "2022-06-08 10:06:48",
+        "last_seen": "2022-06-08 10:06:48",
+        "ip_address": "94.229.72.115",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dvthut.com",
+        "count": "2",
+        "first_seen": "2021-06-06 11:27:01",
+        "last_seen": "2021-08-22 18:27:46",
+        "ip_address": "103.224.212.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dvthut.com",
+        "count": "1",
+        "first_seen": "2022-06-12 06:14:44",
+        "last_seen": "2022-06-12 06:14:44",
+        "ip_address": "162.210.196.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dvthut.com",
+        "count": "1",
+        "first_seen": "2022-04-13 00:11:47",
+        "last_seen": "2022-04-13 00:11:47",
+        "ip_address": "172.93.194.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dvthut.com",
+        "count": "2",
+        "first_seen": "2022-02-22 09:50:45",
+        "last_seen": "2022-03-01 20:28:03",
+        "ip_address": "172.93.194.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dvthut.com",
+        "count": "1",
+        "first_seen": "2022-05-04 23:04:50",
+        "last_seen": "2022-05-04 23:04:50",
+        "ip_address": "172.93.194.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dvthut.com",
+        "count": "7",
+        "first_seen": "2021-09-21 16:38:04",
+        "last_seen": "2022-05-24 19:05:43",
+        "ip_address": "185.107.56.202",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dvthut.com",
+        "count": "1",
+        "first_seen": "2022-02-16 09:20:04",
+        "last_seen": "2022-02-16 09:20:04",
+        "ip_address": "185.107.56.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dvthut.com",
+        "count": "2",
+        "first_seen": "2021-10-14 01:27:00",
+        "last_seen": "2022-05-04 23:05:43",
+        "ip_address": "185.107.56.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dvthut.com",
+        "count": "2",
+        "first_seen": "2021-08-02 14:07:52",
+        "last_seen": "2021-08-02 14:07:52",
+        "ip_address": "103.224.212.221",
+        "type": "IPv4"
+    }
+]

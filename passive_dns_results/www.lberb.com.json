@@ -1,0 +1,122 @@
+[
+    {
+        "domain": "www.lberb.com",
+        "count": "4",
+        "first_seen": "2021-01-20 06:18:58",
+        "last_seen": "2021-03-26 20:31:55",
+        "ip_address": "104.21.19.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lberb.com",
+        "count": "4",
+        "first_seen": "2021-01-20 06:18:58",
+        "last_seen": "2021-03-26 20:31:55",
+        "ip_address": "172.67.185.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lberb.com",
+        "count": "623",
+        "first_seen": "2020-05-10 09:10:31",
+        "last_seen": "2020-05-27 23:22:30",
+        "ip_address": "104.31.76.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lberb.com",
+        "count": "623",
+        "first_seen": "2020-05-10 09:10:31",
+        "last_seen": "2020-05-27 23:22:30",
+        "ip_address": "104.31.77.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lberb.com",
+        "count": "2390",
+        "first_seen": "2020-05-27 23:32:34",
+        "last_seen": "2020-12-24 02:00:05",
+        "ip_address": "104.31.76.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lberb.com",
+        "count": "2390",
+        "first_seen": "2020-05-27 23:32:34",
+        "last_seen": "2020-12-24 02:00:05",
+        "ip_address": "104.31.77.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lberb.com",
+        "count": "2390",
+        "first_seen": "2020-05-27 23:32:34",
+        "last_seen": "2020-12-24 02:00:05",
+        "ip_address": "172.67.185.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lberb.com",
+        "count": "60",
+        "first_seen": "2021-08-24 01:05:13",
+        "last_seen": "2022-07-15 04:38:24",
+        "ip_address": "137.175.67.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lberb.com",
+        "count": "4",
+        "first_seen": "2021-01-20 06:18:58",
+        "last_seen": "2021-03-11 18:17:46",
+        "ip_address": "2606:4700:3031::6815:1332",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lberb.com",
+        "count": "4",
+        "first_seen": "2021-01-20 06:18:58",
+        "last_seen": "2021-03-11 18:17:46",
+        "ip_address": "2606:4700:3034::ac43:b93d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lberb.com",
+        "count": "13",
+        "first_seen": "2020-05-10 10:54:30",
+        "last_seen": "2020-05-22 09:27:22",
+        "ip_address": "2606:4700:3032::681f:4ca2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lberb.com",
+        "count": "13",
+        "first_seen": "2020-05-10 10:54:30",
+        "last_seen": "2020-05-22 09:27:22",
+        "ip_address": "2606:4700:3034::681f:4da2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lberb.com",
+        "count": "107",
+        "first_seen": "2020-05-28 01:26:51",
+        "last_seen": "2020-12-24 02:00:05",
+        "ip_address": "2606:4700:3032::681f:4ca2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lberb.com",
+        "count": "107",
+        "first_seen": "2020-05-28 01:26:51",
+        "last_seen": "2020-12-24 02:00:05",
+        "ip_address": "2606:4700:3034::681f:4da2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lberb.com",
+        "count": "107",
+        "first_seen": "2020-05-28 01:26:51",
+        "last_seen": "2020-12-24 02:00:05",
+        "ip_address": "2606:4700:3034::ac43:b93d",
+        "type": "IPv6"
+    }
+]

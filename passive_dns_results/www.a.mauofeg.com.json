@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.a.mauofeg.com",
+        "count": "634",
+        "first_seen": "2022-01-13 19:30:41",
+        "last_seen": "2022-01-19 18:02:31",
+        "ip_address": "172.245.94.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.a.mauofeg.com",
+        "count": "1",
+        "first_seen": "2023-02-10 11:44:49",
+        "last_seen": "2023-02-10 11:44:49",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.a.mauofeg.com",
+        "count": "10",
+        "first_seen": "2023-01-13 19:24:32",
+        "last_seen": "2023-02-10 11:44:49",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

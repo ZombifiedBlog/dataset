@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "subscriber.minipigthaiLand.com",
+        "count": "2",
+        "first_seen": "2023-06-03 17:37:30",
+        "last_seen": "2023-06-03 17:37:30",
+        "ip_address": "70.39.112.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.minipigthaiLand.com",
+        "count": "3",
+        "first_seen": "2022-08-23 04:39:19",
+        "last_seen": "2022-08-23 13:31:21",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.minipigthaiLand.com",
+        "count": "181",
+        "first_seen": "2022-08-20 11:53:38",
+        "last_seen": "2022-08-23 08:02:20",
+        "ip_address": "104.21.36.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.minipigthaiLand.com",
+        "count": "181",
+        "first_seen": "2022-08-20 11:53:38",
+        "last_seen": "2022-08-23 08:02:20",
+        "ip_address": "172.67.192.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.minipigthaiLand.com",
+        "count": "3",
+        "first_seen": "2023-10-04 08:05:37",
+        "last_seen": "2023-11-23 12:47:40",
+        "ip_address": "154.92.43.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.minipigthaiLand.com",
+        "count": "6",
+        "first_seen": "2022-08-20 12:02:26",
+        "last_seen": "2022-08-23 04:50:02",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.minipigthaiLand.com",
+        "count": "6",
+        "first_seen": "2022-08-20 12:02:26",
+        "last_seen": "2022-08-23 04:50:02",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.minipigthaiLand.com",
+        "count": "1",
+        "first_seen": "2022-08-22 22:43:55",
+        "last_seen": "2022-08-22 22:43:55",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.minipigthaiLand.com",
+        "count": "1",
+        "first_seen": "2022-08-22 22:43:55",
+        "last_seen": "2022-08-22 22:43:55",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.minipigthaiLand.com",
+        "count": "1",
+        "first_seen": "2022-08-23 05:13:43",
+        "last_seen": "2022-08-23 05:13:43",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.minipigthaiLand.com",
+        "count": "1",
+        "first_seen": "2022-08-23 05:13:43",
+        "last_seen": "2022-08-23 05:13:43",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    }
+]

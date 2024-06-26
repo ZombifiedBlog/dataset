@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "etc-mrcaojp.stampssusus.shop",
+        "count": "17",
+        "first_seen": "2023-07-17 04:51:30",
+        "last_seen": "2023-07-18 11:37:31",
+        "ip_address": "45.11.92.127",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc-mrcaojp.stampssusus.shop",
+        "count": "137",
+        "first_seen": "2023-07-10 06:04:53",
+        "last_seen": "2023-07-16 07:13:19",
+        "ip_address": "104.21.16.157",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc-mrcaojp.stampssusus.shop",
+        "count": "137",
+        "first_seen": "2023-07-10 06:04:53",
+        "last_seen": "2023-07-16 07:13:19",
+        "ip_address": "172.67.213.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc-mrcaojp.stampssusus.shop",
+        "count": "7",
+        "first_seen": "2023-07-10 06:04:53",
+        "last_seen": "2023-07-16 07:10:19",
+        "ip_address": "2606:4700:3034::ac43:d5f2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "etc-mrcaojp.stampssusus.shop",
+        "count": "7",
+        "first_seen": "2023-07-10 06:04:53",
+        "last_seen": "2023-07-16 07:10:19",
+        "ip_address": "2606:4700:3036::6815:109d",
+        "type": "IPv6"
+    }
+]

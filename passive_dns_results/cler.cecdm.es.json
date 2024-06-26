@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "cler.cecdm.es",
+        "count": "5553",
+        "first_seen": "2021-10-26 12:39:53",
+        "last_seen": "2024-01-18 02:11:14",
+        "ip_address": "217.160.0.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cler.cecdm.es",
+        "count": "245",
+        "first_seen": "2021-10-26 12:39:53",
+        "last_seen": "2023-08-24 06:40:52",
+        "ip_address": "2001:8d8:100f:f000::254",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.gddlinea.com",
+        "count": "74",
+        "first_seen": "2019-07-20 22:08:39",
+        "last_seen": "2019-10-15 16:41:27",
+        "ip_address": "45.192.27.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gddlinea.com",
+        "count": "31",
+        "first_seen": "2019-11-03 18:26:18",
+        "last_seen": "2020-07-09 22:38:10",
+        "ip_address": "103.119.1.130",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gddlinea.com",
+        "count": "4",
+        "first_seen": "2019-10-22 17:55:44",
+        "last_seen": "2019-10-23 12:33:18",
+        "ip_address": "154.80.253.139",
+        "type": "IPv4"
+    }
+]

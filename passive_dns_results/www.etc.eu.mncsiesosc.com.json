@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.etc.eu.mncsiesosc.com",
+        "count": "67",
+        "first_seen": "2021-09-15 21:10:42",
+        "last_seen": "2022-07-14 17:05:20",
+        "ip_address": "137.184.75.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etc.eu.mncsiesosc.com",
+        "count": "2",
+        "first_seen": "2022-09-15 21:48:26",
+        "last_seen": "2022-09-16 10:28:33",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etc.eu.mncsiesosc.com",
+        "count": "1",
+        "first_seen": "2022-09-16 10:28:33",
+        "last_seen": "2022-09-16 10:28:33",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etc.eu.mncsiesosc.com",
+        "count": "2",
+        "first_seen": "2022-09-15 21:48:28",
+        "last_seen": "2022-09-15 21:48:28",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etc.eu.mncsiesosc.com",
+        "count": "2",
+        "first_seen": "2022-09-16 10:28:33",
+        "last_seen": "2022-09-16 10:28:33",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

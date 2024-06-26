@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "amko.com.ua",
+        "count": "131",
+        "first_seen": "2013-12-26 09:17:25",
+        "last_seen": "2014-12-13 08:55:20",
+        "ip_address": "5.79.87.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amko.com.ua",
+        "count": "2273",
+        "first_seen": "2015-02-21 05:33:37",
+        "last_seen": "2017-02-17 06:56:41",
+        "ip_address": "37.48.89.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amko.com.ua",
+        "count": "1801",
+        "first_seen": "2018-05-29 04:47:45",
+        "last_seen": "2021-05-23 12:00:46",
+        "ip_address": "89.184.78.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amko.com.ua",
+        "count": "1",
+        "first_seen": "2013-12-02 13:28:21",
+        "last_seen": "2013-12-02 13:28:21",
+        "ip_address": "193.169.188.125",
+        "type": "IPv4"
+    }
+]

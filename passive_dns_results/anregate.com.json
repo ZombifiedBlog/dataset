@@ -1,0 +1,114 @@
+[
+    {
+        "domain": "anregate.com",
+        "count": "2",
+        "first_seen": "2011-12-01 12:37:40",
+        "last_seen": "2011-12-03 13:08:11",
+        "ip_address": "8.5.1.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anregate.com",
+        "count": "2",
+        "first_seen": "2014-03-15 04:36:32",
+        "last_seen": "2014-03-16 04:24:03",
+        "ip_address": "69.43.161.130",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anregate.com",
+        "count": "4",
+        "first_seen": "2010-11-18 02:53:16",
+        "last_seen": "2010-11-28 14:24:48",
+        "ip_address": "85.92.82.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anregate.com",
+        "count": "13",
+        "first_seen": "2011-08-24 01:06:29",
+        "last_seen": "2011-11-05 21:43:16",
+        "ip_address": "87.248.186.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anregate.com",
+        "count": "76",
+        "first_seen": "2011-03-19 18:13:25",
+        "last_seen": "2011-08-11 07:13:09",
+        "ip_address": "87.248.186.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anregate.com",
+        "count": "59",
+        "first_seen": "2010-12-02 02:20:15",
+        "last_seen": "2011-03-18 09:33:30",
+        "ip_address": "195.93.218.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anregate.com",
+        "count": "9",
+        "first_seen": "2012-08-30 13:29:31",
+        "last_seen": "2013-01-21 11:18:19",
+        "ip_address": "204.13.160.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anregate.com",
+        "count": "6",
+        "first_seen": "2013-01-31 21:29:21",
+        "last_seen": "2013-03-09 00:30:11",
+        "ip_address": "204.13.162.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anregate.com",
+        "count": "4",
+        "first_seen": "2012-05-31 19:26:31",
+        "last_seen": "2012-08-21 00:20:56",
+        "ip_address": "204.13.162.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anregate.com",
+        "count": "4",
+        "first_seen": "2012-03-28 18:41:17",
+        "last_seen": "2012-04-15 08:14:03",
+        "ip_address": "208.73.210.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anregate.com",
+        "count": "2",
+        "first_seen": "2013-06-13 22:51:07",
+        "last_seen": "2013-06-13 22:51:07",
+        "ip_address": "208.73.211.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anregate.com",
+        "count": "3",
+        "first_seen": "2013-04-18 13:14:06",
+        "last_seen": "2013-05-26 00:44:28",
+        "ip_address": "208.73.211.238",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anregate.com",
+        "count": "2",
+        "first_seen": "2013-10-24 00:03:29",
+        "last_seen": "2013-10-24 00:03:29",
+        "ip_address": "208.73.211.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anregate.com",
+        "count": "1",
+        "first_seen": "2013-08-30 20:44:17",
+        "last_seen": "2013-08-30 20:44:17",
+        "ip_address": "208.73.211.249",
+        "type": "IPv4"
+    }
+]

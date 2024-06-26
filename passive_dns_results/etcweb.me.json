@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "etcweb.me",
+        "count": "65",
+        "first_seen": "2022-05-18 08:31:58",
+        "last_seen": "2022-05-18 21:06:14",
+        "ip_address": "104.21.64.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etcweb.me",
+        "count": "65",
+        "first_seen": "2022-05-18 08:31:58",
+        "last_seen": "2022-05-18 21:06:14",
+        "ip_address": "172.67.151.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etcweb.me",
+        "count": "2",
+        "first_seen": "2022-05-18 08:35:02",
+        "last_seen": "2022-05-18 10:42:13",
+        "ip_address": "2606:4700:3032::ac43:9794",
+        "type": "IPv6"
+    },
+    {
+        "domain": "etcweb.me",
+        "count": "2",
+        "first_seen": "2022-05-18 08:35:02",
+        "last_seen": "2022-05-18 10:42:13",
+        "ip_address": "2606:4700:3035::6815:4091",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "domain": "www.assaggiatore.ru",
+        "count": "16",
+        "first_seen": "2020-12-11 04:01:49",
+        "last_seen": "2021-05-25 00:51:59",
+        "ip_address": "5.252.116.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.assaggiatore.ru",
+        "count": "1003",
+        "first_seen": "2016-06-23 21:38:06",
+        "last_seen": "2018-01-31 03:03:38",
+        "ip_address": "37.46.132.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.assaggiatore.ru",
+        "count": "9",
+        "first_seen": "2020-09-18 15:23:39",
+        "last_seen": "2020-11-23 00:40:08",
+        "ip_address": "37.228.92.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.assaggiatore.ru",
+        "count": "5",
+        "first_seen": "2021-07-30 07:57:54",
+        "last_seen": "2021-07-30 08:33:09",
+        "ip_address": "45.130.41.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.assaggiatore.ru",
+        "count": "34",
+        "first_seen": "2023-08-30 19:39:49",
+        "last_seen": "2023-10-30 22:26:14",
+        "ip_address": "45.130.41.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.assaggiatore.ru",
+        "count": "2",
+        "first_seen": "2011-02-25 02:19:43",
+        "last_seen": "2011-04-02 08:55:19",
+        "ip_address": "77.221.130.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.assaggiatore.ru",
+        "count": "1104",
+        "first_seen": "2018-01-31 20:03:33",
+        "last_seen": "2019-06-26 13:42:52",
+        "ip_address": "82.146.63.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.assaggiatore.ru",
+        "count": "278",
+        "first_seen": "2021-09-14 18:39:26",
+        "last_seen": "2023-07-18 20:10:09",
+        "ip_address": "87.236.16.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.assaggiatore.ru",
+        "count": "105",
+        "first_seen": "2023-11-07 08:03:25",
+        "last_seen": "2024-01-16 12:26:30",
+        "ip_address": "87.236.16.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.assaggiatore.ru",
+        "count": "3",
+        "first_seen": "2023-08-30 07:32:36",
+        "last_seen": "2023-08-30 07:32:45",
+        "ip_address": "91.106.207.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.assaggiatore.ru",
+        "count": "3604",
+        "first_seen": "2011-04-27 16:23:52",
+        "last_seen": "2016-05-22 04:46:19",
+        "ip_address": "92.53.96.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.assaggiatore.ru",
+        "count": "148",
+        "first_seen": "2015-05-22 17:31:25",
+        "last_seen": "2016-06-23 04:06:21",
+        "ip_address": "109.70.26.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.assaggiatore.ru",
+        "count": "148",
+        "first_seen": "2015-05-22 17:31:25",
+        "last_seen": "2016-06-23 04:06:21",
+        "ip_address": "194.85.61.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.assaggiatore.ru",
+        "count": "1",
+        "first_seen": "2023-08-09 14:25:19",
+        "last_seen": "2023-08-09 14:25:19",
+        "ip_address": "194.67.71.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.assaggiatore.ru",
+        "count": "1",
+        "first_seen": "2023-08-28 09:54:20",
+        "last_seen": "2023-08-28 09:54:20",
+        "ip_address": "194.67.71.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.assaggiatore.ru",
+        "count": "36",
+        "first_seen": "2021-07-23 08:22:27",
+        "last_seen": "2023-08-25 14:09:56",
+        "ip_address": "194.67.71.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.assaggiatore.ru",
+        "count": "1457",
+        "first_seen": "2019-06-30 22:19:06",
+        "last_seen": "2020-08-11 23:33:00",
+        "ip_address": "217.29.53.79",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.assaggiatore.ru",
+        "count": "2",
+        "first_seen": "2023-08-09 14:25:19",
+        "last_seen": "2023-08-13 16:45:05",
+        "ip_address": "2a00:f940:4::10",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.assaggiatore.ru",
+        "count": "269",
+        "first_seen": "2011-06-10 00:22:45",
+        "last_seen": "2016-05-19 21:42:48",
+        "ip_address": "2a03:6f00:1::5c35:6031",
+        "type": "IPv6"
+    }
+]

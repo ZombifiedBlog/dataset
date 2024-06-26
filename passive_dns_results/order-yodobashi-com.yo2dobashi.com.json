@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "order-yodobashi-com.yo2dobashi.com",
+        "count": "11",
+        "first_seen": "2022-12-22 14:43:45",
+        "last_seen": "2022-12-22 17:50:36",
+        "ip_address": "104.21.27.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "order-yodobashi-com.yo2dobashi.com",
+        "count": "11",
+        "first_seen": "2022-12-22 14:43:45",
+        "last_seen": "2022-12-22 17:50:36",
+        "ip_address": "172.67.169.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "order-yodobashi-com.yo2dobashi.com",
+        "count": "6",
+        "first_seen": "2022-12-22 15:22:58",
+        "last_seen": "2022-12-22 18:06:51",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "order-yodobashi-com.yo2dobashi.com",
+        "count": "6",
+        "first_seen": "2022-12-22 15:22:58",
+        "last_seen": "2022-12-22 18:06:51",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "order-yodobashi-com.yo2dobashi.com",
+        "count": "1",
+        "first_seen": "2022-12-22 15:22:58",
+        "last_seen": "2022-12-22 15:22:58",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "order-yodobashi-com.yo2dobashi.com",
+        "count": "1",
+        "first_seen": "2022-12-22 15:22:58",
+        "last_seen": "2022-12-22 15:22:58",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

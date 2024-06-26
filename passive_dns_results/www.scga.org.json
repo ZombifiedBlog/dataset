@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "www.scga.org",
+        "count": "34800",
+        "first_seen": "2017-07-26 05:30:22",
+        "last_seen": "2017-11-30 19:08:38",
+        "ip_address": "52.11.57.142",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.scga.org",
+        "count": "1112225",
+        "first_seen": "2017-11-30 23:39:10",
+        "last_seen": "2023-02-28 00:20:37",
+        "ip_address": "52.11.197.127",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.scga.org",
+        "count": "41260",
+        "first_seen": "2010-07-17 02:22:49",
+        "last_seen": "2011-03-02 05:54:14",
+        "ip_address": "67.208.132.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.scga.org",
+        "count": "149989",
+        "first_seen": "2023-02-28 00:28:44",
+        "last_seen": "2024-01-18 02:24:01",
+        "ip_address": "104.26.0.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.scga.org",
+        "count": "149989",
+        "first_seen": "2023-02-28 00:28:44",
+        "last_seen": "2024-01-18 02:24:01",
+        "ip_address": "104.26.1.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.scga.org",
+        "count": "149989",
+        "first_seen": "2023-02-28 00:28:44",
+        "last_seen": "2024-01-18 02:24:01",
+        "ip_address": "172.67.74.167",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.scga.org",
+        "count": "147153",
+        "first_seen": "2011-03-02 09:29:58",
+        "last_seen": "2012-08-29 23:11:46",
+        "ip_address": "208.109.238.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.scga.org",
+        "count": "1",
+        "first_seen": "2011-03-03 14:52:03",
+        "last_seen": "2011-03-03 14:52:03",
+        "ip_address": "209.62.20.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.scga.org",
+        "count": "91767",
+        "first_seen": "2023-02-28 00:28:44",
+        "last_seen": "2024-01-18 05:15:36",
+        "ip_address": "2606:4700:20::681a:f0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.scga.org",
+        "count": "91767",
+        "first_seen": "2023-02-28 00:28:44",
+        "last_seen": "2024-01-18 05:15:36",
+        "ip_address": "2606:4700:20::681a:1f0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.scga.org",
+        "count": "91767",
+        "first_seen": "2023-02-28 00:28:44",
+        "last_seen": "2024-01-18 05:15:36",
+        "ip_address": "2606:4700:20::ac43:4aa7",
+        "type": "IPv6"
+    }
+]

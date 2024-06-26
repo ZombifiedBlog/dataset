@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "legemiddelverket.no",
+        "count": "5218",
+        "first_seen": "2012-12-17 10:03:10",
+        "last_seen": "2015-11-22 12:06:48",
+        "ip_address": "82.147.39.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "legemiddelverket.no",
+        "count": "1848",
+        "first_seen": "2015-11-23 01:31:02",
+        "last_seen": "2016-09-14 18:16:57",
+        "ip_address": "88.87.45.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "legemiddelverket.no",
+        "count": "93812",
+        "first_seen": "2016-09-15 07:06:59",
+        "last_seen": "2023-10-24 07:21:10",
+        "ip_address": "91.186.66.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "legemiddelverket.no",
+        "count": "19406",
+        "first_seen": "2010-06-30 09:28:25",
+        "last_seen": "2012-12-16 07:53:19",
+        "ip_address": "193.19.65.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "legemiddelverket.no",
+        "count": "2847",
+        "first_seen": "2023-10-24 08:06:31",
+        "last_seen": "2024-01-18 14:07:29",
+        "ip_address": "217.114.94.2",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "tm.VIRTUAL-QUEEN.RU",
+        "count": "2",
+        "first_seen": "2019-12-06 21:47:39",
+        "last_seen": "2019-12-06 21:47:39",
+        "ip_address": "46.166.184.109",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tm.VIRTUAL-QUEEN.RU",
+        "count": "2",
+        "first_seen": "2019-12-06 21:47:39",
+        "last_seen": "2019-12-06 21:47:39",
+        "ip_address": "185.206.180.130",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tm.VIRTUAL-QUEEN.RU",
+        "count": "2",
+        "first_seen": "2020-01-18 04:39:14",
+        "last_seen": "2020-01-18 04:39:14",
+        "ip_address": "89.111.167.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tm.VIRTUAL-QUEEN.RU",
+        "count": "2",
+        "first_seen": "2019-12-06 13:47:39",
+        "last_seen": "2019-12-06 13:47:39",
+        "ip_address": "2a00:1768:2001:63::46:109",
+        "type": "IPv6"
+    },
+    {
+        "domain": "tm.VIRTUAL-QUEEN.RU",
+        "count": "2",
+        "first_seen": "2019-12-06 13:47:39",
+        "last_seen": "2019-12-06 13:47:39",
+        "ip_address": "2a0b:1640:1:1:1:1:ed9:e667",
+        "type": "IPv6"
+    }
+]

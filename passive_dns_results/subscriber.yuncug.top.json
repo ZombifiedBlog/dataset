@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.yuncug.top",
+        "count": "8",
+        "first_seen": "2023-06-10 06:03:39",
+        "last_seen": "2023-06-23 02:48:40",
+        "ip_address": "49.51.77.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yuncug.top",
+        "count": "1",
+        "first_seen": "2023-07-07 14:33:35",
+        "last_seen": "2023-07-07 14:33:35",
+        "ip_address": "49.51.79.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yuncug.top",
+        "count": "7883",
+        "first_seen": "2023-02-02 18:21:43",
+        "last_seen": "2023-06-03 15:55:56",
+        "ip_address": "104.21.8.252",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yuncug.top",
+        "count": "7883",
+        "first_seen": "2023-02-02 18:21:43",
+        "last_seen": "2023-06-03 15:55:56",
+        "ip_address": "172.67.188.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yuncug.top",
+        "count": "266",
+        "first_seen": "2023-02-03 03:29:56",
+        "last_seen": "2023-05-25 21:22:02",
+        "ip_address": "2606:4700:3031::6815:8fc",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.yuncug.top",
+        "count": "266",
+        "first_seen": "2023-02-03 03:29:56",
+        "last_seen": "2023-05-25 21:22:02",
+        "ip_address": "2606:4700:3036::ac43:bcdc",
+        "type": "IPv6"
+    }
+]

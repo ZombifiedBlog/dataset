@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "vmi1232761.contaboserver.net",
+        "count": "523",
+        "first_seen": "2023-03-07 11:15:59",
+        "last_seen": "2023-04-06 03:39:01",
+        "ip_address": "185.255.131.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vmi1232761.contaboserver.net",
+        "count": "1",
+        "first_seen": "2023-03-07 11:16:08",
+        "last_seen": "2023-03-07 11:16:08",
+        "ip_address": "2a02:c206:2123:2761::1",
+        "type": "IPv6"
+    }
+]

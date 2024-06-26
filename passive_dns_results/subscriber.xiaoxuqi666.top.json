@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscriber.xiaoxuqi666.top",
+        "count": "19",
+        "first_seen": "2023-08-24 01:42:40",
+        "last_seen": "2023-10-20 05:41:55",
+        "ip_address": "45.120.206.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.xiaoxuqi666.top",
+        "count": "3",
+        "first_seen": "2023-06-10 06:21:38",
+        "last_seen": "2023-06-10 15:41:57",
+        "ip_address": "49.51.77.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.xiaoxuqi666.top",
+        "count": "5",
+        "first_seen": "2023-06-27 23:45:10",
+        "last_seen": "2023-07-06 20:30:37",
+        "ip_address": "49.51.79.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.xiaoxuqi666.top",
+        "count": "8083",
+        "first_seen": "2023-02-02 18:09:39",
+        "last_seen": "2023-06-02 12:16:20",
+        "ip_address": "104.21.72.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.xiaoxuqi666.top",
+        "count": "8083",
+        "first_seen": "2023-02-02 18:09:39",
+        "last_seen": "2023-06-02 12:16:20",
+        "ip_address": "172.67.155.161",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.xiaoxuqi666.top",
+        "count": "268",
+        "first_seen": "2023-02-02 20:59:07",
+        "last_seen": "2023-06-02 12:16:20",
+        "ip_address": "2606:4700:3030::ac43:9ba1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.xiaoxuqi666.top",
+        "count": "268",
+        "first_seen": "2023-02-02 20:59:07",
+        "last_seen": "2023-06-02 12:16:20",
+        "ip_address": "2606:4700:3031::6815:48db",
+        "type": "IPv6"
+    }
+]

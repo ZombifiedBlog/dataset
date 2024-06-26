@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "smartele.cn",
+        "count": "7",
+        "first_seen": "2017-05-18 02:23:17",
+        "last_seen": "2017-06-14 23:06:14",
+        "ip_address": "47.89.58.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smartele.cn",
+        "count": "40",
+        "first_seen": "2020-10-29 09:12:25",
+        "last_seen": "2020-11-27 21:31:15",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smartele.cn",
+        "count": "70345",
+        "first_seen": "2021-06-07 09:17:45",
+        "last_seen": "2024-01-11 22:25:41",
+        "ip_address": "82.157.27.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smartele.cn",
+        "count": "13",
+        "first_seen": "2021-04-22 07:46:53",
+        "last_seen": "2021-05-05 23:38:53",
+        "ip_address": "114.67.239.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smartele.cn",
+        "count": "1",
+        "first_seen": "2021-06-03 01:28:26",
+        "last_seen": "2021-06-03 01:28:26",
+        "ip_address": "123.60.79.169",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smartele.cn",
+        "count": "155",
+        "first_seen": "2015-11-15 11:32:21",
+        "last_seen": "2017-05-12 19:49:33",
+        "ip_address": "139.129.142.50",
+        "type": "IPv4"
+    }
+]

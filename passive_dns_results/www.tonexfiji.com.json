@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.tonexfiji.com",
+        "count": "58",
+        "first_seen": "2017-02-11 07:41:38",
+        "last_seen": "2019-01-26 00:33:58",
+        "ip_address": "45.79.175.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tonexfiji.com",
+        "count": "2",
+        "first_seen": "2020-08-14 08:44:53",
+        "last_seen": "2020-08-14 08:44:53",
+        "ip_address": "104.24.106.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tonexfiji.com",
+        "count": "2",
+        "first_seen": "2020-08-14 08:44:53",
+        "last_seen": "2020-08-14 08:44:53",
+        "ip_address": "104.24.107.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tonexfiji.com",
+        "count": "2",
+        "first_seen": "2020-08-14 08:44:53",
+        "last_seen": "2020-08-14 08:44:53",
+        "ip_address": "172.67.195.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tonexfiji.com",
+        "count": "4",
+        "first_seen": "2020-08-14 08:44:54",
+        "last_seen": "2020-08-14 22:02:33",
+        "ip_address": "2606:4700:3030::ac43:c35c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.tonexfiji.com",
+        "count": "4",
+        "first_seen": "2020-08-14 08:44:54",
+        "last_seen": "2020-08-14 22:02:33",
+        "ip_address": "2606:4700:3032::6818:6a80",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.tonexfiji.com",
+        "count": "4",
+        "first_seen": "2020-08-14 08:44:54",
+        "last_seen": "2020-08-14 22:02:33",
+        "ip_address": "2606:4700:3033::6818:6b80",
+        "type": "IPv6"
+    }
+]

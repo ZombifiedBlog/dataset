@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "icsha.iainponorogo.ac.id",
+        "count": "25",
+        "first_seen": "2020-05-06 17:11:27",
+        "last_seen": "2020-09-21 22:17:04",
+        "ip_address": "103.149.22.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "icsha.iainponorogo.ac.id",
+        "count": "1681",
+        "first_seen": "2020-12-27 02:10:32",
+        "last_seen": "2023-12-05 13:33:23",
+        "ip_address": "103.149.22.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "icsha.iainponorogo.ac.id",
+        "count": "10",
+        "first_seen": "2023-12-23 18:12:39",
+        "last_seen": "2024-01-18 10:18:48",
+        "ip_address": "103.149.22.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "icsha.iainponorogo.ac.id",
+        "count": "4",
+        "first_seen": "2020-04-03 21:44:23",
+        "last_seen": "2020-04-03 21:45:23",
+        "ip_address": "118.97.238.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "icsha.iainponorogo.ac.id",
+        "count": "5",
+        "first_seen": "2020-11-01 17:19:50",
+        "last_seen": "2020-12-23 12:08:28",
+        "ip_address": "180.250.166.115",
+        "type": "IPv4"
+    }
+]

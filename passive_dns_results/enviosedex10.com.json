@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "enviosedex10.com",
+        "count": "96",
+        "first_seen": "2019-05-08 13:23:44",
+        "last_seen": "2019-11-13 19:11:53",
+        "ip_address": "13.84.211.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "enviosedex10.com",
+        "count": "43",
+        "first_seen": "2019-01-28 23:12:26",
+        "last_seen": "2019-01-30 22:51:56",
+        "ip_address": "13.92.212.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "enviosedex10.com",
+        "count": "23",
+        "first_seen": "2019-04-20 18:51:40",
+        "last_seen": "2019-04-25 12:07:38",
+        "ip_address": "23.96.197.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "enviosedex10.com",
+        "count": "4",
+        "first_seen": "2019-04-20 02:21:38",
+        "last_seen": "2019-04-20 04:48:02",
+        "ip_address": "65.52.209.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "enviosedex10.com",
+        "count": "8",
+        "first_seen": "2019-02-03 02:31:31",
+        "last_seen": "2019-02-04 22:12:13",
+        "ip_address": "104.211.15.131",
+        "type": "IPv4"
+    },
+    {
+        "domain": "enviosedex10.com",
+        "count": "214",
+        "first_seen": "2018-10-12 08:35:35",
+        "last_seen": "2019-01-02 22:26:15",
+        "ip_address": "191.6.204.95",
+        "type": "IPv4"
+    },
+    {
+        "domain": "enviosedex10.com",
+        "count": "45",
+        "first_seen": "2019-02-06 21:37:18",
+        "last_seen": "2019-04-18 05:19:59",
+        "ip_address": "191.232.198.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "enviosedex10.com",
+        "count": "43",
+        "first_seen": "2018-10-12 08:19:03",
+        "last_seen": "2018-12-23 20:36:15",
+        "ip_address": "2804:10:4076::204:95",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "domain": "cornerstoneinternalmedicine.com",
+        "count": "19",
+        "first_seen": "2022-10-05 02:07:18",
+        "last_seen": "2022-10-25 09:02:25",
+        "ip_address": "45.200.35.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cornerstoneinternalmedicine.com",
+        "count": "13",
+        "first_seen": "2022-08-05 15:59:36",
+        "last_seen": "2022-08-14 11:50:37",
+        "ip_address": "45.200.55.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cornerstoneinternalmedicine.com",
+        "count": "42",
+        "first_seen": "2023-04-29 18:10:21",
+        "last_seen": "2023-07-12 21:51:09",
+        "ip_address": "64.190.63.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cornerstoneinternalmedicine.com",
+        "count": "16",
+        "first_seen": "2022-05-18 06:50:46",
+        "last_seen": "2022-06-23 12:00:40",
+        "ip_address": "91.195.240.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cornerstoneinternalmedicine.com",
+        "count": "2660",
+        "first_seen": "2023-07-13 14:38:27",
+        "last_seen": "2023-09-01 06:37:33",
+        "ip_address": "101.32.62.231",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cornerstoneinternalmedicine.com",
+        "count": "37",
+        "first_seen": "2023-03-18 14:03:44",
+        "last_seen": "2023-04-27 00:09:06",
+        "ip_address": "104.21.22.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cornerstoneinternalmedicine.com",
+        "count": "37",
+        "first_seen": "2023-03-18 14:03:44",
+        "last_seen": "2023-04-27 00:09:06",
+        "ip_address": "172.67.205.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cornerstoneinternalmedicine.com",
+        "count": "15",
+        "first_seen": "2023-05-31 21:17:15",
+        "last_seen": "2023-06-04 08:35:59",
+        "ip_address": "104.21.84.73",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cornerstoneinternalmedicine.com",
+        "count": "15",
+        "first_seen": "2023-05-31 21:17:15",
+        "last_seen": "2023-06-04 08:35:59",
+        "ip_address": "172.67.188.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cornerstoneinternalmedicine.com",
+        "count": "1531",
+        "first_seen": "2014-09-03 17:45:11",
+        "last_seen": "2022-05-14 21:32:25",
+        "ip_address": "149.115.16.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cornerstoneinternalmedicine.com",
+        "count": "25",
+        "first_seen": "2022-08-15 02:33:54",
+        "last_seen": "2022-09-17 13:17:51",
+        "ip_address": "154.216.44.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cornerstoneinternalmedicine.com",
+        "count": "7",
+        "first_seen": "2022-11-02 21:47:58",
+        "last_seen": "2022-11-05 21:21:39",
+        "ip_address": "156.246.7.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cornerstoneinternalmedicine.com",
+        "count": "407",
+        "first_seen": "2023-10-08 21:24:57",
+        "last_seen": "2024-01-17 21:36:41",
+        "ip_address": "199.59.243.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cornerstoneinternalmedicine.com",
+        "count": "15",
+        "first_seen": "2010-09-29 04:15:13",
+        "last_seen": "2013-05-20 20:57:04",
+        "ip_address": "204.200.144.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cornerstoneinternalmedicine.com",
+        "count": "1",
+        "first_seen": "2023-05-31 21:17:47",
+        "last_seen": "2023-05-31 21:17:47",
+        "ip_address": "2606:4700:3034::6815:5449",
+        "type": "IPv6"
+    },
+    {
+        "domain": "cornerstoneinternalmedicine.com",
+        "count": "1",
+        "first_seen": "2023-05-31 21:17:47",
+        "last_seen": "2023-05-31 21:17:47",
+        "ip_address": "2606:4700:3037::ac43:bca3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "cornerstoneinternalmedicine.com",
+        "count": "10",
+        "first_seen": "2023-03-27 08:31:34",
+        "last_seen": "2023-04-17 07:25:42",
+        "ip_address": "2606:4700:3035::6815:1698",
+        "type": "IPv6"
+    },
+    {
+        "domain": "cornerstoneinternalmedicine.com",
+        "count": "10",
+        "first_seen": "2023-03-27 08:31:34",
+        "last_seen": "2023-04-17 07:25:42",
+        "ip_address": "2606:4700:3037::ac43:cd5a",
+        "type": "IPv6"
+    }
+]

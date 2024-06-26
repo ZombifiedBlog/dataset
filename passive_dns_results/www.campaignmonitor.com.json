@@ -1,0 +1,866 @@
+[
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "249438",
+        "first_seen": "2020-10-26 08:16:04",
+        "last_seen": "2020-12-22 00:50:11",
+        "ip_address": "13.32.179.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "249438",
+        "first_seen": "2020-10-26 08:16:04",
+        "last_seen": "2020-12-22 00:50:11",
+        "ip_address": "13.32.179.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "249438",
+        "first_seen": "2020-10-26 08:16:04",
+        "last_seen": "2020-12-22 00:50:11",
+        "ip_address": "13.32.179.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "249438",
+        "first_seen": "2020-10-26 08:16:04",
+        "last_seen": "2020-12-22 00:50:11",
+        "ip_address": "13.32.179.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "390500",
+        "first_seen": "2020-12-30 00:43:38",
+        "last_seen": "2021-01-26 07:27:09",
+        "ip_address": "13.32.181.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "390500",
+        "first_seen": "2020-12-30 00:43:38",
+        "last_seen": "2021-01-26 07:27:09",
+        "ip_address": "13.32.181.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "390500",
+        "first_seen": "2020-12-30 00:43:38",
+        "last_seen": "2021-01-26 07:27:09",
+        "ip_address": "13.32.181.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "390500",
+        "first_seen": "2020-12-30 00:43:38",
+        "last_seen": "2021-01-26 07:27:09",
+        "ip_address": "13.32.181.81",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "238158",
+        "first_seen": "2020-11-20 03:05:41",
+        "last_seen": "2020-12-05 16:09:22",
+        "ip_address": "13.32.182.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "238158",
+        "first_seen": "2020-11-20 03:05:41",
+        "last_seen": "2020-12-05 16:09:22",
+        "ip_address": "13.32.182.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "238158",
+        "first_seen": "2020-11-20 03:05:41",
+        "last_seen": "2020-12-05 16:09:22",
+        "ip_address": "13.32.182.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "238158",
+        "first_seen": "2020-11-20 03:05:41",
+        "last_seen": "2020-12-05 16:09:22",
+        "ip_address": "13.32.182.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "53425",
+        "first_seen": "2020-12-22 00:50:19",
+        "last_seen": "2020-12-25 20:35:58",
+        "ip_address": "13.32.183.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "53425",
+        "first_seen": "2020-12-22 00:50:19",
+        "last_seen": "2020-12-25 20:35:58",
+        "ip_address": "13.32.183.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "53425",
+        "first_seen": "2020-12-22 00:50:19",
+        "last_seen": "2020-12-25 20:35:58",
+        "ip_address": "13.32.183.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "53425",
+        "first_seen": "2020-12-22 00:50:19",
+        "last_seen": "2020-12-25 20:35:58",
+        "ip_address": "13.32.183.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "164683",
+        "first_seen": "2020-12-05 16:09:36",
+        "last_seen": "2020-12-30 00:43:34",
+        "ip_address": "13.32.192.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "164683",
+        "first_seen": "2020-12-05 16:09:36",
+        "last_seen": "2020-12-30 00:43:34",
+        "ip_address": "13.32.192.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "164683",
+        "first_seen": "2020-12-05 16:09:36",
+        "last_seen": "2020-12-30 00:43:34",
+        "ip_address": "13.32.192.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "164683",
+        "first_seen": "2020-12-05 16:09:36",
+        "last_seen": "2020-12-30 00:43:34",
+        "ip_address": "13.32.192.91",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "15",
+        "first_seen": "2020-11-09 04:48:25",
+        "last_seen": "2020-11-09 04:55:38",
+        "ip_address": "13.33.163.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "15",
+        "first_seen": "2020-11-09 04:48:25",
+        "last_seen": "2020-11-09 04:55:38",
+        "ip_address": "13.33.163.72",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "15",
+        "first_seen": "2020-11-09 04:48:25",
+        "last_seen": "2020-11-09 04:55:38",
+        "ip_address": "13.33.163.98",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "15",
+        "first_seen": "2020-11-09 04:48:25",
+        "last_seen": "2020-11-09 04:55:38",
+        "ip_address": "13.33.163.108",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "84",
+        "first_seen": "2020-12-11 07:52:00",
+        "last_seen": "2020-12-11 08:01:03",
+        "ip_address": "13.224.10.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "84",
+        "first_seen": "2020-12-11 07:52:00",
+        "last_seen": "2020-12-11 08:01:03",
+        "ip_address": "13.224.10.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "84",
+        "first_seen": "2020-12-11 07:52:00",
+        "last_seen": "2020-12-11 08:01:03",
+        "ip_address": "13.224.10.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "84",
+        "first_seen": "2020-12-11 07:52:00",
+        "last_seen": "2020-12-11 08:01:03",
+        "ip_address": "13.224.10.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "146",
+        "first_seen": "2020-12-11 21:21:55",
+        "last_seen": "2020-12-11 21:31:46",
+        "ip_address": "13.226.169.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "146",
+        "first_seen": "2020-12-11 21:21:55",
+        "last_seen": "2020-12-11 21:31:46",
+        "ip_address": "13.226.169.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "146",
+        "first_seen": "2020-12-11 21:21:55",
+        "last_seen": "2020-12-11 21:31:46",
+        "ip_address": "13.226.169.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "146",
+        "first_seen": "2020-12-11 21:21:55",
+        "last_seen": "2020-12-11 21:31:46",
+        "ip_address": "13.226.169.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "19",
+        "first_seen": "2020-10-30 14:19:55",
+        "last_seen": "2020-10-30 14:28:42",
+        "ip_address": "13.226.214.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "19",
+        "first_seen": "2020-10-30 14:19:55",
+        "last_seen": "2020-10-30 14:28:42",
+        "ip_address": "13.226.214.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "19",
+        "first_seen": "2020-10-30 14:19:55",
+        "last_seen": "2020-10-30 14:28:42",
+        "ip_address": "13.226.214.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "19",
+        "first_seen": "2020-10-30 14:19:55",
+        "last_seen": "2020-10-30 14:28:42",
+        "ip_address": "13.226.214.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "106",
+        "first_seen": "2020-12-27 13:03:08",
+        "last_seen": "2020-12-27 13:12:07",
+        "ip_address": "13.227.75.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "106",
+        "first_seen": "2020-12-27 13:03:08",
+        "last_seen": "2020-12-27 13:12:07",
+        "ip_address": "13.227.75.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "106",
+        "first_seen": "2020-12-27 13:03:08",
+        "last_seen": "2020-12-27 13:12:07",
+        "ip_address": "13.227.75.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "106",
+        "first_seen": "2020-12-27 13:03:08",
+        "last_seen": "2020-12-27 13:12:07",
+        "ip_address": "13.227.75.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "11",
+        "first_seen": "2020-11-15 13:26:03",
+        "last_seen": "2020-11-15 13:34:52",
+        "ip_address": "13.227.156.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "11",
+        "first_seen": "2020-11-15 13:26:03",
+        "last_seen": "2020-11-15 13:34:52",
+        "ip_address": "13.227.156.41",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "11",
+        "first_seen": "2020-11-15 13:26:03",
+        "last_seen": "2020-11-15 13:34:52",
+        "ip_address": "13.227.156.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "11",
+        "first_seen": "2020-11-15 13:26:03",
+        "last_seen": "2020-11-15 13:34:52",
+        "ip_address": "13.227.156.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "92",
+        "first_seen": "2020-12-21 05:02:06",
+        "last_seen": "2020-12-21 05:12:32",
+        "ip_address": "13.249.178.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "92",
+        "first_seen": "2020-12-21 05:02:06",
+        "last_seen": "2020-12-21 05:12:32",
+        "ip_address": "13.249.178.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "92",
+        "first_seen": "2020-12-21 05:02:06",
+        "last_seen": "2020-12-21 05:12:32",
+        "ip_address": "13.249.178.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "92",
+        "first_seen": "2020-12-21 05:02:06",
+        "last_seen": "2020-12-21 05:12:32",
+        "ip_address": "13.249.178.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "18",
+        "first_seen": "2012-06-21 04:05:14",
+        "last_seen": "2012-06-21 04:29:46",
+        "ip_address": "27.126.145.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "73226",
+        "first_seen": "2012-03-31 22:29:00",
+        "last_seen": "2012-06-21 03:58:58",
+        "ip_address": "27.126.145.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "73226",
+        "first_seen": "2012-03-31 22:29:00",
+        "last_seen": "2012-06-21 03:58:58",
+        "ip_address": "27.126.145.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "120",
+        "first_seen": "2021-01-18 21:52:16",
+        "last_seen": "2021-01-18 22:03:52",
+        "ip_address": "54.192.145.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "120",
+        "first_seen": "2021-01-18 21:52:16",
+        "last_seen": "2021-01-18 22:03:52",
+        "ip_address": "54.192.145.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "120",
+        "first_seen": "2021-01-18 21:52:16",
+        "last_seen": "2021-01-18 22:03:52",
+        "ip_address": "54.192.145.99",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "120",
+        "first_seen": "2021-01-18 21:52:16",
+        "last_seen": "2021-01-18 22:03:52",
+        "ip_address": "54.192.145.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "105",
+        "first_seen": "2020-12-21 02:52:40",
+        "last_seen": "2020-12-21 03:02:32",
+        "ip_address": "54.230.235.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "105",
+        "first_seen": "2020-12-21 02:52:40",
+        "last_seen": "2020-12-21 03:02:32",
+        "ip_address": "54.230.235.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "105",
+        "first_seen": "2020-12-21 02:52:40",
+        "last_seen": "2020-12-21 03:02:32",
+        "ip_address": "54.230.235.68",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "105",
+        "first_seen": "2020-12-21 02:52:40",
+        "last_seen": "2020-12-21 03:02:32",
+        "ip_address": "54.230.235.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "93",
+        "first_seen": "2020-12-17 05:20:34",
+        "last_seen": "2020-12-17 05:30:23",
+        "ip_address": "65.8.72.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "93",
+        "first_seen": "2020-12-17 05:20:34",
+        "last_seen": "2020-12-17 05:30:23",
+        "ip_address": "65.8.72.47",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "93",
+        "first_seen": "2020-12-17 05:20:34",
+        "last_seen": "2020-12-17 05:30:23",
+        "ip_address": "65.8.72.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "93",
+        "first_seen": "2020-12-17 05:20:34",
+        "last_seen": "2020-12-17 05:30:23",
+        "ip_address": "65.8.72.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "89",
+        "first_seen": "2021-01-23 11:32:25",
+        "last_seen": "2021-01-23 11:40:30",
+        "ip_address": "65.8.236.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "89",
+        "first_seen": "2021-01-23 11:32:25",
+        "last_seen": "2021-01-23 11:40:30",
+        "ip_address": "65.8.236.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "89",
+        "first_seen": "2021-01-23 11:32:25",
+        "last_seen": "2021-01-23 11:40:30",
+        "ip_address": "65.8.236.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "89",
+        "first_seen": "2021-01-23 11:32:25",
+        "last_seen": "2021-01-23 11:40:30",
+        "ip_address": "65.8.236.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "75",
+        "first_seen": "2020-11-22 08:46:23",
+        "last_seen": "2020-11-22 08:55:41",
+        "ip_address": "65.9.86.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "75",
+        "first_seen": "2020-11-22 08:46:23",
+        "last_seen": "2020-11-22 08:55:41",
+        "ip_address": "65.9.86.63",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "75",
+        "first_seen": "2020-11-22 08:46:23",
+        "last_seen": "2020-11-22 08:55:41",
+        "ip_address": "65.9.86.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "75",
+        "first_seen": "2020-11-22 08:46:23",
+        "last_seen": "2020-11-22 08:55:41",
+        "ip_address": "65.9.86.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "67",
+        "first_seen": "2021-01-10 05:24:42",
+        "last_seen": "2021-01-10 05:33:01",
+        "ip_address": "65.9.96.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "67",
+        "first_seen": "2021-01-10 05:24:42",
+        "last_seen": "2021-01-10 05:33:01",
+        "ip_address": "65.9.96.82",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "67",
+        "first_seen": "2021-01-10 05:24:42",
+        "last_seen": "2021-01-10 05:33:01",
+        "ip_address": "65.9.96.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "67",
+        "first_seen": "2021-01-10 05:24:42",
+        "last_seen": "2021-01-10 05:33:01",
+        "ip_address": "65.9.96.126",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "99",
+        "first_seen": "2020-12-07 08:57:53",
+        "last_seen": "2020-12-07 09:06:54",
+        "ip_address": "99.84.222.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "99",
+        "first_seen": "2020-12-07 08:57:53",
+        "last_seen": "2020-12-07 09:06:54",
+        "ip_address": "99.84.222.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "99",
+        "first_seen": "2020-12-07 08:57:53",
+        "last_seen": "2020-12-07 09:06:54",
+        "ip_address": "99.84.222.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "99",
+        "first_seen": "2020-12-07 08:57:53",
+        "last_seen": "2020-12-07 09:06:54",
+        "ip_address": "99.84.222.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "105",
+        "first_seen": "2020-12-25 04:29:03",
+        "last_seen": "2020-12-25 04:37:44",
+        "ip_address": "99.86.205.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "105",
+        "first_seen": "2020-12-25 04:29:03",
+        "last_seen": "2020-12-25 04:37:44",
+        "ip_address": "99.86.205.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "105",
+        "first_seen": "2020-12-25 04:29:03",
+        "last_seen": "2020-12-25 04:37:44",
+        "ip_address": "99.86.205.91",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "105",
+        "first_seen": "2020-12-25 04:29:03",
+        "last_seen": "2020-12-25 04:37:44",
+        "ip_address": "99.86.205.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "15",
+        "first_seen": "2020-11-14 00:06:00",
+        "last_seen": "2020-11-14 00:14:12",
+        "ip_address": "99.86.230.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "15",
+        "first_seen": "2020-11-14 00:06:00",
+        "last_seen": "2020-11-14 00:14:12",
+        "ip_address": "99.86.230.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "15",
+        "first_seen": "2020-11-14 00:06:00",
+        "last_seen": "2020-11-14 00:14:12",
+        "ip_address": "99.86.230.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "15",
+        "first_seen": "2020-11-14 00:06:00",
+        "last_seen": "2020-11-14 00:14:12",
+        "ip_address": "99.86.230.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "711307",
+        "first_seen": "2012-10-06 17:41:46",
+        "last_seen": "2015-08-26 04:42:18",
+        "ip_address": "103.28.41.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "742876",
+        "first_seen": "2014-04-22 02:37:04",
+        "last_seen": "2015-12-10 04:49:13",
+        "ip_address": "103.28.41.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "742876",
+        "first_seen": "2014-04-22 02:37:04",
+        "last_seen": "2015-12-10 04:49:13",
+        "ip_address": "103.28.41.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "10",
+        "first_seen": "2014-11-20 18:40:11",
+        "last_seen": "2014-12-08 00:30:54",
+        "ip_address": "103.28.41.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "10",
+        "first_seen": "2014-11-20 18:40:11",
+        "last_seen": "2014-12-08 00:30:54",
+        "ip_address": "103.28.41.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "10",
+        "first_seen": "2014-11-20 18:40:11",
+        "last_seen": "2014-12-08 00:30:54",
+        "ip_address": "180.189.137.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "10",
+        "first_seen": "2014-11-20 18:40:11",
+        "last_seen": "2014-12-08 00:30:54",
+        "ip_address": "180.189.137.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "118",
+        "first_seen": "2021-07-09 00:20:23",
+        "last_seen": "2021-07-09 00:31:19",
+        "ip_address": "104.16.147.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "118",
+        "first_seen": "2021-07-09 00:20:23",
+        "last_seen": "2021-07-09 00:31:19",
+        "ip_address": "104.16.148.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "4045115",
+        "first_seen": "2020-10-26 07:39:26",
+        "last_seen": "2021-10-04 07:13:40",
+        "ip_address": "141.193.213.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "4045115",
+        "first_seen": "2020-10-26 07:39:26",
+        "last_seen": "2021-10-04 07:13:40",
+        "ip_address": "141.193.213.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "116",
+        "first_seen": "2020-12-10 15:35:11",
+        "last_seen": "2020-12-10 15:44:41",
+        "ip_address": "143.204.192.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "116",
+        "first_seen": "2020-12-10 15:35:11",
+        "last_seen": "2020-12-10 15:44:41",
+        "ip_address": "143.204.192.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "116",
+        "first_seen": "2020-12-10 15:35:11",
+        "last_seen": "2020-12-10 15:44:41",
+        "ip_address": "143.204.192.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "116",
+        "first_seen": "2020-12-10 15:35:11",
+        "last_seen": "2020-12-10 15:44:41",
+        "ip_address": "143.204.192.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "252625",
+        "first_seen": "2010-06-24 12:04:51",
+        "last_seen": "2012-03-31 22:27:05",
+        "ip_address": "174.143.67.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "29593",
+        "first_seen": "2014-11-20 18:40:27",
+        "last_seen": "2014-12-08 00:25:14",
+        "ip_address": "180.189.137.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "29593",
+        "first_seen": "2014-11-20 18:40:27",
+        "last_seen": "2014-12-08 00:25:14",
+        "ip_address": "180.189.137.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "161460",
+        "first_seen": "2012-06-21 04:31:02",
+        "last_seen": "2012-10-06 17:38:19",
+        "ip_address": "184.106.86.142",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "44566",
+        "first_seen": "2014-07-08 04:34:09",
+        "last_seen": "2015-08-26 04:36:42",
+        "ip_address": "2404:de00:1:1100::101",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.campaignmonitor.com",
+        "count": "44566",
+        "first_seen": "2014-07-08 04:34:09",
+        "last_seen": "2015-08-26 04:36:42",
+        "ip_address": "2404:de00:1:1100::102",
+        "type": "IPv6"
+    }
+]

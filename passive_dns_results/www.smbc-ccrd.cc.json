@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.smbc-ccrd.cc",
+        "count": "2",
+        "first_seen": "2021-09-10 17:42:37",
+        "last_seen": "2021-09-10 17:42:37",
+        "ip_address": "45.64.54.81",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smbc-ccrd.cc",
+        "count": "1",
+        "first_seen": "2022-01-28 08:52:02",
+        "last_seen": "2022-01-28 08:52:02",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smbc-ccrd.cc",
+        "count": "4",
+        "first_seen": "2021-10-29 08:32:28",
+        "last_seen": "2022-01-01 06:06:24",
+        "ip_address": "107.148.134.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smbc-ccrd.cc",
+        "count": "841",
+        "first_seen": "2021-01-07 18:40:01",
+        "last_seen": "2021-02-10 05:22:59",
+        "ip_address": "107.172.248.186",
+        "type": "IPv4"
+    }
+]

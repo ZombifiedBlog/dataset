@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.lzolv.com",
+        "count": "3",
+        "first_seen": "2023-08-07 05:17:30",
+        "last_seen": "2023-08-15 15:56:24",
+        "ip_address": "52.25.92.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzolv.com",
+        "count": "10",
+        "first_seen": "2023-07-23 23:17:16",
+        "last_seen": "2023-08-15 15:56:23",
+        "ip_address": "54.65.172.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzolv.com",
+        "count": "7639",
+        "first_seen": "2022-11-23 02:42:07",
+        "last_seen": "2022-12-23 09:50:43",
+        "ip_address": "104.21.95.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzolv.com",
+        "count": "7639",
+        "first_seen": "2022-11-23 02:42:07",
+        "last_seen": "2022-12-23 09:50:43",
+        "ip_address": "172.67.171.126",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzolv.com",
+        "count": "1",
+        "first_seen": "2022-11-27 03:51:28",
+        "last_seen": "2022-11-27 03:51:28",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzolv.com",
+        "count": "26",
+        "first_seen": "2022-11-23 03:17:22",
+        "last_seen": "2022-12-03 01:20:43",
+        "ip_address": "2606:4700:3035::6815:5fe0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lzolv.com",
+        "count": "26",
+        "first_seen": "2022-11-23 03:17:22",
+        "last_seen": "2022-12-03 01:20:43",
+        "ip_address": "2606:4700:3036::ac43:ab7e",
+        "type": "IPv6"
+    }
+]

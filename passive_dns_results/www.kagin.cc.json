@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.kagin.cc",
+        "count": "2",
+        "first_seen": "2022-06-01 05:57:48",
+        "last_seen": "2022-06-01 05:57:48",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kagin.cc",
+        "count": "671",
+        "first_seen": "2021-05-04 19:16:43",
+        "last_seen": "2021-05-05 16:06:45",
+        "ip_address": "192.3.48.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kagin.cc",
+        "count": "29",
+        "first_seen": "2021-05-05 18:09:28",
+        "last_seen": "2022-02-20 05:33:17",
+        "ip_address": "198.12.121.85",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazonosxs.xyz",
+        "count": "5",
+        "first_seen": "2021-09-05 08:22:30",
+        "last_seen": "2021-09-30 02:13:35",
+        "ip_address": "72.52.179.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonosxs.xyz",
+        "count": "15",
+        "first_seen": "2020-09-04 20:39:59",
+        "last_seen": "2020-09-06 09:21:13",
+        "ip_address": "173.82.57.186",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonosxs.xyz",
+        "count": "18",
+        "first_seen": "2020-09-06 20:39:58",
+        "last_seen": "2020-09-08 20:59:37",
+        "ip_address": "173.82.57.240",
+        "type": "IPv4"
+    }
+]

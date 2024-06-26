@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.cr.mufg.yexietz.com",
+        "count": "249",
+        "first_seen": "2020-11-03 04:55:00",
+        "last_seen": "2022-11-26 13:54:13",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cr.mufg.yexietz.com",
+        "count": "15",
+        "first_seen": "2021-01-26 07:02:48",
+        "last_seen": "2021-11-02 05:45:26",
+        "ip_address": "101.32.187.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cr.mufg.yexietz.com",
+        "count": "375",
+        "first_seen": "2020-10-31 22:21:14",
+        "last_seen": "2020-11-03 03:02:57",
+        "ip_address": "104.144.165.82",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "myfarmersmarket.gr",
+        "count": "562",
+        "first_seen": "2019-11-03 15:55:03",
+        "last_seen": "2020-11-03 13:48:25",
+        "ip_address": "185.138.42.68",
+        "type": "IPv4"
+    },
+    {
+        "domain": "myfarmersmarket.gr",
+        "count": "311",
+        "first_seen": "2019-11-05 19:12:23",
+        "last_seen": "2020-10-28 20:00:56",
+        "ip_address": "2a02:c500:1:11d::1",
+        "type": "IPv6"
+    }
+]

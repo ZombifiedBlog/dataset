@@ -1,0 +1,162 @@
+[
+    {
+        "domain": "qulearning.com",
+        "count": "14",
+        "first_seen": "2018-01-20 17:56:37",
+        "last_seen": "2018-03-02 08:39:54",
+        "ip_address": "47.89.58.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "qulearning.com",
+        "count": "15",
+        "first_seen": "2018-09-14 03:33:54",
+        "last_seen": "2018-10-05 06:28:00",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "qulearning.com",
+        "count": "1",
+        "first_seen": "2018-06-29 18:32:18",
+        "last_seen": "2018-06-29 18:32:18",
+        "ip_address": "72.52.4.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "qulearning.com",
+        "count": "57",
+        "first_seen": "2018-05-29 15:10:25",
+        "last_seen": "2018-09-08 21:08:13",
+        "ip_address": "72.52.4.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "qulearning.com",
+        "count": "6",
+        "first_seen": "2022-08-25 16:33:59",
+        "last_seen": "2022-09-26 04:12:32",
+        "ip_address": "91.195.240.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "qulearning.com",
+        "count": "3",
+        "first_seen": "2023-06-05 04:36:40",
+        "last_seen": "2023-06-08 15:04:23",
+        "ip_address": "103.214.68.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "qulearning.com",
+        "count": "36",
+        "first_seen": "2023-03-06 14:45:11",
+        "last_seen": "2023-05-04 14:52:00",
+        "ip_address": "104.21.33.79",
+        "type": "IPv4"
+    },
+    {
+        "domain": "qulearning.com",
+        "count": "36",
+        "first_seen": "2023-03-06 14:45:11",
+        "last_seen": "2023-05-04 14:52:00",
+        "ip_address": "172.67.160.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "qulearning.com",
+        "count": "51",
+        "first_seen": "2023-06-09 06:30:48",
+        "last_seen": "2023-06-25 17:00:59",
+        "ip_address": "104.21.58.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "qulearning.com",
+        "count": "51",
+        "first_seen": "2023-06-09 06:30:48",
+        "last_seen": "2023-06-25 17:00:59",
+        "ip_address": "172.67.161.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "qulearning.com",
+        "count": "222",
+        "first_seen": "2020-08-26 06:07:34",
+        "last_seen": "2021-03-01 08:01:11",
+        "ip_address": "113.11.255.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "qulearning.com",
+        "count": "317",
+        "first_seen": "2021-03-05 06:16:12",
+        "last_seen": "2022-08-19 22:38:49",
+        "ip_address": "113.11.255.68",
+        "type": "IPv4"
+    },
+    {
+        "domain": "qulearning.com",
+        "count": "4",
+        "first_seen": "2022-12-19 09:58:27",
+        "last_seen": "2022-12-27 09:29:01",
+        "ip_address": "154.38.202.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "qulearning.com",
+        "count": "4",
+        "first_seen": "2022-11-06 17:48:48",
+        "last_seen": "2022-11-28 21:02:58",
+        "ip_address": "160.124.207.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "qulearning.com",
+        "count": "16",
+        "first_seen": "2023-05-16 01:38:43",
+        "last_seen": "2023-05-30 06:06:32",
+        "ip_address": "164.155.218.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "qulearning.com",
+        "count": "306",
+        "first_seen": "2023-06-28 15:33:40",
+        "last_seen": "2023-06-29 23:07:04",
+        "ip_address": "204.44.75.99",
+        "type": "IPv4"
+    },
+    {
+        "domain": "qulearning.com",
+        "count": "40",
+        "first_seen": "2023-06-09 06:31:00",
+        "last_seen": "2023-06-22 11:42:44",
+        "ip_address": "2606:4700:3033::6815:3aa4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "qulearning.com",
+        "count": "40",
+        "first_seen": "2023-06-09 06:31:00",
+        "last_seen": "2023-06-22 11:42:44",
+        "ip_address": "2606:4700:3033::ac43:a1d4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "qulearning.com",
+        "count": "7",
+        "first_seen": "2023-03-06 14:45:32",
+        "last_seen": "2023-05-04 14:49:57",
+        "ip_address": "2606:4700:3034::6815:214f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "qulearning.com",
+        "count": "7",
+        "first_seen": "2023-03-06 14:45:32",
+        "last_seen": "2023-05-04 14:49:57",
+        "ip_address": "2606:4700:3037::ac43:a004",
+        "type": "IPv6"
+    }
+]

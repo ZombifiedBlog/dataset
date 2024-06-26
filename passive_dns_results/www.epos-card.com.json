@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "www.epos-card.com",
+        "count": "6",
+        "first_seen": "2020-01-30 09:28:08",
+        "last_seen": "2020-02-12 17:59:13",
+        "ip_address": "34.254.1.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.epos-card.com",
+        "count": "6",
+        "first_seen": "2022-04-13 23:13:03",
+        "last_seen": "2022-05-05 11:18:42",
+        "ip_address": "43.130.65.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.epos-card.com",
+        "count": "1564",
+        "first_seen": "2021-04-07 19:35:28",
+        "last_seen": "2021-04-10 13:29:21",
+        "ip_address": "104.168.14.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.epos-card.com",
+        "count": "53",
+        "first_seen": "2021-06-16 10:36:41",
+        "last_seen": "2022-03-19 18:23:59",
+        "ip_address": "154.197.190.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.epos-card.com",
+        "count": "89",
+        "first_seen": "2023-09-04 07:08:41",
+        "last_seen": "2024-01-17 03:13:17",
+        "ip_address": "156.224.152.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.epos-card.com",
+        "count": "1",
+        "first_seen": "2023-08-12 12:27:03",
+        "last_seen": "2023-08-12 12:27:03",
+        "ip_address": "156.224.153.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.epos-card.com",
+        "count": "17",
+        "first_seen": "2019-01-20 07:57:49",
+        "last_seen": "2019-02-14 03:08:52",
+        "ip_address": "157.112.150.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.epos-card.com",
+        "count": "48",
+        "first_seen": "2017-06-18 08:24:35",
+        "last_seen": "2018-04-14 14:52:19",
+        "ip_address": "183.90.238.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.epos-card.com",
+        "count": "73",
+        "first_seen": "2021-04-10 13:56:48",
+        "last_seen": "2021-04-17 08:19:22",
+        "ip_address": "198.12.121.164",
+        "type": "IPv4"
+    }
+]

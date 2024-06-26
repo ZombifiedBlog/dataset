@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "my-jcb-co-jp.icooya.com",
+        "count": "109",
+        "first_seen": "2022-06-20 14:23:37",
+        "last_seen": "2022-06-21 21:51:00",
+        "ip_address": "104.21.10.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.icooya.com",
+        "count": "109",
+        "first_seen": "2022-06-20 14:23:37",
+        "last_seen": "2022-06-21 21:51:00",
+        "ip_address": "172.67.146.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.icooya.com",
+        "count": "2",
+        "first_seen": "2022-06-20 21:01:58",
+        "last_seen": "2022-06-20 21:01:58",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.icooya.com",
+        "count": "2",
+        "first_seen": "2022-06-20 21:01:58",
+        "last_seen": "2022-06-20 21:01:58",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.icooya.com",
+        "count": "10",
+        "first_seen": "2022-06-20 16:11:47",
+        "last_seen": "2022-06-20 23:52:08",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.icooya.com",
+        "count": "10",
+        "first_seen": "2022-06-20 16:11:47",
+        "last_seen": "2022-06-20 23:52:08",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.icooya.com",
+        "count": "26",
+        "first_seen": "2022-06-20 14:43:18",
+        "last_seen": "2022-06-20 23:19:59",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.icooya.com",
+        "count": "26",
+        "first_seen": "2022-06-20 14:43:18",
+        "last_seen": "2022-06-20 23:19:59",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.icooya.com",
+        "count": "7",
+        "first_seen": "2023-11-21 14:30:45",
+        "last_seen": "2023-11-22 03:06:33",
+        "ip_address": "204.11.56.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.icooya.com",
+        "count": "12",
+        "first_seen": "2022-06-20 14:43:18",
+        "last_seen": "2022-06-20 23:19:59",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb-co-jp.icooya.com",
+        "count": "12",
+        "first_seen": "2022-06-20 14:43:18",
+        "last_seen": "2022-06-20 23:19:59",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

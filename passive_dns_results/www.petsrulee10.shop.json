@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.petsrulee10.shop",
+        "count": "573",
+        "first_seen": "2021-12-22 20:17:37",
+        "last_seen": "2022-02-18 04:23:24",
+        "ip_address": "104.21.32.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.petsrulee10.shop",
+        "count": "573",
+        "first_seen": "2021-12-22 20:17:37",
+        "last_seen": "2022-02-18 04:23:24",
+        "ip_address": "172.67.152.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.petsrulee10.shop",
+        "count": "1",
+        "first_seen": "2021-12-25 15:17:47",
+        "last_seen": "2021-12-25 15:17:47",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.petsrulee10.shop",
+        "count": "128",
+        "first_seen": "2021-12-22 20:19:34",
+        "last_seen": "2022-02-18 04:23:24",
+        "ip_address": "2606:4700:3033::6815:2085",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.petsrulee10.shop",
+        "count": "128",
+        "first_seen": "2021-12-22 20:19:34",
+        "last_seen": "2022-02-18 04:23:24",
+        "ip_address": "2606:4700:3035::ac43:9837",
+        "type": "IPv6"
+    }
+]

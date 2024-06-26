@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "t-help.cc",
+        "count": "157",
+        "first_seen": "2023-06-30 16:59:02",
+        "last_seen": "2023-08-02 23:10:13",
+        "ip_address": "104.21.72.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "t-help.cc",
+        "count": "157",
+        "first_seen": "2023-06-30 16:59:02",
+        "last_seen": "2023-08-02 23:10:13",
+        "ip_address": "172.67.176.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "t-help.cc",
+        "count": "42",
+        "first_seen": "2023-08-03 13:01:08",
+        "last_seen": "2023-08-07 07:22:40",
+        "ip_address": "104.21.84.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "t-help.cc",
+        "count": "42",
+        "first_seen": "2023-08-03 13:01:08",
+        "last_seen": "2023-08-07 07:22:40",
+        "ip_address": "172.67.197.184",
+        "type": "IPv4"
+    },
+    {
+        "domain": "t-help.cc",
+        "count": "10",
+        "first_seen": "2023-06-30 16:59:02",
+        "last_seen": "2023-08-01 07:02:11",
+        "ip_address": "2606:4700:3032::ac43:b066",
+        "type": "IPv6"
+    },
+    {
+        "domain": "t-help.cc",
+        "count": "10",
+        "first_seen": "2023-06-30 16:59:02",
+        "last_seen": "2023-08-01 07:02:11",
+        "ip_address": "2606:4700:3035::6815:484d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "t-help.cc",
+        "count": "26",
+        "first_seen": "2023-08-03 13:44:28",
+        "last_seen": "2023-08-07 06:49:27",
+        "ip_address": "2606:4700:3033::ac43:c5b8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "t-help.cc",
+        "count": "26",
+        "first_seen": "2023-08-03 13:44:28",
+        "last_seen": "2023-08-07 06:49:27",
+        "ip_address": "2606:4700:3037::6815:54e2",
+        "type": "IPv6"
+    }
+]

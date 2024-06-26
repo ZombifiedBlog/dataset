@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.epcscard.com",
+        "count": "1465",
+        "first_seen": "2021-08-05 18:40:32",
+        "last_seen": "2022-08-06 01:26:06",
+        "ip_address": "155.235.250.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.epcscard.com",
+        "count": "4",
+        "first_seen": "2022-08-06 13:59:45",
+        "last_seen": "2022-09-10 11:44:58",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.epcscard.com",
+        "count": "3",
+        "first_seen": "2022-08-06 13:59:45",
+        "last_seen": "2022-09-10 11:44:58",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "www.receivelearnings.com",
+        "count": "510",
+        "first_seen": "2020-07-10 17:48:23",
+        "last_seen": "2021-01-13 22:22:05",
+        "ip_address": "104.27.144.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.receivelearnings.com",
+        "count": "510",
+        "first_seen": "2020-07-10 17:48:23",
+        "last_seen": "2021-01-13 22:22:05",
+        "ip_address": "104.27.145.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.receivelearnings.com",
+        "count": "510",
+        "first_seen": "2020-07-10 17:48:23",
+        "last_seen": "2021-01-13 22:22:05",
+        "ip_address": "172.67.184.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.receivelearnings.com",
+        "count": "28",
+        "first_seen": "2020-07-11 02:28:52",
+        "last_seen": "2020-07-11 03:10:19",
+        "ip_address": "172.64.164.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.receivelearnings.com",
+        "count": "28",
+        "first_seen": "2020-07-11 02:28:52",
+        "last_seen": "2020-07-11 03:10:19",
+        "ip_address": "172.64.165.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.receivelearnings.com",
+        "count": "21",
+        "first_seen": "2020-07-11 02:28:46",
+        "last_seen": "2020-07-11 03:10:19",
+        "ip_address": "2606:4700:e4::ac40:a40c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.receivelearnings.com",
+        "count": "21",
+        "first_seen": "2020-07-11 02:28:46",
+        "last_seen": "2020-07-11 03:10:19",
+        "ip_address": "2606:4700:e4::ac40:a50c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.receivelearnings.com",
+        "count": "159",
+        "first_seen": "2020-07-11 02:02:52",
+        "last_seen": "2020-12-16 00:03:14",
+        "ip_address": "2606:4700:3034::681b:91a0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.receivelearnings.com",
+        "count": "159",
+        "first_seen": "2020-07-11 02:02:52",
+        "last_seen": "2020-12-16 00:03:14",
+        "ip_address": "2606:4700:3036::681b:90a0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.receivelearnings.com",
+        "count": "159",
+        "first_seen": "2020-07-11 02:02:52",
+        "last_seen": "2020-12-16 00:03:14",
+        "ip_address": "2606:4700:3037::ac43:b891",
+        "type": "IPv6"
+    }
+]

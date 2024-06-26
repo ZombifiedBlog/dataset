@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "cr.nufg.qhdwm.com",
+        "count": "168",
+        "first_seen": "2021-07-03 23:52:30",
+        "last_seen": "2021-07-04 22:46:04",
+        "ip_address": "43.255.29.151",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.nufg.qhdwm.com",
+        "count": "10",
+        "first_seen": "2022-04-29 01:15:01",
+        "last_seen": "2022-07-12 20:14:01",
+        "ip_address": "104.166.66.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.nufg.qhdwm.com",
+        "count": "1",
+        "first_seen": "2021-07-24 13:36:28",
+        "last_seen": "2021-07-24 13:36:28",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.nufg.qhdwm.com",
+        "count": "2",
+        "first_seen": "2022-07-23 15:02:00",
+        "last_seen": "2022-07-26 06:35:52",
+        "ip_address": "170.106.49.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.nufg.qhdwm.com",
+        "count": "2",
+        "first_seen": "2022-08-15 17:56:11",
+        "last_seen": "2022-08-15 17:56:11",
+        "ip_address": "170.106.49.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.nufg.qhdwm.com",
+        "count": "14",
+        "first_seen": "2021-09-14 09:29:24",
+        "last_seen": "2022-03-16 05:40:30",
+        "ip_address": "172.106.250.83",
+        "type": "IPv4"
+    }
+]

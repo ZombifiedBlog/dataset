@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.suirango.com",
+        "count": "136",
+        "first_seen": "2018-09-14 09:30:28",
+        "last_seen": "2019-09-15 00:38:46",
+        "ip_address": "104.28.6.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.suirango.com",
+        "count": "136",
+        "first_seen": "2018-09-14 09:30:28",
+        "last_seen": "2019-09-15 00:38:46",
+        "ip_address": "104.28.7.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.suirango.com",
+        "count": "14",
+        "first_seen": "2019-09-15 15:59:48",
+        "last_seen": "2019-09-19 07:35:58",
+        "ip_address": "209.99.40.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.suirango.com",
+        "count": "10",
+        "first_seen": "2019-09-17 05:23:24",
+        "last_seen": "2019-09-20 12:47:29",
+        "ip_address": "209.99.40.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.suirango.com",
+        "count": "2",
+        "first_seen": "2018-09-14 09:30:28",
+        "last_seen": "2018-09-14 09:30:28",
+        "ip_address": "2400:cb00:2048:1::681c:6a8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.suirango.com",
+        "count": "2",
+        "first_seen": "2018-09-14 09:30:28",
+        "last_seen": "2018-09-14 09:30:28",
+        "ip_address": "2400:cb00:2048:1::681c:7a8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.suirango.com",
+        "count": "73",
+        "first_seen": "2018-10-07 22:34:33",
+        "last_seen": "2019-09-15 00:38:46",
+        "ip_address": "2606:4700:30::681c:6a8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.suirango.com",
+        "count": "73",
+        "first_seen": "2018-10-07 22:34:33",
+        "last_seen": "2019-09-15 00:38:46",
+        "ip_address": "2606:4700:30::681c:7a8",
+        "type": "IPv6"
+    }
+]

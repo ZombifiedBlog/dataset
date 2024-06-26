@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "brelevate.com",
+        "count": "5524",
+        "first_seen": "2017-05-04 02:43:20",
+        "last_seen": "2020-12-29 10:18:21",
+        "ip_address": "23.236.62.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "brelevate.com",
+        "count": "15",
+        "first_seen": "2017-03-02 21:42:39",
+        "last_seen": "2017-05-01 19:09:15",
+        "ip_address": "65.254.248.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "brelevate.com",
+        "count": "45",
+        "first_seen": "2023-05-22 05:11:16",
+        "last_seen": "2023-06-30 07:23:55",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "brelevate.com",
+        "count": "118",
+        "first_seen": "2022-06-17 14:40:57",
+        "last_seen": "2022-12-03 07:18:20",
+        "ip_address": "154.88.64.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "brelevate.com",
+        "count": "116",
+        "first_seen": "2022-12-20 17:45:13",
+        "last_seen": "2023-05-09 22:03:14",
+        "ip_address": "155.159.141.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "brelevate.com",
+        "count": "45",
+        "first_seen": "2022-05-22 13:48:12",
+        "last_seen": "2022-06-15 12:08:11",
+        "ip_address": "156.240.242.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "brelevate.com",
+        "count": "389",
+        "first_seen": "2020-12-31 23:23:10",
+        "last_seen": "2022-02-28 03:34:10",
+        "ip_address": "185.230.63.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "brelevate.com",
+        "count": "389",
+        "first_seen": "2020-12-31 23:23:10",
+        "last_seen": "2022-02-28 03:34:10",
+        "ip_address": "185.230.63.171",
+        "type": "IPv4"
+    },
+    {
+        "domain": "brelevate.com",
+        "count": "389",
+        "first_seen": "2020-12-31 23:23:10",
+        "last_seen": "2022-02-28 03:34:10",
+        "ip_address": "185.230.63.186",
+        "type": "IPv4"
+    },
+    {
+        "domain": "brelevate.com",
+        "count": "70",
+        "first_seen": "2023-05-11 07:50:22",
+        "last_seen": "2023-05-12 02:06:33",
+        "ip_address": "192.161.176.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "brelevate.com",
+        "count": "35",
+        "first_seen": "2022-03-04 15:26:39",
+        "last_seen": "2022-04-14 00:47:21",
+        "ip_address": "209.99.64.53",
+        "type": "IPv4"
+    }
+]

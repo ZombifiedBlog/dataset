@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "www.yourgamereviewclub.com",
+        "count": "37",
+        "first_seen": "2017-07-24 23:48:01",
+        "last_seen": "2018-06-24 08:18:56",
+        "ip_address": "72.52.4.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.yourgamereviewclub.com",
+        "count": "18",
+        "first_seen": "2018-07-16 22:51:49",
+        "last_seen": "2019-02-06 22:13:23",
+        "ip_address": "72.52.4.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.yourgamereviewclub.com",
+        "count": "2",
+        "first_seen": "2022-07-28 17:15:50",
+        "last_seen": "2022-08-26 21:02:43",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.yourgamereviewclub.com",
+        "count": "5",
+        "first_seen": "2019-12-09 23:22:27",
+        "last_seen": "2020-12-17 15:25:14",
+        "ip_address": "91.195.240.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.yourgamereviewclub.com",
+        "count": "6",
+        "first_seen": "2019-03-05 10:39:43",
+        "last_seen": "2019-04-06 23:26:15",
+        "ip_address": "91.195.240.126",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.yourgamereviewclub.com",
+        "count": "4",
+        "first_seen": "2021-07-20 15:03:00",
+        "last_seen": "2021-07-23 03:15:34",
+        "ip_address": "103.146.231.109",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.yourgamereviewclub.com",
+        "count": "11",
+        "first_seen": "2017-06-05 03:46:07",
+        "last_seen": "2017-06-27 06:46:21",
+        "ip_address": "104.31.84.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.yourgamereviewclub.com",
+        "count": "11",
+        "first_seen": "2017-06-05 03:46:07",
+        "last_seen": "2017-06-27 06:46:21",
+        "ip_address": "104.31.85.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.yourgamereviewclub.com",
+        "count": "1010",
+        "first_seen": "2022-06-13 11:51:26",
+        "last_seen": "2022-07-15 10:05:01",
+        "ip_address": "104.219.209.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.yourgamereviewclub.com",
+        "count": "8",
+        "first_seen": "2017-06-05 03:46:08",
+        "last_seen": "2017-06-22 10:58:22",
+        "ip_address": "2400:cb00:2048:1::681f:543a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.yourgamereviewclub.com",
+        "count": "8",
+        "first_seen": "2017-06-05 03:46:08",
+        "last_seen": "2017-06-22 10:58:22",
+        "ip_address": "2400:cb00:2048:1::681f:553a",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "aws.cpk79.com",
+        "count": "3",
+        "first_seen": "2020-12-21 01:12:22",
+        "last_seen": "2020-12-21 11:50:34",
+        "ip_address": "104.27.156.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "aws.cpk79.com",
+        "count": "3",
+        "first_seen": "2020-12-21 01:12:22",
+        "last_seen": "2020-12-21 11:50:34",
+        "ip_address": "104.27.157.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "aws.cpk79.com",
+        "count": "3",
+        "first_seen": "2020-12-21 01:12:22",
+        "last_seen": "2020-12-21 11:50:34",
+        "ip_address": "172.67.165.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "aws.cpk79.com",
+        "count": "1",
+        "first_seen": "2020-12-21 01:12:22",
+        "last_seen": "2020-12-21 01:12:22",
+        "ip_address": "2606:4700:3030::681b:9ddf",
+        "type": "IPv6"
+    },
+    {
+        "domain": "aws.cpk79.com",
+        "count": "1",
+        "first_seen": "2020-12-21 01:12:22",
+        "last_seen": "2020-12-21 01:12:22",
+        "ip_address": "2606:4700:3036::681b:9cdf",
+        "type": "IPv6"
+    },
+    {
+        "domain": "aws.cpk79.com",
+        "count": "1",
+        "first_seen": "2020-12-21 01:12:22",
+        "last_seen": "2020-12-21 01:12:22",
+        "ip_address": "2606:4700:3037::ac43:a5cb",
+        "type": "IPv6"
+    }
+]

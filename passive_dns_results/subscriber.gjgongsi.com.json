@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.gjgongsi.com",
+        "count": "94",
+        "first_seen": "2022-11-08 23:16:50",
+        "last_seen": "2022-11-30 05:28:14",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gjgongsi.com",
+        "count": "4846",
+        "first_seen": "2022-08-23 14:45:14",
+        "last_seen": "2022-11-07 05:00:37",
+        "ip_address": "104.21.35.79",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gjgongsi.com",
+        "count": "4846",
+        "first_seen": "2022-08-23 14:45:14",
+        "last_seen": "2022-11-07 05:00:37",
+        "ip_address": "172.67.215.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gjgongsi.com",
+        "count": "306",
+        "first_seen": "2022-08-23 20:29:37",
+        "last_seen": "2022-11-06 14:04:17",
+        "ip_address": "2606:4700:3030::ac43:d7e2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.gjgongsi.com",
+        "count": "306",
+        "first_seen": "2022-08-23 20:29:37",
+        "last_seen": "2022-11-06 14:04:17",
+        "ip_address": "2606:4700:3032::6815:234f",
+        "type": "IPv6"
+    }
+]

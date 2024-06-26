@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "helpercards.xyz",
+        "count": "10",
+        "first_seen": "2020-09-12 04:29:56",
+        "last_seen": "2020-09-12 14:32:30",
+        "ip_address": "158.247.210.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "helpercards.xyz",
+        "count": "50",
+        "first_seen": "2020-09-12 14:54:47",
+        "last_seen": "2020-09-13 14:59:57",
+        "ip_address": "185.186.244.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "helpercards.xyz",
+        "count": "22",
+        "first_seen": "2020-09-11 17:07:17",
+        "last_seen": "2020-09-12 04:23:57",
+        "ip_address": "185.205.12.132",
+        "type": "IPv4"
+    }
+]

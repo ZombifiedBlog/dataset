@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "www.lkarb.com",
+        "count": "23",
+        "first_seen": "2021-01-15 10:16:57",
+        "last_seen": "2021-03-26 06:27:08",
+        "ip_address": "104.21.82.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lkarb.com",
+        "count": "23",
+        "first_seen": "2021-01-15 10:16:57",
+        "last_seen": "2021-03-26 06:27:08",
+        "ip_address": "172.67.153.206",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lkarb.com",
+        "count": "1478",
+        "first_seen": "2020-06-28 20:01:10",
+        "last_seen": "2021-01-01 18:26:22",
+        "ip_address": "104.27.174.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lkarb.com",
+        "count": "1478",
+        "first_seen": "2020-06-28 20:01:10",
+        "last_seen": "2021-01-01 18:26:22",
+        "ip_address": "104.27.175.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lkarb.com",
+        "count": "1478",
+        "first_seen": "2020-06-28 20:01:10",
+        "last_seen": "2021-01-01 18:26:22",
+        "ip_address": "172.67.153.206",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lkarb.com",
+        "count": "2",
+        "first_seen": "2020-06-28 06:57:32",
+        "last_seen": "2020-06-28 06:57:32",
+        "ip_address": "198.144.149.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lkarb.com",
+        "count": "36",
+        "first_seen": "2020-06-28 20:01:10",
+        "last_seen": "2020-10-04 18:21:14",
+        "ip_address": "2606:4700:3032::681b:aedb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lkarb.com",
+        "count": "36",
+        "first_seen": "2020-06-28 20:01:10",
+        "last_seen": "2020-10-04 18:21:14",
+        "ip_address": "2606:4700:3033::ac43:99ce",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lkarb.com",
+        "count": "36",
+        "first_seen": "2020-06-28 20:01:10",
+        "last_seen": "2020-10-04 18:21:14",
+        "ip_address": "2606:4700:3036::681b:afdb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lkarb.com",
+        "count": "5",
+        "first_seen": "2021-01-15 10:16:57",
+        "last_seen": "2021-03-26 06:27:08",
+        "ip_address": "2606:4700:3033::ac43:99ce",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lkarb.com",
+        "count": "5",
+        "first_seen": "2021-01-15 10:16:57",
+        "last_seen": "2021-03-26 06:27:08",
+        "ip_address": "2606:4700:3035::6815:5239",
+        "type": "IPv6"
+    }
+]

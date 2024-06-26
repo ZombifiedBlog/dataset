@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.lexrb.com",
+        "count": "856",
+        "first_seen": "2020-06-18 02:13:24",
+        "last_seen": "2020-06-30 10:13:19",
+        "ip_address": "104.24.122.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lexrb.com",
+        "count": "856",
+        "first_seen": "2020-06-18 02:13:24",
+        "last_seen": "2020-06-30 10:13:19",
+        "ip_address": "104.24.123.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lexrb.com",
+        "count": "856",
+        "first_seen": "2020-06-18 02:13:24",
+        "last_seen": "2020-06-30 10:13:19",
+        "ip_address": "172.67.212.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lexrb.com",
+        "count": "4",
+        "first_seen": "2021-02-05 01:34:11",
+        "last_seen": "2021-04-03 12:57:59",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lexrb.com",
+        "count": "1245",
+        "first_seen": "2020-06-29 01:00:57",
+        "last_seen": "2021-01-11 01:23:29",
+        "ip_address": "198.144.149.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lexrb.com",
+        "count": "39",
+        "first_seen": "2020-06-18 02:12:18",
+        "last_seen": "2020-06-28 20:20:33",
+        "ip_address": "2606:4700:3031::6818:7a2d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lexrb.com",
+        "count": "39",
+        "first_seen": "2020-06-18 02:12:18",
+        "last_seen": "2020-06-28 20:20:33",
+        "ip_address": "2606:4700:3032::6818:7b2d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lexrb.com",
+        "count": "39",
+        "first_seen": "2020-06-18 02:12:18",
+        "last_seen": "2020-06-28 20:20:33",
+        "ip_address": "2606:4700:3032::ac43:d4cb",
+        "type": "IPv6"
+    }
+]

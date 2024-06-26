@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "www.tracklegend.com",
+        "count": "7",
+        "first_seen": "2022-04-12 10:23:04",
+        "last_seen": "2022-05-06 01:57:57",
+        "ip_address": "45.88.202.115",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tracklegend.com",
+        "count": "4",
+        "first_seen": "2022-06-21 13:58:23",
+        "last_seen": "2022-06-22 10:33:05",
+        "ip_address": "52.58.78.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tracklegend.com",
+        "count": "7",
+        "first_seen": "2017-02-11 07:06:09",
+        "last_seen": "2017-07-08 01:12:19",
+        "ip_address": "88.214.207.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tracklegend.com",
+        "count": "8",
+        "first_seen": "2022-04-01 22:08:39",
+        "last_seen": "2022-04-11 05:21:34",
+        "ip_address": "185.255.121.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tracklegend.com",
+        "count": "8",
+        "first_seen": "2015-10-20 22:46:43",
+        "last_seen": "2015-11-04 01:03:15",
+        "ip_address": "192.187.124.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tracklegend.com",
+        "count": "34",
+        "first_seen": "2022-06-22 16:03:21",
+        "last_seen": "2022-08-28 14:03:38",
+        "ip_address": "199.59.243.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tracklegend.com",
+        "count": "84",
+        "first_seen": "2022-09-20 11:30:37",
+        "last_seen": "2023-03-09 09:17:34",
+        "ip_address": "199.59.243.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tracklegend.com",
+        "count": "79",
+        "first_seen": "2023-03-11 16:32:35",
+        "last_seen": "2023-07-12 21:51:12",
+        "ip_address": "199.59.243.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tracklegend.com",
+        "count": "149",
+        "first_seen": "2023-07-15 00:55:24",
+        "last_seen": "2023-10-04 06:30:21",
+        "ip_address": "199.59.243.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tracklegend.com",
+        "count": "214",
+        "first_seen": "2023-10-05 18:15:12",
+        "last_seen": "2024-01-18 04:48:21",
+        "ip_address": "199.59.243.225",
+        "type": "IPv4"
+    }
+]

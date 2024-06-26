@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "qps.ru",
+        "count": "9296",
+        "first_seen": "2023-12-11 22:45:04",
+        "last_seen": "2024-01-18 06:38:37",
+        "ip_address": "45.130.41.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "qps.ru",
+        "count": "8244",
+        "first_seen": "2023-11-17 11:14:45",
+        "last_seen": "2023-12-11 22:15:19",
+        "ip_address": "91.106.207.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "qps.ru",
+        "count": "1126221",
+        "first_seen": "2020-03-31 15:33:15",
+        "last_seen": "2021-11-27 20:53:59",
+        "ip_address": "91.194.2.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "qps.ru",
+        "count": "2521",
+        "first_seen": "2010-08-25 22:44:51",
+        "last_seen": "2011-11-28 19:55:01",
+        "ip_address": "188.120.248.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "qps.ru",
+        "count": "1358270",
+        "first_seen": "2011-11-28 22:03:34",
+        "last_seen": "2016-06-27 20:55:00",
+        "ip_address": "188.120.248.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "qps.ru",
+        "count": "2639256",
+        "first_seen": "2016-06-27 20:55:42",
+        "last_seen": "2020-03-31 15:32:23",
+        "ip_address": "193.124.118.141",
+        "type": "IPv4"
+    }
+]

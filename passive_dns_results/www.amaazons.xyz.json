@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "www.amaazons.xyz",
+        "count": "3",
+        "first_seen": "2020-10-27 22:19:40",
+        "last_seen": "2020-10-27 22:24:58",
+        "ip_address": "107.180.101.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amaazons.xyz",
+        "count": "40",
+        "first_seen": "2020-10-28 00:07:38",
+        "last_seen": "2020-10-29 03:43:02",
+        "ip_address": "107.180.105.162",
+        "type": "IPv4"
+    }
+]

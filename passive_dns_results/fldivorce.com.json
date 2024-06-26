@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "fldivorce.com",
+        "count": "29010",
+        "first_seen": "2019-07-03 01:45:40",
+        "last_seen": "2022-09-09 18:32:26",
+        "ip_address": "35.196.112.106",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fldivorce.com",
+        "count": "2",
+        "first_seen": "2019-07-03 01:41:28",
+        "last_seen": "2019-07-03 01:41:28",
+        "ip_address": "50.63.202.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fldivorce.com",
+        "count": "5048",
+        "first_seen": "2014-06-29 18:49:53",
+        "last_seen": "2015-04-30 10:13:30",
+        "ip_address": "54.236.189.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fldivorce.com",
+        "count": "689",
+        "first_seen": "2019-04-26 07:21:12",
+        "last_seen": "2019-07-03 05:34:58",
+        "ip_address": "104.28.10.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fldivorce.com",
+        "count": "689",
+        "first_seen": "2019-04-26 07:21:12",
+        "last_seen": "2019-07-03 05:34:58",
+        "ip_address": "104.28.11.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fldivorce.com",
+        "count": "13711",
+        "first_seen": "2017-03-16 02:14:10",
+        "last_seen": "2019-04-25 07:06:24",
+        "ip_address": "104.197.109.106",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fldivorce.com",
+        "count": "18415",
+        "first_seen": "2015-05-03 01:22:00",
+        "last_seen": "2017-03-15 19:10:01",
+        "ip_address": "104.237.143.159",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fldivorce.com",
+        "count": "17800",
+        "first_seen": "2022-09-09 19:25:41",
+        "last_seen": "2024-01-18 01:55:29",
+        "ip_address": "141.193.213.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fldivorce.com",
+        "count": "17800",
+        "first_seen": "2022-09-09 19:25:41",
+        "last_seen": "2024-01-18 01:55:29",
+        "ip_address": "141.193.213.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fldivorce.com",
+        "count": "6994",
+        "first_seen": "2010-07-27 16:30:53",
+        "last_seen": "2014-04-24 19:56:45",
+        "ip_address": "167.68.37.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fldivorce.com",
+        "count": "259",
+        "first_seen": "2019-04-27 02:31:43",
+        "last_seen": "2019-07-03 05:13:29",
+        "ip_address": "2606:4700:30::681c:acb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "fldivorce.com",
+        "count": "259",
+        "first_seen": "2019-04-27 02:31:43",
+        "last_seen": "2019-07-03 05:13:29",
+        "ip_address": "2606:4700:30::681c:bcb",
+        "type": "IPv6"
+    }
+]

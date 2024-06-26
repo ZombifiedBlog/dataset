@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.31313.ru",
+        "count": "13",
+        "first_seen": "2017-05-25 21:03:48",
+        "last_seen": "2017-06-16 05:58:35",
+        "ip_address": "77.87.208.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.31313.ru",
+        "count": "38",
+        "first_seen": "2014-09-24 18:28:36",
+        "last_seen": "2015-08-06 06:36:38",
+        "ip_address": "78.110.50.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.31313.ru",
+        "count": "200",
+        "first_seen": "2022-10-04 14:15:00",
+        "last_seen": "2024-01-15 18:29:20",
+        "ip_address": "78.110.50.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.31313.ru",
+        "count": "2323",
+        "first_seen": "2015-09-09 12:44:29",
+        "last_seen": "2022-05-31 18:11:53",
+        "ip_address": "78.110.50.140",
+        "type": "IPv4"
+    }
+]

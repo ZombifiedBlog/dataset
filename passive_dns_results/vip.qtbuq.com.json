@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "vip.qtbuq.com",
+        "count": "7",
+        "first_seen": "2021-01-26 20:18:09",
+        "last_seen": "2021-01-28 10:38:41",
+        "ip_address": "104.21.35.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vip.qtbuq.com",
+        "count": "7",
+        "first_seen": "2021-01-26 20:18:09",
+        "last_seen": "2021-01-28 10:38:41",
+        "ip_address": "172.67.180.171",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vip.qtbuq.com",
+        "count": "1",
+        "first_seen": "2021-01-27 04:13:39",
+        "last_seen": "2021-01-27 04:13:39",
+        "ip_address": "2606:4700:13d:5f1c:290c:4d2d:9c1c:477e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "vip.qtbuq.com",
+        "count": "3",
+        "first_seen": "2021-01-28 05:03:03",
+        "last_seen": "2021-01-28 10:38:41",
+        "ip_address": "2606:4700:3033::ac43:b4ab",
+        "type": "IPv6"
+    },
+    {
+        "domain": "vip.qtbuq.com",
+        "count": "3",
+        "first_seen": "2021-01-28 05:03:03",
+        "last_seen": "2021-01-28 10:38:41",
+        "ip_address": "2606:4700:3035::6815:23e9",
+        "type": "IPv6"
+    }
+]

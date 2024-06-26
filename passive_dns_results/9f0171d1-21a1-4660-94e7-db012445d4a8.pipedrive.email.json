@@ -1,0 +1,178 @@
+[
+    {
+        "domain": "9f0171d1-21a1-4660-94e7-db012445d4a8.pipedrive.email",
+        "count": "296",
+        "first_seen": "2022-01-26 09:12:34",
+        "last_seen": "2022-06-22 04:25:09",
+        "ip_address": "104.18.14.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9f0171d1-21a1-4660-94e7-db012445d4a8.pipedrive.email",
+        "count": "296",
+        "first_seen": "2022-01-26 09:12:34",
+        "last_seen": "2022-06-22 04:25:09",
+        "ip_address": "104.18.15.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9f0171d1-21a1-4660-94e7-db012445d4a8.pipedrive.email",
+        "count": "60",
+        "first_seen": "2022-03-10 23:37:10",
+        "last_seen": "2022-03-30 00:15:39",
+        "ip_address": "188.114.96.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9f0171d1-21a1-4660-94e7-db012445d4a8.pipedrive.email",
+        "count": "10",
+        "first_seen": "2022-06-28 17:38:16",
+        "last_seen": "2022-07-26 06:15:54",
+        "ip_address": "188.114.98.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9f0171d1-21a1-4660-94e7-db012445d4a8.pipedrive.email",
+        "count": "1",
+        "first_seen": "2022-08-08 03:43:58",
+        "last_seen": "2022-08-08 03:43:58",
+        "ip_address": "188.114.98.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9f0171d1-21a1-4660-94e7-db012445d4a8.pipedrive.email",
+        "count": "1",
+        "first_seen": "2022-08-08 03:43:58",
+        "last_seen": "2022-08-08 03:43:58",
+        "ip_address": "188.114.99.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9f0171d1-21a1-4660-94e7-db012445d4a8.pipedrive.email",
+        "count": "1",
+        "first_seen": "2022-08-23 19:32:03",
+        "last_seen": "2022-08-23 19:32:03",
+        "ip_address": "188.114.98.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9f0171d1-21a1-4660-94e7-db012445d4a8.pipedrive.email",
+        "count": "1",
+        "first_seen": "2022-08-23 19:32:03",
+        "last_seen": "2022-08-23 19:32:03",
+        "ip_address": "188.114.99.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9f0171d1-21a1-4660-94e7-db012445d4a8.pipedrive.email",
+        "count": "6",
+        "first_seen": "2023-01-22 02:31:40",
+        "last_seen": "2023-09-07 16:04:52",
+        "ip_address": "188.114.98.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9f0171d1-21a1-4660-94e7-db012445d4a8.pipedrive.email",
+        "count": "6",
+        "first_seen": "2023-01-22 02:31:40",
+        "last_seen": "2023-09-07 16:04:52",
+        "ip_address": "188.114.99.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9f0171d1-21a1-4660-94e7-db012445d4a8.pipedrive.email",
+        "count": "3",
+        "first_seen": "2023-06-14 11:03:27",
+        "last_seen": "2024-01-08 11:19:23",
+        "ip_address": "188.114.98.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9f0171d1-21a1-4660-94e7-db012445d4a8.pipedrive.email",
+        "count": "3",
+        "first_seen": "2023-06-14 11:03:27",
+        "last_seen": "2024-01-08 11:19:23",
+        "ip_address": "188.114.99.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9f0171d1-21a1-4660-94e7-db012445d4a8.pipedrive.email",
+        "count": "1",
+        "first_seen": "2023-08-04 15:37:35",
+        "last_seen": "2023-08-04 15:37:35",
+        "ip_address": "188.114.98.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9f0171d1-21a1-4660-94e7-db012445d4a8.pipedrive.email",
+        "count": "1",
+        "first_seen": "2023-08-04 15:37:35",
+        "last_seen": "2023-08-04 15:37:35",
+        "ip_address": "188.114.99.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9f0171d1-21a1-4660-94e7-db012445d4a8.pipedrive.email",
+        "count": "5",
+        "first_seen": "2022-04-21 00:53:34",
+        "last_seen": "2022-04-24 02:31:49",
+        "ip_address": "188.114.99.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9f0171d1-21a1-4660-94e7-db012445d4a8.pipedrive.email",
+        "count": "3",
+        "first_seen": "2022-05-04 07:26:30",
+        "last_seen": "2022-05-25 03:53:48",
+        "ip_address": "188.114.99.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9f0171d1-21a1-4660-94e7-db012445d4a8.pipedrive.email",
+        "count": "20",
+        "first_seen": "2022-05-29 07:02:13",
+        "last_seen": "2022-06-20 00:54:22",
+        "ip_address": "188.114.99.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9f0171d1-21a1-4660-94e7-db012445d4a8.pipedrive.email",
+        "count": "43",
+        "first_seen": "2022-01-26 09:12:34",
+        "last_seen": "2022-06-22 04:25:08",
+        "ip_address": "2606:4700::6812:ec4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "9f0171d1-21a1-4660-94e7-db012445d4a8.pipedrive.email",
+        "count": "43",
+        "first_seen": "2022-01-26 09:12:34",
+        "last_seen": "2022-06-22 04:25:08",
+        "ip_address": "2606:4700::6812:fc4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "9f0171d1-21a1-4660-94e7-db012445d4a8.pipedrive.email",
+        "count": "1",
+        "first_seen": "2022-03-27 04:17:52",
+        "last_seen": "2022-03-27 04:17:52",
+        "ip_address": "2a06:98c1:3120:8000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "9f0171d1-21a1-4660-94e7-db012445d4a8.pipedrive.email",
+        "count": "2",
+        "first_seen": "2022-04-21 00:53:34",
+        "last_seen": "2022-04-21 00:53:35",
+        "ip_address": "2a06:98c1:3122:8000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "9f0171d1-21a1-4660-94e7-db012445d4a8.pipedrive.email",
+        "count": "1",
+        "first_seen": "2022-06-07 00:19:19",
+        "last_seen": "2022-06-07 00:19:19",
+        "ip_address": "2a06:98c1:3122:a000::",
+        "type": "IPv6"
+    }
+]

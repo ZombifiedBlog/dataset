@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "subscriber.water-yq.com",
+        "count": "2536",
+        "first_seen": "2021-02-01 18:30:47",
+        "last_seen": "2021-04-04 11:04:19",
+        "ip_address": "104.21.32.158",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.water-yq.com",
+        "count": "2536",
+        "first_seen": "2021-02-01 18:30:47",
+        "last_seen": "2021-04-04 11:04:19",
+        "ip_address": "172.67.152.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.water-yq.com",
+        "count": "989",
+        "first_seen": "2021-02-01 18:49:39",
+        "last_seen": "2021-04-03 11:05:44",
+        "ip_address": "2606:4700:3037::6815:209e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.water-yq.com",
+        "count": "989",
+        "first_seen": "2021-02-01 18:49:39",
+        "last_seen": "2021-04-03 11:05:44",
+        "ip_address": "2606:4700:3037::ac43:98db",
+        "type": "IPv6"
+    }
+]

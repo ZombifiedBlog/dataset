@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "netstation2-aplus-co-jp.ibyxu.com",
+        "count": "662",
+        "first_seen": "2022-04-25 13:54:31",
+        "last_seen": "2022-05-05 09:24:04",
+        "ip_address": "104.21.38.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.ibyxu.com",
+        "count": "662",
+        "first_seen": "2022-04-25 13:54:31",
+        "last_seen": "2022-05-05 09:24:04",
+        "ip_address": "172.67.220.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.ibyxu.com",
+        "count": "23",
+        "first_seen": "2022-05-11 04:16:04",
+        "last_seen": "2022-05-27 12:09:27",
+        "ip_address": "154.39.254.167",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.ibyxu.com",
+        "count": "24",
+        "first_seen": "2022-04-25 13:54:32",
+        "last_seen": "2022-05-05 09:24:04",
+        "ip_address": "2606:4700:3032::ac43:dcc8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.ibyxu.com",
+        "count": "24",
+        "first_seen": "2022-04-25 13:54:32",
+        "last_seen": "2022-05-05 09:24:04",
+        "ip_address": "2606:4700:3035::6815:2656",
+        "type": "IPv6"
+    }
+]

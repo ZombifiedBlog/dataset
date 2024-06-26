@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "smcc-cacc.chcgc.com",
+        "count": "8",
+        "first_seen": "2022-07-16 16:52:11",
+        "last_seen": "2022-12-03 00:52:04",
+        "ip_address": "23.224.3.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.chcgc.com",
+        "count": "110",
+        "first_seen": "2020-11-04 16:58:21",
+        "last_seen": "2020-11-06 00:57:16",
+        "ip_address": "98.126.19.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.chcgc.com",
+        "count": "2",
+        "first_seen": "2022-04-28 08:14:11",
+        "last_seen": "2022-07-01 16:06:31",
+        "ip_address": "156.251.140.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.chcgc.com",
+        "count": "6",
+        "first_seen": "2021-08-08 02:10:48",
+        "last_seen": "2021-08-20 04:34:36",
+        "ip_address": "162.209.157.127",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.chcgc.com",
+        "count": "24",
+        "first_seen": "2021-02-24 18:44:28",
+        "last_seen": "2021-07-04 23:20:12",
+        "ip_address": "162.209.157.157",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.chcgc.com",
+        "count": "16",
+        "first_seen": "2021-09-04 15:38:01",
+        "last_seen": "2022-01-26 15:06:53",
+        "ip_address": "173.231.14.159",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.chcgc.com",
+        "count": "2",
+        "first_seen": "2022-03-08 13:39:54",
+        "last_seen": "2022-03-14 23:42:56",
+        "ip_address": "173.231.14.184",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.chcgc.com",
+        "count": "32",
+        "first_seen": "2020-11-13 14:22:59",
+        "last_seen": "2020-12-01 19:05:21",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    }
+]

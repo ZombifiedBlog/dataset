@@ -1,0 +1,738 @@
+[
+    {
+        "domain": "down.cd",
+        "count": "2",
+        "first_seen": "2014-04-17 06:43:23",
+        "last_seen": "2014-04-17 06:43:32",
+        "ip_address": "5.79.85.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "1307",
+        "first_seen": "2016-04-16 14:52:04",
+        "last_seen": "2016-04-27 09:44:11",
+        "ip_address": "77.247.178.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "404",
+        "first_seen": "2020-08-04 09:26:47",
+        "last_seen": "2020-08-12 10:12:13",
+        "ip_address": "85.159.237.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "109662",
+        "first_seen": "2010-06-24 05:13:10",
+        "last_seen": "2013-08-28 13:39:10",
+        "ip_address": "89.108.116.151",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "51627",
+        "first_seen": "2021-01-13 17:21:51",
+        "last_seen": "2024-01-17 23:32:23",
+        "ip_address": "104.21.13.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "51627",
+        "first_seen": "2021-01-13 17:21:51",
+        "last_seen": "2024-01-17 23:32:23",
+        "ip_address": "172.67.132.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "1",
+        "first_seen": "2019-07-14 23:16:52",
+        "last_seen": "2019-07-14 23:16:52",
+        "ip_address": "104.28.30.73",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "256541",
+        "first_seen": "2014-08-25 07:55:13",
+        "last_seen": "2020-05-26 14:19:40",
+        "ip_address": "104.28.30.73",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "256541",
+        "first_seen": "2014-08-25 07:55:13",
+        "last_seen": "2020-05-26 14:19:40",
+        "ip_address": "104.28.31.73",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "10981",
+        "first_seen": "2020-05-26 17:39:45",
+        "last_seen": "2021-01-13 16:44:36",
+        "ip_address": "104.28.30.73",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "10981",
+        "first_seen": "2020-05-26 17:39:45",
+        "last_seen": "2021-01-13 16:44:36",
+        "ip_address": "104.28.31.73",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "10981",
+        "first_seen": "2020-05-26 17:39:45",
+        "last_seen": "2021-01-13 16:44:36",
+        "ip_address": "172.67.132.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "1116",
+        "first_seen": "2014-05-21 15:45:46",
+        "last_seen": "2014-07-14 13:05:42",
+        "ip_address": "108.162.196.216",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "1116",
+        "first_seen": "2014-05-21 15:45:46",
+        "last_seen": "2014-07-14 13:05:42",
+        "ip_address": "108.162.197.216",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "1",
+        "first_seen": "2020-12-28 01:27:08",
+        "last_seen": "2020-12-28 01:27:08",
+        "ip_address": "172.64.89.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "281",
+        "first_seen": "2014-05-28 06:15:23",
+        "last_seen": "2014-06-01 04:44:30",
+        "ip_address": "173.245.60.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "281",
+        "first_seen": "2014-05-28 06:15:23",
+        "last_seen": "2014-06-01 04:44:30",
+        "ip_address": "173.245.61.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "247",
+        "first_seen": "2022-02-03 01:27:33",
+        "last_seen": "2024-01-02 10:49:40",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "247",
+        "first_seen": "2022-02-03 01:27:33",
+        "last_seen": "2024-01-02 10:49:40",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "33",
+        "first_seen": "2022-01-31 13:12:15",
+        "last_seen": "2023-10-17 08:14:07",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "33",
+        "first_seen": "2022-01-31 13:12:15",
+        "last_seen": "2023-10-17 08:14:07",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "1422",
+        "first_seen": "2022-05-06 18:49:26",
+        "last_seen": "2024-01-16 20:28:31",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "1422",
+        "first_seen": "2022-05-06 18:49:26",
+        "last_seen": "2024-01-16 20:28:31",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "76",
+        "first_seen": "2022-05-28 11:34:31",
+        "last_seen": "2024-01-03 15:49:34",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "76",
+        "first_seen": "2022-05-28 11:34:31",
+        "last_seen": "2024-01-03 15:49:34",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "1",
+        "first_seen": "2022-06-07 08:19:39",
+        "last_seen": "2022-06-07 08:19:39",
+        "ip_address": "188.114.96.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "1",
+        "first_seen": "2022-06-07 08:19:39",
+        "last_seen": "2022-06-07 08:19:39",
+        "ip_address": "188.114.97.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "380",
+        "first_seen": "2022-01-31 10:24:36",
+        "last_seen": "2022-05-04 18:54:59",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "380",
+        "first_seen": "2022-01-31 10:24:36",
+        "last_seen": "2022-05-04 18:54:59",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "106",
+        "first_seen": "2022-02-01 10:32:54",
+        "last_seen": "2022-05-04 11:27:45",
+        "ip_address": "188.114.96.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "106",
+        "first_seen": "2022-02-01 10:32:54",
+        "last_seen": "2022-05-04 11:27:45",
+        "ip_address": "188.114.97.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "110",
+        "first_seen": "2022-05-05 07:48:52",
+        "last_seen": "2022-05-26 14:10:08",
+        "ip_address": "188.114.96.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "110",
+        "first_seen": "2022-05-05 07:48:52",
+        "last_seen": "2022-05-26 14:10:08",
+        "ip_address": "188.114.97.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "9",
+        "first_seen": "2022-05-05 11:33:40",
+        "last_seen": "2022-05-25 14:04:36",
+        "ip_address": "188.114.96.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "9",
+        "first_seen": "2022-05-05 11:33:40",
+        "last_seen": "2022-05-25 14:04:36",
+        "ip_address": "188.114.97.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "16",
+        "first_seen": "2022-02-09 09:39:52",
+        "last_seen": "2022-09-30 12:53:37",
+        "ip_address": "188.114.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "16",
+        "first_seen": "2022-02-09 09:39:52",
+        "last_seen": "2022-09-30 12:53:37",
+        "ip_address": "188.114.97.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "8",
+        "first_seen": "2021-11-23 22:26:16",
+        "last_seen": "2021-11-24 17:59:32",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "8",
+        "first_seen": "2021-11-23 22:26:16",
+        "last_seen": "2021-11-24 17:59:32",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "52",
+        "first_seen": "2021-11-24 00:44:07",
+        "last_seen": "2022-02-23 07:46:34",
+        "ip_address": "188.114.96.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "52",
+        "first_seen": "2021-11-24 00:44:07",
+        "last_seen": "2022-02-23 07:46:34",
+        "ip_address": "188.114.97.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "8",
+        "first_seen": "2021-11-23 20:16:04",
+        "last_seen": "2021-11-24 18:10:11",
+        "ip_address": "188.114.96.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "8",
+        "first_seen": "2021-11-23 20:16:04",
+        "last_seen": "2021-11-24 18:10:11",
+        "ip_address": "188.114.97.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "68",
+        "first_seen": "2022-02-11 07:41:01",
+        "last_seen": "2022-04-07 10:04:18",
+        "ip_address": "188.114.96.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "68",
+        "first_seen": "2022-02-11 07:41:01",
+        "last_seen": "2022-04-07 10:04:18",
+        "ip_address": "188.114.97.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "1",
+        "first_seen": "2021-11-23 20:16:02",
+        "last_seen": "2021-11-23 20:16:02",
+        "ip_address": "188.114.96.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "1",
+        "first_seen": "2021-11-23 20:16:02",
+        "last_seen": "2021-11-23 20:16:02",
+        "ip_address": "188.114.97.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "33",
+        "first_seen": "2022-03-10 17:27:20",
+        "last_seen": "2022-03-14 06:38:12",
+        "ip_address": "188.114.96.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "17755",
+        "first_seen": "2013-08-28 14:02:41",
+        "last_seen": "2014-11-03 12:29:29",
+        "ip_address": "192.121.86.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "2700",
+        "first_seen": "2014-11-07 18:12:34",
+        "last_seen": "2017-05-02 10:20:57",
+        "ip_address": "212.63.206.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "down.cd",
+        "count": "35689",
+        "first_seen": "2016-09-23 01:31:44",
+        "last_seen": "2018-09-25 10:51:02",
+        "ip_address": "2400:cb00:2048:1::681c:1e49",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "35689",
+        "first_seen": "2016-09-23 01:31:44",
+        "last_seen": "2018-09-25 10:51:02",
+        "ip_address": "2400:cb00:2048:1::681c:1f49",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "56286",
+        "first_seen": "2018-09-25 11:06:04",
+        "last_seen": "2020-01-15 12:31:34",
+        "ip_address": "2606:4700:30::681c:1e49",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "56286",
+        "first_seen": "2018-09-25 11:06:04",
+        "last_seen": "2020-01-15 12:31:34",
+        "ip_address": "2606:4700:30::681c:1f49",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "66",
+        "first_seen": "2020-01-15 14:44:58",
+        "last_seen": "2020-01-16 14:14:39",
+        "ip_address": "2606:4700:3031::681c:1e49",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "66",
+        "first_seen": "2020-01-15 14:44:58",
+        "last_seen": "2020-01-16 14:14:39",
+        "ip_address": "2606:4700:3032::681c:1f49",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "9053",
+        "first_seen": "2020-01-16 17:09:10",
+        "last_seen": "2020-05-26 14:19:40",
+        "ip_address": "2606:4700:3033::681c:1e49",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "9053",
+        "first_seen": "2020-01-16 17:09:10",
+        "last_seen": "2020-05-26 14:19:40",
+        "ip_address": "2606:4700:3033::681c:1f49",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "6689",
+        "first_seen": "2020-05-26 17:39:46",
+        "last_seen": "2021-01-13 13:26:26",
+        "ip_address": "2606:4700:3033::681c:1e49",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "6689",
+        "first_seen": "2020-05-26 17:39:46",
+        "last_seen": "2021-01-13 13:26:26",
+        "ip_address": "2606:4700:3033::681c:1f49",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "6689",
+        "first_seen": "2020-05-26 17:39:46",
+        "last_seen": "2021-01-13 13:26:26",
+        "ip_address": "2606:4700:3034::ac43:8498",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "31409",
+        "first_seen": "2021-01-13 17:21:51",
+        "last_seen": "2024-01-18 05:57:13",
+        "ip_address": "2606:4700:3034::ac43:8498",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "31409",
+        "first_seen": "2021-01-13 17:21:51",
+        "last_seen": "2024-01-18 05:57:13",
+        "ip_address": "2606:4700:3036::6815:d2d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "79",
+        "first_seen": "2022-02-08 09:36:58",
+        "last_seen": "2023-11-03 06:41:30",
+        "ip_address": "2a06:98c1:3120::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "79",
+        "first_seen": "2022-02-08 09:36:58",
+        "last_seen": "2023-11-03 06:41:30",
+        "ip_address": "2a06:98c1:3121::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "9",
+        "first_seen": "2022-02-03 14:49:02",
+        "last_seen": "2022-09-26 14:22:46",
+        "ip_address": "2a06:98c1:3120::2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "9",
+        "first_seen": "2022-02-03 14:49:02",
+        "last_seen": "2022-09-26 14:22:46",
+        "ip_address": "2a06:98c1:3121::2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "721",
+        "first_seen": "2022-05-27 16:52:38",
+        "last_seen": "2024-01-16 20:28:34",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "721",
+        "first_seen": "2022-05-27 16:52:38",
+        "last_seen": "2024-01-16 20:28:34",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "46",
+        "first_seen": "2022-06-06 11:26:58",
+        "last_seen": "2023-11-11 06:15:46",
+        "ip_address": "2a06:98c1:3120::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "46",
+        "first_seen": "2022-06-06 11:26:58",
+        "last_seen": "2023-11-11 06:15:46",
+        "ip_address": "2a06:98c1:3121::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "1",
+        "first_seen": "2022-06-07 08:19:39",
+        "last_seen": "2022-06-07 08:19:39",
+        "ip_address": "2a06:98c1:3120::5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "1",
+        "first_seen": "2022-06-07 08:19:39",
+        "last_seen": "2022-06-07 08:19:39",
+        "ip_address": "2a06:98c1:3121::5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "229",
+        "first_seen": "2022-01-31 09:42:44",
+        "last_seen": "2022-05-03 16:29:34",
+        "ip_address": "2a06:98c1:3120::7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "229",
+        "first_seen": "2022-01-31 09:42:44",
+        "last_seen": "2022-05-03 16:29:34",
+        "ip_address": "2a06:98c1:3121::7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "105",
+        "first_seen": "2022-02-01 10:32:54",
+        "last_seen": "2022-05-04 11:27:45",
+        "ip_address": "2a06:98c1:3120::8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "105",
+        "first_seen": "2022-02-01 10:32:54",
+        "last_seen": "2022-05-04 11:27:45",
+        "ip_address": "2a06:98c1:3121::8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "16",
+        "first_seen": "2022-05-10 19:15:55",
+        "last_seen": "2022-05-25 17:02:44",
+        "ip_address": "2a06:98c1:3120::a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "16",
+        "first_seen": "2022-05-10 19:15:55",
+        "last_seen": "2022-05-25 17:02:44",
+        "ip_address": "2a06:98c1:3121::a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "6",
+        "first_seen": "2022-05-05 11:33:40",
+        "last_seen": "2022-05-25 12:20:17",
+        "ip_address": "2a06:98c1:3120::b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "6",
+        "first_seen": "2022-05-05 11:33:40",
+        "last_seen": "2022-05-25 12:20:17",
+        "ip_address": "2a06:98c1:3121::b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "2",
+        "first_seen": "2022-06-21 06:56:57",
+        "last_seen": "2022-06-21 06:56:57",
+        "ip_address": "2a06:98c1:3120::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "2",
+        "first_seen": "2022-06-21 06:56:57",
+        "last_seen": "2022-06-21 06:56:57",
+        "ip_address": "2a06:98c1:3121::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "7",
+        "first_seen": "2021-11-23 22:26:16",
+        "last_seen": "2021-11-24 17:59:32",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "7",
+        "first_seen": "2021-11-23 22:26:16",
+        "last_seen": "2021-11-24 17:59:32",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "31",
+        "first_seen": "2021-11-24 00:44:07",
+        "last_seen": "2022-02-22 18:40:21",
+        "ip_address": "2a06:98c1:3120::10",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "31",
+        "first_seen": "2021-11-24 00:44:07",
+        "last_seen": "2022-02-22 18:40:21",
+        "ip_address": "2a06:98c1:3121::10",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "5",
+        "first_seen": "2021-11-23 21:36:21",
+        "last_seen": "2021-11-24 18:10:12",
+        "ip_address": "2a06:98c1:3120::15",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "5",
+        "first_seen": "2021-11-23 21:36:21",
+        "last_seen": "2021-11-24 18:10:12",
+        "ip_address": "2a06:98c1:3121::15",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "44",
+        "first_seen": "2022-02-16 06:04:36",
+        "last_seen": "2022-04-07 12:21:18",
+        "ip_address": "2a06:98c1:3120::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "44",
+        "first_seen": "2022-02-16 06:04:36",
+        "last_seen": "2022-04-07 12:21:18",
+        "ip_address": "2a06:98c1:3121::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "down.cd",
+        "count": "14",
+        "first_seen": "2022-03-10 17:27:20",
+        "last_seen": "2022-03-14 06:04:04",
+        "ip_address": "2a06:98c1:3121:8000::",
+        "type": "IPv6"
+    }
+]

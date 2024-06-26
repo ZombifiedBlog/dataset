@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "z0.net",
+        "count": "315",
+        "first_seen": "2011-02-23 08:49:35",
+        "last_seen": "2015-04-16 02:35:09",
+        "ip_address": "80.67.28.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "z0.net",
+        "count": "23",
+        "first_seen": "2010-09-01 07:41:02",
+        "last_seen": "2011-01-27 00:02:16",
+        "ip_address": "80.67.28.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "z0.net",
+        "count": "23",
+        "first_seen": "2023-11-30 00:28:57",
+        "last_seen": "2024-01-18 03:48:04",
+        "ip_address": "92.205.51.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "z0.net",
+        "count": "253",
+        "first_seen": "2022-06-29 20:36:50",
+        "last_seen": "2023-11-28 02:38:03",
+        "ip_address": "92.205.64.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "z0.net",
+        "count": "998",
+        "first_seen": "2018-01-14 06:13:13",
+        "last_seen": "2022-06-23 00:22:48",
+        "ip_address": "134.119.234.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "z0.net",
+        "count": "624",
+        "first_seen": "2015-04-18 08:40:54",
+        "last_seen": "2018-01-12 14:48:36",
+        "ip_address": "185.21.102.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "z0.net",
+        "count": "88",
+        "first_seen": "2015-04-23 15:07:27",
+        "last_seen": "2016-06-06 12:38:32",
+        "ip_address": "2a00:1158:0:300:b7b::1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "z0.net",
+        "count": "4",
+        "first_seen": "2014-10-21 16:46:23",
+        "last_seen": "2014-12-10 16:54:19",
+        "ip_address": "2a00:1158:0:300:a92c::1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "z0.net",
+        "count": "84",
+        "first_seen": "2022-07-30 07:27:32",
+        "last_seen": "2023-11-04 03:30:23",
+        "ip_address": "2a00:1158:5:854::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "z0.net",
+        "count": "211",
+        "first_seen": "2018-03-16 15:11:08",
+        "last_seen": "2022-05-19 15:26:28",
+        "ip_address": "2a00:1158:2d:300::c7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "z0.net",
+        "count": "8",
+        "first_seen": "2017-04-27 05:49:47",
+        "last_seen": "2017-11-05 15:20:49",
+        "ip_address": "2a00:1158:1000:300::4d1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "z0.net",
+        "count": "4",
+        "first_seen": "2023-12-30 16:53:38",
+        "last_seen": "2024-01-18 03:48:04",
+        "ip_address": "2a00:1169:103:a1d0::",
+        "type": "IPv6"
+    }
+]

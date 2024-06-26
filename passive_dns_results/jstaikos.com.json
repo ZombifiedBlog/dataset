@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "jstaikos.com",
+        "count": "5179",
+        "first_seen": "2018-10-30 23:20:34",
+        "last_seen": "2020-11-01 08:03:32",
+        "ip_address": "23.236.62.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jstaikos.com",
+        "count": "3918",
+        "first_seen": "2016-07-20 01:47:46",
+        "last_seen": "2018-03-05 04:34:38",
+        "ip_address": "184.168.221.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jstaikos.com",
+        "count": "92",
+        "first_seen": "2020-11-01 15:57:34",
+        "last_seen": "2020-12-11 17:21:08",
+        "ip_address": "185.230.60.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jstaikos.com",
+        "count": "101",
+        "first_seen": "2020-11-02 00:01:47",
+        "last_seen": "2020-12-10 05:20:51",
+        "ip_address": "185.230.61.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jstaikos.com",
+        "count": "5599",
+        "first_seen": "2014-06-12 04:02:55",
+        "last_seen": "2016-07-20 01:01:48",
+        "ip_address": "192.186.209.131",
+        "type": "IPv4"
+    }
+]

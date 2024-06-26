@@ -1,0 +1,130 @@
+[
+    {
+        "domain": "www.soyuzcoffee.com",
+        "count": "40",
+        "first_seen": "2023-10-18 18:50:34",
+        "last_seen": "2023-10-26 01:38:10",
+        "ip_address": "23.248.252.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.soyuzcoffee.com",
+        "count": "671",
+        "first_seen": "2021-05-19 09:36:31",
+        "last_seen": "2023-03-03 01:52:56",
+        "ip_address": "37.140.192.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.soyuzcoffee.com",
+        "count": "21618",
+        "first_seen": "2015-07-15 07:53:57",
+        "last_seen": "2018-10-29 21:17:02",
+        "ip_address": "145.131.10.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.soyuzcoffee.com",
+        "count": "7711",
+        "first_seen": "2018-10-29 22:26:27",
+        "last_seen": "2021-05-18 00:06:04",
+        "ip_address": "145.131.16.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.soyuzcoffee.com",
+        "count": "819",
+        "first_seen": "2023-10-28 18:08:59",
+        "last_seen": "2024-01-17 08:37:24",
+        "ip_address": "154.204.113.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.soyuzcoffee.com",
+        "count": "12435",
+        "first_seen": "2013-09-05 00:06:21",
+        "last_seen": "2015-07-15 05:29:02",
+        "ip_address": "176.62.198.47",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.soyuzcoffee.com",
+        "count": "5",
+        "first_seen": "2023-08-22 11:26:13",
+        "last_seen": "2023-08-22 11:26:14",
+        "ip_address": "194.67.71.41",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.soyuzcoffee.com",
+        "count": "3",
+        "first_seen": "2023-08-23 06:27:09",
+        "last_seen": "2023-08-23 06:27:09",
+        "ip_address": "194.67.71.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.soyuzcoffee.com",
+        "count": "6",
+        "first_seen": "2023-08-19 02:28:15",
+        "last_seen": "2023-08-19 02:28:18",
+        "ip_address": "194.67.71.98",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.soyuzcoffee.com",
+        "count": "3",
+        "first_seen": "2023-08-17 07:35:51",
+        "last_seen": "2023-08-17 07:35:51",
+        "ip_address": "194.67.71.167",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.soyuzcoffee.com",
+        "count": "1",
+        "first_seen": "2023-08-10 16:36:10",
+        "last_seen": "2023-08-10 16:36:10",
+        "ip_address": "194.67.71.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.soyuzcoffee.com",
+        "count": "54",
+        "first_seen": "2023-08-02 07:01:22",
+        "last_seen": "2023-09-07 16:45:58",
+        "ip_address": "194.67.71.179",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.soyuzcoffee.com",
+        "count": "6",
+        "first_seen": "2023-09-04 09:30:06",
+        "last_seen": "2023-09-04 09:30:06",
+        "ip_address": "194.67.71.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.soyuzcoffee.com",
+        "count": "2",
+        "first_seen": "2023-09-05 18:45:23",
+        "last_seen": "2023-09-05 18:45:23",
+        "ip_address": "194.67.71.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.soyuzcoffee.com",
+        "count": "1191",
+        "first_seen": "2020-05-08 10:27:25",
+        "last_seen": "2021-05-12 21:45:30",
+        "ip_address": "2001:678:76c:3760::65",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.soyuzcoffee.com",
+        "count": "17",
+        "first_seen": "2023-08-02 07:01:22",
+        "last_seen": "2023-09-05 18:45:23",
+        "ip_address": "2a00:f940:4::10",
+        "type": "IPv6"
+    }
+]

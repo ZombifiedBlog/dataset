@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "my-jcb.jsjtkk.icu",
+        "count": "9",
+        "first_seen": "2020-10-06 02:57:04",
+        "last_seen": "2020-10-06 07:30:24",
+        "ip_address": "104.28.28.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.jsjtkk.icu",
+        "count": "9",
+        "first_seen": "2020-10-06 02:57:04",
+        "last_seen": "2020-10-06 07:30:24",
+        "ip_address": "104.28.29.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.jsjtkk.icu",
+        "count": "9",
+        "first_seen": "2020-10-06 02:57:04",
+        "last_seen": "2020-10-06 07:30:24",
+        "ip_address": "172.67.171.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.jsjtkk.icu",
+        "count": "2",
+        "first_seen": "2020-10-06 02:57:04",
+        "last_seen": "2020-10-06 02:57:04",
+        "ip_address": "2606:4700:3035::681c:1ccc",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.jsjtkk.icu",
+        "count": "2",
+        "first_seen": "2020-10-06 02:57:04",
+        "last_seen": "2020-10-06 02:57:04",
+        "ip_address": "2606:4700:3036::681c:1dcc",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.jsjtkk.icu",
+        "count": "2",
+        "first_seen": "2020-10-06 02:57:04",
+        "last_seen": "2020-10-06 02:57:04",
+        "ip_address": "2606:4700:3037::ac43:ab41",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "zenmarket.hu",
+        "count": "2096",
+        "first_seen": "2017-03-24 18:18:02",
+        "last_seen": "2023-01-13 02:19:18",
+        "ip_address": "84.2.35.169",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zenmarket.hu",
+        "count": "89",
+        "first_seen": "2023-01-16 16:18:50",
+        "last_seen": "2023-04-15 14:48:22",
+        "ip_address": "185.33.55.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zenmarket.hu",
+        "count": "39",
+        "first_seen": "2023-01-17 09:45:39",
+        "last_seen": "2023-04-15 14:48:22",
+        "ip_address": "2a00:c760:83:def:aced:fff2:0:2af",
+        "type": "IPv6"
+    }
+]

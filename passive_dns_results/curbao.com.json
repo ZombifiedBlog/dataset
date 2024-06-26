@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "curbao.com",
+        "count": "608",
+        "first_seen": "2021-04-25 03:22:39",
+        "last_seen": "2023-04-23 15:01:39",
+        "ip_address": "74.208.236.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "curbao.com",
+        "count": "17",
+        "first_seen": "2023-04-25 18:15:21",
+        "last_seen": "2023-06-04 11:40:46",
+        "ip_address": "91.195.240.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "curbao.com",
+        "count": "165",
+        "first_seen": "2021-04-25 03:22:39",
+        "last_seen": "2023-04-23 02:50:24",
+        "ip_address": "2607:f1c0:100f:f000::28c",
+        "type": "IPv6"
+    }
+]

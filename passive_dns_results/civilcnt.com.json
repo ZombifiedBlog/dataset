@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "civilcnt.com",
+        "count": "19",
+        "first_seen": "2023-01-26 04:18:53",
+        "last_seen": "2023-05-06 08:37:44",
+        "ip_address": "16.162.71.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "civilcnt.com",
+        "count": "3",
+        "first_seen": "2022-11-21 04:21:03",
+        "last_seen": "2022-12-01 03:59:36",
+        "ip_address": "16.162.97.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "civilcnt.com",
+        "count": "5",
+        "first_seen": "2023-01-03 05:53:29",
+        "last_seen": "2023-01-09 10:05:44",
+        "ip_address": "156.226.61.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "civilcnt.com",
+        "count": "101",
+        "first_seen": "2023-05-08 06:00:19",
+        "last_seen": "2023-05-08 14:20:21",
+        "ip_address": "192.161.176.98",
+        "type": "IPv4"
+    },
+    {
+        "domain": "civilcnt.com",
+        "count": "70",
+        "first_seen": "2023-11-19 22:32:35",
+        "last_seen": "2023-12-29 16:38:57",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

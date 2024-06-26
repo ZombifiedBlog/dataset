@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "abcoqtz.com",
+        "count": "4",
+        "first_seen": "2019-02-17 05:38:37",
+        "last_seen": "2019-02-18 07:08:18",
+        "ip_address": "54.72.9.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "abcoqtz.com",
+        "count": "214",
+        "first_seen": "2019-12-12 07:20:54",
+        "last_seen": "2020-01-21 10:08:29",
+        "ip_address": "91.195.240.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "abcoqtz.com",
+        "count": "1230",
+        "first_seen": "2019-02-12 19:55:17",
+        "last_seen": "2019-06-17 13:57:20",
+        "ip_address": "185.53.179.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "abcoqtz.com",
+        "count": "711",
+        "first_seen": "2019-06-12 12:50:21",
+        "last_seen": "2019-12-10 14:07:50",
+        "ip_address": "185.53.179.7",
+        "type": "IPv4"
+    }
+]

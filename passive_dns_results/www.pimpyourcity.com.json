@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.pimpyourcity.com",
+        "count": "14",
+        "first_seen": "2013-04-13 08:49:12",
+        "last_seen": "2018-02-22 21:52:16",
+        "ip_address": "89.31.143.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.pimpyourcity.com",
+        "count": "11",
+        "first_seen": "2014-07-19 21:09:08",
+        "last_seen": "2014-09-26 22:29:46",
+        "ip_address": "89.31.143.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.pimpyourcity.com",
+        "count": "4",
+        "first_seen": "2017-02-09 21:18:36",
+        "last_seen": "2017-08-14 22:27:08",
+        "ip_address": "89.31.143.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.pimpyourcity.com",
+        "count": "718",
+        "first_seen": "2022-11-07 14:26:55",
+        "last_seen": "2022-11-15 04:54:13",
+        "ip_address": "104.129.60.41",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "akuita.com",
+        "count": "1386",
+        "first_seen": "2021-08-06 08:51:07",
+        "last_seen": "2024-01-18 10:26:17",
+        "ip_address": "104.21.26.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "akuita.com",
+        "count": "1386",
+        "first_seen": "2021-08-06 08:51:07",
+        "last_seen": "2024-01-18 10:26:17",
+        "ip_address": "172.67.136.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "akuita.com",
+        "count": "2",
+        "first_seen": "2022-03-11 09:47:23",
+        "last_seen": "2022-03-13 17:26:36",
+        "ip_address": "188.114.97.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "akuita.com",
+        "count": "1",
+        "first_seen": "2021-12-15 04:36:59",
+        "last_seen": "2021-12-15 04:36:59",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "akuita.com",
+        "count": "316",
+        "first_seen": "2021-08-06 08:51:08",
+        "last_seen": "2024-01-17 00:33:30",
+        "ip_address": "2606:4700:3034::6815:1a98",
+        "type": "IPv6"
+    },
+    {
+        "domain": "akuita.com",
+        "count": "316",
+        "first_seen": "2021-08-06 08:51:08",
+        "last_seen": "2024-01-17 00:33:30",
+        "ip_address": "2606:4700:3037::ac43:8889",
+        "type": "IPv6"
+    },
+    {
+        "domain": "akuita.com",
+        "count": "1",
+        "first_seen": "2022-03-11 09:47:23",
+        "last_seen": "2022-03-11 09:47:23",
+        "ip_address": "2a06:98c1:3122:8000::",
+        "type": "IPv6"
+    }
+]

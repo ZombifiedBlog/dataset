@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "bkpsdm.kukarkab.go.id",
+        "count": "35",
+        "first_seen": "2018-04-14 14:30:00",
+        "last_seen": "2018-04-29 22:50:20",
+        "ip_address": "103.8.238.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bkpsdm.kukarkab.go.id",
+        "count": "41",
+        "first_seen": "2018-05-14 10:26:31",
+        "last_seen": "2018-08-09 08:17:30",
+        "ip_address": "103.8.238.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bkpsdm.kukarkab.go.id",
+        "count": "1735",
+        "first_seen": "2019-11-11 07:50:32",
+        "last_seen": "2023-01-25 22:15:51",
+        "ip_address": "103.97.202.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bkpsdm.kukarkab.go.id",
+        "count": "97",
+        "first_seen": "2023-07-12 15:38:59",
+        "last_seen": "2024-01-17 18:12:21",
+        "ip_address": "103.97.202.82",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bkpsdm.kukarkab.go.id",
+        "count": "89",
+        "first_seen": "2023-01-29 21:42:17",
+        "last_seen": "2023-06-28 10:36:46",
+        "ip_address": "103.97.202.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bkpsdm.kukarkab.go.id",
+        "count": "205",
+        "first_seen": "2018-08-24 20:37:53",
+        "last_seen": "2019-11-05 11:50:33",
+        "ip_address": "156.67.220.191",
+        "type": "IPv4"
+    }
+]

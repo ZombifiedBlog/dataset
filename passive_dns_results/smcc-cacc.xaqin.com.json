@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "smcc-cacc.xaqin.com",
+        "count": "3",
+        "first_seen": "2023-11-09 19:36:39",
+        "last_seen": "2023-12-16 20:59:35",
+        "ip_address": "15.197.192.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.xaqin.com",
+        "count": "71",
+        "first_seen": "2021-11-24 17:58:49",
+        "last_seen": "2023-10-29 15:26:29",
+        "ip_address": "23.27.10.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.xaqin.com",
+        "count": "3",
+        "first_seen": "2021-11-16 02:22:50",
+        "last_seen": "2021-11-23 02:19:33",
+        "ip_address": "75.2.115.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.xaqin.com",
+        "count": "181",
+        "first_seen": "2020-10-14 01:59:35",
+        "last_seen": "2020-10-26 12:23:33",
+        "ip_address": "98.126.214.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.xaqin.com",
+        "count": "2",
+        "first_seen": "2021-02-01 18:31:39",
+        "last_seen": "2021-02-02 18:30:56",
+        "ip_address": "103.224.212.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.xaqin.com",
+        "count": "47",
+        "first_seen": "2020-10-14 00:09:12",
+        "last_seen": "2020-10-14 01:37:20",
+        "ip_address": "154.16.108.137",
+        "type": "IPv4"
+    }
+]

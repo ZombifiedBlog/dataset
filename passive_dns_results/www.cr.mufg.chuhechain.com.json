@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.cr.mufg.chuhechain.com",
+        "count": "37",
+        "first_seen": "2020-11-13 02:54:56",
+        "last_seen": "2020-11-15 16:46:58",
+        "ip_address": "47.91.29.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cr.mufg.chuhechain.com",
+        "count": "2",
+        "first_seen": "2022-02-12 00:41:53",
+        "last_seen": "2022-03-03 08:25:38",
+        "ip_address": "146.148.237.135",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cr.mufg.chuhechain.com",
+        "count": "443",
+        "first_seen": "2020-10-26 09:18:11",
+        "last_seen": "2020-11-13 00:48:10",
+        "ip_address": "192.3.81.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cr.mufg.chuhechain.com",
+        "count": "2",
+        "first_seen": "2023-05-31 06:56:17",
+        "last_seen": "2023-06-17 12:48:37",
+        "ip_address": "204.11.56.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cr.mufg.chuhechain.com",
+        "count": "24",
+        "first_seen": "2021-04-02 01:49:38",
+        "last_seen": "2021-11-13 03:56:08",
+        "ip_address": "213.59.124.124",
+        "type": "IPv4"
+    }
+]

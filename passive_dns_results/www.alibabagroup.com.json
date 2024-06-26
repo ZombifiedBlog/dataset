@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.alibabagroup.com",
+        "count": "6",
+        "first_seen": "2010-10-25 01:43:29",
+        "last_seen": "2011-03-17 08:26:32",
+        "ip_address": "110.75.162.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alibabagroup.com",
+        "count": "14169403",
+        "first_seen": "2014-09-16 10:00:23",
+        "last_seen": "2018-05-08 11:14:02",
+        "ip_address": "198.11.132.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alibabagroup.com",
+        "count": "53199",
+        "first_seen": "2014-09-11 07:14:25",
+        "last_seen": "2016-11-22 07:09:32",
+        "ip_address": "198.11.188.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alibabagroup.com",
+        "count": "764133",
+        "first_seen": "2021-08-10 11:53:49",
+        "last_seen": "2021-09-23 09:00:28",
+        "ip_address": "198.11.188.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alibabagroup.com",
+        "count": "791201",
+        "first_seen": "2014-04-20 12:36:07",
+        "last_seen": "2014-09-11 07:14:22",
+        "ip_address": "205.204.125.167",
+        "type": "IPv4"
+    }
+]

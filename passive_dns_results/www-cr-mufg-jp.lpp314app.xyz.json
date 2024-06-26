@@ -1,0 +1,106 @@
+[
+    {
+        "domain": "www-cr-mufg-jp.lpp314app.xyz",
+        "count": "1004",
+        "first_seen": "2022-10-06 00:45:59",
+        "last_seen": "2022-11-12 00:23:57",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.lpp314app.xyz",
+        "count": "3069",
+        "first_seen": "2022-09-05 14:02:15",
+        "last_seen": "2022-10-05 22:48:56",
+        "ip_address": "104.21.87.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.lpp314app.xyz",
+        "count": "3069",
+        "first_seen": "2022-09-05 14:02:15",
+        "last_seen": "2022-10-05 22:48:56",
+        "ip_address": "172.67.142.91",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.lpp314app.xyz",
+        "count": "3",
+        "first_seen": "2022-09-05 17:09:04",
+        "last_seen": "2022-09-06 03:06:40",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.lpp314app.xyz",
+        "count": "3",
+        "first_seen": "2022-09-05 17:09:04",
+        "last_seen": "2022-09-06 03:06:40",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.lpp314app.xyz",
+        "count": "24",
+        "first_seen": "2022-09-05 16:54:06",
+        "last_seen": "2022-09-06 09:28:03",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.lpp314app.xyz",
+        "count": "24",
+        "first_seen": "2022-09-05 16:54:06",
+        "last_seen": "2022-09-06 09:28:03",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.lpp314app.xyz",
+        "count": "45",
+        "first_seen": "2022-09-05 14:46:03",
+        "last_seen": "2022-09-06 02:45:05",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.lpp314app.xyz",
+        "count": "45",
+        "first_seen": "2022-09-05 14:46:03",
+        "last_seen": "2022-09-06 02:45:05",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.lpp314app.xyz",
+        "count": "41",
+        "first_seen": "2022-09-05 18:21:08",
+        "last_seen": "2022-09-20 10:26:43",
+        "ip_address": "2606:4700:3033::6815:574c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-cr-mufg-jp.lpp314app.xyz",
+        "count": "41",
+        "first_seen": "2022-09-05 18:21:08",
+        "last_seen": "2022-09-20 10:26:43",
+        "ip_address": "2606:4700:3037::ac43:8e5b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-cr-mufg-jp.lpp314app.xyz",
+        "count": "19",
+        "first_seen": "2022-09-05 14:51:08",
+        "last_seen": "2022-09-06 02:45:05",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-cr-mufg-jp.lpp314app.xyz",
+        "count": "19",
+        "first_seen": "2022-09-05 14:51:08",
+        "last_seen": "2022-09-06 02:45:05",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

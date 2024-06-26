@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.servicescrew.com",
+        "count": "832",
+        "first_seen": "2020-05-10 00:13:05",
+        "last_seen": "2020-05-15 23:11:26",
+        "ip_address": "104.24.114.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.servicescrew.com",
+        "count": "832",
+        "first_seen": "2020-05-10 00:13:05",
+        "last_seen": "2020-05-15 23:11:26",
+        "ip_address": "104.24.115.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.servicescrew.com",
+        "count": "6",
+        "first_seen": "2021-12-29 16:22:37",
+        "last_seen": "2022-05-20 11:22:48",
+        "ip_address": "209.99.64.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.servicescrew.com",
+        "count": "335",
+        "first_seen": "2020-05-10 00:13:59",
+        "last_seen": "2020-05-15 16:15:23",
+        "ip_address": "2606:4700:3031::6818:7296",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.servicescrew.com",
+        "count": "335",
+        "first_seen": "2020-05-10 00:13:59",
+        "last_seen": "2020-05-15 16:15:23",
+        "ip_address": "2606:4700:3034::6818:7396",
+        "type": "IPv6"
+    }
+]

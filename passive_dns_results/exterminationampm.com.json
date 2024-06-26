@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "exterminationampm.com",
+        "count": "360",
+        "first_seen": "2015-04-06 04:16:14",
+        "last_seen": "2016-06-17 18:22:48",
+        "ip_address": "74.208.19.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "exterminationampm.com",
+        "count": "5657",
+        "first_seen": "2016-06-21 02:29:40",
+        "last_seen": "2024-01-17 21:09:06",
+        "ip_address": "74.208.236.41",
+        "type": "IPv4"
+    },
+    {
+        "domain": "exterminationampm.com",
+        "count": "2",
+        "first_seen": "2016-06-20 08:28:00",
+        "last_seen": "2016-06-20 08:28:00",
+        "ip_address": "82.165.245.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "exterminationampm.com",
+        "count": "89",
+        "first_seen": "2015-04-06 04:16:14",
+        "last_seen": "2016-06-16 23:17:07",
+        "ip_address": "2607:f1c0:1000:b1:4d64:10e9:d08d:f007",
+        "type": "IPv6"
+    },
+    {
+        "domain": "exterminationampm.com",
+        "count": "3",
+        "first_seen": "2016-06-20 08:28:00",
+        "last_seen": "2016-06-20 13:24:16",
+        "ip_address": "2607:f1c0:1000:d000:b88e:6f2c:63be:360",
+        "type": "IPv6"
+    },
+    {
+        "domain": "exterminationampm.com",
+        "count": "1633",
+        "first_seen": "2016-06-21 02:29:40",
+        "last_seen": "2024-01-15 10:05:04",
+        "ip_address": "2607:f1c0:100f:f000::2d0",
+        "type": "IPv6"
+    }
+]

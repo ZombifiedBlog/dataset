@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "s.ts3mcardlonginm.com",
+        "count": "2",
+        "first_seen": "2022-02-13 07:25:26",
+        "last_seen": "2022-02-13 07:29:33",
+        "ip_address": "172.245.52.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "s.ts3mcardlonginm.com",
+        "count": "47",
+        "first_seen": "2022-02-13 08:11:45",
+        "last_seen": "2022-02-14 00:08:38",
+        "ip_address": "172.245.190.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "s.ts3mcardlonginm.com",
+        "count": "122",
+        "first_seen": "2022-02-12 17:47:40",
+        "last_seen": "2022-02-13 07:23:34",
+        "ip_address": "204.44.109.71",
+        "type": "IPv4"
+    }
+]

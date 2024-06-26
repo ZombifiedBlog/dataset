@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscribers.dbsmlo.art",
+        "count": "1",
+        "first_seen": "2020-12-13 23:10:15",
+        "last_seen": "2020-12-13 23:10:15",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.dbsmlo.art",
+        "count": "279",
+        "first_seen": "2020-08-05 19:35:45",
+        "last_seen": "2020-11-12 10:41:55",
+        "ip_address": "104.27.132.238",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.dbsmlo.art",
+        "count": "279",
+        "first_seen": "2020-08-05 19:35:45",
+        "last_seen": "2020-11-12 10:41:55",
+        "ip_address": "104.27.133.238",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.dbsmlo.art",
+        "count": "279",
+        "first_seen": "2020-08-05 19:35:45",
+        "last_seen": "2020-11-12 10:41:55",
+        "ip_address": "172.67.161.143",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.dbsmlo.art",
+        "count": "237",
+        "first_seen": "2020-08-05 19:39:32",
+        "last_seen": "2020-10-18 15:00:55",
+        "ip_address": "2606:4700:3031::681b:85ee",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.dbsmlo.art",
+        "count": "237",
+        "first_seen": "2020-08-05 19:39:32",
+        "last_seen": "2020-10-18 15:00:55",
+        "ip_address": "2606:4700:3031::ac43:a18f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.dbsmlo.art",
+        "count": "237",
+        "first_seen": "2020-08-05 19:39:32",
+        "last_seen": "2020-10-18 15:00:55",
+        "ip_address": "2606:4700:3035::681b:84ee",
+        "type": "IPv6"
+    }
+]

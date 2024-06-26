@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.wwqtmoc.cf",
+        "count": "59",
+        "first_seen": "2022-09-28 05:20:09",
+        "last_seen": "2022-09-28 14:40:31",
+        "ip_address": "104.21.13.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wwqtmoc.cf",
+        "count": "59",
+        "first_seen": "2022-09-28 05:20:09",
+        "last_seen": "2022-09-28 14:40:31",
+        "ip_address": "172.67.154.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wwqtmoc.cf",
+        "count": "2",
+        "first_seen": "2022-09-28 04:01:58",
+        "last_seen": "2022-09-28 04:01:58",
+        "ip_address": "192.161.179.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wwqtmoc.cf",
+        "count": "4",
+        "first_seen": "2022-09-28 12:08:12",
+        "last_seen": "2022-09-28 14:40:31",
+        "ip_address": "2606:4700:3032::6815:d30",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.wwqtmoc.cf",
+        "count": "4",
+        "first_seen": "2022-09-28 12:08:12",
+        "last_seen": "2022-09-28 14:40:31",
+        "ip_address": "2606:4700:3033::ac43:9aa0",
+        "type": "IPv6"
+    }
+]

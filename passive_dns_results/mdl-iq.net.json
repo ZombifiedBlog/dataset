@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "mdl-iq.net",
+        "count": "1",
+        "first_seen": "2021-02-05 20:28:00",
+        "last_seen": "2021-02-05 20:28:00",
+        "ip_address": "13.248.196.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mdl-iq.net",
+        "count": "54",
+        "first_seen": "2022-12-28 15:45:22",
+        "last_seen": "2023-03-10 06:52:09",
+        "ip_address": "51.89.100.131",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mdl-iq.net",
+        "count": "677",
+        "first_seen": "2023-03-13 10:59:11",
+        "last_seen": "2023-03-22 21:21:58",
+        "ip_address": "104.21.92.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mdl-iq.net",
+        "count": "677",
+        "first_seen": "2023-03-13 10:59:11",
+        "last_seen": "2023-03-22 21:21:58",
+        "ip_address": "172.67.185.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mdl-iq.net",
+        "count": "72",
+        "first_seen": "2020-02-11 09:40:44",
+        "last_seen": "2020-11-25 13:52:06",
+        "ip_address": "188.214.30.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mdl-iq.net",
+        "count": "23",
+        "first_seen": "2020-02-13 09:58:58",
+        "last_seen": "2021-01-23 17:29:23",
+        "ip_address": "208.91.197.91",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mdl-iq.net",
+        "count": "3",
+        "first_seen": "2021-02-08 23:48:46",
+        "last_seen": "2021-03-04 10:39:03",
+        "ip_address": "209.99.40.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mdl-iq.net",
+        "count": "56",
+        "first_seen": "2023-03-13 23:44:42",
+        "last_seen": "2023-03-23 02:11:54",
+        "ip_address": "2606:4700:3031::ac43:b95a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mdl-iq.net",
+        "count": "56",
+        "first_seen": "2023-03-13 23:44:42",
+        "last_seen": "2023-03-23 02:11:54",
+        "ip_address": "2606:4700:3033::6815:5c1e",
+        "type": "IPv6"
+    }
+]

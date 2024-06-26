@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.s.csecoed.com",
+        "count": "64",
+        "first_seen": "2021-12-17 18:43:09",
+        "last_seen": "2021-12-21 07:16:28",
+        "ip_address": "198.144.176.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.s.csecoed.com",
+        "count": "1",
+        "first_seen": "2022-12-17 19:29:43",
+        "last_seen": "2022-12-17 19:29:43",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.s.csecoed.com",
+        "count": "8",
+        "first_seen": "2022-12-17 19:29:43",
+        "last_seen": "2022-12-17 19:32:07",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

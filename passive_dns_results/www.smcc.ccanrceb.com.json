@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.smcc.ccanrceb.com",
+        "count": "188",
+        "first_seen": "2021-10-08 20:59:18",
+        "last_seen": "2022-10-03 23:47:19",
+        "ip_address": "167.99.148.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smcc.ccanrceb.com",
+        "count": "3",
+        "first_seen": "2022-10-08 20:02:00",
+        "last_seen": "2022-10-17 22:49:00",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smcc.ccanrceb.com",
+        "count": "1",
+        "first_seen": "2022-11-16 11:49:13",
+        "last_seen": "2022-11-16 11:49:13",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

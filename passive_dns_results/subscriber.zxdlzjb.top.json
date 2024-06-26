@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.zxdlzjb.top",
+        "count": "12",
+        "first_seen": "2023-07-04 16:10:22",
+        "last_seen": "2023-07-15 07:32:45",
+        "ip_address": "49.51.79.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.zxdlzjb.top",
+        "count": "2958",
+        "first_seen": "2023-02-02 18:23:32",
+        "last_seen": "2023-03-18 07:53:55",
+        "ip_address": "104.21.10.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.zxdlzjb.top",
+        "count": "2958",
+        "first_seen": "2023-02-02 18:23:32",
+        "last_seen": "2023-03-18 07:53:55",
+        "ip_address": "172.67.131.64",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.zxdlzjb.top",
+        "count": "118",
+        "first_seen": "2023-02-02 20:15:51",
+        "last_seen": "2023-03-08 06:33:41",
+        "ip_address": "2606:4700:3036::6815:a38",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.zxdlzjb.top",
+        "count": "118",
+        "first_seen": "2023-02-02 20:15:51",
+        "last_seen": "2023-03-08 06:33:41",
+        "ip_address": "2606:4700:3036::ac43:8340",
+        "type": "IPv6"
+    }
+]

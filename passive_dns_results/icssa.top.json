@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "icssa.top",
+        "count": "1464",
+        "first_seen": "2022-02-17 18:30:09",
+        "last_seen": "2022-03-22 04:18:59",
+        "ip_address": "47.253.70.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "icssa.top",
+        "count": "42",
+        "first_seen": "2021-07-02 03:31:08",
+        "last_seen": "2022-02-09 13:56:36",
+        "ip_address": "47.253.83.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "icssa.top",
+        "count": "7",
+        "first_seen": "2022-04-11 07:23:44",
+        "last_seen": "2022-05-07 07:26:33",
+        "ip_address": "103.120.80.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "icssa.top",
+        "count": "7",
+        "first_seen": "2022-04-11 07:23:44",
+        "last_seen": "2022-05-07 07:26:33",
+        "ip_address": "103.139.0.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "icssa.top",
+        "count": "16",
+        "first_seen": "2021-04-09 04:28:41",
+        "last_seen": "2021-06-17 22:46:08",
+        "ip_address": "192.200.204.217",
+        "type": "IPv4"
+    }
+]

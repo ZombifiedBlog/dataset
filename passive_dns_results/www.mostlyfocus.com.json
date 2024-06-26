@@ -1,0 +1,154 @@
+[
+    {
+        "domain": "www.mostlyfocus.com",
+        "count": "1475",
+        "first_seen": "2020-06-28 18:00:19",
+        "last_seen": "2020-07-15 22:46:21",
+        "ip_address": "104.27.174.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mostlyfocus.com",
+        "count": "1475",
+        "first_seen": "2020-06-28 18:00:19",
+        "last_seen": "2020-07-15 22:46:21",
+        "ip_address": "104.27.175.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mostlyfocus.com",
+        "count": "1475",
+        "first_seen": "2020-06-28 18:00:19",
+        "last_seen": "2020-07-15 22:46:21",
+        "ip_address": "172.67.151.143",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mostlyfocus.com",
+        "count": "23",
+        "first_seen": "2018-07-27 06:43:04",
+        "last_seen": "2019-01-08 14:18:26",
+        "ip_address": "151.1.159.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mostlyfocus.com",
+        "count": "114",
+        "first_seen": "2020-06-29 01:24:06",
+        "last_seen": "2020-06-29 02:29:25",
+        "ip_address": "172.64.200.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mostlyfocus.com",
+        "count": "114",
+        "first_seen": "2020-06-29 01:24:06",
+        "last_seen": "2020-06-29 02:29:25",
+        "ip_address": "172.64.201.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mostlyfocus.com",
+        "count": "14",
+        "first_seen": "2020-07-17 18:21:00",
+        "last_seen": "2020-08-19 04:00:23",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mostlyfocus.com",
+        "count": "14",
+        "first_seen": "2020-07-17 18:21:00",
+        "last_seen": "2020-08-19 04:00:23",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mostlyfocus.com",
+        "count": "14",
+        "first_seen": "2020-07-17 18:21:00",
+        "last_seen": "2020-08-19 04:00:23",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mostlyfocus.com",
+        "count": "14",
+        "first_seen": "2020-07-17 18:21:00",
+        "last_seen": "2020-08-19 04:00:23",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mostlyfocus.com",
+        "count": "23",
+        "first_seen": "2020-10-07 11:42:33",
+        "last_seen": "2021-08-27 16:46:08",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mostlyfocus.com",
+        "count": "1",
+        "first_seen": "2021-11-01 03:43:53",
+        "last_seen": "2021-11-01 03:43:53",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mostlyfocus.com",
+        "count": "2",
+        "first_seen": "2020-10-06 07:51:52",
+        "last_seen": "2020-10-06 07:51:52",
+        "ip_address": "209.99.64.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mostlyfocus.com",
+        "count": "1",
+        "first_seen": "2020-11-17 07:20:31",
+        "last_seen": "2020-11-17 07:20:31",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mostlyfocus.com",
+        "count": "62",
+        "first_seen": "2020-06-29 01:24:06",
+        "last_seen": "2020-06-29 02:29:25",
+        "ip_address": "2606:4700:e6::ac40:c813",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.mostlyfocus.com",
+        "count": "62",
+        "first_seen": "2020-06-29 01:24:06",
+        "last_seen": "2020-06-29 02:29:25",
+        "ip_address": "2606:4700:e6::ac40:c913",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.mostlyfocus.com",
+        "count": "288",
+        "first_seen": "2020-06-28 18:00:19",
+        "last_seen": "2020-07-15 22:46:21",
+        "ip_address": "2606:4700:3030::681b:aec1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.mostlyfocus.com",
+        "count": "288",
+        "first_seen": "2020-06-28 18:00:19",
+        "last_seen": "2020-07-15 22:46:21",
+        "ip_address": "2606:4700:3031::ac43:978f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.mostlyfocus.com",
+        "count": "288",
+        "first_seen": "2020-06-28 18:00:19",
+        "last_seen": "2020-07-15 22:46:21",
+        "ip_address": "2606:4700:3033::681b:afc1",
+        "type": "IPv6"
+    }
+]

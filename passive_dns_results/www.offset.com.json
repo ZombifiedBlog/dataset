@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.offset.com",
+        "count": "227455",
+        "first_seen": "2014-03-03 02:26:13",
+        "last_seen": "2014-05-09 15:52:56",
+        "ip_address": "72.52.14.176",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.offset.com",
+        "count": "5251545",
+        "first_seen": "2014-01-30 20:27:13",
+        "last_seen": "2018-08-07 13:41:27",
+        "ip_address": "162.212.41.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.offset.com",
+        "count": "1049095",
+        "first_seen": "2018-08-07 13:42:28",
+        "last_seen": "2020-02-11 12:36:44",
+        "ip_address": "162.212.45.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.offset.com",
+        "count": "77",
+        "first_seen": "2010-07-31 18:06:53",
+        "last_seen": "2012-11-25 21:47:38",
+        "ip_address": "174.137.132.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.offset.com",
+        "count": "397619",
+        "first_seen": "2012-12-14 06:29:00",
+        "last_seen": "2014-01-30 20:27:19",
+        "ip_address": "199.96.162.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.offset.com",
+        "count": "1",
+        "first_seen": "2012-12-06 01:04:51",
+        "last_seen": "2012-12-06 01:04:51",
+        "ip_address": "216.104.165.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.offset.com",
+        "count": "1",
+        "first_seen": "2012-12-06 01:04:51",
+        "last_seen": "2012-12-06 01:04:51",
+        "ip_address": "216.104.165.86",
+        "type": "IPv4"
+    }
+]

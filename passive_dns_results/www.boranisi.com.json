@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.boranisi.com",
+        "count": "1",
+        "first_seen": "2023-03-26 14:22:22",
+        "last_seen": "2023-03-26 14:22:22",
+        "ip_address": "52.213.114.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.boranisi.com",
+        "count": "41",
+        "first_seen": "2016-07-08 08:45:14",
+        "last_seen": "2016-08-12 08:21:42",
+        "ip_address": "69.172.201.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.boranisi.com",
+        "count": "84",
+        "first_seen": "2023-07-15 05:12:44",
+        "last_seen": "2023-11-24 09:43:32",
+        "ip_address": "107.149.98.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.boranisi.com",
+        "count": "31",
+        "first_seen": "2023-05-27 13:02:52",
+        "last_seen": "2023-07-04 05:16:30",
+        "ip_address": "107.149.114.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.boranisi.com",
+        "count": "209",
+        "first_seen": "2023-01-25 11:40:22",
+        "last_seen": "2023-01-26 07:27:17",
+        "ip_address": "107.150.5.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.boranisi.com",
+        "count": "36",
+        "first_seen": "2023-11-26 20:09:03",
+        "last_seen": "2024-01-11 12:39:18",
+        "ip_address": "108.186.97.235",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.boranisi.com",
+        "count": "1",
+        "first_seen": "2022-04-26 06:51:30",
+        "last_seen": "2022-04-26 06:51:30",
+        "ip_address": "154.92.75.29",
+        "type": "IPv4"
+    }
+]

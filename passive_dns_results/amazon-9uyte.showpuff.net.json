@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "amazon-9uyte.showpuff.net",
+        "count": "3",
+        "first_seen": "2022-04-28 18:00:24",
+        "last_seen": "2022-05-18 00:29:43",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-9uyte.showpuff.net",
+        "count": "18",
+        "first_seen": "2023-09-05 09:44:25",
+        "last_seen": "2023-10-09 10:01:50",
+        "ip_address": "164.88.122.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-9uyte.showpuff.net",
+        "count": "2",
+        "first_seen": "2023-01-29 20:27:05",
+        "last_seen": "2023-03-17 11:25:36",
+        "ip_address": "164.88.252.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-9uyte.showpuff.net",
+        "count": "247",
+        "first_seen": "2022-03-01 07:36:32",
+        "last_seen": "2022-03-24 13:31:55",
+        "ip_address": "209.141.45.100",
+        "type": "IPv4"
+    }
+]

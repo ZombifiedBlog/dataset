@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "jreast-co-jp.iggftnc.cn",
+        "count": "1",
+        "first_seen": "2022-12-29 04:02:11",
+        "last_seen": "2022-12-29 04:02:11",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jreast-co-jp.iggftnc.cn",
+        "count": "1276",
+        "first_seen": "2022-09-08 08:59:35",
+        "last_seen": "2022-12-02 06:15:45",
+        "ip_address": "104.21.18.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jreast-co-jp.iggftnc.cn",
+        "count": "1276",
+        "first_seen": "2022-09-08 08:59:35",
+        "last_seen": "2022-12-02 06:15:45",
+        "ip_address": "172.67.179.161",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jreast-co-jp.iggftnc.cn",
+        "count": "88",
+        "first_seen": "2022-09-08 09:13:49",
+        "last_seen": "2022-12-02 06:15:45",
+        "ip_address": "2606:4700:3030::6815:1214",
+        "type": "IPv6"
+    },
+    {
+        "domain": "jreast-co-jp.iggftnc.cn",
+        "count": "88",
+        "first_seen": "2022-09-08 09:13:49",
+        "last_seen": "2022-12-02 06:15:45",
+        "ip_address": "2606:4700:3037::ac43:b3a1",
+        "type": "IPv6"
+    }
+]

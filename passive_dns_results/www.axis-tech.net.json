@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.axis-tech.net",
+        "count": "829",
+        "first_seen": "2020-03-26 09:09:00",
+        "last_seen": "2020-04-21 02:17:44",
+        "ip_address": "104.28.30.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.axis-tech.net",
+        "count": "829",
+        "first_seen": "2020-03-26 09:09:00",
+        "last_seen": "2020-04-21 02:17:44",
+        "ip_address": "104.28.31.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.axis-tech.net",
+        "count": "1",
+        "first_seen": "2021-03-23 18:27:38",
+        "last_seen": "2021-03-23 18:27:38",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.axis-tech.net",
+        "count": "1",
+        "first_seen": "2021-03-23 18:27:38",
+        "last_seen": "2021-03-23 18:27:38",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.axis-tech.net",
+        "count": "1",
+        "first_seen": "2021-03-23 18:27:38",
+        "last_seen": "2021-03-23 18:27:38",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.axis-tech.net",
+        "count": "1",
+        "first_seen": "2021-03-23 18:27:38",
+        "last_seen": "2021-03-23 18:27:38",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.axis-tech.net",
+        "count": "293",
+        "first_seen": "2020-03-26 09:09:12",
+        "last_seen": "2020-04-20 23:13:49",
+        "ip_address": "2606:4700:3031::681c:1e47",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.axis-tech.net",
+        "count": "293",
+        "first_seen": "2020-03-26 09:09:12",
+        "last_seen": "2020-04-20 23:13:49",
+        "ip_address": "2606:4700:3034::681c:1f47",
+        "type": "IPv6"
+    }
+]

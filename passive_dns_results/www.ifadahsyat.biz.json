@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "www.ifadahsyat.biz",
+        "count": "3",
+        "first_seen": "2018-07-14 06:18:12",
+        "last_seen": "2018-07-14 06:18:12",
+        "ip_address": "35.198.193.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ifadahsyat.biz",
+        "count": "2",
+        "first_seen": "2018-05-26 05:33:32",
+        "last_seen": "2018-05-26 05:33:32",
+        "ip_address": "35.198.218.73",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ifadahsyat.biz",
+        "count": "442",
+        "first_seen": "2018-07-17 12:22:14",
+        "last_seen": "2020-05-20 21:44:08",
+        "ip_address": "104.28.26.142",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ifadahsyat.biz",
+        "count": "442",
+        "first_seen": "2018-07-17 12:22:14",
+        "last_seen": "2020-05-20 21:44:08",
+        "ip_address": "104.28.27.142",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ifadahsyat.biz",
+        "count": "1",
+        "first_seen": "2012-03-03 11:56:43",
+        "last_seen": "2012-03-03 11:56:43",
+        "ip_address": "174.122.47.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ifadahsyat.biz",
+        "count": "20",
+        "first_seen": "2015-10-25 00:02:42",
+        "last_seen": "2017-11-30 19:26:44",
+        "ip_address": "209.99.40.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ifadahsyat.biz",
+        "count": "54",
+        "first_seen": "2018-07-17 12:22:14",
+        "last_seen": "2018-09-23 22:50:53",
+        "ip_address": "2400:cb00:2048:1::681c:1a8e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ifadahsyat.biz",
+        "count": "54",
+        "first_seen": "2018-07-17 12:22:14",
+        "last_seen": "2018-09-23 22:50:53",
+        "ip_address": "2400:cb00:2048:1::681c:1b8e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ifadahsyat.biz",
+        "count": "135",
+        "first_seen": "2018-10-12 20:18:24",
+        "last_seen": "2020-01-16 10:43:07",
+        "ip_address": "2606:4700:30::681c:1a8e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ifadahsyat.biz",
+        "count": "135",
+        "first_seen": "2018-10-12 20:18:24",
+        "last_seen": "2020-01-16 10:43:07",
+        "ip_address": "2606:4700:30::681c:1b8e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ifadahsyat.biz",
+        "count": "28",
+        "first_seen": "2020-02-02 10:21:56",
+        "last_seen": "2020-05-20 04:33:46",
+        "ip_address": "2606:4700:3030::681c:1b8e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ifadahsyat.biz",
+        "count": "28",
+        "first_seen": "2020-02-02 10:21:56",
+        "last_seen": "2020-05-20 04:33:46",
+        "ip_address": "2606:4700:3031::681c:1a8e",
+        "type": "IPv6"
+    }
+]
