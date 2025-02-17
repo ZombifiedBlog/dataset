@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "subscriber.tuneofheart.com",
+        "count": "5",
+        "first_seen": "2022-08-24 18:22:03",
+        "last_seen": "2022-09-06 17:01:58",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tuneofheart.com",
+        "count": "3969",
+        "first_seen": "2022-06-07 17:56:53",
+        "last_seen": "2022-08-23 04:43:15",
+        "ip_address": "104.21.31.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tuneofheart.com",
+        "count": "3969",
+        "first_seen": "2022-06-07 17:56:53",
+        "last_seen": "2022-08-23 04:43:15",
+        "ip_address": "172.67.178.176",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tuneofheart.com",
+        "count": "57",
+        "first_seen": "2022-11-11 00:56:49",
+        "last_seen": "2023-10-17 21:45:18",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tuneofheart.com",
+        "count": "2",
+        "first_seen": "2023-11-14 21:50:59",
+        "last_seen": "2023-11-28 17:27:55",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tuneofheart.com",
+        "count": "1",
+        "first_seen": "2022-08-25 19:35:14",
+        "last_seen": "2022-08-25 19:35:14",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tuneofheart.com",
+        "count": "174",
+        "first_seen": "2022-06-07 22:36:42",
+        "last_seen": "2022-08-22 08:46:45",
+        "ip_address": "2606:4700:3031::ac43:b2b0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.tuneofheart.com",
+        "count": "174",
+        "first_seen": "2022-06-07 22:36:42",
+        "last_seen": "2022-08-22 08:46:45",
+        "ip_address": "2606:4700:3036::6815:1faa",
+        "type": "IPv6"
+    }
+]

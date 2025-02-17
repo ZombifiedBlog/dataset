@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.fuzbing.com",
+        "count": "197",
+        "first_seen": "2022-05-26 13:08:40",
+        "last_seen": "2022-07-07 09:06:34",
+        "ip_address": "52.213.114.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.fuzbing.com",
+        "count": "2",
+        "first_seen": "2013-02-28 12:46:42",
+        "last_seen": "2013-02-28 12:46:42",
+        "ip_address": "107.20.206.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.fuzbing.com",
+        "count": "2",
+        "first_seen": "2021-10-05 16:59:08",
+        "last_seen": "2021-10-05 16:59:08",
+        "ip_address": "154.204.211.171",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.fuzbing.com",
+        "count": "2345",
+        "first_seen": "2022-05-10 06:06:25",
+        "last_seen": "2022-05-26 10:13:02",
+        "ip_address": "192.210.147.104",
+        "type": "IPv4"
+    }
+]

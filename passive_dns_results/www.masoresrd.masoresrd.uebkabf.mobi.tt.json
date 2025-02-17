@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.masoresrd.masoresrd.uebkabf.mobi.tt",
+        "count": "4",
+        "first_seen": "2023-06-13 22:48:40",
+        "last_seen": "2023-12-15 21:01:04",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.masoresrd.masoresrd.uebkabf.mobi.tt",
+        "count": "21",
+        "first_seen": "2022-07-11 18:10:51",
+        "last_seen": "2022-07-12 14:33:07",
+        "ip_address": "107.174.138.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.masoresrd.masoresrd.uebkabf.mobi.tt",
+        "count": "1",
+        "first_seen": "2023-12-15 21:01:04",
+        "last_seen": "2023-12-15 21:01:04",
+        "ip_address": "::1",
+        "type": "IPv6"
+    }
+]

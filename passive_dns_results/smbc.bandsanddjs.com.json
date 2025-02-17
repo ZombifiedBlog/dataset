@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "smbc.bandsanddjs.com",
+        "count": "317",
+        "first_seen": "2023-06-20 11:06:42",
+        "last_seen": "2023-06-26 14:09:13",
+        "ip_address": "23.94.179.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.bandsanddjs.com",
+        "count": "445",
+        "first_seen": "2023-06-06 14:47:20",
+        "last_seen": "2023-06-12 12:21:20",
+        "ip_address": "34.85.34.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.bandsanddjs.com",
+        "count": "248",
+        "first_seen": "2023-06-12 12:58:31",
+        "last_seen": "2023-06-14 18:27:45",
+        "ip_address": "34.146.116.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.bandsanddjs.com",
+        "count": "486",
+        "first_seen": "2023-06-14 18:39:30",
+        "last_seen": "2023-06-19 07:52:50",
+        "ip_address": "47.87.146.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.bandsanddjs.com",
+        "count": "1",
+        "first_seen": "2024-01-18 08:11:38",
+        "last_seen": "2024-01-18 08:11:38",
+        "ip_address": "66.96.162.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.bandsanddjs.com",
+        "count": "29",
+        "first_seen": "2023-09-26 23:55:10",
+        "last_seen": "2023-09-30 09:29:13",
+        "ip_address": "103.224.212.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.bandsanddjs.com",
+        "count": "58",
+        "first_seen": "2023-06-19 08:53:13",
+        "last_seen": "2023-06-20 09:51:44",
+        "ip_address": "140.99.32.37",
+        "type": "IPv4"
+    }
+]

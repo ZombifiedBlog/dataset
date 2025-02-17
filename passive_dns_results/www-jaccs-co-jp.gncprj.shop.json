@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www-jaccs-co-jp.gncprj.shop",
+        "count": "143",
+        "first_seen": "2021-07-08 15:17:22",
+        "last_seen": "2021-07-12 03:07:09",
+        "ip_address": "104.21.45.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gncprj.shop",
+        "count": "143",
+        "first_seen": "2021-07-08 15:17:22",
+        "last_seen": "2021-07-12 03:07:09",
+        "ip_address": "172.67.213.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gncprj.shop",
+        "count": "7",
+        "first_seen": "2021-07-08 16:00:37",
+        "last_seen": "2021-07-09 02:55:15",
+        "ip_address": "2606:4700:3030::ac43:d5df",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gncprj.shop",
+        "count": "7",
+        "first_seen": "2021-07-08 16:00:37",
+        "last_seen": "2021-07-09 02:55:15",
+        "ip_address": "2606:4700:3033::6815:2d76",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "wifiteaching.com",
+        "count": "5",
+        "first_seen": "2022-06-12 01:59:26",
+        "last_seen": "2022-07-15 01:45:50",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wifiteaching.com",
+        "count": "1239",
+        "first_seen": "2020-06-07 10:17:04",
+        "last_seen": "2022-03-19 11:28:36",
+        "ip_address": "116.202.117.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wifiteaching.com",
+        "count": "137",
+        "first_seen": "2020-07-15 18:51:39",
+        "last_seen": "2020-07-20 14:29:23",
+        "ip_address": "159.69.106.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wifiteaching.com",
+        "count": "218",
+        "first_seen": "2020-07-16 10:20:39",
+        "last_seen": "2021-09-16 18:29:21",
+        "ip_address": "2a01:4f8:231:450b::2",
+        "type": "IPv6"
+    }
+]

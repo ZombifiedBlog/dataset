@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "img.vdrbs.com",
+        "count": "1612",
+        "first_seen": "2019-11-13 01:58:35",
+        "last_seen": "2019-12-06 04:36:33",
+        "ip_address": "104.27.178.241",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.vdrbs.com",
+        "count": "1612",
+        "first_seen": "2019-11-13 01:58:35",
+        "last_seen": "2019-12-06 04:36:33",
+        "ip_address": "104.27.179.241",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.vdrbs.com",
+        "count": "310",
+        "first_seen": "2019-11-13 05:48:38",
+        "last_seen": "2019-12-05 20:47:16",
+        "ip_address": "2606:4700:30::681b:b2f1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.vdrbs.com",
+        "count": "310",
+        "first_seen": "2019-11-13 05:48:38",
+        "last_seen": "2019-12-05 20:47:16",
+        "ip_address": "2606:4700:30::681b:b3f1",
+        "type": "IPv6"
+    }
+]

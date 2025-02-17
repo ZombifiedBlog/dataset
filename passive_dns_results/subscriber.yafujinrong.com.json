@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscriber.yafujinrong.com",
+        "count": "2348",
+        "first_seen": "2021-02-01 18:40:45",
+        "last_seen": "2021-04-04 03:59:28",
+        "ip_address": "104.21.79.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yafujinrong.com",
+        "count": "2348",
+        "first_seen": "2021-02-01 18:40:45",
+        "last_seen": "2021-04-04 03:59:28",
+        "ip_address": "172.67.148.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yafujinrong.com",
+        "count": "7",
+        "first_seen": "2021-06-27 21:48:06",
+        "last_seen": "2021-08-08 12:42:58",
+        "ip_address": "104.232.72.79",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yafujinrong.com",
+        "count": "4",
+        "first_seen": "2023-06-13 18:10:15",
+        "last_seen": "2023-08-27 17:14:09",
+        "ip_address": "154.210.251.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yafujinrong.com",
+        "count": "1",
+        "first_seen": "2021-02-28 12:30:37",
+        "last_seen": "2021-02-28 12:30:37",
+        "ip_address": "172.64.81.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yafujinrong.com",
+        "count": "1011",
+        "first_seen": "2021-02-01 18:51:49",
+        "last_seen": "2021-04-04 03:59:28",
+        "ip_address": "2606:4700:3036::6815:4fd5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.yafujinrong.com",
+        "count": "1011",
+        "first_seen": "2021-02-01 18:51:49",
+        "last_seen": "2021-04-04 03:59:28",
+        "ip_address": "2606:4700:3037::ac43:94cf",
+        "type": "IPv6"
+    }
+]

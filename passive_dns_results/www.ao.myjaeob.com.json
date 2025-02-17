@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "www.ao.myjaeob.com",
+        "count": "5",
+        "first_seen": "2022-01-16 17:22:24",
+        "last_seen": "2022-01-16 17:25:54",
+        "ip_address": "172.245.94.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ao.myjaeob.com",
+        "count": "113",
+        "first_seen": "2022-01-16 20:59:41",
+        "last_seen": "2022-01-19 08:18:22",
+        "ip_address": "198.23.174.100",
+        "type": "IPv4"
+    }
+]

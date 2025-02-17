@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.ping-bing.com",
+        "count": "1",
+        "first_seen": "2010-08-28 20:14:54",
+        "last_seen": "2010-08-28 20:14:54",
+        "ip_address": "8.5.1.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ping-bing.com",
+        "count": "3",
+        "first_seen": "2010-08-20 17:55:23",
+        "last_seen": "2010-08-31 00:56:32",
+        "ip_address": "64.74.223.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ping-bing.com",
+        "count": "117",
+        "first_seen": "2018-11-30 14:40:56",
+        "last_seen": "2019-09-14 11:17:34",
+        "ip_address": "154.210.79.85",
+        "type": "IPv4"
+    }
+]

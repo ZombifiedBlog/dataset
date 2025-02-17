@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.zyzrb.com",
+        "count": "2",
+        "first_seen": "2016-12-18 21:33:09",
+        "last_seen": "2016-12-18 21:33:09",
+        "ip_address": "103.35.78.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zyzrb.com",
+        "count": "57",
+        "first_seen": "2021-05-05 02:48:32",
+        "last_seen": "2021-05-11 08:05:23",
+        "ip_address": "104.21.66.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zyzrb.com",
+        "count": "57",
+        "first_seen": "2021-05-05 02:48:32",
+        "last_seen": "2021-05-11 08:05:23",
+        "ip_address": "172.67.161.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zyzrb.com",
+        "count": "1653",
+        "first_seen": "2021-05-05 02:03:14",
+        "last_seen": "2022-03-12 23:38:04",
+        "ip_address": "198.144.154.72",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zyzrb.com",
+        "count": "19",
+        "first_seen": "2021-05-05 04:13:50",
+        "last_seen": "2021-05-11 06:04:53",
+        "ip_address": "2606:4700:3031::6815:4299",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zyzrb.com",
+        "count": "19",
+        "first_seen": "2021-05-05 04:13:50",
+        "last_seen": "2021-05-11 06:04:53",
+        "ip_address": "2606:4700:3037::ac43:a17d",
+        "type": "IPv6"
+    }
+]

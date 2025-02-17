@@ -1,0 +1,218 @@
+[
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "2546",
+        "first_seen": "2022-11-19 16:13:20",
+        "last_seen": "2023-01-20 07:34:48",
+        "ip_address": "104.21.90.42",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "2546",
+        "first_seen": "2022-11-19 16:13:20",
+        "last_seen": "2023-01-20 07:34:48",
+        "ip_address": "172.67.194.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "13",
+        "first_seen": "2023-02-13 22:35:01",
+        "last_seen": "2023-03-12 06:35:10",
+        "ip_address": "170.106.49.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "60",
+        "first_seen": "2022-11-20 02:50:55",
+        "last_seen": "2022-12-31 01:07:28",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "60",
+        "first_seen": "2022-11-20 02:50:55",
+        "last_seen": "2022-12-31 01:07:28",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "75",
+        "first_seen": "2022-11-22 09:56:05",
+        "last_seen": "2022-12-21 12:01:10",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "75",
+        "first_seen": "2022-11-22 09:56:05",
+        "last_seen": "2022-12-21 12:01:10",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "11",
+        "first_seen": "2022-11-23 23:37:29",
+        "last_seen": "2022-12-21 11:33:39",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "11",
+        "first_seen": "2022-11-23 23:37:29",
+        "last_seen": "2022-12-21 11:33:39",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "1",
+        "first_seen": "2022-12-21 12:06:19",
+        "last_seen": "2022-12-21 12:06:19",
+        "ip_address": "188.114.96.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "1",
+        "first_seen": "2022-12-21 12:06:19",
+        "last_seen": "2022-12-21 12:06:19",
+        "ip_address": "188.114.97.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "2",
+        "first_seen": "2022-12-21 02:22:02",
+        "last_seen": "2022-12-21 02:22:02",
+        "ip_address": "188.114.96.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "2",
+        "first_seen": "2022-12-21 02:22:02",
+        "last_seen": "2022-12-21 02:22:02",
+        "ip_address": "188.114.97.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "8",
+        "first_seen": "2022-11-23 08:25:45",
+        "last_seen": "2022-12-10 13:23:30",
+        "ip_address": "188.114.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "8",
+        "first_seen": "2022-11-23 08:25:45",
+        "last_seen": "2022-12-10 13:23:30",
+        "ip_address": "188.114.97.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "117",
+        "first_seen": "2022-11-19 16:52:41",
+        "last_seen": "2022-12-29 09:40:51",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "117",
+        "first_seen": "2022-11-19 16:52:41",
+        "last_seen": "2022-12-29 09:40:51",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "64",
+        "first_seen": "2022-11-21 03:07:23",
+        "last_seen": "2022-12-26 08:56:06",
+        "ip_address": "2606:4700:3034::ac43:c2ef",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "64",
+        "first_seen": "2022-11-21 03:07:23",
+        "last_seen": "2022-12-26 08:56:06",
+        "ip_address": "2606:4700:3035::6815:5a2a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "37",
+        "first_seen": "2022-11-22 09:12:52",
+        "last_seen": "2022-12-22 10:29:04",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "37",
+        "first_seen": "2022-11-22 09:12:52",
+        "last_seen": "2022-12-22 10:29:04",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "4",
+        "first_seen": "2022-11-25 19:19:44",
+        "last_seen": "2022-12-04 00:49:29",
+        "ip_address": "2a06:98c1:3120::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "4",
+        "first_seen": "2022-11-25 19:19:44",
+        "last_seen": "2022-12-04 00:49:29",
+        "ip_address": "2a06:98c1:3121::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "4",
+        "first_seen": "2022-11-26 08:54:54",
+        "last_seen": "2022-12-08 13:08:30",
+        "ip_address": "2a06:98c1:3120::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "4",
+        "first_seen": "2022-11-26 08:54:54",
+        "last_seen": "2022-12-08 13:08:30",
+        "ip_address": "2a06:98c1:3121::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "58",
+        "first_seen": "2022-11-19 16:52:41",
+        "last_seen": "2022-12-29 09:40:51",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.pointandfLush.com",
+        "count": "58",
+        "first_seen": "2022-11-19 16:52:41",
+        "last_seen": "2022-12-29 09:40:51",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

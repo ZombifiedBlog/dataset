@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.nhkplus.update.lk6t21es.com",
+        "count": "32",
+        "first_seen": "2023-07-10 22:54:09",
+        "last_seen": "2023-09-07 13:11:45",
+        "ip_address": "104.21.31.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.nhkplus.update.lk6t21es.com",
+        "count": "32",
+        "first_seen": "2023-07-10 22:54:09",
+        "last_seen": "2023-09-07 13:11:45",
+        "ip_address": "172.67.179.167",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.nhkplus.update.lk6t21es.com",
+        "count": "3",
+        "first_seen": "2023-05-31 16:51:17",
+        "last_seen": "2023-06-02 15:09:49",
+        "ip_address": "198.46.189.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.nhkplus.update.lk6t21es.com",
+        "count": "17",
+        "first_seen": "2023-07-14 02:11:05",
+        "last_seen": "2023-08-11 18:11:30",
+        "ip_address": "2606:4700:3034::6815:1fc6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.nhkplus.update.lk6t21es.com",
+        "count": "17",
+        "first_seen": "2023-07-14 02:11:05",
+        "last_seen": "2023-08-11 18:11:30",
+        "ip_address": "2606:4700:3035::ac43:b3a7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.nhkplus.update.lk6t21es.com",
+        "count": "1",
+        "first_seen": "2023-08-08 04:37:18",
+        "last_seen": "2023-08-08 04:37:18",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.nhkplus.update.lk6t21es.com",
+        "count": "1",
+        "first_seen": "2023-08-08 04:37:18",
+        "last_seen": "2023-08-08 04:37:18",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    }
+]

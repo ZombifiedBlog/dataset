@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "statistics.xingyihuizn.com",
+        "count": "110",
+        "first_seen": "2020-10-12 01:35:02",
+        "last_seen": "2020-10-29 04:52:20",
+        "ip_address": "104.31.86.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "statistics.xingyihuizn.com",
+        "count": "110",
+        "first_seen": "2020-10-12 01:35:02",
+        "last_seen": "2020-10-29 04:52:20",
+        "ip_address": "104.31.87.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "statistics.xingyihuizn.com",
+        "count": "110",
+        "first_seen": "2020-10-12 01:35:02",
+        "last_seen": "2020-10-29 04:52:20",
+        "ip_address": "172.67.162.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "statistics.xingyihuizn.com",
+        "count": "58",
+        "first_seen": "2020-10-15 08:27:41",
+        "last_seen": "2020-10-29 04:52:20",
+        "ip_address": "2606:4700:3030::681f:57e9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "statistics.xingyihuizn.com",
+        "count": "58",
+        "first_seen": "2020-10-15 08:27:41",
+        "last_seen": "2020-10-29 04:52:20",
+        "ip_address": "2606:4700:3035::681f:56e9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "statistics.xingyihuizn.com",
+        "count": "58",
+        "first_seen": "2020-10-15 08:27:41",
+        "last_seen": "2020-10-29 04:52:20",
+        "ip_address": "2606:4700:3035::ac43:a291",
+        "type": "IPv6"
+    }
+]

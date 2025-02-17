@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "viewsnet-jp.viewrewjk.xyz",
+        "count": "201",
+        "first_seen": "2022-02-11 15:17:32",
+        "last_seen": "2022-02-14 03:13:36",
+        "ip_address": "104.21.44.47",
+        "type": "IPv4"
+    },
+    {
+        "domain": "viewsnet-jp.viewrewjk.xyz",
+        "count": "201",
+        "first_seen": "2022-02-11 15:17:32",
+        "last_seen": "2022-02-14 03:13:36",
+        "ip_address": "172.67.195.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "viewsnet-jp.viewrewjk.xyz",
+        "count": "2",
+        "first_seen": "2022-02-11 15:21:01",
+        "last_seen": "2022-02-11 21:28:11",
+        "ip_address": "2606:4700:3030::ac43:c314",
+        "type": "IPv6"
+    },
+    {
+        "domain": "viewsnet-jp.viewrewjk.xyz",
+        "count": "2",
+        "first_seen": "2022-02-11 15:21:01",
+        "last_seen": "2022-02-11 21:28:11",
+        "ip_address": "2606:4700:3031::6815:2c2f",
+        "type": "IPv6"
+    }
+]

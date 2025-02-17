@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "www.seicocanrd.icu",
+        "count": "2",
+        "first_seen": "2023-04-05 09:18:32",
+        "last_seen": "2023-04-14 09:38:36",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.seicocanrd.icu",
+        "count": "443",
+        "first_seen": "2022-03-31 17:08:43",
+        "last_seen": "2023-01-11 10:01:31",
+        "ip_address": "198.12.127.208",
+        "type": "IPv4"
+    }
+]

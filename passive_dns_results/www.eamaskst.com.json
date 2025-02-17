@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "www.eamaskst.com",
+        "count": "9",
+        "first_seen": "2020-06-03 12:54:52",
+        "last_seen": "2020-06-03 15:37:08",
+        "ip_address": "54.36.73.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.eamaskst.com",
+        "count": "1166",
+        "first_seen": "2020-06-26 05:27:01",
+        "last_seen": "2020-07-01 13:24:41",
+        "ip_address": "104.31.84.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.eamaskst.com",
+        "count": "1166",
+        "first_seen": "2020-06-26 05:27:01",
+        "last_seen": "2020-07-01 13:24:41",
+        "ip_address": "104.31.85.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.eamaskst.com",
+        "count": "1166",
+        "first_seen": "2020-06-26 05:27:01",
+        "last_seen": "2020-07-01 13:24:41",
+        "ip_address": "172.67.223.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.eamaskst.com",
+        "count": "3",
+        "first_seen": "2020-08-13 17:47:23",
+        "last_seen": "2020-08-16 00:59:57",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.eamaskst.com",
+        "count": "3",
+        "first_seen": "2020-08-13 17:47:23",
+        "last_seen": "2020-08-16 00:59:57",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.eamaskst.com",
+        "count": "3",
+        "first_seen": "2020-08-13 17:47:23",
+        "last_seen": "2020-08-16 00:59:57",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.eamaskst.com",
+        "count": "3",
+        "first_seen": "2020-08-13 17:47:23",
+        "last_seen": "2020-08-16 00:59:57",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.eamaskst.com",
+        "count": "391",
+        "first_seen": "2020-06-26 05:27:01",
+        "last_seen": "2020-06-30 19:01:06",
+        "ip_address": "2606:4700:3032::681f:5503",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.eamaskst.com",
+        "count": "391",
+        "first_seen": "2020-06-26 05:27:01",
+        "last_seen": "2020-06-30 19:01:06",
+        "ip_address": "2606:4700:3032::ac43:df35",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.eamaskst.com",
+        "count": "391",
+        "first_seen": "2020-06-26 05:27:01",
+        "last_seen": "2020-06-30 19:01:06",
+        "ip_address": "2606:4700:3037::681f:5403",
+        "type": "IPv6"
+    }
+]

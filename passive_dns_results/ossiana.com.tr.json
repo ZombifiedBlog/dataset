@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "ossiana.com.tr",
+        "count": "1",
+        "first_seen": "2010-12-26 06:33:00",
+        "last_seen": "2010-12-26 06:33:00",
+        "ip_address": "77.245.146.109",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ossiana.com.tr",
+        "count": "3992",
+        "first_seen": "2012-07-17 05:22:45",
+        "last_seen": "2023-02-27 22:28:59",
+        "ip_address": "77.245.148.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ossiana.com.tr",
+        "count": "569",
+        "first_seen": "2023-02-28 22:13:12",
+        "last_seen": "2024-01-18 01:24:02",
+        "ip_address": "77.245.148.174",
+        "type": "IPv4"
+    }
+]

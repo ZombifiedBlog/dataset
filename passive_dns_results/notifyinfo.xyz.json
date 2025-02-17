@@ -1,0 +1,106 @@
+[
+    {
+        "domain": "notifyinfo.xyz",
+        "count": "42",
+        "first_seen": "2021-08-29 09:26:53",
+        "last_seen": "2021-08-29 12:31:42",
+        "ip_address": "45.137.154.171",
+        "type": "IPv4"
+    },
+    {
+        "domain": "notifyinfo.xyz",
+        "count": "6",
+        "first_seen": "2021-08-30 18:30:05",
+        "last_seen": "2021-08-30 22:17:07",
+        "ip_address": "104.21.55.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "notifyinfo.xyz",
+        "count": "6",
+        "first_seen": "2021-08-30 18:30:05",
+        "last_seen": "2021-08-30 22:17:07",
+        "ip_address": "172.67.144.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "notifyinfo.xyz",
+        "count": "14",
+        "first_seen": "2021-09-20 19:41:36",
+        "last_seen": "2021-10-13 19:42:48",
+        "ip_address": "104.21.59.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "notifyinfo.xyz",
+        "count": "14",
+        "first_seen": "2021-09-20 19:41:36",
+        "last_seen": "2021-10-13 19:42:48",
+        "ip_address": "172.67.179.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "notifyinfo.xyz",
+        "count": "68",
+        "first_seen": "2021-09-02 07:10:39",
+        "last_seen": "2021-09-14 15:01:15",
+        "ip_address": "104.21.87.176",
+        "type": "IPv4"
+    },
+    {
+        "domain": "notifyinfo.xyz",
+        "count": "68",
+        "first_seen": "2021-09-02 07:10:39",
+        "last_seen": "2021-09-14 15:01:15",
+        "ip_address": "172.67.170.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "notifyinfo.xyz",
+        "count": "13",
+        "first_seen": "2021-09-20 19:41:36",
+        "last_seen": "2021-10-13 19:42:48",
+        "ip_address": "2606:4700:3032::6815:3b8c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "notifyinfo.xyz",
+        "count": "13",
+        "first_seen": "2021-09-20 19:41:36",
+        "last_seen": "2021-10-13 19:42:48",
+        "ip_address": "2606:4700:3035::ac43:b347",
+        "type": "IPv6"
+    },
+    {
+        "domain": "notifyinfo.xyz",
+        "count": "8",
+        "first_seen": "2021-09-03 04:36:19",
+        "last_seen": "2021-09-10 01:25:41",
+        "ip_address": "2606:4700:3033::6815:57b0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "notifyinfo.xyz",
+        "count": "8",
+        "first_seen": "2021-09-03 04:36:19",
+        "last_seen": "2021-09-10 01:25:41",
+        "ip_address": "2606:4700:3035::ac43:aa7c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "notifyinfo.xyz",
+        "count": "1",
+        "first_seen": "2021-08-30 12:55:23",
+        "last_seen": "2021-08-30 12:55:23",
+        "ip_address": "2606:4700:3034::6815:3735",
+        "type": "IPv6"
+    },
+    {
+        "domain": "notifyinfo.xyz",
+        "count": "1",
+        "first_seen": "2021-08-30 12:55:23",
+        "last_seen": "2021-08-30 12:55:23",
+        "ip_address": "2606:4700:3037::ac43:90d5",
+        "type": "IPv6"
+    }
+]

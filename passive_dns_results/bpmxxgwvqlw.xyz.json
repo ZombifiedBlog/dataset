@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "bpmxxgwvqlw.xyz",
+        "count": "44",
+        "first_seen": "2020-07-16 19:46:30",
+        "last_seen": "2020-10-12 22:47:26",
+        "ip_address": "23.247.42.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bpmxxgwvqlw.xyz",
+        "count": "13",
+        "first_seen": "2021-06-12 21:21:34",
+        "last_seen": "2021-07-11 03:37:21",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bpmxxgwvqlw.xyz",
+        "count": "8",
+        "first_seen": "2020-06-08 09:23:44",
+        "last_seen": "2020-06-15 09:17:39",
+        "ip_address": "118.27.43.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bpmxxgwvqlw.xyz",
+        "count": "16",
+        "first_seen": "2020-06-19 09:37:47",
+        "last_seen": "2020-07-01 23:59:36",
+        "ip_address": "134.73.5.249",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bpmxxgwvqlw.xyz",
+        "count": "2",
+        "first_seen": "2020-10-21 08:42:00",
+        "last_seen": "2020-10-21 08:42:00",
+        "ip_address": "184.168.131.241",
+        "type": "IPv4"
+    }
+]

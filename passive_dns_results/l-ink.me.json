@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "l-ink.me",
+        "count": "36762",
+        "first_seen": "2020-11-25 11:22:29",
+        "last_seen": "2024-01-13 03:52:01",
+        "ip_address": "67.207.70.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "l-ink.me",
+        "count": "211",
+        "first_seen": "2023-05-13 06:02:13",
+        "last_seen": "2023-06-13 04:28:12",
+        "ip_address": "104.21.82.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "l-ink.me",
+        "count": "211",
+        "first_seen": "2023-05-13 06:02:13",
+        "last_seen": "2023-06-13 04:28:12",
+        "ip_address": "172.67.151.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "l-ink.me",
+        "count": "2900",
+        "first_seen": "2020-04-16 01:43:45",
+        "last_seen": "2020-10-29 18:52:21",
+        "ip_address": "134.122.102.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "l-ink.me",
+        "count": "1914",
+        "first_seen": "2020-10-29 19:39:11",
+        "last_seen": "2020-11-25 04:57:28",
+        "ip_address": "134.209.16.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "l-ink.me",
+        "count": "383",
+        "first_seen": "2020-01-31 04:34:48",
+        "last_seen": "2020-04-15 16:16:22",
+        "ip_address": "134.209.31.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "l-ink.me",
+        "count": "60",
+        "first_seen": "2016-12-29 12:47:44",
+        "last_seen": "2017-08-25 03:05:39",
+        "ip_address": "213.186.33.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "l-ink.me",
+        "count": "57",
+        "first_seen": "2023-05-14 04:30:10",
+        "last_seen": "2023-06-12 14:19:23",
+        "ip_address": "2606:4700:3030::6815:521e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "l-ink.me",
+        "count": "57",
+        "first_seen": "2023-05-14 04:30:10",
+        "last_seen": "2023-06-12 14:19:23",
+        "ip_address": "2606:4700:3037::ac43:97c9",
+        "type": "IPv6"
+    }
+]

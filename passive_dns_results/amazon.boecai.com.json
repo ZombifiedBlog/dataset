@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazon.boecai.com",
+        "count": "1",
+        "first_seen": "2022-04-21 11:23:43",
+        "last_seen": "2022-04-21 11:23:43",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.boecai.com",
+        "count": "25",
+        "first_seen": "2022-07-11 18:03:17",
+        "last_seen": "2023-06-27 16:04:38",
+        "ip_address": "154.211.86.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.boecai.com",
+        "count": "149",
+        "first_seen": "2022-03-30 14:01:51",
+        "last_seen": "2022-04-01 08:45:45",
+        "ip_address": "155.94.143.18",
+        "type": "IPv4"
+    }
+]

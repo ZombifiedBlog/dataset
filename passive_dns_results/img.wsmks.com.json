@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "img.wsmks.com",
+        "count": "2",
+        "first_seen": "2022-07-12 19:07:20",
+        "last_seen": "2022-08-04 04:51:01",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.wsmks.com",
+        "count": "998",
+        "first_seen": "2020-04-15 03:21:42",
+        "last_seen": "2020-05-09 13:54:13",
+        "ip_address": "104.24.126.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.wsmks.com",
+        "count": "998",
+        "first_seen": "2020-04-15 03:21:42",
+        "last_seen": "2020-05-09 13:54:13",
+        "ip_address": "104.24.127.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.wsmks.com",
+        "count": "2",
+        "first_seen": "2021-10-06 22:30:56",
+        "last_seen": "2021-10-06 22:30:56",
+        "ip_address": "154.218.33.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.wsmks.com",
+        "count": "2",
+        "first_seen": "2021-07-20 10:49:52",
+        "last_seen": "2021-07-20 10:49:52",
+        "ip_address": "168.206.176.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.wsmks.com",
+        "count": "4",
+        "first_seen": "2023-12-13 23:56:06",
+        "last_seen": "2024-01-14 14:36:52",
+        "ip_address": "173.232.202.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.wsmks.com",
+        "count": "71",
+        "first_seen": "2020-05-08 00:23:31",
+        "last_seen": "2020-05-16 20:18:35",
+        "ip_address": "198.144.149.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.wsmks.com",
+        "count": "233",
+        "first_seen": "2020-04-15 03:21:42",
+        "last_seen": "2020-05-08 00:23:31",
+        "ip_address": "2606:4700:3033::6818:7e2b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.wsmks.com",
+        "count": "233",
+        "first_seen": "2020-04-15 03:21:42",
+        "last_seen": "2020-05-08 00:23:31",
+        "ip_address": "2606:4700:3033::6818:7f2b",
+        "type": "IPv6"
+    }
+]

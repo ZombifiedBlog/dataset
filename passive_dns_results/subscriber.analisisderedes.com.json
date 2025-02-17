@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.analisisderedes.com",
+        "count": "388",
+        "first_seen": "2022-11-29 11:40:54",
+        "last_seen": "2023-01-01 19:49:08",
+        "ip_address": "104.21.34.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.analisisderedes.com",
+        "count": "388",
+        "first_seen": "2022-11-29 11:40:54",
+        "last_seen": "2023-01-01 19:49:08",
+        "ip_address": "172.67.165.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.analisisderedes.com",
+        "count": "8",
+        "first_seen": "2023-01-03 09:42:32",
+        "last_seen": "2023-01-17 19:12:52",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.analisisderedes.com",
+        "count": "26",
+        "first_seen": "2022-11-30 07:05:46",
+        "last_seen": "2023-01-01 19:49:08",
+        "ip_address": "2606:4700:3031::ac43:a594",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.analisisderedes.com",
+        "count": "26",
+        "first_seen": "2022-11-30 07:05:46",
+        "last_seen": "2023-01-01 19:49:08",
+        "ip_address": "2606:4700:3037::6815:22d5",
+        "type": "IPv6"
+    }
+]

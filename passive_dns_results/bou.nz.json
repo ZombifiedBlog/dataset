@@ -1,0 +1,162 @@
+[
+    {
+        "domain": "bou.nz",
+        "count": "8",
+        "first_seen": "2015-04-13 11:20:10",
+        "last_seen": "2015-04-13 17:03:18",
+        "ip_address": "52.0.34.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bou.nz",
+        "count": "8",
+        "first_seen": "2015-04-13 11:20:10",
+        "last_seen": "2015-04-13 17:03:18",
+        "ip_address": "52.4.55.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bou.nz",
+        "count": "8",
+        "first_seen": "2015-04-13 11:20:10",
+        "last_seen": "2015-04-13 17:03:18",
+        "ip_address": "54.164.198.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bou.nz",
+        "count": "8",
+        "first_seen": "2015-04-13 11:20:10",
+        "last_seen": "2015-04-13 17:03:18",
+        "ip_address": "107.23.172.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bou.nz",
+        "count": "209",
+        "first_seen": "2015-04-15 01:09:10",
+        "last_seen": "2015-07-02 22:42:03",
+        "ip_address": "52.0.34.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bou.nz",
+        "count": "209",
+        "first_seen": "2015-04-15 01:09:10",
+        "last_seen": "2015-07-02 22:42:03",
+        "ip_address": "107.23.172.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bou.nz",
+        "count": "14",
+        "first_seen": "2015-03-04 18:43:12",
+        "last_seen": "2015-03-11 23:20:07",
+        "ip_address": "52.1.254.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bou.nz",
+        "count": "14",
+        "first_seen": "2015-03-04 18:43:12",
+        "last_seen": "2015-03-11 23:20:07",
+        "ip_address": "54.86.12.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bou.nz",
+        "count": "865",
+        "first_seen": "2015-03-13 19:10:29",
+        "last_seen": "2015-04-12 03:42:35",
+        "ip_address": "52.1.254.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bou.nz",
+        "count": "865",
+        "first_seen": "2015-03-13 19:10:29",
+        "last_seen": "2015-04-12 03:42:35",
+        "ip_address": "54.86.12.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bou.nz",
+        "count": "865",
+        "first_seen": "2015-03-13 19:10:29",
+        "last_seen": "2015-04-12 03:42:35",
+        "ip_address": "54.175.246.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bou.nz",
+        "count": "865",
+        "first_seen": "2015-03-13 19:10:29",
+        "last_seen": "2015-04-12 03:42:35",
+        "ip_address": "54.210.99.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bou.nz",
+        "count": "5",
+        "first_seen": "2015-04-14 16:59:25",
+        "last_seen": "2015-04-14 21:38:45",
+        "ip_address": "52.4.55.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bou.nz",
+        "count": "5",
+        "first_seen": "2015-04-14 16:59:25",
+        "last_seen": "2015-04-14 21:38:45",
+        "ip_address": "54.164.198.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bou.nz",
+        "count": "4",
+        "first_seen": "2015-06-02 22:47:12",
+        "last_seen": "2015-06-03 16:49:53",
+        "ip_address": "52.5.103.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bou.nz",
+        "count": "4",
+        "first_seen": "2015-06-02 22:47:12",
+        "last_seen": "2015-06-03 16:49:53",
+        "ip_address": "52.6.10.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bou.nz",
+        "count": "603",
+        "first_seen": "2015-07-04 01:50:38",
+        "last_seen": "2015-09-02 15:12:01",
+        "ip_address": "52.7.211.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bou.nz",
+        "count": "3",
+        "first_seen": "2015-01-28 18:38:27",
+        "last_seen": "2015-01-28 18:38:27",
+        "ip_address": "54.85.30.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bou.nz",
+        "count": "2",
+        "first_seen": "2015-09-02 15:26:35",
+        "last_seen": "2015-09-02 15:26:35",
+        "ip_address": "54.209.130.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bou.nz",
+        "count": "17210",
+        "first_seen": "2015-09-02 15:36:17",
+        "last_seen": "2024-01-16 12:15:21",
+        "ip_address": "54.209.177.203",
+        "type": "IPv4"
+    }
+]

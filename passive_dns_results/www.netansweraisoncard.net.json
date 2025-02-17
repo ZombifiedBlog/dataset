@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.netansweraisoncard.net",
+        "count": "49",
+        "first_seen": "2015-09-16 07:20:36",
+        "last_seen": "2015-09-22 12:34:34",
+        "ip_address": "45.63.123.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.netansweraisoncard.net",
+        "count": "214",
+        "first_seen": "2016-01-23 08:28:32",
+        "last_seen": "2016-09-08 04:22:16",
+        "ip_address": "45.113.161.166",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.netansweraisoncard.net",
+        "count": "12",
+        "first_seen": "2015-12-06 20:11:46",
+        "last_seen": "2016-01-08 18:07:58",
+        "ip_address": "104.149.141.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.netansweraisoncard.net",
+        "count": "3",
+        "first_seen": "2016-01-22 18:59:21",
+        "last_seen": "2016-01-22 22:50:22",
+        "ip_address": "104.149.141.127",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.netansweraisoncard.net",
+        "count": "6",
+        "first_seen": "2015-11-09 21:01:35",
+        "last_seen": "2015-11-17 10:20:10",
+        "ip_address": "104.160.168.179",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.netansweraisoncard.net",
+        "count": "8",
+        "first_seen": "2016-01-22 09:05:39",
+        "last_seen": "2016-01-22 14:07:28",
+        "ip_address": "123.60.86.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.netansweraisoncard.net",
+        "count": "14",
+        "first_seen": "2016-09-16 23:04:16",
+        "last_seen": "2016-10-11 21:58:16",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,394 @@
+[
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "3",
+        "first_seen": "2022-10-25 17:07:57",
+        "last_seen": "2022-10-25 17:08:18",
+        "ip_address": "192.168.60.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "692151",
+        "first_seen": "2021-03-02 11:06:03",
+        "last_seen": "2024-01-18 02:34:51",
+        "ip_address": "104.18.6.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "692151",
+        "first_seen": "2021-03-02 11:06:03",
+        "last_seen": "2024-01-18 02:34:51",
+        "ip_address": "104.18.7.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "3",
+        "first_seen": "2022-12-01 15:11:11",
+        "last_seen": "2023-03-03 20:45:15",
+        "ip_address": "188.114.98.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "3",
+        "first_seen": "2022-12-01 15:11:11",
+        "last_seen": "2023-03-03 20:45:15",
+        "ip_address": "188.114.99.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "5882",
+        "first_seen": "2022-03-10 16:57:48",
+        "last_seen": "2022-03-31 14:36:08",
+        "ip_address": "188.114.98.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "48128",
+        "first_seen": "2022-06-27 13:40:37",
+        "last_seen": "2022-07-27 22:06:58",
+        "ip_address": "188.114.98.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "89925",
+        "first_seen": "2022-07-27 20:51:26",
+        "last_seen": "2022-08-17 16:31:23",
+        "ip_address": "188.114.98.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "89925",
+        "first_seen": "2022-07-27 20:51:26",
+        "last_seen": "2022-08-17 16:31:23",
+        "ip_address": "188.114.99.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "67",
+        "first_seen": "2022-07-13 00:24:10",
+        "last_seen": "2022-07-13 02:00:40",
+        "ip_address": "188.114.98.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "1",
+        "first_seen": "2022-08-17 05:24:42",
+        "last_seen": "2022-08-17 05:24:42",
+        "ip_address": "188.114.98.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "1",
+        "first_seen": "2022-08-17 05:24:42",
+        "last_seen": "2022-08-17 05:24:42",
+        "ip_address": "188.114.99.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "450943",
+        "first_seen": "2022-08-17 16:30:53",
+        "last_seen": "2022-10-11 12:50:06",
+        "ip_address": "188.114.98.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "450943",
+        "first_seen": "2022-08-17 16:30:53",
+        "last_seen": "2022-10-11 12:50:06",
+        "ip_address": "188.114.99.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "3",
+        "first_seen": "2022-09-13 15:42:41",
+        "last_seen": "2022-09-13 15:43:04",
+        "ip_address": "188.114.98.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "3",
+        "first_seen": "2022-09-13 15:42:41",
+        "last_seen": "2022-09-13 15:43:04",
+        "ip_address": "188.114.99.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "6",
+        "first_seen": "2022-09-09 03:02:07",
+        "last_seen": "2022-09-09 03:02:16",
+        "ip_address": "188.114.98.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "6",
+        "first_seen": "2022-09-09 03:02:07",
+        "last_seen": "2022-09-09 03:02:16",
+        "ip_address": "188.114.99.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "1429962",
+        "first_seen": "2022-10-11 12:51:36",
+        "last_seen": "2023-12-04 11:51:51",
+        "ip_address": "188.114.98.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "1429962",
+        "first_seen": "2022-10-11 12:51:36",
+        "last_seen": "2023-12-04 11:51:51",
+        "ip_address": "188.114.99.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "933447",
+        "first_seen": "2023-02-06 14:41:57",
+        "last_seen": "2024-01-18 05:12:12",
+        "ip_address": "188.114.98.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "933447",
+        "first_seen": "2023-02-06 14:41:57",
+        "last_seen": "2024-01-18 05:12:12",
+        "ip_address": "188.114.99.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "17",
+        "first_seen": "2022-10-12 04:48:12",
+        "last_seen": "2023-08-03 08:09:03",
+        "ip_address": "188.114.98.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "17",
+        "first_seen": "2022-10-12 04:48:12",
+        "last_seen": "2023-08-03 08:09:03",
+        "ip_address": "188.114.99.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "15587",
+        "first_seen": "2023-04-10 16:32:54",
+        "last_seen": "2023-12-04 11:51:35",
+        "ip_address": "188.114.98.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "15587",
+        "first_seen": "2023-04-10 16:32:54",
+        "last_seen": "2023-12-04 11:51:35",
+        "ip_address": "188.114.99.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "3745",
+        "first_seen": "2022-03-31 14:42:08",
+        "last_seen": "2022-05-03 17:29:31",
+        "ip_address": "188.114.99.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "5478",
+        "first_seen": "2022-05-03 17:32:56",
+        "last_seen": "2022-05-26 22:54:22",
+        "ip_address": "188.114.99.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "70003",
+        "first_seen": "2022-05-26 23:05:03",
+        "last_seen": "2022-06-27 13:40:11",
+        "ip_address": "188.114.99.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "2",
+        "first_seen": "2022-10-25 17:07:57",
+        "last_seen": "2022-10-25 17:08:18",
+        "ip_address": "::1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "254352",
+        "first_seen": "2021-03-02 15:32:22",
+        "last_seen": "2024-01-18 01:56:47",
+        "ip_address": "2606:4700::6812:691",
+        "type": "IPv6"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "254352",
+        "first_seen": "2021-03-02 15:32:22",
+        "last_seen": "2024-01-18 01:56:47",
+        "ip_address": "2606:4700::6812:791",
+        "type": "IPv6"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "173",
+        "first_seen": "2022-03-11 19:49:16",
+        "last_seen": "2022-03-31 11:32:10",
+        "ip_address": "2a06:98c1:3122:8000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "7859",
+        "first_seen": "2022-06-27 13:46:51",
+        "last_seen": "2022-07-27 22:10:47",
+        "ip_address": "2a06:98c1:3122:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "40932",
+        "first_seen": "2022-07-27 20:51:42",
+        "last_seen": "2022-08-17 16:31:23",
+        "ip_address": "2a06:98c1:3122:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "40932",
+        "first_seen": "2022-07-27 20:51:42",
+        "last_seen": "2022-08-17 16:31:23",
+        "ip_address": "2a06:98c1:3123:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "180237",
+        "first_seen": "2022-08-17 16:30:50",
+        "last_seen": "2022-10-11 12:48:44",
+        "ip_address": "2a06:98c1:3122:c000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "180237",
+        "first_seen": "2022-08-17 16:30:50",
+        "last_seen": "2022-10-11 12:48:44",
+        "ip_address": "2a06:98c1:3123:c000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "4",
+        "first_seen": "2022-09-09 03:02:07",
+        "last_seen": "2022-09-09 03:02:16",
+        "ip_address": "2a06:98c1:3122:c000::d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "4",
+        "first_seen": "2022-09-09 03:02:07",
+        "last_seen": "2022-09-09 03:02:16",
+        "ip_address": "2a06:98c1:3123:c000::d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "233492",
+        "first_seen": "2022-10-11 12:52:33",
+        "last_seen": "2023-12-04 11:12:30",
+        "ip_address": "2a06:98c1:3122:e000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "233492",
+        "first_seen": "2022-10-11 12:52:33",
+        "last_seen": "2023-12-04 11:12:30",
+        "ip_address": "2a06:98c1:3123:e000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "5677",
+        "first_seen": "2023-03-12 14:01:19",
+        "last_seen": "2024-01-18 05:47:27",
+        "ip_address": "2a06:98c1:3122:e000::5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "5677",
+        "first_seen": "2023-03-12 14:01:19",
+        "last_seen": "2024-01-18 05:47:27",
+        "ip_address": "2a06:98c1:3123:e000::5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "53",
+        "first_seen": "2023-04-10 18:11:15",
+        "last_seen": "2023-11-21 09:01:14",
+        "ip_address": "2a06:98c1:3122:e000::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "53",
+        "first_seen": "2023-04-10 18:11:15",
+        "last_seen": "2023-11-21 09:01:14",
+        "ip_address": "2a06:98c1:3123:e000::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "73",
+        "first_seen": "2022-04-01 13:52:54",
+        "last_seen": "2022-05-03 15:20:48",
+        "ip_address": "2a06:98c1:3123:8000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "115",
+        "first_seen": "2022-05-03 19:35:27",
+        "last_seen": "2022-05-26 13:42:27",
+        "ip_address": "2a06:98c1:3123:9000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "storageapi.fleek.co",
+        "count": "28080",
+        "first_seen": "2022-05-27 06:20:25",
+        "last_seen": "2022-06-27 13:40:37",
+        "ip_address": "2a06:98c1:3123:a000::",
+        "type": "IPv6"
+    }
+]

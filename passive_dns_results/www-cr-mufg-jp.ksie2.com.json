@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www-cr-mufg-jp.ksie2.com",
+        "count": "61",
+        "first_seen": "2023-01-26 14:26:54",
+        "last_seen": "2023-01-27 02:22:54",
+        "ip_address": "104.21.64.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.ksie2.com",
+        "count": "61",
+        "first_seen": "2023-01-26 14:26:54",
+        "last_seen": "2023-01-27 02:22:54",
+        "ip_address": "172.67.180.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.ksie2.com",
+        "count": "12",
+        "first_seen": "2023-01-26 14:38:33",
+        "last_seen": "2023-01-26 22:27:24",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.ksie2.com",
+        "count": "12",
+        "first_seen": "2023-01-26 14:38:33",
+        "last_seen": "2023-01-26 22:27:24",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.ksie2.com",
+        "count": "1",
+        "first_seen": "2023-01-27 01:01:24",
+        "last_seen": "2023-01-27 01:01:24",
+        "ip_address": "2606:4700:3035::ac43:b490",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-cr-mufg-jp.ksie2.com",
+        "count": "1",
+        "first_seen": "2023-01-27 01:01:24",
+        "last_seen": "2023-01-27 01:01:24",
+        "ip_address": "2606:4700:3037::6815:4060",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-cr-mufg-jp.ksie2.com",
+        "count": "1",
+        "first_seen": "2023-01-26 14:38:34",
+        "last_seen": "2023-01-26 14:38:34",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-cr-mufg-jp.ksie2.com",
+        "count": "1",
+        "first_seen": "2023-01-26 14:38:34",
+        "last_seen": "2023-01-26 14:38:34",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

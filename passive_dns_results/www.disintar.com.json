@@ -1,0 +1,114 @@
+[
+    {
+        "domain": "www.disintar.com",
+        "count": "8",
+        "first_seen": "2021-05-07 07:12:17",
+        "last_seen": "2023-04-26 12:28:09",
+        "ip_address": "99.83.154.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.disintar.com",
+        "count": "4",
+        "first_seen": "2021-01-24 16:04:08",
+        "last_seen": "2021-03-16 21:31:42",
+        "ip_address": "104.21.26.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.disintar.com",
+        "count": "4",
+        "first_seen": "2021-01-24 16:04:08",
+        "last_seen": "2021-03-16 21:31:42",
+        "ip_address": "172.67.135.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.disintar.com",
+        "count": "3",
+        "first_seen": "2020-04-30 14:29:06",
+        "last_seen": "2020-05-07 02:30:02",
+        "ip_address": "104.28.22.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.disintar.com",
+        "count": "3",
+        "first_seen": "2020-04-30 14:29:06",
+        "last_seen": "2020-05-07 02:30:02",
+        "ip_address": "104.28.23.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.disintar.com",
+        "count": "1114",
+        "first_seen": "2020-06-06 21:05:39",
+        "last_seen": "2021-01-08 22:14:04",
+        "ip_address": "104.28.22.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.disintar.com",
+        "count": "1114",
+        "first_seen": "2020-06-06 21:05:39",
+        "last_seen": "2021-01-08 22:14:04",
+        "ip_address": "104.28.23.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.disintar.com",
+        "count": "1114",
+        "first_seen": "2020-06-06 21:05:39",
+        "last_seen": "2021-01-08 22:14:04",
+        "ip_address": "172.67.135.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.disintar.com",
+        "count": "1",
+        "first_seen": "2020-12-07 10:35:56",
+        "last_seen": "2020-12-07 10:35:56",
+        "ip_address": "172.64.84.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.disintar.com",
+        "count": "463",
+        "first_seen": "2020-06-06 21:05:39",
+        "last_seen": "2020-09-03 02:43:14",
+        "ip_address": "2606:4700:3030::ac43:87da",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.disintar.com",
+        "count": "463",
+        "first_seen": "2020-06-06 21:05:39",
+        "last_seen": "2020-09-03 02:43:14",
+        "ip_address": "2606:4700:3031::681c:167d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.disintar.com",
+        "count": "463",
+        "first_seen": "2020-06-06 21:05:39",
+        "last_seen": "2020-09-03 02:43:14",
+        "ip_address": "2606:4700:3032::681c:177d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.disintar.com",
+        "count": "1",
+        "first_seen": "2021-03-11 10:07:26",
+        "last_seen": "2021-03-11 10:07:26",
+        "ip_address": "2606:4700:3030::ac43:87da",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.disintar.com",
+        "count": "1",
+        "first_seen": "2021-03-11 10:07:26",
+        "last_seen": "2021-03-11 10:07:26",
+        "ip_address": "2606:4700:3037::6815:1a65",
+        "type": "IPv6"
+    }
+]

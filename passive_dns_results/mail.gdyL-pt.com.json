@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "mail.gdyl-pt.com",
+        "count": "414",
+        "first_seen": "2020-06-24 05:23:22",
+        "last_seen": "2020-08-20 18:36:35",
+        "ip_address": "104.18.42.68",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.gdyl-pt.com",
+        "count": "414",
+        "first_seen": "2020-06-24 05:23:22",
+        "last_seen": "2020-08-20 18:36:35",
+        "ip_address": "104.18.43.68",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.gdyl-pt.com",
+        "count": "414",
+        "first_seen": "2020-06-24 05:23:22",
+        "last_seen": "2020-08-20 18:36:35",
+        "ip_address": "172.67.208.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.gdyl-pt.com",
+        "count": "673",
+        "first_seen": "2020-06-09 09:13:46",
+        "last_seen": "2020-06-24 03:11:26",
+        "ip_address": "104.18.58.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.gdyl-pt.com",
+        "count": "673",
+        "first_seen": "2020-06-09 09:13:46",
+        "last_seen": "2020-06-24 03:11:26",
+        "ip_address": "104.18.59.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.gdyl-pt.com",
+        "count": "673",
+        "first_seen": "2020-06-09 09:13:46",
+        "last_seen": "2020-06-24 03:11:26",
+        "ip_address": "172.67.196.181",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.gdyl-pt.com",
+        "count": "250",
+        "first_seen": "2020-06-09 09:21:46",
+        "last_seen": "2020-06-24 03:11:26",
+        "ip_address": "2606:4700:3030::ac43:c4b5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.gdyl-pt.com",
+        "count": "250",
+        "first_seen": "2020-06-09 09:21:46",
+        "last_seen": "2020-06-24 03:11:26",
+        "ip_address": "2606:4700:3031::6812:3a78",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.gdyl-pt.com",
+        "count": "250",
+        "first_seen": "2020-06-09 09:21:46",
+        "last_seen": "2020-06-24 03:11:26",
+        "ip_address": "2606:4700:3031::6812:3b78",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.gdyl-pt.com",
+        "count": "192",
+        "first_seen": "2020-06-24 10:01:33",
+        "last_seen": "2020-08-20 18:36:35",
+        "ip_address": "2606:4700:3031::6812:2a44",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.gdyl-pt.com",
+        "count": "192",
+        "first_seen": "2020-06-24 10:01:33",
+        "last_seen": "2020-08-20 18:36:35",
+        "ip_address": "2606:4700:3033::6812:2b44",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.gdyl-pt.com",
+        "count": "192",
+        "first_seen": "2020-06-24 10:01:33",
+        "last_seen": "2020-08-20 18:36:35",
+        "ip_address": "2606:4700:3034::ac43:d03b",
+        "type": "IPv6"
+    }
+]

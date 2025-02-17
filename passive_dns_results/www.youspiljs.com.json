@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.youspiljs.com",
+        "count": "2143",
+        "first_seen": "2023-04-20 15:00:38",
+        "last_seen": "2023-07-19 20:38:20",
+        "ip_address": "12.41.234.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.youspiljs.com",
+        "count": "12",
+        "first_seen": "2023-04-15 02:48:46",
+        "last_seen": "2023-04-15 12:17:49",
+        "ip_address": "107.148.145.161",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.youspiljs.com",
+        "count": "107",
+        "first_seen": "2023-04-13 05:20:00",
+        "last_seen": "2023-04-15 01:34:56",
+        "ip_address": "155.94.197.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.youspiljs.com",
+        "count": "147",
+        "first_seen": "2023-04-15 14:36:05",
+        "last_seen": "2023-04-20 14:05:12",
+        "ip_address": "206.238.220.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.youspiljs.com",
+        "count": "3",
+        "first_seen": "2023-04-09 05:13:18",
+        "last_seen": "2023-04-09 05:35:01",
+        "ip_address": "207.148.38.133",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "rekotm.raaksutsven.top",
+        "count": "3",
+        "first_seen": "2020-10-22 05:14:10",
+        "last_seen": "2020-10-22 05:14:30",
+        "ip_address": "104.31.90.206",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekotm.raaksutsven.top",
+        "count": "3",
+        "first_seen": "2020-10-22 05:14:10",
+        "last_seen": "2020-10-22 05:14:30",
+        "ip_address": "104.31.91.206",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekotm.raaksutsven.top",
+        "count": "3",
+        "first_seen": "2020-10-22 05:14:10",
+        "last_seen": "2020-10-22 05:14:30",
+        "ip_address": "172.67.152.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekotm.raaksutsven.top",
+        "count": "43",
+        "first_seen": "2020-10-21 22:30:54",
+        "last_seen": "2020-10-22 07:39:40",
+        "ip_address": "174.139.11.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekotm.raaksutsven.top",
+        "count": "2",
+        "first_seen": "2020-10-22 05:20:12",
+        "last_seen": "2020-10-22 05:20:12",
+        "ip_address": "2606:4700:3030::681f:5bce",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rekotm.raaksutsven.top",
+        "count": "2",
+        "first_seen": "2020-10-22 05:20:12",
+        "last_seen": "2020-10-22 05:20:12",
+        "ip_address": "2606:4700:3031::681f:5ace",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rekotm.raaksutsven.top",
+        "count": "2",
+        "first_seen": "2020-10-22 05:20:12",
+        "last_seen": "2020-10-22 05:20:12",
+        "ip_address": "2606:4700:3032::ac43:98e4",
+        "type": "IPv6"
+    }
+]

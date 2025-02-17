@@ -1,0 +1,194 @@
+[
+    {
+        "domain": "ee.zccok.com",
+        "count": "323",
+        "first_seen": "2022-03-29 05:09:54",
+        "last_seen": "2022-05-04 00:22:07",
+        "ip_address": "104.21.86.132",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ee.zccok.com",
+        "count": "323",
+        "first_seen": "2022-03-29 05:09:54",
+        "last_seen": "2022-05-04 00:22:07",
+        "ip_address": "172.67.220.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ee.zccok.com",
+        "count": "37",
+        "first_seen": "2022-03-30 03:29:16",
+        "last_seen": "2022-04-06 09:02:25",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ee.zccok.com",
+        "count": "37",
+        "first_seen": "2022-03-30 03:29:16",
+        "last_seen": "2022-04-06 09:02:25",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ee.zccok.com",
+        "count": "117",
+        "first_seen": "2022-03-29 05:47:39",
+        "last_seen": "2022-04-24 09:04:21",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ee.zccok.com",
+        "count": "117",
+        "first_seen": "2022-03-29 05:47:39",
+        "last_seen": "2022-04-24 09:04:21",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ee.zccok.com",
+        "count": "12",
+        "first_seen": "2022-04-03 07:19:54",
+        "last_seen": "2022-04-11 08:10:12",
+        "ip_address": "188.114.96.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ee.zccok.com",
+        "count": "12",
+        "first_seen": "2022-04-03 07:19:54",
+        "last_seen": "2022-04-11 08:10:12",
+        "ip_address": "188.114.97.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ee.zccok.com",
+        "count": "2",
+        "first_seen": "2022-04-06 03:44:05",
+        "last_seen": "2022-04-07 10:44:30",
+        "ip_address": "188.114.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ee.zccok.com",
+        "count": "2",
+        "first_seen": "2022-04-06 03:44:05",
+        "last_seen": "2022-04-07 10:44:30",
+        "ip_address": "188.114.97.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ee.zccok.com",
+        "count": "49",
+        "first_seen": "2022-03-30 01:18:27",
+        "last_seen": "2022-04-18 17:08:06",
+        "ip_address": "188.114.96.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ee.zccok.com",
+        "count": "49",
+        "first_seen": "2022-03-30 01:18:27",
+        "last_seen": "2022-04-18 17:08:06",
+        "ip_address": "188.114.97.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ee.zccok.com",
+        "count": "500",
+        "first_seen": "2022-03-29 05:06:11",
+        "last_seen": "2022-04-07 21:14:58",
+        "ip_address": "188.114.96.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ee.zccok.com",
+        "count": "500",
+        "first_seen": "2022-03-29 05:06:11",
+        "last_seen": "2022-04-07 21:14:58",
+        "ip_address": "188.114.97.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ee.zccok.com",
+        "count": "102",
+        "first_seen": "2022-03-30 03:13:45",
+        "last_seen": "2022-04-18 17:08:05",
+        "ip_address": "2606:4700:3030::6815:5684",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ee.zccok.com",
+        "count": "102",
+        "first_seen": "2022-03-30 03:13:45",
+        "last_seen": "2022-04-18 17:08:05",
+        "ip_address": "2606:4700:3033::ac43:dc32",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ee.zccok.com",
+        "count": "50",
+        "first_seen": "2022-03-29 05:06:11",
+        "last_seen": "2022-04-20 18:50:44",
+        "ip_address": "2a06:98c1:3120::7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ee.zccok.com",
+        "count": "50",
+        "first_seen": "2022-03-29 05:06:11",
+        "last_seen": "2022-04-20 18:50:44",
+        "ip_address": "2a06:98c1:3121::7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ee.zccok.com",
+        "count": "12",
+        "first_seen": "2022-04-04 08:02:11",
+        "last_seen": "2022-04-12 14:29:30",
+        "ip_address": "2a06:98c1:3120::8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ee.zccok.com",
+        "count": "12",
+        "first_seen": "2022-04-04 08:02:11",
+        "last_seen": "2022-04-12 14:29:30",
+        "ip_address": "2a06:98c1:3121::8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ee.zccok.com",
+        "count": "15",
+        "first_seen": "2022-03-29 18:18:35",
+        "last_seen": "2022-04-12 09:15:22",
+        "ip_address": "2a06:98c1:3120::14",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ee.zccok.com",
+        "count": "15",
+        "first_seen": "2022-03-29 18:18:35",
+        "last_seen": "2022-04-12 09:15:22",
+        "ip_address": "2a06:98c1:3121::14",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ee.zccok.com",
+        "count": "32",
+        "first_seen": "2022-03-31 12:37:14",
+        "last_seen": "2022-04-08 07:00:23",
+        "ip_address": "2a06:98c1:3120::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ee.zccok.com",
+        "count": "32",
+        "first_seen": "2022-03-31 12:37:14",
+        "last_seen": "2022-04-08 07:00:23",
+        "ip_address": "2a06:98c1:3121::16",
+        "type": "IPv6"
+    }
+]

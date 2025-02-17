@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "copy.hweucsc.com",
+        "count": "51",
+        "first_seen": "2023-03-27 19:39:53",
+        "last_seen": "2023-03-29 00:36:49",
+        "ip_address": "23.247.42.166",
+        "type": "IPv4"
+    },
+    {
+        "domain": "copy.hweucsc.com",
+        "count": "19",
+        "first_seen": "2023-04-07 00:37:38",
+        "last_seen": "2023-04-09 13:33:18",
+        "ip_address": "103.120.80.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "copy.hweucsc.com",
+        "count": "87",
+        "first_seen": "2023-03-29 01:45:55",
+        "last_seen": "2023-03-30 06:54:30",
+        "ip_address": "194.116.216.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "copy.hweucsc.com",
+        "count": "63",
+        "first_seen": "2023-03-24 09:56:30",
+        "last_seen": "2023-03-26 02:52:13",
+        "ip_address": "209.141.53.181",
+        "type": "IPv4"
+    }
+]

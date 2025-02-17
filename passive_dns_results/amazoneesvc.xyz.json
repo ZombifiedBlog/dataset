@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazoneesvc.xyz",
+        "count": "2",
+        "first_seen": "2021-09-28 08:26:32",
+        "last_seen": "2021-10-14 21:08:12",
+        "ip_address": "99.81.40.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazoneesvc.xyz",
+        "count": "13",
+        "first_seen": "2020-09-11 21:27:26",
+        "last_seen": "2020-09-12 06:03:59",
+        "ip_address": "173.82.57.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazoneesvc.xyz",
+        "count": "50",
+        "first_seen": "2020-09-12 20:09:46",
+        "last_seen": "2020-09-14 22:35:04",
+        "ip_address": "198.46.188.128",
+        "type": "IPv4"
+    }
+]

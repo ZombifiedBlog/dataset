@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "direct.smbc.co.jp.afpgng.com",
+        "count": "1365",
+        "first_seen": "2022-12-23 15:03:11",
+        "last_seen": "2023-02-22 12:53:19",
+        "ip_address": "38.239.70.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "direct.smbc.co.jp.afpgng.com",
+        "count": "229",
+        "first_seen": "2022-05-29 06:55:12",
+        "last_seen": "2022-07-09 22:41:50",
+        "ip_address": "52.213.114.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "direct.smbc.co.jp.afpgng.com",
+        "count": "16918",
+        "first_seen": "2023-02-22 14:23:43",
+        "last_seen": "2023-09-20 07:12:17",
+        "ip_address": "154.212.221.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "direct.smbc.co.jp.afpgng.com",
+        "count": "3038",
+        "first_seen": "2022-05-06 10:47:55",
+        "last_seen": "2022-05-29 03:17:19",
+        "ip_address": "155.94.144.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "direct.smbc.co.jp.afpgng.com",
+        "count": "8",
+        "first_seen": "2022-07-03 23:41:41",
+        "last_seen": "2022-07-04 02:44:26",
+        "ip_address": "52.213.114.86",
+        "type": "IPv4"
+    }
+]

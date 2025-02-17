@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.newyearnewme1.shop",
+        "count": "933",
+        "first_seen": "2022-01-10 13:38:48",
+        "last_seen": "2022-02-26 14:30:20",
+        "ip_address": "104.21.10.91",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.newyearnewme1.shop",
+        "count": "933",
+        "first_seen": "2022-01-10 13:38:48",
+        "last_seen": "2022-02-26 14:30:20",
+        "ip_address": "172.67.162.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.newyearnewme1.shop",
+        "count": "480",
+        "first_seen": "2022-01-10 13:38:32",
+        "last_seen": "2022-02-26 14:30:20",
+        "ip_address": "2606:4700:3033::6815:a5b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.newyearnewme1.shop",
+        "count": "480",
+        "first_seen": "2022-01-10 13:38:32",
+        "last_seen": "2022-02-26 14:30:20",
+        "ip_address": "2606:4700:3036::ac43:a2c1",
+        "type": "IPv6"
+    }
+]

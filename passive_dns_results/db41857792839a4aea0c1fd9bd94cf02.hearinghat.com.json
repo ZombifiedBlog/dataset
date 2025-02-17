@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "db41857792839a4aea0c1fd9bd94cf02.hearinghat.com",
+        "count": "2",
+        "first_seen": "2023-08-19 03:34:01",
+        "last_seen": "2023-08-19 03:34:01",
+        "ip_address": "64.190.63.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "db41857792839a4aea0c1fd9bd94cf02.hearinghat.com",
+        "count": "3",
+        "first_seen": "2023-07-17 05:42:43",
+        "last_seen": "2023-07-17 05:42:46",
+        "ip_address": "104.21.25.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "db41857792839a4aea0c1fd9bd94cf02.hearinghat.com",
+        "count": "3",
+        "first_seen": "2023-07-17 05:42:43",
+        "last_seen": "2023-07-17 05:42:46",
+        "ip_address": "172.67.134.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "db41857792839a4aea0c1fd9bd94cf02.hearinghat.com",
+        "count": "2",
+        "first_seen": "2023-08-20 14:03:01",
+        "last_seen": "2023-08-20 14:03:01",
+        "ip_address": "154.40.56.231",
+        "type": "IPv4"
+    }
+]

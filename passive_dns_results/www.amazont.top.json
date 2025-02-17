@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.amazont.top",
+        "count": "4",
+        "first_seen": "2021-03-24 08:38:46",
+        "last_seen": "2021-03-24 22:15:12",
+        "ip_address": "45.91.227.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazont.top",
+        "count": "3",
+        "first_seen": "2023-11-29 08:15:48",
+        "last_seen": "2023-11-29 08:15:54",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazont.top",
+        "count": "238",
+        "first_seen": "2022-10-30 10:34:55",
+        "last_seen": "2022-11-17 03:37:29",
+        "ip_address": "104.129.63.43",
+        "type": "IPv4"
+    }
+]

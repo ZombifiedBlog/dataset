@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "masterprint.uz",
+        "count": "10",
+        "first_seen": "2019-06-10 00:28:12",
+        "last_seen": "2019-06-11 04:41:51",
+        "ip_address": "62.209.128.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "masterprint.uz",
+        "count": "13193",
+        "first_seen": "2019-04-25 09:34:18",
+        "last_seen": "2024-01-18 15:33:46",
+        "ip_address": "62.209.128.109",
+        "type": "IPv4"
+    },
+    {
+        "domain": "masterprint.uz",
+        "count": "6710",
+        "first_seen": "2017-01-24 09:12:22",
+        "last_seen": "2019-04-25 06:41:38",
+        "ip_address": "91.212.89.57",
+        "type": "IPv4"
+    }
+]

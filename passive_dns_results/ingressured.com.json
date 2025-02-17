@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "ingressured.com",
+        "count": "18",
+        "first_seen": "2022-03-17 05:21:33",
+        "last_seen": "2022-10-21 19:15:29",
+        "ip_address": "64.44.133.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ingressured.com",
+        "count": "619",
+        "first_seen": "2022-10-30 23:00:15",
+        "last_seen": "2023-03-11 22:26:24",
+        "ip_address": "85.10.146.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ingressured.com",
+        "count": "8",
+        "first_seen": "2023-04-04 23:37:30",
+        "last_seen": "2023-04-26 10:14:58",
+        "ip_address": "99.83.154.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ingressured.com",
+        "count": "3",
+        "first_seen": "2022-08-25 23:48:59",
+        "last_seen": "2022-09-29 14:56:31",
+        "ip_address": "198.54.117.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ingressured.com",
+        "count": "15",
+        "first_seen": "2022-03-30 22:29:02",
+        "last_seen": "2022-08-08 13:32:32",
+        "ip_address": "198.54.117.244",
+        "type": "IPv4"
+    }
+]

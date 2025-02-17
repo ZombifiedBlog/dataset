@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "amazon-us-west-awsaccount.yLrbw.com",
+        "count": "10",
+        "first_seen": "2019-10-31 13:46:02",
+        "last_seen": "2019-12-06 00:43:54",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.yLrbw.com",
+        "count": "3096",
+        "first_seen": "2019-09-20 07:56:31",
+        "last_seen": "2019-10-28 14:37:57",
+        "ip_address": "104.27.158.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.yLrbw.com",
+        "count": "3096",
+        "first_seen": "2019-09-20 07:56:31",
+        "last_seen": "2019-10-28 14:37:57",
+        "ip_address": "104.27.159.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.yLrbw.com",
+        "count": "288",
+        "first_seen": "2019-09-20 07:56:31",
+        "last_seen": "2019-10-28 14:37:57",
+        "ip_address": "2606:4700:30::681b:9e3b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon-us-west-awsaccount.yLrbw.com",
+        "count": "288",
+        "first_seen": "2019-09-20 07:56:31",
+        "last_seen": "2019-10-28 14:37:57",
+        "ip_address": "2606:4700:30::681b:9f3b",
+        "type": "IPv6"
+    }
+]

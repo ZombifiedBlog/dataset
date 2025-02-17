@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "my-jcb.eulesstrinity.com",
+        "count": "1",
+        "first_seen": "2021-11-23 14:49:27",
+        "last_seen": "2021-11-23 14:49:27",
+        "ip_address": "78.41.204.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.eulesstrinity.com",
+        "count": "1",
+        "first_seen": "2021-09-06 06:15:12",
+        "last_seen": "2021-09-06 06:15:12",
+        "ip_address": "78.41.204.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.eulesstrinity.com",
+        "count": "1",
+        "first_seen": "2021-09-06 15:21:17",
+        "last_seen": "2021-09-06 15:21:17",
+        "ip_address": "78.41.204.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.eulesstrinity.com",
+        "count": "2",
+        "first_seen": "2021-09-13 23:47:17",
+        "last_seen": "2021-09-13 23:48:11",
+        "ip_address": "78.41.204.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.eulesstrinity.com",
+        "count": "1",
+        "first_seen": "2021-05-05 02:27:39",
+        "last_seen": "2021-05-05 02:27:39",
+        "ip_address": "103.224.212.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.eulesstrinity.com",
+        "count": "238",
+        "first_seen": "2021-01-28 06:10:27",
+        "last_seen": "2021-02-02 03:16:15",
+        "ip_address": "104.21.28.95",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.eulesstrinity.com",
+        "count": "238",
+        "first_seen": "2021-01-28 06:10:27",
+        "last_seen": "2021-02-02 03:16:15",
+        "ip_address": "172.67.145.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.eulesstrinity.com",
+        "count": "2",
+        "first_seen": "2021-05-05 02:27:39",
+        "last_seen": "2021-05-05 03:10:08",
+        "ip_address": "103.224.212.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.eulesstrinity.com",
+        "count": "6",
+        "first_seen": "2021-01-28 06:10:28",
+        "last_seen": "2021-02-01 09:20:50",
+        "ip_address": "2606:4700:3031::6815:1c5f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.eulesstrinity.com",
+        "count": "6",
+        "first_seen": "2021-01-28 06:10:28",
+        "last_seen": "2021-02-01 09:20:50",
+        "ip_address": "2606:4700:3037::ac43:9150",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "img.zzirb.com",
+        "count": "474",
+        "first_seen": "2021-03-28 11:36:31",
+        "last_seen": "2021-04-06 10:05:38",
+        "ip_address": "104.21.85.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.zzirb.com",
+        "count": "474",
+        "first_seen": "2021-03-28 11:36:31",
+        "last_seen": "2021-04-06 10:05:38",
+        "ip_address": "172.67.202.72",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.zzirb.com",
+        "count": "3179",
+        "first_seen": "2021-04-13 15:18:58",
+        "last_seen": "2021-07-06 13:00:59",
+        "ip_address": "198.144.149.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.zzirb.com",
+        "count": "1030",
+        "first_seen": "2021-04-06 02:20:06",
+        "last_seen": "2021-04-13 13:53:08",
+        "ip_address": "198.144.149.216",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.zzirb.com",
+        "count": "213",
+        "first_seen": "2021-03-28 11:36:31",
+        "last_seen": "2021-04-06 10:05:38",
+        "ip_address": "2606:4700:3030::ac43:ca48",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.zzirb.com",
+        "count": "213",
+        "first_seen": "2021-03-28 11:36:31",
+        "last_seen": "2021-04-06 10:05:38",
+        "ip_address": "2606:4700:3036::6815:552c",
+        "type": "IPv6"
+    }
+]

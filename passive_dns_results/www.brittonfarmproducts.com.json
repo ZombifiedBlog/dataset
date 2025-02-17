@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "www.brittonfarmproducts.com",
+        "count": "27",
+        "first_seen": "2020-04-10 21:29:21",
+        "last_seen": "2020-04-14 21:44:23",
+        "ip_address": "18.180.67.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brittonfarmproducts.com",
+        "count": "18",
+        "first_seen": "2019-04-20 14:18:01",
+        "last_seen": "2020-04-06 12:55:56",
+        "ip_address": "104.24.114.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brittonfarmproducts.com",
+        "count": "18",
+        "first_seen": "2019-04-20 14:18:01",
+        "last_seen": "2020-04-06 12:55:56",
+        "ip_address": "104.24.115.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brittonfarmproducts.com",
+        "count": "4",
+        "first_seen": "2018-10-11 05:04:19",
+        "last_seen": "2018-11-07 12:18:48",
+        "ip_address": "209.99.40.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brittonfarmproducts.com",
+        "count": "4",
+        "first_seen": "2018-11-15 00:51:54",
+        "last_seen": "2018-12-16 02:05:11",
+        "ip_address": "209.200.154.54",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brittonfarmproducts.com",
+        "count": "5",
+        "first_seen": "2019-05-01 21:27:56",
+        "last_seen": "2020-01-02 00:52:59",
+        "ip_address": "2606:4700:30::6818:72c5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.brittonfarmproducts.com",
+        "count": "5",
+        "first_seen": "2019-05-01 21:27:56",
+        "last_seen": "2020-01-02 00:52:59",
+        "ip_address": "2606:4700:30::6818:73c5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.brittonfarmproducts.com",
+        "count": "10",
+        "first_seen": "2020-02-29 09:25:22",
+        "last_seen": "2020-04-06 12:55:56",
+        "ip_address": "2606:4700:3033::6818:73c5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.brittonfarmproducts.com",
+        "count": "10",
+        "first_seen": "2020-02-29 09:25:22",
+        "last_seen": "2020-04-06 12:55:56",
+        "ip_address": "2606:4700:3036::6818:72c5",
+        "type": "IPv6"
+    }
+]

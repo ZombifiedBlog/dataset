@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "esp-l.com",
+        "count": "149",
+        "first_seen": "2018-09-16 03:09:25",
+        "last_seen": "2019-03-02 21:41:09",
+        "ip_address": "50.2.225.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "esp-l.com",
+        "count": "2",
+        "first_seen": "2019-08-02 04:28:24",
+        "last_seen": "2019-08-02 04:28:24",
+        "ip_address": "78.47.89.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "esp-l.com",
+        "count": "2",
+        "first_seen": "2019-08-02 04:28:24",
+        "last_seen": "2019-08-02 04:28:24",
+        "ip_address": "159.69.44.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "esp-l.com",
+        "count": "12",
+        "first_seen": "2019-08-14 02:56:59",
+        "last_seen": "2019-08-29 18:36:08",
+        "ip_address": "78.47.89.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "esp-l.com",
+        "count": "12",
+        "first_seen": "2019-08-14 02:56:59",
+        "last_seen": "2019-08-29 18:36:08",
+        "ip_address": "159.69.44.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "esp-l.com",
+        "count": "12",
+        "first_seen": "2019-08-14 02:56:59",
+        "last_seen": "2019-08-29 18:36:08",
+        "ip_address": "159.69.118.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "esp-l.com",
+        "count": "173",
+        "first_seen": "2019-03-06 09:00:52",
+        "last_seen": "2019-06-03 13:49:05",
+        "ip_address": "174.138.191.230",
+        "type": "IPv4"
+    }
+]

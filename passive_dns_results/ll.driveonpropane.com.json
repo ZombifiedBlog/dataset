@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "ll.driveonpropane.com",
+        "count": "15",
+        "first_seen": "2021-10-25 19:51:16",
+        "last_seen": "2021-10-30 14:20:23",
+        "ip_address": "163.197.95.231",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ll.driveonpropane.com",
+        "count": "39",
+        "first_seen": "2022-05-05 14:55:21",
+        "last_seen": "2023-03-26 12:08:37",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ll.driveonpropane.com",
+        "count": "5",
+        "first_seen": "2023-04-20 09:03:10",
+        "last_seen": "2023-05-18 09:37:27",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    }
+]

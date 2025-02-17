@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "www.ociguena.com",
+        "count": "2",
+        "first_seen": "2021-12-28 12:49:46",
+        "last_seen": "2022-01-07 02:36:38",
+        "ip_address": "45.136.119.178",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ociguena.com",
+        "count": "4",
+        "first_seen": "2022-12-20 04:12:09",
+        "last_seen": "2022-12-31 12:12:12",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ociguena.com",
+        "count": "1",
+        "first_seen": "2021-06-10 16:34:19",
+        "last_seen": "2021-06-10 16:34:19",
+        "ip_address": "62.60.242.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ociguena.com",
+        "count": "9",
+        "first_seen": "2020-02-04 06:01:31",
+        "last_seen": "2020-03-15 07:54:40",
+        "ip_address": "154.205.187.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ociguena.com",
+        "count": "14",
+        "first_seen": "2020-04-03 21:24:32",
+        "last_seen": "2021-03-27 17:07:38",
+        "ip_address": "156.247.129.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ociguena.com",
+        "count": "25",
+        "first_seen": "2019-11-02 01:57:21",
+        "last_seen": "2019-11-16 13:29:57",
+        "ip_address": "156.247.216.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ociguena.com",
+        "count": "1",
+        "first_seen": "2022-04-27 18:26:45",
+        "last_seen": "2022-04-27 18:26:45",
+        "ip_address": "160.121.113.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ociguena.com",
+        "count": "4",
+        "first_seen": "2019-10-06 12:10:54",
+        "last_seen": "2019-10-06 12:10:54",
+        "ip_address": "192.200.197.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ociguena.com",
+        "count": "202",
+        "first_seen": "2022-11-25 15:55:08",
+        "last_seen": "2022-12-01 20:09:58",
+        "ip_address": "204.44.87.175",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ociguena.com",
+        "count": "1",
+        "first_seen": "2021-10-02 00:37:21",
+        "last_seen": "2021-10-02 00:37:21",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    }
+]

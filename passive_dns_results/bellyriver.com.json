@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "bellyriver.com",
+        "count": "1592",
+        "first_seen": "2020-01-10 15:26:54",
+        "last_seen": "2023-06-01 23:49:41",
+        "ip_address": "35.208.41.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bellyriver.com",
+        "count": "467",
+        "first_seen": "2023-06-06 14:39:43",
+        "last_seen": "2024-01-18 03:58:25",
+        "ip_address": "35.212.73.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bellyriver.com",
+        "count": "4947",
+        "first_seen": "2015-09-05 03:33:26",
+        "last_seen": "2020-01-06 21:59:51",
+        "ip_address": "37.60.225.245",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bellyriver.com",
+        "count": "1",
+        "first_seen": "2011-02-13 01:48:36",
+        "last_seen": "2011-02-13 01:48:36",
+        "ip_address": "98.124.198.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bellyriver.com",
+        "count": "1741",
+        "first_seen": "2010-09-07 01:48:20",
+        "last_seen": "2015-09-04 16:43:02",
+        "ip_address": "216.47.228.161",
+        "type": "IPv4"
+    }
+]

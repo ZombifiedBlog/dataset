@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "reset-support-zama.com",
+        "count": "16",
+        "first_seen": "2019-03-18 09:15:55",
+        "last_seen": "2019-03-19 05:46:57",
+        "ip_address": "91.215.169.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "reset-support-zama.com",
+        "count": "350",
+        "first_seen": "2019-03-21 09:45:34",
+        "last_seen": "2020-03-14 04:21:06",
+        "ip_address": "92.53.124.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "reset-support-zama.com",
+        "count": "83",
+        "first_seen": "2020-03-17 00:39:29",
+        "last_seen": "2020-04-23 01:01:33",
+        "ip_address": "194.58.56.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "reset-support-zama.com",
+        "count": "44",
+        "first_seen": "2020-03-19 00:55:57",
+        "last_seen": "2020-04-23 01:01:33",
+        "ip_address": "2a00:f940:4::10",
+        "type": "IPv6"
+    }
+]

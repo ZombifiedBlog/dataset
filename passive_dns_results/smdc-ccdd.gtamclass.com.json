@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "smdc-ccdd.gtamclass.com",
+        "count": "3",
+        "first_seen": "2023-02-22 14:18:37",
+        "last_seen": "2023-03-12 23:07:31",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smdc-ccdd.gtamclass.com",
+        "count": "157",
+        "first_seen": "2020-10-28 19:57:08",
+        "last_seen": "2020-11-27 18:36:46",
+        "ip_address": "108.166.217.183",
+        "type": "IPv4"
+    }
+]

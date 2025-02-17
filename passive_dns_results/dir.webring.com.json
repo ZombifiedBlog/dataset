@@ -1,0 +1,522 @@
+[
+    {
+        "domain": "dir.webring.com",
+        "count": "36744",
+        "first_seen": "2021-10-11 21:01:22",
+        "last_seen": "2024-01-18 06:29:04",
+        "ip_address": "104.21.3.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "36744",
+        "first_seen": "2021-10-11 21:01:22",
+        "last_seen": "2024-01-18 06:29:04",
+        "ip_address": "172.67.153.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "57",
+        "first_seen": "2022-01-25 06:12:43",
+        "last_seen": "2023-10-31 23:35:33",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "57",
+        "first_seen": "2022-01-25 06:12:43",
+        "last_seen": "2023-10-31 23:35:33",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "92",
+        "first_seen": "2022-01-25 23:16:24",
+        "last_seen": "2023-09-06 08:57:03",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "92",
+        "first_seen": "2022-01-25 23:16:24",
+        "last_seen": "2023-09-06 08:57:03",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "1428",
+        "first_seen": "2022-05-28 20:10:28",
+        "last_seen": "2024-01-17 22:20:40",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "1428",
+        "first_seen": "2022-05-28 20:10:28",
+        "last_seen": "2024-01-17 22:20:40",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "79",
+        "first_seen": "2022-05-28 06:18:06",
+        "last_seen": "2024-01-06 21:15:26",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "79",
+        "first_seen": "2022-05-28 06:18:06",
+        "last_seen": "2024-01-06 21:15:26",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "3",
+        "first_seen": "2023-01-09 09:36:51",
+        "last_seen": "2023-03-23 11:47:42",
+        "ip_address": "188.114.96.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "3",
+        "first_seen": "2023-01-09 09:36:51",
+        "last_seen": "2023-03-23 11:47:42",
+        "ip_address": "188.114.97.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "1",
+        "first_seen": "2022-05-12 10:26:47",
+        "last_seen": "2022-05-12 10:26:47",
+        "ip_address": "188.114.96.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "1",
+        "first_seen": "2022-05-12 10:26:47",
+        "last_seen": "2022-05-12 10:26:47",
+        "ip_address": "188.114.97.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "591",
+        "first_seen": "2022-01-24 10:23:02",
+        "last_seen": "2023-10-19 06:43:38",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "591",
+        "first_seen": "2022-01-24 10:23:02",
+        "last_seen": "2023-10-19 06:43:38",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "57",
+        "first_seen": "2022-01-24 14:54:59",
+        "last_seen": "2022-04-19 15:59:45",
+        "ip_address": "188.114.96.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "57",
+        "first_seen": "2022-01-24 14:54:59",
+        "last_seen": "2022-04-19 15:59:45",
+        "ip_address": "188.114.97.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "52",
+        "first_seen": "2022-05-05 04:51:10",
+        "last_seen": "2022-05-26 16:03:13",
+        "ip_address": "188.114.96.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "52",
+        "first_seen": "2022-05-05 04:51:10",
+        "last_seen": "2022-05-26 16:03:13",
+        "ip_address": "188.114.97.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "5",
+        "first_seen": "2022-05-05 06:59:53",
+        "last_seen": "2022-05-22 18:17:57",
+        "ip_address": "188.114.96.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "5",
+        "first_seen": "2022-05-05 06:59:53",
+        "last_seen": "2022-05-22 18:17:57",
+        "ip_address": "188.114.97.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "2",
+        "first_seen": "2022-06-21 06:57:19",
+        "last_seen": "2022-06-21 06:57:19",
+        "ip_address": "188.114.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "2",
+        "first_seen": "2022-06-21 06:57:19",
+        "last_seen": "2022-06-21 06:57:19",
+        "ip_address": "188.114.97.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "10",
+        "first_seen": "2021-11-23 21:32:51",
+        "last_seen": "2021-11-24 12:55:03",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "10",
+        "first_seen": "2021-11-23 21:32:51",
+        "last_seen": "2021-11-24 12:55:03",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "46",
+        "first_seen": "2021-11-23 20:43:53",
+        "last_seen": "2022-02-24 15:05:24",
+        "ip_address": "188.114.96.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "46",
+        "first_seen": "2021-11-23 20:43:53",
+        "last_seen": "2022-02-24 15:05:24",
+        "ip_address": "188.114.97.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "2",
+        "first_seen": "2022-05-05 10:48:39",
+        "last_seen": "2022-05-05 10:48:39",
+        "ip_address": "188.114.96.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "2",
+        "first_seen": "2022-05-05 10:48:39",
+        "last_seen": "2022-05-05 10:48:39",
+        "ip_address": "188.114.97.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "8",
+        "first_seen": "2021-11-23 21:51:58",
+        "last_seen": "2021-11-24 17:20:57",
+        "ip_address": "188.114.96.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "8",
+        "first_seen": "2021-11-23 21:51:58",
+        "last_seen": "2021-11-24 17:20:57",
+        "ip_address": "188.114.97.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "135",
+        "first_seen": "2022-02-08 09:46:19",
+        "last_seen": "2022-04-08 06:59:47",
+        "ip_address": "188.114.96.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "135",
+        "first_seen": "2022-02-08 09:46:19",
+        "last_seen": "2022-04-08 06:59:47",
+        "ip_address": "188.114.97.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "1",
+        "first_seen": "2021-11-24 14:04:15",
+        "last_seen": "2021-11-24 14:04:15",
+        "ip_address": "188.114.96.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "1",
+        "first_seen": "2021-11-24 14:04:15",
+        "last_seen": "2021-11-24 14:04:15",
+        "ip_address": "188.114.97.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "95",
+        "first_seen": "2022-03-10 16:48:14",
+        "last_seen": "2022-03-14 10:32:02",
+        "ip_address": "188.114.98.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "6843",
+        "first_seen": "2011-05-26 17:59:05",
+        "last_seen": "2011-09-08 16:59:21",
+        "ip_address": "216.105.40.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "283154",
+        "first_seen": "2010-06-24 06:42:40",
+        "last_seen": "2017-01-14 21:05:14",
+        "ip_address": "216.105.40.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "283154",
+        "first_seen": "2010-06-24 06:42:40",
+        "last_seen": "2017-01-14 21:05:14",
+        "ip_address": "216.105.40.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "19465",
+        "first_seen": "2021-10-11 21:01:22",
+        "last_seen": "2024-01-18 06:29:04",
+        "ip_address": "2606:4700:3031::6815:360",
+        "type": "IPv6"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "19465",
+        "first_seen": "2021-10-11 21:01:22",
+        "last_seen": "2024-01-18 06:29:04",
+        "ip_address": "2606:4700:3034::ac43:997c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "11",
+        "first_seen": "2022-01-25 06:12:43",
+        "last_seen": "2022-03-07 03:20:40",
+        "ip_address": "2a06:98c1:3120::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "11",
+        "first_seen": "2022-01-25 06:12:43",
+        "last_seen": "2022-03-07 03:20:40",
+        "ip_address": "2a06:98c1:3121::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "23",
+        "first_seen": "2022-02-23 23:16:07",
+        "last_seen": "2023-09-06 08:57:03",
+        "ip_address": "2a06:98c1:3120::2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "23",
+        "first_seen": "2022-02-23 23:16:07",
+        "last_seen": "2023-09-06 08:57:03",
+        "ip_address": "2a06:98c1:3121::2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "1281",
+        "first_seen": "2022-05-28 10:58:56",
+        "last_seen": "2024-01-17 22:20:40",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "1281",
+        "first_seen": "2022-05-28 10:58:56",
+        "last_seen": "2024-01-17 22:20:40",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "80",
+        "first_seen": "2022-05-26 23:15:27",
+        "last_seen": "2023-11-10 10:01:11",
+        "ip_address": "2a06:98c1:3120::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "80",
+        "first_seen": "2022-05-26 23:15:27",
+        "last_seen": "2023-11-10 10:01:11",
+        "ip_address": "2a06:98c1:3121::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "459",
+        "first_seen": "2022-01-24 10:23:02",
+        "last_seen": "2023-10-19 06:43:38",
+        "ip_address": "2a06:98c1:3120::7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "459",
+        "first_seen": "2022-01-24 10:23:02",
+        "last_seen": "2023-10-19 06:43:38",
+        "ip_address": "2a06:98c1:3121::7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "44",
+        "first_seen": "2022-01-24 14:54:59",
+        "last_seen": "2022-04-15 17:24:01",
+        "ip_address": "2a06:98c1:3120::8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "44",
+        "first_seen": "2022-01-24 14:54:59",
+        "last_seen": "2022-04-15 17:24:01",
+        "ip_address": "2a06:98c1:3121::8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "32",
+        "first_seen": "2022-05-05 10:45:42",
+        "last_seen": "2022-05-26 07:11:31",
+        "ip_address": "2a06:98c1:3120::a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "32",
+        "first_seen": "2022-05-05 10:45:42",
+        "last_seen": "2022-05-26 07:11:31",
+        "ip_address": "2a06:98c1:3121::a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "7",
+        "first_seen": "2022-05-13 15:40:40",
+        "last_seen": "2022-05-17 06:30:12",
+        "ip_address": "2a06:98c1:3120::b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "7",
+        "first_seen": "2022-05-13 15:40:40",
+        "last_seen": "2022-05-17 06:30:12",
+        "ip_address": "2a06:98c1:3121::b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "42",
+        "first_seen": "2021-11-23 20:43:53",
+        "last_seen": "2022-02-24 21:47:29",
+        "ip_address": "2a06:98c1:3120::10",
+        "type": "IPv6"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "42",
+        "first_seen": "2021-11-23 20:43:53",
+        "last_seen": "2022-02-24 21:47:29",
+        "ip_address": "2a06:98c1:3121::10",
+        "type": "IPv6"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "6",
+        "first_seen": "2021-11-23 21:51:58",
+        "last_seen": "2021-11-24 17:20:57",
+        "ip_address": "2a06:98c1:3120::15",
+        "type": "IPv6"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "6",
+        "first_seen": "2021-11-23 21:51:58",
+        "last_seen": "2021-11-24 17:20:57",
+        "ip_address": "2a06:98c1:3121::15",
+        "type": "IPv6"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "121",
+        "first_seen": "2022-02-08 09:46:19",
+        "last_seen": "2022-04-08 06:59:48",
+        "ip_address": "2a06:98c1:3120::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "121",
+        "first_seen": "2022-02-08 09:46:19",
+        "last_seen": "2022-04-08 06:59:48",
+        "ip_address": "2a06:98c1:3121::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "dir.webring.com",
+        "count": "13",
+        "first_seen": "2022-03-10 18:26:20",
+        "last_seen": "2022-03-13 14:23:07",
+        "ip_address": "2a06:98c1:3122:8000::",
+        "type": "IPv6"
+    }
+]

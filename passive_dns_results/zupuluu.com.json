@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "zupuluu.com",
+        "count": "4",
+        "first_seen": "2023-02-20 14:47:10",
+        "last_seen": "2023-02-24 02:00:43",
+        "ip_address": "8.218.83.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zupuluu.com",
+        "count": "1",
+        "first_seen": "2023-02-03 10:07:22",
+        "last_seen": "2023-02-03 10:07:22",
+        "ip_address": "16.163.46.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zupuluu.com",
+        "count": "27",
+        "first_seen": "2022-11-09 05:13:45",
+        "last_seen": "2023-01-22 02:04:17",
+        "ip_address": "18.166.155.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zupuluu.com",
+        "count": "19",
+        "first_seen": "2023-11-09 12:03:47",
+        "last_seen": "2023-11-22 15:45:05",
+        "ip_address": "52.213.114.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zupuluu.com",
+        "count": "22",
+        "first_seen": "2023-03-03 14:40:41",
+        "last_seen": "2023-05-06 07:46:47",
+        "ip_address": "104.199.198.176",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zupuluu.com",
+        "count": "185",
+        "first_seen": "2023-05-10 11:01:31",
+        "last_seen": "2023-05-11 00:55:44",
+        "ip_address": "192.161.176.96",
+        "type": "IPv4"
+    }
+]

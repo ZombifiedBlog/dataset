@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.jennywatches.com",
+        "count": "1",
+        "first_seen": "2022-03-27 20:05:23",
+        "last_seen": "2022-03-27 20:05:23",
+        "ip_address": "50.28.32.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jennywatches.com",
+        "count": "197",
+        "first_seen": "2023-04-26 01:03:40",
+        "last_seen": "2024-01-16 12:49:36",
+        "ip_address": "64.91.248.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jennywatches.com",
+        "count": "218",
+        "first_seen": "2021-05-25 07:54:22",
+        "last_seen": "2023-04-18 12:37:20",
+        "ip_address": "67.227.226.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jennywatches.com",
+        "count": "588",
+        "first_seen": "2019-12-20 16:07:18",
+        "last_seen": "2020-05-31 12:24:58",
+        "ip_address": "91.195.240.126",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jennywatches.com",
+        "count": "46",
+        "first_seen": "2020-06-18 01:15:56",
+        "last_seen": "2020-11-10 12:33:59",
+        "ip_address": "91.195.241.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jennywatches.com",
+        "count": "4",
+        "first_seen": "2020-01-08 16:18:45",
+        "last_seen": "2020-05-08 23:28:13",
+        "ip_address": "91.195.240.126",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jennywatches.com",
+        "count": "118",
+        "first_seen": "2021-05-25 07:54:22",
+        "last_seen": "2022-11-07 21:32:46",
+        "ip_address": "2600:3c02::f03c:91ff:fee2:5b0f",
+        "type": "IPv6"
+    }
+]

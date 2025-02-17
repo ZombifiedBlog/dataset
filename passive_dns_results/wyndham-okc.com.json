@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "wyndham-okc.com",
+        "count": "22",
+        "first_seen": "2019-02-14 14:42:58",
+        "last_seen": "2019-02-14 16:55:59",
+        "ip_address": "49.51.154.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wyndham-okc.com",
+        "count": "843",
+        "first_seen": "2014-01-17 03:05:18",
+        "last_seen": "2020-01-18 06:47:46",
+        "ip_address": "50.63.202.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wyndham-okc.com",
+        "count": "5",
+        "first_seen": "2020-02-04 19:50:35",
+        "last_seen": "2020-02-22 09:16:23",
+        "ip_address": "50.63.202.64",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wyndham-okc.com",
+        "count": "2",
+        "first_seen": "2020-02-19 19:35:59",
+        "last_seen": "2020-02-19 19:35:59",
+        "ip_address": "50.63.202.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wyndham-okc.com",
+        "count": "2",
+        "first_seen": "2020-02-19 06:57:20",
+        "last_seen": "2020-02-19 06:57:20",
+        "ip_address": "50.63.202.72",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wyndham-okc.com",
+        "count": "6",
+        "first_seen": "2020-01-23 05:55:59",
+        "last_seen": "2020-02-04 21:14:28",
+        "ip_address": "184.168.221.73",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wyndham-okc.com",
+        "count": "8",
+        "first_seen": "2020-01-22 01:04:21",
+        "last_seen": "2020-02-22 05:22:17",
+        "ip_address": "184.168.221.80",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "www.winleaftickets.com",
+        "count": "3",
+        "first_seen": "2020-08-03 05:58:05",
+        "last_seen": "2020-08-03 05:58:05",
+        "ip_address": "209.99.40.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.winleaftickets.com",
+        "count": "2",
+        "first_seen": "2020-08-02 10:59:15",
+        "last_seen": "2020-08-02 10:59:15",
+        "ip_address": "209.99.40.223",
+        "type": "IPv4"
+    }
+]

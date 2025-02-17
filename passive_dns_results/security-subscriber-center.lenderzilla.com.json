@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "security-subscriber-center.LenderziLLa.com",
+        "count": "119",
+        "first_seen": "2022-12-31 09:33:36",
+        "last_seen": "2023-01-24 14:38:22",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.LenderziLLa.com",
+        "count": "4633",
+        "first_seen": "2022-10-01 23:26:02",
+        "last_seen": "2022-12-31 07:29:08",
+        "ip_address": "104.21.59.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.LenderziLLa.com",
+        "count": "4633",
+        "first_seen": "2022-10-01 23:26:02",
+        "last_seen": "2022-12-31 07:29:08",
+        "ip_address": "172.67.186.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.LenderziLLa.com",
+        "count": "219",
+        "first_seen": "2022-10-07 23:17:54",
+        "last_seen": "2022-12-31 01:29:03",
+        "ip_address": "2606:4700:3032::6815:3bf8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "security-subscriber-center.LenderziLLa.com",
+        "count": "219",
+        "first_seen": "2022-10-07 23:17:54",
+        "last_seen": "2022-12-31 01:29:03",
+        "ip_address": "2606:4700:3032::ac43:ba4b",
+        "type": "IPv6"
+    }
+]

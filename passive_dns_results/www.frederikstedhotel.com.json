@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.frederikstedhotel.com",
+        "count": "1700",
+        "first_seen": "2022-03-24 10:42:55",
+        "last_seen": "2023-06-27 17:52:52",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.frederikstedhotel.com",
+        "count": "12",
+        "first_seen": "2017-08-16 14:22:32",
+        "last_seen": "2017-10-06 12:26:32",
+        "ip_address": "94.231.107.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.frederikstedhotel.com",
+        "count": "12",
+        "first_seen": "2021-08-18 03:09:41",
+        "last_seen": "2022-01-31 11:34:12",
+        "ip_address": "154.218.114.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.frederikstedhotel.com",
+        "count": "15505",
+        "first_seen": "2010-07-28 03:18:00",
+        "last_seen": "2017-08-01 19:09:57",
+        "ip_address": "195.128.175.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.frederikstedhotel.com",
+        "count": "156",
+        "first_seen": "2023-04-05 03:33:23",
+        "last_seen": "2023-04-06 06:48:37",
+        "ip_address": "204.44.93.80",
+        "type": "IPv4"
+    }
+]

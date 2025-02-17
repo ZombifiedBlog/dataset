@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.amazoonj.buzz",
+        "count": "2",
+        "first_seen": "2020-10-17 23:42:38",
+        "last_seen": "2020-10-17 23:42:38",
+        "ip_address": "107.180.104.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazoonj.buzz",
+        "count": "21",
+        "first_seen": "2020-10-18 14:48:46",
+        "last_seen": "2020-10-19 06:55:41",
+        "ip_address": "148.66.129.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazoonj.buzz",
+        "count": "53",
+        "first_seen": "2020-10-17 12:28:03",
+        "last_seen": "2020-10-17 20:22:24",
+        "ip_address": "160.153.244.222",
+        "type": "IPv4"
+    }
+]

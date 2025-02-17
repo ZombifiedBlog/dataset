@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.alejsrt.com",
+        "count": "21",
+        "first_seen": "2021-11-25 20:34:53",
+        "last_seen": "2022-08-19 08:30:58",
+        "ip_address": "104.21.2.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alejsrt.com",
+        "count": "21",
+        "first_seen": "2021-11-25 20:34:53",
+        "last_seen": "2022-08-19 08:30:58",
+        "ip_address": "172.67.129.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alejsrt.com",
+        "count": "1",
+        "first_seen": "2022-05-16 10:29:11",
+        "last_seen": "2022-05-16 10:29:11",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alejsrt.com",
+        "count": "1208",
+        "first_seen": "2022-09-13 10:49:38",
+        "last_seen": "2022-09-19 22:07:09",
+        "ip_address": "204.44.95.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alejsrt.com",
+        "count": "1",
+        "first_seen": "2022-05-16 10:29:12",
+        "last_seen": "2022-05-16 10:29:12",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.alejsrt.com",
+        "count": "9",
+        "first_seen": "2021-11-25 20:34:53",
+        "last_seen": "2022-07-02 10:17:37",
+        "ip_address": "2606:4700:3030::ac43:81c5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.alejsrt.com",
+        "count": "9",
+        "first_seen": "2021-11-25 20:34:53",
+        "last_seen": "2022-07-02 10:17:37",
+        "ip_address": "2606:4700:3033::6815:2e4",
+        "type": "IPv6"
+    }
+]

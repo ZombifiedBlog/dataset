@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.amazonb.xyz",
+        "count": "55",
+        "first_seen": "2023-08-12 06:24:26",
+        "last_seen": "2024-01-15 21:41:31",
+        "ip_address": "38.60.210.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazonb.xyz",
+        "count": "2",
+        "first_seen": "2020-10-08 18:51:48",
+        "last_seen": "2020-10-08 18:51:48",
+        "ip_address": "148.66.129.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazonb.xyz",
+        "count": "20",
+        "first_seen": "2020-10-08 18:56:09",
+        "last_seen": "2020-10-08 22:29:09",
+        "ip_address": "148.66.129.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazonb.xyz",
+        "count": "1",
+        "first_seen": "2023-07-03 13:24:04",
+        "last_seen": "2023-07-03 13:24:04",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazonb.xyz",
+        "count": "1",
+        "first_seen": "2023-07-03 13:24:04",
+        "last_seen": "2023-07-03 13:24:04",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazonb.xyz",
+        "count": "1",
+        "first_seen": "2023-07-03 13:24:04",
+        "last_seen": "2023-07-03 13:24:04",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.amazonb.xyz",
+        "count": "1",
+        "first_seen": "2023-07-03 13:24:04",
+        "last_seen": "2023-07-03 13:24:04",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

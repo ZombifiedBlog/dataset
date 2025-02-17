@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "www.mg-digital.co",
+        "count": "790",
+        "first_seen": "2021-01-15 11:36:06",
+        "last_seen": "2021-02-12 16:05:42",
+        "ip_address": "104.21.56.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mg-digital.co",
+        "count": "790",
+        "first_seen": "2021-01-15 11:36:06",
+        "last_seen": "2021-02-12 16:05:42",
+        "ip_address": "172.67.179.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mg-digital.co",
+        "count": "1315",
+        "first_seen": "2020-11-07 09:30:50",
+        "last_seen": "2021-01-14 22:46:03",
+        "ip_address": "104.24.100.176",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mg-digital.co",
+        "count": "1315",
+        "first_seen": "2020-11-07 09:30:50",
+        "last_seen": "2021-01-14 22:46:03",
+        "ip_address": "104.24.101.176",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mg-digital.co",
+        "count": "1315",
+        "first_seen": "2020-11-07 09:30:50",
+        "last_seen": "2021-01-14 22:46:03",
+        "ip_address": "172.67.179.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mg-digital.co",
+        "count": "48",
+        "first_seen": "2021-01-15 11:36:06",
+        "last_seen": "2021-02-12 15:25:51",
+        "ip_address": "2606:4700:3033::6815:3847",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.mg-digital.co",
+        "count": "48",
+        "first_seen": "2021-01-15 11:36:06",
+        "last_seen": "2021-02-12 15:25:51",
+        "ip_address": "2606:4700:3035::ac43:b3d0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.mg-digital.co",
+        "count": "47",
+        "first_seen": "2020-11-07 22:02:18",
+        "last_seen": "2021-01-14 22:23:29",
+        "ip_address": "2606:4700:3033::6818:65b0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.mg-digital.co",
+        "count": "47",
+        "first_seen": "2020-11-07 22:02:18",
+        "last_seen": "2021-01-14 22:23:29",
+        "ip_address": "2606:4700:3034::6818:64b0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.mg-digital.co",
+        "count": "47",
+        "first_seen": "2020-11-07 22:02:18",
+        "last_seen": "2021-01-14 22:23:29",
+        "ip_address": "2606:4700:3035::ac43:b3d0",
+        "type": "IPv6"
+    }
+]

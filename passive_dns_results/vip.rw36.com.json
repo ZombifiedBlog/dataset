@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "vip.rw36.com",
+        "count": "2",
+        "first_seen": "2021-03-28 19:16:59",
+        "last_seen": "2021-03-28 22:48:44",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vip.rw36.com",
+        "count": "7",
+        "first_seen": "2021-02-10 10:49:14",
+        "last_seen": "2021-02-10 21:35:21",
+        "ip_address": "104.21.60.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vip.rw36.com",
+        "count": "7",
+        "first_seen": "2021-02-10 10:49:14",
+        "last_seen": "2021-02-10 21:35:21",
+        "ip_address": "172.67.188.179",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vip.rw36.com",
+        "count": "1",
+        "first_seen": "2021-02-10 21:35:21",
+        "last_seen": "2021-02-10 21:35:21",
+        "ip_address": "2606:4700:3030::6815:3c17",
+        "type": "IPv6"
+    },
+    {
+        "domain": "vip.rw36.com",
+        "count": "1",
+        "first_seen": "2021-02-10 21:35:21",
+        "last_seen": "2021-02-10 21:35:21",
+        "ip_address": "2606:4700:3036::ac43:bcb3",
+        "type": "IPv6"
+    }
+]

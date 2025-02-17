@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.amazondisplay.xyz",
+        "count": "140",
+        "first_seen": "2020-12-24 16:06:03",
+        "last_seen": "2020-12-26 10:17:19",
+        "ip_address": "128.14.142.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazondisplay.xyz",
+        "count": "46",
+        "first_seen": "2020-12-26 12:17:33",
+        "last_seen": "2020-12-28 14:40:35",
+        "ip_address": "173.82.119.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazondisplay.xyz",
+        "count": "23",
+        "first_seen": "2020-12-23 12:20:15",
+        "last_seen": "2020-12-24 14:16:59",
+        "ip_address": "173.82.235.82",
+        "type": "IPv4"
+    }
+]

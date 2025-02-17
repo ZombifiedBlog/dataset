@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.c.mareaeci.com",
+        "count": "195",
+        "first_seen": "2021-12-21 20:28:56",
+        "last_seen": "2021-12-24 15:19:45",
+        "ip_address": "23.95.122.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.c.mareaeci.com",
+        "count": "1",
+        "first_seen": "2022-12-24 01:36:23",
+        "last_seen": "2022-12-24 01:36:23",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.c.mareaeci.com",
+        "count": "9",
+        "first_seen": "2022-12-24 01:36:23",
+        "last_seen": "2022-12-24 02:47:34",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

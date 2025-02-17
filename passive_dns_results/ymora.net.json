@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "ymora.net",
+        "count": "1596221",
+        "first_seen": "2013-09-26 16:53:29",
+        "last_seen": "2022-06-03 20:35:13",
+        "ip_address": "46.254.16.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ymora.net",
+        "count": "58823",
+        "first_seen": "2022-06-03 22:08:58",
+        "last_seen": "2024-01-18 15:56:13",
+        "ip_address": "77.83.100.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ymora.net",
+        "count": "1262",
+        "first_seen": "2012-02-02 16:35:27",
+        "last_seen": "2012-11-11 02:52:12",
+        "ip_address": "78.109.16.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ymora.net",
+        "count": "191",
+        "first_seen": "2012-11-11 13:10:35",
+        "last_seen": "2012-12-27 07:52:13",
+        "ip_address": "78.109.16.227",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ymora.net",
+        "count": "34",
+        "first_seen": "2012-12-27 13:56:37",
+        "last_seen": "2012-12-31 09:19:53",
+        "ip_address": "178.86.13.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ymora.net",
+        "count": "2519",
+        "first_seen": "2012-12-31 12:58:09",
+        "last_seen": "2013-09-26 02:11:37",
+        "ip_address": "178.86.30.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ymora.net",
+        "count": "252",
+        "first_seen": "2014-02-02 16:25:51",
+        "last_seen": "2022-02-02 13:25:56",
+        "ip_address": "209.99.40.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ymora.net",
+        "count": "6",
+        "first_seen": "2014-02-02 00:27:16",
+        "last_seen": "2014-02-05 03:26:58",
+        "ip_address": "209.99.40.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ymora.net",
+        "count": "2",
+        "first_seen": "2016-08-03 23:52:29",
+        "last_seen": "2016-08-03 23:52:29",
+        "ip_address": "",
+        "type": "IPv6"
+    }
+]

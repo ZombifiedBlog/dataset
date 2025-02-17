@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "qac-ir.com",
+        "count": "1059",
+        "first_seen": "2021-11-09 08:42:34",
+        "last_seen": "2022-01-08 10:50:32",
+        "ip_address": "37.140.192.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "qac-ir.com",
+        "count": "5",
+        "first_seen": "2022-08-03 22:45:13",
+        "last_seen": "2022-08-28 05:15:36",
+        "ip_address": "99.83.154.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "qac-ir.com",
+        "count": "1",
+        "first_seen": "2022-01-10 00:21:31",
+        "last_seen": "2022-01-10 00:21:31",
+        "ip_address": "104.168.202.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "qac-ir.com",
+        "count": "10",
+        "first_seen": "2022-03-01 00:50:13",
+        "last_seen": "2022-03-18 17:04:46",
+        "ip_address": "104.168.204.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "qac-ir.com",
+        "count": "11",
+        "first_seen": "2021-09-02 04:41:18",
+        "last_seen": "2021-11-06 06:17:27",
+        "ip_address": "192.64.118.106",
+        "type": "IPv4"
+    },
+    {
+        "domain": "qac-ir.com",
+        "count": "1022",
+        "first_seen": "2021-11-09 08:44:45",
+        "last_seen": "2021-11-24 21:48:41",
+        "ip_address": "2a00:f940:2:2:1:1:0:114",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "domain": "reputationadmin.com",
+        "count": "18",
+        "first_seen": "2016-09-24 23:03:15",
+        "last_seen": "2016-10-06 18:48:03",
+        "ip_address": "54.175.122.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "reputationadmin.com",
+        "count": "5",
+        "first_seen": "2015-05-26 02:44:58",
+        "last_seen": "2015-06-15 12:33:31",
+        "ip_address": "64.74.223.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "reputationadmin.com",
+        "count": "17",
+        "first_seen": "2014-07-12 22:46:32",
+        "last_seen": "2015-01-23 15:31:11",
+        "ip_address": "98.129.229.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "reputationadmin.com",
+        "count": "3",
+        "first_seen": "2015-03-05 20:39:10",
+        "last_seen": "2015-03-20 13:15:54",
+        "ip_address": "98.129.229.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "reputationadmin.com",
+        "count": "77",
+        "first_seen": "2017-12-01 18:31:21",
+        "last_seen": "2018-01-26 21:49:20",
+        "ip_address": "104.27.174.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "reputationadmin.com",
+        "count": "77",
+        "first_seen": "2017-12-01 18:31:21",
+        "last_seen": "2018-01-26 21:49:20",
+        "ip_address": "104.27.175.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "reputationadmin.com",
+        "count": "1358",
+        "first_seen": "2019-01-04 17:39:45",
+        "last_seen": "2020-02-17 23:17:04",
+        "ip_address": "146.71.125.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "reputationadmin.com",
+        "count": "7",
+        "first_seen": "2015-05-23 02:24:34",
+        "last_seen": "2015-05-25 02:57:50",
+        "ip_address": "199.59.166.109",
+        "type": "IPv4"
+    },
+    {
+        "domain": "reputationadmin.com",
+        "count": "3",
+        "first_seen": "2014-05-24 03:29:01",
+        "last_seen": "2014-05-26 03:07:32",
+        "ip_address": "204.15.248.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "reputationadmin.com",
+        "count": "19",
+        "first_seen": "2017-06-24 16:30:46",
+        "last_seen": "2017-07-15 22:28:06",
+        "ip_address": "208.83.210.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "reputationadmin.com",
+        "count": "29",
+        "first_seen": "2017-09-27 02:55:54",
+        "last_seen": "2017-11-11 10:15:59",
+        "ip_address": "208.88.5.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "reputationadmin.com",
+        "count": "100",
+        "first_seen": "2017-11-17 07:18:45",
+        "last_seen": "2018-04-03 10:00:04",
+        "ip_address": "208.88.5.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "reputationadmin.com",
+        "count": "25",
+        "first_seen": "2017-07-22 14:22:35",
+        "last_seen": "2017-09-13 21:46:34",
+        "ip_address": "208.88.6.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "reputationadmin.com",
+        "count": "63",
+        "first_seen": "2017-12-01 18:31:21",
+        "last_seen": "2018-01-26 21:49:20",
+        "ip_address": "2400:cb00:2048:1::681b:ae68",
+        "type": "IPv6"
+    },
+    {
+        "domain": "reputationadmin.com",
+        "count": "63",
+        "first_seen": "2017-12-01 18:31:21",
+        "last_seen": "2018-01-26 21:49:20",
+        "ip_address": "2400:cb00:2048:1::681b:af68",
+        "type": "IPv6"
+    }
+]

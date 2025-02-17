@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "my-jcb-co-jp.jcbjkdda.xyz",
+        "count": "16",
+        "first_seen": "2022-03-08 15:25:58",
+        "last_seen": "2023-01-10 14:48:30",
+        "ip_address": "104.21.50.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.jcbjkdda.xyz",
+        "count": "16",
+        "first_seen": "2022-03-08 15:25:58",
+        "last_seen": "2023-01-10 14:48:30",
+        "ip_address": "172.67.199.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.jcbjkdda.xyz",
+        "count": "20",
+        "first_seen": "2022-03-08 14:46:40",
+        "last_seen": "2022-03-08 21:43:17",
+        "ip_address": "188.114.96.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.jcbjkdda.xyz",
+        "count": "20",
+        "first_seen": "2022-03-08 14:46:40",
+        "last_seen": "2022-03-08 21:43:17",
+        "ip_address": "188.114.97.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.jcbjkdda.xyz",
+        "count": "1",
+        "first_seen": "2023-02-16 10:39:45",
+        "last_seen": "2023-02-16 10:39:45",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb-co-jp.jcbjkdda.xyz",
+        "count": "1",
+        "first_seen": "2023-02-16 10:39:45",
+        "last_seen": "2023-02-16 10:39:45",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb-co-jp.jcbjkdda.xyz",
+        "count": "1",
+        "first_seen": "2022-03-08 14:46:41",
+        "last_seen": "2022-03-08 14:46:41",
+        "ip_address": "2a06:98c1:3120::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb-co-jp.jcbjkdda.xyz",
+        "count": "1",
+        "first_seen": "2022-03-08 14:46:41",
+        "last_seen": "2022-03-08 14:46:41",
+        "ip_address": "2a06:98c1:3121::16",
+        "type": "IPv6"
+    }
+]

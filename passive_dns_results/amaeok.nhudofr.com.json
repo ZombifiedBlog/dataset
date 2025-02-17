@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "amaeok.nhudofr.com",
+        "count": "81",
+        "first_seen": "2020-05-12 11:27:14",
+        "last_seen": "2020-05-15 10:59:29",
+        "ip_address": "104.31.84.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amaeok.nhudofr.com",
+        "count": "81",
+        "first_seen": "2020-05-12 11:27:14",
+        "last_seen": "2020-05-15 10:59:29",
+        "ip_address": "104.31.85.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amaeok.nhudofr.com",
+        "count": "59",
+        "first_seen": "2020-05-12 11:27:14",
+        "last_seen": "2020-05-15 10:59:29",
+        "ip_address": "2606:4700:3032::681f:55d0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amaeok.nhudofr.com",
+        "count": "59",
+        "first_seen": "2020-05-12 11:27:14",
+        "last_seen": "2020-05-15 10:59:29",
+        "ip_address": "2606:4700:3037::681f:54d0",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.smdc-ccrd.com",
+        "count": "830",
+        "first_seen": "2021-01-16 13:23:15",
+        "last_seen": "2021-02-01 00:12:39",
+        "ip_address": "23.95.234.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smdc-ccrd.com",
+        "count": "1",
+        "first_seen": "2022-01-31 07:25:38",
+        "last_seen": "2022-01-31 07:25:38",
+        "ip_address": "43.130.64.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smdc-ccrd.com",
+        "count": "8",
+        "first_seen": "2021-05-18 06:14:49",
+        "last_seen": "2021-12-20 08:01:54",
+        "ip_address": "156.239.99.113",
+        "type": "IPv4"
+    }
+]

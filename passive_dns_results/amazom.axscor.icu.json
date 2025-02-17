@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "amazom.axscor.icu",
+        "count": "1",
+        "first_seen": "2021-10-04 02:41:48",
+        "last_seen": "2021-10-04 03:31:24",
+        "ip_address": "104.21.14.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazom.axscor.icu",
+        "count": "1",
+        "first_seen": "2021-10-04 02:41:48",
+        "last_seen": "2021-10-04 03:31:24",
+        "ip_address": "172.67.157.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazom.axscor.icu",
+        "count": "3",
+        "first_seen": "2021-10-04 02:14:02",
+        "last_seen": "2021-10-04 09:33:52",
+        "ip_address": "107.172.43.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazom.axscor.icu",
+        "count": "315",
+        "first_seen": "2021-10-03 10:09:51",
+        "last_seen": "2021-10-03 22:27:38",
+        "ip_address": "107.172.142.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazom.axscor.icu",
+        "count": "14",
+        "first_seen": "2021-10-19 17:10:56",
+        "last_seen": "2022-08-10 16:35:43",
+        "ip_address": "198.98.48.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazom.axscor.icu",
+        "count": "1",
+        "first_seen": "2021-10-04 03:18:47",
+        "last_seen": "2021-10-04 03:18:47",
+        "ip_address": "2606:4700:3033::ac43:9dbd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazom.axscor.icu",
+        "count": "1",
+        "first_seen": "2021-10-04 03:18:47",
+        "last_seen": "2021-10-04 03:18:47",
+        "ip_address": "2606:4700:3035::6815:e2e",
+        "type": "IPv6"
+    }
+]

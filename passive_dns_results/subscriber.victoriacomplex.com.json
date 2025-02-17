@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "subscriber.victoriacomplex.com",
+        "count": "130",
+        "first_seen": "2023-01-06 13:58:18",
+        "last_seen": "2023-01-08 13:09:51",
+        "ip_address": "104.21.30.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.victoriacomplex.com",
+        "count": "130",
+        "first_seen": "2023-01-06 13:58:18",
+        "last_seen": "2023-01-08 13:09:51",
+        "ip_address": "172.67.173.243",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.victoriacomplex.com",
+        "count": "2",
+        "first_seen": "2023-01-06 21:53:16",
+        "last_seen": "2023-01-07 18:07:42",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.victoriacomplex.com",
+        "count": "2",
+        "first_seen": "2023-01-06 21:53:16",
+        "last_seen": "2023-01-07 18:07:42",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.victoriacomplex.com",
+        "count": "1",
+        "first_seen": "2023-01-07 19:02:55",
+        "last_seen": "2023-01-07 19:02:55",
+        "ip_address": "188.114.96.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.victoriacomplex.com",
+        "count": "1",
+        "first_seen": "2023-01-07 19:02:55",
+        "last_seen": "2023-01-07 19:02:55",
+        "ip_address": "188.114.97.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.victoriacomplex.com",
+        "count": "1",
+        "first_seen": "2023-01-07 01:15:46",
+        "last_seen": "2023-01-07 01:15:46",
+        "ip_address": "2606:4700:3032::ac43:adf3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.victoriacomplex.com",
+        "count": "1",
+        "first_seen": "2023-01-07 01:15:46",
+        "last_seen": "2023-01-07 01:15:46",
+        "ip_address": "2606:4700:3037::6815:1ed9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.victoriacomplex.com",
+        "count": "2",
+        "first_seen": "2023-01-06 21:53:16",
+        "last_seen": "2023-01-07 18:07:42",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.victoriacomplex.com",
+        "count": "2",
+        "first_seen": "2023-01-06 21:53:16",
+        "last_seen": "2023-01-07 18:07:42",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    }
+]

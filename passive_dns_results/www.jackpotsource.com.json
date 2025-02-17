@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.jackpotsource.com",
+        "count": "2",
+        "first_seen": "2023-12-18 05:41:45",
+        "last_seen": "2023-12-18 05:41:45",
+        "ip_address": "3.19.129.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jackpotsource.com",
+        "count": "2",
+        "first_seen": "2023-12-18 05:41:45",
+        "last_seen": "2023-12-18 05:41:45",
+        "ip_address": "3.130.112.185",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jackpotsource.com",
+        "count": "14",
+        "first_seen": "2022-12-17 09:10:19",
+        "last_seen": "2023-07-03 09:04:49",
+        "ip_address": "3.64.163.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jackpotsource.com",
+        "count": "86",
+        "first_seen": "2023-07-04 00:22:18",
+        "last_seen": "2023-12-03 08:01:10",
+        "ip_address": "86.105.245.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jackpotsource.com",
+        "count": "1",
+        "first_seen": "2017-02-05 22:18:01",
+        "last_seen": "2017-02-05 22:18:01",
+        "ip_address": "184.168.221.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jackpotsource.com",
+        "count": "1035",
+        "first_seen": "2022-08-04 02:22:13",
+        "last_seen": "2022-08-29 18:39:18",
+        "ip_address": "204.152.210.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jackpotsource.com",
+        "count": "50",
+        "first_seen": "2022-12-17 09:10:19",
+        "last_seen": "2023-07-03 09:04:49",
+        "ip_address": "3.64.163.50",
+        "type": "IPv4"
+    }
+]

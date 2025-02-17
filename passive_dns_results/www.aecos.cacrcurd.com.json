@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.aecos.cacrcurd.com",
+        "count": "191",
+        "first_seen": "2021-09-20 19:38:05",
+        "last_seen": "2021-09-21 17:50:30",
+        "ip_address": "147.182.218.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.aecos.cacrcurd.com",
+        "count": "175",
+        "first_seen": "2021-09-21 20:46:01",
+        "last_seen": "2022-09-12 13:50:04",
+        "ip_address": "154.30.198.156",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.aecos.cacrcurd.com",
+        "count": "11",
+        "first_seen": "2022-09-21 00:18:51",
+        "last_seen": "2022-10-17 22:48:23",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.aecos.cacrcurd.com",
+        "count": "1",
+        "first_seen": "2022-09-21 00:18:51",
+        "last_seen": "2022-09-21 00:18:51",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.aecos.cacrcurd.com",
+        "count": "3",
+        "first_seen": "2022-09-21 00:18:51",
+        "last_seen": "2022-09-29 13:13:41",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

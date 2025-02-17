@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "smbcbank.xyz",
+        "count": "8",
+        "first_seen": "2022-02-16 08:39:05",
+        "last_seen": "2022-02-17 05:09:59",
+        "ip_address": "104.21.90.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbcbank.xyz",
+        "count": "8",
+        "first_seen": "2022-02-16 08:39:05",
+        "last_seen": "2022-02-17 05:09:59",
+        "ip_address": "172.67.193.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbcbank.xyz",
+        "count": "8",
+        "first_seen": "2022-02-16 08:42:12",
+        "last_seen": "2022-02-17 05:36:09",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbcbank.xyz",
+        "count": "8",
+        "first_seen": "2022-02-16 08:42:12",
+        "last_seen": "2022-02-17 05:36:09",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbcbank.xyz",
+        "count": "20",
+        "first_seen": "2022-02-17 02:19:41",
+        "last_seen": "2022-02-17 08:40:33",
+        "ip_address": "188.114.96.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbcbank.xyz",
+        "count": "20",
+        "first_seen": "2022-02-17 02:19:41",
+        "last_seen": "2022-02-17 08:40:33",
+        "ip_address": "188.114.97.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbcbank.xyz",
+        "count": "1",
+        "first_seen": "2022-02-17 02:19:49",
+        "last_seen": "2022-02-17 02:19:49",
+        "ip_address": "2a06:98c1:3120::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "smbcbank.xyz",
+        "count": "1",
+        "first_seen": "2022-02-17 02:19:49",
+        "last_seen": "2022-02-17 02:19:49",
+        "ip_address": "2a06:98c1:3121::16",
+        "type": "IPv6"
+    }
+]

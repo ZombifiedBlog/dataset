@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "rekutan.qwhfpr.wang",
+        "count": "5",
+        "first_seen": "2020-10-10 11:20:59",
+        "last_seen": "2020-11-03 13:58:00",
+        "ip_address": "104.28.10.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekutan.qwhfpr.wang",
+        "count": "5",
+        "first_seen": "2020-10-10 11:20:59",
+        "last_seen": "2020-11-03 13:58:00",
+        "ip_address": "104.28.11.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekutan.qwhfpr.wang",
+        "count": "5",
+        "first_seen": "2020-10-10 11:20:59",
+        "last_seen": "2020-11-03 13:58:00",
+        "ip_address": "172.67.188.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekutan.qwhfpr.wang",
+        "count": "2",
+        "first_seen": "2020-11-03 13:58:00",
+        "last_seen": "2020-11-03 13:58:00",
+        "ip_address": "2606:4700:3031::ac43:bc1a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rekutan.qwhfpr.wang",
+        "count": "2",
+        "first_seen": "2020-11-03 13:58:00",
+        "last_seen": "2020-11-03 13:58:00",
+        "ip_address": "2606:4700:3032::681c:a96",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rekutan.qwhfpr.wang",
+        "count": "2",
+        "first_seen": "2020-11-03 13:58:00",
+        "last_seen": "2020-11-03 13:58:00",
+        "ip_address": "2606:4700:3033::681c:b96",
+        "type": "IPv6"
+    }
+]

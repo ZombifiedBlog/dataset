@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "baiyusc.co",
+        "count": "1477",
+        "first_seen": "2023-07-12 13:07:25",
+        "last_seen": "2023-07-16 13:25:00",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "baiyusc.co",
+        "count": "26126",
+        "first_seen": "2023-02-20 04:08:17",
+        "last_seen": "2023-07-12 12:55:16",
+        "ip_address": "106.75.2.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "baiyusc.co",
+        "count": "68",
+        "first_seen": "2023-01-30 04:00:52",
+        "last_seen": "2023-02-04 13:13:00",
+        "ip_address": "202.61.137.179",
+        "type": "IPv4"
+    },
+    {
+        "domain": "baiyusc.co",
+        "count": "6",
+        "first_seen": "2023-01-25 18:30:28",
+        "last_seen": "2023-01-25 18:35:13",
+        "ip_address": "202.61.137.206",
+        "type": "IPv4"
+    }
+]

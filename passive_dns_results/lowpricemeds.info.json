@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "lowpricemeds.info",
+        "count": "5",
+        "first_seen": "2014-09-30 03:11:42",
+        "last_seen": "2014-10-21 00:59:56",
+        "ip_address": "8.5.1.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lowpricemeds.info",
+        "count": "54",
+        "first_seen": "2020-02-20 10:00:15",
+        "last_seen": "2020-02-26 19:17:29",
+        "ip_address": "8.209.75.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lowpricemeds.info",
+        "count": "15109",
+        "first_seen": "2020-02-14 09:53:21",
+        "last_seen": "2020-02-20 09:03:23",
+        "ip_address": "47.89.178.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lowpricemeds.info",
+        "count": "6",
+        "first_seen": "2020-03-16 15:24:13",
+        "last_seen": "2020-03-22 17:43:41",
+        "ip_address": "47.91.86.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lowpricemeds.info",
+        "count": "9",
+        "first_seen": "2020-03-04 01:30:52",
+        "last_seen": "2020-03-15 13:37:42",
+        "ip_address": "47.254.67.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lowpricemeds.info",
+        "count": "4",
+        "first_seen": "2020-03-01 22:08:02",
+        "last_seen": "2020-03-02 10:40:19",
+        "ip_address": "49.51.168.169",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lowpricemeds.info",
+        "count": "1",
+        "first_seen": "2011-01-14 03:02:49",
+        "last_seen": "2011-01-14 03:02:49",
+        "ip_address": "98.124.198.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lowpricemeds.info",
+        "count": "3115",
+        "first_seen": "2020-02-13 16:52:15",
+        "last_seen": "2020-02-14 09:52:17",
+        "ip_address": "161.117.178.167",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.zxcrb.com",
+        "count": "2",
+        "first_seen": "2017-02-12 23:26:10",
+        "last_seen": "2017-02-12 23:26:10",
+        "ip_address": "47.89.58.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zxcrb.com",
+        "count": "57",
+        "first_seen": "2021-04-14 03:58:37",
+        "last_seen": "2021-04-16 21:37:40",
+        "ip_address": "104.21.29.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zxcrb.com",
+        "count": "57",
+        "first_seen": "2021-04-14 03:58:37",
+        "last_seen": "2021-04-16 21:37:40",
+        "ip_address": "172.67.149.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zxcrb.com",
+        "count": "326",
+        "first_seen": "2021-05-05 07:05:47",
+        "last_seen": "2022-03-25 04:17:16",
+        "ip_address": "104.21.66.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zxcrb.com",
+        "count": "984",
+        "first_seen": "2021-04-16 07:49:04",
+        "last_seen": "2021-05-05 00:08:40",
+        "ip_address": "198.144.154.68",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zxcrb.com",
+        "count": "13",
+        "first_seen": "2021-04-14 03:58:37",
+        "last_seen": "2021-04-16 07:30:55",
+        "ip_address": "2606:4700:3031::ac43:95c6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zxcrb.com",
+        "count": "13",
+        "first_seen": "2021-04-14 03:58:37",
+        "last_seen": "2021-04-16 07:30:55",
+        "ip_address": "2606:4700:3036::6815:1dc9",
+        "type": "IPv6"
+    }
+]

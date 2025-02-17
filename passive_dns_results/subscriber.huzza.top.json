@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.huzza.top",
+        "count": "2",
+        "first_seen": "2023-11-18 08:54:04",
+        "last_seen": "2023-11-18 08:54:04",
+        "ip_address": "49.51.79.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.huzza.top",
+        "count": "426",
+        "first_seen": "2023-06-15 12:36:24",
+        "last_seen": "2023-07-28 20:33:34",
+        "ip_address": "104.21.35.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.huzza.top",
+        "count": "426",
+        "first_seen": "2023-06-15 12:36:24",
+        "last_seen": "2023-07-28 20:33:34",
+        "ip_address": "172.67.213.232",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.huzza.top",
+        "count": "1",
+        "first_seen": "2023-12-02 06:47:30",
+        "last_seen": "2023-12-02 06:47:30",
+        "ip_address": "167.88.180.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.huzza.top",
+        "count": "12",
+        "first_seen": "2023-06-16 03:51:40",
+        "last_seen": "2023-06-28 08:44:12",
+        "ip_address": "2606:4700:3031::6815:2332",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.huzza.top",
+        "count": "12",
+        "first_seen": "2023-06-16 03:51:40",
+        "last_seen": "2023-06-28 08:44:12",
+        "ip_address": "2606:4700:3031::ac43:d5e8",
+        "type": "IPv6"
+    }
+]

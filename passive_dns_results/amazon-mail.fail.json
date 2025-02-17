@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "amazon-mail.fail",
+        "count": "18",
+        "first_seen": "2021-09-15 17:33:09",
+        "last_seen": "2021-10-14 15:20:45",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-mail.fail",
+        "count": "81",
+        "first_seen": "2020-11-11 12:37:32",
+        "last_seen": "2021-03-01 18:47:13",
+        "ip_address": "128.14.142.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-mail.fail",
+        "count": "146",
+        "first_seen": "2020-10-19 01:09:40",
+        "last_seen": "2020-11-09 21:00:42",
+        "ip_address": "128.14.142.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-mail.fail",
+        "count": "69",
+        "first_seen": "2020-09-20 03:26:31",
+        "last_seen": "2020-09-22 14:25:47",
+        "ip_address": "160.153.248.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-mail.fail",
+        "count": "114",
+        "first_seen": "2020-09-15 15:21:05",
+        "last_seen": "2020-09-19 23:21:50",
+        "ip_address": "160.153.251.164",
+        "type": "IPv4"
+    }
+]

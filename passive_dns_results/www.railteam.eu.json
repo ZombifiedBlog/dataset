@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.railteam.eu",
+        "count": "149984",
+        "first_seen": "2014-04-01 13:48:53",
+        "last_seen": "2024-01-18 00:56:03",
+        "ip_address": "95.129.124.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.railteam.eu",
+        "count": "32644",
+        "first_seen": "2010-06-24 06:19:53",
+        "last_seen": "2014-04-01 12:48:49",
+        "ip_address": "194.109.147.202",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.railteam.eu",
+        "count": "49743",
+        "first_seen": "2011-12-02 13:45:44",
+        "last_seen": "2013-04-30 19:25:48",
+        "ip_address": "194.109.147.218",
+        "type": "IPv4"
+    }
+]

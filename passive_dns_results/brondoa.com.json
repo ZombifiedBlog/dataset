@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "brondoa.com",
+        "count": "515",
+        "first_seen": "2016-05-18 04:18:35",
+        "last_seen": "2018-03-15 02:04:10",
+        "ip_address": "37.187.71.95",
+        "type": "IPv4"
+    },
+    {
+        "domain": "brondoa.com",
+        "count": "1042",
+        "first_seen": "2021-05-28 23:04:10",
+        "last_seen": "2024-01-18 02:10:19",
+        "ip_address": "82.223.197.252",
+        "type": "IPv4"
+    },
+    {
+        "domain": "brondoa.com",
+        "count": "524",
+        "first_seen": "2012-06-01 16:00:14",
+        "last_seen": "2016-05-10 05:11:31",
+        "ip_address": "91.121.157.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "brondoa.com",
+        "count": "507",
+        "first_seen": "2019-03-07 00:03:36",
+        "last_seen": "2021-05-27 20:39:04",
+        "ip_address": "146.255.98.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "brondoa.com",
+        "count": "14",
+        "first_seen": "2015-02-17 13:44:23",
+        "last_seen": "2015-02-17 20:45:49",
+        "ip_address": "217.160.195.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "brondoa.com",
+        "count": "227",
+        "first_seen": "2018-03-22 02:14:26",
+        "last_seen": "2019-02-28 07:55:35",
+        "ip_address": "217.160.230.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "brondoa.com",
+        "count": "189",
+        "first_seen": "2018-04-08 04:02:57",
+        "last_seen": "2021-05-24 18:56:07",
+        "ip_address": "2001:8d8:1001:4146:914d:cb49:507d:f01f",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "support.am-zix.com",
+        "count": "4",
+        "first_seen": "2020-07-12 16:55:12",
+        "last_seen": "2020-07-13 10:12:27",
+        "ip_address": "104.27.142.64",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.am-zix.com",
+        "count": "4",
+        "first_seen": "2020-07-12 16:55:12",
+        "last_seen": "2020-07-13 10:12:27",
+        "ip_address": "104.27.143.64",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.am-zix.com",
+        "count": "4",
+        "first_seen": "2020-07-12 16:55:12",
+        "last_seen": "2020-07-13 10:12:27",
+        "ip_address": "172.67.209.152",
+        "type": "IPv4"
+    }
+]

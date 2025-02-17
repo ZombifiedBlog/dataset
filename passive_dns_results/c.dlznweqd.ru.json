@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "c.dlznweqd.ru",
+        "count": "12",
+        "first_seen": "2023-11-08 03:05:54",
+        "last_seen": "2023-12-04 21:55:24",
+        "ip_address": "31.177.76.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c.dlznweqd.ru",
+        "count": "12",
+        "first_seen": "2023-11-08 03:05:54",
+        "last_seen": "2023-12-04 21:55:24",
+        "ip_address": "31.177.80.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c.dlznweqd.ru",
+        "count": "1872",
+        "first_seen": "2023-06-17 00:46:47",
+        "last_seen": "2023-10-26 14:52:04",
+        "ip_address": "104.21.42.188",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c.dlznweqd.ru",
+        "count": "1872",
+        "first_seen": "2023-06-17 00:46:47",
+        "last_seen": "2023-10-26 14:52:04",
+        "ip_address": "172.67.208.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "c.dlznweqd.ru",
+        "count": "122",
+        "first_seen": "2023-06-17 00:49:20",
+        "last_seen": "2023-10-22 04:06:06",
+        "ip_address": "2606:4700:3031::ac43:d05e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "c.dlznweqd.ru",
+        "count": "122",
+        "first_seen": "2023-06-17 00:49:20",
+        "last_seen": "2023-10-22 04:06:06",
+        "ip_address": "2606:4700:3035::6815:2abc",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "sabaziusiv.com",
+        "count": "986",
+        "first_seen": "2019-11-24 17:11:08",
+        "last_seen": "2022-01-01 21:03:02",
+        "ip_address": "31.47.72.143",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sabaziusiv.com",
+        "count": "986",
+        "first_seen": "2019-11-24 17:11:08",
+        "last_seen": "2022-01-01 21:03:02",
+        "ip_address": "31.47.72.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sabaziusiv.com",
+        "count": "35681",
+        "first_seen": "2015-11-25 06:25:06",
+        "last_seen": "2021-11-23 09:45:03",
+        "ip_address": "178.60.224.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sabaziusiv.com",
+        "count": "646",
+        "first_seen": "2021-11-23 11:45:25",
+        "last_seen": "2022-01-01 21:03:02",
+        "ip_address": "2a01:a940:419:8f::1000",
+        "type": "IPv6"
+    },
+    {
+        "domain": "sabaziusiv.com",
+        "count": "646",
+        "first_seen": "2021-11-23 11:45:25",
+        "last_seen": "2022-01-01 21:03:02",
+        "ip_address": "2a01:a940:419:99::1000",
+        "type": "IPv6"
+    }
+]

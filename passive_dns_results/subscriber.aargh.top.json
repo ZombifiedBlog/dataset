@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscriber.aargh.top",
+        "count": "1",
+        "first_seen": "2023-11-21 02:21:46",
+        "last_seen": "2023-11-21 02:21:46",
+        "ip_address": "49.51.79.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.aargh.top",
+        "count": "419",
+        "first_seen": "2023-06-15 12:54:21",
+        "last_seen": "2023-08-04 19:35:02",
+        "ip_address": "104.21.76.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.aargh.top",
+        "count": "419",
+        "first_seen": "2023-06-15 12:54:21",
+        "last_seen": "2023-08-04 19:35:02",
+        "ip_address": "172.67.201.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.aargh.top",
+        "count": "2",
+        "first_seen": "2023-06-27 17:35:07",
+        "last_seen": "2023-06-27 17:35:07",
+        "ip_address": "160.251.56.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.aargh.top",
+        "count": "3",
+        "first_seen": "2023-12-08 18:17:05",
+        "last_seen": "2023-12-09 18:00:34",
+        "ip_address": "167.88.180.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.aargh.top",
+        "count": "11",
+        "first_seen": "2023-06-17 14:42:39",
+        "last_seen": "2023-07-11 15:37:30",
+        "ip_address": "2606:4700:3031::ac43:c90e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.aargh.top",
+        "count": "11",
+        "first_seen": "2023-06-17 14:42:39",
+        "last_seen": "2023-07-11 15:37:30",
+        "ip_address": "2606:4700:3034::6815:4cd1",
+        "type": "IPv6"
+    }
+]

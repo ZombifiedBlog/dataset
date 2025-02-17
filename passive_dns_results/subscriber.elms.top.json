@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.elms.top",
+        "count": "454",
+        "first_seen": "2023-06-15 12:13:32",
+        "last_seen": "2023-07-26 11:14:02",
+        "ip_address": "104.21.72.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.elms.top",
+        "count": "454",
+        "first_seen": "2023-06-15 12:13:32",
+        "last_seen": "2023-07-26 11:14:02",
+        "ip_address": "172.67.174.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.elms.top",
+        "count": "2",
+        "first_seen": "2023-06-27 17:38:50",
+        "last_seen": "2023-06-27 17:38:50",
+        "ip_address": "160.251.56.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.elms.top",
+        "count": "15",
+        "first_seen": "2023-06-17 14:08:08",
+        "last_seen": "2023-07-16 12:58:41",
+        "ip_address": "2606:4700:3030::ac43:ae1f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.elms.top",
+        "count": "15",
+        "first_seen": "2023-06-17 14:08:08",
+        "last_seen": "2023-07-16 12:58:41",
+        "ip_address": "2606:4700:3036::6815:4818",
+        "type": "IPv6"
+    }
+]

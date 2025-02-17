@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "account-amazon.live",
+        "count": "13",
+        "first_seen": "2021-06-29 19:06:39",
+        "last_seen": "2021-08-04 12:06:24",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "account-amazon.live",
+        "count": "111",
+        "first_seen": "2020-06-24 05:30:07",
+        "last_seen": "2021-06-26 14:11:39",
+        "ip_address": "107.167.2.158",
+        "type": "IPv4"
+    }
+]

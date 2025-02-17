@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "security-subscriber-center.juL2018.com",
+        "count": "125",
+        "first_seen": "2022-12-31 08:06:29",
+        "last_seen": "2023-01-26 10:39:32",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.juL2018.com",
+        "count": "5004",
+        "first_seen": "2022-10-01 23:23:33",
+        "last_seen": "2022-12-31 06:14:46",
+        "ip_address": "104.21.77.161",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.juL2018.com",
+        "count": "5004",
+        "first_seen": "2022-10-01 23:23:33",
+        "last_seen": "2022-12-31 06:14:46",
+        "ip_address": "172.67.209.241",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.juL2018.com",
+        "count": "294",
+        "first_seen": "2022-10-07 12:52:16",
+        "last_seen": "2022-12-29 01:13:29",
+        "ip_address": "2606:4700:3032::6815:4da1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "security-subscriber-center.juL2018.com",
+        "count": "294",
+        "first_seen": "2022-10-07 12:52:16",
+        "last_seen": "2022-12-29 01:13:29",
+        "ip_address": "2606:4700:3033::ac43:d1f1",
+        "type": "IPv6"
+    }
+]

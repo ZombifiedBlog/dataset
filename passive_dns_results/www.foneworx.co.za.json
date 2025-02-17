@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.foneworx.co.za",
+        "count": "19",
+        "first_seen": "2023-07-13 19:58:17",
+        "last_seen": "2023-07-14 08:58:16",
+        "ip_address": "102.217.40.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.foneworx.co.za",
+        "count": "6712",
+        "first_seen": "2023-07-14 09:58:17",
+        "last_seen": "2024-01-18 13:02:02",
+        "ip_address": "102.217.40.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.foneworx.co.za",
+        "count": "2",
+        "first_seen": "2020-09-09 06:01:03",
+        "last_seen": "2020-09-09 06:01:03",
+        "ip_address": "196.22.195.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.foneworx.co.za",
+        "count": "10151",
+        "first_seen": "2022-07-11 18:51:23",
+        "last_seen": "2023-07-13 18:58:17",
+        "ip_address": "196.22.212.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.foneworx.co.za",
+        "count": "7",
+        "first_seen": "2020-09-15 19:34:06",
+        "last_seen": "2020-09-16 19:06:11",
+        "ip_address": "196.41.214.99",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.foneworx.co.za",
+        "count": "37",
+        "first_seen": "2010-09-01 20:24:59",
+        "last_seen": "2011-02-28 01:51:43",
+        "ip_address": "196.41.214.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.foneworx.co.za",
+        "count": "37275",
+        "first_seen": "2011-03-07 18:50:00",
+        "last_seen": "2022-07-11 17:51:23",
+        "ip_address": "196.41.214.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.foneworx.co.za",
+        "count": "2",
+        "first_seen": "2021-01-07 09:59:14",
+        "last_seen": "2021-01-07 10:26:05",
+        "ip_address": "216.236.185.235",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazonaszoz.xyz",
+        "count": "20",
+        "first_seen": "2021-09-02 13:10:38",
+        "last_seen": "2021-09-10 11:16:20",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonaszoz.xyz",
+        "count": "19",
+        "first_seen": "2020-09-01 23:48:41",
+        "last_seen": "2020-09-03 16:06:04",
+        "ip_address": "173.82.57.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonaszoz.xyz",
+        "count": "4",
+        "first_seen": "2020-09-05 07:20:57",
+        "last_seen": "2020-09-06 16:49:30",
+        "ip_address": "173.82.57.163",
+        "type": "IPv4"
+    }
+]

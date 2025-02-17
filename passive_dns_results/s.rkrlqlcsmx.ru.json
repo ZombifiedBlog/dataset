@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "s.rkrlqlcsmx.ru",
+        "count": "1",
+        "first_seen": "2023-12-08 10:50:14",
+        "last_seen": "2023-12-08 10:50:14",
+        "ip_address": "31.177.76.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "s.rkrlqlcsmx.ru",
+        "count": "1",
+        "first_seen": "2023-12-08 10:50:14",
+        "last_seen": "2023-12-08 10:50:14",
+        "ip_address": "31.177.80.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "s.rkrlqlcsmx.ru",
+        "count": "509",
+        "first_seen": "2023-05-19 02:11:08",
+        "last_seen": "2023-12-03 06:58:34",
+        "ip_address": "104.21.79.142",
+        "type": "IPv4"
+    },
+    {
+        "domain": "s.rkrlqlcsmx.ru",
+        "count": "509",
+        "first_seen": "2023-05-19 02:11:08",
+        "last_seen": "2023-12-03 06:58:34",
+        "ip_address": "172.67.146.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "s.rkrlqlcsmx.ru",
+        "count": "16",
+        "first_seen": "2023-05-19 02:55:15",
+        "last_seen": "2023-07-23 21:50:50",
+        "ip_address": "2606:4700:3031::6815:4f8e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "s.rkrlqlcsmx.ru",
+        "count": "16",
+        "first_seen": "2023-05-19 02:55:15",
+        "last_seen": "2023-07-23 21:50:50",
+        "ip_address": "2606:4700:3037::ac43:920f",
+        "type": "IPv6"
+    }
+]

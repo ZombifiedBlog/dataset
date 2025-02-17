@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "subscriber.sziracon2017.com",
+        "count": "1",
+        "first_seen": "2023-05-03 08:00:29",
+        "last_seen": "2023-05-03 08:00:29",
+        "ip_address": "45.207.110.202",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sziracon2017.com",
+        "count": "85",
+        "first_seen": "2022-08-24 13:54:35",
+        "last_seen": "2022-09-25 16:49:13",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sziracon2017.com",
+        "count": "5575",
+        "first_seen": "2022-06-07 17:32:21",
+        "last_seen": "2022-08-23 13:53:09",
+        "ip_address": "104.21.81.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sziracon2017.com",
+        "count": "5575",
+        "first_seen": "2022-06-07 17:32:21",
+        "last_seen": "2022-08-23 13:53:09",
+        "ip_address": "172.67.192.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sziracon2017.com",
+        "count": "1",
+        "first_seen": "2023-03-25 22:40:45",
+        "last_seen": "2023-03-25 22:40:45",
+        "ip_address": "154.92.43.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sziracon2017.com",
+        "count": "23",
+        "first_seen": "2023-09-21 19:59:44",
+        "last_seen": "2023-11-06 01:22:33",
+        "ip_address": "154.214.90.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sziracon2017.com",
+        "count": "42",
+        "first_seen": "2022-11-30 03:26:07",
+        "last_seen": "2023-03-18 17:22:33",
+        "ip_address": "154.216.38.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sziracon2017.com",
+        "count": "119",
+        "first_seen": "2022-06-07 23:42:15",
+        "last_seen": "2022-08-22 14:59:33",
+        "ip_address": "2606:4700:3031::6815:51fe",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.sziracon2017.com",
+        "count": "119",
+        "first_seen": "2022-06-07 23:42:15",
+        "last_seen": "2022-08-22 14:59:33",
+        "ip_address": "2606:4700:3037::ac43:c069",
+        "type": "IPv6"
+    }
+]

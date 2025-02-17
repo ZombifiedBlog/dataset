@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "rutenlongger4.com",
+        "count": "18",
+        "first_seen": "2021-05-13 17:45:23",
+        "last_seen": "2021-10-05 01:24:07",
+        "ip_address": "99.83.154.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rutenlongger4.com",
+        "count": "9",
+        "first_seen": "2020-09-10 23:02:15",
+        "last_seen": "2020-09-25 13:06:11",
+        "ip_address": "104.27.138.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rutenlongger4.com",
+        "count": "9",
+        "first_seen": "2020-09-10 23:02:15",
+        "last_seen": "2020-09-25 13:06:11",
+        "ip_address": "104.27.139.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rutenlongger4.com",
+        "count": "9",
+        "first_seen": "2020-09-10 23:02:15",
+        "last_seen": "2020-09-25 13:06:11",
+        "ip_address": "172.67.215.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rutenlongger4.com",
+        "count": "46",
+        "first_seen": "2020-09-26 22:02:17",
+        "last_seen": "2021-03-05 11:11:10",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rutenlongger4.com",
+        "count": "46",
+        "first_seen": "2020-09-26 22:02:17",
+        "last_seen": "2021-03-05 11:11:10",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rutenlongger4.com",
+        "count": "46",
+        "first_seen": "2020-09-26 22:02:17",
+        "last_seen": "2021-03-05 11:11:10",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rutenlongger4.com",
+        "count": "46",
+        "first_seen": "2020-09-26 22:02:17",
+        "last_seen": "2021-03-05 11:11:10",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rutenlongger4.com",
+        "count": "5",
+        "first_seen": "2020-09-10 10:12:58",
+        "last_seen": "2020-09-10 23:02:55",
+        "ip_address": "2606:4700:3034::681b:8b25",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rutenlongger4.com",
+        "count": "5",
+        "first_seen": "2020-09-10 10:12:58",
+        "last_seen": "2020-09-10 23:02:55",
+        "ip_address": "2606:4700:3036::681b:8a25",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rutenlongger4.com",
+        "count": "5",
+        "first_seen": "2020-09-10 10:12:58",
+        "last_seen": "2020-09-10 23:02:55",
+        "ip_address": "2606:4700:3036::ac43:d7c0",
+        "type": "IPv6"
+    }
+]

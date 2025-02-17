@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "obsession.hu",
+        "count": "7",
+        "first_seen": "2013-03-13 17:13:25",
+        "last_seen": "2013-05-20 04:57:24",
+        "ip_address": "5.9.88.131",
+        "type": "IPv4"
+    },
+    {
+        "domain": "obsession.hu",
+        "count": "1",
+        "first_seen": "2011-05-02 10:49:52",
+        "last_seen": "2011-05-02 10:49:52",
+        "ip_address": "66.197.150.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "obsession.hu",
+        "count": "58",
+        "first_seen": "2015-03-15 12:14:21",
+        "last_seen": "2016-02-14 01:56:18",
+        "ip_address": "80.249.163.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "obsession.hu",
+        "count": "7",
+        "first_seen": "2016-03-21 22:47:25",
+        "last_seen": "2016-04-14 17:50:56",
+        "ip_address": "185.33.54.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "obsession.hu",
+        "count": "3204",
+        "first_seen": "2016-07-04 16:23:59",
+        "last_seen": "2024-01-16 12:48:02",
+        "ip_address": "185.33.54.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "obsession.hu",
+        "count": "302",
+        "first_seen": "2018-06-14 07:59:03",
+        "last_seen": "2022-03-14 04:46:50",
+        "ip_address": "2a00:c760:83:def:aced:fff0:0:5fc",
+        "type": "IPv6"
+    }
+]

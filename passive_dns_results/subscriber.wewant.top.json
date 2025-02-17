@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.wewant.top",
+        "count": "4",
+        "first_seen": "2023-10-02 20:55:41",
+        "last_seen": "2023-11-22 15:11:27",
+        "ip_address": "45.120.206.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.wewant.top",
+        "count": "93",
+        "first_seen": "2023-05-24 03:03:35",
+        "last_seen": "2023-06-10 11:43:31",
+        "ip_address": "49.51.77.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.wewant.top",
+        "count": "3553",
+        "first_seen": "2023-02-02 18:21:44",
+        "last_seen": "2023-05-24 04:33:21",
+        "ip_address": "104.21.54.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.wewant.top",
+        "count": "3553",
+        "first_seen": "2023-02-02 18:21:44",
+        "last_seen": "2023-05-24 04:33:21",
+        "ip_address": "172.67.141.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.wewant.top",
+        "count": "96",
+        "first_seen": "2023-02-02 21:01:15",
+        "last_seen": "2023-05-23 06:03:14",
+        "ip_address": "2606:4700:3035::ac43:8d05",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.wewant.top",
+        "count": "96",
+        "first_seen": "2023-02-02 21:01:15",
+        "last_seen": "2023-05-23 06:03:14",
+        "ip_address": "2606:4700:3036::6815:36b4",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.apple.jp.ooc.ag",
+        "count": "376",
+        "first_seen": "2020-10-15 01:34:22",
+        "last_seen": "2020-10-21 00:06:00",
+        "ip_address": "13.67.73.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.apple.jp.ooc.ag",
+        "count": "5",
+        "first_seen": "2020-11-12 03:18:05",
+        "last_seen": "2021-02-07 17:11:34",
+        "ip_address": "128.14.142.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.apple.jp.ooc.ag",
+        "count": "10",
+        "first_seen": "2020-10-22 10:22:27",
+        "last_seen": "2020-10-31 11:57:58",
+        "ip_address": "128.14.142.222",
+        "type": "IPv4"
+    }
+]

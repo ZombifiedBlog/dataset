@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www-jaccs-co-jp.mylovetravel.top",
+        "count": "163",
+        "first_seen": "2021-08-10 14:42:36",
+        "last_seen": "2021-08-12 20:58:39",
+        "ip_address": "104.21.82.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.mylovetravel.top",
+        "count": "163",
+        "first_seen": "2021-08-10 14:42:36",
+        "last_seen": "2021-08-12 20:58:39",
+        "ip_address": "172.67.164.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.mylovetravel.top",
+        "count": "131",
+        "first_seen": "2021-08-10 15:29:27",
+        "last_seen": "2021-08-10 22:57:09",
+        "ip_address": "172.64.96.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.mylovetravel.top",
+        "count": "131",
+        "first_seen": "2021-08-10 15:29:27",
+        "last_seen": "2021-08-10 22:57:09",
+        "ip_address": "172.64.97.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.mylovetravel.top",
+        "count": "8",
+        "first_seen": "2021-08-10 17:23:05",
+        "last_seen": "2021-08-10 22:39:21",
+        "ip_address": "2606:4700:e0::ac40:601b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.mylovetravel.top",
+        "count": "8",
+        "first_seen": "2021-08-10 17:23:05",
+        "last_seen": "2021-08-10 22:39:21",
+        "ip_address": "2606:4700:e0::ac40:611b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.mylovetravel.top",
+        "count": "8",
+        "first_seen": "2021-08-10 14:42:36",
+        "last_seen": "2021-08-12 06:46:10",
+        "ip_address": "2606:4700:3032::6815:52dc",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.mylovetravel.top",
+        "count": "8",
+        "first_seen": "2021-08-10 14:42:36",
+        "last_seen": "2021-08-12 06:46:10",
+        "ip_address": "2606:4700:3036::ac43:a446",
+        "type": "IPv6"
+    }
+]

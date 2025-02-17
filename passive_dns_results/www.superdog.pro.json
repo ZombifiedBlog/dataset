@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.superdog.pro",
+        "count": "30",
+        "first_seen": "2016-02-04 15:43:28",
+        "last_seen": "2016-04-03 23:42:09",
+        "ip_address": "80.78.250.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.superdog.pro",
+        "count": "329",
+        "first_seen": "2016-04-24 17:35:55",
+        "last_seen": "2017-05-25 22:20:41",
+        "ip_address": "80.78.250.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.superdog.pro",
+        "count": "45",
+        "first_seen": "2016-10-17 06:56:13",
+        "last_seen": "2017-05-25 22:20:41",
+        "ip_address": "2a03:4900:0:6037:80:78:250:177",
+        "type": "IPv6"
+    }
+]

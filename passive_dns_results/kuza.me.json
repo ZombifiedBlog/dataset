@@ -1,0 +1,538 @@
+[
+    {
+        "domain": "kuza.me",
+        "count": "2",
+        "first_seen": "2018-03-06 11:50:27",
+        "last_seen": "2018-03-06 11:50:27",
+        "ip_address": "50.63.202.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "3",
+        "first_seen": "2018-02-06 08:16:52",
+        "last_seen": "2018-02-06 08:16:55",
+        "ip_address": "50.63.202.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "9",
+        "first_seen": "2018-02-05 11:58:41",
+        "last_seen": "2018-02-16 04:31:44",
+        "ip_address": "50.63.202.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "2",
+        "first_seen": "2018-04-03 13:05:59",
+        "last_seen": "2018-04-03 13:05:59",
+        "ip_address": "50.63.202.68",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "2",
+        "first_seen": "2018-04-06 03:05:02",
+        "last_seen": "2018-04-06 03:05:02",
+        "ip_address": "50.63.202.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "2",
+        "first_seen": "2018-04-03 13:05:59",
+        "last_seen": "2018-04-11 00:47:59",
+        "ip_address": "50.63.202.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "11",
+        "first_seen": "2023-08-17 17:10:08",
+        "last_seen": "2024-01-15 08:49:31",
+        "ip_address": "64.91.240.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "6",
+        "first_seen": "2023-07-21 12:25:07",
+        "last_seen": "2023-08-15 08:11:13",
+        "ip_address": "67.227.226.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "27",
+        "first_seen": "2021-06-08 02:55:51",
+        "last_seen": "2023-07-07 09:15:19",
+        "ip_address": "91.195.240.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "627",
+        "first_seen": "2020-06-06 21:28:54",
+        "last_seen": "2021-01-14 11:01:11",
+        "ip_address": "104.18.32.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "627",
+        "first_seen": "2020-06-06 21:28:54",
+        "last_seen": "2021-01-14 11:01:11",
+        "ip_address": "104.18.33.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "627",
+        "first_seen": "2020-06-06 21:28:54",
+        "last_seen": "2021-01-14 11:01:11",
+        "ip_address": "172.67.209.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "4205",
+        "first_seen": "2021-01-15 05:26:48",
+        "last_seen": "2023-06-06 07:21:56",
+        "ip_address": "104.21.37.143",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "4205",
+        "first_seen": "2021-01-15 05:26:48",
+        "last_seen": "2023-06-06 07:21:56",
+        "ip_address": "172.67.209.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "2",
+        "first_seen": "2020-11-26 05:33:26",
+        "last_seen": "2020-11-26 05:33:26",
+        "ip_address": "172.64.81.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "1",
+        "first_seen": "2021-02-19 17:51:15",
+        "last_seen": "2021-02-19 17:51:15",
+        "ip_address": "172.64.81.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "1",
+        "first_seen": "2021-01-31 12:56:26",
+        "last_seen": "2021-01-31 12:56:26",
+        "ip_address": "172.64.81.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "2",
+        "first_seen": "2020-11-27 02:55:23",
+        "last_seen": "2020-11-27 02:55:23",
+        "ip_address": "172.64.82.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "2",
+        "first_seen": "2020-11-30 05:41:18",
+        "last_seen": "2020-11-30 05:41:18",
+        "ip_address": "172.64.92.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "2",
+        "first_seen": "2018-02-13 11:32:17",
+        "last_seen": "2018-02-13 11:32:17",
+        "ip_address": "184.168.221.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "5",
+        "first_seen": "2018-02-06 08:16:52",
+        "last_seen": "2018-02-22 03:19:33",
+        "ip_address": "184.168.221.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "3",
+        "first_seen": "2018-02-23 04:24:18",
+        "last_seen": "2018-03-02 04:24:55",
+        "ip_address": "184.168.221.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "3",
+        "first_seen": "2018-02-06 08:16:51",
+        "last_seen": "2018-02-06 08:16:54",
+        "ip_address": "184.168.221.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "2",
+        "first_seen": "2018-03-08 20:06:02",
+        "last_seen": "2018-03-08 20:06:02",
+        "ip_address": "184.168.221.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "2",
+        "first_seen": "2018-03-16 03:30:48",
+        "last_seen": "2018-03-16 03:30:48",
+        "ip_address": "184.168.221.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "5",
+        "first_seen": "2018-03-09 04:29:58",
+        "last_seen": "2018-03-13 00:56:55",
+        "ip_address": "184.168.221.81",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "3",
+        "first_seen": "2018-03-30 03:12:32",
+        "last_seen": "2018-04-13 03:20:53",
+        "ip_address": "184.168.221.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "2",
+        "first_seen": "2018-03-23 03:30:22",
+        "last_seen": "2018-03-23 03:30:22",
+        "ip_address": "184.168.221.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "2",
+        "first_seen": "2018-03-13 00:56:54",
+        "last_seen": "2018-03-13 00:56:54",
+        "ip_address": "184.168.221.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "6",
+        "first_seen": "2018-03-09 11:51:03",
+        "last_seen": "2018-03-23 00:43:57",
+        "ip_address": "184.168.221.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "3",
+        "first_seen": "2022-10-21 15:46:04",
+        "last_seen": "2022-11-28 10:45:50",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "3",
+        "first_seen": "2022-10-21 15:46:04",
+        "last_seen": "2022-11-28 10:45:50",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "80",
+        "first_seen": "2022-06-26 15:42:32",
+        "last_seen": "2023-05-13 17:09:55",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "80",
+        "first_seen": "2022-06-26 15:42:32",
+        "last_seen": "2023-05-13 17:09:55",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "40",
+        "first_seen": "2022-06-26 22:28:57",
+        "last_seen": "2023-05-30 03:42:42",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "40",
+        "first_seen": "2022-06-26 22:28:57",
+        "last_seen": "2023-05-30 03:42:42",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "9",
+        "first_seen": "2022-03-05 22:49:42",
+        "last_seen": "2023-05-09 12:08:14",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "9",
+        "first_seen": "2022-03-05 22:49:42",
+        "last_seen": "2023-05-09 12:08:14",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "1",
+        "first_seen": "2022-04-18 05:08:27",
+        "last_seen": "2022-04-18 05:08:27",
+        "ip_address": "188.114.96.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "1",
+        "first_seen": "2022-04-18 05:08:27",
+        "last_seen": "2022-04-18 05:08:27",
+        "ip_address": "188.114.97.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "101",
+        "first_seen": "2022-09-27 14:45:54",
+        "last_seen": "2022-11-14 20:23:56",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "101",
+        "first_seen": "2022-09-27 14:45:54",
+        "last_seen": "2022-11-14 20:23:56",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "1",
+        "first_seen": "2022-02-20 08:17:22",
+        "last_seen": "2022-02-20 08:17:22",
+        "ip_address": "188.114.96.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "1",
+        "first_seen": "2022-02-20 08:17:22",
+        "last_seen": "2022-02-20 08:17:22",
+        "ip_address": "188.114.97.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "4",
+        "first_seen": "2022-03-08 19:16:29",
+        "last_seen": "2022-04-07 01:07:26",
+        "ip_address": "188.114.96.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "4",
+        "first_seen": "2022-03-08 19:16:29",
+        "last_seen": "2022-04-07 01:07:26",
+        "ip_address": "188.114.97.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "284",
+        "first_seen": "2015-06-11 09:13:00",
+        "last_seen": "2018-01-26 04:09:38",
+        "ip_address": "196.40.97.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "1",
+        "first_seen": "2021-02-19 17:51:15",
+        "last_seen": "2021-02-19 17:51:15",
+        "ip_address": "2606:4700:139:18b3:3685:37ca:361:ba45",
+        "type": "IPv6"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "553",
+        "first_seen": "2021-01-15 05:26:47",
+        "last_seen": "2023-05-17 16:41:05",
+        "ip_address": "2606:4700:3031::6815:258f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "553",
+        "first_seen": "2021-01-15 05:26:47",
+        "last_seen": "2023-05-17 16:41:05",
+        "ip_address": "2606:4700:3032::ac43:d12b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "159",
+        "first_seen": "2020-06-06 21:28:54",
+        "last_seen": "2021-01-14 15:47:02",
+        "ip_address": "2606:4700:3032::ac43:d12b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "159",
+        "first_seen": "2020-06-06 21:28:54",
+        "last_seen": "2021-01-14 15:47:02",
+        "ip_address": "2606:4700:3033::6812:214d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "159",
+        "first_seen": "2020-06-06 21:28:54",
+        "last_seen": "2021-01-14 15:47:02",
+        "ip_address": "2606:4700:3036::6812:204d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "77",
+        "first_seen": "2022-06-25 22:39:32",
+        "last_seen": "2023-04-07 18:01:11",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "77",
+        "first_seen": "2022-06-25 22:39:32",
+        "last_seen": "2023-04-07 18:01:11",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "3",
+        "first_seen": "2022-06-30 11:34:01",
+        "last_seen": "2022-07-08 16:04:28",
+        "ip_address": "2a06:98c1:3120::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "3",
+        "first_seen": "2022-06-30 11:34:01",
+        "last_seen": "2022-07-08 16:04:28",
+        "ip_address": "2a06:98c1:3121::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "8",
+        "first_seen": "2022-02-13 18:33:13",
+        "last_seen": "2023-05-09 12:08:35",
+        "ip_address": "2a06:98c1:3120::7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "8",
+        "first_seen": "2022-02-13 18:33:13",
+        "last_seen": "2023-05-09 12:08:35",
+        "ip_address": "2a06:98c1:3121::7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "1",
+        "first_seen": "2022-04-18 05:08:27",
+        "last_seen": "2022-04-18 05:08:27",
+        "ip_address": "2a06:98c1:3120::8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "1",
+        "first_seen": "2022-04-18 05:08:27",
+        "last_seen": "2022-04-18 05:08:27",
+        "ip_address": "2a06:98c1:3121::8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "45",
+        "first_seen": "2022-09-27 14:45:56",
+        "last_seen": "2022-11-14 20:23:56",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "45",
+        "first_seen": "2022-09-27 14:45:56",
+        "last_seen": "2022-11-14 20:23:56",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "1",
+        "first_seen": "2022-02-20 08:17:22",
+        "last_seen": "2022-02-20 08:17:22",
+        "ip_address": "2a06:98c1:3120::10",
+        "type": "IPv6"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "1",
+        "first_seen": "2022-02-20 08:17:22",
+        "last_seen": "2022-02-20 08:17:22",
+        "ip_address": "2a06:98c1:3121::10",
+        "type": "IPv6"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "2",
+        "first_seen": "2022-03-08 19:16:29",
+        "last_seen": "2022-03-12 05:09:19",
+        "ip_address": "2a06:98c1:3120::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "kuza.me",
+        "count": "2",
+        "first_seen": "2022-03-08 19:16:29",
+        "last_seen": "2022-03-12 05:09:19",
+        "ip_address": "2a06:98c1:3121::16",
+        "type": "IPv6"
+    }
+]

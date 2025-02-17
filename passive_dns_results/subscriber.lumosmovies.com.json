@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscriber.lumosmovies.com",
+        "count": "110",
+        "first_seen": "2022-08-25 13:56:53",
+        "last_seen": "2022-10-01 09:28:04",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lumosmovies.com",
+        "count": "4783",
+        "first_seen": "2022-06-07 17:30:22",
+        "last_seen": "2022-08-04 23:42:45",
+        "ip_address": "104.21.91.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lumosmovies.com",
+        "count": "4783",
+        "first_seen": "2022-06-07 17:30:22",
+        "last_seen": "2022-08-04 23:42:45",
+        "ip_address": "172.67.178.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lumosmovies.com",
+        "count": "1",
+        "first_seen": "2022-06-16 05:32:11",
+        "last_seen": "2022-06-16 05:32:11",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lumosmovies.com",
+        "count": "1",
+        "first_seen": "2022-06-16 05:32:13",
+        "last_seen": "2022-06-16 05:32:13",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.lumosmovies.com",
+        "count": "105",
+        "first_seen": "2022-06-08 11:42:29",
+        "last_seen": "2022-08-04 01:21:07",
+        "ip_address": "2606:4700:3030::6815:5bbd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.lumosmovies.com",
+        "count": "105",
+        "first_seen": "2022-06-08 11:42:29",
+        "last_seen": "2022-08-04 01:21:07",
+        "ip_address": "2606:4700:3037::ac43:b25a",
+        "type": "IPv6"
+    }
+]

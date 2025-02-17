@@ -1,0 +1,234 @@
+[
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "4",
+        "first_seen": "2023-07-07 22:57:57",
+        "last_seen": "2023-10-03 07:01:47",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "6",
+        "first_seen": "2023-10-20 23:01:30",
+        "last_seen": "2024-01-17 16:23:54",
+        "ip_address": "103.224.212.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "52",
+        "first_seen": "2023-02-24 22:49:48",
+        "last_seen": "2023-08-11 22:59:45",
+        "ip_address": "103.224.212.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "3970",
+        "first_seen": "2022-10-01 23:25:04",
+        "last_seen": "2022-12-31 06:09:48",
+        "ip_address": "104.21.89.142",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "3970",
+        "first_seen": "2022-10-01 23:25:04",
+        "last_seen": "2022-12-31 06:09:48",
+        "ip_address": "172.67.161.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "1",
+        "first_seen": "2023-04-14 04:54:46",
+        "last_seen": "2023-04-14 04:54:46",
+        "ip_address": "170.178.168.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "134",
+        "first_seen": "2022-10-12 14:08:02",
+        "last_seen": "2022-10-15 16:28:04",
+        "ip_address": "188.114.96.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "134",
+        "first_seen": "2022-10-12 14:08:02",
+        "last_seen": "2022-10-15 16:28:04",
+        "ip_address": "188.114.97.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "163",
+        "first_seen": "2022-10-02 13:36:33",
+        "last_seen": "2022-12-28 12:54:26",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "163",
+        "first_seen": "2022-10-02 13:36:33",
+        "last_seen": "2022-12-28 12:54:26",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "212",
+        "first_seen": "2022-10-10 15:12:46",
+        "last_seen": "2022-12-28 08:49:00",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "212",
+        "first_seen": "2022-10-10 15:12:46",
+        "last_seen": "2022-12-28 08:49:00",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "13",
+        "first_seen": "2022-10-30 19:33:30",
+        "last_seen": "2022-12-26 00:58:06",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "13",
+        "first_seen": "2022-10-30 19:33:30",
+        "last_seen": "2022-12-26 00:58:06",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "2",
+        "first_seen": "2022-12-02 23:35:22",
+        "last_seen": "2022-12-03 00:28:24",
+        "ip_address": "188.114.96.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "2",
+        "first_seen": "2022-12-02 23:35:22",
+        "last_seen": "2022-12-03 00:28:24",
+        "ip_address": "188.114.97.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "116",
+        "first_seen": "2022-10-08 23:37:35",
+        "last_seen": "2022-12-31 14:01:34",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "116",
+        "first_seen": "2022-10-08 23:37:35",
+        "last_seen": "2022-12-31 14:01:34",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "3",
+        "first_seen": "2023-04-12 14:44:05",
+        "last_seen": "2023-04-14 04:54:46",
+        "ip_address": "199.115.116.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "2",
+        "first_seen": "2023-06-30 15:51:37",
+        "last_seen": "2023-06-30 15:51:37",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "1",
+        "first_seen": "2023-06-30 22:56:54",
+        "last_seen": "2023-06-30 22:56:54",
+        "ip_address": "170.178.183.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "54",
+        "first_seen": "2022-10-07 14:12:48",
+        "last_seen": "2022-12-27 07:56:54",
+        "ip_address": "2606:4700:3033::6815:598e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "54",
+        "first_seen": "2022-10-07 14:12:48",
+        "last_seen": "2022-12-27 07:56:54",
+        "ip_address": "2606:4700:3036::ac43:a118",
+        "type": "IPv6"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "73",
+        "first_seen": "2022-10-09 15:02:30",
+        "last_seen": "2022-12-30 20:51:28",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "73",
+        "first_seen": "2022-10-09 15:02:30",
+        "last_seen": "2022-12-30 20:51:28",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "1",
+        "first_seen": "2022-12-01 12:09:10",
+        "last_seen": "2022-12-01 12:09:10",
+        "ip_address": "2a06:98c1:3120::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "1",
+        "first_seen": "2022-12-01 12:09:10",
+        "last_seen": "2022-12-01 12:09:10",
+        "ip_address": "2a06:98c1:3121::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "56",
+        "first_seen": "2022-10-08 23:37:36",
+        "last_seen": "2022-12-31 14:01:34",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "security-subscriber-center.southernequipmentexchange.com",
+        "count": "56",
+        "first_seen": "2022-10-08 23:37:36",
+        "last_seen": "2022-12-31 14:01:34",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

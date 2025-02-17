@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.gflikeplay.top",
+        "count": "3",
+        "first_seen": "2023-06-10 06:03:39",
+        "last_seen": "2023-06-10 06:21:37",
+        "ip_address": "49.51.77.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gflikeplay.top",
+        "count": "9358",
+        "first_seen": "2023-02-02 18:17:23",
+        "last_seen": "2023-06-02 02:18:30",
+        "ip_address": "104.21.47.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gflikeplay.top",
+        "count": "9358",
+        "first_seen": "2023-02-02 18:17:23",
+        "last_seen": "2023-06-02 02:18:30",
+        "ip_address": "172.67.171.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gflikeplay.top",
+        "count": "286",
+        "first_seen": "2023-02-03 04:54:08",
+        "last_seen": "2023-05-29 15:57:29",
+        "ip_address": "2606:4700:3032::ac43:ab26",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.gflikeplay.top",
+        "count": "286",
+        "first_seen": "2023-02-03 04:54:08",
+        "last_seen": "2023-05-29 15:57:29",
+        "ip_address": "2606:4700:3037::6815:2f81",
+        "type": "IPv6"
+    }
+]

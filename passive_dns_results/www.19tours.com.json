@@ -1,0 +1,114 @@
+[
+    {
+        "domain": "www.19tours.com",
+        "count": "1215",
+        "first_seen": "2020-01-13 14:10:26",
+        "last_seen": "2020-04-19 22:16:14",
+        "ip_address": "104.18.60.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.19tours.com",
+        "count": "1215",
+        "first_seen": "2020-01-13 14:10:26",
+        "last_seen": "2020-04-19 22:16:14",
+        "ip_address": "104.18.61.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.19tours.com",
+        "count": "8",
+        "first_seen": "2020-09-07 18:57:57",
+        "last_seen": "2020-10-12 02:46:50",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.19tours.com",
+        "count": "8",
+        "first_seen": "2020-09-07 18:57:57",
+        "last_seen": "2020-10-12 02:46:50",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.19tours.com",
+        "count": "8",
+        "first_seen": "2020-09-07 18:57:57",
+        "last_seen": "2020-10-12 02:46:50",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.19tours.com",
+        "count": "8",
+        "first_seen": "2020-09-07 18:57:57",
+        "last_seen": "2020-10-12 02:46:50",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.19tours.com",
+        "count": "12",
+        "first_seen": "2020-12-16 12:18:01",
+        "last_seen": "2021-11-27 00:51:54",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.19tours.com",
+        "count": "1",
+        "first_seen": "2021-08-27 02:47:33",
+        "last_seen": "2021-08-27 02:47:33",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.19tours.com",
+        "count": "116",
+        "first_seen": "2020-01-13 14:10:47",
+        "last_seen": "2020-01-15 17:53:12",
+        "ip_address": "2606:4700:30::6812:3c1f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.19tours.com",
+        "count": "116",
+        "first_seen": "2020-01-13 14:10:47",
+        "last_seen": "2020-01-15 17:53:12",
+        "ip_address": "2606:4700:30::6812:3d1f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.19tours.com",
+        "count": "2",
+        "first_seen": "2020-01-16 11:40:54",
+        "last_seen": "2020-01-16 11:40:54",
+        "ip_address": "2606:4700:3031::6812:3c1f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.19tours.com",
+        "count": "2",
+        "first_seen": "2020-01-16 11:40:54",
+        "last_seen": "2020-01-16 11:40:54",
+        "ip_address": "2606:4700:3033::6812:3d1f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.19tours.com",
+        "count": "294",
+        "first_seen": "2020-01-17 18:25:05",
+        "last_seen": "2020-04-19 22:16:14",
+        "ip_address": "2606:4700:3035::6812:3c1f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.19tours.com",
+        "count": "294",
+        "first_seen": "2020-01-17 18:25:05",
+        "last_seen": "2020-04-19 22:16:14",
+        "ip_address": "2606:4700:3035::6812:3d1f",
+        "type": "IPv6"
+    }
+]

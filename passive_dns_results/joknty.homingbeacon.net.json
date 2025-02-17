@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "joknty.homingbeacon.net",
+        "count": "1",
+        "first_seen": "2023-06-09 03:40:55",
+        "last_seen": "2023-06-09 03:40:55",
+        "ip_address": "54.199.197.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "joknty.homingbeacon.net",
+        "count": "9",
+        "first_seen": "2023-06-08 08:34:08",
+        "last_seen": "2023-06-09 01:08:53",
+        "ip_address": "88.210.3.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "joknty.homingbeacon.net",
+        "count": "28",
+        "first_seen": "2023-06-09 10:54:44",
+        "last_seen": "2023-09-29 17:59:38",
+        "ip_address": "198.251.89.214",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "services.chambertin-lifestyle.com",
+        "count": "1103",
+        "first_seen": "2022-11-09 15:31:32",
+        "last_seen": "2022-11-27 18:06:37",
+        "ip_address": "45.61.184.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "services.chambertin-lifestyle.com",
+        "count": "1985",
+        "first_seen": "2022-10-15 07:11:47",
+        "last_seen": "2022-11-03 13:22:51",
+        "ip_address": "45.61.187.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "services.chambertin-lifestyle.com",
+        "count": "101",
+        "first_seen": "2022-11-27 20:10:42",
+        "last_seen": "2022-12-03 00:05:14",
+        "ip_address": "103.120.80.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "services.chambertin-lifestyle.com",
+        "count": "11",
+        "first_seen": "2023-01-30 19:09:44",
+        "last_seen": "2023-02-22 19:01:02",
+        "ip_address": "103.120.80.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "services.chambertin-lifestyle.com",
+        "count": "11",
+        "first_seen": "2023-01-30 19:09:44",
+        "last_seen": "2023-02-22 19:01:02",
+        "ip_address": "103.139.0.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "services.chambertin-lifestyle.com",
+        "count": "212",
+        "first_seen": "2022-11-03 14:38:55",
+        "last_seen": "2022-11-09 15:19:31",
+        "ip_address": "198.98.57.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "services.chambertin-lifestyle.com",
+        "count": "763",
+        "first_seen": "2022-09-16 15:18:33",
+        "last_seen": "2022-10-14 22:04:17",
+        "ip_address": "209.141.41.158",
+        "type": "IPv4"
+    }
+]

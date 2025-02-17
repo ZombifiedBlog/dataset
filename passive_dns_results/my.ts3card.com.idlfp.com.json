@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "my.ts3card.com.idlfp.com",
+        "count": "237",
+        "first_seen": "2022-01-21 12:49:41",
+        "last_seen": "2022-01-24 01:18:10",
+        "ip_address": "0.0.0.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.ts3card.com.idlfp.com",
+        "count": "312",
+        "first_seen": "2022-01-20 16:44:32",
+        "last_seen": "2022-01-21 09:35:20",
+        "ip_address": "104.129.12.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.ts3card.com.idlfp.com",
+        "count": "4",
+        "first_seen": "2022-01-22 19:24:50",
+        "last_seen": "2022-01-22 19:40:39",
+        "ip_address": "::",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "security-subscriber-center.hamptonbush.com",
+        "count": "114",
+        "first_seen": "2022-12-31 08:12:29",
+        "last_seen": "2023-02-05 05:15:23",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.hamptonbush.com",
+        "count": "11",
+        "first_seen": "2023-06-17 22:33:26",
+        "last_seen": "2023-12-16 04:27:10",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.hamptonbush.com",
+        "count": "3",
+        "first_seen": "2023-10-11 09:10:12",
+        "last_seen": "2023-10-18 08:05:06",
+        "ip_address": "103.224.212.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.hamptonbush.com",
+        "count": "32",
+        "first_seen": "2023-04-25 09:29:21",
+        "last_seen": "2023-09-27 08:41:24",
+        "ip_address": "103.224.212.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.hamptonbush.com",
+        "count": "4820",
+        "first_seen": "2022-10-01 23:25:11",
+        "last_seen": "2022-12-31 06:21:36",
+        "ip_address": "104.21.57.161",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.hamptonbush.com",
+        "count": "4820",
+        "first_seen": "2022-10-01 23:25:11",
+        "last_seen": "2022-12-31 06:21:36",
+        "ip_address": "172.67.164.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.hamptonbush.com",
+        "count": "232",
+        "first_seen": "2022-10-07 23:18:19",
+        "last_seen": "2022-12-30 16:13:32",
+        "ip_address": "2606:4700:3031::ac43:a4e6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "security-subscriber-center.hamptonbush.com",
+        "count": "232",
+        "first_seen": "2022-10-07 23:18:19",
+        "last_seen": "2022-12-30 16:13:32",
+        "ip_address": "2606:4700:3034::6815:39a1",
+        "type": "IPv6"
+    }
+]

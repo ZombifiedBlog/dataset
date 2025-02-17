@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "subscriber.yaojiapan.top",
+        "count": "18",
+        "first_seen": "2023-03-24 01:05:09",
+        "last_seen": "2023-09-17 22:05:55",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yaojiapan.top",
+        "count": "113",
+        "first_seen": "2023-03-07 07:06:09",
+        "last_seen": "2023-12-09 21:37:25",
+        "ip_address": "103.224.182.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yaojiapan.top",
+        "count": "2",
+        "first_seen": "2023-03-07 06:25:21",
+        "last_seen": "2023-03-07 06:42:51",
+        "ip_address": "103.224.182.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yaojiapan.top",
+        "count": "2813",
+        "first_seen": "2023-02-02 18:20:54",
+        "last_seen": "2023-03-07 05:49:06",
+        "ip_address": "104.21.42.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yaojiapan.top",
+        "count": "2813",
+        "first_seen": "2023-02-02 18:20:54",
+        "last_seen": "2023-03-07 05:49:06",
+        "ip_address": "172.67.159.64",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yaojiapan.top",
+        "count": "3",
+        "first_seen": "2023-07-03 10:45:10",
+        "last_seen": "2024-01-09 07:21:17",
+        "ip_address": "170.178.183.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yaojiapan.top",
+        "count": "15",
+        "first_seen": "2023-03-24 15:58:03",
+        "last_seen": "2023-04-06 10:18:04",
+        "ip_address": "199.115.116.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yaojiapan.top",
+        "count": "108",
+        "first_seen": "2023-02-02 22:57:43",
+        "last_seen": "2023-03-06 13:02:59",
+        "ip_address": "2606:4700:3031::6815:2a50",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.yaojiapan.top",
+        "count": "108",
+        "first_seen": "2023-02-02 22:57:43",
+        "last_seen": "2023-03-06 13:02:59",
+        "ip_address": "2606:4700:3033::ac43:9f40",
+        "type": "IPv6"
+    }
+]

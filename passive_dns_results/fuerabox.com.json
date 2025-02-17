@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "fuerabox.com",
+        "count": "15",
+        "first_seen": "2021-04-02 14:04:36",
+        "last_seen": "2023-04-03 12:12:36",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fuerabox.com",
+        "count": "719",
+        "first_seen": "2022-04-16 01:52:52",
+        "last_seen": "2023-09-02 00:02:30",
+        "ip_address": "34.102.136.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fuerabox.com",
+        "count": "352",
+        "first_seen": "2018-03-31 20:01:08",
+        "last_seen": "2019-06-13 16:58:59",
+        "ip_address": "43.255.154.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fuerabox.com",
+        "count": "2069",
+        "first_seen": "2019-06-13 18:48:14",
+        "last_seen": "2022-04-15 02:17:42",
+        "ip_address": "148.72.202.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fuerabox.com",
+        "count": "458",
+        "first_seen": "2023-09-05 10:32:16",
+        "last_seen": "2024-01-16 05:08:06",
+        "ip_address": "165.232.179.113",
+        "type": "IPv4"
+    }
+]

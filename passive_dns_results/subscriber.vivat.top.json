@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.vivat.top",
+        "count": "478",
+        "first_seen": "2023-06-15 12:42:18",
+        "last_seen": "2023-07-15 22:12:39",
+        "ip_address": "104.21.76.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.vivat.top",
+        "count": "478",
+        "first_seen": "2023-06-15 12:42:18",
+        "last_seen": "2023-07-15 22:12:39",
+        "ip_address": "172.67.196.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.vivat.top",
+        "count": "2",
+        "first_seen": "2023-12-05 11:35:47",
+        "last_seen": "2023-12-05 11:35:47",
+        "ip_address": "167.88.180.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.vivat.top",
+        "count": "2",
+        "first_seen": "2023-12-19 02:47:50",
+        "last_seen": "2023-12-19 02:47:50",
+        "ip_address": "167.88.180.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.vivat.top",
+        "count": "9",
+        "first_seen": "2023-06-17 14:03:26",
+        "last_seen": "2023-07-11 10:11:43",
+        "ip_address": "2606:4700:3030::6815:4c8c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.vivat.top",
+        "count": "9",
+        "first_seen": "2023-06-17 14:03:26",
+        "last_seen": "2023-07-11 10:11:43",
+        "ip_address": "2606:4700:3035::ac43:c419",
+        "type": "IPv6"
+    }
+]

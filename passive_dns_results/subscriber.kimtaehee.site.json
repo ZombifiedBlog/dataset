@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "subscriber.kimtaehee.site",
+        "count": "10",
+        "first_seen": "2023-11-02 06:51:44",
+        "last_seen": "2023-11-29 21:57:27",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kimtaehee.site",
+        "count": "9",
+        "first_seen": "2023-05-12 05:42:43",
+        "last_seen": "2023-10-05 16:20:26",
+        "ip_address": "58.220.33.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kimtaehee.site",
+        "count": "8",
+        "first_seen": "2021-11-25 11:58:04",
+        "last_seen": "2021-11-27 05:03:34",
+        "ip_address": "104.21.23.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kimtaehee.site",
+        "count": "8",
+        "first_seen": "2021-11-25 11:58:04",
+        "last_seen": "2021-11-27 05:03:34",
+        "ip_address": "172.67.210.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kimtaehee.site",
+        "count": "1",
+        "first_seen": "2021-11-24 17:33:40",
+        "last_seen": "2021-11-24 17:33:40",
+        "ip_address": "188.114.96.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kimtaehee.site",
+        "count": "1",
+        "first_seen": "2021-11-24 17:33:40",
+        "last_seen": "2021-11-24 17:33:40",
+        "ip_address": "188.114.97.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kimtaehee.site",
+        "count": "7",
+        "first_seen": "2021-11-25 11:58:04",
+        "last_seen": "2021-11-26 14:15:05",
+        "ip_address": "2606:4700:3033::6815:1775",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.kimtaehee.site",
+        "count": "7",
+        "first_seen": "2021-11-25 11:58:04",
+        "last_seen": "2021-11-26 14:15:05",
+        "ip_address": "2606:4700:3033::ac43:d2d4",
+        "type": "IPv6"
+    }
+]

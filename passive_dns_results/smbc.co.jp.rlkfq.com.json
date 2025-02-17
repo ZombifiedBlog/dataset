@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "smbc.co.jp.rlkfq.com",
+        "count": "5",
+        "first_seen": "2022-02-10 03:24:38",
+        "last_seen": "2022-02-16 13:28:55",
+        "ip_address": "0.0.0.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.co.jp.rlkfq.com",
+        "count": "725",
+        "first_seen": "2022-02-02 05:28:56",
+        "last_seen": "2022-02-08 11:18:17",
+        "ip_address": "104.129.5.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.co.jp.rlkfq.com",
+        "count": "2",
+        "first_seen": "2022-02-10 03:24:38",
+        "last_seen": "2022-02-14 20:53:29",
+        "ip_address": "::",
+        "type": "IPv6"
+    }
+]

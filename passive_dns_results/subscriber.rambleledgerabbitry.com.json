@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.rambLeLedgerabbitry.com",
+        "count": "1",
+        "first_seen": "2023-01-25 22:18:45",
+        "last_seen": "2023-01-25 22:18:45",
+        "ip_address": "103.120.80.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.rambLeLedgerabbitry.com",
+        "count": "1",
+        "first_seen": "2023-01-25 22:18:45",
+        "last_seen": "2023-01-25 22:18:45",
+        "ip_address": "103.139.0.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.rambLeLedgerabbitry.com",
+        "count": "2812",
+        "first_seen": "2022-11-19 16:15:13",
+        "last_seen": "2023-01-01 16:57:29",
+        "ip_address": "104.21.3.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.rambLeLedgerabbitry.com",
+        "count": "2812",
+        "first_seen": "2022-11-19 16:15:13",
+        "last_seen": "2023-01-01 16:57:29",
+        "ip_address": "172.67.130.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.rambLeLedgerabbitry.com",
+        "count": "126",
+        "first_seen": "2022-11-19 23:27:49",
+        "last_seen": "2022-12-30 15:48:55",
+        "ip_address": "2606:4700:3030::6815:38a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.rambLeLedgerabbitry.com",
+        "count": "126",
+        "first_seen": "2022-11-19 23:27:49",
+        "last_seen": "2022-12-30 15:48:55",
+        "ip_address": "2606:4700:3034::ac43:82c0",
+        "type": "IPv6"
+    }
+]

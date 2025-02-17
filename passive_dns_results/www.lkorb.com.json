@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "www.lkorb.com",
+        "count": "1863",
+        "first_seen": "2020-09-20 03:51:48",
+        "last_seen": "2020-12-29 02:16:40",
+        "ip_address": "104.28.0.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lkorb.com",
+        "count": "1863",
+        "first_seen": "2020-09-20 03:51:48",
+        "last_seen": "2020-12-29 02:16:40",
+        "ip_address": "104.28.1.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lkorb.com",
+        "count": "1863",
+        "first_seen": "2020-09-20 03:51:48",
+        "last_seen": "2020-12-29 02:16:40",
+        "ip_address": "172.67.133.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lkorb.com",
+        "count": "2",
+        "first_seen": "2020-10-01 16:30:13",
+        "last_seen": "2020-10-01 16:30:13",
+        "ip_address": "172.64.86.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lkorb.com",
+        "count": "2",
+        "first_seen": "2020-09-29 05:32:12",
+        "last_seen": "2020-09-29 05:32:12",
+        "ip_address": "172.64.88.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lkorb.com",
+        "count": "2",
+        "first_seen": "2020-11-30 02:23:01",
+        "last_seen": "2020-11-30 02:23:01",
+        "ip_address": "2606:4700:13b:f10c:45d6:6236:926d:f95",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lkorb.com",
+        "count": "850",
+        "first_seen": "2020-09-20 03:51:48",
+        "last_seen": "2020-12-22 21:44:51",
+        "ip_address": "2606:4700:3033::ac43:857b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lkorb.com",
+        "count": "850",
+        "first_seen": "2020-09-20 03:51:48",
+        "last_seen": "2020-12-22 21:44:51",
+        "ip_address": "2606:4700:3034::681c:58",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lkorb.com",
+        "count": "850",
+        "first_seen": "2020-09-20 03:51:48",
+        "last_seen": "2020-12-22 21:44:51",
+        "ip_address": "2606:4700:3035::681c:158",
+        "type": "IPv6"
+    }
+]

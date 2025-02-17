@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "blog.zimbra.com",
+        "count": "1299541",
+        "first_seen": "2020-02-21 16:05:57",
+        "last_seen": "2024-01-18 10:20:28",
+        "ip_address": "23.185.0.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "blog.zimbra.com",
+        "count": "427919",
+        "first_seen": "2020-02-21 16:05:57",
+        "last_seen": "2024-01-18 08:42:52",
+        "ip_address": "2620:12a:8000::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "blog.zimbra.com",
+        "count": "427919",
+        "first_seen": "2020-02-21 16:05:57",
+        "last_seen": "2024-01-18 08:42:52",
+        "ip_address": "2620:12a:8001::4",
+        "type": "IPv6"
+    }
+]

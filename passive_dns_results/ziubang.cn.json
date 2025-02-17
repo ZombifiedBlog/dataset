@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "ziubang.cn",
+        "count": "265",
+        "first_seen": "2018-08-11 08:39:58",
+        "last_seen": "2020-07-23 19:59:04",
+        "ip_address": "23.83.19.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ziubang.cn",
+        "count": "63",
+        "first_seen": "2022-06-26 23:17:29",
+        "last_seen": "2022-07-23 03:04:41",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ziubang.cn",
+        "count": "103",
+        "first_seen": "2021-08-19 18:04:17",
+        "last_seen": "2022-05-21 19:15:14",
+        "ip_address": "76.164.196.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ziubang.cn",
+        "count": "1406",
+        "first_seen": "2022-06-15 11:03:46",
+        "last_seen": "2022-06-25 02:28:24",
+        "ip_address": "104.21.66.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ziubang.cn",
+        "count": "1406",
+        "first_seen": "2022-06-15 11:03:46",
+        "last_seen": "2022-06-25 02:28:24",
+        "ip_address": "172.67.159.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ziubang.cn",
+        "count": "369",
+        "first_seen": "2022-06-12 14:28:42",
+        "last_seen": "2022-06-13 13:05:45",
+        "ip_address": "106.75.6.132",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ziubang.cn",
+        "count": "189",
+        "first_seen": "2022-06-11 08:41:14",
+        "last_seen": "2022-06-12 14:13:58",
+        "ip_address": "106.75.91.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ziubang.cn",
+        "count": "78",
+        "first_seen": "2022-06-14 14:01:38",
+        "last_seen": "2022-06-15 07:37:22",
+        "ip_address": "106.75.100.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ziubang.cn",
+        "count": "501",
+        "first_seen": "2022-06-13 13:21:19",
+        "last_seen": "2022-06-14 09:58:09",
+        "ip_address": "106.75.251.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ziubang.cn",
+        "count": "369",
+        "first_seen": "2022-06-09 09:57:11",
+        "last_seen": "2022-06-11 08:26:34",
+        "ip_address": "113.31.112.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ziubang.cn",
+        "count": "102",
+        "first_seen": "2022-06-15 11:06:00",
+        "last_seen": "2022-06-18 17:55:19",
+        "ip_address": "2606:4700:3032::ac43:9f74",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ziubang.cn",
+        "count": "102",
+        "first_seen": "2022-06-15 11:06:00",
+        "last_seen": "2022-06-18 17:55:19",
+        "ip_address": "2606:4700:3037::6815:4270",
+        "type": "IPv6"
+    }
+]

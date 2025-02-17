@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "google-chrome.dfthu.com",
+        "count": "548",
+        "first_seen": "2019-12-29 11:42:41",
+        "last_seen": "2020-05-26 21:04:54",
+        "ip_address": "104.27.168.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "google-chrome.dfthu.com",
+        "count": "548",
+        "first_seen": "2019-12-29 11:42:41",
+        "last_seen": "2020-05-26 21:04:54",
+        "ip_address": "104.27.169.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "google-chrome.dfthu.com",
+        "count": "10",
+        "first_seen": "2020-05-30 19:20:41",
+        "last_seen": "2020-09-03 14:54:34",
+        "ip_address": "104.27.168.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "google-chrome.dfthu.com",
+        "count": "10",
+        "first_seen": "2020-05-30 19:20:41",
+        "last_seen": "2020-09-03 14:54:34",
+        "ip_address": "104.27.169.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "google-chrome.dfthu.com",
+        "count": "10",
+        "first_seen": "2020-05-30 19:20:41",
+        "last_seen": "2020-09-03 14:54:34",
+        "ip_address": "172.67.207.81",
+        "type": "IPv4"
+    },
+    {
+        "domain": "google-chrome.dfthu.com",
+        "count": "364",
+        "first_seen": "2019-12-29 11:42:41",
+        "last_seen": "2020-01-15 00:19:03",
+        "ip_address": "2606:4700:30::681b:a84d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "google-chrome.dfthu.com",
+        "count": "364",
+        "first_seen": "2019-12-29 11:42:41",
+        "last_seen": "2020-01-15 00:19:03",
+        "ip_address": "2606:4700:30::681b:a94d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "google-chrome.dfthu.com",
+        "count": "10",
+        "first_seen": "2020-05-30 19:20:41",
+        "last_seen": "2020-09-03 14:54:34",
+        "ip_address": "2606:4700:3030::ac43:cf51",
+        "type": "IPv6"
+    },
+    {
+        "domain": "google-chrome.dfthu.com",
+        "count": "10",
+        "first_seen": "2020-05-30 19:20:41",
+        "last_seen": "2020-09-03 14:54:34",
+        "ip_address": "2606:4700:3032::681b:a94d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "google-chrome.dfthu.com",
+        "count": "10",
+        "first_seen": "2020-05-30 19:20:41",
+        "last_seen": "2020-09-03 14:54:34",
+        "ip_address": "2606:4700:3035::681b:a84d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "google-chrome.dfthu.com",
+        "count": "28",
+        "first_seen": "2020-01-26 19:55:34",
+        "last_seen": "2020-05-26 21:04:54",
+        "ip_address": "2606:4700:3032::681b:a94d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "google-chrome.dfthu.com",
+        "count": "28",
+        "first_seen": "2020-01-26 19:55:34",
+        "last_seen": "2020-05-26 21:04:54",
+        "ip_address": "2606:4700:3035::681b:a84d",
+        "type": "IPv6"
+    }
+]

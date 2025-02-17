@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.mkebig.com",
+        "count": "1251",
+        "first_seen": "2017-07-04 06:53:12",
+        "last_seen": "2018-07-05 04:02:07",
+        "ip_address": "104.27.172.238",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mkebig.com",
+        "count": "1251",
+        "first_seen": "2017-07-04 06:53:12",
+        "last_seen": "2018-07-05 04:02:07",
+        "ip_address": "104.27.173.238",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mkebig.com",
+        "count": "258",
+        "first_seen": "2017-07-04 07:10:08",
+        "last_seen": "2018-07-05 04:02:07",
+        "ip_address": "2400:cb00:2048:1::681b:acee",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.mkebig.com",
+        "count": "258",
+        "first_seen": "2017-07-04 07:10:08",
+        "last_seen": "2018-07-05 04:02:07",
+        "ip_address": "2400:cb00:2048:1::681b:adee",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "mczany.com",
+        "count": "17778",
+        "first_seen": "2017-10-07 17:17:13",
+        "last_seen": "2018-11-19 11:25:27",
+        "ip_address": "50.62.25.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mczany.com",
+        "count": "7519",
+        "first_seen": "2010-08-17 02:37:26",
+        "last_seen": "2017-10-04 17:52:54",
+        "ip_address": "97.74.215.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mczany.com",
+        "count": "661",
+        "first_seen": "2021-03-16 06:06:16",
+        "last_seen": "2024-01-14 13:09:14",
+        "ip_address": "112.109.83.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mczany.com",
+        "count": "1150",
+        "first_seen": "2018-11-20 19:44:47",
+        "last_seen": "2021-03-15 13:54:38",
+        "ip_address": "119.47.114.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mczany.com",
+        "count": "4",
+        "first_seen": "2019-08-04 16:26:27",
+        "last_seen": "2019-08-06 17:11:47",
+        "ip_address": "208.91.197.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mczany.com",
+        "count": "36",
+        "first_seen": "2011-08-14 04:09:38",
+        "last_seen": "2012-03-23 19:28:23",
+        "ip_address": "216.139.213.144",
+        "type": "IPv4"
+    }
+]

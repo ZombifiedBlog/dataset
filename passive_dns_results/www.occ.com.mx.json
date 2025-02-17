@@ -1,0 +1,370 @@
+[
+    {
+        "domain": "www.occ.com.mx",
+        "count": "1",
+        "first_seen": "2012-03-28 15:04:44",
+        "last_seen": "2012-03-28 15:04:44",
+        "ip_address": "78.159.101.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "8",
+        "first_seen": "2012-05-30 03:35:52",
+        "last_seen": "2013-04-26 18:28:20",
+        "ip_address": "95.211.9.41",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "1302820",
+        "first_seen": "2010-06-24 19:11:26",
+        "last_seen": "2015-03-31 03:43:23",
+        "ip_address": "97.65.90.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "25716",
+        "first_seen": "2019-10-01 11:01:31",
+        "last_seen": "2019-11-19 21:50:11",
+        "ip_address": "104.17.169.47",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "25716",
+        "first_seen": "2019-10-01 11:01:31",
+        "last_seen": "2019-11-19 21:50:11",
+        "ip_address": "104.17.170.47",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "914583",
+        "first_seen": "2019-11-19 21:54:27",
+        "last_seen": "2024-01-18 07:14:00",
+        "ip_address": "104.18.14.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "914583",
+        "first_seen": "2019-11-19 21:54:27",
+        "last_seen": "2024-01-18 07:14:00",
+        "ip_address": "104.18.15.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "39",
+        "first_seen": "2013-07-05 00:47:01",
+        "last_seen": "2013-09-02 17:55:17",
+        "ip_address": "178.239.48.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "1838",
+        "first_seen": "2022-07-27 20:35:40",
+        "last_seen": "2022-08-17 16:22:58",
+        "ip_address": "188.114.98.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "1838",
+        "first_seen": "2022-07-27 20:35:40",
+        "last_seen": "2022-08-17 16:22:58",
+        "ip_address": "188.114.99.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "6064",
+        "first_seen": "2022-08-17 16:38:36",
+        "last_seen": "2022-10-11 12:05:44",
+        "ip_address": "188.114.98.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "6064",
+        "first_seen": "2022-08-17 16:38:36",
+        "last_seen": "2022-10-11 12:05:44",
+        "ip_address": "188.114.99.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "33331",
+        "first_seen": "2022-10-11 13:11:46",
+        "last_seen": "2023-12-04 11:51:07",
+        "ip_address": "188.114.98.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "33331",
+        "first_seen": "2022-10-11 13:11:46",
+        "last_seen": "2023-12-04 11:51:07",
+        "ip_address": "188.114.99.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "19166",
+        "first_seen": "2023-02-06 15:09:06",
+        "last_seen": "2024-01-17 23:52:15",
+        "ip_address": "188.114.98.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "19166",
+        "first_seen": "2023-02-06 15:09:06",
+        "last_seen": "2024-01-17 23:52:15",
+        "ip_address": "188.114.99.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "305",
+        "first_seen": "2023-01-27 16:04:44",
+        "last_seen": "2023-12-04 11:50:55",
+        "ip_address": "188.114.98.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "305",
+        "first_seen": "2023-01-27 16:04:44",
+        "last_seen": "2023-12-04 11:50:55",
+        "ip_address": "188.114.99.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "4449",
+        "first_seen": "2022-03-10 17:12:48",
+        "last_seen": "2022-05-03 17:19:19",
+        "ip_address": "188.114.99.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "1",
+        "first_seen": "2022-03-27 10:34:36",
+        "last_seen": "2022-03-27 10:34:36",
+        "ip_address": "188.114.99.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "2169",
+        "first_seen": "2022-05-03 17:47:19",
+        "last_seen": "2022-05-26 19:27:38",
+        "ip_address": "188.114.99.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "6",
+        "first_seen": "2022-05-23 01:43:50",
+        "last_seen": "2022-05-23 01:58:12",
+        "ip_address": "188.114.99.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "5641",
+        "first_seen": "2022-05-27 00:14:52",
+        "last_seen": "2022-07-27 21:29:49",
+        "ip_address": "188.114.99.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "9",
+        "first_seen": "2022-07-13 00:29:58",
+        "last_seen": "2022-07-13 01:50:39",
+        "ip_address": "188.114.99.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "88",
+        "first_seen": "2016-01-26 09:12:40",
+        "last_seen": "2016-01-27 20:21:26",
+        "ip_address": "195.22.126.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "2",
+        "first_seen": "2015-03-26 00:53:22",
+        "last_seen": "2015-03-26 00:53:22",
+        "ip_address": "216.84.180.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "94931",
+        "first_seen": "2018-08-29 03:17:39",
+        "last_seen": "2019-10-02 17:24:35",
+        "ip_address": "216.136.116.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "11014",
+        "first_seen": "2019-10-01 11:01:31",
+        "last_seen": "2019-11-19 21:48:15",
+        "ip_address": "2606:4700::6811:a92f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "11014",
+        "first_seen": "2019-10-01 11:01:31",
+        "last_seen": "2019-11-19 21:48:15",
+        "ip_address": "2606:4700::6811:aa2f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "571608",
+        "first_seen": "2019-11-19 21:58:49",
+        "last_seen": "2024-01-18 11:38:53",
+        "ip_address": "2606:4700::6812:ed5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "571608",
+        "first_seen": "2019-11-19 21:58:49",
+        "last_seen": "2024-01-18 11:38:53",
+        "ip_address": "2606:4700::6812:fd5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "396",
+        "first_seen": "2022-03-12 05:12:43",
+        "last_seen": "2022-05-03 03:04:49",
+        "ip_address": "2a06:98c1:3120:8000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "173",
+        "first_seen": "2022-05-03 21:02:10",
+        "last_seen": "2022-05-26 06:46:30",
+        "ip_address": "2a06:98c1:3120:9000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "317",
+        "first_seen": "2022-05-27 08:41:52",
+        "last_seen": "2022-06-27 10:49:54",
+        "ip_address": "2a06:98c1:3120:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "289",
+        "first_seen": "2022-06-27 15:38:58",
+        "last_seen": "2022-07-27 18:14:33",
+        "ip_address": "2a06:98c1:3122:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "109",
+        "first_seen": "2022-07-28 00:27:37",
+        "last_seen": "2022-08-17 15:59:27",
+        "ip_address": "2a06:98c1:3122:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "109",
+        "first_seen": "2022-07-28 00:27:37",
+        "last_seen": "2022-08-17 15:59:27",
+        "ip_address": "2a06:98c1:3123:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "1",
+        "first_seen": "2022-07-13 01:38:21",
+        "last_seen": "2022-07-13 01:38:21",
+        "ip_address": "2a06:98c1:3122:a000::5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "441",
+        "first_seen": "2022-08-17 17:54:28",
+        "last_seen": "2022-10-11 10:39:04",
+        "ip_address": "2a06:98c1:3122:c000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "441",
+        "first_seen": "2022-08-17 17:54:28",
+        "last_seen": "2022-10-11 10:39:04",
+        "ip_address": "2a06:98c1:3123:c000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "2333",
+        "first_seen": "2022-10-11 14:17:01",
+        "last_seen": "2023-12-04 11:50:58",
+        "ip_address": "2a06:98c1:3122:e000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "2333",
+        "first_seen": "2022-10-11 14:17:01",
+        "last_seen": "2023-12-04 11:50:58",
+        "ip_address": "2a06:98c1:3123:e000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "1652",
+        "first_seen": "2023-03-12 04:47:22",
+        "last_seen": "2024-01-18 11:34:25",
+        "ip_address": "2a06:98c1:3122:e000::5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "1652",
+        "first_seen": "2023-03-12 04:47:22",
+        "last_seen": "2024-01-18 11:34:25",
+        "ip_address": "2a06:98c1:3123:e000::5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "31",
+        "first_seen": "2023-08-04 11:41:41",
+        "last_seen": "2023-12-04 11:44:26",
+        "ip_address": "2a06:98c1:3122:e000::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.occ.com.mx",
+        "count": "31",
+        "first_seen": "2023-08-04 11:41:41",
+        "last_seen": "2023-12-04 11:44:26",
+        "ip_address": "2a06:98c1:3123:e000::c",
+        "type": "IPv6"
+    }
+]

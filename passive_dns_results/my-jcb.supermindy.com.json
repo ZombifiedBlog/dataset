@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "my-jcb.supermindy.com",
+        "count": "1",
+        "first_seen": "2024-01-05 11:28:06",
+        "last_seen": "2024-01-05 11:28:06",
+        "ip_address": "3.64.163.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.supermindy.com",
+        "count": "16",
+        "first_seen": "2021-05-02 23:34:00",
+        "last_seen": "2023-11-10 10:13:51",
+        "ip_address": "52.58.78.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.supermindy.com",
+        "count": "54",
+        "first_seen": "2021-02-24 15:33:32",
+        "last_seen": "2021-03-04 14:08:27",
+        "ip_address": "104.21.85.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.supermindy.com",
+        "count": "54",
+        "first_seen": "2021-02-24 15:33:32",
+        "last_seen": "2021-03-04 14:08:27",
+        "ip_address": "172.67.204.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.supermindy.com",
+        "count": "3",
+        "first_seen": "2021-04-02 08:15:00",
+        "last_seen": "2021-04-14 19:35:00",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.supermindy.com",
+        "count": "6",
+        "first_seen": "2024-01-05 11:28:06",
+        "last_seen": "2024-01-05 12:29:12",
+        "ip_address": "3.64.163.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.supermindy.com",
+        "count": "1",
+        "first_seen": "2021-04-02 16:19:33",
+        "last_seen": "2021-04-02 16:19:33",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.supermindy.com",
+        "count": "6",
+        "first_seen": "2021-02-24 15:33:32",
+        "last_seen": "2021-02-24 23:32:02",
+        "ip_address": "2606:4700:3032::ac43:cc3a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.supermindy.com",
+        "count": "6",
+        "first_seen": "2021-02-24 15:33:32",
+        "last_seen": "2021-02-24 23:32:02",
+        "ip_address": "2606:4700:3037::6815:5558",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "img.lzorb.com",
+        "count": "37",
+        "first_seen": "2021-01-15 17:38:43",
+        "last_seen": "2021-02-25 09:05:16",
+        "ip_address": "104.21.88.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lzorb.com",
+        "count": "37",
+        "first_seen": "2021-01-15 17:38:43",
+        "last_seen": "2021-02-25 09:05:16",
+        "ip_address": "172.67.151.139",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lzorb.com",
+        "count": "3136",
+        "first_seen": "2020-10-01 01:59:53",
+        "last_seen": "2021-01-14 19:43:35",
+        "ip_address": "104.27.182.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lzorb.com",
+        "count": "3136",
+        "first_seen": "2020-10-01 01:59:53",
+        "last_seen": "2021-01-14 19:43:35",
+        "ip_address": "104.27.183.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lzorb.com",
+        "count": "3136",
+        "first_seen": "2020-10-01 01:59:53",
+        "last_seen": "2021-01-14 19:43:35",
+        "ip_address": "172.67.151.139",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lzorb.com",
+        "count": "912",
+        "first_seen": "2020-10-01 03:41:47",
+        "last_seen": "2021-01-14 09:21:36",
+        "ip_address": "2606:4700:3033::681b:b7c1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lzorb.com",
+        "count": "912",
+        "first_seen": "2020-10-01 03:41:47",
+        "last_seen": "2021-01-14 09:21:36",
+        "ip_address": "2606:4700:3034::ac43:978b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lzorb.com",
+        "count": "912",
+        "first_seen": "2020-10-01 03:41:47",
+        "last_seen": "2021-01-14 09:21:36",
+        "ip_address": "2606:4700:3036::681b:b6c1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lzorb.com",
+        "count": "19",
+        "first_seen": "2021-01-15 17:38:43",
+        "last_seen": "2021-02-11 08:35:35",
+        "ip_address": "2606:4700:3034::ac43:978b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lzorb.com",
+        "count": "19",
+        "first_seen": "2021-01-15 17:38:43",
+        "last_seen": "2021-02-11 08:35:35",
+        "ip_address": "2606:4700:3036::6815:58ad",
+        "type": "IPv6"
+    }
+]

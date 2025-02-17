@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.lipi.go.id",
+        "count": "399",
+        "first_seen": "2010-06-24 16:03:32",
+        "last_seen": "2012-09-19 06:52:27",
+        "ip_address": "203.160.128.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lipi.go.id",
+        "count": "2",
+        "first_seen": "2015-12-14 10:09:59",
+        "last_seen": "2015-12-14 10:09:59",
+        "ip_address": "192.168.0.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lipi.go.id",
+        "count": "2",
+        "first_seen": "2017-12-20 10:35:37",
+        "last_seen": "2017-12-20 10:35:37",
+        "ip_address": "192.168.0.158",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lipi.go.id",
+        "count": "22578",
+        "first_seen": "2010-06-25 10:39:33",
+        "last_seen": "2016-03-03 13:03:10",
+        "ip_address": "203.160.128.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lipi.go.id",
+        "count": "46016",
+        "first_seen": "2016-03-03 14:39:55",
+        "last_seen": "2023-10-12 23:20:03",
+        "ip_address": "203.160.128.158",
+        "type": "IPv4"
+    }
+]

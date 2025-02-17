@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "security-subscriber-center.high-desert-photo-booth.com",
+        "count": "105",
+        "first_seen": "2022-12-31 08:50:22",
+        "last_seen": "2023-01-27 05:02:08",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.high-desert-photo-booth.com",
+        "count": "4678",
+        "first_seen": "2022-10-01 23:32:08",
+        "last_seen": "2022-12-31 07:33:55",
+        "ip_address": "104.21.58.249",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.high-desert-photo-booth.com",
+        "count": "4678",
+        "first_seen": "2022-10-01 23:32:08",
+        "last_seen": "2022-12-31 07:33:55",
+        "ip_address": "172.67.166.130",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.high-desert-photo-booth.com",
+        "count": "218",
+        "first_seen": "2022-10-08 23:37:44",
+        "last_seen": "2022-12-31 01:43:25",
+        "ip_address": "2606:4700:3032::ac43:a682",
+        "type": "IPv6"
+    },
+    {
+        "domain": "security-subscriber-center.high-desert-photo-booth.com",
+        "count": "218",
+        "first_seen": "2022-10-08 23:37:44",
+        "last_seen": "2022-12-31 01:43:25",
+        "ip_address": "2606:4700:3033::6815:3af9",
+        "type": "IPv6"
+    }
+]

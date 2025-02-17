@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "riggwb.ga",
+        "count": "10",
+        "first_seen": "2023-01-11 01:07:34",
+        "last_seen": "2023-03-22 13:48:18",
+        "ip_address": "195.20.52.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "riggwb.ga",
+        "count": "477",
+        "first_seen": "2022-03-15 08:28:12",
+        "last_seen": "2023-01-05 00:00:53",
+        "ip_address": "104.21.41.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "riggwb.ga",
+        "count": "477",
+        "first_seen": "2022-03-15 08:28:12",
+        "last_seen": "2023-01-05 00:00:53",
+        "ip_address": "172.67.191.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "riggwb.ga",
+        "count": "2",
+        "first_seen": "2022-03-15 06:15:58",
+        "last_seen": "2022-03-15 06:18:00",
+        "ip_address": "155.94.151.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "riggwb.ga",
+        "count": "15",
+        "first_seen": "2022-03-15 12:08:22",
+        "last_seen": "2023-01-04 11:21:37",
+        "ip_address": "2606:4700:3032::6815:2990",
+        "type": "IPv6"
+    },
+    {
+        "domain": "riggwb.ga",
+        "count": "15",
+        "first_seen": "2022-03-15 12:08:22",
+        "last_seen": "2023-01-04 11:21:37",
+        "ip_address": "2606:4700:3032::ac43:bf38",
+        "type": "IPv6"
+    }
+]

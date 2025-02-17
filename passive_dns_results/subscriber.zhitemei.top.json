@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "subscriber.zhitemei.top",
+        "count": "12",
+        "first_seen": "2023-06-09 17:10:16",
+        "last_seen": "2023-06-18 07:26:19",
+        "ip_address": "49.51.77.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.zhitemei.top",
+        "count": "5",
+        "first_seen": "2023-06-25 06:41:12",
+        "last_seen": "2023-07-05 11:40:35",
+        "ip_address": "49.51.79.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.zhitemei.top",
+        "count": "9402",
+        "first_seen": "2023-02-02 18:09:38",
+        "last_seen": "2023-06-03 15:55:57",
+        "ip_address": "104.21.55.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.zhitemei.top",
+        "count": "9402",
+        "first_seen": "2023-02-02 18:09:38",
+        "last_seen": "2023-06-03 15:55:57",
+        "ip_address": "172.67.144.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.zhitemei.top",
+        "count": "1",
+        "first_seen": "2023-04-24 05:00:33",
+        "last_seen": "2023-04-24 05:00:33",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.zhitemei.top",
+        "count": "1",
+        "first_seen": "2023-04-24 05:00:33",
+        "last_seen": "2023-04-24 05:00:33",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.zhitemei.top",
+        "count": "300",
+        "first_seen": "2023-02-02 20:52:58",
+        "last_seen": "2023-06-01 10:27:52",
+        "ip_address": "2606:4700:3034::6815:3719",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.zhitemei.top",
+        "count": "300",
+        "first_seen": "2023-02-02 20:52:58",
+        "last_seen": "2023-06-01 10:27:52",
+        "ip_address": "2606:4700:3034::ac43:9023",
+        "type": "IPv6"
+    }
+]

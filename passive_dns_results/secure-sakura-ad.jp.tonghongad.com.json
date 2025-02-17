@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "secure-sakura-ad.jp.tonghongad.com",
+        "count": "6",
+        "first_seen": "2023-09-25 20:29:34",
+        "last_seen": "2023-09-25 21:24:55",
+        "ip_address": "103.224.182.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "secure-sakura-ad.jp.tonghongad.com",
+        "count": "8035",
+        "first_seen": "2023-10-05 01:19:46",
+        "last_seen": "2024-01-18 14:50:54",
+        "ip_address": "103.224.212.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "secure-sakura-ad.jp.tonghongad.com",
+        "count": "1003",
+        "first_seen": "2023-09-25 21:24:55",
+        "last_seen": "2023-10-05 00:19:03",
+        "ip_address": "103.224.212.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "secure-sakura-ad.jp.tonghongad.com",
+        "count": "9230",
+        "first_seen": "2023-03-18 01:15:16",
+        "last_seen": "2023-04-12 14:12:07",
+        "ip_address": "104.232.75.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "secure-sakura-ad.jp.tonghongad.com",
+        "count": "629",
+        "first_seen": "2023-03-05 07:52:47",
+        "last_seen": "2023-03-12 08:12:28",
+        "ip_address": "155.94.129.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "secure-sakura-ad.jp.tonghongad.com",
+        "count": "766",
+        "first_seen": "2023-03-12 08:35:00",
+        "last_seen": "2023-03-18 00:35:11",
+        "ip_address": "155.94.201.5",
+        "type": "IPv4"
+    }
+]

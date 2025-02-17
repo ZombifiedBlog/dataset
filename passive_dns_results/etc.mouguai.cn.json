@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "etc.mouguai.cn",
+        "count": "12",
+        "first_seen": "2022-12-30 12:27:54",
+        "last_seen": "2023-05-21 23:21:08",
+        "ip_address": "38.239.96.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.mouguai.cn",
+        "count": "24",
+        "first_seen": "2022-03-07 14:09:44",
+        "last_seen": "2022-03-10 05:24:00",
+        "ip_address": "104.129.63.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.mouguai.cn",
+        "count": "2",
+        "first_seen": "2023-06-03 21:01:13",
+        "last_seen": "2023-06-15 02:58:10",
+        "ip_address": "170.106.201.120",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "soumu.live",
+        "count": "3",
+        "first_seen": "2020-10-21 12:16:45",
+        "last_seen": "2020-10-21 12:48:25",
+        "ip_address": "45.79.74.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "soumu.live",
+        "count": "6",
+        "first_seen": "2020-10-21 15:59:51",
+        "last_seen": "2020-10-22 07:23:37",
+        "ip_address": "94.242.58.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "soumu.live",
+        "count": "25",
+        "first_seen": "2021-10-20 14:06:41",
+        "last_seen": "2021-11-25 06:18:14",
+        "ip_address": "99.83.154.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "soumu.live",
+        "count": "8",
+        "first_seen": "2020-10-20 13:09:13",
+        "last_seen": "2020-10-21 11:45:15",
+        "ip_address": "104.28.26.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "soumu.live",
+        "count": "8",
+        "first_seen": "2020-10-20 13:09:13",
+        "last_seen": "2020-10-21 11:45:15",
+        "ip_address": "104.28.27.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "soumu.live",
+        "count": "8",
+        "first_seen": "2020-10-20 13:09:13",
+        "last_seen": "2020-10-21 11:45:15",
+        "ip_address": "172.67.173.237",
+        "type": "IPv4"
+    },
+    {
+        "domain": "soumu.live",
+        "count": "106",
+        "first_seen": "2020-10-22 20:35:55",
+        "last_seen": "2020-10-24 08:56:49",
+        "ip_address": "185.30.233.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "soumu.live",
+        "count": "2",
+        "first_seen": "2020-10-20 13:09:43",
+        "last_seen": "2020-10-20 13:09:43",
+        "ip_address": "2606:4700:3032::ac43:aded",
+        "type": "IPv6"
+    },
+    {
+        "domain": "soumu.live",
+        "count": "2",
+        "first_seen": "2020-10-20 13:09:43",
+        "last_seen": "2020-10-20 13:09:43",
+        "ip_address": "2606:4700:3033::681c:1bc3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "soumu.live",
+        "count": "2",
+        "first_seen": "2020-10-20 13:09:43",
+        "last_seen": "2020-10-20 13:09:43",
+        "ip_address": "2606:4700:3034::681c:1ac3",
+        "type": "IPv6"
+    }
+]

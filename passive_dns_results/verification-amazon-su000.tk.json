@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "verification-amazon-su000.tk",
+        "count": "1",
+        "first_seen": "2021-02-14 13:43:02",
+        "last_seen": "2021-02-14 13:43:02",
+        "ip_address": "195.20.47.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "verification-amazon-su000.tk",
+        "count": "2555",
+        "first_seen": "2020-10-07 09:44:58",
+        "last_seen": "2020-12-30 22:57:43",
+        "ip_address": "23.94.186.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "verification-amazon-su000.tk",
+        "count": "56",
+        "first_seen": "2020-10-05 16:10:19",
+        "last_seen": "2020-10-07 06:46:16",
+        "ip_address": "23.238.48.90",
+        "type": "IPv4"
+    }
+]

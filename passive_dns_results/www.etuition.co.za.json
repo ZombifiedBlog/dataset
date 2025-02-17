@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.etuition.co.za",
+        "count": "1",
+        "first_seen": "2021-06-21 10:37:12",
+        "last_seen": "2021-06-21 10:37:12",
+        "ip_address": "104.21.13.245",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etuition.co.za",
+        "count": "1",
+        "first_seen": "2021-06-21 10:37:12",
+        "last_seen": "2021-06-21 10:37:12",
+        "ip_address": "172.67.133.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etuition.co.za",
+        "count": "2",
+        "first_seen": "2020-10-17 07:09:36",
+        "last_seen": "2020-10-17 07:09:36",
+        "ip_address": "104.28.30.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etuition.co.za",
+        "count": "2",
+        "first_seen": "2020-10-17 07:09:36",
+        "last_seen": "2020-10-17 07:09:36",
+        "ip_address": "104.28.31.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etuition.co.za",
+        "count": "2",
+        "first_seen": "2020-10-17 07:09:36",
+        "last_seen": "2020-10-17 07:09:36",
+        "ip_address": "172.67.133.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etuition.co.za",
+        "count": "2103",
+        "first_seen": "2021-06-21 19:55:33",
+        "last_seen": "2023-12-24 06:02:47",
+        "ip_address": "154.0.165.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etuition.co.za",
+        "count": "2",
+        "first_seen": "2021-06-21 10:09:36",
+        "last_seen": "2021-06-21 10:41:42",
+        "ip_address": "2606:4700:3031::6815:df5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.etuition.co.za",
+        "count": "2",
+        "first_seen": "2021-06-21 10:09:36",
+        "last_seen": "2021-06-21 10:41:42",
+        "ip_address": "2606:4700:3037::ac43:858a",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "nyutamyo.com",
+        "count": "4",
+        "first_seen": "2022-01-21 03:05:24",
+        "last_seen": "2022-02-01 17:28:36",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nyutamyo.com",
+        "count": "78",
+        "first_seen": "2021-02-08 13:52:33",
+        "last_seen": "2021-12-27 15:33:30",
+        "ip_address": "67.227.226.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nyutamyo.com",
+        "count": "8",
+        "first_seen": "2020-12-30 23:44:37",
+        "last_seen": "2021-02-06 06:38:24",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nyutamyo.com",
+        "count": "210",
+        "first_seen": "2020-02-18 19:47:24",
+        "last_seen": "2020-12-22 02:36:29",
+        "ip_address": "103.228.63.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nyutamyo.com",
+        "count": "6",
+        "first_seen": "2019-12-27 16:29:48",
+        "last_seen": "2020-01-04 23:11:17",
+        "ip_address": "150.95.255.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nyutamyo.com",
+        "count": "1",
+        "first_seen": "2021-08-12 02:20:47",
+        "last_seen": "2021-08-12 02:20:47",
+        "ip_address": "2600:3c02::f03c:91ff:fee2:5b0f",
+        "type": "IPv6"
+    }
+]

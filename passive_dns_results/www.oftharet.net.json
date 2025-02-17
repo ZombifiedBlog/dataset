@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "www.oftharet.net",
+        "count": "609",
+        "first_seen": "2020-09-11 11:09:07",
+        "last_seen": "2020-09-13 06:02:21",
+        "ip_address": "104.31.66.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.oftharet.net",
+        "count": "609",
+        "first_seen": "2020-09-11 11:09:07",
+        "last_seen": "2020-09-13 06:02:21",
+        "ip_address": "104.31.67.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.oftharet.net",
+        "count": "609",
+        "first_seen": "2020-09-11 11:09:07",
+        "last_seen": "2020-09-13 06:02:21",
+        "ip_address": "172.67.137.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.oftharet.net",
+        "count": "165",
+        "first_seen": "2020-09-13 10:54:38",
+        "last_seen": "2020-10-24 19:48:13",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.oftharet.net",
+        "count": "165",
+        "first_seen": "2020-09-13 10:54:38",
+        "last_seen": "2020-10-24 19:48:13",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.oftharet.net",
+        "count": "165",
+        "first_seen": "2020-09-13 10:54:38",
+        "last_seen": "2020-10-24 19:48:13",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.oftharet.net",
+        "count": "165",
+        "first_seen": "2020-09-13 10:54:38",
+        "last_seen": "2020-10-24 19:48:13",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.oftharet.net",
+        "count": "274",
+        "first_seen": "2020-09-11 11:09:13",
+        "last_seen": "2020-09-13 06:02:21",
+        "ip_address": "2606:4700:3030::681f:420e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.oftharet.net",
+        "count": "274",
+        "first_seen": "2020-09-11 11:09:13",
+        "last_seen": "2020-09-13 06:02:21",
+        "ip_address": "2606:4700:3033::681f:430e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.oftharet.net",
+        "count": "274",
+        "first_seen": "2020-09-11 11:09:13",
+        "last_seen": "2020-09-13 06:02:21",
+        "ip_address": "2606:4700:3037::ac43:8930",
+        "type": "IPv6"
+    }
+]

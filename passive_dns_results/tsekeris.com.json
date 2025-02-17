@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "tsekeris.com",
+        "count": "1046",
+        "first_seen": "2020-05-03 21:49:56",
+        "last_seen": "2024-01-18 15:50:40",
+        "ip_address": "49.12.68.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tsekeris.com",
+        "count": "203",
+        "first_seen": "2010-07-28 22:20:14",
+        "last_seen": "2013-06-13 06:40:31",
+        "ip_address": "74.200.69.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tsekeris.com",
+        "count": "1242",
+        "first_seen": "2017-05-15 15:00:03",
+        "last_seen": "2020-04-28 23:22:14",
+        "ip_address": "88.99.234.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tsekeris.com",
+        "count": "235",
+        "first_seen": "2017-01-29 01:23:16",
+        "last_seen": "2017-05-11 01:16:47",
+        "ip_address": "88.198.132.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tsekeris.com",
+        "count": "239",
+        "first_seen": "2013-09-13 17:51:48",
+        "last_seen": "2017-01-28 15:23:21",
+        "ip_address": "88.198.162.194",
+        "type": "IPv4"
+    }
+]

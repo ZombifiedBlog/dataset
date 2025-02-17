@@ -1,0 +1,154 @@
+[
+    {
+        "domain": "globalequestria.com",
+        "count": "31",
+        "first_seen": "2015-11-12 03:18:37",
+        "last_seen": "2016-10-14 00:43:12",
+        "ip_address": "5.39.99.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "globalequestria.com",
+        "count": "21",
+        "first_seen": "2016-01-19 15:29:39",
+        "last_seen": "2016-09-26 13:08:50",
+        "ip_address": "5.39.99.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "globalequestria.com",
+        "count": "30",
+        "first_seen": "2015-10-30 12:39:44",
+        "last_seen": "2016-08-26 08:19:35",
+        "ip_address": "5.39.99.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "globalequestria.com",
+        "count": "31",
+        "first_seen": "2015-10-29 03:24:23",
+        "last_seen": "2016-07-07 05:16:02",
+        "ip_address": "5.39.99.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "globalequestria.com",
+        "count": "270",
+        "first_seen": "2023-02-22 19:17:20",
+        "last_seen": "2023-02-28 00:20:10",
+        "ip_address": "38.54.56.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "globalequestria.com",
+        "count": "103",
+        "first_seen": "2022-03-06 12:17:52",
+        "last_seen": "2022-12-30 12:49:07",
+        "ip_address": "45.39.164.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "globalequestria.com",
+        "count": "47856",
+        "first_seen": "2012-01-09 06:41:38",
+        "last_seen": "2015-08-02 13:38:41",
+        "ip_address": "50.28.75.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "globalequestria.com",
+        "count": "1058",
+        "first_seen": "2015-08-02 14:11:15",
+        "last_seen": "2015-09-12 04:21:34",
+        "ip_address": "50.63.202.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "globalequestria.com",
+        "count": "51",
+        "first_seen": "2021-04-30 16:04:31",
+        "last_seen": "2021-11-26 03:39:20",
+        "ip_address": "104.21.85.154",
+        "type": "IPv4"
+    },
+    {
+        "domain": "globalequestria.com",
+        "count": "51",
+        "first_seen": "2021-04-30 16:04:31",
+        "last_seen": "2021-11-26 03:39:20",
+        "ip_address": "172.67.207.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "globalequestria.com",
+        "count": "30",
+        "first_seen": "2020-12-05 17:37:03",
+        "last_seen": "2021-04-04 22:42:59",
+        "ip_address": "154.212.179.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "globalequestria.com",
+        "count": "77",
+        "first_seen": "2015-10-23 02:03:41",
+        "last_seen": "2016-10-20 12:12:53",
+        "ip_address": "167.114.156.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "globalequestria.com",
+        "count": "2",
+        "first_seen": "2015-11-03 14:55:38",
+        "last_seen": "2015-11-03 14:55:38",
+        "ip_address": "184.172.106.42",
+        "type": "IPv4"
+    },
+    {
+        "domain": "globalequestria.com",
+        "count": "176",
+        "first_seen": "2016-10-25 04:11:24",
+        "last_seen": "2018-10-14 22:10:40",
+        "ip_address": "204.11.56.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "globalequestria.com",
+        "count": "19",
+        "first_seen": "2017-08-05 16:09:47",
+        "last_seen": "2017-10-19 21:47:42",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "globalequestria.com",
+        "count": "6943",
+        "first_seen": "2011-08-01 20:31:37",
+        "last_seen": "2012-01-09 03:45:43",
+        "ip_address": "208.67.212.54",
+        "type": "IPv4"
+    },
+    {
+        "domain": "globalequestria.com",
+        "count": "118",
+        "first_seen": "2016-12-06 14:49:20",
+        "last_seen": "2018-11-25 15:48:37",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "globalequestria.com",
+        "count": "17",
+        "first_seen": "2021-04-30 19:06:17",
+        "last_seen": "2021-11-26 03:39:20",
+        "ip_address": "2606:4700:3035::6815:559a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "globalequestria.com",
+        "count": "17",
+        "first_seen": "2021-04-30 19:06:17",
+        "last_seen": "2021-11-26 03:39:20",
+        "ip_address": "2606:4700:3036::ac43:cf50",
+        "type": "IPv6"
+    }
+]

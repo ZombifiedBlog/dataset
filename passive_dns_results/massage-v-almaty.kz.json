@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "massage-v-almaty.kz",
+        "count": "580",
+        "first_seen": "2019-11-12 00:23:06",
+        "last_seen": "2020-03-13 05:24:59",
+        "ip_address": "51.38.158.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "massage-v-almaty.kz",
+        "count": "804",
+        "first_seen": "2019-05-25 11:04:37",
+        "last_seen": "2019-11-11 16:25:09",
+        "ip_address": "51.83.138.72",
+        "type": "IPv4"
+    },
+    {
+        "domain": "massage-v-almaty.kz",
+        "count": "318",
+        "first_seen": "2019-03-14 14:27:52",
+        "last_seen": "2019-05-24 09:44:13",
+        "ip_address": "54.37.237.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "massage-v-almaty.kz",
+        "count": "288",
+        "first_seen": "2017-09-28 16:45:32",
+        "last_seen": "2017-10-29 22:50:57",
+        "ip_address": "77.87.193.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "massage-v-almaty.kz",
+        "count": "3707",
+        "first_seen": "2017-02-05 21:07:49",
+        "last_seen": "2017-09-05 20:33:34",
+        "ip_address": "77.87.194.249",
+        "type": "IPv4"
+    },
+    {
+        "domain": "massage-v-almaty.kz",
+        "count": "3301",
+        "first_seen": "2020-09-01 09:29:16",
+        "last_seen": "2022-08-29 20:57:15",
+        "ip_address": "77.220.207.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "massage-v-almaty.kz",
+        "count": "3925",
+        "first_seen": "2014-10-26 06:49:06",
+        "last_seen": "2016-04-18 23:47:17",
+        "ip_address": "91.201.215.202",
+        "type": "IPv4"
+    },
+    {
+        "domain": "massage-v-almaty.kz",
+        "count": "3348",
+        "first_seen": "2016-04-19 11:42:42",
+        "last_seen": "2017-09-28 10:10:43",
+        "ip_address": "91.201.215.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "massage-v-almaty.kz",
+        "count": "5962",
+        "first_seen": "2017-10-30 06:43:53",
+        "last_seen": "2018-10-24 16:05:22",
+        "ip_address": "195.210.46.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "massage-v-almaty.kz",
+        "count": "2805",
+        "first_seen": "2017-11-30 12:18:52",
+        "last_seen": "2018-10-24 17:56:52",
+        "ip_address": "2a00:5da0:1000::130",
+        "type": "IPv6"
+    }
+]

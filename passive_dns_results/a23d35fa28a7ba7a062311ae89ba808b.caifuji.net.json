@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "a23d35fa28a7ba7a062311ae89ba808b.caifuji.net",
+        "count": "45",
+        "first_seen": "2023-06-05 18:58:23",
+        "last_seen": "2023-06-14 17:45:18",
+        "ip_address": "64.190.63.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "a23d35fa28a7ba7a062311ae89ba808b.caifuji.net",
+        "count": "6",
+        "first_seen": "2023-06-01 08:17:06",
+        "last_seen": "2023-06-03 03:21:37",
+        "ip_address": "104.21.72.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "a23d35fa28a7ba7a062311ae89ba808b.caifuji.net",
+        "count": "6",
+        "first_seen": "2023-06-01 08:17:06",
+        "last_seen": "2023-06-03 03:21:37",
+        "ip_address": "172.67.151.38",
+        "type": "IPv4"
+    }
+]

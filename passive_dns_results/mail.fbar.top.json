@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "mail.fbar.top",
+        "count": "1396",
+        "first_seen": "2017-11-24 18:40:50",
+        "last_seen": "2021-03-28 14:13:00",
+        "ip_address": "31.41.47.231",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.fbar.top",
+        "count": "15",
+        "first_seen": "2018-09-01 15:04:33",
+        "last_seen": "2018-11-30 11:46:25",
+        "ip_address": "104.149.203.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.fbar.top",
+        "count": "1",
+        "first_seen": "2022-07-26 09:45:55",
+        "last_seen": "2022-07-26 09:45:55",
+        "ip_address": "184.168.111.22",
+        "type": "IPv4"
+    }
+]

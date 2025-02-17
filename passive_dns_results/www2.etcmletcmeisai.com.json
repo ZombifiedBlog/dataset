@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www2.etcmletcmeisai.com",
+        "count": "1",
+        "first_seen": "2022-12-18 14:36:41",
+        "last_seen": "2022-12-18 14:36:41",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etcmletcmeisai.com",
+        "count": "10",
+        "first_seen": "2021-12-06 16:15:14",
+        "last_seen": "2021-12-12 02:46:18",
+        "ip_address": "91.206.93.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etcmletcmeisai.com",
+        "count": "185",
+        "first_seen": "2021-11-22 07:15:36",
+        "last_seen": "2021-12-05 02:00:06",
+        "ip_address": "104.21.94.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etcmletcmeisai.com",
+        "count": "185",
+        "first_seen": "2021-11-22 07:15:36",
+        "last_seen": "2021-12-05 02:00:06",
+        "ip_address": "172.67.139.186",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etcmletcmeisai.com",
+        "count": "2",
+        "first_seen": "2021-11-24 18:05:06",
+        "last_seen": "2021-11-24 18:05:06",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etcmletcmeisai.com",
+        "count": "2",
+        "first_seen": "2021-11-24 18:05:06",
+        "last_seen": "2021-11-24 18:05:06",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etcmletcmeisai.com",
+        "count": "4",
+        "first_seen": "2021-11-22 07:18:34",
+        "last_seen": "2021-12-03 04:05:14",
+        "ip_address": "2606:4700:3030::6815:5ec8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www2.etcmletcmeisai.com",
+        "count": "4",
+        "first_seen": "2021-11-22 07:18:34",
+        "last_seen": "2021-12-03 04:05:14",
+        "ip_address": "2606:4700:3031::ac43:8bba",
+        "type": "IPv6"
+    }
+]

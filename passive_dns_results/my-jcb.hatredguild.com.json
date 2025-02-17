@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "my-jcb.hatredguild.com",
+        "count": "2",
+        "first_seen": "2022-04-23 21:03:38",
+        "last_seen": "2022-04-23 21:03:38",
+        "ip_address": "63.143.32.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.hatredguild.com",
+        "count": "9",
+        "first_seen": "2022-05-12 18:06:01",
+        "last_seen": "2022-06-09 07:37:22",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.hatredguild.com",
+        "count": "2",
+        "first_seen": "2021-05-03 17:00:29",
+        "last_seen": "2021-09-05 04:26:11",
+        "ip_address": "103.224.212.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.hatredguild.com",
+        "count": "1094",
+        "first_seen": "2021-02-02 06:41:38",
+        "last_seen": "2021-02-09 17:58:16",
+        "ip_address": "104.21.83.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.hatredguild.com",
+        "count": "1094",
+        "first_seen": "2021-02-02 06:41:38",
+        "last_seen": "2021-02-09 17:58:16",
+        "ip_address": "172.67.223.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.hatredguild.com",
+        "count": "1",
+        "first_seen": "2021-10-23 00:43:08",
+        "last_seen": "2021-10-23 00:43:08",
+        "ip_address": "185.107.56.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.hatredguild.com",
+        "count": "2",
+        "first_seen": "2021-09-22 15:42:03",
+        "last_seen": "2021-11-30 07:32:19",
+        "ip_address": "185.107.56.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.hatredguild.com",
+        "count": "2",
+        "first_seen": "2022-02-12 03:28:09",
+        "last_seen": "2022-04-23 21:03:38",
+        "ip_address": "185.107.56.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.hatredguild.com",
+        "count": "2",
+        "first_seen": "2021-02-16 11:20:17",
+        "last_seen": "2021-03-25 00:10:27",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.hatredguild.com",
+        "count": "2",
+        "first_seen": "2021-05-04 09:16:53",
+        "last_seen": "2021-05-05 02:27:47",
+        "ip_address": "103.224.212.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.hatredguild.com",
+        "count": "7",
+        "first_seen": "2021-02-02 06:45:49",
+        "last_seen": "2021-02-08 18:16:07",
+        "ip_address": "2606:4700:3030::6815:536b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.hatredguild.com",
+        "count": "7",
+        "first_seen": "2021-02-02 06:45:49",
+        "last_seen": "2021-02-08 18:16:07",
+        "ip_address": "2606:4700:3036::ac43:df76",
+        "type": "IPv6"
+    }
+]

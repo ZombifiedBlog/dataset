@@ -1,0 +1,266 @@
+[
+    {
+        "domain": "www.brightermonday.com",
+        "count": "9",
+        "first_seen": "2016-11-09 09:35:58",
+        "last_seen": "2016-11-09 13:06:01",
+        "ip_address": "104.16.107.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "9",
+        "first_seen": "2016-11-09 09:35:58",
+        "last_seen": "2016-11-09 13:06:01",
+        "ip_address": "104.16.108.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "43138",
+        "first_seen": "2016-11-09 13:56:24",
+        "last_seen": "2019-01-30 16:23:25",
+        "ip_address": "104.16.145.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "43138",
+        "first_seen": "2016-11-09 13:56:24",
+        "last_seen": "2019-01-30 16:23:25",
+        "ip_address": "104.16.146.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "43138",
+        "first_seen": "2016-11-09 13:56:24",
+        "last_seen": "2019-01-30 16:23:25",
+        "ip_address": "104.16.147.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "43138",
+        "first_seen": "2016-11-09 13:56:24",
+        "last_seen": "2019-01-30 16:23:25",
+        "ip_address": "104.16.148.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "43138",
+        "first_seen": "2016-11-09 13:56:24",
+        "last_seen": "2019-01-30 16:23:25",
+        "ip_address": "104.16.149.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "154308",
+        "first_seen": "2019-01-30 17:41:37",
+        "last_seen": "2024-01-17 06:14:40",
+        "ip_address": "104.17.37.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "154308",
+        "first_seen": "2019-01-30 17:41:37",
+        "last_seen": "2024-01-17 06:14:40",
+        "ip_address": "104.17.38.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "1",
+        "first_seen": "2019-07-15 13:10:04",
+        "last_seen": "2019-07-15 13:10:04",
+        "ip_address": "104.17.38.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "53171",
+        "first_seen": "2016-02-10 01:03:45",
+        "last_seen": "2016-11-09 09:19:42",
+        "ip_address": "104.20.20.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "53171",
+        "first_seen": "2016-02-10 01:03:45",
+        "last_seen": "2016-11-09 09:19:42",
+        "ip_address": "104.20.21.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "4",
+        "first_seen": "2016-02-10 00:27:42",
+        "last_seen": "2016-02-10 00:31:29",
+        "ip_address": "104.20.57.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "4",
+        "first_seen": "2016-02-10 00:27:42",
+        "last_seen": "2016-02-10 00:31:29",
+        "ip_address": "104.20.58.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "18116",
+        "first_seen": "2015-11-04 14:49:10",
+        "last_seen": "2016-02-10 00:12:20",
+        "ip_address": "104.25.72.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "18116",
+        "first_seen": "2015-11-04 14:49:10",
+        "last_seen": "2016-02-10 00:12:20",
+        "ip_address": "104.25.73.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "2",
+        "first_seen": "2016-11-09 10:26:46",
+        "last_seen": "2016-11-09 10:26:46",
+        "ip_address": "2400:cb00:2048:1::6810:6b1b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "2",
+        "first_seen": "2016-11-09 10:26:46",
+        "last_seen": "2016-11-09 10:26:46",
+        "ip_address": "2400:cb00:2048:1::6810:6c1b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "12324",
+        "first_seen": "2016-11-09 14:20:00",
+        "last_seen": "2018-10-31 16:34:42",
+        "ip_address": "2400:cb00:2048:1::6810:913a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "12324",
+        "first_seen": "2016-11-09 14:20:00",
+        "last_seen": "2018-10-31 16:34:42",
+        "ip_address": "2400:cb00:2048:1::6810:923a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "12324",
+        "first_seen": "2016-11-09 14:20:00",
+        "last_seen": "2018-10-31 16:34:42",
+        "ip_address": "2400:cb00:2048:1::6810:933a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "12324",
+        "first_seen": "2016-11-09 14:20:00",
+        "last_seen": "2018-10-31 16:34:42",
+        "ip_address": "2400:cb00:2048:1::6810:943a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "12324",
+        "first_seen": "2016-11-09 14:20:00",
+        "last_seen": "2018-10-31 16:34:42",
+        "ip_address": "2400:cb00:2048:1::6810:953a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "729",
+        "first_seen": "2016-10-07 01:38:03",
+        "last_seen": "2016-11-09 07:41:34",
+        "ip_address": "2400:cb00:2048:1::6814:1413",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "729",
+        "first_seen": "2016-10-07 01:38:03",
+        "last_seen": "2016-11-09 07:41:34",
+        "ip_address": "2400:cb00:2048:1::6814:1513",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "2020",
+        "first_seen": "2018-10-31 23:15:10",
+        "last_seen": "2019-01-30 16:23:25",
+        "ip_address": "2606:4700::6810:913a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "2020",
+        "first_seen": "2018-10-31 23:15:10",
+        "last_seen": "2019-01-30 16:23:25",
+        "ip_address": "2606:4700::6810:923a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "2020",
+        "first_seen": "2018-10-31 23:15:10",
+        "last_seen": "2019-01-30 16:23:25",
+        "ip_address": "2606:4700::6810:933a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "2020",
+        "first_seen": "2018-10-31 23:15:10",
+        "last_seen": "2019-01-30 16:23:25",
+        "ip_address": "2606:4700::6810:943a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "2020",
+        "first_seen": "2018-10-31 23:15:10",
+        "last_seen": "2019-01-30 16:23:25",
+        "ip_address": "2606:4700::6810:953a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "45936",
+        "first_seen": "2019-01-30 19:04:04",
+        "last_seen": "2024-01-17 06:14:40",
+        "ip_address": "2606:4700::6811:2537",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "45936",
+        "first_seen": "2019-01-30 19:04:04",
+        "last_seen": "2024-01-17 06:14:40",
+        "ip_address": "2606:4700::6811:2637",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.brightermonday.com",
+        "count": "1",
+        "first_seen": "2019-07-15 12:15:16",
+        "last_seen": "2019-07-15 12:15:16",
+        "ip_address": "2606:4700::6811:2637",
+        "type": "IPv6"
+    }
+]

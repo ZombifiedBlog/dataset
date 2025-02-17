@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.aifsxs.top",
+        "count": "11",
+        "first_seen": "2023-08-30 04:46:38",
+        "last_seen": "2023-09-12 05:27:08",
+        "ip_address": "49.51.79.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.aifsxs.top",
+        "count": "10610",
+        "first_seen": "2023-02-02 18:02:35",
+        "last_seen": "2023-08-05 21:08:53",
+        "ip_address": "104.21.55.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.aifsxs.top",
+        "count": "10610",
+        "first_seen": "2023-02-02 18:02:35",
+        "last_seen": "2023-08-05 21:08:53",
+        "ip_address": "172.67.147.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.aifsxs.top",
+        "count": "310",
+        "first_seen": "2023-02-02 19:58:58",
+        "last_seen": "2023-07-21 22:11:09",
+        "ip_address": "2606:4700:3031::ac43:9331",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.aifsxs.top",
+        "count": "310",
+        "first_seen": "2023-02-02 19:58:58",
+        "last_seen": "2023-07-21 22:11:09",
+        "ip_address": "2606:4700:3032::6815:375e",
+        "type": "IPv6"
+    }
+]

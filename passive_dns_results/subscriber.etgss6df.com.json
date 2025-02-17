@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "subscriber.etgss6df.com",
+        "count": "43",
+        "first_seen": "2020-05-14 09:16:41",
+        "last_seen": "2020-05-17 20:47:42",
+        "ip_address": "104.28.0.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.etgss6df.com",
+        "count": "43",
+        "first_seen": "2020-05-14 09:16:41",
+        "last_seen": "2020-05-17 20:47:42",
+        "ip_address": "104.28.1.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.etgss6df.com",
+        "count": "2",
+        "first_seen": "2020-05-30 02:37:36",
+        "last_seen": "2020-05-30 02:37:36",
+        "ip_address": "104.28.0.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.etgss6df.com",
+        "count": "2",
+        "first_seen": "2020-05-30 02:37:36",
+        "last_seen": "2020-05-30 02:37:36",
+        "ip_address": "104.28.1.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.etgss6df.com",
+        "count": "2",
+        "first_seen": "2020-05-30 02:37:36",
+        "last_seen": "2020-05-30 02:37:36",
+        "ip_address": "172.67.190.135",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.etgss6df.com",
+        "count": "29",
+        "first_seen": "2020-03-11 03:09:56",
+        "last_seen": "2020-03-20 07:10:34",
+        "ip_address": "104.28.10.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.etgss6df.com",
+        "count": "29",
+        "first_seen": "2020-03-11 03:09:56",
+        "last_seen": "2020-03-20 07:10:34",
+        "ip_address": "104.28.11.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.etgss6df.com",
+        "count": "26",
+        "first_seen": "2020-05-14 09:16:41",
+        "last_seen": "2020-05-17 20:40:42",
+        "ip_address": "2606:4700:3031::681c:18d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.etgss6df.com",
+        "count": "26",
+        "first_seen": "2020-05-14 09:16:41",
+        "last_seen": "2020-05-17 20:40:42",
+        "ip_address": "2606:4700:3036::681c:8d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.etgss6df.com",
+        "count": "13",
+        "first_seen": "2020-03-12 19:48:41",
+        "last_seen": "2020-03-19 22:01:37",
+        "ip_address": "2606:4700:3036::681c:b07",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.etgss6df.com",
+        "count": "13",
+        "first_seen": "2020-03-12 19:48:41",
+        "last_seen": "2020-03-19 22:01:37",
+        "ip_address": "2606:4700:3037::681c:a07",
+        "type": "IPv6"
+    }
+]

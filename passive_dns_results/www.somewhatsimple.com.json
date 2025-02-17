@@ -1,0 +1,538 @@
+[
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "3",
+        "first_seen": "2019-07-15 14:35:45",
+        "last_seen": "2019-07-15 16:46:40",
+        "ip_address": "104.18.48.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "545845",
+        "first_seen": "2018-12-04 03:38:29",
+        "last_seen": "2020-05-26 20:14:10",
+        "ip_address": "104.18.48.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "545845",
+        "first_seen": "2018-12-04 03:38:29",
+        "last_seen": "2020-05-26 20:14:10",
+        "ip_address": "104.18.49.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "257885",
+        "first_seen": "2020-05-26 20:15:07",
+        "last_seen": "2021-01-14 23:44:38",
+        "ip_address": "104.18.48.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "257885",
+        "first_seen": "2020-05-26 20:15:07",
+        "last_seen": "2021-01-14 23:44:38",
+        "ip_address": "104.18.49.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "257885",
+        "first_seen": "2020-05-26 20:15:07",
+        "last_seen": "2021-01-14 23:44:38",
+        "ip_address": "172.67.172.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "7",
+        "first_seen": "2019-07-15 06:39:16",
+        "last_seen": "2019-07-15 14:40:41",
+        "ip_address": "104.18.49.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "996180",
+        "first_seen": "2021-01-14 23:46:56",
+        "last_seen": "2024-01-18 04:40:57",
+        "ip_address": "104.21.47.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "996180",
+        "first_seen": "2021-01-14 23:46:56",
+        "last_seen": "2024-01-18 04:40:57",
+        "ip_address": "172.67.172.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "75147",
+        "first_seen": "2018-10-15 20:14:51",
+        "last_seen": "2018-12-04 03:36:03",
+        "ip_address": "104.28.18.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "75147",
+        "first_seen": "2018-10-15 20:14:51",
+        "last_seen": "2018-12-04 03:36:03",
+        "ip_address": "104.28.19.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "271",
+        "first_seen": "2022-01-17 18:20:06",
+        "last_seen": "2024-01-17 18:42:45",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "1",
+        "first_seen": "2021-01-22 03:06:13",
+        "last_seen": "2021-01-22 03:06:13",
+        "ip_address": "172.64.81.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "1",
+        "first_seen": "2021-03-07 12:50:23",
+        "last_seen": "2021-03-07 12:50:23",
+        "ip_address": "172.64.81.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "1",
+        "first_seen": "2021-01-29 23:37:35",
+        "last_seen": "2021-01-29 23:37:35",
+        "ip_address": "172.64.81.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "1",
+        "first_seen": "2021-03-03 21:35:37",
+        "last_seen": "2021-03-03 21:35:37",
+        "ip_address": "172.64.81.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "1",
+        "first_seen": "2021-01-21 01:53:03",
+        "last_seen": "2021-01-21 01:53:03",
+        "ip_address": "172.64.81.115",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "1",
+        "first_seen": "2021-02-17 22:21:52",
+        "last_seen": "2021-02-17 22:21:52",
+        "ip_address": "172.64.81.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "1",
+        "first_seen": "2021-03-06 23:29:27",
+        "last_seen": "2021-03-06 23:29:27",
+        "ip_address": "172.64.81.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "2",
+        "first_seen": "2021-01-28 05:16:31",
+        "last_seen": "2021-02-06 12:14:42",
+        "ip_address": "172.64.81.244",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "2",
+        "first_seen": "2020-12-06 00:28:00",
+        "last_seen": "2020-12-06 00:28:00",
+        "ip_address": "172.64.82.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "1",
+        "first_seen": "2021-01-18 08:04:48",
+        "last_seen": "2021-01-18 08:04:48",
+        "ip_address": "172.64.86.108",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "2",
+        "first_seen": "2020-12-01 18:51:32",
+        "last_seen": "2020-12-01 18:51:32",
+        "ip_address": "172.64.87.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "2",
+        "first_seen": "2020-10-24 15:25:29",
+        "last_seen": "2020-10-24 15:25:29",
+        "ip_address": "172.64.88.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "2",
+        "first_seen": "2020-11-03 17:04:28",
+        "last_seen": "2020-11-03 17:04:28",
+        "ip_address": "172.64.89.179",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "2",
+        "first_seen": "2020-11-09 02:19:25",
+        "last_seen": "2020-11-09 02:19:25",
+        "ip_address": "172.64.90.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "1",
+        "first_seen": "2020-12-21 15:10:20",
+        "last_seen": "2020-12-21 15:10:20",
+        "ip_address": "172.64.93.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "1",
+        "first_seen": "2021-01-06 16:20:04",
+        "last_seen": "2021-01-06 16:20:04",
+        "ip_address": "172.64.93.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "1",
+        "first_seen": "2021-01-17 12:08:56",
+        "last_seen": "2021-01-17 12:08:56",
+        "ip_address": "172.64.93.227",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "1",
+        "first_seen": "2021-01-13 19:50:37",
+        "last_seen": "2021-01-13 19:50:37",
+        "ip_address": "172.64.94.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "1",
+        "first_seen": "2020-12-21 14:04:33",
+        "last_seen": "2020-12-21 14:04:33",
+        "ip_address": "172.64.94.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "1",
+        "first_seen": "2021-01-12 04:35:48",
+        "last_seen": "2021-01-12 04:35:48",
+        "ip_address": "172.64.94.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "7",
+        "first_seen": "2021-11-24 16:20:29",
+        "last_seen": "2021-11-24 17:23:38",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "7",
+        "first_seen": "2021-11-24 16:20:29",
+        "last_seen": "2021-11-24 17:23:38",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "7",
+        "first_seen": "2021-11-24 16:50:04",
+        "last_seen": "2021-11-24 17:51:28",
+        "ip_address": "188.114.96.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "7",
+        "first_seen": "2021-11-24 16:50:04",
+        "last_seen": "2021-11-24 17:51:28",
+        "ip_address": "188.114.97.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "13",
+        "first_seen": "2021-11-24 16:13:53",
+        "last_seen": "2021-11-24 18:09:12",
+        "ip_address": "188.114.96.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "13",
+        "first_seen": "2021-11-24 16:13:53",
+        "last_seen": "2021-11-24 18:09:12",
+        "ip_address": "188.114.97.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "2",
+        "first_seen": "2021-11-24 17:11:18",
+        "last_seen": "2021-11-24 17:21:17",
+        "ip_address": "188.114.96.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "2",
+        "first_seen": "2021-11-24 17:11:18",
+        "last_seen": "2021-11-24 17:21:17",
+        "ip_address": "188.114.97.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "147",
+        "first_seen": "2022-03-10 17:16:27",
+        "last_seen": "2022-03-14 10:48:02",
+        "ip_address": "188.114.98.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "5",
+        "first_seen": "2019-07-14 20:43:34",
+        "last_seen": "2019-07-15 11:53:00",
+        "ip_address": "2606:4700:30::6812:30c9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "248799",
+        "first_seen": "2018-12-04 03:38:29",
+        "last_seen": "2020-01-15 13:49:01",
+        "ip_address": "2606:4700:30::6812:30c9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "248799",
+        "first_seen": "2018-12-04 03:38:29",
+        "last_seen": "2020-01-15 13:49:01",
+        "ip_address": "2606:4700:30::6812:31c9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "610",
+        "first_seen": "2020-01-15 13:56:48",
+        "last_seen": "2020-01-16 15:24:07",
+        "ip_address": "2606:4700:30::6812:30c9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "610",
+        "first_seen": "2020-01-15 13:56:48",
+        "last_seen": "2020-01-16 15:24:07",
+        "ip_address": "2606:4700:3032::6812:31c9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "1",
+        "first_seen": "2019-07-15 11:47:29",
+        "last_seen": "2019-07-15 11:47:29",
+        "ip_address": "2606:4700:30::6812:31c9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "44640",
+        "first_seen": "2018-10-15 20:15:07",
+        "last_seen": "2018-12-04 03:36:03",
+        "ip_address": "2606:4700:30::681c:1270",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "44640",
+        "first_seen": "2018-10-15 20:15:07",
+        "last_seen": "2018-12-04 03:36:03",
+        "ip_address": "2606:4700:30::681c:1370",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "11",
+        "first_seen": "2022-01-13 07:00:04",
+        "last_seen": "2023-12-26 20:24:29",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "1",
+        "first_seen": "2021-01-22 03:06:13",
+        "last_seen": "2021-01-22 03:06:13",
+        "ip_address": "2606:4700:13d:e9c0:60:689b:8b74:36af",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "626126",
+        "first_seen": "2021-01-14 23:46:56",
+        "last_seen": "2024-01-18 08:00:42",
+        "ip_address": "2606:4700:3030::6815:2fcd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "626126",
+        "first_seen": "2021-01-14 23:46:56",
+        "last_seen": "2024-01-18 08:00:42",
+        "ip_address": "2606:4700:3037::ac43:ac76",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "81235",
+        "first_seen": "2020-01-16 15:27:12",
+        "last_seen": "2020-05-26 20:14:05",
+        "ip_address": "2606:4700:3031::6812:30c9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "81235",
+        "first_seen": "2020-01-16 15:27:12",
+        "last_seen": "2020-05-26 20:14:05",
+        "ip_address": "2606:4700:3034::6812:31c9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "158782",
+        "first_seen": "2020-05-26 20:15:14",
+        "last_seen": "2021-01-14 23:44:22",
+        "ip_address": "2606:4700:3031::6812:30c9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "158782",
+        "first_seen": "2020-05-26 20:15:14",
+        "last_seen": "2021-01-14 23:44:22",
+        "ip_address": "2606:4700:3034::6812:31c9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "158782",
+        "first_seen": "2020-05-26 20:15:14",
+        "last_seen": "2021-01-14 23:44:22",
+        "ip_address": "2606:4700:3037::ac43:ac76",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "1",
+        "first_seen": "2021-11-24 16:33:18",
+        "last_seen": "2021-11-24 16:33:18",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "1",
+        "first_seen": "2021-11-24 16:33:18",
+        "last_seen": "2021-11-24 16:33:18",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "7",
+        "first_seen": "2021-11-24 16:50:04",
+        "last_seen": "2021-11-24 17:51:28",
+        "ip_address": "2a06:98c1:3120::10",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "7",
+        "first_seen": "2021-11-24 16:50:04",
+        "last_seen": "2021-11-24 17:51:28",
+        "ip_address": "2a06:98c1:3121::10",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "10",
+        "first_seen": "2021-11-24 16:13:53",
+        "last_seen": "2021-11-24 17:30:35",
+        "ip_address": "2a06:98c1:3120::15",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "10",
+        "first_seen": "2021-11-24 16:13:53",
+        "last_seen": "2021-11-24 17:30:35",
+        "ip_address": "2a06:98c1:3121::15",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "2",
+        "first_seen": "2021-11-24 17:11:18",
+        "last_seen": "2021-11-24 17:21:18",
+        "ip_address": "2a06:98c1:3120::47",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "2",
+        "first_seen": "2021-11-24 17:11:18",
+        "last_seen": "2021-11-24 17:21:18",
+        "ip_address": "2a06:98c1:3121::47",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.somewhatsimple.com",
+        "count": "14",
+        "first_seen": "2022-03-10 22:16:45",
+        "last_seen": "2022-03-14 10:48:02",
+        "ip_address": "2a06:98c1:3122:8000::",
+        "type": "IPv6"
+    }
+]

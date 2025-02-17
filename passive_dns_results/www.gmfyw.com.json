@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.gmfyw.com",
+        "count": "8",
+        "first_seen": "2018-08-29 00:00:09",
+        "last_seen": "2018-10-23 13:43:02",
+        "ip_address": "50.87.144.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gmfyw.com",
+        "count": "11",
+        "first_seen": "2019-04-03 05:23:53",
+        "last_seen": "2019-04-18 01:42:09",
+        "ip_address": "107.165.66.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gmfyw.com",
+        "count": "6",
+        "first_seen": "2020-01-25 05:18:31",
+        "last_seen": "2020-02-05 06:57:28",
+        "ip_address": "154.218.152.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gmfyw.com",
+        "count": "443",
+        "first_seen": "2023-02-27 15:32:25",
+        "last_seen": "2023-03-28 23:38:11",
+        "ip_address": "155.94.184.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gmfyw.com",
+        "count": "18",
+        "first_seen": "2019-02-08 13:29:43",
+        "last_seen": "2019-03-27 06:24:39",
+        "ip_address": "172.120.183.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.gmfyw.com",
+        "count": "10",
+        "first_seen": "2019-05-18 03:32:20",
+        "last_seen": "2019-06-30 17:50:32",
+        "ip_address": "172.121.54.51",
+        "type": "IPv4"
+    }
+]

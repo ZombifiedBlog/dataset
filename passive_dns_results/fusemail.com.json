@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "fusemail.com",
+        "count": "133709",
+        "first_seen": "2011-01-21 16:59:16",
+        "last_seen": "2012-09-06 17:55:11",
+        "ip_address": "67.207.202.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fusemail.com",
+        "count": "850204",
+        "first_seen": "2012-09-06 17:55:11",
+        "last_seen": "2014-07-02 22:48:20",
+        "ip_address": "67.207.202.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fusemail.com",
+        "count": "933188",
+        "first_seen": "2017-06-27 14:57:28",
+        "last_seen": "2024-01-18 07:57:21",
+        "ip_address": "104.236.188.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fusemail.com",
+        "count": "452602",
+        "first_seen": "2014-07-03 07:02:45",
+        "last_seen": "2017-06-27 13:08:27",
+        "ip_address": "107.170.212.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fusemail.com",
+        "count": "15",
+        "first_seen": "2017-11-10 13:37:39",
+        "last_seen": "2017-11-10 14:23:34",
+        "ip_address": "138.68.252.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fusemail.com",
+        "count": "31",
+        "first_seen": "2016-04-28 15:59:40",
+        "last_seen": "2016-05-03 16:39:31",
+        "ip_address": "198.199.97.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fusemail.com",
+        "count": "27171",
+        "first_seen": "2010-06-27 21:29:05",
+        "last_seen": "2011-01-21 16:51:40",
+        "ip_address": "208.70.132.198",
+        "type": "IPv4"
+    }
+]

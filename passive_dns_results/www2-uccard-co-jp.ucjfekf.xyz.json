@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www2-uccard-co-jp.ucjfekf.xyz",
+        "count": "57",
+        "first_seen": "2022-03-12 13:38:58",
+        "last_seen": "2022-03-12 20:55:56",
+        "ip_address": "104.21.31.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-uccard-co-jp.ucjfekf.xyz",
+        "count": "57",
+        "first_seen": "2022-03-12 13:38:58",
+        "last_seen": "2022-03-12 20:55:56",
+        "ip_address": "172.67.175.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-uccard-co-jp.ucjfekf.xyz",
+        "count": "11",
+        "first_seen": "2022-03-12 16:00:14",
+        "last_seen": "2022-03-12 21:01:27",
+        "ip_address": "188.114.96.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-uccard-co-jp.ucjfekf.xyz",
+        "count": "1",
+        "first_seen": "2022-03-12 13:38:59",
+        "last_seen": "2022-03-12 13:38:59",
+        "ip_address": "2606:4700:3031::ac43:afc2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www2-uccard-co-jp.ucjfekf.xyz",
+        "count": "1",
+        "first_seen": "2022-03-12 13:38:59",
+        "last_seen": "2022-03-12 13:38:59",
+        "ip_address": "2606:4700:3034::6815:1f58",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "hxev888.com",
+        "count": "85",
+        "first_seen": "2019-03-07 23:00:44",
+        "last_seen": "2020-04-11 13:45:47",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hxev888.com",
+        "count": "63",
+        "first_seen": "2020-02-28 00:01:57",
+        "last_seen": "2020-03-05 11:09:21",
+        "ip_address": "104.24.126.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hxev888.com",
+        "count": "63",
+        "first_seen": "2020-02-28 00:01:57",
+        "last_seen": "2020-03-05 11:09:21",
+        "ip_address": "104.24.127.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hxev888.com",
+        "count": "192",
+        "first_seen": "2019-05-13 07:18:23",
+        "last_seen": "2020-02-27 19:37:24",
+        "ip_address": "116.196.86.255",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hxev888.com",
+        "count": "2",
+        "first_seen": "2019-05-08 13:12:14",
+        "last_seen": "2019-05-08 13:12:14",
+        "ip_address": "154.92.14.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hxev888.com",
+        "count": "13",
+        "first_seen": "2020-02-27 23:36:52",
+        "last_seen": "2020-03-04 07:59:00",
+        "ip_address": "2606:4700:3031::6818:7e4d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hxev888.com",
+        "count": "13",
+        "first_seen": "2020-02-27 23:36:52",
+        "last_seen": "2020-03-04 07:59:00",
+        "ip_address": "2606:4700:3035::6818:7f4d",
+        "type": "IPv6"
+    }
+]

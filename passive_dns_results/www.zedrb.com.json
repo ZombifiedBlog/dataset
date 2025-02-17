@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.zedrb.com",
+        "count": "2375",
+        "first_seen": "2022-02-18 11:52:10",
+        "last_seen": "2023-01-24 23:04:14",
+        "ip_address": "104.21.24.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zedrb.com",
+        "count": "2375",
+        "first_seen": "2022-02-18 11:52:10",
+        "last_seen": "2023-01-24 23:04:14",
+        "ip_address": "172.67.216.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zedrb.com",
+        "count": "17",
+        "first_seen": "2022-03-12 02:50:34",
+        "last_seen": "2022-03-14 08:40:44",
+        "ip_address": "188.114.98.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zedrb.com",
+        "count": "193",
+        "first_seen": "2022-02-19 05:01:41",
+        "last_seen": "2022-05-29 08:30:12",
+        "ip_address": "2606:4700:3033::ac43:d8bd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zedrb.com",
+        "count": "193",
+        "first_seen": "2022-02-19 05:01:41",
+        "last_seen": "2022-05-29 08:30:12",
+        "ip_address": "2606:4700:3036::6815:1823",
+        "type": "IPv6"
+    }
+]

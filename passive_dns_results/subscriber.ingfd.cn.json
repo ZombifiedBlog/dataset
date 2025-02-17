@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscriber.ingfd.cn",
+        "count": "22",
+        "first_seen": "2022-04-30 16:46:48",
+        "last_seen": "2022-05-08 07:12:04",
+        "ip_address": "43.130.65.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ingfd.cn",
+        "count": "96",
+        "first_seen": "2022-03-10 23:31:09",
+        "last_seen": "2022-04-25 10:03:15",
+        "ip_address": "104.21.17.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ingfd.cn",
+        "count": "96",
+        "first_seen": "2022-03-10 23:31:09",
+        "last_seen": "2022-04-25 10:03:15",
+        "ip_address": "172.67.176.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ingfd.cn",
+        "count": "5",
+        "first_seen": "2023-10-26 03:13:45",
+        "last_seen": "2023-12-24 19:57:00",
+        "ip_address": "108.186.248.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ingfd.cn",
+        "count": "5",
+        "first_seen": "2022-03-10 21:25:55",
+        "last_seen": "2022-03-14 03:34:41",
+        "ip_address": "188.114.98.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ingfd.cn",
+        "count": "18",
+        "first_seen": "2022-03-10 23:31:09",
+        "last_seen": "2022-04-17 16:08:04",
+        "ip_address": "2606:4700:3034::ac43:b0c0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.ingfd.cn",
+        "count": "18",
+        "first_seen": "2022-03-10 23:31:09",
+        "last_seen": "2022-04-17 16:08:04",
+        "ip_address": "2606:4700:3035::6815:117b",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "aznim.xdtcfno.cn",
+        "count": "41",
+        "first_seen": "2023-02-23 13:47:30",
+        "last_seen": "2023-03-15 21:05:34",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "aznim.xdtcfno.cn",
+        "count": "451",
+        "first_seen": "2022-12-19 02:08:35",
+        "last_seen": "2023-02-21 22:00:29",
+        "ip_address": "104.21.80.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "aznim.xdtcfno.cn",
+        "count": "451",
+        "first_seen": "2022-12-19 02:08:35",
+        "last_seen": "2023-02-21 22:00:29",
+        "ip_address": "172.67.187.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "aznim.xdtcfno.cn",
+        "count": "95",
+        "first_seen": "2022-12-20 21:05:19",
+        "last_seen": "2023-02-21 11:47:29",
+        "ip_address": "2606:4700:3030::ac43:bba4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "aznim.xdtcfno.cn",
+        "count": "95",
+        "first_seen": "2022-12-20 21:05:19",
+        "last_seen": "2023-02-21 11:47:29",
+        "ip_address": "2606:4700:3032::6815:50ea",
+        "type": "IPv6"
+    }
+]

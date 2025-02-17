@@ -1,0 +1,634 @@
+[
+    {
+        "domain": "scga.org",
+        "count": "93",
+        "first_seen": "2017-07-28 18:39:24",
+        "last_seen": "2018-10-28 05:27:38",
+        "ip_address": "50.63.202.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "45",
+        "first_seen": "2017-07-20 16:28:39",
+        "last_seen": "2017-11-28 18:17:49",
+        "ip_address": "50.63.202.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "24",
+        "first_seen": "2017-07-26 21:30:28",
+        "last_seen": "2018-10-28 05:27:38",
+        "ip_address": "50.63.202.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "2280",
+        "first_seen": "2017-07-19 21:18:10",
+        "last_seen": "2018-11-06 20:55:07",
+        "ip_address": "50.63.202.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "687",
+        "first_seen": "2017-07-26 06:01:55",
+        "last_seen": "2017-11-30 17:15:34",
+        "ip_address": "50.63.202.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "94",
+        "first_seen": "2017-07-26 15:03:58",
+        "last_seen": "2017-11-30 06:48:50",
+        "ip_address": "50.63.202.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "31",
+        "first_seen": "2017-11-01 17:03:43",
+        "last_seen": "2018-11-01 15:09:57",
+        "ip_address": "50.63.202.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "12",
+        "first_seen": "2017-07-26 05:30:21",
+        "last_seen": "2018-10-28 22:33:21",
+        "ip_address": "50.63.202.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "1786",
+        "first_seen": "2017-07-25 14:28:49",
+        "last_seen": "2018-10-28 22:48:23",
+        "ip_address": "50.63.202.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "2068",
+        "first_seen": "2017-07-21 16:49:23",
+        "last_seen": "2017-11-30 03:45:46",
+        "ip_address": "50.63.202.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "57",
+        "first_seen": "2017-07-28 14:40:19",
+        "last_seen": "2018-10-28 23:19:41",
+        "ip_address": "50.63.202.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "361",
+        "first_seen": "2017-08-09 22:33:38",
+        "last_seen": "2018-11-06 18:05:26",
+        "ip_address": "50.63.202.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "1894",
+        "first_seen": "2017-07-20 15:07:37",
+        "last_seen": "2017-10-09 14:40:02",
+        "ip_address": "50.63.202.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "4",
+        "first_seen": "2017-07-28 20:15:38",
+        "last_seen": "2017-08-01 09:02:18",
+        "ip_address": "50.63.202.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "20",
+        "first_seen": "2017-07-20 15:07:37",
+        "last_seen": "2018-10-30 14:07:53",
+        "ip_address": "50.63.202.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "18",
+        "first_seen": "2017-08-18 15:05:40",
+        "last_seen": "2018-10-28 22:23:12",
+        "ip_address": "50.63.202.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "566",
+        "first_seen": "2017-07-19 21:41:39",
+        "last_seen": "2018-10-28 23:03:54",
+        "ip_address": "50.63.202.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "1126",
+        "first_seen": "2017-07-26 22:53:59",
+        "last_seen": "2018-10-27 03:15:28",
+        "ip_address": "50.63.202.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "51",
+        "first_seen": "2017-08-02 17:31:44",
+        "last_seen": "2018-10-28 12:30:50",
+        "ip_address": "50.63.202.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "29",
+        "first_seen": "2017-08-09 17:57:19",
+        "last_seen": "2018-10-31 08:12:29",
+        "ip_address": "50.63.202.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "29",
+        "first_seen": "2017-07-19 21:54:14",
+        "last_seen": "2017-11-28 23:03:55",
+        "ip_address": "50.63.202.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "620",
+        "first_seen": "2017-07-21 16:20:18",
+        "last_seen": "2018-11-06 22:25:23",
+        "ip_address": "50.63.202.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "209",
+        "first_seen": "2017-07-20 15:29:49",
+        "last_seen": "2017-10-02 02:17:25",
+        "ip_address": "50.63.202.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "4015",
+        "first_seen": "2017-07-21 05:50:25",
+        "last_seen": "2017-11-22 18:45:49",
+        "ip_address": "50.63.202.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "114",
+        "first_seen": "2017-07-21 12:43:21",
+        "last_seen": "2018-11-06 18:08:12",
+        "ip_address": "50.63.202.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "977",
+        "first_seen": "2017-07-20 15:36:57",
+        "last_seen": "2017-08-09 15:09:25",
+        "ip_address": "50.63.202.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "1148",
+        "first_seen": "2017-10-17 13:18:41",
+        "last_seen": "2018-10-28 21:58:47",
+        "ip_address": "50.63.202.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "2413",
+        "first_seen": "2017-07-25 23:30:47",
+        "last_seen": "2018-11-06 22:23:36",
+        "ip_address": "50.63.202.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "13",
+        "first_seen": "2017-08-19 13:57:26",
+        "last_seen": "2017-09-24 05:45:06",
+        "ip_address": "50.63.202.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "27",
+        "first_seen": "2017-07-24 14:31:30",
+        "last_seen": "2018-11-05 21:05:51",
+        "ip_address": "50.63.202.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "2",
+        "first_seen": "2017-07-19 21:59:17",
+        "last_seen": "2017-07-19 21:59:17",
+        "ip_address": "50.63.202.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "28",
+        "first_seen": "2017-11-30 17:22:27",
+        "last_seen": "2017-11-30 19:08:24",
+        "ip_address": "52.11.57.142",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "610307",
+        "first_seen": "2015-05-15 07:50:44",
+        "last_seen": "2023-02-28 00:23:10",
+        "ip_address": "52.11.197.127",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "239323",
+        "first_seen": "2014-09-08 18:48:53",
+        "last_seen": "2015-05-15 07:28:55",
+        "ip_address": "54.214.39.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "8433",
+        "first_seen": "2014-08-30 18:59:47",
+        "last_seen": "2014-09-08 18:46:28",
+        "ip_address": "54.214.226.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "28806",
+        "first_seen": "2010-07-19 15:51:14",
+        "last_seen": "2011-03-02 09:45:15",
+        "ip_address": "67.208.132.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "2445",
+        "first_seen": "2013-09-04 06:23:43",
+        "last_seen": "2013-09-11 03:09:00",
+        "ip_address": "72.52.83.151",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "217267",
+        "first_seen": "2013-09-10 00:39:45",
+        "last_seen": "2014-08-30 18:48:31",
+        "ip_address": "72.52.83.178",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "34850",
+        "first_seen": "2023-02-28 00:30:41",
+        "last_seen": "2024-01-18 10:52:29",
+        "ip_address": "104.26.0.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "34850",
+        "first_seen": "2023-02-28 00:30:41",
+        "last_seen": "2024-01-18 10:52:29",
+        "ip_address": "104.26.1.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "34850",
+        "first_seen": "2023-02-28 00:30:41",
+        "last_seen": "2024-01-18 10:52:29",
+        "ip_address": "172.67.74.167",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "254",
+        "first_seen": "2018-11-06 22:27:25",
+        "last_seen": "2018-11-07 23:07:36",
+        "ip_address": "184.168.131.241",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "4",
+        "first_seen": "2017-07-21 16:08:08",
+        "last_seen": "2017-08-02 14:44:28",
+        "ip_address": "184.168.221.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "391",
+        "first_seen": "2017-07-20 15:46:19",
+        "last_seen": "2018-11-01 10:07:35",
+        "ip_address": "184.168.221.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "10",
+        "first_seen": "2017-09-27 21:44:57",
+        "last_seen": "2017-10-08 11:14:58",
+        "ip_address": "184.168.221.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "480",
+        "first_seen": "2017-07-26 05:30:21",
+        "last_seen": "2018-11-01 10:09:08",
+        "ip_address": "184.168.221.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "74",
+        "first_seen": "2017-07-20 15:41:09",
+        "last_seen": "2017-11-20 15:25:24",
+        "ip_address": "184.168.221.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "325",
+        "first_seen": "2017-07-19 21:32:10",
+        "last_seen": "2018-11-06 22:04:30",
+        "ip_address": "184.168.221.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "33",
+        "first_seen": "2017-07-26 00:31:14",
+        "last_seen": "2018-10-28 22:33:32",
+        "ip_address": "184.168.221.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "1310",
+        "first_seen": "2017-07-19 21:41:27",
+        "last_seen": "2018-11-06 18:08:14",
+        "ip_address": "184.168.221.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "569",
+        "first_seen": "2017-07-21 05:50:25",
+        "last_seen": "2017-10-25 20:22:52",
+        "ip_address": "184.168.221.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "100",
+        "first_seen": "2017-10-26 11:22:36",
+        "last_seen": "2018-10-28 15:37:00",
+        "ip_address": "184.168.221.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "346",
+        "first_seen": "2017-07-25 14:43:11",
+        "last_seen": "2018-11-02 15:04:48",
+        "ip_address": "184.168.221.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "23",
+        "first_seen": "2017-07-19 20:51:42",
+        "last_seen": "2018-11-06 22:04:30",
+        "ip_address": "184.168.221.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "915",
+        "first_seen": "2017-08-09 19:56:36",
+        "last_seen": "2018-10-28 22:09:44",
+        "ip_address": "184.168.221.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "1020",
+        "first_seen": "2017-07-24 15:43:33",
+        "last_seen": "2018-11-06 22:21:21",
+        "ip_address": "184.168.221.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "31",
+        "first_seen": "2017-07-20 15:27:12",
+        "last_seen": "2018-10-24 01:08:26",
+        "ip_address": "184.168.221.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "10",
+        "first_seen": "2017-07-26 14:56:47",
+        "last_seen": "2018-11-05 06:54:50",
+        "ip_address": "184.168.221.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "4",
+        "first_seen": "2017-07-26 00:47:11",
+        "last_seen": "2017-10-01 08:04:10",
+        "ip_address": "184.168.221.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "1193",
+        "first_seen": "2017-07-29 00:46:05",
+        "last_seen": "2017-11-29 00:18:00",
+        "ip_address": "184.168.221.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "259",
+        "first_seen": "2017-07-20 15:42:02",
+        "last_seen": "2018-11-05 15:18:11",
+        "ip_address": "184.168.221.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "103",
+        "first_seen": "2017-07-26 00:19:03",
+        "last_seen": "2017-11-30 16:43:16",
+        "ip_address": "184.168.221.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "1972",
+        "first_seen": "2017-08-28 18:07:43",
+        "last_seen": "2018-11-06 22:17:07",
+        "ip_address": "184.168.221.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "324",
+        "first_seen": "2017-08-23 13:39:36",
+        "last_seen": "2018-11-06 20:47:51",
+        "ip_address": "184.168.221.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "90",
+        "first_seen": "2017-07-20 16:07:06",
+        "last_seen": "2018-10-27 00:03:00",
+        "ip_address": "184.168.221.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "212",
+        "first_seen": "2017-07-20 23:49:35",
+        "last_seen": "2018-10-31 20:30:32",
+        "ip_address": "184.168.221.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "422",
+        "first_seen": "2017-08-03 17:00:05",
+        "last_seen": "2018-10-28 23:09:27",
+        "ip_address": "184.168.221.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "1676",
+        "first_seen": "2017-07-19 21:32:10",
+        "last_seen": "2017-11-20 19:53:01",
+        "ip_address": "184.168.221.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "520",
+        "first_seen": "2017-07-19 20:41:48",
+        "last_seen": "2018-10-28 22:33:21",
+        "ip_address": "184.168.221.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "334",
+        "first_seen": "2017-07-19 20:54:48",
+        "last_seen": "2018-11-04 00:35:40",
+        "ip_address": "184.168.221.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "18",
+        "first_seen": "2017-07-20 21:55:46",
+        "last_seen": "2018-10-28 05:27:38",
+        "ip_address": "184.168.221.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "6",
+        "first_seen": "2017-07-21 16:07:02",
+        "last_seen": "2018-10-24 16:17:43",
+        "ip_address": "184.168.221.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "10",
+        "first_seen": "2023-03-09 23:41:01",
+        "last_seen": "2023-07-10 22:33:53",
+        "ip_address": "188.114.98.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "10",
+        "first_seen": "2023-03-09 23:41:01",
+        "last_seen": "2023-07-10 22:33:53",
+        "ip_address": "188.114.99.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "430927",
+        "first_seen": "2011-03-02 09:29:58",
+        "last_seen": "2013-09-04 06:13:02",
+        "ip_address": "208.109.238.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "10",
+        "first_seen": "2011-03-03 14:37:20",
+        "last_seen": "2011-03-03 15:29:50",
+        "ip_address": "209.62.20.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "scga.org",
+        "count": "17595",
+        "first_seen": "2023-02-28 00:46:07",
+        "last_seen": "2024-01-18 06:50:19",
+        "ip_address": "2606:4700:20::681a:f0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "scga.org",
+        "count": "17595",
+        "first_seen": "2023-02-28 00:46:07",
+        "last_seen": "2024-01-18 06:50:19",
+        "ip_address": "2606:4700:20::681a:1f0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "scga.org",
+        "count": "17595",
+        "first_seen": "2023-02-28 00:46:07",
+        "last_seen": "2024-01-18 06:50:19",
+        "ip_address": "2606:4700:20::ac43:4aa7",
+        "type": "IPv6"
+    }
+]

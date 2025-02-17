@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "member.mommy-app.com",
+        "count": "87",
+        "first_seen": "2023-03-03 09:00:44",
+        "last_seen": "2023-03-08 08:05:47",
+        "ip_address": "34.84.126.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "member.mommy-app.com",
+        "count": "1",
+        "first_seen": "2023-07-05 02:25:07",
+        "last_seen": "2023-07-05 02:25:07",
+        "ip_address": "156.230.177.130",
+        "type": "IPv4"
+    },
+    {
+        "domain": "member.mommy-app.com",
+        "count": "1",
+        "first_seen": "2023-03-17 09:00:39",
+        "last_seen": "2023-03-17 09:00:39",
+        "ip_address": "198.98.48.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "member.mommy-app.com",
+        "count": "8",
+        "first_seen": "2023-08-31 16:07:32",
+        "last_seen": "2023-10-27 10:02:17",
+        "ip_address": "206.233.132.96",
+        "type": "IPv4"
+    }
+]

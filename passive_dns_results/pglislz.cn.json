@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "pglislz.cn",
+        "count": "2082",
+        "first_seen": "2023-02-20 06:23:18",
+        "last_seen": "2023-03-22 03:47:17",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pglislz.cn",
+        "count": "262",
+        "first_seen": "2023-01-08 23:08:36",
+        "last_seen": "2023-01-14 14:22:06",
+        "ip_address": "104.21.66.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pglislz.cn",
+        "count": "262",
+        "first_seen": "2023-01-08 23:08:36",
+        "last_seen": "2023-01-14 14:22:06",
+        "ip_address": "172.67.159.232",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pglislz.cn",
+        "count": "627",
+        "first_seen": "2023-01-15 15:23:18",
+        "last_seen": "2023-02-20 05:41:18",
+        "ip_address": "152.32.145.134",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pglislz.cn",
+        "count": "17",
+        "first_seen": "2023-01-08 23:09:03",
+        "last_seen": "2023-01-13 15:05:53",
+        "ip_address": "2606:4700:3033::ac43:9fe8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "pglislz.cn",
+        "count": "17",
+        "first_seen": "2023-01-08 23:09:03",
+        "last_seen": "2023-01-13 15:05:53",
+        "ip_address": "2606:4700:3035::6815:427c",
+        "type": "IPv6"
+    }
+]

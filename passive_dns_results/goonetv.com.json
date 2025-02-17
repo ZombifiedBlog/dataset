@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "goonetv.com",
+        "count": "3",
+        "first_seen": "2014-07-30 02:59:21",
+        "last_seen": "2014-08-01 03:15:42",
+        "ip_address": "50.63.202.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "goonetv.com",
+        "count": "1164",
+        "first_seen": "2018-11-08 08:59:24",
+        "last_seen": "2019-07-25 06:48:31",
+        "ip_address": "103.228.63.244",
+        "type": "IPv4"
+    },
+    {
+        "domain": "goonetv.com",
+        "count": "128",
+        "first_seen": "2015-09-02 02:47:10",
+        "last_seen": "2017-10-12 01:54:06",
+        "ip_address": "184.168.221.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "goonetv.com",
+        "count": "2",
+        "first_seen": "2014-04-30 03:04:48",
+        "last_seen": "2014-05-02 03:22:39",
+        "ip_address": "184.168.221.96",
+        "type": "IPv4"
+    }
+]

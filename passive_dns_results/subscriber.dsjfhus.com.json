@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscriber.dsjfhus.com",
+        "count": "382",
+        "first_seen": "2020-03-12 20:18:14",
+        "last_seen": "2020-05-21 16:10:55",
+        "ip_address": "104.24.126.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.dsjfhus.com",
+        "count": "382",
+        "first_seen": "2020-03-12 20:18:14",
+        "last_seen": "2020-05-21 16:10:55",
+        "ip_address": "104.24.127.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.dsjfhus.com",
+        "count": "4",
+        "first_seen": "2020-05-30 16:20:22",
+        "last_seen": "2020-06-02 16:25:47",
+        "ip_address": "104.24.126.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.dsjfhus.com",
+        "count": "4",
+        "first_seen": "2020-05-30 16:20:22",
+        "last_seen": "2020-06-02 16:25:47",
+        "ip_address": "104.24.127.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.dsjfhus.com",
+        "count": "4",
+        "first_seen": "2020-05-30 16:20:22",
+        "last_seen": "2020-06-02 16:25:47",
+        "ip_address": "172.67.195.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.dsjfhus.com",
+        "count": "236",
+        "first_seen": "2020-03-12 20:18:14",
+        "last_seen": "2020-05-02 23:29:28",
+        "ip_address": "2606:4700:3033::6818:7e7b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.dsjfhus.com",
+        "count": "236",
+        "first_seen": "2020-03-12 20:18:14",
+        "last_seen": "2020-05-02 23:29:28",
+        "ip_address": "2606:4700:3036::6818:7f7b",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "boshishb.com",
+        "count": "34",
+        "first_seen": "2022-05-02 16:03:43",
+        "last_seen": "2023-01-08 08:05:22",
+        "ip_address": "23.110.206.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "boshishb.com",
+        "count": "5",
+        "first_seen": "2020-12-20 14:39:08",
+        "last_seen": "2021-01-14 10:43:15",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "boshishb.com",
+        "count": "32",
+        "first_seen": "2022-03-04 04:02:04",
+        "last_seen": "2022-04-19 01:15:49",
+        "ip_address": "154.92.75.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "boshishb.com",
+        "count": "584",
+        "first_seen": "2023-02-03 06:45:42",
+        "last_seen": "2023-02-24 06:54:19",
+        "ip_address": "155.94.146.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "boshishb.com",
+        "count": "147",
+        "first_seen": "2023-03-01 10:16:48",
+        "last_seen": "2024-01-15 19:11:29",
+        "ip_address": "172.252.214.240",
+        "type": "IPv4"
+    }
+]

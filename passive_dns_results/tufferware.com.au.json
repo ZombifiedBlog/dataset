@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "tufferware.com.au",
+        "count": "13",
+        "first_seen": "2015-07-12 20:06:12",
+        "last_seen": "2015-08-02 11:07:14",
+        "ip_address": "50.87.144.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tufferware.com.au",
+        "count": "266",
+        "first_seen": "2015-08-07 02:12:39",
+        "last_seen": "2017-01-23 00:46:44",
+        "ip_address": "192.185.73.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tufferware.com.au",
+        "count": "266",
+        "first_seen": "2014-07-25 13:02:32",
+        "last_seen": "2015-06-20 21:26:17",
+        "ip_address": "192.232.251.34",
+        "type": "IPv4"
+    }
+]

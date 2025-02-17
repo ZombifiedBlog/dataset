@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "security-subscriber-center.butt-mania.com",
+        "count": "2",
+        "first_seen": "2023-10-18 06:40:51",
+        "last_seen": "2023-10-18 06:40:51",
+        "ip_address": "103.224.212.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.butt-mania.com",
+        "count": "24",
+        "first_seen": "2023-02-17 03:10:48",
+        "last_seen": "2023-08-13 16:21:44",
+        "ip_address": "103.224.212.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.butt-mania.com",
+        "count": "4739",
+        "first_seen": "2022-10-01 22:06:59",
+        "last_seen": "2022-12-31 06:21:36",
+        "ip_address": "104.21.85.109",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.butt-mania.com",
+        "count": "4739",
+        "first_seen": "2022-10-01 22:06:59",
+        "last_seen": "2022-12-31 06:21:36",
+        "ip_address": "172.67.204.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.butt-mania.com",
+        "count": "217",
+        "first_seen": "2022-10-07 07:50:42",
+        "last_seen": "2022-12-29 12:26:54",
+        "ip_address": "2606:4700:3035::6815:556d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "security-subscriber-center.butt-mania.com",
+        "count": "217",
+        "first_seen": "2022-10-07 07:50:42",
+        "last_seen": "2022-12-29 12:26:54",
+        "ip_address": "2606:4700:3035::ac43:cca2",
+        "type": "IPv6"
+    }
+]

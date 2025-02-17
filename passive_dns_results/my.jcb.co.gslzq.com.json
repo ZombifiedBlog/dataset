@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "my.jcb.co.gslzq.com",
+        "count": "252",
+        "first_seen": "2020-12-16 15:04:04",
+        "last_seen": "2021-01-03 16:30:34",
+        "ip_address": "45.80.184.249",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.gslzq.com",
+        "count": "29",
+        "first_seen": "2022-05-08 12:53:36",
+        "last_seen": "2023-02-25 02:44:05",
+        "ip_address": "50.2.128.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.gslzq.com",
+        "count": "8",
+        "first_seen": "2023-03-23 13:08:45",
+        "last_seen": "2023-03-24 01:46:21",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    }
+]

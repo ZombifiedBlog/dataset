@@ -1,0 +1,354 @@
+[
+    {
+        "domain": "gataipm.com",
+        "count": "3",
+        "first_seen": "2023-03-06 14:03:44",
+        "last_seen": "2023-04-28 06:28:52",
+        "ip_address": "5.79.79.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "5",
+        "first_seen": "2023-03-23 22:00:41",
+        "last_seen": "2023-04-06 16:52:16",
+        "ip_address": "5.79.79.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "1",
+        "first_seen": "2023-04-17 07:01:09",
+        "last_seen": "2023-04-17 07:01:09",
+        "ip_address": "5.79.79.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "4",
+        "first_seen": "2023-03-03 20:41:49",
+        "last_seen": "2023-04-25 07:56:22",
+        "ip_address": "5.79.79.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "12",
+        "first_seen": "2017-11-06 10:03:34",
+        "last_seen": "2017-12-15 00:16:41",
+        "ip_address": "23.88.145.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "183",
+        "first_seen": "2019-02-01 16:45:29",
+        "last_seen": "2019-10-31 01:09:22",
+        "ip_address": "23.245.138.169",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "182",
+        "first_seen": "2022-01-11 11:42:23",
+        "last_seen": "2022-06-28 21:53:35",
+        "ip_address": "34.92.138.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "76",
+        "first_seen": "2021-07-04 22:29:40",
+        "last_seen": "2022-01-08 15:42:21",
+        "ip_address": "35.213.176.126",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "18",
+        "first_seen": "2023-12-18 01:48:44",
+        "last_seen": "2024-01-18 05:36:47",
+        "ip_address": "47.242.118.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "3",
+        "first_seen": "2018-11-21 10:22:55",
+        "last_seen": "2018-12-07 16:24:01",
+        "ip_address": "50.63.202.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "2",
+        "first_seen": "2018-11-09 13:49:44",
+        "last_seen": "2018-11-09 13:49:44",
+        "ip_address": "50.63.202.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "3",
+        "first_seen": "2018-11-23 15:58:02",
+        "last_seen": "2018-11-30 01:36:31",
+        "ip_address": "50.63.202.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "2",
+        "first_seen": "2018-11-13 01:51:29",
+        "last_seen": "2018-11-13 01:51:29",
+        "ip_address": "50.63.202.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "4",
+        "first_seen": "2014-04-11 03:17:18",
+        "last_seen": "2014-04-13 02:45:34",
+        "ip_address": "68.68.105.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "18",
+        "first_seen": "2022-10-13 01:16:27",
+        "last_seen": "2023-07-06 06:58:05",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "1",
+        "first_seen": "2023-04-28 23:02:55",
+        "last_seen": "2023-04-28 23:02:55",
+        "ip_address": "81.171.22.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "5",
+        "first_seen": "2023-03-23 22:00:36",
+        "last_seen": "2023-04-28 05:03:05",
+        "ip_address": "81.171.22.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "1",
+        "first_seen": "2023-03-13 17:45:28",
+        "last_seen": "2023-03-13 17:45:28",
+        "ip_address": "81.171.22.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "858",
+        "first_seen": "2021-02-12 09:37:16",
+        "last_seen": "2021-04-11 08:21:34",
+        "ip_address": "85.208.109.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "19",
+        "first_seen": "2022-07-12 01:14:43",
+        "last_seen": "2022-08-10 09:18:17",
+        "ip_address": "99.83.154.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "25",
+        "first_seen": "2023-10-18 00:41:21",
+        "last_seen": "2023-10-31 11:32:42",
+        "ip_address": "103.224.212.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "220",
+        "first_seen": "2022-09-19 03:21:14",
+        "last_seen": "2023-09-17 02:23:22",
+        "ip_address": "103.224.212.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "148",
+        "first_seen": "2017-12-22 00:28:27",
+        "last_seen": "2018-11-08 03:02:32",
+        "ip_address": "104.203.79.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "42",
+        "first_seen": "2014-06-24 03:01:44",
+        "last_seen": "2015-06-06 04:36:55",
+        "ip_address": "107.160.155.238",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "2",
+        "first_seen": "2023-03-23 22:00:03",
+        "last_seen": "2023-03-23 22:00:37",
+        "ip_address": "108.59.12.98",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "2",
+        "first_seen": "2023-03-24 07:54:38",
+        "last_seen": "2023-04-04 08:12:34",
+        "ip_address": "108.59.12.99",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "4",
+        "first_seen": "2023-03-03 00:09:19",
+        "last_seen": "2023-04-26 15:13:51",
+        "ip_address": "108.59.12.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "35",
+        "first_seen": "2020-11-07 10:57:55",
+        "last_seen": "2021-02-04 12:31:14",
+        "ip_address": "154.208.30.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "4",
+        "first_seen": "2023-07-02 05:26:07",
+        "last_seen": "2023-07-18 15:39:15",
+        "ip_address": "170.178.183.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "33",
+        "first_seen": "2020-05-28 20:21:41",
+        "last_seen": "2020-07-17 12:52:34",
+        "ip_address": "170.178.204.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "67",
+        "first_seen": "2020-07-25 23:41:39",
+        "last_seen": "2020-11-01 04:00:15",
+        "ip_address": "172.252.165.227",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "2",
+        "first_seen": "2014-06-21 03:20:54",
+        "last_seen": "2014-06-22 03:32:23",
+        "ip_address": "184.105.207.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "23",
+        "first_seen": "2016-08-19 18:48:13",
+        "last_seen": "2016-08-30 21:20:25",
+        "ip_address": "184.168.221.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "10",
+        "first_seen": "2017-08-24 23:24:44",
+        "last_seen": "2017-09-25 09:38:10",
+        "ip_address": "184.168.221.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "2",
+        "first_seen": "2018-12-03 16:13:46",
+        "last_seen": "2018-12-07 14:47:16",
+        "ip_address": "184.168.221.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "124",
+        "first_seen": "2016-09-18 00:50:57",
+        "last_seen": "2017-08-17 22:25:18",
+        "ip_address": "192.157.197.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "1",
+        "first_seen": "2023-04-21 02:12:06",
+        "last_seen": "2023-04-21 02:12:06",
+        "ip_address": "199.115.115.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "4",
+        "first_seen": "2023-03-27 19:45:51",
+        "last_seen": "2023-04-27 20:12:57",
+        "ip_address": "199.115.115.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "4",
+        "first_seen": "2022-10-12 09:16:16",
+        "last_seen": "2022-12-31 15:54:15",
+        "ip_address": "199.115.116.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "1",
+        "first_seen": "2013-11-22 10:46:58",
+        "last_seen": "2013-11-22 10:46:58",
+        "ip_address": "203.98.189.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "2",
+        "first_seen": "2023-03-23 07:19:26",
+        "last_seen": "2023-05-02 01:05:33",
+        "ip_address": "207.244.76.131",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "1",
+        "first_seen": "2023-03-19 10:54:52",
+        "last_seen": "2023-03-19 10:54:52",
+        "ip_address": "207.244.76.132",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "8",
+        "first_seen": "2023-09-23 10:52:50",
+        "last_seen": "2023-10-01 20:10:59",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gataipm.com",
+        "count": "1",
+        "first_seen": "2023-03-18 20:05:41",
+        "last_seen": "2023-03-18 20:05:41",
+        "ip_address": "213.227.141.96",
+        "type": "IPv4"
+    }
+]

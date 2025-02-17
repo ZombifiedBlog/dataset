@@ -1,0 +1,106 @@
+[
+    {
+        "domain": "mail.fco-gimeno.com",
+        "count": "1617",
+        "first_seen": "2020-10-10 12:27:37",
+        "last_seen": "2020-11-27 19:43:25",
+        "ip_address": "104.27.188.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.fco-gimeno.com",
+        "count": "1617",
+        "first_seen": "2020-10-10 12:27:37",
+        "last_seen": "2020-11-27 19:43:25",
+        "ip_address": "104.27.189.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.fco-gimeno.com",
+        "count": "1617",
+        "first_seen": "2020-10-10 12:27:37",
+        "last_seen": "2020-11-27 19:43:25",
+        "ip_address": "172.67.209.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.fco-gimeno.com",
+        "count": "2",
+        "first_seen": "2020-10-13 02:30:53",
+        "last_seen": "2020-10-13 02:30:53",
+        "ip_address": "172.64.81.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.fco-gimeno.com",
+        "count": "2",
+        "first_seen": "2020-10-13 23:48:16",
+        "last_seen": "2020-10-13 23:48:16",
+        "ip_address": "172.64.81.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.fco-gimeno.com",
+        "count": "2",
+        "first_seen": "2020-10-13 23:21:23",
+        "last_seen": "2020-10-13 23:21:23",
+        "ip_address": "172.64.90.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.fco-gimeno.com",
+        "count": "2",
+        "first_seen": "2020-10-14 01:11:09",
+        "last_seen": "2020-10-14 01:11:09",
+        "ip_address": "172.64.93.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.fco-gimeno.com",
+        "count": "2",
+        "first_seen": "2020-10-15 14:07:40",
+        "last_seen": "2020-10-15 14:07:40",
+        "ip_address": "172.64.93.184",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.fco-gimeno.com",
+        "count": "2",
+        "first_seen": "2019-10-11 22:54:55",
+        "last_seen": "2019-10-11 22:54:55",
+        "ip_address": "208.91.197.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.fco-gimeno.com",
+        "count": "2",
+        "first_seen": "2020-10-13 02:30:59",
+        "last_seen": "2020-10-13 02:30:59",
+        "ip_address": "2606:4700:138:12b8:14cb:1da9:ef6c:b101",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.fco-gimeno.com",
+        "count": "332",
+        "first_seen": "2020-10-10 12:27:37",
+        "last_seen": "2020-11-27 19:43:25",
+        "ip_address": "2606:4700:3034::ac43:d13d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.fco-gimeno.com",
+        "count": "332",
+        "first_seen": "2020-10-10 12:27:37",
+        "last_seen": "2020-11-27 19:43:25",
+        "ip_address": "2606:4700:3035::681b:bd4c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.fco-gimeno.com",
+        "count": "332",
+        "first_seen": "2020-10-10 12:27:37",
+        "last_seen": "2020-11-27 19:43:25",
+        "ip_address": "2606:4700:3036::681b:bc4c",
+        "type": "IPv6"
+    }
+]

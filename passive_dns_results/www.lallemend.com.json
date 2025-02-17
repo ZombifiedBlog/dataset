@@ -1,0 +1,154 @@
+[
+    {
+        "domain": "www.lallemend.com",
+        "count": "20",
+        "first_seen": "2023-10-25 00:00:45",
+        "last_seen": "2023-11-28 15:41:16",
+        "ip_address": "35.186.223.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lallemend.com",
+        "count": "3",
+        "first_seen": "2022-07-20 12:01:27",
+        "last_seen": "2022-07-25 12:43:55",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lallemend.com",
+        "count": "7",
+        "first_seen": "2021-01-14 22:29:45",
+        "last_seen": "2021-04-08 13:38:22",
+        "ip_address": "104.21.2.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lallemend.com",
+        "count": "7",
+        "first_seen": "2021-01-14 22:29:45",
+        "last_seen": "2021-04-08 13:38:22",
+        "ip_address": "172.67.128.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lallemend.com",
+        "count": "425",
+        "first_seen": "2020-06-20 03:39:26",
+        "last_seen": "2021-01-11 05:54:42",
+        "ip_address": "104.28.8.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lallemend.com",
+        "count": "425",
+        "first_seen": "2020-06-20 03:39:26",
+        "last_seen": "2021-01-11 05:54:42",
+        "ip_address": "104.28.9.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lallemend.com",
+        "count": "425",
+        "first_seen": "2020-06-20 03:39:26",
+        "last_seen": "2021-01-11 05:54:42",
+        "ip_address": "172.67.128.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lallemend.com",
+        "count": "42",
+        "first_seen": "2021-08-07 18:23:31",
+        "last_seen": "2022-06-06 18:17:34",
+        "ip_address": "147.255.164.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lallemend.com",
+        "count": "30",
+        "first_seen": "2020-06-20 04:12:05",
+        "last_seen": "2020-06-20 05:02:17",
+        "ip_address": "172.64.164.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lallemend.com",
+        "count": "30",
+        "first_seen": "2020-06-20 04:12:05",
+        "last_seen": "2020-06-20 05:02:17",
+        "ip_address": "172.64.165.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lallemend.com",
+        "count": "2",
+        "first_seen": "2021-04-14 19:02:34",
+        "last_seen": "2021-04-14 19:02:34",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lallemend.com",
+        "count": "2",
+        "first_seen": "2021-04-14 19:02:34",
+        "last_seen": "2021-04-14 19:02:34",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lallemend.com",
+        "count": "2",
+        "first_seen": "2021-04-14 19:02:34",
+        "last_seen": "2021-04-14 19:02:34",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lallemend.com",
+        "count": "2",
+        "first_seen": "2021-04-14 19:02:34",
+        "last_seen": "2021-04-14 19:02:34",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lallemend.com",
+        "count": "14",
+        "first_seen": "2020-06-20 04:13:52",
+        "last_seen": "2020-06-20 04:55:41",
+        "ip_address": "2606:4700:e4::ac40:a41a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lallemend.com",
+        "count": "14",
+        "first_seen": "2020-06-20 04:13:52",
+        "last_seen": "2020-06-20 04:55:41",
+        "ip_address": "2606:4700:e4::ac40:a51a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lallemend.com",
+        "count": "157",
+        "first_seen": "2020-06-19 17:01:38",
+        "last_seen": "2020-12-11 00:54:52",
+        "ip_address": "2606:4700:3034::681c:80f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lallemend.com",
+        "count": "157",
+        "first_seen": "2020-06-19 17:01:38",
+        "last_seen": "2020-12-11 00:54:52",
+        "ip_address": "2606:4700:3034::ac43:80e5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lallemend.com",
+        "count": "157",
+        "first_seen": "2020-06-19 17:01:38",
+        "last_seen": "2020-12-11 00:54:52",
+        "ip_address": "2606:4700:3036::681c:90f",
+        "type": "IPv6"
+    }
+]

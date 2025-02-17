@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "njsmio.ga",
+        "count": "56",
+        "first_seen": "2018-03-05 17:02:48",
+        "last_seen": "2019-09-30 18:27:01",
+        "ip_address": "195.20.54.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "njsmio.ga",
+        "count": "158",
+        "first_seen": "2017-11-30 16:46:16",
+        "last_seen": "2017-12-30 17:03:33",
+        "ip_address": "47.89.247.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "njsmio.ga",
+        "count": "11",
+        "first_seen": "2018-01-07 23:41:37",
+        "last_seen": "2018-02-25 07:36:36",
+        "ip_address": "47.90.213.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "njsmio.ga",
+        "count": "34",
+        "first_seen": "2017-11-30 16:29:35",
+        "last_seen": "2017-11-30 16:39:50",
+        "ip_address": "104.200.25.96",
+        "type": "IPv4"
+    }
+]

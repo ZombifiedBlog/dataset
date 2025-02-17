@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.firstcard.com.tw",
+        "count": "49552",
+        "first_seen": "2010-06-26 03:19:42",
+        "last_seen": "2011-10-27 06:59:25",
+        "ip_address": "203.69.42.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.firstcard.com.tw",
+        "count": "1",
+        "first_seen": "2023-08-21 22:22:35",
+        "last_seen": "2023-08-21 22:22:35",
+        "ip_address": "104.247.81.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.firstcard.com.tw",
+        "count": "46",
+        "first_seen": "2023-01-02 20:54:53",
+        "last_seen": "2024-01-01 00:21:52",
+        "ip_address": "104.247.81.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.firstcard.com.tw",
+        "count": "180",
+        "first_seen": "2022-12-30 04:28:12",
+        "last_seen": "2024-01-18 06:34:07",
+        "ip_address": "185.53.177.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.firstcard.com.tw",
+        "count": "41200",
+        "first_seen": "2010-06-26 19:48:41",
+        "last_seen": "2022-10-29 21:11:58",
+        "ip_address": "203.69.42.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.firstcard.com.tw",
+        "count": "1",
+        "first_seen": "2023-02-10 17:39:53",
+        "last_seen": "2023-02-10 17:39:53",
+        "ip_address": "185.53.177.53",
+        "type": "IPv4"
+    }
+]

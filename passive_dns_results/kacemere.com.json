@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "kacemere.com",
+        "count": "32",
+        "first_seen": "2020-03-20 07:04:55",
+        "last_seen": "2020-04-16 06:26:13",
+        "ip_address": "23.83.157.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kacemere.com",
+        "count": "9",
+        "first_seen": "2023-05-30 10:33:37",
+        "last_seen": "2023-06-24 22:22:11",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kacemere.com",
+        "count": "671",
+        "first_seen": "2017-11-15 21:16:03",
+        "last_seen": "2019-11-14 20:29:05",
+        "ip_address": "82.165.42.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kacemere.com",
+        "count": "7",
+        "first_seen": "2020-03-05 17:21:52",
+        "last_seen": "2020-03-15 03:13:48",
+        "ip_address": "107.164.67.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kacemere.com",
+        "count": "75",
+        "first_seen": "2019-11-20 18:29:24",
+        "last_seen": "2019-12-28 09:59:56",
+        "ip_address": "109.68.33.64",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kacemere.com",
+        "count": "142",
+        "first_seen": "2022-05-29 09:30:09",
+        "last_seen": "2023-05-07 06:13:36",
+        "ip_address": "154.211.84.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kacemere.com",
+        "count": "146",
+        "first_seen": "2020-04-25 21:30:54",
+        "last_seen": "2021-01-04 04:34:57",
+        "ip_address": "156.241.105.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kacemere.com",
+        "count": "299",
+        "first_seen": "2023-05-09 16:15:26",
+        "last_seen": "2023-05-26 15:29:20",
+        "ip_address": "192.161.176.96",
+        "type": "IPv4"
+    }
+]

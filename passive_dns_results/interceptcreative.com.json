@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "interceptcreative.com",
+        "count": "5",
+        "first_seen": "2015-12-11 13:14:48",
+        "last_seen": "2015-12-14 21:24:52",
+        "ip_address": "192.185.0.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "interceptcreative.com",
+        "count": "1076",
+        "first_seen": "2016-01-21 16:50:14",
+        "last_seen": "2019-12-08 18:09:52",
+        "ip_address": "192.185.41.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "interceptcreative.com",
+        "count": "38",
+        "first_seen": "2019-12-10 09:53:17",
+        "last_seen": "2020-01-18 06:25:58",
+        "ip_address": "208.91.197.13",
+        "type": "IPv4"
+    }
+]

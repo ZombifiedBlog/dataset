@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "chicco.com.uy",
+        "count": "3438",
+        "first_seen": "2015-06-07 13:34:57",
+        "last_seen": "2022-03-26 04:45:50",
+        "ip_address": "173.214.187.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chicco.com.uy",
+        "count": "1397",
+        "first_seen": "2011-06-24 21:49:37",
+        "last_seen": "2015-06-04 03:30:06",
+        "ip_address": "200.58.120.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chicco.com.uy",
+        "count": "1645",
+        "first_seen": "2022-03-30 03:45:01",
+        "last_seen": "2024-01-18 02:35:17",
+        "ip_address": "216.122.168.101",
+        "type": "IPv4"
+    }
+]

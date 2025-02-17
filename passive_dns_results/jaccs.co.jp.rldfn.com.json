@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "jaccs.co.jp.rldfn.com",
+        "count": "1",
+        "first_seen": "2023-06-19 13:09:48",
+        "last_seen": "2023-06-19 13:09:48",
+        "ip_address": "35.186.223.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jaccs.co.jp.rldfn.com",
+        "count": "4",
+        "first_seen": "2023-06-01 12:26:24",
+        "last_seen": "2023-06-08 12:11:01",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jaccs.co.jp.rldfn.com",
+        "count": "14",
+        "first_seen": "2022-06-22 12:39:18",
+        "last_seen": "2023-03-18 08:11:20",
+        "ip_address": "154.218.115.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jaccs.co.jp.rldfn.com",
+        "count": "180",
+        "first_seen": "2021-04-19 16:47:43",
+        "last_seen": "2021-04-22 06:30:50",
+        "ip_address": "198.55.102.16",
+        "type": "IPv4"
+    }
+]

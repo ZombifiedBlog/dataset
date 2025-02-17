@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.camsg.com.cn",
+        "count": "29",
+        "first_seen": "2023-05-22 04:22:38",
+        "last_seen": "2023-10-12 08:53:14",
+        "ip_address": "38.163.140.175",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.camsg.com.cn",
+        "count": "60",
+        "first_seen": "2019-10-05 21:37:39",
+        "last_seen": "2019-10-08 00:48:57",
+        "ip_address": "45.117.102.126",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.camsg.com.cn",
+        "count": "20",
+        "first_seen": "2021-12-17 07:58:15",
+        "last_seen": "2022-02-14 20:27:44",
+        "ip_address": "154.196.5.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.camsg.com.cn",
+        "count": "54",
+        "first_seen": "2023-10-13 00:09:22",
+        "last_seen": "2024-01-16 15:43:37",
+        "ip_address": "154.223.111.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.camsg.com.cn",
+        "count": "17",
+        "first_seen": "2020-12-30 05:54:32",
+        "last_seen": "2021-10-26 10:12:32",
+        "ip_address": "192.187.114.132",
+        "type": "IPv4"
+    }
+]

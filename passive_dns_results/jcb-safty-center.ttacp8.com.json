@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "jcb-safty-center.ttacp8.com",
+        "count": "72",
+        "first_seen": "2020-09-23 06:02:08",
+        "last_seen": "2020-09-28 04:40:15",
+        "ip_address": "104.27.176.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jcb-safty-center.ttacp8.com",
+        "count": "72",
+        "first_seen": "2020-09-23 06:02:08",
+        "last_seen": "2020-09-28 04:40:15",
+        "ip_address": "104.27.177.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jcb-safty-center.ttacp8.com",
+        "count": "72",
+        "first_seen": "2020-09-23 06:02:08",
+        "last_seen": "2020-09-28 04:40:15",
+        "ip_address": "172.67.194.243",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jcb-safty-center.ttacp8.com",
+        "count": "8",
+        "first_seen": "2020-09-23 06:02:08",
+        "last_seen": "2020-09-25 19:30:34",
+        "ip_address": "2606:4700:3032::681b:b17c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "jcb-safty-center.ttacp8.com",
+        "count": "8",
+        "first_seen": "2020-09-23 06:02:08",
+        "last_seen": "2020-09-25 19:30:34",
+        "ip_address": "2606:4700:3034::ac43:c2f3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "jcb-safty-center.ttacp8.com",
+        "count": "8",
+        "first_seen": "2020-09-23 06:02:08",
+        "last_seen": "2020-09-25 19:30:34",
+        "ip_address": "2606:4700:3036::681b:b07c",
+        "type": "IPv6"
+    }
+]

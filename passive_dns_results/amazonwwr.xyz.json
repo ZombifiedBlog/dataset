@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazonwwr.xyz",
+        "count": "33",
+        "first_seen": "2019-10-05 14:01:15",
+        "last_seen": "2019-11-12 14:09:58",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonwwr.xyz",
+        "count": "5",
+        "first_seen": "2020-09-23 23:35:34",
+        "last_seen": "2020-09-24 07:36:16",
+        "ip_address": "198.211.10.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonwwr.xyz",
+        "count": "179",
+        "first_seen": "2018-10-06 08:12:45",
+        "last_seen": "2019-10-01 13:58:20",
+        "ip_address": "202.55.239.77",
+        "type": "IPv4"
+    }
+]

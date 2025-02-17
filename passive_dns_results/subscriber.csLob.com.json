@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscriber.csLob.com",
+        "count": "4152",
+        "first_seen": "2022-08-23 03:20:44",
+        "last_seen": "2022-10-24 06:54:26",
+        "ip_address": "104.21.35.91",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.csLob.com",
+        "count": "4152",
+        "first_seen": "2022-08-23 03:20:44",
+        "last_seen": "2022-10-24 06:54:26",
+        "ip_address": "172.67.216.109",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.csLob.com",
+        "count": "13",
+        "first_seen": "2023-03-20 12:22:44",
+        "last_seen": "2023-04-03 16:45:00",
+        "ip_address": "164.88.252.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.csLob.com",
+        "count": "25",
+        "first_seen": "2023-06-16 05:44:47",
+        "last_seen": "2023-10-23 16:10:17",
+        "ip_address": "168.206.135.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.csLob.com",
+        "count": "12",
+        "first_seen": "2023-04-06 12:40:52",
+        "last_seen": "2023-04-29 04:58:25",
+        "ip_address": "199.59.243.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.csLob.com",
+        "count": "188",
+        "first_seen": "2022-08-23 05:37:29",
+        "last_seen": "2022-10-23 19:06:30",
+        "ip_address": "2606:4700:3034::6815:235b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.csLob.com",
+        "count": "188",
+        "first_seen": "2022-08-23 05:37:29",
+        "last_seen": "2022-10-23 19:06:30",
+        "ip_address": "2606:4700:3036::ac43:d86d",
+        "type": "IPv6"
+    }
+]

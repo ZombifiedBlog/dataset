@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "darkcial.com",
+        "count": "38",
+        "first_seen": "2023-08-03 20:07:44",
+        "last_seen": "2023-08-21 23:14:00",
+        "ip_address": "45.199.16.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "darkcial.com",
+        "count": "43",
+        "first_seen": "2018-02-18 12:02:27",
+        "last_seen": "2018-02-24 02:01:45",
+        "ip_address": "107.6.153.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "darkcial.com",
+        "count": "28",
+        "first_seen": "2023-02-20 07:46:30",
+        "last_seen": "2023-03-29 20:10:52",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "darkcial.com",
+        "count": "80",
+        "first_seen": "2023-10-19 13:59:26",
+        "last_seen": "2024-01-15 18:21:46",
+        "ip_address": "154.201.236.132",
+        "type": "IPv4"
+    },
+    {
+        "domain": "darkcial.com",
+        "count": "87",
+        "first_seen": "2023-06-22 16:04:01",
+        "last_seen": "2023-07-30 08:41:47",
+        "ip_address": "154.213.224.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "darkcial.com",
+        "count": "7",
+        "first_seen": "2023-05-16 03:58:49",
+        "last_seen": "2023-06-01 10:40:32",
+        "ip_address": "154.216.80.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "darkcial.com",
+        "count": "41",
+        "first_seen": "2023-08-23 12:35:30",
+        "last_seen": "2023-10-14 03:13:34",
+        "ip_address": "156.254.149.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "darkcial.com",
+        "count": "12",
+        "first_seen": "2023-06-04 11:44:33",
+        "last_seen": "2023-06-22 10:39:10",
+        "ip_address": "160.124.211.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "darkcial.com",
+        "count": "4738",
+        "first_seen": "2018-02-24 08:48:21",
+        "last_seen": "2021-06-14 06:06:58",
+        "ip_address": "198.20.110.107",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "domain": "www.zkxrb.com",
+        "count": "2177",
+        "first_seen": "2021-12-10 10:02:45",
+        "last_seen": "2022-04-10 01:16:17",
+        "ip_address": "104.21.0.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zkxrb.com",
+        "count": "2177",
+        "first_seen": "2021-12-10 10:02:45",
+        "last_seen": "2022-04-10 01:16:17",
+        "ip_address": "172.67.185.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zkxrb.com",
+        "count": "9",
+        "first_seen": "2022-01-25 23:19:03",
+        "last_seen": "2022-03-28 08:18:22",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zkxrb.com",
+        "count": "9",
+        "first_seen": "2022-01-25 23:19:03",
+        "last_seen": "2022-03-28 08:18:22",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zkxrb.com",
+        "count": "1",
+        "first_seen": "2022-01-31 05:51:06",
+        "last_seen": "2022-01-31 05:51:06",
+        "ip_address": "188.114.96.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zkxrb.com",
+        "count": "1",
+        "first_seen": "2022-01-31 05:51:06",
+        "last_seen": "2022-01-31 05:51:06",
+        "ip_address": "188.114.97.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zkxrb.com",
+        "count": "6",
+        "first_seen": "2022-01-25 23:27:24",
+        "last_seen": "2022-01-26 07:09:23",
+        "ip_address": "188.114.96.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zkxrb.com",
+        "count": "6",
+        "first_seen": "2022-01-25 23:27:24",
+        "last_seen": "2022-01-26 07:09:23",
+        "ip_address": "188.114.97.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zkxrb.com",
+        "count": "1",
+        "first_seen": "2022-03-12 19:37:56",
+        "last_seen": "2022-03-12 19:37:56",
+        "ip_address": "188.114.99.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zkxrb.com",
+        "count": "342",
+        "first_seen": "2021-12-14 02:49:44",
+        "last_seen": "2022-03-14 05:46:06",
+        "ip_address": "2606:4700:3034::ac43:b9c2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zkxrb.com",
+        "count": "342",
+        "first_seen": "2021-12-14 02:49:44",
+        "last_seen": "2022-03-14 05:46:06",
+        "ip_address": "2606:4700:3035::6815:6b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zkxrb.com",
+        "count": "1",
+        "first_seen": "2022-01-31 05:51:06",
+        "last_seen": "2022-01-31 05:51:06",
+        "ip_address": "2a06:98c1:3120::f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zkxrb.com",
+        "count": "1",
+        "first_seen": "2022-01-31 05:51:06",
+        "last_seen": "2022-01-31 05:51:06",
+        "ip_address": "2a06:98c1:3121::f",
+        "type": "IPv6"
+    }
+]

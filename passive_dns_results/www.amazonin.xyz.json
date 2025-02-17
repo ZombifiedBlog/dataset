@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.amazonin.xyz",
+        "count": "26",
+        "first_seen": "2018-12-27 06:55:41",
+        "last_seen": "2019-07-19 08:37:01",
+        "ip_address": "104.18.40.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazonin.xyz",
+        "count": "26",
+        "first_seen": "2018-12-27 06:55:41",
+        "last_seen": "2019-07-19 08:37:01",
+        "ip_address": "104.18.41.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazonin.xyz",
+        "count": "18",
+        "first_seen": "2020-08-27 00:56:53",
+        "last_seen": "2020-08-27 16:55:17",
+        "ip_address": "137.220.201.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazonin.xyz",
+        "count": "13",
+        "first_seen": "2018-12-27 06:55:41",
+        "last_seen": "2019-11-26 14:46:12",
+        "ip_address": "2606:4700:30::6812:28df",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.amazonin.xyz",
+        "count": "13",
+        "first_seen": "2018-12-27 06:55:41",
+        "last_seen": "2019-11-26 14:46:12",
+        "ip_address": "2606:4700:30::6812:29df",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.sncsh.com",
+        "count": "2612",
+        "first_seen": "2021-02-01 18:43:22",
+        "last_seen": "2021-04-04 15:57:37",
+        "ip_address": "104.21.65.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sncsh.com",
+        "count": "2612",
+        "first_seen": "2021-02-01 18:43:22",
+        "last_seen": "2021-04-04 15:57:37",
+        "ip_address": "172.67.161.130",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sncsh.com",
+        "count": "3",
+        "first_seen": "2021-06-26 02:19:43",
+        "last_seen": "2021-07-28 13:46:27",
+        "ip_address": "154.92.210.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sncsh.com",
+        "count": "2",
+        "first_seen": "2021-11-20 22:14:53",
+        "last_seen": "2021-12-02 09:10:36",
+        "ip_address": "168.206.92.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sncsh.com",
+        "count": "1000",
+        "first_seen": "2021-02-01 18:43:22",
+        "last_seen": "2021-04-04 15:57:37",
+        "ip_address": "2606:4700:3037::6815:4159",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.sncsh.com",
+        "count": "1000",
+        "first_seen": "2021-02-01 18:43:22",
+        "last_seen": "2021-04-04 15:57:37",
+        "ip_address": "2606:4700:3037::ac43:a182",
+        "type": "IPv6"
+    }
+]

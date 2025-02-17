@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www-smbc-card-com.88264606.com",
+        "count": "801",
+        "first_seen": "2023-02-01 14:23:43",
+        "last_seen": "2023-02-14 00:20:12",
+        "ip_address": "104.21.34.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-smbc-card-com.88264606.com",
+        "count": "801",
+        "first_seen": "2023-02-01 14:23:43",
+        "last_seen": "2023-02-14 00:20:12",
+        "ip_address": "172.67.160.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-smbc-card-com.88264606.com",
+        "count": "1",
+        "first_seen": "2023-02-01 14:23:44",
+        "last_seen": "2023-02-01 14:23:44",
+        "ip_address": "2606:4700:3031::ac43:a079",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-smbc-card-com.88264606.com",
+        "count": "1",
+        "first_seen": "2023-02-01 14:23:44",
+        "last_seen": "2023-02-01 14:23:44",
+        "ip_address": "2606:4700:3036::6815:2271",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "zwuxrmyh.gq",
+        "count": "59",
+        "first_seen": "2022-08-03 10:31:25",
+        "last_seen": "2023-03-24 20:51:09",
+        "ip_address": "195.20.53.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zwuxrmyh.gq",
+        "count": "8",
+        "first_seen": "2021-11-29 18:32:33",
+        "last_seen": "2022-07-23 12:09:40",
+        "ip_address": "104.21.20.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zwuxrmyh.gq",
+        "count": "8",
+        "first_seen": "2021-11-29 18:32:33",
+        "last_seen": "2022-07-23 12:09:40",
+        "ip_address": "172.67.191.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zwuxrmyh.gq",
+        "count": "4",
+        "first_seen": "2021-12-03 22:17:32",
+        "last_seen": "2022-06-13 07:54:41",
+        "ip_address": "2606:4700:3032::6815:1453",
+        "type": "IPv6"
+    },
+    {
+        "domain": "zwuxrmyh.gq",
+        "count": "4",
+        "first_seen": "2021-12-03 22:17:32",
+        "last_seen": "2022-06-13 07:54:41",
+        "ip_address": "2606:4700:3035::ac43:bffe",
+        "type": "IPv6"
+    }
+]

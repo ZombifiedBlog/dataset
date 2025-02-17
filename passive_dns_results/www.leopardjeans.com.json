@@ -1,0 +1,106 @@
+[
+    {
+        "domain": "www.leopardjeans.com",
+        "count": "120",
+        "first_seen": "2023-03-26 15:19:02",
+        "last_seen": "2023-04-02 15:06:15",
+        "ip_address": "38.60.198.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.leopardjeans.com",
+        "count": "2",
+        "first_seen": "2011-02-17 05:46:12",
+        "last_seen": "2011-12-28 13:36:33",
+        "ip_address": "64.15.205.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.leopardjeans.com",
+        "count": "2",
+        "first_seen": "2011-02-17 05:46:12",
+        "last_seen": "2011-12-28 13:36:33",
+        "ip_address": "64.15.205.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.leopardjeans.com",
+        "count": "2",
+        "first_seen": "2011-02-17 05:46:12",
+        "last_seen": "2011-12-28 13:36:33",
+        "ip_address": "208.48.81.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.leopardjeans.com",
+        "count": "2",
+        "first_seen": "2011-02-17 05:46:12",
+        "last_seen": "2011-12-28 13:36:33",
+        "ip_address": "208.48.81.134",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.leopardjeans.com",
+        "count": "13",
+        "first_seen": "2023-01-24 17:11:33",
+        "last_seen": "2023-02-11 13:24:27",
+        "ip_address": "104.21.79.99",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.leopardjeans.com",
+        "count": "13",
+        "first_seen": "2023-01-24 17:11:33",
+        "last_seen": "2023-02-11 13:24:27",
+        "ip_address": "172.67.169.235",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.leopardjeans.com",
+        "count": "2",
+        "first_seen": "2023-03-26 14:06:46",
+        "last_seen": "2023-03-26 14:07:05",
+        "ip_address": "129.211.218.182",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.leopardjeans.com",
+        "count": "3",
+        "first_seen": "2010-09-03 20:07:17",
+        "last_seen": "2010-10-29 00:07:08",
+        "ip_address": "174.36.183.108",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.leopardjeans.com",
+        "count": "3",
+        "first_seen": "2010-09-03 20:07:17",
+        "last_seen": "2010-10-29 00:07:08",
+        "ip_address": "174.37.15.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.leopardjeans.com",
+        "count": "11",
+        "first_seen": "2022-10-12 17:01:14",
+        "last_seen": "2022-10-20 00:49:23",
+        "ip_address": "206.233.202.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.leopardjeans.com",
+        "count": "9",
+        "first_seen": "2023-01-24 17:11:33",
+        "last_seen": "2023-02-03 15:27:13",
+        "ip_address": "2606:4700:3033::ac43:a9eb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.leopardjeans.com",
+        "count": "9",
+        "first_seen": "2023-01-24 17:11:33",
+        "last_seen": "2023-02-03 15:27:13",
+        "ip_address": "2606:4700:3037::6815:4f63",
+        "type": "IPv6"
+    }
+]

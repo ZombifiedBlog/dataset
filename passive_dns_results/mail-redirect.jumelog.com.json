@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "mail-redirect.jumelog.com",
+        "count": "3",
+        "first_seen": "2019-07-09 06:39:03",
+        "last_seen": "2019-07-09 11:17:54",
+        "ip_address": "173.239.5.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail-redirect.jumelog.com",
+        "count": "3",
+        "first_seen": "2019-07-09 06:39:03",
+        "last_seen": "2019-07-09 11:17:54",
+        "ip_address": "173.239.8.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail-redirect.jumelog.com",
+        "count": "3",
+        "first_seen": "2019-07-09 06:39:03",
+        "last_seen": "2019-07-09 11:17:54",
+        "ip_address": "213.247.47.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail-redirect.jumelog.com",
+        "count": "3",
+        "first_seen": "2019-04-18 01:43:22",
+        "last_seen": "2019-04-18 02:03:06",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail-redirect.jumelog.com",
+        "count": "3",
+        "first_seen": "2019-04-18 01:43:22",
+        "last_seen": "2019-04-18 02:03:06",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail-redirect.jumelog.com",
+        "count": "3",
+        "first_seen": "2019-04-18 01:43:22",
+        "last_seen": "2019-04-18 02:03:06",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail-redirect.jumelog.com",
+        "count": "3",
+        "first_seen": "2019-04-18 01:43:22",
+        "last_seen": "2019-04-18 02:03:06",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail-redirect.jumelog.com",
+        "count": "57",
+        "first_seen": "2019-04-11 10:06:03",
+        "last_seen": "2019-04-21 21:38:23",
+        "ip_address": "199.192.17.203",
+        "type": "IPv4"
+    }
+]

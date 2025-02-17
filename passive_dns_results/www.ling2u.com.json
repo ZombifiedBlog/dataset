@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.ling2u.com",
+        "count": "67",
+        "first_seen": "2023-05-03 23:28:03",
+        "last_seen": "2024-01-17 18:42:09",
+        "ip_address": "69.46.69.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ling2u.com",
+        "count": "56",
+        "first_seen": "2021-07-13 02:02:44",
+        "last_seen": "2022-06-06 23:31:15",
+        "ip_address": "104.140.133.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ling2u.com",
+        "count": "16",
+        "first_seen": "2016-02-29 00:36:13",
+        "last_seen": "2017-02-08 16:40:01",
+        "ip_address": "141.8.224.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ling2u.com",
+        "count": "1",
+        "first_seen": "2011-10-09 11:38:43",
+        "last_seen": "2011-10-09 11:38:43",
+        "ip_address": "199.59.241.249",
+        "type": "IPv4"
+    }
+]

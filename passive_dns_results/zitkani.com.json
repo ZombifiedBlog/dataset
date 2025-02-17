@@ -1,0 +1,162 @@
+[
+    {
+        "domain": "zitkani.com",
+        "count": "838",
+        "first_seen": "2019-08-21 11:18:12",
+        "last_seen": "2020-05-24 11:38:51",
+        "ip_address": "104.18.56.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zitkani.com",
+        "count": "838",
+        "first_seen": "2019-08-21 11:18:12",
+        "last_seen": "2020-05-24 11:38:51",
+        "ip_address": "104.18.57.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zitkani.com",
+        "count": "554",
+        "first_seen": "2020-05-26 22:01:35",
+        "last_seen": "2021-01-14 03:24:19",
+        "ip_address": "104.18.56.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zitkani.com",
+        "count": "554",
+        "first_seen": "2020-05-26 22:01:35",
+        "last_seen": "2021-01-14 03:24:19",
+        "ip_address": "104.18.57.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zitkani.com",
+        "count": "554",
+        "first_seen": "2020-05-26 22:01:35",
+        "last_seen": "2021-01-14 03:24:19",
+        "ip_address": "172.67.159.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zitkani.com",
+        "count": "3094",
+        "first_seen": "2021-01-15 02:05:02",
+        "last_seen": "2024-01-15 07:38:35",
+        "ip_address": "104.21.42.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zitkani.com",
+        "count": "3094",
+        "first_seen": "2021-01-15 02:05:02",
+        "last_seen": "2024-01-15 07:38:35",
+        "ip_address": "172.67.159.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zitkani.com",
+        "count": "4",
+        "first_seen": "2019-08-24 17:56:20",
+        "last_seen": "2019-08-30 04:03:25",
+        "ip_address": "185.25.118.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zitkani.com",
+        "count": "2",
+        "first_seen": "2022-03-13 16:51:14",
+        "last_seen": "2022-03-14 03:31:16",
+        "ip_address": "188.114.97.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zitkani.com",
+        "count": "4",
+        "first_seen": "2019-08-15 17:10:44",
+        "last_seen": "2019-08-20 07:01:18",
+        "ip_address": "195.149.114.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zitkani.com",
+        "count": "54",
+        "first_seen": "2019-09-06 08:45:02",
+        "last_seen": "2020-01-14 23:46:22",
+        "ip_address": "2606:4700:30::6812:38f8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "zitkani.com",
+        "count": "54",
+        "first_seen": "2019-09-06 08:45:02",
+        "last_seen": "2020-01-14 23:46:22",
+        "ip_address": "2606:4700:30::6812:39f8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "zitkani.com",
+        "count": "1212",
+        "first_seen": "2021-01-15 03:56:02",
+        "last_seen": "2024-01-15 07:38:19",
+        "ip_address": "2606:4700:3030::6815:2a4c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "zitkani.com",
+        "count": "1212",
+        "first_seen": "2021-01-15 03:56:02",
+        "last_seen": "2024-01-15 07:38:19",
+        "ip_address": "2606:4700:3030::ac43:9f3c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "zitkani.com",
+        "count": "101",
+        "first_seen": "2020-05-26 22:01:35",
+        "last_seen": "2021-01-11 07:18:54",
+        "ip_address": "2606:4700:3030::ac43:9f3c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "zitkani.com",
+        "count": "101",
+        "first_seen": "2020-05-26 22:01:35",
+        "last_seen": "2021-01-11 07:18:54",
+        "ip_address": "2606:4700:3032::6812:38f8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "zitkani.com",
+        "count": "101",
+        "first_seen": "2020-05-26 22:01:35",
+        "last_seen": "2021-01-11 07:18:54",
+        "ip_address": "2606:4700:3035::6812:39f8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "zitkani.com",
+        "count": "454",
+        "first_seen": "2020-01-21 15:18:05",
+        "last_seen": "2020-05-24 11:38:51",
+        "ip_address": "2606:4700:3032::6812:38f8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "zitkani.com",
+        "count": "454",
+        "first_seen": "2020-01-21 15:18:05",
+        "last_seen": "2020-05-24 11:38:51",
+        "ip_address": "2606:4700:3035::6812:39f8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "zitkani.com",
+        "count": "2",
+        "first_seen": "2022-03-13 16:51:14",
+        "last_seen": "2022-03-14 03:31:16",
+        "ip_address": "2a06:98c1:3122:8000::",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "my.jcb.co.dtcbxf.com",
+        "count": "20",
+        "first_seen": "2022-06-10 04:44:17",
+        "last_seen": "2023-02-09 17:52:37",
+        "ip_address": "46.232.16.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.dtcbxf.com",
+        "count": "2",
+        "first_seen": "2023-03-13 17:22:30",
+        "last_seen": "2023-03-14 17:28:08",
+        "ip_address": "154.64.238.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.dtcbxf.com",
+        "count": "373",
+        "first_seen": "2021-01-28 17:59:38",
+        "last_seen": "2021-02-02 22:11:51",
+        "ip_address": "155.94.151.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.dtcbxf.com",
+        "count": "30",
+        "first_seen": "2021-05-17 23:35:39",
+        "last_seen": "2022-04-12 08:26:04",
+        "ip_address": "172.247.203.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.dtcbxf.com",
+        "count": "11",
+        "first_seen": "2021-02-04 18:41:15",
+        "last_seen": "2021-02-06 19:03:16",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.dtcbxf.com",
+        "count": "3",
+        "first_seen": "2021-02-05 00:25:37",
+        "last_seen": "2021-02-13 08:50:22",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.dtcbxf.com",
+        "count": "2",
+        "first_seen": "2021-03-06 18:13:45",
+        "last_seen": "2021-03-06 19:43:31",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    }
+]

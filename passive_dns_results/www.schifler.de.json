@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.schifler.de",
+        "count": "93",
+        "first_seen": "2014-05-14 13:03:23",
+        "last_seen": "2014-09-26 07:43:37",
+        "ip_address": "69.163.153.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.schifler.de",
+        "count": "19",
+        "first_seen": "2013-10-09 07:10:53",
+        "last_seen": "2014-04-24 07:29:44",
+        "ip_address": "69.163.169.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.schifler.de",
+        "count": "1060",
+        "first_seen": "2014-09-29 14:26:00",
+        "last_seen": "2016-05-25 20:03:00",
+        "ip_address": "69.163.208.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.schifler.de",
+        "count": "589",
+        "first_seen": "2016-05-26 19:27:05",
+        "last_seen": "2017-02-24 11:07:44",
+        "ip_address": "69.163.224.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.schifler.de",
+        "count": "3342",
+        "first_seen": "2020-11-24 05:22:55",
+        "last_seen": "2024-01-17 07:17:29",
+        "ip_address": "192.206.7.184",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.schifler.de",
+        "count": "2902",
+        "first_seen": "2017-02-28 10:53:39",
+        "last_seen": "2020-11-23 13:20:22",
+        "ip_address": "205.204.76.37",
+        "type": "IPv4"
+    }
+]

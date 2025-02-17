@@ -1,0 +1,210 @@
+[
+    {
+        "domain": "adivy.com",
+        "count": "1",
+        "first_seen": "2010-09-17 07:49:19",
+        "last_seen": "2010-09-17 07:49:19",
+        "ip_address": "64.202.189.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "adivy.com",
+        "count": "13",
+        "first_seen": "2012-11-03 23:47:50",
+        "last_seen": "2013-08-28 14:31:47",
+        "ip_address": "72.29.79.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "adivy.com",
+        "count": "1482",
+        "first_seen": "2021-01-13 20:17:46",
+        "last_seen": "2024-01-18 06:30:21",
+        "ip_address": "104.21.4.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "adivy.com",
+        "count": "1482",
+        "first_seen": "2021-01-13 20:17:46",
+        "last_seen": "2024-01-18 06:30:21",
+        "ip_address": "172.67.132.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "adivy.com",
+        "count": "5319",
+        "first_seen": "2016-09-25 12:50:31",
+        "last_seen": "2020-05-26 14:53:00",
+        "ip_address": "104.28.30.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "adivy.com",
+        "count": "5319",
+        "first_seen": "2016-09-25 12:50:31",
+        "last_seen": "2020-05-26 14:53:00",
+        "ip_address": "104.28.31.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "adivy.com",
+        "count": "390",
+        "first_seen": "2020-05-27 18:27:36",
+        "last_seen": "2021-01-08 22:21:49",
+        "ip_address": "104.28.30.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "adivy.com",
+        "count": "390",
+        "first_seen": "2020-05-27 18:27:36",
+        "last_seen": "2021-01-08 22:21:49",
+        "ip_address": "104.28.31.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "adivy.com",
+        "count": "390",
+        "first_seen": "2020-05-27 18:27:36",
+        "last_seen": "2021-01-08 22:21:49",
+        "ip_address": "172.67.132.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "adivy.com",
+        "count": "987",
+        "first_seen": "2014-09-22 17:30:10",
+        "last_seen": "2016-09-24 07:10:58",
+        "ip_address": "137.117.241.42",
+        "type": "IPv4"
+    },
+    {
+        "domain": "adivy.com",
+        "count": "1",
+        "first_seen": "2021-01-01 10:46:44",
+        "last_seen": "2021-01-01 10:46:44",
+        "ip_address": "172.64.84.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "adivy.com",
+        "count": "7",
+        "first_seen": "2012-10-13 01:53:49",
+        "last_seen": "2012-10-31 05:02:08",
+        "ip_address": "173.245.60.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "adivy.com",
+        "count": "7",
+        "first_seen": "2012-10-13 01:53:49",
+        "last_seen": "2012-10-31 05:02:08",
+        "ip_address": "173.245.60.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "adivy.com",
+        "count": "46",
+        "first_seen": "2013-11-04 23:59:49",
+        "last_seen": "2014-09-15 01:54:43",
+        "ip_address": "184.171.255.82",
+        "type": "IPv4"
+    },
+    {
+        "domain": "adivy.com",
+        "count": "1",
+        "first_seen": "2022-03-12 21:50:22",
+        "last_seen": "2022-03-12 21:50:22",
+        "ip_address": "188.114.97.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "adivy.com",
+        "count": "996",
+        "first_seen": "2016-09-25 12:50:31",
+        "last_seen": "2018-09-23 01:10:40",
+        "ip_address": "2400:cb00:2048:1::681c:1e41",
+        "type": "IPv6"
+    },
+    {
+        "domain": "adivy.com",
+        "count": "996",
+        "first_seen": "2016-09-25 12:50:31",
+        "last_seen": "2018-09-23 01:10:40",
+        "ip_address": "2400:cb00:2048:1::681c:1f41",
+        "type": "IPv6"
+    },
+    {
+        "domain": "adivy.com",
+        "count": "466",
+        "first_seen": "2018-10-02 07:44:42",
+        "last_seen": "2020-01-13 17:41:33",
+        "ip_address": "2606:4700:30::681c:1e41",
+        "type": "IPv6"
+    },
+    {
+        "domain": "adivy.com",
+        "count": "466",
+        "first_seen": "2018-10-02 07:44:42",
+        "last_seen": "2020-01-13 17:41:33",
+        "ip_address": "2606:4700:30::681c:1f41",
+        "type": "IPv6"
+    },
+    {
+        "domain": "adivy.com",
+        "count": "98",
+        "first_seen": "2020-05-28 10:54:18",
+        "last_seen": "2020-12-20 07:22:04",
+        "ip_address": "2606:4700:3033::681c:1f41",
+        "type": "IPv6"
+    },
+    {
+        "domain": "adivy.com",
+        "count": "98",
+        "first_seen": "2020-05-28 10:54:18",
+        "last_seen": "2020-12-20 07:22:04",
+        "ip_address": "2606:4700:3033::ac43:8418",
+        "type": "IPv6"
+    },
+    {
+        "domain": "adivy.com",
+        "count": "98",
+        "first_seen": "2020-05-28 10:54:18",
+        "last_seen": "2020-12-20 07:22:04",
+        "ip_address": "2606:4700:3036::681c:1e41",
+        "type": "IPv6"
+    },
+    {
+        "domain": "adivy.com",
+        "count": "154",
+        "first_seen": "2020-01-16 17:17:12",
+        "last_seen": "2020-05-19 00:16:21",
+        "ip_address": "2606:4700:3033::681c:1f41",
+        "type": "IPv6"
+    },
+    {
+        "domain": "adivy.com",
+        "count": "154",
+        "first_seen": "2020-01-16 17:17:12",
+        "last_seen": "2020-05-19 00:16:21",
+        "ip_address": "2606:4700:3036::681c:1e41",
+        "type": "IPv6"
+    },
+    {
+        "domain": "adivy.com",
+        "count": "232",
+        "first_seen": "2021-01-20 08:35:06",
+        "last_seen": "2024-01-16 07:15:54",
+        "ip_address": "2606:4700:3033::ac43:8418",
+        "type": "IPv6"
+    },
+    {
+        "domain": "adivy.com",
+        "count": "232",
+        "first_seen": "2021-01-20 08:35:06",
+        "last_seen": "2024-01-16 07:15:54",
+        "ip_address": "2606:4700:3035::6815:481",
+        "type": "IPv6"
+    }
+]

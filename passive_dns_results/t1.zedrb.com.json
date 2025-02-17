@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "t1.zedrb.com",
+        "count": "4799",
+        "first_seen": "2022-02-24 01:39:32",
+        "last_seen": "2023-02-02 22:48:33",
+        "ip_address": "104.21.24.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "t1.zedrb.com",
+        "count": "4799",
+        "first_seen": "2022-02-24 01:39:32",
+        "last_seen": "2023-02-02 22:48:33",
+        "ip_address": "172.67.216.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "t1.zedrb.com",
+        "count": "18",
+        "first_seen": "2022-03-12 02:50:34",
+        "last_seen": "2022-03-14 08:40:45",
+        "ip_address": "188.114.99.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "t1.zedrb.com",
+        "count": "2056",
+        "first_seen": "2022-02-24 04:58:12",
+        "last_seen": "2023-02-08 17:27:09",
+        "ip_address": "2606:4700:3033::ac43:d8bd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "t1.zedrb.com",
+        "count": "2056",
+        "first_seen": "2022-02-24 04:58:12",
+        "last_seen": "2023-02-08 17:27:09",
+        "ip_address": "2606:4700:3036::6815:1823",
+        "type": "IPv6"
+    },
+    {
+        "domain": "t1.zedrb.com",
+        "count": "1",
+        "first_seen": "2022-03-14 01:01:36",
+        "last_seen": "2022-03-14 01:01:36",
+        "ip_address": "2a06:98c1:3123:8000::",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "smcc-cacc.woosz.com",
+        "count": "22",
+        "first_seen": "2021-08-06 18:27:04",
+        "last_seen": "2021-11-10 18:28:31",
+        "ip_address": "23.224.44.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.woosz.com",
+        "count": "66",
+        "first_seen": "2020-11-08 10:04:14",
+        "last_seen": "2020-11-10 19:01:54",
+        "ip_address": "104.168.169.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.woosz.com",
+        "count": "3",
+        "first_seen": "2020-12-14 08:10:36",
+        "last_seen": "2020-12-21 05:23:47",
+        "ip_address": "162.209.157.143",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.woosz.com",
+        "count": "1",
+        "first_seen": "2021-01-07 18:12:58",
+        "last_seen": "2021-01-07 18:12:58",
+        "ip_address": "162.209.157.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.woosz.com",
+        "count": "1",
+        "first_seen": "2021-02-07 18:54:41",
+        "last_seen": "2021-02-07 18:54:41",
+        "ip_address": "162.209.195.206",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.woosz.com",
+        "count": "8",
+        "first_seen": "2021-02-11 18:49:55",
+        "last_seen": "2021-03-18 17:27:52",
+        "ip_address": "164.155.120.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.woosz.com",
+        "count": "28",
+        "first_seen": "2021-04-06 17:21:29",
+        "last_seen": "2021-07-28 17:54:00",
+        "ip_address": "164.155.122.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.woosz.com",
+        "count": "15",
+        "first_seen": "2021-01-17 19:02:54",
+        "last_seen": "2021-02-01 18:55:56",
+        "ip_address": "164.155.122.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.woosz.com",
+        "count": "5",
+        "first_seen": "2023-02-26 16:37:31",
+        "last_seen": "2023-02-26 16:37:47",
+        "ip_address": "170.106.49.122",
+        "type": "IPv4"
+    }
+]

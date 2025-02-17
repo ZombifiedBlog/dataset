@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "smcc-cacc.shx8p.top",
+        "count": "3",
+        "first_seen": "2021-01-15 18:37:15",
+        "last_seen": "2021-01-20 16:03:35",
+        "ip_address": "45.150.206.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.shx8p.top",
+        "count": "7",
+        "first_seen": "2021-10-23 05:50:31",
+        "last_seen": "2021-11-21 18:00:16",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.shx8p.top",
+        "count": "129",
+        "first_seen": "2020-10-26 04:47:39",
+        "last_seen": "2020-10-28 10:13:45",
+        "ip_address": "98.126.18.121",
+        "type": "IPv4"
+    }
+]

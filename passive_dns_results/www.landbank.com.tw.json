@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.landbank.com.tw",
+        "count": "58322",
+        "first_seen": "2010-07-20 04:36:37",
+        "last_seen": "2018-02-27 00:57:44",
+        "ip_address": "202.39.57.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.landbank.com.tw",
+        "count": "42054",
+        "first_seen": "2018-02-27 02:00:40",
+        "last_seen": "2021-07-27 07:25:58",
+        "ip_address": "202.39.57.131",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.landbank.com.tw",
+        "count": "12740",
+        "first_seen": "2013-10-16 02:48:41",
+        "last_seen": "2018-02-27 00:57:44",
+        "ip_address": "2407:4700:39:39::12",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.landbank.com.tw",
+        "count": "11072",
+        "first_seen": "2018-02-27 05:34:50",
+        "last_seen": "2021-07-27 05:48:21",
+        "ip_address": "2407:4700:253:3::afd:3b3",
+        "type": "IPv6"
+    }
+]

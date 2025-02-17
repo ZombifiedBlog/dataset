@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "ropin.ru",
+        "count": "4",
+        "first_seen": "2019-08-13 20:05:39",
+        "last_seen": "2019-08-15 09:45:26",
+        "ip_address": "5.101.152.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ropin.ru",
+        "count": "9",
+        "first_seen": "2020-09-04 16:19:29",
+        "last_seen": "2020-09-14 07:38:14",
+        "ip_address": "5.101.159.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ropin.ru",
+        "count": "28",
+        "first_seen": "2020-08-17 05:04:48",
+        "last_seen": "2020-09-02 18:26:31",
+        "ip_address": "5.101.159.249",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ropin.ru",
+        "count": "753",
+        "first_seen": "2020-11-10 21:32:06",
+        "last_seen": "2024-01-17 16:52:53",
+        "ip_address": "31.177.76.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ropin.ru",
+        "count": "753",
+        "first_seen": "2020-11-10 21:32:06",
+        "last_seen": "2024-01-17 16:52:53",
+        "ip_address": "31.177.80.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ropin.ru",
+        "count": "316",
+        "first_seen": "2019-08-15 13:49:29",
+        "last_seen": "2020-08-11 22:55:20",
+        "ip_address": "87.236.16.134",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ropin.ru",
+        "count": "226",
+        "first_seen": "2014-06-15 04:11:16",
+        "last_seen": "2014-08-11 16:21:35",
+        "ip_address": "178.19.99.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ropin.ru",
+        "count": "1",
+        "first_seen": "2013-08-30 09:12:23",
+        "last_seen": "2013-08-30 09:12:23",
+        "ip_address": "178.63.25.139",
+        "type": "IPv4"
+    }
+]

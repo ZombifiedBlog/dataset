@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "healthadvance.com",
+        "count": "1008704",
+        "first_seen": "2015-02-13 16:20:44",
+        "last_seen": "2024-01-18 15:07:23",
+        "ip_address": "65.156.1.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "healthadvance.com",
+        "count": "8153",
+        "first_seen": "2014-12-17 17:29:22",
+        "last_seen": "2015-02-13 16:08:09",
+        "ip_address": "129.41.23.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "healthadvance.com",
+        "count": "420",
+        "first_seen": "2011-04-24 05:46:49",
+        "last_seen": "2013-03-22 23:48:35",
+        "ip_address": "145.36.42.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "healthadvance.com",
+        "count": "240",
+        "first_seen": "2013-03-22 23:53:53",
+        "last_seen": "2014-12-17 16:09:32",
+        "ip_address": "198.81.200.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "healthadvance.com",
+        "count": "124",
+        "first_seen": "2010-08-30 23:03:19",
+        "last_seen": "2011-04-06 01:01:56",
+        "ip_address": "208.73.210.76",
+        "type": "IPv4"
+    }
+]

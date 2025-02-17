@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.fun-dations.com",
+        "count": "1",
+        "first_seen": "2021-10-03 04:36:42",
+        "last_seen": "2021-10-03 04:36:42",
+        "ip_address": "45.199.19.227",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.fun-dations.com",
+        "count": "826",
+        "first_seen": "2022-08-23 15:49:25",
+        "last_seen": "2022-09-14 17:47:57",
+        "ip_address": "104.223.16.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.fun-dations.com",
+        "count": "1",
+        "first_seen": "2021-12-22 13:21:45",
+        "last_seen": "2021-12-22 13:21:45",
+        "ip_address": "154.211.19.185",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.fun-dations.com",
+        "count": "1",
+        "first_seen": "2022-04-10 06:27:27",
+        "last_seen": "2022-04-10 06:27:27",
+        "ip_address": "154.214.107.231",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.fun-dations.com",
+        "count": "1",
+        "first_seen": "2022-06-02 05:24:35",
+        "last_seen": "2022-06-02 05:24:35",
+        "ip_address": "156.238.103.86",
+        "type": "IPv4"
+    }
+]

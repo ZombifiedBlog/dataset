@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "my-jcb.zkrjh22.top",
+        "count": "11427",
+        "first_seen": "2020-10-22 17:36:52",
+        "last_seen": "2020-11-19 16:19:58",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.zkrjh22.top",
+        "count": "29",
+        "first_seen": "2020-09-10 09:42:51",
+        "last_seen": "2020-10-19 17:35:51",
+        "ip_address": "104.24.100.249",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.zkrjh22.top",
+        "count": "29",
+        "first_seen": "2020-09-10 09:42:51",
+        "last_seen": "2020-10-19 17:35:51",
+        "ip_address": "104.24.101.249",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.zkrjh22.top",
+        "count": "29",
+        "first_seen": "2020-09-10 09:42:51",
+        "last_seen": "2020-10-19 17:35:51",
+        "ip_address": "172.67.158.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.zkrjh22.top",
+        "count": "8",
+        "first_seen": "2020-09-11 10:27:50",
+        "last_seen": "2020-09-11 22:26:46",
+        "ip_address": "2606:4700:3031::6818:65f9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.zkrjh22.top",
+        "count": "8",
+        "first_seen": "2020-09-11 10:27:50",
+        "last_seen": "2020-09-11 22:26:46",
+        "ip_address": "2606:4700:3032::6818:64f9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.zkrjh22.top",
+        "count": "8",
+        "first_seen": "2020-09-11 10:27:50",
+        "last_seen": "2020-09-11 22:26:46",
+        "ip_address": "2606:4700:3033::ac43:9ed1",
+        "type": "IPv6"
+    }
+]

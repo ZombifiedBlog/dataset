@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amdamx.com",
+        "count": "95",
+        "first_seen": "2020-12-18 15:33:07",
+        "last_seen": "2020-12-20 02:17:25",
+        "ip_address": "5.189.223.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amdamx.com",
+        "count": "2",
+        "first_seen": "2022-01-22 20:47:58",
+        "last_seen": "2022-01-26 21:16:32",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amdamx.com",
+        "count": "142",
+        "first_seen": "2020-12-20 04:14:02",
+        "last_seen": "2020-12-28 08:12:57",
+        "ip_address": "128.14.142.220",
+        "type": "IPv4"
+    }
+]

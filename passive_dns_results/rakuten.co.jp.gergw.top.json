@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "rakuten.co.jp.gergw.top",
+        "count": "2",
+        "first_seen": "2023-04-06 01:23:32",
+        "last_seen": "2023-04-06 01:23:34",
+        "ip_address": "8.210.119.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten.co.jp.gergw.top",
+        "count": "10",
+        "first_seen": "2022-01-12 02:26:01",
+        "last_seen": "2022-02-13 00:43:59",
+        "ip_address": "43.130.65.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten.co.jp.gergw.top",
+        "count": "26",
+        "first_seen": "2020-11-03 07:14:11",
+        "last_seen": "2020-11-28 18:58:00",
+        "ip_address": "47.74.14.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten.co.jp.gergw.top",
+        "count": "179",
+        "first_seen": "2021-01-14 18:45:33",
+        "last_seen": "2022-01-11 02:25:59",
+        "ip_address": "103.85.21.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten.co.jp.gergw.top",
+        "count": "232",
+        "first_seen": "2020-10-24 16:23:41",
+        "last_seen": "2020-11-02 14:52:51",
+        "ip_address": "173.82.234.89",
+        "type": "IPv4"
+    }
+]

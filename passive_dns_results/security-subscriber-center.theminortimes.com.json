@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "security-subscriber-center.theminortimes.com",
+        "count": "5345",
+        "first_seen": "2022-10-01 23:28:16",
+        "last_seen": "2023-01-15 19:25:43",
+        "ip_address": "104.21.40.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.theminortimes.com",
+        "count": "5345",
+        "first_seen": "2022-10-01 23:28:16",
+        "last_seen": "2023-01-15 19:25:43",
+        "ip_address": "172.67.157.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.theminortimes.com",
+        "count": "36",
+        "first_seen": "2023-03-30 06:17:33",
+        "last_seen": "2024-01-10 06:44:19",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.theminortimes.com",
+        "count": "251",
+        "first_seen": "2022-10-07 23:53:53",
+        "last_seen": "2023-01-15 19:26:00",
+        "ip_address": "2606:4700:3032::ac43:9d0b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "security-subscriber-center.theminortimes.com",
+        "count": "251",
+        "first_seen": "2022-10-07 23:53:53",
+        "last_seen": "2023-01-15 19:26:00",
+        "ip_address": "2606:4700:3035::6815:28d1",
+        "type": "IPv6"
+    }
+]

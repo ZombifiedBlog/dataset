@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.a.miceacd.com",
+        "count": "144",
+        "first_seen": "2022-01-09 18:05:03",
+        "last_seen": "2022-01-16 04:04:56",
+        "ip_address": "172.245.94.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.a.miceacd.com",
+        "count": "1",
+        "first_seen": "2023-01-09 19:39:54",
+        "last_seen": "2023-01-09 19:39:54",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.a.miceacd.com",
+        "count": "2",
+        "first_seen": "2023-01-09 19:38:30",
+        "last_seen": "2023-01-12 05:51:40",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.a.miceacd.com",
+        "count": "6",
+        "first_seen": "2023-01-09 19:38:30",
+        "last_seen": "2023-01-12 05:51:40",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

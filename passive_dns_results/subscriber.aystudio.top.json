@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.aystudio.top",
+        "count": "14",
+        "first_seen": "2023-07-28 05:51:04",
+        "last_seen": "2023-08-05 11:00:07",
+        "ip_address": "49.51.79.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.aystudio.top",
+        "count": "10478",
+        "first_seen": "2023-02-02 18:17:21",
+        "last_seen": "2023-07-13 18:45:25",
+        "ip_address": "104.21.2.252",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.aystudio.top",
+        "count": "10478",
+        "first_seen": "2023-02-02 18:17:21",
+        "last_seen": "2023-07-13 18:45:25",
+        "ip_address": "172.67.129.243",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.aystudio.top",
+        "count": "314",
+        "first_seen": "2023-02-02 18:48:14",
+        "last_seen": "2023-07-13 18:45:25",
+        "ip_address": "2606:4700:3034::ac43:81f3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.aystudio.top",
+        "count": "314",
+        "first_seen": "2023-02-02 18:48:14",
+        "last_seen": "2023-07-13 18:45:25",
+        "ip_address": "2606:4700:3037::6815:2fc",
+        "type": "IPv6"
+    }
+]

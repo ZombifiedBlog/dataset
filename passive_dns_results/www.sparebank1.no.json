@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.sparebank1.no",
+        "count": "10962",
+        "first_seen": "2010-06-29 13:23:13",
+        "last_seen": "2013-10-31 08:13:10",
+        "ip_address": "139.112.16.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sparebank1.no",
+        "count": "723112",
+        "first_seen": "2014-02-06 00:43:10",
+        "last_seen": "2024-01-18 16:51:29",
+        "ip_address": "193.212.175.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sparebank1.no",
+        "count": "381",
+        "first_seen": "2013-10-31 14:50:31",
+        "last_seen": "2014-02-04 21:28:46",
+        "ip_address": "193.212.175.221",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.xiayu3c.top",
+        "count": "7",
+        "first_seen": "2022-06-19 23:08:59",
+        "last_seen": "2022-07-07 07:08:07",
+        "ip_address": "43.130.65.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.xiayu3c.top",
+        "count": "380",
+        "first_seen": "2022-03-10 15:40:00",
+        "last_seen": "2022-06-08 14:49:33",
+        "ip_address": "104.21.15.159",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.xiayu3c.top",
+        "count": "380",
+        "first_seen": "2022-03-10 15:40:00",
+        "last_seen": "2022-06-08 14:49:33",
+        "ip_address": "172.67.163.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.xiayu3c.top",
+        "count": "4",
+        "first_seen": "2022-03-11 06:45:49",
+        "last_seen": "2022-03-14 06:53:19",
+        "ip_address": "188.114.97.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.xiayu3c.top",
+        "count": "37",
+        "first_seen": "2022-03-10 22:29:08",
+        "last_seen": "2022-06-08 14:49:33",
+        "ip_address": "2606:4700:3030::6815:f9f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.xiayu3c.top",
+        "count": "37",
+        "first_seen": "2022-03-10 22:29:08",
+        "last_seen": "2022-06-08 14:49:33",
+        "ip_address": "2606:4700:3031::ac43:a31b",
+        "type": "IPv6"
+    }
+]

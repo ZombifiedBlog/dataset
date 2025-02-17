@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "wwwazmonzz.jirisanfarm.com",
+        "count": "85",
+        "first_seen": "2020-02-15 15:35:27",
+        "last_seen": "2020-02-17 06:37:35",
+        "ip_address": "104.31.68.63",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wwwazmonzz.jirisanfarm.com",
+        "count": "85",
+        "first_seen": "2020-02-15 15:35:27",
+        "last_seen": "2020-02-17 06:37:35",
+        "ip_address": "104.31.69.63",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wwwazmonzz.jirisanfarm.com",
+        "count": "70",
+        "first_seen": "2020-02-15 16:33:18",
+        "last_seen": "2020-02-17 06:37:35",
+        "ip_address": "2606:4700:3030::681f:453f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "wwwazmonzz.jirisanfarm.com",
+        "count": "70",
+        "first_seen": "2020-02-15 16:33:18",
+        "last_seen": "2020-02-17 06:37:35",
+        "ip_address": "2606:4700:3032::681f:443f",
+        "type": "IPv6"
+    }
+]

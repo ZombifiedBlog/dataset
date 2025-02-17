@@ -1,0 +1,122 @@
+[
+    {
+        "domain": "www.megabank.com.tw",
+        "count": "3",
+        "first_seen": "2015-06-13 19:07:30",
+        "last_seen": "2015-06-13 19:08:19",
+        "ip_address": "103.228.216.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.megabank.com.tw",
+        "count": "3",
+        "first_seen": "2015-06-13 19:07:30",
+        "last_seen": "2015-06-13 19:08:19",
+        "ip_address": "103.228.218.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.megabank.com.tw",
+        "count": "3",
+        "first_seen": "2015-06-13 19:07:30",
+        "last_seen": "2015-06-13 19:08:19",
+        "ip_address": "203.66.132.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.megabank.com.tw",
+        "count": "3",
+        "first_seen": "2015-06-13 19:07:30",
+        "last_seen": "2015-06-13 19:08:19",
+        "ip_address": "203.74.189.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.megabank.com.tw",
+        "count": "3",
+        "first_seen": "2015-06-13 19:07:30",
+        "last_seen": "2015-06-13 19:08:19",
+        "ip_address": "219.87.7.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.megabank.com.tw",
+        "count": "20118",
+        "first_seen": "2015-06-15 00:43:52",
+        "last_seen": "2015-07-18 02:07:47",
+        "ip_address": "103.228.218.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.megabank.com.tw",
+        "count": "237946",
+        "first_seen": "2010-06-30 02:33:10",
+        "last_seen": "2015-07-18 01:53:01",
+        "ip_address": "203.66.132.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.megabank.com.tw",
+        "count": "202",
+        "first_seen": "2010-10-05 05:55:38",
+        "last_seen": "2011-12-12 08:56:51",
+        "ip_address": "203.66.132.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.megabank.com.tw",
+        "count": "202",
+        "first_seen": "2010-10-05 05:55:38",
+        "last_seen": "2011-12-12 08:56:51",
+        "ip_address": "203.74.189.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.megabank.com.tw",
+        "count": "10",
+        "first_seen": "2014-08-15 18:56:57",
+        "last_seen": "2015-01-17 01:03:41",
+        "ip_address": "203.66.132.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.megabank.com.tw",
+        "count": "10",
+        "first_seen": "2014-08-15 18:56:57",
+        "last_seen": "2015-01-17 01:03:41",
+        "ip_address": "203.74.189.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.megabank.com.tw",
+        "count": "10",
+        "first_seen": "2014-08-15 18:56:57",
+        "last_seen": "2015-01-17 01:03:41",
+        "ip_address": "219.87.7.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.megabank.com.tw",
+        "count": "332540",
+        "first_seen": "2010-07-09 07:54:37",
+        "last_seen": "2015-07-18 02:03:46",
+        "ip_address": "203.74.189.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.megabank.com.tw",
+        "count": "134573",
+        "first_seen": "2013-02-07 01:25:51",
+        "last_seen": "2015-07-18 02:08:10",
+        "ip_address": "219.87.7.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.megabank.com.tw",
+        "count": "35875",
+        "first_seen": "2014-10-01 10:05:18",
+        "last_seen": "2015-07-18 01:54:51",
+        "ip_address": "2400:d580:a0:3::88",
+        "type": "IPv6"
+    }
+]

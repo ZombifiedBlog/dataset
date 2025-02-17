@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "freejob-search.com",
+        "count": "10",
+        "first_seen": "2016-11-19 22:51:44",
+        "last_seen": "2016-12-18 11:17:26",
+        "ip_address": "47.89.58.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "freejob-search.com",
+        "count": "162",
+        "first_seen": "2020-03-16 17:33:05",
+        "last_seen": "2020-03-18 14:46:44",
+        "ip_address": "104.24.122.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "freejob-search.com",
+        "count": "162",
+        "first_seen": "2020-03-16 17:33:05",
+        "last_seen": "2020-03-18 14:46:44",
+        "ip_address": "104.24.123.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "freejob-search.com",
+        "count": "84",
+        "first_seen": "2017-02-15 10:11:07",
+        "last_seen": "2017-11-29 00:04:20",
+        "ip_address": "106.14.53.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "freejob-search.com",
+        "count": "61",
+        "first_seen": "2015-11-12 10:11:36",
+        "last_seen": "2016-11-05 23:35:30",
+        "ip_address": "114.215.89.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "freejob-search.com",
+        "count": "40",
+        "first_seen": "2019-04-23 18:50:43",
+        "last_seen": "2019-06-18 00:25:36",
+        "ip_address": "154.92.14.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "freejob-search.com",
+        "count": "25",
+        "first_seen": "2019-10-15 05:59:06",
+        "last_seen": "2019-11-30 03:24:18",
+        "ip_address": "154.221.24.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "freejob-search.com",
+        "count": "49",
+        "first_seen": "2019-06-22 11:48:46",
+        "last_seen": "2020-03-13 05:55:57",
+        "ip_address": "154.221.31.232",
+        "type": "IPv4"
+    },
+    {
+        "domain": "freejob-search.com",
+        "count": "19",
+        "first_seen": "2019-07-11 03:39:44",
+        "last_seen": "2019-10-03 13:10:51",
+        "ip_address": "185.251.249.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "freejob-search.com",
+        "count": "117",
+        "first_seen": "2020-03-16 17:33:06",
+        "last_seen": "2020-03-18 14:46:45",
+        "ip_address": "2606:4700:3034::6818:7aa8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "freejob-search.com",
+        "count": "117",
+        "first_seen": "2020-03-16 17:33:06",
+        "last_seen": "2020-03-18 14:46:45",
+        "ip_address": "2606:4700:3035::6818:7ba8",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "2942",
+        "first_seen": "2022-08-23 14:45:14",
+        "last_seen": "2022-11-10 22:34:37",
+        "ip_address": "104.21.23.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "2942",
+        "first_seen": "2022-08-23 14:45:14",
+        "last_seen": "2022-11-10 22:34:37",
+        "ip_address": "172.67.213.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "40",
+        "first_seen": "2022-10-12 23:39:42",
+        "last_seen": "2022-10-16 03:58:35",
+        "ip_address": "188.114.96.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "40",
+        "first_seen": "2022-10-12 23:39:42",
+        "last_seen": "2022-10-16 03:58:35",
+        "ip_address": "188.114.97.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "109",
+        "first_seen": "2022-08-23 15:15:34",
+        "last_seen": "2022-11-10 16:18:25",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "109",
+        "first_seen": "2022-08-23 15:15:34",
+        "last_seen": "2022-11-10 16:18:25",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "108",
+        "first_seen": "2022-08-24 06:59:31",
+        "last_seen": "2022-11-04 08:27:58",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "108",
+        "first_seen": "2022-08-24 06:59:31",
+        "last_seen": "2022-11-04 08:27:58",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "6",
+        "first_seen": "2022-09-08 15:05:22",
+        "last_seen": "2022-09-26 04:06:32",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "6",
+        "first_seen": "2022-09-08 15:05:22",
+        "last_seen": "2022-09-26 04:06:32",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "1",
+        "first_seen": "2022-09-29 05:15:51",
+        "last_seen": "2022-09-29 05:15:51",
+        "ip_address": "188.114.96.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "1",
+        "first_seen": "2022-09-29 05:15:51",
+        "last_seen": "2022-09-29 05:15:51",
+        "ip_address": "188.114.97.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "14",
+        "first_seen": "2022-08-25 08:42:34",
+        "last_seen": "2022-11-01 06:28:31",
+        "ip_address": "188.114.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "14",
+        "first_seen": "2022-08-25 08:42:34",
+        "last_seen": "2022-11-01 06:28:31",
+        "ip_address": "188.114.97.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "77",
+        "first_seen": "2022-08-23 19:34:09",
+        "last_seen": "2022-11-07 16:50:45",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "77",
+        "first_seen": "2022-08-23 19:34:09",
+        "last_seen": "2022-11-07 16:50:45",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "36",
+        "first_seen": "2022-08-24 17:05:30",
+        "last_seen": "2022-11-07 17:28:23",
+        "ip_address": "2606:4700:3034::6815:17c9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "36",
+        "first_seen": "2022-08-24 17:05:30",
+        "last_seen": "2022-11-07 17:28:23",
+        "ip_address": "2606:4700:3035::ac43:d53b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "39",
+        "first_seen": "2022-08-24 05:58:58",
+        "last_seen": "2022-11-11 13:39:53",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "39",
+        "first_seen": "2022-08-24 05:58:58",
+        "last_seen": "2022-11-11 13:39:53",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "7",
+        "first_seen": "2022-09-08 09:14:22",
+        "last_seen": "2022-11-02 13:44:59",
+        "ip_address": "2a06:98c1:3120::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "7",
+        "first_seen": "2022-09-08 09:14:22",
+        "last_seen": "2022-11-02 13:44:59",
+        "ip_address": "2a06:98c1:3121::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "1",
+        "first_seen": "2022-09-29 05:15:51",
+        "last_seen": "2022-09-29 05:15:51",
+        "ip_address": "2a06:98c1:3120::5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "1",
+        "first_seen": "2022-09-29 05:15:51",
+        "last_seen": "2022-09-29 05:15:51",
+        "ip_address": "2a06:98c1:3121::5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "4",
+        "first_seen": "2022-08-25 04:58:29",
+        "last_seen": "2022-10-26 14:11:28",
+        "ip_address": "2a06:98c1:3120::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "4",
+        "first_seen": "2022-08-25 04:58:29",
+        "last_seen": "2022-10-26 14:11:28",
+        "ip_address": "2a06:98c1:3121::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "20",
+        "first_seen": "2022-09-05 23:04:33",
+        "last_seen": "2022-11-07 16:50:45",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.madrilicious.com",
+        "count": "20",
+        "first_seen": "2022-09-05 23:04:33",
+        "last_seen": "2022-11-07 16:50:45",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

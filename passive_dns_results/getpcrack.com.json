@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "getpcrack.com",
+        "count": "4627",
+        "first_seen": "2021-06-01 02:25:39",
+        "last_seen": "2024-01-18 03:36:54",
+        "ip_address": "104.21.29.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "getpcrack.com",
+        "count": "4627",
+        "first_seen": "2021-06-01 02:25:39",
+        "last_seen": "2024-01-18 03:36:54",
+        "ip_address": "172.67.149.142",
+        "type": "IPv4"
+    },
+    {
+        "domain": "getpcrack.com",
+        "count": "15",
+        "first_seen": "2022-03-10 18:01:27",
+        "last_seen": "2022-03-14 06:25:25",
+        "ip_address": "188.114.97.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "getpcrack.com",
+        "count": "1572",
+        "first_seen": "2021-06-01 02:25:40",
+        "last_seen": "2024-01-18 03:36:44",
+        "ip_address": "2606:4700:3034::6815:1dae",
+        "type": "IPv6"
+    },
+    {
+        "domain": "getpcrack.com",
+        "count": "1572",
+        "first_seen": "2021-06-01 02:25:40",
+        "last_seen": "2024-01-18 03:36:44",
+        "ip_address": "2606:4700:3035::ac43:958e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "getpcrack.com",
+        "count": "3",
+        "first_seen": "2022-03-13 16:19:04",
+        "last_seen": "2022-03-14 06:25:24",
+        "ip_address": "2a06:98c1:3121:8000::",
+        "type": "IPv6"
+    }
+]

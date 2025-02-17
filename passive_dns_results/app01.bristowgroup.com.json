@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "app01.bristowgroup.com",
+        "count": "446960",
+        "first_seen": "2017-10-04 09:56:39",
+        "last_seen": "2024-01-18 09:04:57",
+        "ip_address": "13.90.203.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "app01.bristowgroup.com",
+        "count": "2538",
+        "first_seen": "2012-03-27 17:08:30",
+        "last_seen": "2013-01-22 10:19:59",
+        "ip_address": "62.189.176.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "app01.bristowgroup.com",
+        "count": "250025",
+        "first_seen": "2013-01-22 11:22:23",
+        "last_seen": "2017-10-04 09:55:42",
+        "ip_address": "67.222.214.172",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "ecmozn.nasec.xyz",
+        "count": "21",
+        "first_seen": "2023-03-29 15:26:59",
+        "last_seen": "2023-12-27 16:26:38",
+        "ip_address": "3.64.163.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ecmozn.nasec.xyz",
+        "count": "67",
+        "first_seen": "2022-01-07 15:34:27",
+        "last_seen": "2022-01-08 05:50:39",
+        "ip_address": "23.95.225.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ecmozn.nasec.xyz",
+        "count": "23",
+        "first_seen": "2023-05-02 08:14:41",
+        "last_seen": "2023-12-27 16:26:38",
+        "ip_address": "3.64.163.50",
+        "type": "IPv4"
+    }
+]

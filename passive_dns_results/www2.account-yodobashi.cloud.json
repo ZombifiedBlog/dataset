@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www2.account-yodobashi.cloud",
+        "count": "10",
+        "first_seen": "2021-05-25 18:31:41",
+        "last_seen": "2021-05-26 23:35:10",
+        "ip_address": "104.21.31.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.account-yodobashi.cloud",
+        "count": "10",
+        "first_seen": "2021-05-25 18:31:41",
+        "last_seen": "2021-05-26 23:35:10",
+        "ip_address": "172.67.175.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.account-yodobashi.cloud",
+        "count": "5",
+        "first_seen": "2021-05-25 16:44:43",
+        "last_seen": "2021-05-25 22:41:33",
+        "ip_address": "107.173.140.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.account-yodobashi.cloud",
+        "count": "3",
+        "first_seen": "2021-05-26 00:51:42",
+        "last_seen": "2021-05-26 06:27:21",
+        "ip_address": "2606:4700:3033::6815:1f37",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www2.account-yodobashi.cloud",
+        "count": "3",
+        "first_seen": "2021-05-26 00:51:42",
+        "last_seen": "2021-05-26 06:27:21",
+        "ip_address": "2606:4700:3035::ac43:af02",
+        "type": "IPv6"
+    }
+]

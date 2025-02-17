@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "bigsipfest.com",
+        "count": "417",
+        "first_seen": "2023-01-03 19:46:05",
+        "last_seen": "2024-01-18 03:56:31",
+        "ip_address": "35.212.97.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bigsipfest.com",
+        "count": "5497",
+        "first_seen": "2019-01-16 04:39:00",
+        "last_seen": "2023-01-03 01:56:43",
+        "ip_address": "67.222.109.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bigsipfest.com",
+        "count": "623",
+        "first_seen": "2018-02-13 10:21:16",
+        "last_seen": "2019-01-14 22:13:38",
+        "ip_address": "69.194.230.99",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bigsipfest.com",
+        "count": "5",
+        "first_seen": "2019-02-28 04:29:12",
+        "last_seen": "2019-02-28 10:03:09",
+        "ip_address": "184.168.131.241",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bigsipfest.com",
+        "count": "190",
+        "first_seen": "2015-12-19 16:20:38",
+        "last_seen": "2018-02-08 00:46:40",
+        "ip_address": "184.168.221.37",
+        "type": "IPv4"
+    }
+]

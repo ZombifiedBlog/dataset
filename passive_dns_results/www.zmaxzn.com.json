@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.zmaxzn.com",
+        "count": "54",
+        "first_seen": "2023-06-11 03:31:50",
+        "last_seen": "2024-01-11 14:13:39",
+        "ip_address": "104.21.88.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zmaxzn.com",
+        "count": "54",
+        "first_seen": "2023-06-11 03:31:50",
+        "last_seen": "2024-01-11 14:13:39",
+        "ip_address": "172.67.149.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zmaxzn.com",
+        "count": "15",
+        "first_seen": "2023-07-25 16:44:24",
+        "last_seen": "2024-01-11 14:13:39",
+        "ip_address": "2606:4700:3030::ac43:95de",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zmaxzn.com",
+        "count": "15",
+        "first_seen": "2023-07-25 16:44:24",
+        "last_seen": "2024-01-11 14:13:39",
+        "ip_address": "2606:4700:3035::6815:5804",
+        "type": "IPv6"
+    }
+]

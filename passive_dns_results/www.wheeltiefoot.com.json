@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "www.wheeltiefoot.com",
+        "count": "2325",
+        "first_seen": "2021-08-06 06:14:40",
+        "last_seen": "2021-08-17 03:46:35",
+        "ip_address": "20.69.78.135",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wheeltiefoot.com",
+        "count": "418535",
+        "first_seen": "2021-05-19 13:02:37",
+        "last_seen": "2023-05-10 04:14:27",
+        "ip_address": "40.64.79.241",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wheeltiefoot.com",
+        "count": "26",
+        "first_seen": "2021-07-16 04:53:04",
+        "last_seen": "2021-07-16 06:24:37",
+        "ip_address": "52.41.154.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wheeltiefoot.com",
+        "count": "1500",
+        "first_seen": "2021-08-17 04:23:31",
+        "last_seen": "2021-10-16 04:51:53",
+        "ip_address": "54.245.12.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wheeltiefoot.com",
+        "count": "65561",
+        "first_seen": "2023-05-10 04:15:15",
+        "last_seen": "2024-01-18 08:43:22",
+        "ip_address": "104.21.58.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wheeltiefoot.com",
+        "count": "65561",
+        "first_seen": "2023-05-10 04:15:15",
+        "last_seen": "2024-01-18 08:43:22",
+        "ip_address": "172.67.200.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wheeltiefoot.com",
+        "count": "69",
+        "first_seen": "2023-06-30 13:00:02",
+        "last_seen": "2024-01-18 07:43:23",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wheeltiefoot.com",
+        "count": "4",
+        "first_seen": "2023-09-17 14:39:49",
+        "last_seen": "2024-01-08 19:39:58",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.wheeltiefoot.com",
+        "count": "45027",
+        "first_seen": "2023-05-10 04:15:15",
+        "last_seen": "2024-01-17 23:11:59",
+        "ip_address": "2606:4700:3031::6815:3a32",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.wheeltiefoot.com",
+        "count": "45027",
+        "first_seen": "2023-05-10 04:15:15",
+        "last_seen": "2024-01-17 23:11:59",
+        "ip_address": "2606:4700:3037::ac43:c87b",
+        "type": "IPv6"
+    }
+]

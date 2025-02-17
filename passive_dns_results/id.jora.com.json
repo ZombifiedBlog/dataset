@@ -1,0 +1,4906 @@
+[
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2017-07-16 05:22:19",
+        "last_seen": "2017-07-17 08:48:03",
+        "ip_address": "13.56.39.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2017-07-16 05:22:19",
+        "last_seen": "2017-07-17 08:48:03",
+        "ip_address": "13.56.101.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2017-07-02 18:57:57",
+        "last_seen": "2017-07-02 20:52:11",
+        "ip_address": "13.56.39.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2017-07-02 18:57:57",
+        "last_seen": "2017-07-02 20:52:11",
+        "ip_address": "52.8.42.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6",
+        "first_seen": "2017-07-19 18:24:27",
+        "last_seen": "2017-07-20 16:53:33",
+        "ip_address": "13.56.39.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6",
+        "first_seen": "2017-07-19 18:24:27",
+        "last_seen": "2017-07-20 16:53:33",
+        "ip_address": "52.8.186.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "17",
+        "first_seen": "2017-08-09 10:53:54",
+        "last_seen": "2017-08-13 14:51:39",
+        "ip_address": "13.56.39.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "17",
+        "first_seen": "2017-08-09 10:53:54",
+        "last_seen": "2017-08-13 14:51:39",
+        "ip_address": "52.8.187.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "28",
+        "first_seen": "2017-07-08 16:28:03",
+        "last_seen": "2017-07-24 10:42:49",
+        "ip_address": "13.56.39.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "28",
+        "first_seen": "2017-07-08 16:28:03",
+        "last_seen": "2017-07-24 10:42:49",
+        "ip_address": "52.9.166.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "64",
+        "first_seen": "2017-07-25 04:37:19",
+        "last_seen": "2017-08-01 07:27:27",
+        "ip_address": "13.56.39.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "64",
+        "first_seen": "2017-07-25 04:37:19",
+        "last_seen": "2017-08-01 07:27:27",
+        "ip_address": "52.52.10.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "23",
+        "first_seen": "2017-07-14 23:51:17",
+        "last_seen": "2017-08-06 03:50:17",
+        "ip_address": "13.56.39.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "23",
+        "first_seen": "2017-07-14 23:51:17",
+        "last_seen": "2017-08-06 03:50:17",
+        "ip_address": "54.183.53.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2017-08-01 18:15:11",
+        "last_seen": "2017-08-02 03:43:01",
+        "ip_address": "13.56.39.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2017-08-01 18:15:11",
+        "last_seen": "2017-08-02 03:43:01",
+        "ip_address": "54.193.16.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "10",
+        "first_seen": "2017-06-26 14:22:19",
+        "last_seen": "2017-07-14 10:04:59",
+        "ip_address": "13.56.39.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "10",
+        "first_seen": "2017-06-26 14:22:19",
+        "last_seen": "2017-07-14 10:04:59",
+        "ip_address": "54.215.218.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "44",
+        "first_seen": "2017-07-10 21:14:00",
+        "last_seen": "2017-07-31 10:36:19",
+        "ip_address": "13.56.101.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "44",
+        "first_seen": "2017-07-10 21:14:00",
+        "last_seen": "2017-07-31 10:36:19",
+        "ip_address": "54.183.53.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "10",
+        "first_seen": "2017-07-22 10:45:51",
+        "last_seen": "2017-07-26 10:10:45",
+        "ip_address": "13.56.101.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "10",
+        "first_seen": "2017-07-22 10:45:51",
+        "last_seen": "2017-07-26 10:10:45",
+        "ip_address": "54.193.62.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "20",
+        "first_seen": "2017-10-08 00:54:24",
+        "last_seen": "2017-10-09 04:11:34",
+        "ip_address": "13.56.185.106",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "20",
+        "first_seen": "2017-10-08 00:54:24",
+        "last_seen": "2017-10-09 04:11:34",
+        "ip_address": "13.57.69.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "20",
+        "first_seen": "2017-10-05 11:47:37",
+        "last_seen": "2017-10-07 19:33:44",
+        "ip_address": "13.56.185.106",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "20",
+        "first_seen": "2017-10-05 11:47:37",
+        "last_seen": "2017-10-07 19:33:44",
+        "ip_address": "52.9.45.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "25",
+        "first_seen": "2017-10-09 07:35:35",
+        "last_seen": "2017-10-10 02:19:48",
+        "ip_address": "13.57.69.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "25",
+        "first_seen": "2017-10-09 07:35:35",
+        "last_seen": "2017-10-10 02:19:48",
+        "ip_address": "50.18.196.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "46",
+        "first_seen": "2017-09-26 10:49:11",
+        "last_seen": "2017-10-16 06:48:10",
+        "ip_address": "13.57.69.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "46",
+        "first_seen": "2017-09-26 10:49:11",
+        "last_seen": "2017-10-16 06:48:10",
+        "ip_address": "52.9.45.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "17",
+        "first_seen": "2017-09-24 07:06:16",
+        "last_seen": "2017-09-26 09:46:45",
+        "ip_address": "13.57.69.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "17",
+        "first_seen": "2017-09-24 07:06:16",
+        "last_seen": "2017-09-26 09:46:45",
+        "ip_address": "52.52.226.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "22",
+        "first_seen": "2017-09-22 10:34:21",
+        "last_seen": "2017-10-03 06:15:25",
+        "ip_address": "13.57.69.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "22",
+        "first_seen": "2017-09-22 10:34:21",
+        "last_seen": "2017-10-03 06:15:25",
+        "ip_address": "54.215.156.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "27",
+        "first_seen": "2016-11-14 11:30:08",
+        "last_seen": "2016-11-15 06:11:40",
+        "ip_address": "50.18.36.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "27",
+        "first_seen": "2016-11-14 11:30:08",
+        "last_seen": "2016-11-15 06:11:40",
+        "ip_address": "52.9.117.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "22",
+        "first_seen": "2016-11-17 07:43:19",
+        "last_seen": "2016-11-18 16:50:23",
+        "ip_address": "50.18.36.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "22",
+        "first_seen": "2016-11-17 07:43:19",
+        "last_seen": "2016-11-18 16:50:23",
+        "ip_address": "54.183.46.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "18",
+        "first_seen": "2017-06-26 00:28:57",
+        "last_seen": "2017-07-10 08:39:38",
+        "ip_address": "50.18.195.134",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "18",
+        "first_seen": "2017-06-26 00:28:57",
+        "last_seen": "2017-07-10 08:39:38",
+        "ip_address": "52.8.42.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2017-05-20 21:52:24",
+        "last_seen": "2017-05-20 21:52:32",
+        "ip_address": "50.18.195.134",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2017-05-20 21:52:24",
+        "last_seen": "2017-05-20 21:52:32",
+        "ip_address": "52.8.82.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "17",
+        "first_seen": "2017-06-04 02:59:48",
+        "last_seen": "2017-06-05 02:15:28",
+        "ip_address": "50.18.195.134",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "17",
+        "first_seen": "2017-06-04 02:59:48",
+        "last_seen": "2017-06-05 02:15:28",
+        "ip_address": "52.8.164.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "8",
+        "first_seen": "2017-05-27 22:46:29",
+        "last_seen": "2017-05-28 08:49:39",
+        "ip_address": "50.18.195.134",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "8",
+        "first_seen": "2017-05-27 22:46:29",
+        "last_seen": "2017-05-28 08:49:39",
+        "ip_address": "52.8.170.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "5",
+        "first_seen": "2017-06-10 19:23:51",
+        "last_seen": "2017-06-11 07:13:47",
+        "ip_address": "50.18.195.134",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "5",
+        "first_seen": "2017-06-10 19:23:51",
+        "last_seen": "2017-06-11 07:13:47",
+        "ip_address": "52.8.185.131",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "54",
+        "first_seen": "2017-05-21 08:06:58",
+        "last_seen": "2017-06-02 10:27:03",
+        "ip_address": "50.18.195.134",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "54",
+        "first_seen": "2017-05-21 08:06:58",
+        "last_seen": "2017-06-02 10:27:03",
+        "ip_address": "52.8.251.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2017-06-03 06:08:09",
+        "last_seen": "2017-06-03 06:13:27",
+        "ip_address": "50.18.195.134",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2017-06-03 06:08:09",
+        "last_seen": "2017-06-03 06:13:27",
+        "ip_address": "52.9.212.158",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2017-06-14 09:22:00",
+        "last_seen": "2017-06-14 10:37:20",
+        "ip_address": "50.18.195.134",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2017-06-14 09:22:00",
+        "last_seen": "2017-06-14 10:37:20",
+        "ip_address": "52.52.54.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "10",
+        "first_seen": "2017-06-18 16:05:14",
+        "last_seen": "2017-06-19 10:28:07",
+        "ip_address": "50.18.195.134",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "10",
+        "first_seen": "2017-06-18 16:05:14",
+        "last_seen": "2017-06-19 10:28:07",
+        "ip_address": "54.183.106.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-05-26 09:18:01",
+        "last_seen": "2017-05-26 09:18:01",
+        "ip_address": "50.18.195.134",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-05-26 09:18:01",
+        "last_seen": "2017-05-26 09:18:01",
+        "ip_address": "54.193.120.157",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "180",
+        "first_seen": "2017-06-22 11:25:38",
+        "last_seen": "2017-07-07 20:33:53",
+        "ip_address": "50.18.195.134",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "180",
+        "first_seen": "2017-06-22 11:25:38",
+        "last_seen": "2017-07-07 20:33:53",
+        "ip_address": "54.215.218.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "46",
+        "first_seen": "2017-10-11 16:53:43",
+        "last_seen": "2017-10-17 12:13:28",
+        "ip_address": "50.18.196.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "46",
+        "first_seen": "2017-10-11 16:53:43",
+        "last_seen": "2017-10-17 12:13:28",
+        "ip_address": "52.9.45.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2017-02-09 07:31:33",
+        "last_seen": "2017-02-09 07:31:33",
+        "ip_address": "50.18.209.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2017-01-30 10:53:52",
+        "last_seen": "2017-01-31 11:19:42",
+        "ip_address": "50.18.209.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2017-01-30 10:53:52",
+        "last_seen": "2017-01-31 11:19:42",
+        "ip_address": "52.9.65.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6",
+        "first_seen": "2017-02-11 09:21:13",
+        "last_seen": "2017-02-11 17:05:32",
+        "ip_address": "50.18.209.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6",
+        "first_seen": "2017-02-11 09:21:13",
+        "last_seen": "2017-02-11 17:05:32",
+        "ip_address": "52.9.92.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "5",
+        "first_seen": "2017-02-07 07:42:45",
+        "last_seen": "2017-02-07 08:52:39",
+        "ip_address": "50.18.209.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "5",
+        "first_seen": "2017-02-07 07:42:45",
+        "last_seen": "2017-02-07 08:52:39",
+        "ip_address": "52.52.210.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "20",
+        "first_seen": "2017-02-03 05:02:23",
+        "last_seen": "2017-02-04 00:13:51",
+        "ip_address": "50.18.209.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "20",
+        "first_seen": "2017-02-03 05:02:23",
+        "last_seen": "2017-02-04 00:13:51",
+        "ip_address": "54.153.60.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "59",
+        "first_seen": "2017-01-23 11:08:55",
+        "last_seen": "2017-02-01 09:50:31",
+        "ip_address": "50.18.209.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "59",
+        "first_seen": "2017-01-23 11:08:55",
+        "last_seen": "2017-02-01 09:50:31",
+        "ip_address": "54.215.231.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "30",
+        "first_seen": "2016-03-10 04:25:37",
+        "last_seen": "2016-03-15 07:56:35",
+        "ip_address": "50.18.209.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "30",
+        "first_seen": "2016-03-10 04:25:37",
+        "last_seen": "2016-03-15 07:56:35",
+        "ip_address": "54.183.36.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "21",
+        "first_seen": "2016-03-02 16:34:38",
+        "last_seen": "2016-03-04 21:55:23",
+        "ip_address": "50.18.219.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "21",
+        "first_seen": "2016-03-02 16:34:38",
+        "last_seen": "2016-03-04 21:55:23",
+        "ip_address": "54.183.102.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2017-05-16 10:01:16",
+        "last_seen": "2017-05-17 10:04:40",
+        "ip_address": "52.8.4.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2017-05-16 10:01:16",
+        "last_seen": "2017-05-17 10:04:40",
+        "ip_address": "52.8.251.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "69",
+        "first_seen": "2017-05-01 12:43:44",
+        "last_seen": "2017-05-05 03:41:36",
+        "ip_address": "52.8.4.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "69",
+        "first_seen": "2017-05-01 12:43:44",
+        "last_seen": "2017-05-05 03:41:36",
+        "ip_address": "52.9.8.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "21",
+        "first_seen": "2017-05-10 08:04:02",
+        "last_seen": "2017-05-15 08:17:05",
+        "ip_address": "52.8.4.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "21",
+        "first_seen": "2017-05-10 08:04:02",
+        "last_seen": "2017-05-15 08:17:05",
+        "ip_address": "52.9.243.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "32",
+        "first_seen": "2017-05-05 07:49:20",
+        "last_seen": "2017-05-13 06:19:39",
+        "ip_address": "52.8.4.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "32",
+        "first_seen": "2017-05-05 07:49:20",
+        "last_seen": "2017-05-13 06:19:39",
+        "ip_address": "54.215.154.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "67",
+        "first_seen": "2016-12-13 02:54:18",
+        "last_seen": "2016-12-18 05:44:36",
+        "ip_address": "52.8.11.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "67",
+        "first_seen": "2016-12-13 02:54:18",
+        "last_seen": "2016-12-18 05:44:36",
+        "ip_address": "52.9.91.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "11",
+        "first_seen": "2016-12-18 21:52:34",
+        "last_seen": "2016-12-19 08:43:37",
+        "ip_address": "52.8.11.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "11",
+        "first_seen": "2016-12-18 21:52:34",
+        "last_seen": "2016-12-19 08:43:37",
+        "ip_address": "52.52.179.175",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-12-05 15:40:24",
+        "last_seen": "2016-12-05 15:40:24",
+        "ip_address": "52.8.19.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-12-05 15:40:24",
+        "last_seen": "2016-12-05 15:40:24",
+        "ip_address": "52.8.102.243",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-12-05 15:40:24",
+        "last_seen": "2016-12-05 15:40:24",
+        "ip_address": "52.9.221.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-12-05 15:40:24",
+        "last_seen": "2016-12-05 15:40:24",
+        "ip_address": "54.183.46.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2016-11-27 07:44:14",
+        "last_seen": "2016-11-27 22:06:07",
+        "ip_address": "52.8.19.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2016-11-27 07:44:14",
+        "last_seen": "2016-11-27 22:06:07",
+        "ip_address": "52.9.77.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "14",
+        "first_seen": "2016-11-28 16:07:25",
+        "last_seen": "2016-11-29 03:01:58",
+        "ip_address": "52.8.19.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "14",
+        "first_seen": "2016-11-28 16:07:25",
+        "last_seen": "2016-11-29 03:01:58",
+        "ip_address": "52.9.77.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "14",
+        "first_seen": "2016-11-28 16:07:25",
+        "last_seen": "2016-11-29 03:01:58",
+        "ip_address": "54.153.36.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "14",
+        "first_seen": "2016-11-28 16:07:25",
+        "last_seen": "2016-11-29 03:01:58",
+        "ip_address": "54.183.46.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-12-05 15:58:41",
+        "last_seen": "2016-12-05 15:58:41",
+        "ip_address": "52.8.19.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-12-05 15:58:41",
+        "last_seen": "2016-12-05 15:58:41",
+        "ip_address": "52.9.221.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-12-05 15:58:41",
+        "last_seen": "2016-12-05 15:58:41",
+        "ip_address": "54.183.46.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2016-12-05 16:48:18",
+        "last_seen": "2016-12-06 06:46:00",
+        "ip_address": "52.8.19.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2016-12-05 16:48:18",
+        "last_seen": "2016-12-06 06:46:00",
+        "ip_address": "52.9.221.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2016-12-05 16:48:18",
+        "last_seen": "2016-12-06 06:46:00",
+        "ip_address": "54.183.46.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2016-12-05 16:48:18",
+        "last_seen": "2016-12-06 06:46:00",
+        "ip_address": "54.183.69.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "88",
+        "first_seen": "2016-11-29 08:01:20",
+        "last_seen": "2016-12-03 06:00:53",
+        "ip_address": "52.8.19.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "88",
+        "first_seen": "2016-11-29 08:01:20",
+        "last_seen": "2016-12-03 06:00:53",
+        "ip_address": "54.153.36.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "105",
+        "first_seen": "2016-11-22 07:07:22",
+        "last_seen": "2016-11-26 05:24:21",
+        "ip_address": "52.8.19.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "105",
+        "first_seen": "2016-11-22 07:07:22",
+        "last_seen": "2016-11-26 05:24:21",
+        "ip_address": "54.183.46.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "90",
+        "first_seen": "2016-10-03 16:38:23",
+        "last_seen": "2016-10-08 19:32:03",
+        "ip_address": "52.8.29.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "90",
+        "first_seen": "2016-10-03 16:38:23",
+        "last_seen": "2016-10-08 19:32:03",
+        "ip_address": "52.8.56.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "90",
+        "first_seen": "2016-10-03 16:38:23",
+        "last_seen": "2016-10-08 19:32:03",
+        "ip_address": "52.9.68.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "90",
+        "first_seen": "2016-10-03 16:38:23",
+        "last_seen": "2016-10-08 19:32:03",
+        "ip_address": "54.153.45.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-01-30 07:08:16",
+        "last_seen": "2017-01-30 07:08:16",
+        "ip_address": "52.8.34.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-01-30 07:08:16",
+        "last_seen": "2017-01-30 07:08:16",
+        "ip_address": "54.215.231.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "5",
+        "first_seen": "2017-05-31 09:30:54",
+        "last_seen": "2017-06-01 09:42:04",
+        "ip_address": "52.8.42.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "5",
+        "first_seen": "2017-05-31 09:30:54",
+        "last_seen": "2017-06-01 09:42:04",
+        "ip_address": "52.8.170.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "22",
+        "first_seen": "2017-06-05 17:01:54",
+        "last_seen": "2017-06-09 00:18:48",
+        "ip_address": "52.8.42.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "22",
+        "first_seen": "2017-06-05 17:01:54",
+        "last_seen": "2017-06-09 00:18:48",
+        "ip_address": "52.8.185.131",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "45",
+        "first_seen": "2017-05-16 19:55:33",
+        "last_seen": "2017-06-02 14:44:04",
+        "ip_address": "52.8.42.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "45",
+        "first_seen": "2017-05-16 19:55:33",
+        "last_seen": "2017-06-02 14:44:04",
+        "ip_address": "52.9.212.158",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "45",
+        "first_seen": "2017-06-19 14:39:54",
+        "last_seen": "2017-06-24 07:24:40",
+        "ip_address": "52.8.42.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "45",
+        "first_seen": "2017-06-19 14:39:54",
+        "last_seen": "2017-06-24 07:24:40",
+        "ip_address": "54.153.85.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "10",
+        "first_seen": "2017-06-09 15:22:00",
+        "last_seen": "2017-06-12 04:20:29",
+        "ip_address": "52.8.42.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "10",
+        "first_seen": "2017-06-09 15:22:00",
+        "last_seen": "2017-06-12 04:20:29",
+        "ip_address": "54.193.120.157",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6",
+        "first_seen": "2017-05-15 12:06:35",
+        "last_seen": "2017-05-20 20:48:00",
+        "ip_address": "52.8.42.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6",
+        "first_seen": "2017-05-15 12:06:35",
+        "last_seen": "2017-05-20 20:48:00",
+        "ip_address": "54.215.154.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "35",
+        "first_seen": "2017-06-13 09:13:19",
+        "last_seen": "2017-06-17 05:52:53",
+        "ip_address": "52.8.42.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "35",
+        "first_seen": "2017-06-13 09:13:19",
+        "last_seen": "2017-06-17 05:52:53",
+        "ip_address": "54.215.218.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2010",
+        "first_seen": "2016-06-06 19:32:27",
+        "last_seen": "2016-09-27 03:47:15",
+        "ip_address": "52.8.48.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2010",
+        "first_seen": "2016-06-06 19:32:27",
+        "last_seen": "2016-09-27 03:47:15",
+        "ip_address": "52.9.88.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2010",
+        "first_seen": "2016-06-06 19:32:27",
+        "last_seen": "2016-09-27 03:47:15",
+        "ip_address": "52.9.110.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2010",
+        "first_seen": "2016-06-06 19:32:27",
+        "last_seen": "2016-09-27 03:47:15",
+        "ip_address": "54.183.35.216",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "22",
+        "first_seen": "2016-06-03 05:09:20",
+        "last_seen": "2016-06-04 06:35:24",
+        "ip_address": "52.8.48.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "22",
+        "first_seen": "2016-06-03 05:09:20",
+        "last_seen": "2016-06-04 06:35:24",
+        "ip_address": "54.183.35.216",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6",
+        "first_seen": "2017-01-10 10:04:40",
+        "last_seen": "2017-01-10 15:01:14",
+        "ip_address": "52.8.48.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6",
+        "first_seen": "2017-01-10 10:04:40",
+        "last_seen": "2017-01-10 15:01:14",
+        "ip_address": "52.9.92.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-01-10 18:07:30",
+        "last_seen": "2017-01-10 18:07:30",
+        "ip_address": "52.8.48.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-01-10 18:07:30",
+        "last_seen": "2017-01-10 18:07:30",
+        "ip_address": "52.9.92.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-01-10 18:07:30",
+        "last_seen": "2017-01-10 18:07:30",
+        "ip_address": "52.52.208.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-01-10 18:07:30",
+        "last_seen": "2017-01-10 18:07:30",
+        "ip_address": "54.193.7.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "31",
+        "first_seen": "2017-01-09 15:02:42",
+        "last_seen": "2017-01-10 07:39:13",
+        "ip_address": "52.8.48.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "31",
+        "first_seen": "2017-01-09 15:02:42",
+        "last_seen": "2017-01-10 07:39:13",
+        "ip_address": "52.9.92.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "31",
+        "first_seen": "2017-01-09 15:02:42",
+        "last_seen": "2017-01-10 07:39:13",
+        "ip_address": "54.193.7.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "31",
+        "first_seen": "2017-01-09 15:02:42",
+        "last_seen": "2017-01-10 07:39:13",
+        "ip_address": "54.193.33.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "17",
+        "first_seen": "2017-01-15 06:39:38",
+        "last_seen": "2017-01-16 10:18:20",
+        "ip_address": "52.8.48.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "17",
+        "first_seen": "2017-01-15 06:39:38",
+        "last_seen": "2017-01-16 10:18:20",
+        "ip_address": "52.52.208.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "8",
+        "first_seen": "2017-01-10 22:32:43",
+        "last_seen": "2017-01-11 07:23:47",
+        "ip_address": "52.8.48.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "8",
+        "first_seen": "2017-01-10 22:32:43",
+        "last_seen": "2017-01-11 07:23:47",
+        "ip_address": "52.52.208.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "8",
+        "first_seen": "2017-01-10 22:32:43",
+        "last_seen": "2017-01-11 07:23:47",
+        "ip_address": "54.153.86.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "8",
+        "first_seen": "2017-01-10 22:32:43",
+        "last_seen": "2017-01-11 07:23:47",
+        "ip_address": "54.193.7.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2017-01-13 08:50:11",
+        "last_seen": "2017-01-13 09:36:08",
+        "ip_address": "52.8.48.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2017-01-13 08:50:11",
+        "last_seen": "2017-01-13 09:36:08",
+        "ip_address": "54.193.7.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "71",
+        "first_seen": "2016-10-09 00:42:44",
+        "last_seen": "2016-10-14 20:59:35",
+        "ip_address": "52.8.56.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "71",
+        "first_seen": "2016-10-09 00:42:44",
+        "last_seen": "2016-10-14 20:59:35",
+        "ip_address": "52.9.12.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "71",
+        "first_seen": "2016-10-09 00:42:44",
+        "last_seen": "2016-10-14 20:59:35",
+        "ip_address": "52.9.68.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "71",
+        "first_seen": "2016-10-09 00:42:44",
+        "last_seen": "2016-10-14 20:59:35",
+        "ip_address": "54.153.45.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-10-13 10:56:45",
+        "last_seen": "2016-10-13 10:56:45",
+        "ip_address": "52.8.56.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-10-13 10:56:45",
+        "last_seen": "2016-10-13 10:56:45",
+        "ip_address": "52.9.12.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-10-13 10:56:45",
+        "last_seen": "2016-10-13 10:56:45",
+        "ip_address": "54.153.45.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2016-10-13 20:13:21",
+        "last_seen": "2016-10-13 23:02:18",
+        "ip_address": "52.8.56.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2016-10-13 20:13:21",
+        "last_seen": "2016-10-13 23:02:18",
+        "ip_address": "52.9.12.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2016-10-13 20:13:21",
+        "last_seen": "2016-10-13 23:02:18",
+        "ip_address": "54.153.45.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2016-10-13 20:13:21",
+        "last_seen": "2016-10-13 23:02:18",
+        "ip_address": "54.153.109.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "7",
+        "first_seen": "2016-10-15 00:05:16",
+        "last_seen": "2016-10-15 10:09:26",
+        "ip_address": "52.8.56.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "7",
+        "first_seen": "2016-10-15 00:05:16",
+        "last_seen": "2016-10-15 10:09:26",
+        "ip_address": "52.9.68.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "11",
+        "first_seen": "2016-10-03 00:50:13",
+        "last_seen": "2016-10-03 04:22:33",
+        "ip_address": "52.8.56.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "11",
+        "first_seen": "2016-10-03 00:50:13",
+        "last_seen": "2016-10-03 04:22:33",
+        "ip_address": "54.219.162.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "18",
+        "first_seen": "2017-02-07 12:34:13",
+        "last_seen": "2017-02-08 05:39:28",
+        "ip_address": "52.8.74.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "18",
+        "first_seen": "2017-02-07 12:34:13",
+        "last_seen": "2017-02-08 05:39:28",
+        "ip_address": "54.215.231.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6",
+        "first_seen": "2016-12-01 08:57:53",
+        "last_seen": "2016-12-01 10:00:29",
+        "ip_address": "52.8.102.243",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6",
+        "first_seen": "2016-12-01 08:57:53",
+        "last_seen": "2016-12-01 10:00:29",
+        "ip_address": "52.9.77.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2016-11-30 08:34:43",
+        "last_seen": "2016-12-03 17:31:31",
+        "ip_address": "52.8.102.243",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2016-11-30 08:34:43",
+        "last_seen": "2016-12-03 17:31:31",
+        "ip_address": "54.183.46.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "9",
+        "first_seen": "2016-10-22 21:53:01",
+        "last_seen": "2016-10-23 08:44:03",
+        "ip_address": "52.8.111.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "9",
+        "first_seen": "2016-10-22 21:53:01",
+        "last_seen": "2016-10-23 08:44:03",
+        "ip_address": "52.9.12.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "9",
+        "first_seen": "2016-10-22 21:53:01",
+        "last_seen": "2016-10-23 08:44:03",
+        "ip_address": "52.9.110.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "9",
+        "first_seen": "2016-10-22 21:53:01",
+        "last_seen": "2016-10-23 08:44:03",
+        "ip_address": "54.153.109.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2016-10-21 21:38:49",
+        "last_seen": "2016-10-21 23:13:30",
+        "ip_address": "52.8.111.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2016-10-21 21:38:49",
+        "last_seen": "2016-10-21 23:13:30",
+        "ip_address": "52.9.12.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2016-10-21 21:38:49",
+        "last_seen": "2016-10-21 23:13:30",
+        "ip_address": "52.9.110.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2016-10-21 21:38:49",
+        "last_seen": "2016-10-21 23:13:30",
+        "ip_address": "54.215.155.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-10-24 08:03:00",
+        "last_seen": "2016-10-24 08:03:00",
+        "ip_address": "52.8.111.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-10-24 08:03:00",
+        "last_seen": "2016-10-24 08:03:00",
+        "ip_address": "52.9.12.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-10-24 08:03:00",
+        "last_seen": "2016-10-24 08:03:00",
+        "ip_address": "54.153.109.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-10-24 08:03:00",
+        "last_seen": "2016-10-24 08:03:00",
+        "ip_address": "54.215.155.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "5",
+        "first_seen": "2016-10-15 15:38:45",
+        "last_seen": "2016-10-15 21:05:03",
+        "ip_address": "52.8.111.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "5",
+        "first_seen": "2016-10-15 15:38:45",
+        "last_seen": "2016-10-15 21:05:03",
+        "ip_address": "52.9.94.139",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "5",
+        "first_seen": "2016-10-15 15:38:45",
+        "last_seen": "2016-10-15 21:05:03",
+        "ip_address": "52.52.97.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "5",
+        "first_seen": "2016-10-15 15:38:45",
+        "last_seen": "2016-10-15 21:05:03",
+        "ip_address": "54.215.150.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "56",
+        "first_seen": "2016-10-26 13:36:26",
+        "last_seen": "2016-10-31 09:42:34",
+        "ip_address": "52.8.111.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "56",
+        "first_seen": "2016-10-26 13:36:26",
+        "last_seen": "2016-10-31 09:42:34",
+        "ip_address": "52.9.110.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-10-15 11:40:17",
+        "last_seen": "2016-10-15 11:40:17",
+        "ip_address": "52.8.111.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-10-15 11:40:17",
+        "last_seen": "2016-10-15 11:40:17",
+        "ip_address": "54.153.45.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "69",
+        "first_seen": "2016-10-17 19:39:00",
+        "last_seen": "2016-10-21 16:05:24",
+        "ip_address": "52.8.111.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "69",
+        "first_seen": "2016-10-17 19:39:00",
+        "last_seen": "2016-10-21 16:05:24",
+        "ip_address": "54.153.109.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "10",
+        "first_seen": "2016-10-23 22:24:40",
+        "last_seen": "2016-10-24 07:45:43",
+        "ip_address": "52.8.111.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "10",
+        "first_seen": "2016-10-23 22:24:40",
+        "last_seen": "2016-10-24 07:45:43",
+        "ip_address": "54.215.155.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2017-01-09 14:44:22",
+        "last_seen": "2017-01-09 14:49:38",
+        "ip_address": "52.8.117.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2017-01-09 14:44:22",
+        "last_seen": "2017-01-09 14:49:38",
+        "ip_address": "52.9.92.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2017-01-09 14:44:22",
+        "last_seen": "2017-01-09 14:49:38",
+        "ip_address": "54.193.7.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2017-01-09 14:44:22",
+        "last_seen": "2017-01-09 14:49:38",
+        "ip_address": "54.193.33.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2016-04-18 14:56:45",
+        "last_seen": "2016-04-18 19:25:09",
+        "ip_address": "52.8.154.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2016-04-18 14:56:45",
+        "last_seen": "2016-04-18 19:25:09",
+        "ip_address": "54.219.145.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "42",
+        "first_seen": "2016-06-04 10:08:05",
+        "last_seen": "2016-06-06 16:41:26",
+        "ip_address": "52.8.160.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "42",
+        "first_seen": "2016-06-04 10:08:05",
+        "last_seen": "2016-06-06 16:41:26",
+        "ip_address": "52.9.88.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "42",
+        "first_seen": "2016-06-04 10:08:05",
+        "last_seen": "2016-06-06 16:41:26",
+        "ip_address": "52.9.110.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "42",
+        "first_seen": "2016-06-04 10:08:05",
+        "last_seen": "2016-06-06 16:41:26",
+        "ip_address": "54.183.35.216",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-12-30 07:25:37",
+        "last_seen": "2016-12-30 07:25:37",
+        "ip_address": "52.8.170.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "5",
+        "first_seen": "2016-12-27 06:11:14",
+        "last_seen": "2016-12-27 08:23:57",
+        "ip_address": "52.8.170.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "5",
+        "first_seen": "2016-12-27 06:11:14",
+        "last_seen": "2016-12-27 08:23:57",
+        "ip_address": "52.9.91.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "5",
+        "first_seen": "2016-12-27 06:11:14",
+        "last_seen": "2016-12-27 08:23:57",
+        "ip_address": "52.52.205.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "5",
+        "first_seen": "2016-12-27 06:11:14",
+        "last_seen": "2016-12-27 08:23:57",
+        "ip_address": "54.183.69.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "7",
+        "first_seen": "2016-12-28 23:14:45",
+        "last_seen": "2016-12-29 05:57:43",
+        "ip_address": "52.8.170.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "7",
+        "first_seen": "2016-12-28 23:14:45",
+        "last_seen": "2016-12-29 05:57:43",
+        "ip_address": "52.52.205.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "7",
+        "first_seen": "2016-12-28 23:14:45",
+        "last_seen": "2016-12-29 05:57:43",
+        "ip_address": "54.153.86.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "7",
+        "first_seen": "2016-12-28 23:14:45",
+        "last_seen": "2016-12-29 05:57:43",
+        "ip_address": "54.183.69.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "7",
+        "first_seen": "2016-12-26 11:42:56",
+        "last_seen": "2016-12-26 23:52:23",
+        "ip_address": "52.8.170.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "7",
+        "first_seen": "2016-12-26 11:42:56",
+        "last_seen": "2016-12-26 23:52:23",
+        "ip_address": "54.153.86.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "22",
+        "first_seen": "2017-01-01 11:06:23",
+        "last_seen": "2017-01-02 07:07:03",
+        "ip_address": "52.8.170.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "22",
+        "first_seen": "2017-01-01 11:06:23",
+        "last_seen": "2017-01-02 07:07:03",
+        "ip_address": "54.183.69.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "8",
+        "first_seen": "2016-12-30 07:27:57",
+        "last_seen": "2016-12-30 09:22:39",
+        "ip_address": "52.8.170.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "8",
+        "first_seen": "2016-12-30 07:27:57",
+        "last_seen": "2016-12-30 09:22:39",
+        "ip_address": "54.193.7.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "54",
+        "first_seen": "2017-08-22 22:44:34",
+        "last_seen": "2017-08-27 17:37:26",
+        "ip_address": "52.8.172.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "54",
+        "first_seen": "2017-08-22 22:44:34",
+        "last_seen": "2017-08-27 17:37:26",
+        "ip_address": "52.9.241.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "41",
+        "first_seen": "2017-08-19 20:23:45",
+        "last_seen": "2017-08-22 17:01:28",
+        "ip_address": "52.8.172.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "41",
+        "first_seen": "2017-08-19 20:23:45",
+        "last_seen": "2017-08-22 17:01:28",
+        "ip_address": "52.52.240.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "45",
+        "first_seen": "2017-09-02 07:41:32",
+        "last_seen": "2017-09-04 03:54:54",
+        "ip_address": "52.8.172.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "45",
+        "first_seen": "2017-09-02 07:41:32",
+        "last_seen": "2017-09-04 03:54:54",
+        "ip_address": "54.215.156.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "40",
+        "first_seen": "2017-04-08 21:54:35",
+        "last_seen": "2017-04-10 10:37:11",
+        "ip_address": "52.8.174.95",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "40",
+        "first_seen": "2017-04-08 21:54:35",
+        "last_seen": "2017-04-10 10:37:11",
+        "ip_address": "52.9.130.81",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "16",
+        "first_seen": "2017-07-17 12:20:37",
+        "last_seen": "2017-07-19 07:49:05",
+        "ip_address": "52.8.186.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "16",
+        "first_seen": "2017-07-17 12:20:37",
+        "last_seen": "2017-07-19 07:49:05",
+        "ip_address": "54.215.218.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "71",
+        "first_seen": "2017-07-29 12:04:36",
+        "last_seen": "2017-08-13 03:24:09",
+        "ip_address": "52.8.187.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "71",
+        "first_seen": "2017-07-29 12:04:36",
+        "last_seen": "2017-08-13 03:24:09",
+        "ip_address": "54.193.16.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "5",
+        "first_seen": "2017-04-13 09:54:25",
+        "last_seen": "2017-04-14 09:01:02",
+        "ip_address": "52.8.189.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "5",
+        "first_seen": "2017-04-13 09:54:25",
+        "last_seen": "2017-04-14 09:01:02",
+        "ip_address": "52.9.130.81",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "53",
+        "first_seen": "2017-04-03 21:13:44",
+        "last_seen": "2017-04-21 09:24:18",
+        "ip_address": "52.8.189.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "53",
+        "first_seen": "2017-04-03 21:13:44",
+        "last_seen": "2017-04-21 09:24:18",
+        "ip_address": "52.52.5.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "14",
+        "first_seen": "2017-04-08 09:21:05",
+        "last_seen": "2017-04-08 20:17:38",
+        "ip_address": "52.8.189.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "14",
+        "first_seen": "2017-04-08 09:21:05",
+        "last_seen": "2017-04-08 20:17:38",
+        "ip_address": "54.183.21.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "9",
+        "first_seen": "2017-04-23 05:24:19",
+        "last_seen": "2017-04-24 09:28:20",
+        "ip_address": "52.8.189.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "9",
+        "first_seen": "2017-04-23 05:24:19",
+        "last_seen": "2017-04-24 09:28:20",
+        "ip_address": "54.183.80.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6",
+        "first_seen": "2017-04-11 09:24:10",
+        "last_seen": "2017-04-20 10:00:19",
+        "ip_address": "52.8.189.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6",
+        "first_seen": "2017-04-11 09:24:10",
+        "last_seen": "2017-04-20 10:00:19",
+        "ip_address": "54.183.249.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "22",
+        "first_seen": "2016-09-27 17:37:22",
+        "last_seen": "2016-09-28 10:21:26",
+        "ip_address": "52.8.195.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "22",
+        "first_seen": "2016-09-27 17:37:22",
+        "last_seen": "2016-09-28 10:21:26",
+        "ip_address": "52.9.110.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "22",
+        "first_seen": "2016-09-27 17:37:22",
+        "last_seen": "2016-09-28 10:21:26",
+        "ip_address": "52.52.108.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "22",
+        "first_seen": "2016-09-27 17:37:22",
+        "last_seen": "2016-09-28 10:21:26",
+        "ip_address": "54.183.35.216",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "17",
+        "first_seen": "2016-09-28 10:23:22",
+        "last_seen": "2016-09-28 19:27:39",
+        "ip_address": "52.8.195.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "17",
+        "first_seen": "2016-09-28 10:23:22",
+        "last_seen": "2016-09-28 19:27:39",
+        "ip_address": "52.52.108.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "67",
+        "first_seen": "2017-08-24 06:49:28",
+        "last_seen": "2017-08-29 13:22:56",
+        "ip_address": "52.8.197.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "67",
+        "first_seen": "2017-08-24 06:49:28",
+        "last_seen": "2017-08-29 13:22:56",
+        "ip_address": "52.9.241.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "168",
+        "first_seen": "2017-08-29 17:24:49",
+        "last_seen": "2017-09-16 09:23:43",
+        "ip_address": "52.8.197.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "168",
+        "first_seen": "2017-08-29 17:24:49",
+        "last_seen": "2017-09-16 09:23:43",
+        "ip_address": "54.215.156.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "63",
+        "first_seen": "2017-10-24 04:20:58",
+        "last_seen": "2017-10-30 18:31:03",
+        "ip_address": "52.8.206.151",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "63",
+        "first_seen": "2017-10-24 04:20:58",
+        "last_seen": "2017-10-30 18:31:03",
+        "ip_address": "52.52.55.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2017-07-02 22:40:21",
+        "last_seen": "2017-07-03 05:47:38",
+        "ip_address": "52.8.218.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2017-07-02 22:40:21",
+        "last_seen": "2017-07-03 05:47:38",
+        "ip_address": "52.9.166.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "15",
+        "first_seen": "2016-04-26 12:23:21",
+        "last_seen": "2016-04-27 23:53:38",
+        "ip_address": "52.8.233.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "15",
+        "first_seen": "2016-04-26 12:23:21",
+        "last_seen": "2016-04-27 23:53:38",
+        "ip_address": "54.153.89.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "132",
+        "first_seen": "2016-03-27 05:21:49",
+        "last_seen": "2016-04-09 19:30:13",
+        "ip_address": "52.8.234.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "132",
+        "first_seen": "2016-03-27 05:21:49",
+        "last_seen": "2016-04-09 19:30:13",
+        "ip_address": "52.9.31.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "132",
+        "first_seen": "2016-03-27 05:21:49",
+        "last_seen": "2016-04-09 19:30:13",
+        "ip_address": "52.9.73.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "132",
+        "first_seen": "2016-03-27 05:21:49",
+        "last_seen": "2016-04-09 19:30:13",
+        "ip_address": "54.183.54.249",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "58",
+        "first_seen": "2016-04-14 10:36:03",
+        "last_seen": "2016-04-18 03:11:24",
+        "ip_address": "52.8.234.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "58",
+        "first_seen": "2016-04-14 10:36:03",
+        "last_seen": "2016-04-18 03:11:24",
+        "ip_address": "54.241.144.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "394",
+        "first_seen": "2016-04-23 11:09:21",
+        "last_seen": "2016-05-23 11:07:35",
+        "ip_address": "52.8.234.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "394",
+        "first_seen": "2016-04-23 11:09:21",
+        "last_seen": "2016-05-23 11:07:35",
+        "ip_address": "52.9.84.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "7",
+        "first_seen": "2017-03-03 16:54:23",
+        "last_seen": "2017-03-04 03:14:58",
+        "ip_address": "52.8.242.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "7",
+        "first_seen": "2017-03-03 16:54:23",
+        "last_seen": "2017-03-04 03:14:58",
+        "ip_address": "52.9.67.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "15",
+        "first_seen": "2017-02-18 17:43:20",
+        "last_seen": "2017-02-26 04:04:38",
+        "ip_address": "52.8.242.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "15",
+        "first_seen": "2017-02-18 17:43:20",
+        "last_seen": "2017-02-26 04:04:38",
+        "ip_address": "52.9.92.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "17",
+        "first_seen": "2017-02-13 18:01:16",
+        "last_seen": "2017-03-06 04:40:32",
+        "ip_address": "52.8.242.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "17",
+        "first_seen": "2017-02-13 18:01:16",
+        "last_seen": "2017-03-06 04:40:32",
+        "ip_address": "52.9.130.81",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-02-16 10:08:40",
+        "last_seen": "2017-02-16 10:08:40",
+        "ip_address": "52.8.242.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-02-16 10:08:40",
+        "last_seen": "2017-02-16 10:08:40",
+        "ip_address": "52.52.210.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2017-02-17 08:24:00",
+        "last_seen": "2017-02-17 14:45:06",
+        "ip_address": "52.8.242.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2017-02-17 08:24:00",
+        "last_seen": "2017-02-17 14:45:06",
+        "ip_address": "54.153.60.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "51",
+        "first_seen": "2017-05-13 11:28:00",
+        "last_seen": "2017-05-27 04:34:17",
+        "ip_address": "52.8.251.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "51",
+        "first_seen": "2017-05-13 11:28:00",
+        "last_seen": "2017-05-27 04:34:17",
+        "ip_address": "52.9.212.158",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "5",
+        "first_seen": "2017-05-09 02:46:02",
+        "last_seen": "2017-05-09 19:38:24",
+        "ip_address": "52.8.251.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "5",
+        "first_seen": "2017-05-09 02:46:02",
+        "last_seen": "2017-05-09 19:38:24",
+        "ip_address": "52.9.243.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "17",
+        "first_seen": "2017-05-30 05:24:18",
+        "last_seen": "2017-06-01 09:24:20",
+        "ip_address": "52.8.251.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "17",
+        "first_seen": "2017-05-30 05:24:18",
+        "last_seen": "2017-06-01 09:24:20",
+        "ip_address": "52.52.204.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "56",
+        "first_seen": "2017-05-28 09:21:16",
+        "last_seen": "2017-06-06 08:46:41",
+        "ip_address": "52.8.251.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "56",
+        "first_seen": "2017-05-28 09:21:16",
+        "last_seen": "2017-06-06 08:46:41",
+        "ip_address": "54.193.120.157",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-05-07 02:05:09",
+        "last_seen": "2017-05-07 02:05:09",
+        "ip_address": "52.8.251.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-05-07 02:05:09",
+        "last_seen": "2017-05-07 02:05:09",
+        "ip_address": "54.215.154.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "8",
+        "first_seen": "2017-05-07 13:15:10",
+        "last_seen": "2017-05-08 08:44:39",
+        "ip_address": "52.9.8.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "8",
+        "first_seen": "2017-05-07 13:15:10",
+        "last_seen": "2017-05-08 08:44:39",
+        "ip_address": "54.215.154.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "9",
+        "first_seen": "2016-10-13 07:17:04",
+        "last_seen": "2016-10-13 09:42:04",
+        "ip_address": "52.9.12.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "9",
+        "first_seen": "2016-10-13 07:17:04",
+        "last_seen": "2016-10-13 09:42:04",
+        "ip_address": "52.9.68.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "8",
+        "first_seen": "2016-10-23 12:32:42",
+        "last_seen": "2016-10-23 20:36:17",
+        "ip_address": "52.9.12.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "8",
+        "first_seen": "2016-10-23 12:32:42",
+        "last_seen": "2016-10-23 20:36:17",
+        "ip_address": "52.9.110.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2016-10-21 09:12:28",
+        "last_seen": "2016-10-21 09:36:16",
+        "ip_address": "52.9.12.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2016-10-21 09:12:28",
+        "last_seen": "2016-10-21 09:36:16",
+        "ip_address": "54.153.45.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "18",
+        "first_seen": "2016-10-24 08:32:15",
+        "last_seen": "2016-10-25 07:26:33",
+        "ip_address": "52.9.12.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "18",
+        "first_seen": "2016-10-24 08:32:15",
+        "last_seen": "2016-10-25 07:26:33",
+        "ip_address": "54.153.45.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "18",
+        "first_seen": "2016-10-24 08:32:15",
+        "last_seen": "2016-10-25 07:26:33",
+        "ip_address": "54.153.109.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "18",
+        "first_seen": "2016-10-24 08:32:15",
+        "last_seen": "2016-10-25 07:26:33",
+        "ip_address": "54.215.155.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2016-10-14 02:20:20",
+        "last_seen": "2016-10-14 09:20:16",
+        "ip_address": "52.9.12.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2016-10-14 02:20:20",
+        "last_seen": "2016-10-14 09:20:16",
+        "ip_address": "54.153.109.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "10",
+        "first_seen": "2016-10-17 04:17:10",
+        "last_seen": "2016-10-17 08:56:20",
+        "ip_address": "52.9.12.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "10",
+        "first_seen": "2016-10-17 04:17:10",
+        "last_seen": "2016-10-17 08:56:20",
+        "ip_address": "54.215.150.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "42",
+        "first_seen": "2016-03-19 14:07:55",
+        "last_seen": "2016-03-25 05:36:34",
+        "ip_address": "52.9.31.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "42",
+        "first_seen": "2016-03-19 14:07:55",
+        "last_seen": "2016-03-25 05:36:34",
+        "ip_address": "52.9.73.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2017-08-07 16:17:09",
+        "last_seen": "2017-08-07 16:17:09",
+        "ip_address": "52.9.36.161",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2017-08-07 16:17:09",
+        "last_seen": "2017-08-07 16:17:09",
+        "ip_address": "52.52.116.244",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "36",
+        "first_seen": "2017-10-18 07:24:43",
+        "last_seen": "2017-10-22 14:28:34",
+        "ip_address": "52.9.45.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "36",
+        "first_seen": "2017-10-18 07:24:43",
+        "last_seen": "2017-10-22 14:28:34",
+        "ip_address": "52.9.156.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2017-10-26 12:21:18",
+        "last_seen": "2017-10-28 09:32:46",
+        "ip_address": "52.9.45.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2017-10-26 12:21:18",
+        "last_seen": "2017-10-28 09:32:46",
+        "ip_address": "52.52.55.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "24",
+        "first_seen": "2017-09-30 10:16:26",
+        "last_seen": "2017-10-04 19:43:28",
+        "ip_address": "52.9.45.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "24",
+        "first_seen": "2017-09-30 10:16:26",
+        "last_seen": "2017-10-04 19:43:28",
+        "ip_address": "54.215.156.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-03-23 08:32:45",
+        "last_seen": "2017-03-23 08:32:45",
+        "ip_address": "52.9.60.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-03-23 08:32:45",
+        "last_seen": "2017-03-23 08:32:45",
+        "ip_address": "52.9.67.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "8",
+        "first_seen": "2017-03-12 13:11:52",
+        "last_seen": "2017-03-13 09:47:18",
+        "ip_address": "52.9.60.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "8",
+        "first_seen": "2017-03-12 13:11:52",
+        "last_seen": "2017-03-13 09:47:18",
+        "ip_address": "52.9.111.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "8",
+        "first_seen": "2017-03-14 08:16:14",
+        "last_seen": "2017-03-25 18:26:09",
+        "ip_address": "52.9.60.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "8",
+        "first_seen": "2017-03-14 08:16:14",
+        "last_seen": "2017-03-25 18:26:09",
+        "ip_address": "52.9.130.81",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "14",
+        "first_seen": "2017-03-23 12:34:09",
+        "last_seen": "2017-03-29 09:44:05",
+        "ip_address": "52.9.60.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "14",
+        "first_seen": "2017-03-23 12:34:09",
+        "last_seen": "2017-03-29 09:44:05",
+        "ip_address": "52.52.5.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "43",
+        "first_seen": "2017-02-28 02:22:17",
+        "last_seen": "2017-03-20 05:56:24",
+        "ip_address": "52.9.60.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "43",
+        "first_seen": "2017-02-28 02:22:17",
+        "last_seen": "2017-03-20 05:56:24",
+        "ip_address": "52.52.16.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "18",
+        "first_seen": "2017-03-07 11:14:06",
+        "last_seen": "2017-03-08 10:10:34",
+        "ip_address": "52.9.60.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "18",
+        "first_seen": "2017-03-07 11:14:06",
+        "last_seen": "2017-03-08 10:10:34",
+        "ip_address": "54.215.204.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "10",
+        "first_seen": "2017-02-04 12:53:51",
+        "last_seen": "2017-02-07 07:20:33",
+        "ip_address": "52.9.65.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "10",
+        "first_seen": "2017-02-04 12:53:51",
+        "last_seen": "2017-02-07 07:20:33",
+        "ip_address": "52.9.92.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "14",
+        "first_seen": "2017-01-31 12:46:02",
+        "last_seen": "2017-02-02 02:34:34",
+        "ip_address": "52.9.65.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "14",
+        "first_seen": "2017-01-31 12:46:02",
+        "last_seen": "2017-02-02 02:34:34",
+        "ip_address": "54.153.60.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-02-03 09:53:49",
+        "last_seen": "2017-02-03 09:53:49",
+        "ip_address": "52.9.65.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-02-03 09:53:49",
+        "last_seen": "2017-02-03 09:53:49",
+        "ip_address": "54.215.231.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "73",
+        "first_seen": "2017-02-27 04:38:27",
+        "last_seen": "2017-04-04 10:58:33",
+        "ip_address": "52.9.67.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "73",
+        "first_seen": "2017-02-27 04:38:27",
+        "last_seen": "2017-04-04 10:58:33",
+        "ip_address": "52.9.130.81",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-03-27 00:01:47",
+        "last_seen": "2017-03-27 00:01:47",
+        "ip_address": "52.9.67.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-03-27 00:01:47",
+        "last_seen": "2017-03-27 00:01:47",
+        "ip_address": "52.52.5.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "10",
+        "first_seen": "2017-03-26 03:33:39",
+        "last_seen": "2017-03-26 22:23:18",
+        "ip_address": "52.9.67.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "10",
+        "first_seen": "2017-03-26 03:33:39",
+        "last_seen": "2017-03-26 22:23:18",
+        "ip_address": "52.52.16.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2016-10-16 15:55:23",
+        "last_seen": "2016-10-17 03:48:28",
+        "ip_address": "52.9.68.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2016-10-16 15:55:23",
+        "last_seen": "2016-10-17 03:48:28",
+        "ip_address": "54.153.45.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "5",
+        "first_seen": "2016-12-17 09:43:09",
+        "last_seen": "2016-12-19 10:21:52",
+        "ip_address": "52.9.71.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "5",
+        "first_seen": "2016-12-17 09:43:09",
+        "last_seen": "2016-12-19 10:21:52",
+        "ip_address": "52.9.221.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "14",
+        "first_seen": "2016-12-16 10:41:25",
+        "last_seen": "2016-12-17 05:01:38",
+        "ip_address": "52.9.71.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "14",
+        "first_seen": "2016-12-16 10:41:25",
+        "last_seen": "2016-12-17 05:01:38",
+        "ip_address": "52.9.221.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "14",
+        "first_seen": "2016-12-16 10:41:25",
+        "last_seen": "2016-12-17 05:01:38",
+        "ip_address": "52.52.179.175",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "14",
+        "first_seen": "2016-12-16 10:41:25",
+        "last_seen": "2016-12-17 05:01:38",
+        "ip_address": "54.183.69.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "16",
+        "first_seen": "2016-03-07 16:58:31",
+        "last_seen": "2016-03-11 22:33:24",
+        "ip_address": "52.9.71.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "16",
+        "first_seen": "2016-03-07 16:58:31",
+        "last_seen": "2016-03-11 22:33:24",
+        "ip_address": "52.9.91.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "20",
+        "first_seen": "2016-12-03 21:45:48",
+        "last_seen": "2016-12-05 08:48:38",
+        "ip_address": "52.9.77.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "20",
+        "first_seen": "2016-12-03 21:45:48",
+        "last_seen": "2016-12-05 08:48:38",
+        "ip_address": "54.153.36.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "24",
+        "first_seen": "2016-12-02 07:56:14",
+        "last_seen": "2016-12-12 09:45:24",
+        "ip_address": "52.9.77.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "24",
+        "first_seen": "2016-12-02 07:56:14",
+        "last_seen": "2016-12-12 09:45:24",
+        "ip_address": "54.183.46.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "45",
+        "first_seen": "2016-05-30 11:42:36",
+        "last_seen": "2016-06-02 20:01:39",
+        "ip_address": "52.9.88.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "45",
+        "first_seen": "2016-05-30 11:42:36",
+        "last_seen": "2016-06-02 20:01:39",
+        "ip_address": "52.9.110.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-06-06 18:26:13",
+        "last_seen": "2016-06-06 18:26:13",
+        "ip_address": "52.9.88.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-06-06 18:26:13",
+        "last_seen": "2016-06-06 18:26:13",
+        "ip_address": "52.9.110.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-06-06 18:26:13",
+        "last_seen": "2016-06-06 18:26:13",
+        "ip_address": "54.183.35.216",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "70",
+        "first_seen": "2016-05-23 14:42:01",
+        "last_seen": "2016-05-27 23:09:28",
+        "ip_address": "52.9.88.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "70",
+        "first_seen": "2016-05-23 14:42:01",
+        "last_seen": "2016-05-27 23:09:28",
+        "ip_address": "52.9.168.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "5",
+        "first_seen": "2016-12-28 02:16:56",
+        "last_seen": "2016-12-28 06:24:16",
+        "ip_address": "52.9.91.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "5",
+        "first_seen": "2016-12-28 02:16:56",
+        "last_seen": "2016-12-28 06:24:16",
+        "ip_address": "52.52.205.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "5",
+        "first_seen": "2016-12-28 02:16:56",
+        "last_seen": "2016-12-28 06:24:16",
+        "ip_address": "54.183.69.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "5",
+        "first_seen": "2016-12-28 02:16:56",
+        "last_seen": "2016-12-28 06:24:16",
+        "ip_address": "54.193.7.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "32",
+        "first_seen": "2016-12-30 10:12:08",
+        "last_seen": "2017-01-01 10:24:24",
+        "ip_address": "52.9.91.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "32",
+        "first_seen": "2016-12-30 10:12:08",
+        "last_seen": "2017-01-01 10:24:24",
+        "ip_address": "54.153.86.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "82",
+        "first_seen": "2016-12-19 10:47:51",
+        "last_seen": "2016-12-26 10:27:42",
+        "ip_address": "52.9.91.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "82",
+        "first_seen": "2016-12-19 10:47:51",
+        "last_seen": "2016-12-26 10:27:42",
+        "ip_address": "54.183.69.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "17",
+        "first_seen": "2017-01-18 17:14:10",
+        "last_seen": "2017-01-19 06:26:55",
+        "ip_address": "52.9.92.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "17",
+        "first_seen": "2017-01-18 17:14:10",
+        "last_seen": "2017-01-19 06:26:55",
+        "ip_address": "52.9.109.241",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "17",
+        "first_seen": "2017-01-18 17:14:10",
+        "last_seen": "2017-01-19 06:26:55",
+        "ip_address": "52.52.208.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "17",
+        "first_seen": "2017-01-18 17:14:10",
+        "last_seen": "2017-01-19 06:26:55",
+        "ip_address": "54.241.162.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "24",
+        "first_seen": "2017-01-02 14:57:38",
+        "last_seen": "2017-01-03 00:24:33",
+        "ip_address": "52.9.92.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "24",
+        "first_seen": "2017-01-02 14:57:38",
+        "last_seen": "2017-01-03 00:24:33",
+        "ip_address": "52.9.110.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "24",
+        "first_seen": "2017-01-02 14:57:38",
+        "last_seen": "2017-01-03 00:24:33",
+        "ip_address": "52.52.200.227",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "24",
+        "first_seen": "2017-01-02 14:57:38",
+        "last_seen": "2017-01-03 00:24:33",
+        "ip_address": "54.153.86.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "20",
+        "first_seen": "2017-01-05 16:48:30",
+        "last_seen": "2017-01-06 06:33:50",
+        "ip_address": "52.9.92.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "20",
+        "first_seen": "2017-01-05 16:48:30",
+        "last_seen": "2017-01-06 06:33:50",
+        "ip_address": "52.9.110.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "20",
+        "first_seen": "2017-01-05 16:48:30",
+        "last_seen": "2017-01-06 06:33:50",
+        "ip_address": "52.52.208.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "20",
+        "first_seen": "2017-01-05 16:48:30",
+        "last_seen": "2017-01-06 06:33:50",
+        "ip_address": "54.153.86.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2017-01-04 13:32:45",
+        "last_seen": "2017-01-04 13:32:45",
+        "ip_address": "52.9.92.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2017-01-04 13:32:45",
+        "last_seen": "2017-01-04 13:32:45",
+        "ip_address": "52.52.200.227",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2017-01-04 13:32:45",
+        "last_seen": "2017-01-04 13:32:45",
+        "ip_address": "52.52.208.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2017-01-04 13:32:45",
+        "last_seen": "2017-01-04 13:32:45",
+        "ip_address": "54.153.86.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "14",
+        "first_seen": "2017-01-04 14:00:44",
+        "last_seen": "2017-01-05 07:28:22",
+        "ip_address": "52.9.92.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "14",
+        "first_seen": "2017-01-04 14:00:44",
+        "last_seen": "2017-01-05 07:28:22",
+        "ip_address": "52.52.200.227",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "14",
+        "first_seen": "2017-01-04 14:00:44",
+        "last_seen": "2017-01-05 07:28:22",
+        "ip_address": "54.153.86.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "14",
+        "first_seen": "2017-01-04 14:00:44",
+        "last_seen": "2017-01-05 07:28:22",
+        "ip_address": "54.193.7.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "43",
+        "first_seen": "2017-01-04 07:55:48",
+        "last_seen": "2017-01-19 15:43:53",
+        "ip_address": "52.9.92.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "43",
+        "first_seen": "2017-01-04 07:55:48",
+        "last_seen": "2017-01-19 15:43:53",
+        "ip_address": "52.52.208.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6",
+        "first_seen": "2017-02-14 08:02:53",
+        "last_seen": "2017-02-14 08:58:52",
+        "ip_address": "52.9.92.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6",
+        "first_seen": "2017-02-14 08:02:53",
+        "last_seen": "2017-02-14 08:58:52",
+        "ip_address": "52.52.210.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "67",
+        "first_seen": "2017-01-24 07:59:40",
+        "last_seen": "2017-02-16 09:51:22",
+        "ip_address": "52.9.92.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "67",
+        "first_seen": "2017-01-24 07:59:40",
+        "last_seen": "2017-02-16 09:51:22",
+        "ip_address": "54.153.60.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "26",
+        "first_seen": "2017-01-13 14:41:28",
+        "last_seen": "2017-01-14 06:44:25",
+        "ip_address": "52.9.92.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "26",
+        "first_seen": "2017-01-13 14:41:28",
+        "last_seen": "2017-01-14 06:44:25",
+        "ip_address": "54.153.86.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "25",
+        "first_seen": "2017-01-08 00:53:54",
+        "last_seen": "2017-01-08 18:51:58",
+        "ip_address": "52.9.92.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "25",
+        "first_seen": "2017-01-08 00:53:54",
+        "last_seen": "2017-01-08 18:51:58",
+        "ip_address": "54.193.7.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "49",
+        "first_seen": "2017-01-16 01:22:29",
+        "last_seen": "2017-01-27 08:56:20",
+        "ip_address": "52.9.92.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "49",
+        "first_seen": "2017-01-16 01:22:29",
+        "last_seen": "2017-01-27 08:56:20",
+        "ip_address": "54.241.162.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "8",
+        "first_seen": "2016-02-06 22:12:04",
+        "last_seen": "2016-02-07 02:22:13",
+        "ip_address": "52.9.92.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "8",
+        "first_seen": "2016-02-06 22:12:04",
+        "last_seen": "2016-02-07 02:22:13",
+        "ip_address": "52.9.109.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6",
+        "first_seen": "2017-02-19 09:09:56",
+        "last_seen": "2017-02-20 02:12:38",
+        "ip_address": "52.9.108.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6",
+        "first_seen": "2017-02-19 09:09:56",
+        "last_seen": "2017-02-20 02:12:38",
+        "ip_address": "54.153.72.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2016-04-11 01:28:23",
+        "last_seen": "2016-04-11 10:24:49",
+        "ip_address": "52.9.109.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2016-04-11 01:28:23",
+        "last_seen": "2016-04-11 10:24:49",
+        "ip_address": "52.9.171.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2016-04-11 01:28:23",
+        "last_seen": "2016-04-11 10:24:49",
+        "ip_address": "54.183.235.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2016-04-11 01:28:23",
+        "last_seen": "2016-04-11 10:24:49",
+        "ip_address": "54.241.144.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "19",
+        "first_seen": "2017-01-16 11:09:19",
+        "last_seen": "2017-01-18 07:45:47",
+        "ip_address": "52.9.109.241",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "19",
+        "first_seen": "2017-01-16 11:09:19",
+        "last_seen": "2017-01-18 07:45:47",
+        "ip_address": "54.153.86.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2016-11-02 23:35:04",
+        "last_seen": "2016-11-03 05:08:03",
+        "ip_address": "52.9.110.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2016-11-02 23:35:04",
+        "last_seen": "2016-11-03 05:08:03",
+        "ip_address": "52.52.129.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2016-11-02 23:35:04",
+        "last_seen": "2016-11-03 05:08:03",
+        "ip_address": "54.153.109.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2016-11-02 23:35:04",
+        "last_seen": "2016-11-03 05:08:03",
+        "ip_address": "54.183.100.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2016-11-02 15:48:18",
+        "last_seen": "2016-11-02 15:55:40",
+        "ip_address": "52.9.110.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2016-11-02 15:48:18",
+        "last_seen": "2016-11-02 15:55:40",
+        "ip_address": "52.52.129.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2016-11-02 15:48:18",
+        "last_seen": "2016-11-02 15:55:40",
+        "ip_address": "54.183.46.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2016-11-02 15:48:18",
+        "last_seen": "2016-11-02 15:55:40",
+        "ip_address": "54.183.100.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-11-02 15:32:56",
+        "last_seen": "2016-11-02 15:32:56",
+        "ip_address": "52.9.110.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-11-02 15:32:56",
+        "last_seen": "2016-11-02 15:32:56",
+        "ip_address": "52.52.129.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-11-02 15:32:56",
+        "last_seen": "2016-11-02 15:32:56",
+        "ip_address": "54.183.100.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-11-02 15:32:56",
+        "last_seen": "2016-11-02 15:32:56",
+        "ip_address": "54.241.129.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "72",
+        "first_seen": "2016-11-09 09:40:39",
+        "last_seen": "2016-11-13 06:45:31",
+        "ip_address": "52.9.110.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "72",
+        "first_seen": "2016-11-09 09:40:39",
+        "last_seen": "2016-11-13 06:45:31",
+        "ip_address": "54.153.109.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2016-11-08 20:44:27",
+        "last_seen": "2016-11-09 06:03:15",
+        "ip_address": "52.9.110.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2016-11-08 20:44:27",
+        "last_seen": "2016-11-09 06:03:15",
+        "ip_address": "54.153.109.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2016-11-08 20:44:27",
+        "last_seen": "2016-11-09 06:03:15",
+        "ip_address": "54.183.46.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2016-11-08 20:44:27",
+        "last_seen": "2016-11-09 06:03:15",
+        "ip_address": "54.183.100.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "14",
+        "first_seen": "2016-11-01 14:29:11",
+        "last_seen": "2016-11-02 07:22:45",
+        "ip_address": "52.9.110.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "14",
+        "first_seen": "2016-11-01 14:29:11",
+        "last_seen": "2016-11-02 07:22:45",
+        "ip_address": "54.153.109.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "14",
+        "first_seen": "2016-11-01 14:29:11",
+        "last_seen": "2016-11-02 07:22:45",
+        "ip_address": "54.183.46.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "14",
+        "first_seen": "2016-11-01 14:29:11",
+        "last_seen": "2016-11-02 07:22:45",
+        "ip_address": "54.241.129.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2016-11-05 10:28:55",
+        "last_seen": "2016-11-05 21:07:05",
+        "ip_address": "52.9.110.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2016-11-05 10:28:55",
+        "last_seen": "2016-11-05 21:07:05",
+        "ip_address": "54.183.46.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "106",
+        "first_seen": "2016-11-15 07:57:43",
+        "last_seen": "2016-11-18 07:27:19",
+        "ip_address": "52.9.110.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "106",
+        "first_seen": "2016-11-15 07:57:43",
+        "last_seen": "2016-11-18 07:27:19",
+        "ip_address": "54.183.100.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "8",
+        "first_seen": "2016-10-22 12:53:10",
+        "last_seen": "2016-10-22 18:03:53",
+        "ip_address": "52.9.110.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "8",
+        "first_seen": "2016-10-22 12:53:10",
+        "last_seen": "2016-10-22 18:03:53",
+        "ip_address": "54.215.155.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "8",
+        "first_seen": "2016-11-02 10:10:53",
+        "last_seen": "2016-11-02 15:02:15",
+        "ip_address": "52.9.110.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "8",
+        "first_seen": "2016-11-02 10:10:53",
+        "last_seen": "2016-11-02 15:02:15",
+        "ip_address": "54.241.129.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "18",
+        "first_seen": "2017-01-08 20:50:16",
+        "last_seen": "2017-01-09 08:42:14",
+        "ip_address": "52.9.110.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "18",
+        "first_seen": "2017-01-08 20:50:16",
+        "last_seen": "2017-01-09 08:42:14",
+        "ip_address": "52.52.208.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "64",
+        "first_seen": "2017-01-03 03:10:18",
+        "last_seen": "2017-01-07 23:50:05",
+        "ip_address": "52.9.110.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "64",
+        "first_seen": "2017-01-03 03:10:18",
+        "last_seen": "2017-01-07 23:50:05",
+        "ip_address": "54.153.86.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-01-02 10:48:30",
+        "last_seen": "2017-01-02 10:48:30",
+        "ip_address": "52.9.110.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-01-02 10:48:30",
+        "last_seen": "2017-01-02 10:48:30",
+        "ip_address": "54.193.7.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "22",
+        "first_seen": "2016-03-22 10:48:41",
+        "last_seen": "2016-03-25 20:13:11",
+        "ip_address": "52.9.110.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "22",
+        "first_seen": "2016-03-22 10:48:41",
+        "last_seen": "2016-03-25 20:13:11",
+        "ip_address": "54.183.132.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "10",
+        "first_seen": "2016-12-19 13:53:39",
+        "last_seen": "2016-12-22 09:51:36",
+        "ip_address": "52.9.111.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "10",
+        "first_seen": "2016-12-19 13:53:39",
+        "last_seen": "2016-12-22 09:51:36",
+        "ip_address": "54.193.7.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "50",
+        "first_seen": "2016-11-18 21:50:13",
+        "last_seen": "2016-11-21 07:55:54",
+        "ip_address": "52.9.114.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "50",
+        "first_seen": "2016-11-18 21:50:13",
+        "last_seen": "2016-11-21 07:55:54",
+        "ip_address": "52.52.113.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "44",
+        "first_seen": "2016-11-23 07:34:40",
+        "last_seen": "2016-11-28 08:21:29",
+        "ip_address": "52.9.114.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "44",
+        "first_seen": "2016-11-23 07:34:40",
+        "last_seen": "2016-11-28 08:21:29",
+        "ip_address": "54.153.36.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "21",
+        "first_seen": "2016-11-07 10:33:14",
+        "last_seen": "2016-11-12 09:27:54",
+        "ip_address": "52.9.117.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "21",
+        "first_seen": "2016-11-07 10:33:14",
+        "last_seen": "2016-11-12 09:27:54",
+        "ip_address": "54.183.46.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "33",
+        "first_seen": "2017-04-06 12:38:00",
+        "last_seen": "2017-04-12 08:27:55",
+        "ip_address": "52.9.130.81",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "33",
+        "first_seen": "2017-04-06 12:38:00",
+        "last_seen": "2017-04-12 08:27:55",
+        "ip_address": "52.52.5.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "32",
+        "first_seen": "2017-02-17 21:28:04",
+        "last_seen": "2017-02-24 18:32:33",
+        "ip_address": "52.9.130.81",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "32",
+        "first_seen": "2017-02-17 21:28:04",
+        "last_seen": "2017-02-24 18:32:33",
+        "ip_address": "54.153.60.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "10",
+        "first_seen": "2017-02-16 10:26:57",
+        "last_seen": "2017-02-17 04:12:02",
+        "ip_address": "52.9.130.81",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "10",
+        "first_seen": "2017-02-16 10:26:57",
+        "last_seen": "2017-02-17 04:12:02",
+        "ip_address": "54.153.72.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "32",
+        "first_seen": "2017-03-28 04:57:20",
+        "last_seen": "2017-04-15 20:24:10",
+        "ip_address": "52.9.130.81",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "32",
+        "first_seen": "2017-03-28 04:57:20",
+        "last_seen": "2017-04-15 20:24:10",
+        "ip_address": "54.183.21.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2016-09-27 08:34:31",
+        "last_seen": "2016-09-27 09:20:06",
+        "ip_address": "52.9.134.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2016-09-27 08:34:31",
+        "last_seen": "2016-09-27 09:20:06",
+        "ip_address": "52.9.208.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2016-09-27 08:34:31",
+        "last_seen": "2016-09-27 09:20:06",
+        "ip_address": "52.52.3.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2016-09-27 08:34:31",
+        "last_seen": "2016-09-27 09:20:06",
+        "ip_address": "54.215.172.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "20",
+        "first_seen": "2016-10-02 03:49:22",
+        "last_seen": "2016-10-02 23:46:51",
+        "ip_address": "52.9.134.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "20",
+        "first_seen": "2016-10-02 03:49:22",
+        "last_seen": "2016-10-02 23:46:51",
+        "ip_address": "52.52.108.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "75",
+        "first_seen": "2016-09-28 22:43:17",
+        "last_seen": "2016-10-01 12:51:27",
+        "ip_address": "52.9.134.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "75",
+        "first_seen": "2016-09-28 22:43:17",
+        "last_seen": "2016-10-01 12:51:27",
+        "ip_address": "52.52.108.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "75",
+        "first_seen": "2016-09-28 22:43:17",
+        "last_seen": "2016-10-01 12:51:27",
+        "ip_address": "54.183.35.216",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "75",
+        "first_seen": "2016-09-28 22:43:17",
+        "last_seen": "2016-10-01 12:51:27",
+        "ip_address": "54.219.162.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "27",
+        "first_seen": "2016-03-15 20:17:51",
+        "last_seen": "2016-03-18 02:19:40",
+        "ip_address": "52.9.135.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "27",
+        "first_seen": "2016-03-15 20:17:51",
+        "last_seen": "2016-03-18 02:19:40",
+        "ip_address": "54.153.37.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "10",
+        "first_seen": "2017-10-23 03:08:04",
+        "last_seen": "2017-10-24 00:34:55",
+        "ip_address": "52.9.156.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "10",
+        "first_seen": "2017-10-23 03:08:04",
+        "last_seen": "2017-10-24 00:34:55",
+        "ip_address": "54.215.191.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-07-17 11:34:49",
+        "last_seen": "2017-07-17 11:34:49",
+        "ip_address": "52.9.166.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-07-17 11:34:49",
+        "last_seen": "2017-07-17 11:34:49",
+        "ip_address": "54.183.53.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2017-07-15 14:06:06",
+        "last_seen": "2017-07-15 22:13:50",
+        "ip_address": "52.9.166.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2017-07-15 14:06:06",
+        "last_seen": "2017-07-15 22:13:50",
+        "ip_address": "54.215.218.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "31",
+        "first_seen": "2016-04-12 01:05:45",
+        "last_seen": "2016-04-13 14:37:27",
+        "ip_address": "52.9.171.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "31",
+        "first_seen": "2016-04-12 01:05:45",
+        "last_seen": "2016-04-13 14:37:27",
+        "ip_address": "54.183.235.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "46",
+        "first_seen": "2016-05-28 02:49:59",
+        "last_seen": "2016-05-30 10:29:57",
+        "ip_address": "52.9.211.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "46",
+        "first_seen": "2016-05-28 02:49:59",
+        "last_seen": "2016-05-30 10:29:57",
+        "ip_address": "54.153.25.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "10",
+        "first_seen": "2017-05-15 14:14:03",
+        "last_seen": "2017-05-16 13:04:28",
+        "ip_address": "52.9.212.158",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "10",
+        "first_seen": "2017-05-15 14:14:03",
+        "last_seen": "2017-05-16 13:04:28",
+        "ip_address": "54.215.154.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6",
+        "first_seen": "2016-12-14 09:49:44",
+        "last_seen": "2016-12-21 09:37:11",
+        "ip_address": "52.9.221.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6",
+        "first_seen": "2016-12-14 09:49:44",
+        "last_seen": "2016-12-21 09:37:11",
+        "ip_address": "52.52.179.175",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "56",
+        "first_seen": "2016-12-06 11:20:49",
+        "last_seen": "2016-12-18 17:59:44",
+        "ip_address": "52.9.221.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "56",
+        "first_seen": "2016-12-06 11:20:49",
+        "last_seen": "2016-12-18 17:59:44",
+        "ip_address": "54.183.69.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "27",
+        "first_seen": "2017-08-17 10:13:51",
+        "last_seen": "2017-08-19 16:50:53",
+        "ip_address": "52.9.241.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "27",
+        "first_seen": "2017-08-17 10:13:51",
+        "last_seen": "2017-08-19 16:50:53",
+        "ip_address": "52.52.240.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "41",
+        "first_seen": "2017-08-14 01:25:41",
+        "last_seen": "2017-08-17 06:16:02",
+        "ip_address": "52.9.241.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "41",
+        "first_seen": "2017-08-14 01:25:41",
+        "last_seen": "2017-08-17 06:16:02",
+        "ip_address": "54.193.16.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "16",
+        "first_seen": "2016-10-25 11:55:33",
+        "last_seen": "2016-10-28 09:23:29",
+        "ip_address": "52.9.249.157",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "16",
+        "first_seen": "2016-10-25 11:55:33",
+        "last_seen": "2016-10-28 09:23:29",
+        "ip_address": "52.52.107.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "38",
+        "first_seen": "2017-04-05 08:07:37",
+        "last_seen": "2017-04-13 06:10:36",
+        "ip_address": "52.52.5.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "38",
+        "first_seen": "2017-04-05 08:07:37",
+        "last_seen": "2017-04-13 06:10:36",
+        "ip_address": "54.183.21.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "40",
+        "first_seen": "2017-04-25 08:42:52",
+        "last_seen": "2017-05-01 07:27:45",
+        "ip_address": "52.52.5.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "40",
+        "first_seen": "2017-04-25 08:42:52",
+        "last_seen": "2017-05-01 07:27:45",
+        "ip_address": "54.183.80.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "36",
+        "first_seen": "2017-04-10 11:55:34",
+        "last_seen": "2017-04-22 19:19:48",
+        "ip_address": "52.52.5.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "36",
+        "first_seen": "2017-04-10 11:55:34",
+        "last_seen": "2017-04-22 19:19:48",
+        "ip_address": "54.183.249.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "14",
+        "first_seen": "2017-04-28 08:31:55",
+        "last_seen": "2017-05-04 10:38:50",
+        "ip_address": "52.52.5.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "14",
+        "first_seen": "2017-04-28 08:31:55",
+        "last_seen": "2017-05-04 10:38:50",
+        "ip_address": "54.215.154.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "34",
+        "first_seen": "2017-03-20 21:52:52",
+        "last_seen": "2017-03-25 05:29:58",
+        "ip_address": "52.52.5.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "34",
+        "first_seen": "2017-03-20 21:52:52",
+        "last_seen": "2017-03-25 05:29:58",
+        "ip_address": "52.52.16.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "12",
+        "first_seen": "2017-04-01 09:06:54",
+        "last_seen": "2017-04-03 10:39:26",
+        "ip_address": "52.52.5.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "12",
+        "first_seen": "2017-04-01 09:06:54",
+        "last_seen": "2017-04-03 10:39:26",
+        "ip_address": "54.183.21.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2017-07-24 14:24:43",
+        "last_seen": "2017-07-24 22:55:23",
+        "ip_address": "52.52.10.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2017-07-24 14:24:43",
+        "last_seen": "2017-07-24 22:55:23",
+        "ip_address": "54.183.53.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2017-03-27 11:46:12",
+        "last_seen": "2017-03-27 16:29:59",
+        "ip_address": "52.52.16.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2017-03-27 11:46:12",
+        "last_seen": "2017-03-27 16:29:59",
+        "ip_address": "54.183.21.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "45",
+        "first_seen": "2017-03-14 06:24:28",
+        "last_seen": "2017-03-18 07:23:13",
+        "ip_address": "52.52.16.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "45",
+        "first_seen": "2017-03-14 06:24:28",
+        "last_seen": "2017-03-18 07:23:13",
+        "ip_address": "54.193.118.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-03-06 11:59:38",
+        "last_seen": "2017-03-06 11:59:38",
+        "ip_address": "52.52.16.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-03-06 11:59:38",
+        "last_seen": "2017-03-06 11:59:38",
+        "ip_address": "54.215.204.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "12",
+        "first_seen": "2017-06-12 13:37:02",
+        "last_seen": "2017-06-18 09:23:57",
+        "ip_address": "52.52.26.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "12",
+        "first_seen": "2017-06-12 13:37:02",
+        "last_seen": "2017-06-18 09:23:57",
+        "ip_address": "54.153.85.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "9",
+        "first_seen": "2016-10-16 03:52:19",
+        "last_seen": "2016-10-16 12:05:46",
+        "ip_address": "52.52.97.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "9",
+        "first_seen": "2016-10-16 03:52:19",
+        "last_seen": "2016-10-16 12:05:46",
+        "ip_address": "54.215.150.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6",
+        "first_seen": "2016-10-27 09:45:39",
+        "last_seen": "2016-10-29 20:51:31",
+        "ip_address": "52.52.107.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6",
+        "first_seen": "2016-10-27 09:45:39",
+        "last_seen": "2016-10-29 20:51:31",
+        "ip_address": "54.153.109.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "30",
+        "first_seen": "2016-11-05 22:58:25",
+        "last_seen": "2016-11-07 03:09:24",
+        "ip_address": "52.52.129.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "30",
+        "first_seen": "2016-11-05 22:58:25",
+        "last_seen": "2016-11-07 03:09:24",
+        "ip_address": "54.153.109.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6",
+        "first_seen": "2016-11-01 00:40:07",
+        "last_seen": "2016-11-01 06:26:38",
+        "ip_address": "52.52.129.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6",
+        "first_seen": "2016-11-01 00:40:07",
+        "last_seen": "2016-11-01 06:26:38",
+        "ip_address": "54.153.109.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6",
+        "first_seen": "2016-11-01 00:40:07",
+        "last_seen": "2016-11-01 06:26:38",
+        "ip_address": "54.183.46.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6",
+        "first_seen": "2016-11-01 00:40:07",
+        "last_seen": "2016-11-01 06:26:38",
+        "ip_address": "54.183.100.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-11-04 08:42:14",
+        "last_seen": "2016-11-04 08:42:14",
+        "ip_address": "52.52.129.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-11-04 08:42:14",
+        "last_seen": "2016-11-04 08:42:14",
+        "ip_address": "54.183.46.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-11-08 09:31:37",
+        "last_seen": "2016-11-08 09:31:37",
+        "ip_address": "52.52.129.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-11-08 09:31:37",
+        "last_seen": "2016-11-08 09:31:37",
+        "ip_address": "54.183.100.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-10-31 12:10:58",
+        "last_seen": "2016-10-31 12:10:58",
+        "ip_address": "52.52.129.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2016-10-31 12:10:58",
+        "last_seen": "2016-10-31 12:10:58",
+        "ip_address": "54.241.129.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "18",
+        "first_seen": "2016-11-21 15:18:33",
+        "last_seen": "2016-11-22 06:35:07",
+        "ip_address": "52.52.165.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "18",
+        "first_seen": "2016-11-21 15:18:33",
+        "last_seen": "2016-11-22 06:35:07",
+        "ip_address": "54.153.36.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "17",
+        "first_seen": "2016-12-23 07:58:42",
+        "last_seen": "2016-12-26 09:24:10",
+        "ip_address": "52.52.179.175",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "17",
+        "first_seen": "2016-12-23 07:58:42",
+        "last_seen": "2016-12-26 09:24:10",
+        "ip_address": "54.193.7.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "9",
+        "first_seen": "2017-01-02 11:26:24",
+        "last_seen": "2017-01-02 14:08:28",
+        "ip_address": "52.52.200.227",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "9",
+        "first_seen": "2017-01-02 11:26:24",
+        "last_seen": "2017-01-02 14:08:28",
+        "ip_address": "54.219.156.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "25",
+        "first_seen": "2016-12-29 08:24:28",
+        "last_seen": "2016-12-30 07:18:14",
+        "ip_address": "52.52.205.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "25",
+        "first_seen": "2016-12-29 08:24:28",
+        "last_seen": "2016-12-30 07:18:14",
+        "ip_address": "54.153.86.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6",
+        "first_seen": "2016-12-24 22:56:14",
+        "last_seen": "2016-12-25 10:54:27",
+        "ip_address": "52.52.205.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6",
+        "first_seen": "2016-12-24 22:56:14",
+        "last_seen": "2016-12-25 10:54:27",
+        "ip_address": "54.183.69.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "41",
+        "first_seen": "2017-01-11 08:23:56",
+        "last_seen": "2017-01-13 07:13:21",
+        "ip_address": "52.52.208.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "41",
+        "first_seen": "2017-01-11 08:23:56",
+        "last_seen": "2017-01-13 07:13:21",
+        "ip_address": "54.153.86.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "50",
+        "first_seen": "2017-01-20 02:22:50",
+        "last_seen": "2017-01-22 20:03:32",
+        "ip_address": "52.52.208.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "50",
+        "first_seen": "2017-01-20 02:22:50",
+        "last_seen": "2017-01-22 20:03:32",
+        "ip_address": "54.193.7.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2017-01-17 09:15:13",
+        "last_seen": "2017-01-17 09:15:14",
+        "ip_address": "52.52.208.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "3",
+        "first_seen": "2017-01-17 09:15:13",
+        "last_seen": "2017-01-17 09:15:14",
+        "ip_address": "54.241.162.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "36",
+        "first_seen": "2017-02-08 06:59:41",
+        "last_seen": "2017-02-15 09:46:44",
+        "ip_address": "52.52.210.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "36",
+        "first_seen": "2017-02-08 06:59:41",
+        "last_seen": "2017-02-15 09:46:44",
+        "ip_address": "54.153.60.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "23",
+        "first_seen": "2017-02-05 03:12:49",
+        "last_seen": "2017-02-06 08:49:35",
+        "ip_address": "52.52.210.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "23",
+        "first_seen": "2017-02-05 03:12:49",
+        "last_seen": "2017-02-06 08:49:35",
+        "ip_address": "54.215.231.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "47",
+        "first_seen": "2017-09-16 11:55:45",
+        "last_seen": "2017-09-22 07:03:38",
+        "ip_address": "52.52.226.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "47",
+        "first_seen": "2017-09-16 11:55:45",
+        "last_seen": "2017-09-22 07:03:38",
+        "ip_address": "54.215.156.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "43",
+        "first_seen": "2017-08-08 11:52:33",
+        "last_seen": "2017-08-12 07:14:28",
+        "ip_address": "52.52.240.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "43",
+        "first_seen": "2017-08-08 11:52:33",
+        "last_seen": "2017-08-12 07:14:28",
+        "ip_address": "54.183.53.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "9",
+        "first_seen": "2017-08-06 19:22:08",
+        "last_seen": "2017-08-07 09:15:04",
+        "ip_address": "52.52.240.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "9",
+        "first_seen": "2017-08-06 19:22:08",
+        "last_seen": "2017-08-07 09:15:04",
+        "ip_address": "54.193.16.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "45",
+        "first_seen": "2017-04-17 16:25:12",
+        "last_seen": "2017-04-22 04:26:36",
+        "ip_address": "52.52.240.181",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "45",
+        "first_seen": "2017-04-17 16:25:12",
+        "last_seen": "2017-04-22 04:26:36",
+        "ip_address": "54.183.21.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "26",
+        "first_seen": "2017-04-24 12:20:20",
+        "last_seen": "2017-04-26 05:14:23",
+        "ip_address": "52.52.240.181",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "26",
+        "first_seen": "2017-04-24 12:20:20",
+        "last_seen": "2017-04-26 05:14:23",
+        "ip_address": "54.183.249.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-04-29 13:53:00",
+        "last_seen": "2017-04-29 13:53:00",
+        "ip_address": "52.52.240.181",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-04-29 13:53:00",
+        "last_seen": "2017-04-29 13:53:00",
+        "ip_address": "54.215.154.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2017-01-25 10:04:54",
+        "last_seen": "2017-01-25 13:29:44",
+        "ip_address": "54.153.60.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "4",
+        "first_seen": "2017-01-25 10:04:54",
+        "last_seen": "2017-01-25 13:29:44",
+        "ip_address": "54.215.231.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "2",
+        "first_seen": "2017-01-07 07:22:25",
+        "last_seen": "2017-01-07 07:22:25",
+        "ip_address": "54.153.86.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2017-01-05 08:37:34",
+        "last_seen": "2017-01-05 15:52:40",
+        "ip_address": "54.153.86.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "13",
+        "first_seen": "2017-01-05 08:37:34",
+        "last_seen": "2017-01-05 15:52:40",
+        "ip_address": "54.193.7.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "38",
+        "first_seen": "2016-11-01 09:16:26",
+        "last_seen": "2016-11-05 03:36:08",
+        "ip_address": "54.153.109.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "38",
+        "first_seen": "2016-11-01 09:16:26",
+        "last_seen": "2016-11-05 03:36:08",
+        "ip_address": "54.183.100.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "11",
+        "first_seen": "2016-10-01 14:53:01",
+        "last_seen": "2016-10-02 01:56:22",
+        "ip_address": "54.183.35.216",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "11",
+        "first_seen": "2016-10-01 14:53:01",
+        "last_seen": "2016-10-02 01:56:22",
+        "ip_address": "54.219.162.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "259",
+        "first_seen": "2016-01-28 14:33:18",
+        "last_seen": "2016-03-07 09:00:46",
+        "ip_address": "54.183.36.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "259",
+        "first_seen": "2016-01-28 14:33:18",
+        "last_seen": "2016-03-07 09:00:46",
+        "ip_address": "54.215.204.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "74",
+        "first_seen": "2016-11-11 08:44:50",
+        "last_seen": "2016-11-20 07:49:14",
+        "ip_address": "54.183.46.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "74",
+        "first_seen": "2016-11-11 08:44:50",
+        "last_seen": "2016-11-20 07:49:14",
+        "ip_address": "54.183.100.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "16",
+        "first_seen": "2017-07-18 11:18:24",
+        "last_seen": "2017-07-19 05:37:10",
+        "ip_address": "54.183.53.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "16",
+        "first_seen": "2017-07-18 11:18:24",
+        "last_seen": "2017-07-19 05:37:10",
+        "ip_address": "54.193.62.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "20",
+        "first_seen": "2016-12-31 07:56:10",
+        "last_seen": "2016-12-31 20:01:00",
+        "ip_address": "54.183.69.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "20",
+        "first_seen": "2016-12-31 07:56:10",
+        "last_seen": "2016-12-31 20:01:00",
+        "ip_address": "54.193.7.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "56",
+        "first_seen": "2017-04-26 07:06:26",
+        "last_seen": "2017-04-29 07:10:48",
+        "ip_address": "54.183.80.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "56",
+        "first_seen": "2017-04-26 07:06:26",
+        "last_seen": "2017-04-29 07:10:48",
+        "ip_address": "54.183.249.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "5",
+        "first_seen": "2017-06-24 09:44:09",
+        "last_seen": "2017-06-24 23:59:52",
+        "ip_address": "54.183.106.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "5",
+        "first_seen": "2017-06-24 09:44:09",
+        "last_seen": "2017-06-24 23:59:52",
+        "ip_address": "54.215.218.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "15",
+        "first_seen": "2017-01-14 10:06:54",
+        "last_seen": "2017-01-15 04:33:18",
+        "ip_address": "54.193.7.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "15",
+        "first_seen": "2017-01-14 10:06:54",
+        "last_seen": "2017-01-15 04:33:18",
+        "ip_address": "54.193.33.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "25",
+        "first_seen": "2017-01-22 23:10:58",
+        "last_seen": "2017-01-25 08:43:26",
+        "ip_address": "54.215.195.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "25",
+        "first_seen": "2017-01-22 23:10:58",
+        "last_seen": "2017-01-25 08:43:26",
+        "ip_address": "54.241.162.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "135728",
+        "first_seen": "2019-02-05 19:20:47",
+        "last_seen": "2024-01-18 05:31:08",
+        "ip_address": "104.16.103.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "135728",
+        "first_seen": "2019-02-05 19:20:47",
+        "last_seen": "2024-01-18 05:31:08",
+        "ip_address": "104.16.104.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6112",
+        "first_seen": "2017-10-31 05:51:42",
+        "last_seen": "2019-02-05 13:41:51",
+        "ip_address": "104.17.120.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6112",
+        "first_seen": "2017-10-31 05:51:42",
+        "last_seen": "2019-02-05 13:41:51",
+        "ip_address": "104.17.121.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6112",
+        "first_seen": "2017-10-31 05:51:42",
+        "last_seen": "2019-02-05 13:41:51",
+        "ip_address": "104.17.122.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6112",
+        "first_seen": "2017-10-31 05:51:42",
+        "last_seen": "2019-02-05 13:41:51",
+        "ip_address": "104.17.123.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "6112",
+        "first_seen": "2017-10-31 05:51:42",
+        "last_seen": "2019-02-05 13:41:51",
+        "ip_address": "104.17.124.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "1112",
+        "first_seen": "2017-11-03 06:28:32",
+        "last_seen": "2018-10-31 15:36:28",
+        "ip_address": "2400:cb00:2048:1::6811:78cb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "1112",
+        "first_seen": "2017-11-03 06:28:32",
+        "last_seen": "2018-10-31 15:36:28",
+        "ip_address": "2400:cb00:2048:1::6811:79cb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "1112",
+        "first_seen": "2017-11-03 06:28:32",
+        "last_seen": "2018-10-31 15:36:28",
+        "ip_address": "2400:cb00:2048:1::6811:7acb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "1112",
+        "first_seen": "2017-11-03 06:28:32",
+        "last_seen": "2018-10-31 15:36:28",
+        "ip_address": "2400:cb00:2048:1::6811:7bcb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "1112",
+        "first_seen": "2017-11-03 06:28:32",
+        "last_seen": "2018-10-31 15:36:28",
+        "ip_address": "2400:cb00:2048:1::6811:7ccb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "24911",
+        "first_seen": "2019-02-05 22:27:31",
+        "last_seen": "2024-01-17 10:05:12",
+        "ip_address": "2606:4700::6810:6710",
+        "type": "IPv6"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "24911",
+        "first_seen": "2019-02-05 22:27:31",
+        "last_seen": "2024-01-17 10:05:12",
+        "ip_address": "2606:4700::6810:6810",
+        "type": "IPv6"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "1033",
+        "first_seen": "2018-11-01 03:02:52",
+        "last_seen": "2019-02-05 13:41:51",
+        "ip_address": "2606:4700::6811:78cb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "1033",
+        "first_seen": "2018-11-01 03:02:52",
+        "last_seen": "2019-02-05 13:41:51",
+        "ip_address": "2606:4700::6811:79cb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "1033",
+        "first_seen": "2018-11-01 03:02:52",
+        "last_seen": "2019-02-05 13:41:51",
+        "ip_address": "2606:4700::6811:7acb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "1033",
+        "first_seen": "2018-11-01 03:02:52",
+        "last_seen": "2019-02-05 13:41:51",
+        "ip_address": "2606:4700::6811:7bcb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "id.jora.com",
+        "count": "1033",
+        "first_seen": "2018-11-01 03:02:52",
+        "last_seen": "2019-02-05 13:41:51",
+        "ip_address": "2606:4700::6811:7ccb",
+        "type": "IPv6"
+    }
+]

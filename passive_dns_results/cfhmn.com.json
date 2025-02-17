@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "cfhmn.com",
+        "count": "3",
+        "first_seen": "2016-05-06 07:55:03",
+        "last_seen": "2016-05-06 07:55:03",
+        "ip_address": "42.200.34.249",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cfhmn.com",
+        "count": "3",
+        "first_seen": "2016-05-06 07:55:03",
+        "last_seen": "2016-05-06 07:55:03",
+        "ip_address": "42.200.35.139",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cfhmn.com",
+        "count": "14",
+        "first_seen": "2016-05-20 23:57:55",
+        "last_seen": "2016-07-22 08:23:39",
+        "ip_address": "42.200.35.139",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cfhmn.com",
+        "count": "14",
+        "first_seen": "2016-05-20 23:57:55",
+        "last_seen": "2016-07-22 08:23:39",
+        "ip_address": "47.90.20.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cfhmn.com",
+        "count": "4",
+        "first_seen": "2016-12-15 13:59:19",
+        "last_seen": "2016-12-22 08:39:26",
+        "ip_address": "47.90.14.232",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cfhmn.com",
+        "count": "28",
+        "first_seen": "2016-08-12 14:19:43",
+        "last_seen": "2016-12-08 05:57:24",
+        "ip_address": "47.90.14.232",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cfhmn.com",
+        "count": "28",
+        "first_seen": "2016-08-12 14:19:43",
+        "last_seen": "2016-12-08 05:57:24",
+        "ip_address": "47.90.20.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cfhmn.com",
+        "count": "19",
+        "first_seen": "2016-03-03 11:26:53",
+        "last_seen": "2016-04-13 10:42:11",
+        "ip_address": "64.62.224.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cfhmn.com",
+        "count": "7",
+        "first_seen": "2016-03-06 00:58:53",
+        "last_seen": "2016-04-03 04:58:15",
+        "ip_address": "74.82.63.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cfhmn.com",
+        "count": "10",
+        "first_seen": "2017-01-05 04:25:05",
+        "last_seen": "2017-02-02 10:38:06",
+        "ip_address": "172.252.75.114",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "domain": "smbc.vip",
+        "count": "32",
+        "first_seen": "2019-05-21 18:08:07",
+        "last_seen": "2020-06-14 04:21:47",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.vip",
+        "count": "78",
+        "first_seen": "2021-04-29 07:55:39",
+        "last_seen": "2021-11-01 23:37:41",
+        "ip_address": "99.83.154.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.vip",
+        "count": "193",
+        "first_seen": "2020-09-21 06:06:03",
+        "last_seen": "2020-10-05 22:23:22",
+        "ip_address": "103.150.215.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.vip",
+        "count": "4",
+        "first_seen": "2022-02-26 06:35:16",
+        "last_seen": "2022-02-28 03:48:18",
+        "ip_address": "104.21.9.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.vip",
+        "count": "4",
+        "first_seen": "2022-02-26 06:35:16",
+        "last_seen": "2022-02-28 03:48:18",
+        "ip_address": "172.67.159.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.vip",
+        "count": "1",
+        "first_seen": "2022-02-27 22:54:00",
+        "last_seen": "2022-02-27 22:54:00",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.vip",
+        "count": "1",
+        "first_seen": "2022-02-27 22:54:00",
+        "last_seen": "2022-02-27 22:54:00",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.vip",
+        "count": "2",
+        "first_seen": "2022-02-21 00:42:59",
+        "last_seen": "2022-02-25 13:03:36",
+        "ip_address": "192.64.119.237",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.vip",
+        "count": "32",
+        "first_seen": "2021-02-07 06:26:59",
+        "last_seen": "2021-04-27 08:28:41",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.vip",
+        "count": "32",
+        "first_seen": "2021-02-07 06:26:59",
+        "last_seen": "2021-04-27 08:28:41",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.vip",
+        "count": "32",
+        "first_seen": "2021-02-07 06:26:59",
+        "last_seen": "2021-04-27 08:28:41",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.vip",
+        "count": "32",
+        "first_seen": "2021-02-07 06:26:59",
+        "last_seen": "2021-04-27 08:28:41",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.vip",
+        "count": "113",
+        "first_seen": "2020-10-07 23:18:49",
+        "last_seen": "2021-02-01 11:45:31",
+        "ip_address": "198.54.117.244",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.vip",
+        "count": "1",
+        "first_seen": "2022-02-26 06:37:50",
+        "last_seen": "2022-02-26 06:37:50",
+        "ip_address": "2606:4700:3036::ac43:9f20",
+        "type": "IPv6"
+    },
+    {
+        "domain": "smbc.vip",
+        "count": "1",
+        "first_seen": "2022-02-26 06:37:50",
+        "last_seen": "2022-02-26 06:37:50",
+        "ip_address": "2606:4700:3037::6815:938",
+        "type": "IPv6"
+    }
+]

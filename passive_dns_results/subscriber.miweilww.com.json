@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.miweilww.com",
+        "count": "106",
+        "first_seen": "2019-12-05 03:06:39",
+        "last_seen": "2020-01-14 16:31:34",
+        "ip_address": "104.18.52.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.miweilww.com",
+        "count": "106",
+        "first_seen": "2019-12-05 03:06:39",
+        "last_seen": "2020-01-14 16:31:34",
+        "ip_address": "104.18.53.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.miweilww.com",
+        "count": "14",
+        "first_seen": "2020-02-18 05:42:29",
+        "last_seen": "2020-03-09 04:03:20",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.miweilww.com",
+        "count": "50",
+        "first_seen": "2019-12-05 03:06:38",
+        "last_seen": "2020-01-11 06:06:48",
+        "ip_address": "2606:4700:30::6812:3405",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.miweilww.com",
+        "count": "50",
+        "first_seen": "2019-12-05 03:06:38",
+        "last_seen": "2020-01-11 06:06:48",
+        "ip_address": "2606:4700:30::6812:3505",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "img.lecrb.com",
+        "count": "2744",
+        "first_seen": "2020-06-07 02:13:46",
+        "last_seen": "2020-12-29 00:09:24",
+        "ip_address": "104.27.158.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lecrb.com",
+        "count": "2744",
+        "first_seen": "2020-06-07 02:13:46",
+        "last_seen": "2020-12-29 00:09:24",
+        "ip_address": "104.27.159.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lecrb.com",
+        "count": "2744",
+        "first_seen": "2020-06-07 02:13:46",
+        "last_seen": "2020-12-29 00:09:24",
+        "ip_address": "172.67.136.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lecrb.com",
+        "count": "2",
+        "first_seen": "2020-07-21 11:15:23",
+        "last_seen": "2020-07-21 11:15:23",
+        "ip_address": "172.64.80.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lecrb.com",
+        "count": "2",
+        "first_seen": "2020-07-21 11:15:24",
+        "last_seen": "2020-07-21 11:15:24",
+        "ip_address": "2606:4700:136:e9f6:537c:10d0:3d62:e424",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lecrb.com",
+        "count": "546",
+        "first_seen": "2020-06-07 15:14:59",
+        "last_seen": "2020-11-28 21:16:23",
+        "ip_address": "2606:4700:3031::ac43:88e5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lecrb.com",
+        "count": "546",
+        "first_seen": "2020-06-07 15:14:59",
+        "last_seen": "2020-11-28 21:16:23",
+        "ip_address": "2606:4700:3032::681b:9f0c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lecrb.com",
+        "count": "546",
+        "first_seen": "2020-06-07 15:14:59",
+        "last_seen": "2020-11-28 21:16:23",
+        "ip_address": "2606:4700:3037::681b:9e0c",
+        "type": "IPv6"
+    }
+]

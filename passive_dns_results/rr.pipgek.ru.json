@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "rr.pipgek.ru",
+        "count": "4",
+        "first_seen": "2023-05-22 15:56:54",
+        "last_seen": "2023-06-02 12:37:16",
+        "ip_address": "31.177.76.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rr.pipgek.ru",
+        "count": "4",
+        "first_seen": "2023-05-22 15:56:54",
+        "last_seen": "2023-06-02 12:37:16",
+        "ip_address": "31.177.80.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rr.pipgek.ru",
+        "count": "2938",
+        "first_seen": "2022-05-27 02:26:30",
+        "last_seen": "2022-07-15 06:00:24",
+        "ip_address": "104.21.40.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rr.pipgek.ru",
+        "count": "2938",
+        "first_seen": "2022-05-27 02:26:30",
+        "last_seen": "2022-07-15 06:00:24",
+        "ip_address": "172.67.138.143",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rr.pipgek.ru",
+        "count": "192",
+        "first_seen": "2022-05-27 02:26:31",
+        "last_seen": "2022-07-07 15:01:55",
+        "ip_address": "2606:4700:3032::6815:28c7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rr.pipgek.ru",
+        "count": "192",
+        "first_seen": "2022-05-27 02:26:31",
+        "last_seen": "2022-07-07 15:01:55",
+        "ip_address": "2606:4700:3034::ac43:8a8f",
+        "type": "IPv6"
+    }
+]

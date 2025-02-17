@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "img.lecrbs.com",
+        "count": "7",
+        "first_seen": "2021-02-12 04:47:32",
+        "last_seen": "2021-05-12 12:45:16",
+        "ip_address": "104.21.81.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lecrbs.com",
+        "count": "7",
+        "first_seen": "2021-02-12 04:47:32",
+        "last_seen": "2021-05-12 12:45:16",
+        "ip_address": "172.67.164.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lecrbs.com",
+        "count": "588",
+        "first_seen": "2020-06-24 03:07:15",
+        "last_seen": "2020-09-06 21:19:56",
+        "ip_address": "104.27.160.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lecrbs.com",
+        "count": "588",
+        "first_seen": "2020-06-24 03:07:15",
+        "last_seen": "2020-09-06 21:19:56",
+        "ip_address": "104.27.161.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lecrbs.com",
+        "count": "588",
+        "first_seen": "2020-06-24 03:07:15",
+        "last_seen": "2020-09-06 21:19:56",
+        "ip_address": "172.67.164.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lecrbs.com",
+        "count": "4",
+        "first_seen": "2021-06-30 16:02:07",
+        "last_seen": "2021-06-30 16:02:08",
+        "ip_address": "194.67.71.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lecrbs.com",
+        "count": "84",
+        "first_seen": "2020-06-24 11:16:30",
+        "last_seen": "2020-07-23 23:21:59",
+        "ip_address": "2606:4700:3032::681b:a1e5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lecrbs.com",
+        "count": "84",
+        "first_seen": "2020-06-24 11:16:30",
+        "last_seen": "2020-07-23 23:21:59",
+        "ip_address": "2606:4700:3033::ac43:a44c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lecrbs.com",
+        "count": "84",
+        "first_seen": "2020-06-24 11:16:30",
+        "last_seen": "2020-07-23 23:21:59",
+        "ip_address": "2606:4700:3035::681b:a0e5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lecrbs.com",
+        "count": "6",
+        "first_seen": "2021-03-29 08:50:53",
+        "last_seen": "2021-05-12 12:45:16",
+        "ip_address": "2606:4700:3033::ac43:a44c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lecrbs.com",
+        "count": "6",
+        "first_seen": "2021-03-29 08:50:53",
+        "last_seen": "2021-05-12 12:45:16",
+        "ip_address": "2606:4700:3036::6815:51cd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lecrbs.com",
+        "count": "4",
+        "first_seen": "2021-06-30 16:02:07",
+        "last_seen": "2021-06-30 16:02:08",
+        "ip_address": "2a00:f940:4::10",
+        "type": "IPv6"
+    }
+]

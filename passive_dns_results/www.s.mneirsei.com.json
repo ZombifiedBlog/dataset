@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.s.mneirsei.com",
+        "count": "172",
+        "first_seen": "2021-12-19 05:41:29",
+        "last_seen": "2021-12-22 06:30:14",
+        "ip_address": "23.95.122.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.s.mneirsei.com",
+        "count": "4",
+        "first_seen": "2023-01-04 06:35:45",
+        "last_seen": "2023-01-07 03:39:27",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.s.mneirsei.com",
+        "count": "1",
+        "first_seen": "2022-12-19 21:34:36",
+        "last_seen": "2022-12-19 21:34:36",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.s.mneirsei.com",
+        "count": "8",
+        "first_seen": "2022-12-19 21:34:35",
+        "last_seen": "2023-01-04 06:35:45",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

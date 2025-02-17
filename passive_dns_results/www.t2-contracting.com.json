@@ -1,0 +1,306 @@
+[
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "3",
+        "first_seen": "2022-01-10 12:41:42",
+        "last_seen": "2022-03-05 20:09:39",
+        "ip_address": "23.82.12.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "1",
+        "first_seen": "2022-03-04 11:15:42",
+        "last_seen": "2022-03-04 11:15:42",
+        "ip_address": "23.82.12.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "5",
+        "first_seen": "2022-02-26 10:58:57",
+        "last_seen": "2022-05-25 16:53:36",
+        "ip_address": "23.82.12.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "1",
+        "first_seen": "2022-03-04 11:15:07",
+        "last_seen": "2022-03-04 11:15:07",
+        "ip_address": "23.82.12.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "1",
+        "first_seen": "2021-09-03 16:24:22",
+        "last_seen": "2021-09-03 16:24:22",
+        "ip_address": "37.48.65.154",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "2",
+        "first_seen": "2021-08-23 14:22:39",
+        "last_seen": "2021-08-23 14:22:39",
+        "ip_address": "37.48.65.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "42",
+        "first_seen": "2022-09-05 12:21:35",
+        "last_seen": "2023-01-13 17:21:06",
+        "ip_address": "38.26.217.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "26",
+        "first_seen": "2023-04-06 13:05:22",
+        "last_seen": "2023-05-03 09:33:27",
+        "ip_address": "38.207.231.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "5",
+        "first_seen": "2021-12-18 16:17:26",
+        "last_seen": "2022-05-30 23:28:28",
+        "ip_address": "81.171.28.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "1",
+        "first_seen": "2022-02-06 09:29:40",
+        "last_seen": "2022-02-06 09:29:40",
+        "ip_address": "81.171.28.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "3",
+        "first_seen": "2021-12-24 06:08:06",
+        "last_seen": "2022-05-25 16:37:15",
+        "ip_address": "81.171.28.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "18",
+        "first_seen": "2021-01-15 20:11:23",
+        "last_seen": "2021-03-25 01:24:39",
+        "ip_address": "104.21.89.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "18",
+        "first_seen": "2021-01-15 20:11:23",
+        "last_seen": "2021-03-25 01:24:39",
+        "ip_address": "172.67.157.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "2044",
+        "first_seen": "2017-03-02 01:13:09",
+        "last_seen": "2020-05-22 22:55:25",
+        "ip_address": "104.27.178.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "2044",
+        "first_seen": "2017-03-02 01:13:09",
+        "last_seen": "2020-05-22 22:55:25",
+        "ip_address": "104.27.179.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "377",
+        "first_seen": "2020-05-27 03:43:10",
+        "last_seen": "2021-01-15 01:29:41",
+        "ip_address": "104.27.178.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "377",
+        "first_seen": "2020-05-27 03:43:10",
+        "last_seen": "2021-01-15 01:29:41",
+        "ip_address": "104.27.179.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "377",
+        "first_seen": "2020-05-27 03:43:10",
+        "last_seen": "2021-01-15 01:29:41",
+        "ip_address": "172.67.157.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "9",
+        "first_seen": "2023-01-26 12:29:34",
+        "last_seen": "2023-02-26 04:55:51",
+        "ip_address": "154.197.237.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "89",
+        "first_seen": "2023-05-07 13:32:01",
+        "last_seen": "2023-07-12 15:42:52",
+        "ip_address": "154.206.145.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "1",
+        "first_seen": "2021-02-14 12:13:06",
+        "last_seen": "2021-02-14 12:13:06",
+        "ip_address": "172.64.81.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "1",
+        "first_seen": "2021-12-10 01:10:18",
+        "last_seen": "2021-12-10 01:10:18",
+        "ip_address": "172.93.103.99",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "2",
+        "first_seen": "2021-09-26 13:49:58",
+        "last_seen": "2021-09-26 18:51:02",
+        "ip_address": "185.107.56.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "1",
+        "first_seen": "2021-09-10 18:15:36",
+        "last_seen": "2021-09-10 18:15:36",
+        "ip_address": "185.107.56.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "29",
+        "first_seen": "2023-08-08 15:42:30",
+        "last_seen": "2023-09-22 20:10:36",
+        "ip_address": "198.23.206.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "3",
+        "first_seen": "2021-06-07 20:31:19",
+        "last_seen": "2021-06-10 17:21:22",
+        "ip_address": "199.59.242.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "1",
+        "first_seen": "2021-10-19 01:40:36",
+        "last_seen": "2021-10-19 01:40:36",
+        "ip_address": "207.244.67.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "430",
+        "first_seen": "2017-03-05 04:03:41",
+        "last_seen": "2018-09-18 14:18:12",
+        "ip_address": "2400:cb00:2048:1::681b:b2fe",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "430",
+        "first_seen": "2017-03-05 04:03:41",
+        "last_seen": "2018-09-18 14:18:12",
+        "ip_address": "2400:cb00:2048:1::681b:b3fe",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "304",
+        "first_seen": "2018-10-01 19:49:44",
+        "last_seen": "2020-01-16 08:21:17",
+        "ip_address": "2606:4700:30::681b:b2fe",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "304",
+        "first_seen": "2018-10-01 19:49:44",
+        "last_seen": "2020-01-16 08:21:17",
+        "ip_address": "2606:4700:30::681b:b3fe",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "80",
+        "first_seen": "2020-01-21 20:23:06",
+        "last_seen": "2020-05-18 21:58:29",
+        "ip_address": "2606:4700:3032::681b:b2fe",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "80",
+        "first_seen": "2020-01-21 20:23:06",
+        "last_seen": "2020-05-18 21:58:29",
+        "ip_address": "2606:4700:3034::681b:b3fe",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "30",
+        "first_seen": "2020-05-27 03:43:11",
+        "last_seen": "2020-12-17 03:29:09",
+        "ip_address": "2606:4700:3032::681b:b2fe",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "30",
+        "first_seen": "2020-05-27 03:43:11",
+        "last_seen": "2020-12-17 03:29:09",
+        "ip_address": "2606:4700:3034::681b:b3fe",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "30",
+        "first_seen": "2020-05-27 03:43:11",
+        "last_seen": "2020-12-17 03:29:09",
+        "ip_address": "2606:4700:3034::ac43:9d65",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "4",
+        "first_seen": "2021-01-31 20:50:18",
+        "last_seen": "2021-03-22 17:38:53",
+        "ip_address": "2606:4700:3034::ac43:9d65",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.t2-contracting.com",
+        "count": "4",
+        "first_seen": "2021-01-31 20:50:18",
+        "last_seen": "2021-03-22 17:38:53",
+        "ip_address": "2606:4700:3035::6815:595a",
+        "type": "IPv6"
+    }
+]

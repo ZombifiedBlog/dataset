@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "onizzo.com",
+        "count": "63",
+        "first_seen": "2012-09-26 14:11:39",
+        "last_seen": "2013-10-16 14:25:36",
+        "ip_address": "174.121.0.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "onizzo.com",
+        "count": "1217",
+        "first_seen": "2013-11-19 14:04:23",
+        "last_seen": "2015-10-30 18:09:55",
+        "ip_address": "192.185.142.115",
+        "type": "IPv4"
+    },
+    {
+        "domain": "onizzo.com",
+        "count": "589",
+        "first_seen": "2015-11-01 02:06:16",
+        "last_seen": "2016-09-01 13:00:03",
+        "ip_address": "200.73.112.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "onizzo.com",
+        "count": "145",
+        "first_seen": "2016-09-06 11:44:40",
+        "last_seen": "2017-01-09 17:26:16",
+        "ip_address": "200.73.112.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "onizzo.com",
+        "count": "4600",
+        "first_seen": "2017-02-09 15:33:08",
+        "last_seen": "2019-03-26 17:45:39",
+        "ip_address": "200.73.115.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "onizzo.com",
+        "count": "23",
+        "first_seen": "2017-01-17 14:48:01",
+        "last_seen": "2017-02-05 09:45:00",
+        "ip_address": "200.73.115.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "onizzo.com",
+        "count": "8384",
+        "first_seen": "2020-03-12 08:53:14",
+        "last_seen": "2023-01-31 18:46:04",
+        "ip_address": "200.73.115.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "onizzo.com",
+        "count": "769",
+        "first_seen": "2019-03-27 05:36:34",
+        "last_seen": "2020-03-12 01:53:00",
+        "ip_address": "200.73.115.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "onizzo.com",
+        "count": "1080",
+        "first_seen": "2023-11-25 05:13:25",
+        "last_seen": "2024-01-18 06:53:23",
+        "ip_address": "201.148.105.73",
+        "type": "IPv4"
+    },
+    {
+        "domain": "onizzo.com",
+        "count": "6508",
+        "first_seen": "2023-01-31 00:09:00",
+        "last_seen": "2023-11-25 02:34:11",
+        "ip_address": "201.148.105.199",
+        "type": "IPv4"
+    }
+]

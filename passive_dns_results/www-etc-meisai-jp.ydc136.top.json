@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www-etc-meisai-jp.ydc136.top",
+        "count": "77",
+        "first_seen": "2021-10-05 16:14:05",
+        "last_seen": "2021-10-11 18:58:54",
+        "ip_address": "104.21.71.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-etc-meisai-jp.ydc136.top",
+        "count": "77",
+        "first_seen": "2021-10-05 16:14:05",
+        "last_seen": "2021-10-11 18:58:54",
+        "ip_address": "172.67.148.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-etc-meisai-jp.ydc136.top",
+        "count": "19",
+        "first_seen": "2021-10-05 16:16:05",
+        "last_seen": "2021-10-13 00:36:07",
+        "ip_address": "2606:4700:3032::6815:47bd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-etc-meisai-jp.ydc136.top",
+        "count": "19",
+        "first_seen": "2021-10-05 16:16:05",
+        "last_seen": "2021-10-13 00:36:07",
+        "ip_address": "2606:4700:3034::ac43:9414",
+        "type": "IPv6"
+    }
+]

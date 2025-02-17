@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.controweb.it",
+        "count": "13",
+        "first_seen": "2010-08-15 14:53:14",
+        "last_seen": "2010-10-21 06:30:58",
+        "ip_address": "62.149.131.169",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.controweb.it",
+        "count": "7434",
+        "first_seen": "2021-12-15 13:55:21",
+        "last_seen": "2024-01-08 14:42:22",
+        "ip_address": "62.149.172.216",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.controweb.it",
+        "count": "12089",
+        "first_seen": "2010-10-27 12:45:49",
+        "last_seen": "2017-07-03 08:05:23",
+        "ip_address": "85.235.131.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.controweb.it",
+        "count": "17722",
+        "first_seen": "2017-07-04 04:21:03",
+        "last_seen": "2021-12-14 23:29:41",
+        "ip_address": "93.186.244.126",
+        "type": "IPv4"
+    }
+]

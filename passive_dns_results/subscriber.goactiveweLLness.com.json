@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "subscriber.goactiveweLLness.com",
+        "count": "1",
+        "first_seen": "2023-05-04 13:28:05",
+        "last_seen": "2023-05-04 13:28:05",
+        "ip_address": "5.79.79.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.goactiveweLLness.com",
+        "count": "1",
+        "first_seen": "2022-08-23 00:03:00",
+        "last_seen": "2022-08-23 00:03:00",
+        "ip_address": "69.16.231.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.goactiveweLLness.com",
+        "count": "23",
+        "first_seen": "2022-08-23 00:35:40",
+        "last_seen": "2022-08-30 15:12:37",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.goactiveweLLness.com",
+        "count": "17",
+        "first_seen": "2023-05-18 15:03:48",
+        "last_seen": "2023-09-16 23:11:43",
+        "ip_address": "103.224.212.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.goactiveweLLness.com",
+        "count": "228",
+        "first_seen": "2022-08-20 11:44:57",
+        "last_seen": "2022-08-23 09:55:22",
+        "ip_address": "104.21.58.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.goactiveweLLness.com",
+        "count": "228",
+        "first_seen": "2022-08-20 11:44:57",
+        "last_seen": "2022-08-23 09:55:22",
+        "ip_address": "172.67.159.109",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.goactiveweLLness.com",
+        "count": "2",
+        "first_seen": "2023-12-10 02:27:40",
+        "last_seen": "2023-12-10 02:27:40",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.goactiveweLLness.com",
+        "count": "6",
+        "first_seen": "2022-08-21 01:06:09",
+        "last_seen": "2022-08-22 20:19:34",
+        "ip_address": "2606:4700:3033::ac43:9f6d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.goactiveweLLness.com",
+        "count": "6",
+        "first_seen": "2022-08-21 01:06:09",
+        "last_seen": "2022-08-22 20:19:34",
+        "ip_address": "2606:4700:3037::6815:3a78",
+        "type": "IPv6"
+    }
+]

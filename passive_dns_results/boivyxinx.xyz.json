@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "boivyxinx.xyz",
+        "count": "12",
+        "first_seen": "2021-05-11 08:20:23",
+        "last_seen": "2021-06-08 01:03:38",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "boivyxinx.xyz",
+        "count": "7",
+        "first_seen": "2020-05-01 22:39:48",
+        "last_seen": "2020-05-03 08:39:41",
+        "ip_address": "118.27.45.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "boivyxinx.xyz",
+        "count": "2",
+        "first_seen": "2020-05-09 18:21:02",
+        "last_seen": "2020-05-15 06:13:52",
+        "ip_address": "118.27.48.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "boivyxinx.xyz",
+        "count": "294",
+        "first_seen": "2020-08-01 21:50:54",
+        "last_seen": "2021-05-02 22:49:44",
+        "ip_address": "184.168.131.241",
+        "type": "IPv4"
+    },
+    {
+        "domain": "boivyxinx.xyz",
+        "count": "44",
+        "first_seen": "2020-05-18 06:00:12",
+        "last_seen": "2020-07-29 03:32:22",
+        "ip_address": "192.109.97.34",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "smbc.ywdlgs.com",
+        "count": "2354",
+        "first_seen": "2023-06-06 14:56:21",
+        "last_seen": "2023-07-12 18:25:09",
+        "ip_address": "34.85.34.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.ywdlgs.com",
+        "count": "101",
+        "first_seen": "2023-09-06 10:22:22",
+        "last_seen": "2023-10-01 05:31:25",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.ywdlgs.com",
+        "count": "3",
+        "first_seen": "2023-08-18 21:16:21",
+        "last_seen": "2023-08-18 21:16:21",
+        "ip_address": "103.224.182.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.ywdlgs.com",
+        "count": "2119",
+        "first_seen": "2023-10-05 01:36:58",
+        "last_seen": "2024-01-17 13:51:55",
+        "ip_address": "103.224.212.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.ywdlgs.com",
+        "count": "1245",
+        "first_seen": "2023-08-19 09:19:00",
+        "last_seen": "2023-10-05 00:35:57",
+        "ip_address": "103.224.212.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.ywdlgs.com",
+        "count": "142",
+        "first_seen": "2023-09-06 05:12:10",
+        "last_seen": "2023-09-30 21:30:02",
+        "ip_address": "170.178.183.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.ywdlgs.com",
+        "count": "50",
+        "first_seen": "2023-12-21 17:54:27",
+        "last_seen": "2024-01-18 01:50:44",
+        "ip_address": "103.224.212.215",
+        "type": "IPv4"
+    }
+]

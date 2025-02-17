@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.kaalmo.ru",
+        "count": "6",
+        "first_seen": "2023-05-11 06:55:08",
+        "last_seen": "2023-06-07 17:24:00",
+        "ip_address": "31.177.76.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kaalmo.ru",
+        "count": "6",
+        "first_seen": "2023-05-11 06:55:08",
+        "last_seen": "2023-06-07 17:24:00",
+        "ip_address": "31.177.80.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kaalmo.ru",
+        "count": "24495",
+        "first_seen": "2022-05-26 01:11:46",
+        "last_seen": "2022-07-20 01:13:01",
+        "ip_address": "104.21.58.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kaalmo.ru",
+        "count": "24495",
+        "first_seen": "2022-05-26 01:11:46",
+        "last_seen": "2022-07-20 01:13:01",
+        "ip_address": "172.67.207.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kaalmo.ru",
+        "count": "1",
+        "first_seen": "2022-07-08 13:32:25",
+        "last_seen": "2022-07-08 13:32:25",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kaalmo.ru",
+        "count": "2",
+        "first_seen": "2022-06-13 05:53:23",
+        "last_seen": "2022-07-08 13:32:25",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.kaalmo.ru",
+        "count": "111",
+        "first_seen": "2022-05-26 01:37:15",
+        "last_seen": "2022-07-16 04:53:12",
+        "ip_address": "2606:4700:3034::ac43:cff6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.kaalmo.ru",
+        "count": "111",
+        "first_seen": "2022-05-26 01:37:15",
+        "last_seen": "2022-07-16 04:53:12",
+        "ip_address": "2606:4700:3036::6815:3ad9",
+        "type": "IPv6"
+    }
+]

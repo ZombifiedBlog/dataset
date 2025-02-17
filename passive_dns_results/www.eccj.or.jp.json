@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.eccj.or.jp",
+        "count": "22406",
+        "first_seen": "2019-01-30 09:36:06",
+        "last_seen": "2022-06-25 21:27:05",
+        "ip_address": "13.78.61.252",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.eccj.or.jp",
+        "count": "4479",
+        "first_seen": "2022-06-27 13:44:17",
+        "last_seen": "2024-01-18 09:45:20",
+        "ip_address": "20.243.75.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.eccj.or.jp",
+        "count": "170",
+        "first_seen": "2015-10-22 11:38:08",
+        "last_seen": "2015-11-10 08:52:25",
+        "ip_address": "40.115.186.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.eccj.or.jp",
+        "count": "92",
+        "first_seen": "2015-11-10 15:36:57",
+        "last_seen": "2015-11-19 10:17:11",
+        "ip_address": "40.115.188.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.eccj.or.jp",
+        "count": "23309",
+        "first_seen": "2015-11-19 14:50:01",
+        "last_seen": "2019-02-04 02:04:44",
+        "ip_address": "104.41.173.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.eccj.or.jp",
+        "count": "26",
+        "first_seen": "2015-10-19 03:54:22",
+        "last_seen": "2015-10-22 00:57:26",
+        "ip_address": "210.174.203.3",
+        "type": "IPv4"
+    }
+]

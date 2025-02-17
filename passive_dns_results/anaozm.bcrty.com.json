@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "anaozm.bcrty.com",
+        "count": "3",
+        "first_seen": "2023-01-29 01:32:20",
+        "last_seen": "2023-02-08 21:45:18",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anaozm.bcrty.com",
+        "count": "2",
+        "first_seen": "2021-08-05 04:42:34",
+        "last_seen": "2021-08-05 04:42:34",
+        "ip_address": "103.224.212.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anaozm.bcrty.com",
+        "count": "270",
+        "first_seen": "2021-05-05 19:22:46",
+        "last_seen": "2021-05-25 08:38:41",
+        "ip_address": "118.107.60.141",
+        "type": "IPv4"
+    }
+]

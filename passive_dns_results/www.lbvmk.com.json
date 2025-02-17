@@ -1,0 +1,130 @@
+[
+    {
+        "domain": "www.lbvmk.com",
+        "count": "5",
+        "first_seen": "2021-01-14 07:26:52",
+        "last_seen": "2021-08-24 02:09:21",
+        "ip_address": "104.21.15.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lbvmk.com",
+        "count": "5",
+        "first_seen": "2021-01-14 07:26:52",
+        "last_seen": "2021-08-24 02:09:21",
+        "ip_address": "172.67.164.131",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lbvmk.com",
+        "count": "578",
+        "first_seen": "2020-09-23 08:07:25",
+        "last_seen": "2020-12-27 21:50:02",
+        "ip_address": "104.31.82.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lbvmk.com",
+        "count": "578",
+        "first_seen": "2020-09-23 08:07:25",
+        "last_seen": "2020-12-27 21:50:02",
+        "ip_address": "104.31.83.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lbvmk.com",
+        "count": "578",
+        "first_seen": "2020-09-23 08:07:25",
+        "last_seen": "2020-12-27 21:50:02",
+        "ip_address": "172.67.164.131",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lbvmk.com",
+        "count": "2",
+        "first_seen": "2020-09-25 09:02:50",
+        "last_seen": "2020-09-25 09:02:50",
+        "ip_address": "172.64.91.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lbvmk.com",
+        "count": "2",
+        "first_seen": "2020-09-23 15:02:07",
+        "last_seen": "2020-09-23 15:02:07",
+        "ip_address": "172.64.91.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lbvmk.com",
+        "count": "3",
+        "first_seen": "2015-11-01 02:10:53",
+        "last_seen": "2015-11-01 02:10:53",
+        "ip_address": "176.74.176.184",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lbvmk.com",
+        "count": "3",
+        "first_seen": "2020-09-23 01:40:31",
+        "last_seen": "2020-09-23 01:40:34",
+        "ip_address": "198.144.154.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lbvmk.com",
+        "count": "2",
+        "first_seen": "2020-09-23 15:02:08",
+        "last_seen": "2020-09-23 15:02:08",
+        "ip_address": "2606:4700:13a:605a:dac6:53d2:cb7f:323a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lbvmk.com",
+        "count": "2",
+        "first_seen": "2020-09-26 09:05:06",
+        "last_seen": "2020-09-26 09:05:06",
+        "ip_address": "2606:4700:13f:fea3:b628:1df6:12ca:2665",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lbvmk.com",
+        "count": "71",
+        "first_seen": "2020-09-23 15:03:03",
+        "last_seen": "2020-12-27 21:50:02",
+        "ip_address": "2606:4700:3030::681f:52e4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lbvmk.com",
+        "count": "71",
+        "first_seen": "2020-09-23 15:03:03",
+        "last_seen": "2020-12-27 21:50:02",
+        "ip_address": "2606:4700:3035::681f:53e4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lbvmk.com",
+        "count": "71",
+        "first_seen": "2020-09-23 15:03:03",
+        "last_seen": "2020-12-27 21:50:02",
+        "ip_address": "2606:4700:3037::ac43:a483",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lbvmk.com",
+        "count": "3",
+        "first_seen": "2021-01-14 07:26:52",
+        "last_seen": "2021-08-24 02:09:29",
+        "ip_address": "2606:4700:3036::6815:fda",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lbvmk.com",
+        "count": "3",
+        "first_seen": "2021-01-14 07:26:52",
+        "last_seen": "2021-08-24 02:09:29",
+        "ip_address": "2606:4700:3037::ac43:a483",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www-ucscard-co-jp.44-3ol.com",
+        "count": "27",
+        "first_seen": "2023-01-10 15:03:10",
+        "last_seen": "2023-01-10 19:18:05",
+        "ip_address": "104.21.37.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-ucscard-co-jp.44-3ol.com",
+        "count": "27",
+        "first_seen": "2023-01-10 15:03:10",
+        "last_seen": "2023-01-10 19:18:05",
+        "ip_address": "172.67.208.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-ucscard-co-jp.44-3ol.com",
+        "count": "1",
+        "first_seen": "2023-01-10 15:06:28",
+        "last_seen": "2023-01-10 15:06:28",
+        "ip_address": "2606:4700:3031::6815:2579",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-ucscard-co-jp.44-3ol.com",
+        "count": "1",
+        "first_seen": "2023-01-10 15:06:28",
+        "last_seen": "2023-01-10 15:06:28",
+        "ip_address": "2606:4700:3033::ac43:d019",
+        "type": "IPv6"
+    }
+]

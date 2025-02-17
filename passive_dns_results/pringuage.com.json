@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "pringuage.com",
+        "count": "127",
+        "first_seen": "2022-05-16 12:52:57",
+        "last_seen": "2023-06-11 11:01:07",
+        "ip_address": "37.97.184.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pringuage.com",
+        "count": "29",
+        "first_seen": "2021-08-16 06:05:31",
+        "last_seen": "2022-02-06 04:57:27",
+        "ip_address": "91.143.80.154",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pringuage.com",
+        "count": "2341",
+        "first_seen": "2023-06-15 11:22:08",
+        "last_seen": "2024-01-13 06:18:08",
+        "ip_address": "96.44.151.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pringuage.com",
+        "count": "1495",
+        "first_seen": "2023-08-22 15:38:44",
+        "last_seen": "2023-09-14 14:37:29",
+        "ip_address": "163.172.84.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pringuage.com",
+        "count": "31",
+        "first_seen": "2022-04-21 19:55:25",
+        "last_seen": "2022-05-12 13:14:26",
+        "ip_address": "192.0.22.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pringuage.com",
+        "count": "499",
+        "first_seen": "2022-02-15 12:27:19",
+        "last_seen": "2022-04-21 05:05:51",
+        "ip_address": "198.15.148.50",
+        "type": "IPv4"
+    }
+]

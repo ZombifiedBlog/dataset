@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "mail.baiLefood.com",
+        "count": "9",
+        "first_seen": "2020-09-10 05:51:04",
+        "last_seen": "2020-09-10 05:51:06",
+        "ip_address": "8.209.245.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.baiLefood.com",
+        "count": "4",
+        "first_seen": "2020-08-28 14:57:46",
+        "last_seen": "2020-08-31 21:32:41",
+        "ip_address": "47.245.10.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.baiLefood.com",
+        "count": "543",
+        "first_seen": "2020-07-06 11:43:04",
+        "last_seen": "2020-08-14 09:50:10",
+        "ip_address": "104.31.90.249",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.baiLefood.com",
+        "count": "543",
+        "first_seen": "2020-07-06 11:43:04",
+        "last_seen": "2020-08-14 09:50:10",
+        "ip_address": "104.31.91.249",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.baiLefood.com",
+        "count": "543",
+        "first_seen": "2020-07-06 11:43:04",
+        "last_seen": "2020-08-14 09:50:10",
+        "ip_address": "172.67.156.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.baiLefood.com",
+        "count": "200",
+        "first_seen": "2020-07-06 11:43:04",
+        "last_seen": "2020-08-14 09:50:10",
+        "ip_address": "2606:4700:3030::681f:5af9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.baiLefood.com",
+        "count": "200",
+        "first_seen": "2020-07-06 11:43:04",
+        "last_seen": "2020-08-14 09:50:10",
+        "ip_address": "2606:4700:3031::681f:5bf9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.baiLefood.com",
+        "count": "200",
+        "first_seen": "2020-07-06 11:43:04",
+        "last_seen": "2020-08-14 09:50:10",
+        "ip_address": "2606:4700:3031::ac43:9cd6",
+        "type": "IPv6"
+    }
+]

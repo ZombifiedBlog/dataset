@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "www.jacss.co.jp-services-TRANID-0001-0001M.cf9fcb.cn",
+        "count": "2",
+        "first_seen": "2022-05-31 14:50:18",
+        "last_seen": "2022-06-01 07:00:13",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jacss.co.jp-services-TRANID-0001-0001M.cf9fcb.cn",
+        "count": "109",
+        "first_seen": "2022-04-14 14:24:16",
+        "last_seen": "2022-04-21 18:20:19",
+        "ip_address": "204.44.70.92",
+        "type": "IPv4"
+    }
+]

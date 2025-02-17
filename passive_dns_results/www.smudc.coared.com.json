@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.smudc.coared.com",
+        "count": "128",
+        "first_seen": "2021-10-02 17:24:25",
+        "last_seen": "2021-10-04 09:38:32",
+        "ip_address": "23.225.180.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smudc.coared.com",
+        "count": "2",
+        "first_seen": "2022-10-17 11:32:13",
+        "last_seen": "2022-11-08 12:09:42",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smudc.coared.com",
+        "count": "138",
+        "first_seen": "2021-10-04 12:08:28",
+        "last_seen": "2022-10-01 03:40:51",
+        "ip_address": "206.189.196.215",
+        "type": "IPv4"
+    }
+]

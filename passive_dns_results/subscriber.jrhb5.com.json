@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "subscriber.jrhb5.com",
+        "count": "4",
+        "first_seen": "2020-12-31 17:36:48",
+        "last_seen": "2021-01-09 21:26:37",
+        "ip_address": "104.27.130.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jrhb5.com",
+        "count": "4",
+        "first_seen": "2020-12-31 17:36:48",
+        "last_seen": "2021-01-09 21:26:37",
+        "ip_address": "104.27.131.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jrhb5.com",
+        "count": "4",
+        "first_seen": "2020-12-31 17:36:48",
+        "last_seen": "2021-01-09 21:26:37",
+        "ip_address": "172.67.162.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jrhb5.com",
+        "count": "993",
+        "first_seen": "2020-10-29 16:32:30",
+        "last_seen": "2020-12-23 21:04:48",
+        "ip_address": "104.31.86.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jrhb5.com",
+        "count": "993",
+        "first_seen": "2020-10-29 16:32:30",
+        "last_seen": "2020-12-23 21:04:48",
+        "ip_address": "104.31.87.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jrhb5.com",
+        "count": "993",
+        "first_seen": "2020-10-29 16:32:30",
+        "last_seen": "2020-12-23 21:04:48",
+        "ip_address": "172.67.190.108",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jrhb5.com",
+        "count": "1",
+        "first_seen": "2020-12-31 17:36:48",
+        "last_seen": "2020-12-31 17:36:48",
+        "ip_address": "2606:4700:3032::681b:82ec",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.jrhb5.com",
+        "count": "1",
+        "first_seen": "2020-12-31 17:36:48",
+        "last_seen": "2020-12-31 17:36:48",
+        "ip_address": "2606:4700:3032::ac43:a2f2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.jrhb5.com",
+        "count": "1",
+        "first_seen": "2020-12-31 17:36:48",
+        "last_seen": "2020-12-31 17:36:48",
+        "ip_address": "2606:4700:3035::681b:83ec",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.jrhb5.com",
+        "count": "181",
+        "first_seen": "2020-10-29 17:27:56",
+        "last_seen": "2020-12-23 21:04:48",
+        "ip_address": "2606:4700:3033::ac43:be6c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.jrhb5.com",
+        "count": "181",
+        "first_seen": "2020-10-29 17:27:56",
+        "last_seen": "2020-12-23 21:04:48",
+        "ip_address": "2606:4700:3035::681f:568d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.jrhb5.com",
+        "count": "181",
+        "first_seen": "2020-10-29 17:27:56",
+        "last_seen": "2020-12-23 21:04:48",
+        "ip_address": "2606:4700:3035::681f:578d",
+        "type": "IPv6"
+    }
+]

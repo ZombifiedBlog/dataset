@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "de.job-register.com",
+        "count": "1",
+        "first_seen": "2022-09-12 13:19:56",
+        "last_seen": "2022-09-12 13:19:56",
+        "ip_address": "23.82.12.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "de.job-register.com",
+        "count": "1",
+        "first_seen": "2022-10-06 15:32:31",
+        "last_seen": "2022-10-06 15:32:31",
+        "ip_address": "81.171.28.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "de.job-register.com",
+        "count": "1",
+        "first_seen": "2023-02-20 13:53:50",
+        "last_seen": "2023-02-20 13:53:50",
+        "ip_address": "82.192.82.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "de.job-register.com",
+        "count": "1",
+        "first_seen": "2022-01-27 10:13:56",
+        "last_seen": "2022-01-27 10:13:56",
+        "ip_address": "88.214.207.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "de.job-register.com",
+        "count": "1",
+        "first_seen": "2022-06-09 08:59:57",
+        "last_seen": "2022-06-09 08:59:57",
+        "ip_address": "96.47.230.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "de.job-register.com",
+        "count": "133",
+        "first_seen": "2021-07-28 19:35:33",
+        "last_seen": "2021-12-14 09:47:12",
+        "ip_address": "104.21.52.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "de.job-register.com",
+        "count": "133",
+        "first_seen": "2021-07-28 19:35:33",
+        "last_seen": "2021-12-14 09:47:12",
+        "ip_address": "172.67.197.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "de.job-register.com",
+        "count": "1",
+        "first_seen": "2022-10-15 07:33:28",
+        "last_seen": "2022-10-15 07:33:28",
+        "ip_address": "162.210.199.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "de.job-register.com",
+        "count": "2",
+        "first_seen": "2023-01-02 13:51:25",
+        "last_seen": "2023-04-08 06:25:36",
+        "ip_address": "185.107.56.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "de.job-register.com",
+        "count": "2",
+        "first_seen": "2022-08-08 11:35:11",
+        "last_seen": "2022-11-26 08:43:50",
+        "ip_address": "192.157.56.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "de.job-register.com",
+        "count": "128",
+        "first_seen": "2021-07-28 19:35:33",
+        "last_seen": "2021-11-18 19:52:45",
+        "ip_address": "2606:4700:3036::ac43:c547",
+        "type": "IPv6"
+    },
+    {
+        "domain": "de.job-register.com",
+        "count": "128",
+        "first_seen": "2021-07-28 19:35:33",
+        "last_seen": "2021-11-18 19:52:45",
+        "ip_address": "2606:4700:3037::6815:3457",
+        "type": "IPv6"
+    }
+]

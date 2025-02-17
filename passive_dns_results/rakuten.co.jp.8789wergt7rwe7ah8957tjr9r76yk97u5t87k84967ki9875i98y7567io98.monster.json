@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "rakuten.co.jp.8789wergt7rwe7ah8957tjr9r76yk97u5t87k84967ki9875i98y7567io98.monster",
+        "count": "28",
+        "first_seen": "2020-03-18 06:28:05",
+        "last_seen": "2020-03-19 14:49:20",
+        "ip_address": "104.27.164.54",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten.co.jp.8789wergt7rwe7ah8957tjr9r76yk97u5t87k84967ki9875i98y7567io98.monster",
+        "count": "28",
+        "first_seen": "2020-03-18 06:28:05",
+        "last_seen": "2020-03-19 14:49:20",
+        "ip_address": "104.27.165.54",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten.co.jp.8789wergt7rwe7ah8957tjr9r76yk97u5t87k84967ki9875i98y7567io98.monster",
+        "count": "14",
+        "first_seen": "2020-03-18 06:28:05",
+        "last_seen": "2020-03-19 14:49:20",
+        "ip_address": "2606:4700:3035::681b:a536",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rakuten.co.jp.8789wergt7rwe7ah8957tjr9r76yk97u5t87k84967ki9875i98y7567io98.monster",
+        "count": "14",
+        "first_seen": "2020-03-18 06:28:05",
+        "last_seen": "2020-03-19 14:49:20",
+        "ip_address": "2606:4700:3037::681b:a436",
+        "type": "IPv6"
+    }
+]

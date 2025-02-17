@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "www-jaccs-co-jp.gfmalb.shop",
+        "count": "22",
+        "first_seen": "2021-07-13 01:11:57",
+        "last_seen": "2021-07-17 00:35:46",
+        "ip_address": "104.21.34.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gfmalb.shop",
+        "count": "22",
+        "first_seen": "2021-07-13 01:11:57",
+        "last_seen": "2021-07-17 00:35:46",
+        "ip_address": "172.67.163.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gfmalb.shop",
+        "count": "8",
+        "first_seen": "2021-07-12 07:00:46",
+        "last_seen": "2021-07-12 14:59:44",
+        "ip_address": "104.21.39.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gfmalb.shop",
+        "count": "8",
+        "first_seen": "2021-07-12 07:00:46",
+        "last_seen": "2021-07-12 14:59:44",
+        "ip_address": "172.67.148.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gfmalb.shop",
+        "count": "111",
+        "first_seen": "2021-07-12 15:16:03",
+        "last_seen": "2021-07-13 00:06:01",
+        "ip_address": "172.64.166.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gfmalb.shop",
+        "count": "111",
+        "first_seen": "2021-07-12 15:16:03",
+        "last_seen": "2021-07-13 00:06:01",
+        "ip_address": "172.64.167.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gfmalb.shop",
+        "count": "12",
+        "first_seen": "2021-07-12 15:18:50",
+        "last_seen": "2021-07-13 00:35:52",
+        "ip_address": "2606:4700:e4::ac40:a618",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gfmalb.shop",
+        "count": "12",
+        "first_seen": "2021-07-12 15:18:50",
+        "last_seen": "2021-07-13 00:35:52",
+        "ip_address": "2606:4700:e4::ac40:a718",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gfmalb.shop",
+        "count": "9",
+        "first_seen": "2021-07-13 01:11:57",
+        "last_seen": "2021-07-17 00:35:46",
+        "ip_address": "2606:4700:3037::6815:22ae",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gfmalb.shop",
+        "count": "9",
+        "first_seen": "2021-07-13 01:11:57",
+        "last_seen": "2021-07-17 00:35:46",
+        "ip_address": "2606:4700:3037::ac43:a38c",
+        "type": "IPv6"
+    }
+]

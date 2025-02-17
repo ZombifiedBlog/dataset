@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "account-update-amzon-co-jp.buzz",
+        "count": "2",
+        "first_seen": "2021-10-02 17:02:03",
+        "last_seen": "2021-10-06 20:39:04",
+        "ip_address": "72.52.179.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "account-update-amzon-co-jp.buzz",
+        "count": "44",
+        "first_seen": "2020-09-24 03:34:43",
+        "last_seen": "2020-09-27 09:07:03",
+        "ip_address": "104.24.100.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "account-update-amzon-co-jp.buzz",
+        "count": "44",
+        "first_seen": "2020-09-24 03:34:43",
+        "last_seen": "2020-09-27 09:07:03",
+        "ip_address": "104.24.101.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "account-update-amzon-co-jp.buzz",
+        "count": "44",
+        "first_seen": "2020-09-24 03:34:43",
+        "last_seen": "2020-09-27 09:07:03",
+        "ip_address": "172.67.216.97",
+        "type": "IPv4"
+    },
+    {
+        "domain": "account-update-amzon-co-jp.buzz",
+        "count": "8",
+        "first_seen": "2020-09-24 03:34:43",
+        "last_seen": "2020-09-26 11:09:21",
+        "ip_address": "2606:4700:3031::6818:6520",
+        "type": "IPv6"
+    },
+    {
+        "domain": "account-update-amzon-co-jp.buzz",
+        "count": "8",
+        "first_seen": "2020-09-24 03:34:43",
+        "last_seen": "2020-09-26 11:09:21",
+        "ip_address": "2606:4700:3032::ac43:d861",
+        "type": "IPv6"
+    },
+    {
+        "domain": "account-update-amzon-co-jp.buzz",
+        "count": "8",
+        "first_seen": "2020-09-24 03:34:43",
+        "last_seen": "2020-09-26 11:09:21",
+        "ip_address": "2606:4700:3037::6818:6420",
+        "type": "IPv6"
+    }
+]

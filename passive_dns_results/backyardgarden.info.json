@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "backyardgarden.info",
+        "count": "14",
+        "first_seen": "2022-01-04 21:43:04",
+        "last_seen": "2023-01-05 20:34:28",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "backyardgarden.info",
+        "count": "1",
+        "first_seen": "2022-01-05 02:36:06",
+        "last_seen": "2022-01-05 02:36:06",
+        "ip_address": "34.102.136.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "backyardgarden.info",
+        "count": "5430",
+        "first_seen": "2021-03-10 01:37:39",
+        "last_seen": "2024-01-17 04:52:17",
+        "ip_address": "170.249.197.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "backyardgarden.info",
+        "count": "1804",
+        "first_seen": "2019-01-27 01:37:26",
+        "last_seen": "2021-03-06 13:04:54",
+        "ip_address": "170.249.249.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "backyardgarden.info",
+        "count": "8577",
+        "first_seen": "2014-06-16 03:32:29",
+        "last_seen": "2019-01-23 04:07:40",
+        "ip_address": "184.173.29.188",
+        "type": "IPv4"
+    },
+    {
+        "domain": "backyardgarden.info",
+        "count": "13589",
+        "first_seen": "2010-07-24 10:43:30",
+        "last_seen": "2014-06-14 20:56:56",
+        "ip_address": "208.43.1.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "backyardgarden.info",
+        "count": "2419",
+        "first_seen": "2021-03-12 22:56:58",
+        "last_seen": "2024-01-16 03:40:09",
+        "ip_address": "2600:4c00:200:78::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "backyardgarden.info",
+        "count": "1105",
+        "first_seen": "2019-01-27 01:37:27",
+        "last_seen": "2021-03-06 03:00:04",
+        "ip_address": "2606:db00:0:5b4::2",
+        "type": "IPv6"
+    }
+]

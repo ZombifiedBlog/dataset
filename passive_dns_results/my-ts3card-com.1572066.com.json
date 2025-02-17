@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "my-ts3card-com.1572066.com",
+        "count": "48",
+        "first_seen": "2022-06-12 14:09:01",
+        "last_seen": "2022-06-12 20:02:34",
+        "ip_address": "104.21.50.157",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.1572066.com",
+        "count": "48",
+        "first_seen": "2022-06-12 14:09:01",
+        "last_seen": "2022-06-12 20:02:34",
+        "ip_address": "172.67.164.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.1572066.com",
+        "count": "2",
+        "first_seen": "2022-06-12 17:33:32",
+        "last_seen": "2022-06-12 17:33:32",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.1572066.com",
+        "count": "2",
+        "first_seen": "2022-06-12 17:33:32",
+        "last_seen": "2022-06-12 17:33:32",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.1572066.com",
+        "count": "12",
+        "first_seen": "2022-06-12 14:25:06",
+        "last_seen": "2022-06-12 18:17:19",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.1572066.com",
+        "count": "12",
+        "first_seen": "2022-06-12 14:25:06",
+        "last_seen": "2022-06-12 18:17:19",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.1572066.com",
+        "count": "26",
+        "first_seen": "2022-06-12 14:21:24",
+        "last_seen": "2022-06-12 18:11:37",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.1572066.com",
+        "count": "26",
+        "first_seen": "2022-06-12 14:21:24",
+        "last_seen": "2022-06-12 18:11:37",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.1572066.com",
+        "count": "11",
+        "first_seen": "2022-06-12 14:21:24",
+        "last_seen": "2022-06-12 18:11:37",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-ts3card-com.1572066.com",
+        "count": "11",
+        "first_seen": "2022-06-12 14:21:24",
+        "last_seen": "2022-06-12 18:11:37",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

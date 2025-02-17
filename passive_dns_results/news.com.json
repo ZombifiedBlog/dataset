@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "news.com",
+        "count": "33077",
+        "first_seen": "2021-03-23 23:53:52",
+        "last_seen": "2021-09-16 21:01:59",
+        "ip_address": "34.95.96.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "news.com",
+        "count": "101690",
+        "first_seen": "2021-09-16 21:29:12",
+        "last_seen": "2024-01-18 07:10:55",
+        "ip_address": "34.149.42.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "news.com",
+        "count": "138515",
+        "first_seen": "2019-11-07 18:45:41",
+        "last_seen": "2021-03-23 23:37:51",
+        "ip_address": "35.190.79.82",
+        "type": "IPv4"
+    },
+    {
+        "domain": "news.com",
+        "count": "3847816",
+        "first_seen": "2010-10-21 23:06:52",
+        "last_seen": "2015-07-10 22:29:06",
+        "ip_address": "64.30.224.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "news.com",
+        "count": "1512495",
+        "first_seen": "2015-07-10 22:30:11",
+        "last_seen": "2019-11-07 18:40:03",
+        "ip_address": "64.30.224.82",
+        "type": "IPv4"
+    },
+    {
+        "domain": "news.com",
+        "count": "224972",
+        "first_seen": "2010-06-24 07:26:56",
+        "last_seen": "2010-10-21 23:06:08",
+        "ip_address": "216.239.122.40",
+        "type": "IPv4"
+    }
+]

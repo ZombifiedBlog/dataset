@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "netstation2-aplus-co-jp.sumuzhe.top",
+        "count": "57",
+        "first_seen": "2021-12-12 14:30:05",
+        "last_seen": "2021-12-12 21:33:11",
+        "ip_address": "104.21.32.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.sumuzhe.top",
+        "count": "57",
+        "first_seen": "2021-12-12 14:30:05",
+        "last_seen": "2021-12-12 21:33:11",
+        "ip_address": "172.67.182.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.sumuzhe.top",
+        "count": "19",
+        "first_seen": "2021-12-12 14:33:28",
+        "last_seen": "2021-12-12 21:33:11",
+        "ip_address": "2606:4700:3031::6815:2027",
+        "type": "IPv6"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.sumuzhe.top",
+        "count": "19",
+        "first_seen": "2021-12-12 14:33:28",
+        "last_seen": "2021-12-12 21:33:11",
+        "ip_address": "2606:4700:3034::ac43:b6c4",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "domain": "fenets.com",
+        "count": "191",
+        "first_seen": "2019-10-30 14:43:55",
+        "last_seen": "2020-10-17 15:45:14",
+        "ip_address": "23.238.216.231",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fenets.com",
+        "count": "373",
+        "first_seen": "2020-10-27 09:40:53",
+        "last_seen": "2020-11-19 16:18:02",
+        "ip_address": "47.91.29.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fenets.com",
+        "count": "116",
+        "first_seen": "2018-07-01 02:52:06",
+        "last_seen": "2019-02-05 13:01:39",
+        "ip_address": "72.52.4.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fenets.com",
+        "count": "261",
+        "first_seen": "2014-11-10 20:44:43",
+        "last_seen": "2018-06-24 21:58:16",
+        "ip_address": "72.52.4.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fenets.com",
+        "count": "2",
+        "first_seen": "2011-09-11 13:01:33",
+        "last_seen": "2011-09-16 01:53:31",
+        "ip_address": "82.98.86.175",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fenets.com",
+        "count": "117",
+        "first_seen": "2019-02-10 12:33:02",
+        "last_seen": "2019-08-02 20:49:02",
+        "ip_address": "91.195.240.126",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fenets.com",
+        "count": "17",
+        "first_seen": "2018-12-25 09:09:45",
+        "last_seen": "2019-02-03 02:50:17",
+        "ip_address": "91.195.240.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fenets.com",
+        "count": "14",
+        "first_seen": "2019-08-10 07:14:22",
+        "last_seen": "2019-09-09 02:27:56",
+        "ip_address": "95.216.161.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fenets.com",
+        "count": "14",
+        "first_seen": "2019-08-10 07:14:22",
+        "last_seen": "2019-09-09 02:27:56",
+        "ip_address": "159.69.42.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fenets.com",
+        "count": "14",
+        "first_seen": "2019-08-10 07:14:22",
+        "last_seen": "2019-09-09 02:27:56",
+        "ip_address": "159.69.83.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fenets.com",
+        "count": "16",
+        "first_seen": "2020-10-18 06:28:19",
+        "last_seen": "2020-10-20 03:25:10",
+        "ip_address": "104.24.110.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fenets.com",
+        "count": "16",
+        "first_seen": "2020-10-18 06:28:19",
+        "last_seen": "2020-10-20 03:25:10",
+        "ip_address": "104.24.111.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fenets.com",
+        "count": "16",
+        "first_seen": "2020-10-18 06:28:19",
+        "last_seen": "2020-10-20 03:25:10",
+        "ip_address": "172.67.198.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fenets.com",
+        "count": "2",
+        "first_seen": "2019-09-14 03:09:26",
+        "last_seen": "2019-09-14 03:09:26",
+        "ip_address": "109.234.109.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fenets.com",
+        "count": "8",
+        "first_seen": "2020-10-22 03:38:10",
+        "last_seen": "2020-10-24 00:43:46",
+        "ip_address": "160.119.70.109",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fenets.com",
+        "count": "4",
+        "first_seen": "2020-10-20 01:30:12",
+        "last_seen": "2020-10-20 03:25:10",
+        "ip_address": "2606:4700:3030::6818:6f75",
+        "type": "IPv6"
+    },
+    {
+        "domain": "fenets.com",
+        "count": "4",
+        "first_seen": "2020-10-20 01:30:12",
+        "last_seen": "2020-10-20 03:25:10",
+        "ip_address": "2606:4700:3031::6818:6e75",
+        "type": "IPv6"
+    },
+    {
+        "domain": "fenets.com",
+        "count": "4",
+        "first_seen": "2020-10-20 01:30:12",
+        "last_seen": "2020-10-20 03:25:10",
+        "ip_address": "2606:4700:3036::ac43:c62e",
+        "type": "IPv6"
+    }
+]

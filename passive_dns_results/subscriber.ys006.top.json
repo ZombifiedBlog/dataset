@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "subscriber.ys006.top",
+        "count": "5",
+        "first_seen": "2023-10-28 00:12:56",
+        "last_seen": "2023-12-28 23:12:18",
+        "ip_address": "45.207.99.169",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ys006.top",
+        "count": "1",
+        "first_seen": "2023-06-19 09:03:58",
+        "last_seen": "2023-06-19 09:03:58",
+        "ip_address": "49.51.77.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ys006.top",
+        "count": "2",
+        "first_seen": "2023-07-01 00:05:56",
+        "last_seen": "2023-07-10 20:19:44",
+        "ip_address": "49.51.79.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ys006.top",
+        "count": "3896",
+        "first_seen": "2023-02-02 18:27:41",
+        "last_seen": "2023-04-08 13:30:40",
+        "ip_address": "104.21.82.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ys006.top",
+        "count": "3896",
+        "first_seen": "2023-02-02 18:27:41",
+        "last_seen": "2023-04-08 13:30:40",
+        "ip_address": "172.67.155.109",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ys006.top",
+        "count": "26",
+        "first_seen": "2023-04-11 15:03:13",
+        "last_seen": "2023-05-31 03:39:23",
+        "ip_address": "154.212.99.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ys006.top",
+        "count": "1",
+        "first_seen": "2023-09-18 08:06:13",
+        "last_seen": "2023-09-18 08:06:13",
+        "ip_address": "164.88.252.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ys006.top",
+        "count": "166",
+        "first_seen": "2023-02-02 19:23:34",
+        "last_seen": "2023-04-07 22:33:23",
+        "ip_address": "2606:4700:3032::6815:5254",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.ys006.top",
+        "count": "166",
+        "first_seen": "2023-02-02 19:23:34",
+        "last_seen": "2023-04-07 22:33:23",
+        "ip_address": "2606:4700:3036::ac43:9b6d",
+        "type": "IPv6"
+    }
+]

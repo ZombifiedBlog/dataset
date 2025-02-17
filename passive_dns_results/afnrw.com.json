@@ -1,0 +1,274 @@
+[
+    {
+        "domain": "afnrw.com",
+        "count": "2",
+        "first_seen": "2020-03-17 10:00:19",
+        "last_seen": "2020-03-17 10:00:19",
+        "ip_address": "5.79.68.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "62",
+        "first_seen": "2019-11-20 15:28:09",
+        "last_seen": "2020-03-24 22:03:15",
+        "ip_address": "23.82.12.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "74",
+        "first_seen": "2019-12-03 04:19:25",
+        "last_seen": "2020-03-27 16:23:41",
+        "ip_address": "23.82.12.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "63",
+        "first_seen": "2019-11-27 00:35:44",
+        "last_seen": "2020-03-26 12:10:32",
+        "ip_address": "23.82.12.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "80",
+        "first_seen": "2019-11-20 18:10:24",
+        "last_seen": "2020-03-25 05:29:42",
+        "ip_address": "23.82.12.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "2",
+        "first_seen": "2020-04-25 03:37:37",
+        "last_seen": "2020-04-25 03:37:37",
+        "ip_address": "50.63.202.64",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "8",
+        "first_seen": "2020-04-09 05:56:43",
+        "last_seen": "2020-04-21 21:03:24",
+        "ip_address": "50.63.202.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "8",
+        "first_seen": "2020-04-05 04:51:35",
+        "last_seen": "2020-04-28 12:43:21",
+        "ip_address": "50.63.202.68",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "2",
+        "first_seen": "2020-04-16 02:52:09",
+        "last_seen": "2020-04-16 02:52:09",
+        "ip_address": "50.63.202.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "6",
+        "first_seen": "2020-04-14 21:30:53",
+        "last_seen": "2020-04-25 09:20:25",
+        "ip_address": "50.63.202.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "28",
+        "first_seen": "2020-03-30 22:14:12",
+        "last_seen": "2020-04-27 03:43:50",
+        "ip_address": "50.63.202.79",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "36",
+        "first_seen": "2020-03-29 04:34:13",
+        "last_seen": "2020-04-28 01:08:56",
+        "ip_address": "50.63.202.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "23",
+        "first_seen": "2020-04-01 13:39:31",
+        "last_seen": "2020-04-27 08:46:52",
+        "ip_address": "50.63.202.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "4",
+        "first_seen": "2020-04-07 02:35:39",
+        "last_seen": "2020-04-12 22:52:22",
+        "ip_address": "50.63.202.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "10",
+        "first_seen": "2019-10-16 17:25:11",
+        "last_seen": "2019-11-18 14:46:15",
+        "ip_address": "81.17.18.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "6",
+        "first_seen": "2019-11-01 21:19:41",
+        "last_seen": "2019-11-19 11:08:38",
+        "ip_address": "81.17.18.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "12",
+        "first_seen": "2019-10-23 12:21:16",
+        "last_seen": "2019-11-19 16:39:09",
+        "ip_address": "81.17.18.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "9",
+        "first_seen": "2019-11-05 23:35:57",
+        "last_seen": "2019-11-18 22:31:57",
+        "ip_address": "81.17.18.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "139",
+        "first_seen": "2019-03-25 08:59:12",
+        "last_seen": "2019-08-20 21:56:11",
+        "ip_address": "89.35.39.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "179",
+        "first_seen": "2019-03-23 22:37:45",
+        "last_seen": "2019-08-20 06:27:39",
+        "ip_address": "89.35.39.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "204",
+        "first_seen": "2019-03-24 02:36:28",
+        "last_seen": "2019-08-17 21:42:06",
+        "ip_address": "89.35.39.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "52",
+        "first_seen": "2019-03-27 23:04:44",
+        "last_seen": "2019-08-20 09:39:28",
+        "ip_address": "89.35.39.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "2",
+        "first_seen": "2020-04-12 07:38:21",
+        "last_seen": "2020-04-12 07:38:21",
+        "ip_address": "184.168.221.64",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "52",
+        "first_seen": "2020-03-27 23:27:47",
+        "last_seen": "2020-04-30 21:03:48",
+        "ip_address": "184.168.221.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "2",
+        "first_seen": "2020-04-16 09:55:32",
+        "last_seen": "2020-04-16 09:55:32",
+        "ip_address": "184.168.221.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "39",
+        "first_seen": "2020-03-28 08:10:52",
+        "last_seen": "2020-05-02 13:58:06",
+        "ip_address": "184.168.221.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "2",
+        "first_seen": "2020-04-05 04:51:35",
+        "last_seen": "2020-04-05 04:51:35",
+        "ip_address": "184.168.221.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "2",
+        "first_seen": "2020-04-25 05:58:31",
+        "last_seen": "2020-04-25 05:58:31",
+        "ip_address": "184.168.221.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "8",
+        "first_seen": "2020-04-05 11:40:56",
+        "last_seen": "2020-04-22 06:52:00",
+        "ip_address": "184.168.221.91",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "830",
+        "first_seen": "2019-03-23 12:41:47",
+        "last_seen": "2019-11-06 20:53:50",
+        "ip_address": "200.63.47.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "55",
+        "first_seen": "2019-11-25 19:47:15",
+        "last_seen": "2020-03-13 11:05:27",
+        "ip_address": "212.32.237.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "51",
+        "first_seen": "2019-11-20 15:51:03",
+        "last_seen": "2020-03-27 16:23:41",
+        "ip_address": "212.32.237.91",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "47",
+        "first_seen": "2019-11-30 22:21:43",
+        "last_seen": "2020-03-26 04:34:07",
+        "ip_address": "212.32.237.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "afnrw.com",
+        "count": "60",
+        "first_seen": "2019-11-22 17:09:19",
+        "last_seen": "2020-03-25 05:37:43",
+        "ip_address": "212.32.237.101",
+        "type": "IPv4"
+    }
+]

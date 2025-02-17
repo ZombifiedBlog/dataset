@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.latticecompanies.com",
+        "count": "4",
+        "first_seen": "2020-05-18 07:09:52",
+        "last_seen": "2020-05-27 02:12:10",
+        "ip_address": "13.248.196.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.latticecompanies.com",
+        "count": "17",
+        "first_seen": "2019-01-02 11:29:32",
+        "last_seen": "2020-02-02 04:06:44",
+        "ip_address": "74.119.239.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.latticecompanies.com",
+        "count": "1",
+        "first_seen": "2015-04-09 17:14:50",
+        "last_seen": "2015-04-09 17:14:50",
+        "ip_address": "209.99.40.223",
+        "type": "IPv4"
+    }
+]

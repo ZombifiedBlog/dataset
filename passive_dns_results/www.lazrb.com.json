@@ -1,0 +1,106 @@
+[
+    {
+        "domain": "www.lazrb.com",
+        "count": "2",
+        "first_seen": "2021-03-30 22:52:36",
+        "last_seen": "2021-04-04 17:52:09",
+        "ip_address": "104.21.11.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lazrb.com",
+        "count": "2",
+        "first_seen": "2021-03-30 22:52:36",
+        "last_seen": "2021-04-04 17:52:09",
+        "ip_address": "172.67.167.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lazrb.com",
+        "count": "638",
+        "first_seen": "2020-05-10 11:29:27",
+        "last_seen": "2020-05-26 16:50:41",
+        "ip_address": "104.28.12.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lazrb.com",
+        "count": "638",
+        "first_seen": "2020-05-10 11:29:27",
+        "last_seen": "2020-05-26 16:50:41",
+        "ip_address": "104.28.13.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lazrb.com",
+        "count": "358",
+        "first_seen": "2020-05-26 20:00:40",
+        "last_seen": "2020-10-05 09:18:03",
+        "ip_address": "104.28.12.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lazrb.com",
+        "count": "358",
+        "first_seen": "2020-05-26 20:00:40",
+        "last_seen": "2020-10-05 09:18:03",
+        "ip_address": "104.28.13.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lazrb.com",
+        "count": "358",
+        "first_seen": "2020-05-26 20:00:40",
+        "last_seen": "2020-10-05 09:18:03",
+        "ip_address": "172.67.167.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lazrb.com",
+        "count": "2",
+        "first_seen": "2020-05-10 11:26:59",
+        "last_seen": "2020-05-10 11:26:59",
+        "ip_address": "198.144.149.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lazrb.com",
+        "count": "53",
+        "first_seen": "2020-05-10 11:29:27",
+        "last_seen": "2020-05-26 15:18:44",
+        "ip_address": "2606:4700:3035::681c:cd9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lazrb.com",
+        "count": "53",
+        "first_seen": "2020-05-10 11:29:27",
+        "last_seen": "2020-05-26 15:18:44",
+        "ip_address": "2606:4700:3035::681c:dd9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lazrb.com",
+        "count": "24",
+        "first_seen": "2020-05-30 16:29:53",
+        "last_seen": "2020-12-15 09:13:01",
+        "ip_address": "2606:4700:3035::681c:cd9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lazrb.com",
+        "count": "24",
+        "first_seen": "2020-05-30 16:29:53",
+        "last_seen": "2020-12-15 09:13:01",
+        "ip_address": "2606:4700:3035::681c:dd9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lazrb.com",
+        "count": "24",
+        "first_seen": "2020-05-30 16:29:53",
+        "last_seen": "2020-12-15 09:13:01",
+        "ip_address": "2606:4700:3037::ac43:a747",
+        "type": "IPv6"
+    }
+]

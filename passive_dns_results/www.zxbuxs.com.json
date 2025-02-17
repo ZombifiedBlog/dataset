@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.zxbuxs.com",
+        "count": "2",
+        "first_seen": "2023-01-12 23:57:07",
+        "last_seen": "2023-01-12 23:57:08",
+        "ip_address": "39.102.52.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zxbuxs.com",
+        "count": "13",
+        "first_seen": "2022-08-02 19:11:25",
+        "last_seen": "2022-08-11 11:07:23",
+        "ip_address": "123.108.77.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zxbuxs.com",
+        "count": "234",
+        "first_seen": "2023-03-09 01:15:02",
+        "last_seen": "2023-03-09 11:52:54",
+        "ip_address": "155.94.201.178",
+        "type": "IPv4"
+    }
+]

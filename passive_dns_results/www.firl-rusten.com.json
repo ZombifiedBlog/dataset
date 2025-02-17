@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.firl-rusten.com",
+        "count": "1168",
+        "first_seen": "2022-03-26 19:39:12",
+        "last_seen": "2023-03-24 12:42:40",
+        "ip_address": "198.12.127.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.firl-rusten.com",
+        "count": "2",
+        "first_seen": "2023-04-24 20:42:15",
+        "last_seen": "2023-04-26 00:52:06",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.firl-rusten.com",
+        "count": "5",
+        "first_seen": "2023-03-26 19:44:32",
+        "last_seen": "2023-04-26 00:52:06",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "support.myzushi.com",
+        "count": "40",
+        "first_seen": "2020-12-12 08:09:40",
+        "last_seen": "2020-12-19 14:50:20",
+        "ip_address": "104.27.134.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.myzushi.com",
+        "count": "40",
+        "first_seen": "2020-12-12 08:09:40",
+        "last_seen": "2020-12-19 14:50:20",
+        "ip_address": "104.27.135.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.myzushi.com",
+        "count": "40",
+        "first_seen": "2020-12-12 08:09:40",
+        "last_seen": "2020-12-19 14:50:20",
+        "ip_address": "172.67.176.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.myzushi.com",
+        "count": "23",
+        "first_seen": "2020-12-12 08:09:40",
+        "last_seen": "2020-12-19 14:50:20",
+        "ip_address": "2606:4700:3033::681b:87bb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "support.myzushi.com",
+        "count": "23",
+        "first_seen": "2020-12-12 08:09:40",
+        "last_seen": "2020-12-19 14:50:20",
+        "ip_address": "2606:4700:3036::681b:86bb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "support.myzushi.com",
+        "count": "23",
+        "first_seen": "2020-12-12 08:09:40",
+        "last_seen": "2020-12-19 14:50:20",
+        "ip_address": "2606:4700:3037::ac43:b05e",
+        "type": "IPv6"
+    }
+]

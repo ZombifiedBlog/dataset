@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "pr2.cgiboy.com",
+        "count": "28",
+        "first_seen": "2023-10-12 20:10:12",
+        "last_seen": "2023-11-17 06:27:42",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pr2.cgiboy.com",
+        "count": "3",
+        "first_seen": "2023-12-27 15:42:48",
+        "last_seen": "2023-12-27 16:33:03",
+        "ip_address": "103.141.97.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pr2.cgiboy.com",
+        "count": "1",
+        "first_seen": "2023-12-10 16:02:14",
+        "last_seen": "2023-12-10 16:02:14",
+        "ip_address": "150.95.255.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pr2.cgiboy.com",
+        "count": "8",
+        "first_seen": "2023-12-11 22:59:59",
+        "last_seen": "2023-12-23 21:19:40",
+        "ip_address": "157.7.94.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pr2.cgiboy.com",
+        "count": "2512",
+        "first_seen": "2013-11-14 00:51:26",
+        "last_seen": "2018-03-05 05:53:45",
+        "ip_address": "202.230.10.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pr2.cgiboy.com",
+        "count": "1764",
+        "first_seen": "2018-03-08 19:55:08",
+        "last_seen": "2023-09-26 17:28:01",
+        "ip_address": "202.230.10.130",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pr2.cgiboy.com",
+        "count": "2348",
+        "first_seen": "2012-04-18 23:30:40",
+        "last_seen": "2013-11-13 08:04:34",
+        "ip_address": "203.111.242.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pr2.cgiboy.com",
+        "count": "2107",
+        "first_seen": "2010-07-19 11:30:58",
+        "last_seen": "2012-04-18 14:57:22",
+        "ip_address": "203.190.58.67",
+        "type": "IPv4"
+    }
+]

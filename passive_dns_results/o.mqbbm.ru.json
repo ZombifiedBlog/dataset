@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "o.mqbbm.ru",
+        "count": "173",
+        "first_seen": "2023-08-23 10:12:07",
+        "last_seen": "2023-09-16 15:01:02",
+        "ip_address": "31.177.76.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "o.mqbbm.ru",
+        "count": "173",
+        "first_seen": "2023-08-23 10:12:07",
+        "last_seen": "2023-09-16 15:01:02",
+        "ip_address": "31.177.80.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "o.mqbbm.ru",
+        "count": "8394",
+        "first_seen": "2023-05-20 00:36:55",
+        "last_seen": "2023-08-18 13:27:49",
+        "ip_address": "104.21.5.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "o.mqbbm.ru",
+        "count": "8394",
+        "first_seen": "2023-05-20 00:36:55",
+        "last_seen": "2023-08-18 13:27:49",
+        "ip_address": "172.67.154.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "o.mqbbm.ru",
+        "count": "980",
+        "first_seen": "2023-05-20 00:36:56",
+        "last_seen": "2023-08-18 11:25:13",
+        "ip_address": "2606:4700:3032::6815:594",
+        "type": "IPv6"
+    },
+    {
+        "domain": "o.mqbbm.ru",
+        "count": "980",
+        "first_seen": "2023-05-20 00:36:56",
+        "last_seen": "2023-08-18 11:25:13",
+        "ip_address": "2606:4700:3034::ac43:9ab7",
+        "type": "IPv6"
+    }
+]

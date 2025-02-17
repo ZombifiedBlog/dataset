@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "www.leavesandstitches.com",
+        "count": "199",
+        "first_seen": "2023-04-20 14:15:25",
+        "last_seen": "2024-01-17 05:15:26",
+        "ip_address": "64.91.248.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.leavesandstitches.com",
+        "count": "16",
+        "first_seen": "2022-04-01 08:07:13",
+        "last_seen": "2022-04-12 00:06:42",
+        "ip_address": "67.225.218.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.leavesandstitches.com",
+        "count": "744",
+        "first_seen": "2021-05-26 08:14:09",
+        "last_seen": "2023-04-17 03:37:36",
+        "ip_address": "67.227.226.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.leavesandstitches.com",
+        "count": "629",
+        "first_seen": "2013-12-03 03:40:43",
+        "last_seen": "2014-04-05 13:30:33",
+        "ip_address": "69.163.129.188",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.leavesandstitches.com",
+        "count": "67",
+        "first_seen": "2012-05-20 22:39:40",
+        "last_seen": "2013-09-09 23:27:14",
+        "ip_address": "75.119.197.134",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.leavesandstitches.com",
+        "count": "9170",
+        "first_seen": "2014-04-05 14:49:10",
+        "last_seen": "2015-01-20 16:25:14",
+        "ip_address": "173.236.153.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.leavesandstitches.com",
+        "count": "108428",
+        "first_seen": "2015-01-20 15:26:10",
+        "last_seen": "2017-12-06 18:32:51",
+        "ip_address": "208.113.172.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.leavesandstitches.com",
+        "count": "3",
+        "first_seen": "2021-11-04 13:36:23",
+        "last_seen": "2022-11-16 10:06:13",
+        "ip_address": "67.227.226.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.leavesandstitches.com",
+        "count": "440",
+        "first_seen": "2021-06-01 04:38:14",
+        "last_seen": "2022-11-30 23:00:24",
+        "ip_address": "2600:3c02::f03c:91ff:fee2:5b0f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.leavesandstitches.com",
+        "count": "1",
+        "first_seen": "2021-11-05 15:07:08",
+        "last_seen": "2021-11-05 15:07:08",
+        "ip_address": "2600:3c02::f03c:91ff:fee2:5b0f",
+        "type": "IPv6"
+    }
+]

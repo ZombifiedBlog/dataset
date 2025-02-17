@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "netstation2-aplus-co-jp.b0v.top",
+        "count": "263",
+        "first_seen": "2022-05-12 15:25:28",
+        "last_seen": "2022-05-13 04:17:49",
+        "ip_address": "104.21.44.169",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.b0v.top",
+        "count": "263",
+        "first_seen": "2022-05-12 15:25:28",
+        "last_seen": "2022-05-13 04:17:49",
+        "ip_address": "172.67.201.151",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.b0v.top",
+        "count": "39884",
+        "first_seen": "2023-05-15 13:10:30",
+        "last_seen": "2024-01-18 07:38:35",
+        "ip_address": "156.229.134.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.b0v.top",
+        "count": "32",
+        "first_seen": "2022-05-12 15:25:30",
+        "last_seen": "2022-05-12 23:23:55",
+        "ip_address": "2606:4700:3032::ac43:c997",
+        "type": "IPv6"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.b0v.top",
+        "count": "32",
+        "first_seen": "2022-05-12 15:25:30",
+        "last_seen": "2022-05-12 23:23:55",
+        "ip_address": "2606:4700:3036::6815:2ca9",
+        "type": "IPv6"
+    }
+]

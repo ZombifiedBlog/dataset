@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "kimmacoffee.com",
+        "count": "2",
+        "first_seen": "2020-10-02 14:45:22",
+        "last_seen": "2020-10-02 14:45:22",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kimmacoffee.com",
+        "count": "11",
+        "first_seen": "2016-09-28 19:44:22",
+        "last_seen": "2016-10-04 09:07:43",
+        "ip_address": "184.168.221.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kimmacoffee.com",
+        "count": "5219",
+        "first_seen": "2016-10-09 05:15:31",
+        "last_seen": "2024-01-17 16:39:17",
+        "ip_address": "198.49.23.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kimmacoffee.com",
+        "count": "5219",
+        "first_seen": "2016-10-09 05:15:31",
+        "last_seen": "2024-01-17 16:39:17",
+        "ip_address": "198.49.23.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kimmacoffee.com",
+        "count": "5219",
+        "first_seen": "2016-10-09 05:15:31",
+        "last_seen": "2024-01-17 16:39:17",
+        "ip_address": "198.185.159.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kimmacoffee.com",
+        "count": "5219",
+        "first_seen": "2016-10-09 05:15:31",
+        "last_seen": "2024-01-17 16:39:17",
+        "ip_address": "198.185.159.145",
+        "type": "IPv4"
+    }
+]

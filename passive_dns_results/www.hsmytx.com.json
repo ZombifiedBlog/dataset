@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.hsmytx.com",
+        "count": "2",
+        "first_seen": "2022-07-29 20:10:47",
+        "last_seen": "2022-08-25 16:37:22",
+        "ip_address": "47.75.96.151",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hsmytx.com",
+        "count": "2420",
+        "first_seen": "2022-09-29 11:37:17",
+        "last_seen": "2022-10-04 22:00:10",
+        "ip_address": "104.129.63.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hsmytx.com",
+        "count": "114",
+        "first_seen": "2020-08-17 06:05:35",
+        "last_seen": "2021-08-05 19:08:27",
+        "ip_address": "107.179.89.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hsmytx.com",
+        "count": "38",
+        "first_seen": "2023-12-07 17:03:41",
+        "last_seen": "2024-01-10 22:50:20",
+        "ip_address": "107.187.69.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hsmytx.com",
+        "count": "4",
+        "first_seen": "2022-09-08 19:41:38",
+        "last_seen": "2022-09-13 08:06:43",
+        "ip_address": "164.88.87.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hsmytx.com",
+        "count": "214",
+        "first_seen": "2022-12-18 10:13:43",
+        "last_seen": "2023-11-18 12:11:45",
+        "ip_address": "173.232.201.73",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hsmytx.com",
+        "count": "250",
+        "first_seen": "2018-07-11 20:31:14",
+        "last_seen": "2020-05-26 00:57:23",
+        "ip_address": "184.164.88.139",
+        "type": "IPv4"
+    }
+]

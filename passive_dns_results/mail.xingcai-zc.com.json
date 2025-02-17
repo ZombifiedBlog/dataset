@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "mail.xingcai-zc.com",
+        "count": "561",
+        "first_seen": "2020-06-24 04:24:12",
+        "last_seen": "2020-08-22 07:51:44",
+        "ip_address": "104.18.36.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.xingcai-zc.com",
+        "count": "561",
+        "first_seen": "2020-06-24 04:24:12",
+        "last_seen": "2020-08-22 07:51:44",
+        "ip_address": "104.18.37.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.xingcai-zc.com",
+        "count": "561",
+        "first_seen": "2020-06-24 04:24:12",
+        "last_seen": "2020-08-22 07:51:44",
+        "ip_address": "172.67.137.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.xingcai-zc.com",
+        "count": "777",
+        "first_seen": "2020-06-09 08:42:53",
+        "last_seen": "2020-06-23 22:29:27",
+        "ip_address": "104.27.150.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.xingcai-zc.com",
+        "count": "777",
+        "first_seen": "2020-06-09 08:42:53",
+        "last_seen": "2020-06-23 22:29:27",
+        "ip_address": "104.27.151.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.xingcai-zc.com",
+        "count": "777",
+        "first_seen": "2020-06-09 08:42:53",
+        "last_seen": "2020-06-23 22:29:27",
+        "ip_address": "172.67.153.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.xingcai-zc.com",
+        "count": "248",
+        "first_seen": "2020-06-09 09:53:12",
+        "last_seen": "2020-06-23 22:29:27",
+        "ip_address": "2606:4700:3031::ac43:9926",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.xingcai-zc.com",
+        "count": "248",
+        "first_seen": "2020-06-09 09:53:12",
+        "last_seen": "2020-06-23 22:29:27",
+        "ip_address": "2606:4700:3033::681b:96d1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.xingcai-zc.com",
+        "count": "248",
+        "first_seen": "2020-06-09 09:53:12",
+        "last_seen": "2020-06-23 22:29:27",
+        "ip_address": "2606:4700:3035::681b:97d1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.xingcai-zc.com",
+        "count": "189",
+        "first_seen": "2020-06-24 04:24:12",
+        "last_seen": "2020-08-18 22:28:26",
+        "ip_address": "2606:4700:3032::6812:250e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.xingcai-zc.com",
+        "count": "189",
+        "first_seen": "2020-06-24 04:24:12",
+        "last_seen": "2020-08-18 22:28:26",
+        "ip_address": "2606:4700:3036::6812:240e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.xingcai-zc.com",
+        "count": "189",
+        "first_seen": "2020-06-24 04:24:12",
+        "last_seen": "2020-08-18 22:28:26",
+        "ip_address": "2606:4700:3037::ac43:890c",
+        "type": "IPv6"
+    }
+]

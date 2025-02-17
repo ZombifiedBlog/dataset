@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "aws.18cpk.com",
+        "count": "2",
+        "first_seen": "2020-12-26 19:32:11",
+        "last_seen": "2020-12-27 06:00:36",
+        "ip_address": "104.24.112.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "aws.18cpk.com",
+        "count": "2",
+        "first_seen": "2020-12-26 19:32:11",
+        "last_seen": "2020-12-27 06:00:36",
+        "ip_address": "104.24.113.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "aws.18cpk.com",
+        "count": "2",
+        "first_seen": "2020-12-26 19:32:11",
+        "last_seen": "2020-12-27 06:00:36",
+        "ip_address": "172.67.138.248",
+        "type": "IPv4"
+    }
+]

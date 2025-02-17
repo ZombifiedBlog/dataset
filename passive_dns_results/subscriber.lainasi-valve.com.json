@@ -1,0 +1,242 @@
+[
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "3000",
+        "first_seen": "2022-08-23 14:45:16",
+        "last_seen": "2022-11-25 17:47:34",
+        "ip_address": "104.21.12.109",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "3000",
+        "first_seen": "2022-08-23 14:45:16",
+        "last_seen": "2022-11-25 17:47:34",
+        "ip_address": "172.67.152.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "1",
+        "first_seen": "2022-08-29 06:43:26",
+        "last_seen": "2022-08-29 06:43:26",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "1",
+        "first_seen": "2022-08-29 06:43:26",
+        "last_seen": "2022-08-29 06:43:26",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "42",
+        "first_seen": "2022-10-12 09:26:42",
+        "last_seen": "2022-10-16 03:36:44",
+        "ip_address": "188.114.96.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "42",
+        "first_seen": "2022-10-12 09:26:42",
+        "last_seen": "2022-10-16 03:36:44",
+        "ip_address": "188.114.97.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "78",
+        "first_seen": "2022-08-27 06:54:07",
+        "last_seen": "2022-11-10 15:58:02",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "78",
+        "first_seen": "2022-08-27 06:54:07",
+        "last_seen": "2022-11-10 15:58:02",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "95",
+        "first_seen": "2022-08-23 16:33:57",
+        "last_seen": "2022-11-10 03:20:13",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "95",
+        "first_seen": "2022-08-23 16:33:57",
+        "last_seen": "2022-11-10 03:20:13",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "1",
+        "first_seen": "2022-09-02 18:19:22",
+        "last_seen": "2022-09-02 18:19:22",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "1",
+        "first_seen": "2022-09-02 18:19:22",
+        "last_seen": "2022-09-02 18:19:22",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "4",
+        "first_seen": "2022-09-07 06:58:14",
+        "last_seen": "2022-09-09 12:32:20",
+        "ip_address": "188.114.96.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "4",
+        "first_seen": "2022-09-07 06:58:14",
+        "last_seen": "2022-09-09 12:32:20",
+        "ip_address": "188.114.97.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "16",
+        "first_seen": "2022-08-24 08:50:09",
+        "last_seen": "2022-10-31 00:51:56",
+        "ip_address": "188.114.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "16",
+        "first_seen": "2022-08-24 08:50:09",
+        "last_seen": "2022-10-31 00:51:56",
+        "ip_address": "188.114.97.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "89",
+        "first_seen": "2022-08-23 19:04:20",
+        "last_seen": "2022-11-07 00:06:28",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "89",
+        "first_seen": "2022-08-23 19:04:20",
+        "last_seen": "2022-11-07 00:06:28",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "30",
+        "first_seen": "2022-08-23 18:49:55",
+        "last_seen": "2022-11-06 01:03:09",
+        "ip_address": "2606:4700:3031::6815:c6d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "30",
+        "first_seen": "2022-08-23 18:49:55",
+        "last_seen": "2022-11-06 01:03:09",
+        "ip_address": "2606:4700:3036::ac43:9839",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "1",
+        "first_seen": "2022-08-29 06:43:28",
+        "last_seen": "2022-08-29 06:43:28",
+        "ip_address": "2a06:98c1:3120::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "1",
+        "first_seen": "2022-08-29 06:43:28",
+        "last_seen": "2022-08-29 06:43:28",
+        "ip_address": "2a06:98c1:3121::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "31",
+        "first_seen": "2022-08-24 14:58:20",
+        "last_seen": "2022-11-04 09:48:01",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "31",
+        "first_seen": "2022-08-24 14:58:20",
+        "last_seen": "2022-11-04 09:48:01",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "2",
+        "first_seen": "2022-11-03 14:18:39",
+        "last_seen": "2022-11-03 14:18:39",
+        "ip_address": "2a06:98c1:3120::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "2",
+        "first_seen": "2022-11-03 14:18:39",
+        "last_seen": "2022-11-03 14:18:39",
+        "ip_address": "2a06:98c1:3121::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "7",
+        "first_seen": "2022-08-25 09:27:58",
+        "last_seen": "2022-10-28 06:57:33",
+        "ip_address": "2a06:98c1:3120::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "7",
+        "first_seen": "2022-08-25 09:27:58",
+        "last_seen": "2022-10-28 06:57:33",
+        "ip_address": "2a06:98c1:3121::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "20",
+        "first_seen": "2022-09-17 18:59:21",
+        "last_seen": "2022-11-07 00:06:28",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.lainasi-valve.com",
+        "count": "20",
+        "first_seen": "2022-09-17 18:59:21",
+        "last_seen": "2022-11-07 00:06:28",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.herz3d.com",
+        "count": "2",
+        "first_seen": "2022-08-24 02:18:59",
+        "last_seen": "2022-08-24 02:18:59",
+        "ip_address": "69.16.231.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.herz3d.com",
+        "count": "349",
+        "first_seen": "2022-08-24 07:59:03",
+        "last_seen": "2022-10-03 16:37:41",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.herz3d.com",
+        "count": "5663",
+        "first_seen": "2022-06-07 17:31:06",
+        "last_seen": "2022-08-23 20:05:09",
+        "ip_address": "104.21.47.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.herz3d.com",
+        "count": "5663",
+        "first_seen": "2022-06-07 17:31:06",
+        "last_seen": "2022-08-23 20:05:09",
+        "ip_address": "172.67.146.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.herz3d.com",
+        "count": "128",
+        "first_seen": "2022-06-07 22:16:58",
+        "last_seen": "2022-08-23 00:09:16",
+        "ip_address": "2606:4700:3032::ac43:92bf",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.herz3d.com",
+        "count": "128",
+        "first_seen": "2022-06-07 22:16:58",
+        "last_seen": "2022-08-23 00:09:16",
+        "ip_address": "2606:4700:3036::6815:2f69",
+        "type": "IPv6"
+    }
+]

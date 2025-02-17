@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "tt.eozxtwtd.ru",
+        "count": "15",
+        "first_seen": "2023-11-03 11:04:07",
+        "last_seen": "2023-12-04 00:36:26",
+        "ip_address": "31.177.76.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tt.eozxtwtd.ru",
+        "count": "15",
+        "first_seen": "2023-11-03 11:04:07",
+        "last_seen": "2023-12-04 00:36:26",
+        "ip_address": "31.177.80.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tt.eozxtwtd.ru",
+        "count": "22733",
+        "first_seen": "2022-11-25 01:45:53",
+        "last_seen": "2023-02-14 10:17:12",
+        "ip_address": "104.21.14.143",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tt.eozxtwtd.ru",
+        "count": "22733",
+        "first_seen": "2022-11-25 01:45:53",
+        "last_seen": "2023-02-14 10:17:12",
+        "ip_address": "172.67.159.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tt.eozxtwtd.ru",
+        "count": "3807",
+        "first_seen": "2022-11-25 04:17:23",
+        "last_seen": "2023-02-03 19:34:44",
+        "ip_address": "2606:4700:3031::ac43:9fad",
+        "type": "IPv6"
+    },
+    {
+        "domain": "tt.eozxtwtd.ru",
+        "count": "3807",
+        "first_seen": "2022-11-25 04:17:23",
+        "last_seen": "2023-02-03 19:34:44",
+        "ip_address": "2606:4700:3037::6815:e8f",
+        "type": "IPv6"
+    }
+]

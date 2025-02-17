@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.au-acemn.com",
+        "count": "1384",
+        "first_seen": "2022-04-18 18:59:28",
+        "last_seen": "2023-04-18 08:29:46",
+        "ip_address": "198.12.84.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.au-acemn.com",
+        "count": "14",
+        "first_seen": "2023-04-18 20:01:19",
+        "last_seen": "2023-05-23 17:23:11",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.au-acemn.com",
+        "count": "19",
+        "first_seen": "2023-04-19 06:25:50",
+        "last_seen": "2023-05-24 14:31:15",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

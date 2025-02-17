@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "xgestevo.es",
+        "count": "79",
+        "first_seen": "2014-11-24 02:21:00",
+        "last_seen": "2015-09-12 02:30:21",
+        "ip_address": "46.16.56.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xgestevo.es",
+        "count": "1",
+        "first_seen": "2012-09-09 14:20:51",
+        "last_seen": "2012-09-09 14:20:51",
+        "ip_address": "46.16.60.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xgestevo.es",
+        "count": "377",
+        "first_seen": "2017-05-25 05:39:45",
+        "last_seen": "2019-06-25 00:12:03",
+        "ip_address": "46.16.61.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xgestevo.es",
+        "count": "1548",
+        "first_seen": "2020-04-14 01:19:21",
+        "last_seen": "2024-01-16 13:28:46",
+        "ip_address": "217.160.0.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xgestevo.es",
+        "count": "296",
+        "first_seen": "2020-05-17 09:12:01",
+        "last_seen": "2024-01-07 01:01:32",
+        "ip_address": "2001:8d8:100f:f000::28a",
+        "type": "IPv6"
+    }
+]

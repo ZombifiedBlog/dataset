@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "www.lifeleague.net",
+        "count": "17",
+        "first_seen": "2015-06-23 22:07:27",
+        "last_seen": "2016-01-02 17:44:16",
+        "ip_address": "64.6.250.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lifeleague.net",
+        "count": "3",
+        "first_seen": "2020-06-23 06:45:08",
+        "last_seen": "2020-06-23 06:45:21",
+        "ip_address": "91.195.240.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lifeleague.net",
+        "count": "1592",
+        "first_seen": "2022-05-16 08:09:31",
+        "last_seen": "2022-05-27 17:53:28",
+        "ip_address": "107.175.94.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lifeleague.net",
+        "count": "1",
+        "first_seen": "2022-01-21 19:28:56",
+        "last_seen": "2022-01-21 19:28:56",
+        "ip_address": "155.159.28.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lifeleague.net",
+        "count": "2",
+        "first_seen": "2022-04-14 20:23:08",
+        "last_seen": "2022-04-14 20:23:12",
+        "ip_address": "155.159.49.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lifeleague.net",
+        "count": "2",
+        "first_seen": "2021-10-01 10:18:26",
+        "last_seen": "2021-10-14 23:49:53",
+        "ip_address": "155.159.251.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lifeleague.net",
+        "count": "3",
+        "first_seen": "2021-06-10 17:13:25",
+        "last_seen": "2021-06-19 20:18:30",
+        "ip_address": "156.255.237.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lifeleague.net",
+        "count": "1",
+        "first_seen": "2021-08-11 15:42:58",
+        "last_seen": "2021-08-11 15:42:58",
+        "ip_address": "164.88.58.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lifeleague.net",
+        "count": "1",
+        "first_seen": "2021-07-04 06:11:31",
+        "last_seen": "2021-07-04 06:11:31",
+        "ip_address": "168.206.170.231",
+        "type": "IPv4"
+    }
+]

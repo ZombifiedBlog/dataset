@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "amazon.user-login.info",
+        "count": "3",
+        "first_seen": "2023-12-20 19:22:28",
+        "last_seen": "2023-12-20 19:22:28",
+        "ip_address": "103.224.212.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.user-login.info",
+        "count": "35",
+        "first_seen": "2022-05-25 16:38:04",
+        "last_seen": "2022-12-05 17:13:03",
+        "ip_address": "208.115.245.86",
+        "type": "IPv4"
+    }
+]

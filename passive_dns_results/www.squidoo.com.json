@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.squidoo.com",
+        "count": "5085889",
+        "first_seen": "2014-10-18 21:50:25",
+        "last_seen": "2015-05-08 15:20:48",
+        "ip_address": "8.18.46.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.squidoo.com",
+        "count": "64155",
+        "first_seen": "2014-05-01 22:50:59",
+        "last_seen": "2014-05-09 11:45:10",
+        "ip_address": "108.162.201.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.squidoo.com",
+        "count": "64155",
+        "first_seen": "2014-05-01 22:50:59",
+        "last_seen": "2014-05-09 11:45:10",
+        "ip_address": "108.162.202.189",
+        "type": "IPv4"
+    }
+]

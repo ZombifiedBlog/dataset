@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "behlpstz.com",
+        "count": "1",
+        "first_seen": "2023-04-02 12:58:49",
+        "last_seen": "2023-04-02 12:58:49",
+        "ip_address": "15.167.212.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "behlpstz.com",
+        "count": "5",
+        "first_seen": "2023-03-16 06:34:10",
+        "last_seen": "2023-03-25 22:51:36",
+        "ip_address": "34.160.73.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "behlpstz.com",
+        "count": "3",
+        "first_seen": "2023-02-24 01:14:45",
+        "last_seen": "2023-03-09 08:22:49",
+        "ip_address": "34.160.209.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "behlpstz.com",
+        "count": "139",
+        "first_seen": "2022-03-04 01:14:16",
+        "last_seen": "2023-02-15 10:04:43",
+        "ip_address": "74.206.228.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "behlpstz.com",
+        "count": "139",
+        "first_seen": "2022-03-04 01:14:16",
+        "last_seen": "2023-02-15 10:04:43",
+        "ip_address": "173.239.5.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "behlpstz.com",
+        "count": "139",
+        "first_seen": "2022-03-04 01:14:16",
+        "last_seen": "2023-02-15 10:04:43",
+        "ip_address": "173.239.8.164",
+        "type": "IPv4"
+    }
+]

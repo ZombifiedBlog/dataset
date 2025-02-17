@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscribers.ycdmsr.asia",
+        "count": "33",
+        "first_seen": "2022-03-27 14:20:13",
+        "last_seen": "2022-03-27 19:44:45",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.ycdmsr.asia",
+        "count": "811",
+        "first_seen": "2020-10-13 05:08:32",
+        "last_seen": "2020-12-22 22:40:02",
+        "ip_address": "104.31.88.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.ycdmsr.asia",
+        "count": "811",
+        "first_seen": "2020-10-13 05:08:32",
+        "last_seen": "2020-12-22 22:40:02",
+        "ip_address": "104.31.89.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.ycdmsr.asia",
+        "count": "811",
+        "first_seen": "2020-10-13 05:08:32",
+        "last_seen": "2020-12-22 22:40:02",
+        "ip_address": "172.67.219.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.ycdmsr.asia",
+        "count": "352",
+        "first_seen": "2020-10-13 05:08:32",
+        "last_seen": "2020-12-22 22:40:02",
+        "ip_address": "2606:4700:3030::681f:5913",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.ycdmsr.asia",
+        "count": "352",
+        "first_seen": "2020-10-13 05:08:32",
+        "last_seen": "2020-12-22 22:40:02",
+        "ip_address": "2606:4700:3035::681f:5813",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.ycdmsr.asia",
+        "count": "352",
+        "first_seen": "2020-10-13 05:08:32",
+        "last_seen": "2020-12-22 22:40:02",
+        "ip_address": "2606:4700:3036::ac43:db91",
+        "type": "IPv6"
+    }
+]

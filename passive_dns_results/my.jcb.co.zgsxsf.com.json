@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "my.jcb.co.zgsxsf.com",
+        "count": "33",
+        "first_seen": "2021-01-01 03:09:26",
+        "last_seen": "2021-01-25 20:50:45",
+        "ip_address": "45.86.74.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.zgsxsf.com",
+        "count": "6",
+        "first_seen": "2023-04-14 22:19:53",
+        "last_seen": "2023-05-06 11:38:28",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.zgsxsf.com",
+        "count": "37",
+        "first_seen": "2023-02-03 00:14:13",
+        "last_seen": "2023-03-31 22:22:45",
+        "ip_address": "107.149.28.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.zgsxsf.com",
+        "count": "17",
+        "first_seen": "2022-12-18 18:21:51",
+        "last_seen": "2023-01-27 16:40:09",
+        "ip_address": "108.186.84.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.zgsxsf.com",
+        "count": "12",
+        "first_seen": "2020-12-30 21:24:17",
+        "last_seen": "2020-12-31 14:03:30",
+        "ip_address": "157.52.230.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.jcb.co.zgsxsf.com",
+        "count": "75",
+        "first_seen": "2020-12-30 15:47:31",
+        "last_seen": "2020-12-30 20:59:37",
+        "ip_address": "157.52.230.166",
+        "type": "IPv4"
+    }
+]

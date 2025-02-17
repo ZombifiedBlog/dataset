@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.theplantlist.org",
+        "count": "314200",
+        "first_seen": "2018-10-15 20:13:36",
+        "last_seen": "2024-01-18 10:30:25",
+        "ip_address": "192.104.39.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.theplantlist.org",
+        "count": "187439",
+        "first_seen": "2010-12-29 06:33:49",
+        "last_seen": "2015-11-19 23:51:18",
+        "ip_address": "193.128.243.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.theplantlist.org",
+        "count": "151467",
+        "first_seen": "2016-03-15 22:47:19",
+        "last_seen": "2018-10-15 20:49:06",
+        "ip_address": "213.48.60.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.theplantlist.org",
+        "count": "15454",
+        "first_seen": "2015-11-20 01:11:53",
+        "last_seen": "2016-03-15 23:23:53",
+        "ip_address": "213.48.60.69",
+        "type": "IPv4"
+    }
+]

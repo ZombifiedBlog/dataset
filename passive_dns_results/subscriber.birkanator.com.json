@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.birkanator.com",
+        "count": "10",
+        "first_seen": "2022-08-26 07:41:35",
+        "last_seen": "2022-10-02 10:36:23",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.birkanator.com",
+        "count": "6157",
+        "first_seen": "2022-06-07 17:49:55",
+        "last_seen": "2022-08-23 10:21:32",
+        "ip_address": "104.21.62.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.birkanator.com",
+        "count": "6157",
+        "first_seen": "2022-06-07 17:49:55",
+        "last_seen": "2022-08-23 10:21:32",
+        "ip_address": "172.67.137.227",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.birkanator.com",
+        "count": "206",
+        "first_seen": "2022-06-07 19:11:01",
+        "last_seen": "2022-08-22 19:00:39",
+        "ip_address": "2606:4700:3032::ac43:89e3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.birkanator.com",
+        "count": "206",
+        "first_seen": "2022-06-07 19:11:01",
+        "last_seen": "2022-08-22 19:00:39",
+        "ip_address": "2606:4700:3037::6815:3ead",
+        "type": "IPv6"
+    }
+]

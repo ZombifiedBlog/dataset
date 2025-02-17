@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "security-subscriber-center.gandergreenaLLotments.com",
+        "count": "125",
+        "first_seen": "2022-12-31 08:46:44",
+        "last_seen": "2023-01-14 10:32:03",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.gandergreenaLLotments.com",
+        "count": "1",
+        "first_seen": "2023-04-30 21:55:25",
+        "last_seen": "2023-04-30 21:55:25",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.gandergreenaLLotments.com",
+        "count": "3",
+        "first_seen": "2023-10-12 08:08:14",
+        "last_seen": "2023-11-11 19:19:46",
+        "ip_address": "103.224.212.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.gandergreenaLLotments.com",
+        "count": "41",
+        "first_seen": "2023-04-18 21:20:44",
+        "last_seen": "2023-09-26 08:14:15",
+        "ip_address": "103.224.212.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.gandergreenaLLotments.com",
+        "count": "4697",
+        "first_seen": "2022-10-01 23:30:46",
+        "last_seen": "2022-12-31 04:57:45",
+        "ip_address": "104.21.30.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.gandergreenaLLotments.com",
+        "count": "4697",
+        "first_seen": "2022-10-01 23:30:46",
+        "last_seen": "2022-12-31 04:57:45",
+        "ip_address": "172.67.172.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.gandergreenaLLotments.com",
+        "count": "3",
+        "first_seen": "2023-04-30 21:55:25",
+        "last_seen": "2023-05-12 15:11:33",
+        "ip_address": "170.178.168.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.gandergreenaLLotments.com",
+        "count": "1",
+        "first_seen": "2023-09-07 12:42:56",
+        "last_seen": "2023-09-07 12:42:56",
+        "ip_address": "170.178.183.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.gandergreenaLLotments.com",
+        "count": "1",
+        "first_seen": "2023-08-16 02:34:45",
+        "last_seen": "2023-08-16 02:34:45",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.gandergreenaLLotments.com",
+        "count": "192",
+        "first_seen": "2022-10-08 23:37:43",
+        "last_seen": "2022-12-30 13:26:42",
+        "ip_address": "2606:4700:3030::6815:1e5a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "security-subscriber-center.gandergreenaLLotments.com",
+        "count": "192",
+        "first_seen": "2022-10-08 23:37:43",
+        "last_seen": "2022-12-30 13:26:42",
+        "ip_address": "2606:4700:3033::ac43:acb1",
+        "type": "IPv6"
+    }
+]

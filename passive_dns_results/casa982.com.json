@@ -1,0 +1,154 @@
+[
+    {
+        "domain": "casa982.com",
+        "count": "98",
+        "first_seen": "2020-11-22 12:29:24",
+        "last_seen": "2021-01-03 12:49:39",
+        "ip_address": "13.248.196.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "casa982.com",
+        "count": "19321",
+        "first_seen": "2018-03-15 04:27:54",
+        "last_seen": "2020-05-26 12:42:14",
+        "ip_address": "104.31.64.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "casa982.com",
+        "count": "19321",
+        "first_seen": "2018-03-15 04:27:54",
+        "last_seen": "2020-05-26 12:42:14",
+        "ip_address": "104.31.65.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "casa982.com",
+        "count": "701",
+        "first_seen": "2020-05-27 11:05:38",
+        "last_seen": "2020-11-21 12:25:09",
+        "ip_address": "104.31.64.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "casa982.com",
+        "count": "701",
+        "first_seen": "2020-05-27 11:05:38",
+        "last_seen": "2020-11-21 12:25:09",
+        "ip_address": "104.31.65.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "casa982.com",
+        "count": "701",
+        "first_seen": "2020-05-27 11:05:38",
+        "last_seen": "2020-11-21 12:25:09",
+        "ip_address": "172.67.172.235",
+        "type": "IPv4"
+    },
+    {
+        "domain": "casa982.com",
+        "count": "1",
+        "first_seen": "2019-07-14 22:56:26",
+        "last_seen": "2019-07-14 22:56:26",
+        "ip_address": "104.31.65.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "casa982.com",
+        "count": "1973",
+        "first_seen": "2021-01-04 09:38:29",
+        "last_seen": "2024-01-17 23:27:25",
+        "ip_address": "155.254.21.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "casa982.com",
+        "count": "617",
+        "first_seen": "2017-11-24 09:50:59",
+        "last_seen": "2018-03-15 03:25:18",
+        "ip_address": "203.170.129.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "casa982.com",
+        "count": "5563",
+        "first_seen": "2018-03-15 04:27:54",
+        "last_seen": "2018-09-26 08:12:03",
+        "ip_address": "2400:cb00:2048:1::681f:40c7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "casa982.com",
+        "count": "5563",
+        "first_seen": "2018-03-15 04:27:54",
+        "last_seen": "2018-09-26 08:12:03",
+        "ip_address": "2400:cb00:2048:1::681f:41c7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "casa982.com",
+        "count": "4730",
+        "first_seen": "2018-09-26 10:54:05",
+        "last_seen": "2020-01-14 14:23:38",
+        "ip_address": "2606:4700:30::681f:40c7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "casa982.com",
+        "count": "4730",
+        "first_seen": "2018-09-26 10:54:05",
+        "last_seen": "2020-01-14 14:23:38",
+        "ip_address": "2606:4700:30::681f:41c7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "casa982.com",
+        "count": "1",
+        "first_seen": "2019-07-14 23:33:21",
+        "last_seen": "2019-07-14 23:33:21",
+        "ip_address": "2606:4700:30::681f:41c7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "casa982.com",
+        "count": "71",
+        "first_seen": "2020-05-28 00:42:06",
+        "last_seen": "2020-11-08 13:27:10",
+        "ip_address": "2606:4700:3035::681f:40c7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "casa982.com",
+        "count": "71",
+        "first_seen": "2020-05-28 00:42:06",
+        "last_seen": "2020-11-08 13:27:10",
+        "ip_address": "2606:4700:3035::ac43:aceb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "casa982.com",
+        "count": "71",
+        "first_seen": "2020-05-28 00:42:06",
+        "last_seen": "2020-11-08 13:27:10",
+        "ip_address": "2606:4700:3037::681f:41c7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "casa982.com",
+        "count": "781",
+        "first_seen": "2020-01-17 04:40:12",
+        "last_seen": "2020-05-24 08:05:57",
+        "ip_address": "2606:4700:3035::681f:40c7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "casa982.com",
+        "count": "781",
+        "first_seen": "2020-01-17 04:40:12",
+        "last_seen": "2020-05-24 08:05:57",
+        "ip_address": "2606:4700:3037::681f:41c7",
+        "type": "IPv6"
+    }
+]

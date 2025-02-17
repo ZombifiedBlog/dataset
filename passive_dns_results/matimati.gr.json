@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "matimati.gr",
+        "count": "117",
+        "first_seen": "2012-05-30 10:20:17",
+        "last_seen": "2014-01-28 23:59:54",
+        "ip_address": "62.103.164.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "matimati.gr",
+        "count": "1332",
+        "first_seen": "2014-02-21 00:40:00",
+        "last_seen": "2016-04-05 18:42:17",
+        "ip_address": "62.103.165.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "matimati.gr",
+        "count": "456",
+        "first_seen": "2017-04-28 16:07:35",
+        "last_seen": "2017-05-09 21:47:02",
+        "ip_address": "88.99.166.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "matimati.gr",
+        "count": "29732",
+        "first_seen": "2017-05-10 00:00:03",
+        "last_seen": "2021-02-11 02:52:15",
+        "ip_address": "88.99.166.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "matimati.gr",
+        "count": "29069",
+        "first_seen": "2021-02-11 12:59:45",
+        "last_seen": "2024-01-18 05:35:22",
+        "ip_address": "168.119.78.178",
+        "type": "IPv4"
+    },
+    {
+        "domain": "matimati.gr",
+        "count": "3159",
+        "first_seen": "2016-04-06 20:07:24",
+        "last_seen": "2017-04-28 14:54:53",
+        "ip_address": "185.4.134.4",
+        "type": "IPv4"
+    }
+]

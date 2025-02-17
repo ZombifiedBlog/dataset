@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "subscriber.meksagayrimenkul.com",
+        "count": "3932",
+        "first_seen": "2023-01-06 14:00:48",
+        "last_seen": "2023-01-31 23:55:59",
+        "ip_address": "104.21.56.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.meksagayrimenkul.com",
+        "count": "3932",
+        "first_seen": "2023-01-06 14:00:48",
+        "last_seen": "2023-01-31 23:55:59",
+        "ip_address": "172.67.177.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.meksagayrimenkul.com",
+        "count": "82",
+        "first_seen": "2023-01-07 11:50:06",
+        "last_seen": "2023-01-31 07:45:43",
+        "ip_address": "2606:4700:3031::ac43:b192",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.meksagayrimenkul.com",
+        "count": "82",
+        "first_seen": "2023-01-07 11:50:06",
+        "last_seen": "2023-01-31 07:45:43",
+        "ip_address": "2606:4700:3034::6815:3832",
+        "type": "IPv6"
+    }
+]

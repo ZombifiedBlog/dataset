@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www-aoen-co-jp.tb28491kf.top",
+        "count": "73",
+        "first_seen": "2021-10-15 10:31:39",
+        "last_seen": "2021-10-18 08:22:46",
+        "ip_address": "104.21.83.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-aoen-co-jp.tb28491kf.top",
+        "count": "73",
+        "first_seen": "2021-10-15 10:31:39",
+        "last_seen": "2021-10-18 08:22:46",
+        "ip_address": "172.67.167.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-aoen-co-jp.tb28491kf.top",
+        "count": "12",
+        "first_seen": "2021-10-15 10:31:39",
+        "last_seen": "2021-10-15 16:09:58",
+        "ip_address": "2606:4700:3034::6815:5320",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-aoen-co-jp.tb28491kf.top",
+        "count": "12",
+        "first_seen": "2021-10-15 10:31:39",
+        "last_seen": "2021-10-15 16:09:58",
+        "ip_address": "2606:4700:3035::ac43:a781",
+        "type": "IPv6"
+    }
+]

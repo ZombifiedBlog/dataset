@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "webmial.joetullos.ga",
+        "count": "1677",
+        "first_seen": "2021-06-07 05:47:51",
+        "last_seen": "2021-11-06 15:50:21",
+        "ip_address": "104.21.6.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmial.joetullos.ga",
+        "count": "1677",
+        "first_seen": "2021-06-07 05:47:51",
+        "last_seen": "2021-11-06 15:50:21",
+        "ip_address": "172.67.134.249",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmial.joetullos.ga",
+        "count": "324",
+        "first_seen": "2021-06-07 06:28:14",
+        "last_seen": "2021-11-11 12:57:31",
+        "ip_address": "2606:4700:3030::ac43:86f9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "webmial.joetullos.ga",
+        "count": "324",
+        "first_seen": "2021-06-07 06:28:14",
+        "last_seen": "2021-11-11 12:57:31",
+        "ip_address": "2606:4700:3032::6815:698",
+        "type": "IPv6"
+    }
+]

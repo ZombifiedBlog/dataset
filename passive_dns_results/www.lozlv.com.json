@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "www.lozlv.com",
+        "count": "6",
+        "first_seen": "2018-12-30 03:49:41",
+        "last_seen": "2019-01-17 21:18:39",
+        "ip_address": "23.83.9.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lozlv.com",
+        "count": "17",
+        "first_seen": "2019-01-22 12:58:44",
+        "last_seen": "2019-03-08 03:45:29",
+        "ip_address": "45.59.124.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lozlv.com",
+        "count": "8",
+        "first_seen": "2017-11-29 10:00:03",
+        "last_seen": "2017-12-10 13:02:45",
+        "ip_address": "47.89.58.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lozlv.com",
+        "count": "13",
+        "first_seen": "2023-12-12 15:46:55",
+        "last_seen": "2024-01-09 08:40:23",
+        "ip_address": "91.195.240.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lozlv.com",
+        "count": "12268",
+        "first_seen": "2022-12-17 01:50:35",
+        "last_seen": "2023-12-05 08:00:11",
+        "ip_address": "104.21.14.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lozlv.com",
+        "count": "12268",
+        "first_seen": "2022-12-17 01:50:35",
+        "last_seen": "2023-12-05 08:00:11",
+        "ip_address": "172.67.160.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lozlv.com",
+        "count": "29",
+        "first_seen": "2018-05-13 22:27:11",
+        "last_seen": "2018-10-13 03:07:22",
+        "ip_address": "107.178.130.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lozlv.com",
+        "count": "10",
+        "first_seen": "2019-03-17 19:03:07",
+        "last_seen": "2019-04-28 07:55:58",
+        "ip_address": "193.31.112.235",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lozlv.com",
+        "count": "166",
+        "first_seen": "2022-12-17 02:41:32",
+        "last_seen": "2023-11-21 09:42:29",
+        "ip_address": "2606:4700:3033::6815:ea0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lozlv.com",
+        "count": "166",
+        "first_seen": "2022-12-17 02:41:32",
+        "last_seen": "2023-11-21 09:42:29",
+        "ip_address": "2606:4700:3033::ac43:a007",
+        "type": "IPv6"
+    }
+]

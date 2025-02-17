@@ -1,0 +1,114 @@
+[
+    {
+        "domain": "www.imageduke.com",
+        "count": "13",
+        "first_seen": "2017-10-17 04:55:32",
+        "last_seen": "2017-11-29 05:07:24",
+        "ip_address": "54.217.222.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.imageduke.com",
+        "count": "6",
+        "first_seen": "2011-11-12 06:02:15",
+        "last_seen": "2013-06-29 06:44:33",
+        "ip_address": "82.98.86.171",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.imageduke.com",
+        "count": "6",
+        "first_seen": "2023-12-06 12:36:43",
+        "last_seen": "2023-12-06 12:36:44",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.imageduke.com",
+        "count": "5",
+        "first_seen": "2017-12-19 15:12:13",
+        "last_seen": "2017-12-31 23:44:20",
+        "ip_address": "103.224.182.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.imageduke.com",
+        "count": "84",
+        "first_seen": "2022-12-26 22:21:04",
+        "last_seen": "2024-01-17 22:59:38",
+        "ip_address": "104.21.45.185",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.imageduke.com",
+        "count": "84",
+        "first_seen": "2022-12-26 22:21:04",
+        "last_seen": "2024-01-17 22:59:38",
+        "ip_address": "172.67.218.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.imageduke.com",
+        "count": "2",
+        "first_seen": "2015-05-17 05:16:45",
+        "last_seen": "2015-05-17 05:16:45",
+        "ip_address": "107.163.192.109",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.imageduke.com",
+        "count": "11",
+        "first_seen": "2017-01-20 00:26:25",
+        "last_seen": "2017-05-18 02:58:53",
+        "ip_address": "141.8.224.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.imageduke.com",
+        "count": "3",
+        "first_seen": "2023-01-02 21:30:24",
+        "last_seen": "2023-05-29 19:21:07",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.imageduke.com",
+        "count": "3",
+        "first_seen": "2023-01-02 21:30:24",
+        "last_seen": "2023-05-29 19:21:07",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.imageduke.com",
+        "count": "2400",
+        "first_seen": "2022-08-23 15:12:48",
+        "last_seen": "2022-09-30 04:06:30",
+        "ip_address": "198.55.103.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.imageduke.com",
+        "count": "1",
+        "first_seen": "2010-11-09 19:54:22",
+        "last_seen": "2010-11-09 19:54:22",
+        "ip_address": "208.43.239.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.imageduke.com",
+        "count": "16",
+        "first_seen": "2023-04-23 02:26:24",
+        "last_seen": "2024-01-17 22:59:38",
+        "ip_address": "2606:4700:3032::6815:2db9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.imageduke.com",
+        "count": "16",
+        "first_seen": "2023-04-23 02:26:24",
+        "last_seen": "2024-01-17 22:59:38",
+        "ip_address": "2606:4700:3037::ac43:da41",
+        "type": "IPv6"
+    }
+]

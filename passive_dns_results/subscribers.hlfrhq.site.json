@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscribers.hlfrhq.site",
+        "count": "35",
+        "first_seen": "2020-09-04 01:27:57",
+        "last_seen": "2020-09-09 22:23:37",
+        "ip_address": "104.31.72.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.hlfrhq.site",
+        "count": "35",
+        "first_seen": "2020-09-04 01:27:57",
+        "last_seen": "2020-09-09 22:23:37",
+        "ip_address": "104.31.73.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.hlfrhq.site",
+        "count": "35",
+        "first_seen": "2020-09-04 01:27:57",
+        "last_seen": "2020-09-09 22:23:37",
+        "ip_address": "172.67.220.132",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.hlfrhq.site",
+        "count": "17",
+        "first_seen": "2020-09-04 18:12:49",
+        "last_seen": "2020-09-08 16:05:38",
+        "ip_address": "2606:4700:3031::681f:490d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.hlfrhq.site",
+        "count": "17",
+        "first_seen": "2020-09-04 18:12:49",
+        "last_seen": "2020-09-08 16:05:38",
+        "ip_address": "2606:4700:3034::ac43:dc84",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.hlfrhq.site",
+        "count": "17",
+        "first_seen": "2020-09-04 18:12:49",
+        "last_seen": "2020-09-08 16:05:38",
+        "ip_address": "2606:4700:3037::681f:480d",
+        "type": "IPv6"
+    }
+]

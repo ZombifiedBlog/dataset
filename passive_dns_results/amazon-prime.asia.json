@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "amazon-prime.asia",
+        "count": "102",
+        "first_seen": "2023-08-19 18:50:18",
+        "last_seen": "2023-09-25 11:31:50",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-prime.asia",
+        "count": "30",
+        "first_seen": "2020-12-16 18:07:45",
+        "last_seen": "2020-12-27 23:29:53",
+        "ip_address": "89.40.206.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-prime.asia",
+        "count": "31",
+        "first_seen": "2021-02-22 11:57:50",
+        "last_seen": "2021-12-07 04:31:28",
+        "ip_address": "93.188.162.126",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-prime.asia",
+        "count": "24",
+        "first_seen": "2020-12-28 11:35:28",
+        "last_seen": "2021-01-02 06:39:57",
+        "ip_address": "95.174.65.227",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-prime.asia",
+        "count": "11",
+        "first_seen": "2021-12-22 18:45:06",
+        "last_seen": "2022-01-26 21:13:49",
+        "ip_address": "99.83.154.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-prime.asia",
+        "count": "12",
+        "first_seen": "2020-12-16 02:26:07",
+        "last_seen": "2020-12-16 10:44:41",
+        "ip_address": "104.168.159.81",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-prime.asia",
+        "count": "23",
+        "first_seen": "2022-08-19 14:45:04",
+        "last_seen": "2022-08-19 15:25:10",
+        "ip_address": "122.9.132.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-prime.asia",
+        "count": "414",
+        "first_seen": "2022-12-11 13:08:51",
+        "last_seen": "2023-08-19 13:07:40",
+        "ip_address": "140.210.217.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-prime.asia",
+        "count": "2341",
+        "first_seen": "2022-08-20 06:00:35",
+        "last_seen": "2022-12-10 19:59:11",
+        "ip_address": "155.94.143.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-prime.asia",
+        "count": "5",
+        "first_seen": "2021-01-28 08:48:45",
+        "last_seen": "2021-01-28 09:56:37",
+        "ip_address": "193.239.84.135",
+        "type": "IPv4"
+    }
+]

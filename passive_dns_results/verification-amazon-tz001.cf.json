@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "verification-amazon-tz001.cf",
+        "count": "3",
+        "first_seen": "2020-08-14 02:27:37",
+        "last_seen": "2020-08-14 02:58:52",
+        "ip_address": "173.82.115.244",
+        "type": "IPv4"
+    },
+    {
+        "domain": "verification-amazon-tz001.cf",
+        "count": "33",
+        "first_seen": "2020-08-14 00:48:02",
+        "last_seen": "2020-08-14 01:55:24",
+        "ip_address": "173.82.153.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "verification-amazon-tz001.cf",
+        "count": "107",
+        "first_seen": "2020-08-07 17:16:45",
+        "last_seen": "2020-08-10 20:40:15",
+        "ip_address": "173.82.168.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "verification-amazon-tz001.cf",
+        "count": "34",
+        "first_seen": "2020-08-12 12:33:22",
+        "last_seen": "2020-08-13 13:20:35",
+        "ip_address": "173.82.202.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "verification-amazon-tz001.cf",
+        "count": "2",
+        "first_seen": "2020-08-14 04:03:48",
+        "last_seen": "2020-08-14 04:03:48",
+        "ip_address": "173.82.226.206",
+        "type": "IPv4"
+    },
+    {
+        "domain": "verification-amazon-tz001.cf",
+        "count": "4",
+        "first_seen": "2020-08-11 16:02:21",
+        "last_seen": "2020-08-11 16:05:36",
+        "ip_address": "173.82.232.202",
+        "type": "IPv4"
+    },
+    {
+        "domain": "verification-amazon-tz001.cf",
+        "count": "5",
+        "first_seen": "2020-08-10 21:34:35",
+        "last_seen": "2020-08-11 11:02:22",
+        "ip_address": "173.82.245.81",
+        "type": "IPv4"
+    }
+]

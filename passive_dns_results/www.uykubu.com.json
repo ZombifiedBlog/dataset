@@ -1,0 +1,130 @@
+[
+    {
+        "domain": "www.uykubu.com",
+        "count": "3",
+        "first_seen": "2021-03-07 12:23:09",
+        "last_seen": "2021-03-31 01:52:48",
+        "ip_address": "45.200.33.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.uykubu.com",
+        "count": "8",
+        "first_seen": "2016-05-04 07:49:42",
+        "last_seen": "2017-05-07 13:56:35",
+        "ip_address": "85.159.66.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.uykubu.com",
+        "count": "1",
+        "first_seen": "2021-10-13 19:56:01",
+        "last_seen": "2021-10-13 19:56:01",
+        "ip_address": "103.120.80.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.uykubu.com",
+        "count": "1",
+        "first_seen": "2021-10-13 19:56:01",
+        "last_seen": "2021-10-13 19:56:01",
+        "ip_address": "103.139.0.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.uykubu.com",
+        "count": "6",
+        "first_seen": "2023-03-10 20:55:27",
+        "last_seen": "2023-03-16 07:53:38",
+        "ip_address": "104.21.27.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.uykubu.com",
+        "count": "6",
+        "first_seen": "2023-03-10 20:55:27",
+        "last_seen": "2023-03-16 07:53:38",
+        "ip_address": "172.67.168.235",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.uykubu.com",
+        "count": "21",
+        "first_seen": "2022-07-23 21:31:42",
+        "last_seen": "2023-01-07 08:18:07",
+        "ip_address": "107.178.173.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.uykubu.com",
+        "count": "4",
+        "first_seen": "2021-09-29 02:13:58",
+        "last_seen": "2021-10-03 18:27:34",
+        "ip_address": "154.55.191.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.uykubu.com",
+        "count": "6",
+        "first_seen": "2020-10-22 12:06:23",
+        "last_seen": "2020-10-25 11:52:25",
+        "ip_address": "154.196.150.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.uykubu.com",
+        "count": "1",
+        "first_seen": "2020-12-11 11:51:28",
+        "last_seen": "2020-12-11 11:51:28",
+        "ip_address": "154.196.234.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.uykubu.com",
+        "count": "2",
+        "first_seen": "2021-05-18 05:44:17",
+        "last_seen": "2021-05-26 05:40:16",
+        "ip_address": "156.240.20.166",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.uykubu.com",
+        "count": "2",
+        "first_seen": "2022-06-09 09:11:46",
+        "last_seen": "2022-06-09 09:11:46",
+        "ip_address": "156.242.168.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.uykubu.com",
+        "count": "5",
+        "first_seen": "2022-05-22 13:46:30",
+        "last_seen": "2022-05-29 15:44:05",
+        "ip_address": "156.255.216.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.uykubu.com",
+        "count": "221",
+        "first_seen": "2023-03-21 12:48:28",
+        "last_seen": "2023-03-24 08:30:19",
+        "ip_address": "204.44.75.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.uykubu.com",
+        "count": "3",
+        "first_seen": "2023-03-10 20:55:27",
+        "last_seen": "2023-03-10 20:55:27",
+        "ip_address": "2606:4700:3031::6815:1b31",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.uykubu.com",
+        "count": "3",
+        "first_seen": "2023-03-10 20:55:27",
+        "last_seen": "2023-03-10 20:55:27",
+        "ip_address": "2606:4700:3037::ac43:a8eb",
+        "type": "IPv6"
+    }
+]

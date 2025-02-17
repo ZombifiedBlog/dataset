@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "my-jcb.dai53.com",
+        "count": "1",
+        "first_seen": "2022-06-14 22:17:43",
+        "last_seen": "2022-06-14 22:17:43",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.dai53.com",
+        "count": "28",
+        "first_seen": "2021-03-05 16:02:05",
+        "last_seen": "2021-03-06 01:08:36",
+        "ip_address": "104.21.25.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.dai53.com",
+        "count": "28",
+        "first_seen": "2021-03-05 16:02:05",
+        "last_seen": "2021-03-06 01:08:36",
+        "ip_address": "172.67.134.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.dai53.com",
+        "count": "7",
+        "first_seen": "2023-08-17 15:02:16",
+        "last_seen": "2024-01-04 19:39:48",
+        "ip_address": "154.206.138.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.dai53.com",
+        "count": "1",
+        "first_seen": "2022-06-14 22:17:43",
+        "last_seen": "2022-06-14 22:17:43",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.dai53.com",
+        "count": "3",
+        "first_seen": "2021-03-05 16:02:05",
+        "last_seen": "2021-03-12 20:28:56",
+        "ip_address": "2606:4700:3034::ac43:8650",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.dai53.com",
+        "count": "3",
+        "first_seen": "2021-03-05 16:02:05",
+        "last_seen": "2021-03-12 20:28:56",
+        "ip_address": "2606:4700:3035::6815:1992",
+        "type": "IPv6"
+    }
+]

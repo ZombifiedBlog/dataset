@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.jamesdey.com",
+        "count": "2225",
+        "first_seen": "2022-06-01 10:29:38",
+        "last_seen": "2022-06-27 06:41:49",
+        "ip_address": "149.57.218.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jamesdey.com",
+        "count": "2",
+        "first_seen": "2022-05-06 19:12:15",
+        "last_seen": "2022-05-06 19:12:15",
+        "ip_address": "156.225.32.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jamesdey.com",
+        "count": "2",
+        "first_seen": "2021-09-22 06:03:20",
+        "last_seen": "2021-09-22 06:03:20",
+        "ip_address": "156.240.16.156",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jamesdey.com",
+        "count": "5",
+        "first_seen": "2010-09-10 22:44:58",
+        "last_seen": "2010-12-28 19:35:05",
+        "ip_address": "193.227.106.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.jamesdey.com",
+        "count": "96",
+        "first_seen": "2011-01-28 06:45:30",
+        "last_seen": "2017-07-13 13:46:10",
+        "ip_address": "193.227.106.105",
+        "type": "IPv4"
+    }
+]

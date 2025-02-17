@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.wtdsf.com",
+        "count": "772",
+        "first_seen": "2014-01-24 22:06:46",
+        "last_seen": "2015-10-24 05:57:41",
+        "ip_address": "66.96.161.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wtdsf.com",
+        "count": "2",
+        "first_seen": "2017-02-12 08:41:45",
+        "last_seen": "2017-02-12 08:41:45",
+        "ip_address": "69.172.201.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wtdsf.com",
+        "count": "21",
+        "first_seen": "2017-04-02 12:42:10",
+        "last_seen": "2017-06-24 20:06:21",
+        "ip_address": "103.232.215.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wtdsf.com",
+        "count": "2",
+        "first_seen": "2018-03-25 21:13:08",
+        "last_seen": "2018-03-25 21:13:08",
+        "ip_address": "104.165.212.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wtdsf.com",
+        "count": "14",
+        "first_seen": "2018-01-07 09:11:03",
+        "last_seen": "2018-03-21 12:49:03",
+        "ip_address": "137.175.104.169",
+        "type": "IPv4"
+    }
+]

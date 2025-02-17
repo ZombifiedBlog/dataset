@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.planteenterprises.com",
+        "count": "4",
+        "first_seen": "2022-02-18 13:36:31",
+        "last_seen": "2022-02-18 13:40:41",
+        "ip_address": "45.195.52.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.planteenterprises.com",
+        "count": "8",
+        "first_seen": "2018-02-12 05:57:12",
+        "last_seen": "2018-03-02 10:11:35",
+        "ip_address": "74.220.199.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.planteenterprises.com",
+        "count": "2",
+        "first_seen": "2018-03-16 11:17:53",
+        "last_seen": "2018-03-16 11:17:53",
+        "ip_address": "91.195.240.108",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.planteenterprises.com",
+        "count": "2",
+        "first_seen": "2018-03-25 02:28:24",
+        "last_seen": "2018-03-25 02:28:24",
+        "ip_address": "91.195.240.115",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.planteenterprises.com",
+        "count": "2638",
+        "first_seen": "2022-10-11 13:02:41",
+        "last_seen": "2022-10-24 09:21:38",
+        "ip_address": "104.129.63.36",
+        "type": "IPv4"
+    }
+]

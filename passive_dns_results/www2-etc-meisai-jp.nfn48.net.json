@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www2-etc-meisai-jp.nfn48.net",
+        "count": "57",
+        "first_seen": "2022-01-04 15:27:37",
+        "last_seen": "2022-01-05 00:12:58",
+        "ip_address": "104.21.23.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-etc-meisai-jp.nfn48.net",
+        "count": "57",
+        "first_seen": "2022-01-04 15:27:37",
+        "last_seen": "2022-01-05 00:12:58",
+        "ip_address": "172.67.212.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-etc-meisai-jp.nfn48.net",
+        "count": "10",
+        "first_seen": "2022-01-04 15:32:42",
+        "last_seen": "2022-01-04 19:05:01",
+        "ip_address": "2606:4700:3031::ac43:d455",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www2-etc-meisai-jp.nfn48.net",
+        "count": "10",
+        "first_seen": "2022-01-04 15:32:42",
+        "last_seen": "2022-01-04 19:05:01",
+        "ip_address": "2606:4700:3032::6815:17a5",
+        "type": "IPv6"
+    }
+]

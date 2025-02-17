@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "information.tgjpl.com",
+        "count": "44",
+        "first_seen": "2020-08-02 17:15:29",
+        "last_seen": "2020-09-08 02:43:43",
+        "ip_address": "104.28.24.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "information.tgjpl.com",
+        "count": "44",
+        "first_seen": "2020-08-02 17:15:29",
+        "last_seen": "2020-09-08 02:43:43",
+        "ip_address": "104.28.25.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "information.tgjpl.com",
+        "count": "44",
+        "first_seen": "2020-08-02 17:15:29",
+        "last_seen": "2020-09-08 02:43:43",
+        "ip_address": "172.67.134.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "information.tgjpl.com",
+        "count": "26",
+        "first_seen": "2020-08-03 06:29:51",
+        "last_seen": "2020-08-04 04:30:32",
+        "ip_address": "2606:4700:3030::ac43:8669",
+        "type": "IPv6"
+    },
+    {
+        "domain": "information.tgjpl.com",
+        "count": "26",
+        "first_seen": "2020-08-03 06:29:51",
+        "last_seen": "2020-08-04 04:30:32",
+        "ip_address": "2606:4700:3032::681c:1966",
+        "type": "IPv6"
+    },
+    {
+        "domain": "information.tgjpl.com",
+        "count": "26",
+        "first_seen": "2020-08-03 06:29:51",
+        "last_seen": "2020-08-04 04:30:32",
+        "ip_address": "2606:4700:3036::681c:1866",
+        "type": "IPv6"
+    }
+]

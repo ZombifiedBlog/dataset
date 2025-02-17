@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "izq.827.show",
+        "count": "115",
+        "first_seen": "2019-10-27 15:46:00",
+        "last_seen": "2019-10-27 16:07:25",
+        "ip_address": "45.33.66.54",
+        "type": "IPv4"
+    },
+    {
+        "domain": "izq.827.show",
+        "count": "21",
+        "first_seen": "2019-10-27 16:10:12",
+        "last_seen": "2019-10-27 16:23:16",
+        "ip_address": "47.252.9.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "izq.827.show",
+        "count": "2",
+        "first_seen": "2020-07-04 11:58:27",
+        "last_seen": "2020-07-04 11:58:27",
+        "ip_address": "104.247.82.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "izq.827.show",
+        "count": "5",
+        "first_seen": "2020-11-01 06:25:11",
+        "last_seen": "2020-12-11 02:53:03",
+        "ip_address": "185.53.178.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "izq.827.show",
+        "count": "25",
+        "first_seen": "2019-12-30 19:34:17",
+        "last_seen": "2020-01-23 08:27:36",
+        "ip_address": "185.53.179.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "izq.827.show",
+        "count": "2",
+        "first_seen": "2020-03-12 23:52:57",
+        "last_seen": "2020-03-12 23:52:57",
+        "ip_address": "185.53.179.8",
+        "type": "IPv4"
+    }
+]

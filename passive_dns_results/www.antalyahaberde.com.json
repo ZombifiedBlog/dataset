@@ -1,0 +1,130 @@
+[
+    {
+        "domain": "www.antalyahaberde.com",
+        "count": "438",
+        "first_seen": "2023-02-16 00:59:35",
+        "last_seen": "2023-02-21 15:23:44",
+        "ip_address": "66.63.179.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.antalyahaberde.com",
+        "count": "5",
+        "first_seen": "2023-03-19 00:32:43",
+        "last_seen": "2023-03-31 05:46:37",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.antalyahaberde.com",
+        "count": "6",
+        "first_seen": "2021-06-21 19:34:57",
+        "last_seen": "2021-11-22 08:05:27",
+        "ip_address": "104.21.95.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.antalyahaberde.com",
+        "count": "6",
+        "first_seen": "2021-06-21 19:34:57",
+        "last_seen": "2021-11-22 08:05:27",
+        "ip_address": "172.67.142.252",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.antalyahaberde.com",
+        "count": "7",
+        "first_seen": "2019-12-09 12:35:20",
+        "last_seen": "2020-02-08 08:00:02",
+        "ip_address": "104.27.184.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.antalyahaberde.com",
+        "count": "7",
+        "first_seen": "2019-12-09 12:35:20",
+        "last_seen": "2020-02-08 08:00:02",
+        "ip_address": "104.27.185.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.antalyahaberde.com",
+        "count": "8",
+        "first_seen": "2020-07-09 08:57:56",
+        "last_seen": "2020-07-25 12:52:41",
+        "ip_address": "104.27.184.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.antalyahaberde.com",
+        "count": "8",
+        "first_seen": "2020-07-09 08:57:56",
+        "last_seen": "2020-07-25 12:52:41",
+        "ip_address": "104.27.185.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.antalyahaberde.com",
+        "count": "8",
+        "first_seen": "2020-07-09 08:57:56",
+        "last_seen": "2020-07-25 12:52:41",
+        "ip_address": "172.67.142.252",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.antalyahaberde.com",
+        "count": "2",
+        "first_seen": "2019-12-09 12:35:20",
+        "last_seen": "2019-12-09 12:36:33",
+        "ip_address": "2606:4700:30::681b:b850",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.antalyahaberde.com",
+        "count": "2",
+        "first_seen": "2019-12-09 12:35:20",
+        "last_seen": "2019-12-09 12:36:33",
+        "ip_address": "2606:4700:30::681b:b950",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.antalyahaberde.com",
+        "count": "5",
+        "first_seen": "2020-07-09 08:57:56",
+        "last_seen": "2020-07-23 11:07:58",
+        "ip_address": "2606:4700:3031::ac43:8efc",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.antalyahaberde.com",
+        "count": "5",
+        "first_seen": "2020-07-09 08:57:56",
+        "last_seen": "2020-07-23 11:07:58",
+        "ip_address": "2606:4700:3033::681b:b950",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.antalyahaberde.com",
+        "count": "5",
+        "first_seen": "2020-07-09 08:57:56",
+        "last_seen": "2020-07-23 11:07:58",
+        "ip_address": "2606:4700:3035::681b:b850",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.antalyahaberde.com",
+        "count": "1",
+        "first_seen": "2021-06-21 19:34:57",
+        "last_seen": "2021-06-21 19:34:57",
+        "ip_address": "2606:4700:3031::ac43:8efc",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.antalyahaberde.com",
+        "count": "1",
+        "first_seen": "2021-06-21 19:34:57",
+        "last_seen": "2021-06-21 19:34:57",
+        "ip_address": "2606:4700:3036::6815:5f2b",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "napikart.ru",
+        "count": "7170",
+        "first_seen": "2020-01-08 12:54:44",
+        "last_seen": "2024-01-17 12:42:22",
+        "ip_address": "81.177.135.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "napikart.ru",
+        "count": "7",
+        "first_seen": "2019-02-09 08:36:51",
+        "last_seen": "2019-02-09 14:31:53",
+        "ip_address": "81.177.139.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "napikart.ru",
+        "count": "4",
+        "first_seen": "2020-02-09 01:04:26",
+        "last_seen": "2020-02-09 09:37:24",
+        "ip_address": "194.58.56.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "napikart.ru",
+        "count": "6",
+        "first_seen": "2022-02-08 05:31:01",
+        "last_seen": "2023-02-08 05:58:52",
+        "ip_address": "194.67.71.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "napikart.ru",
+        "count": "2",
+        "first_seen": "2023-02-08 05:43:42",
+        "last_seen": "2023-02-08 05:43:43",
+        "ip_address": "194.67.71.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "napikart.ru",
+        "count": "1188",
+        "first_seen": "2019-02-10 18:37:47",
+        "last_seen": "2020-01-07 19:53:01",
+        "ip_address": "217.107.219.142",
+        "type": "IPv4"
+    },
+    {
+        "domain": "napikart.ru",
+        "count": "6",
+        "first_seen": "2020-02-09 01:04:27",
+        "last_seen": "2023-02-08 05:58:52",
+        "ip_address": "2a00:f940:4::10",
+        "type": "IPv6"
+    }
+]

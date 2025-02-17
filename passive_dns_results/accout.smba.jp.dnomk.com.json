@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "accout.smba.jp.dnomk.com",
+        "count": "160",
+        "first_seen": "2023-07-20 10:11:21",
+        "last_seen": "2023-09-26 14:59:35",
+        "ip_address": "47.245.33.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "accout.smba.jp.dnomk.com",
+        "count": "30",
+        "first_seen": "2023-07-14 05:35:54",
+        "last_seen": "2023-07-16 23:28:32",
+        "ip_address": "192.227.241.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "accout.smba.jp.dnomk.com",
+        "count": "7",
+        "first_seen": "2023-07-17 09:21:43",
+        "last_seen": "2023-07-20 03:25:00",
+        "ip_address": "209.141.33.133",
+        "type": "IPv4"
+    }
+]

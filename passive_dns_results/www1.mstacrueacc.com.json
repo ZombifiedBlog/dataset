@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "www1.mstacrueacc.com",
+        "count": "5",
+        "first_seen": "2023-04-03 07:01:11",
+        "last_seen": "2023-05-01 13:08:24",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www1.mstacrueacc.com",
+        "count": "109",
+        "first_seen": "2022-03-25 02:21:08",
+        "last_seen": "2023-02-02 06:38:19",
+        "ip_address": "107.172.76.170",
+        "type": "IPv4"
+    }
+]

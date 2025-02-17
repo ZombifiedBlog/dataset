@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "freeservice365.com",
+        "count": "20",
+        "first_seen": "2021-05-06 01:18:43",
+        "last_seen": "2021-06-12 20:01:34",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "freeservice365.com",
+        "count": "1420",
+        "first_seen": "2020-05-12 13:21:13",
+        "last_seen": "2021-04-30 12:58:08",
+        "ip_address": "103.13.140.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "freeservice365.com",
+        "count": "16",
+        "first_seen": "2020-05-08 23:34:50",
+        "last_seen": "2020-05-11 13:44:05",
+        "ip_address": "150.95.255.38",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www2.etc-meisai.autos",
+        "count": "418",
+        "first_seen": "2023-01-04 10:16:36",
+        "last_seen": "2023-03-06 06:37:15",
+        "ip_address": "104.21.89.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etc-meisai.autos",
+        "count": "418",
+        "first_seen": "2023-01-04 10:16:36",
+        "last_seen": "2023-03-06 06:37:15",
+        "ip_address": "172.67.156.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etc-meisai.autos",
+        "count": "38",
+        "first_seen": "2023-01-04 10:17:15",
+        "last_seen": "2023-03-06 05:55:11",
+        "ip_address": "2606:4700:3031::ac43:9ce5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www2.etc-meisai.autos",
+        "count": "38",
+        "first_seen": "2023-01-04 10:17:15",
+        "last_seen": "2023-03-06 05:55:11",
+        "ip_address": "2606:4700:3034::6815:5942",
+        "type": "IPv6"
+    }
+]

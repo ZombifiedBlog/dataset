@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "frank-web.net",
+        "count": "38549",
+        "first_seen": "2016-11-26 11:36:25",
+        "last_seen": "2024-01-17 23:53:20",
+        "ip_address": "52.35.48.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "frank-web.net",
+        "count": "1679",
+        "first_seen": "2010-07-27 18:04:33",
+        "last_seen": "2011-04-30 17:28:19",
+        "ip_address": "124.41.85.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "frank-web.net",
+        "count": "20",
+        "first_seen": "2011-05-01 16:58:46",
+        "last_seen": "2011-05-03 07:03:25",
+        "ip_address": "175.41.198.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "frank-web.net",
+        "count": "15487",
+        "first_seen": "2011-05-03 09:59:47",
+        "last_seen": "2016-11-26 08:08:21",
+        "ip_address": "175.41.241.97",
+        "type": "IPv4"
+    },
+    {
+        "domain": "frank-web.net",
+        "count": "1458",
+        "first_seen": "2010-07-28 10:26:40",
+        "last_seen": "2011-05-01 09:13:09",
+        "ip_address": "218.219.247.165",
+        "type": "IPv4"
+    }
+]

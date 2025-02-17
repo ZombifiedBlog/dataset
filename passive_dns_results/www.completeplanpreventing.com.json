@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.completeplanpreventing.com",
+        "count": "185",
+        "first_seen": "2020-03-04 16:10:45",
+        "last_seen": "2020-04-01 12:00:19",
+        "ip_address": "104.31.74.130",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.completeplanpreventing.com",
+        "count": "185",
+        "first_seen": "2020-03-04 16:10:45",
+        "last_seen": "2020-04-01 12:00:19",
+        "ip_address": "104.31.75.130",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.completeplanpreventing.com",
+        "count": "32",
+        "first_seen": "2020-04-03 06:50:30",
+        "last_seen": "2020-05-04 22:52:56",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.completeplanpreventing.com",
+        "count": "32",
+        "first_seen": "2020-04-03 06:50:30",
+        "last_seen": "2020-05-04 22:52:56",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.completeplanpreventing.com",
+        "count": "32",
+        "first_seen": "2020-04-03 06:50:30",
+        "last_seen": "2020-05-04 22:52:56",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.completeplanpreventing.com",
+        "count": "32",
+        "first_seen": "2020-04-03 06:50:30",
+        "last_seen": "2020-05-04 22:52:56",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.completeplanpreventing.com",
+        "count": "38",
+        "first_seen": "2020-03-04 16:10:46",
+        "last_seen": "2020-04-01 12:00:19",
+        "ip_address": "2606:4700:3036::681f:4a82",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.completeplanpreventing.com",
+        "count": "38",
+        "first_seen": "2020-03-04 16:10:46",
+        "last_seen": "2020-04-01 12:00:19",
+        "ip_address": "2606:4700:3037::681f:4b82",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "domain": "netstation2-aplus-co-jp.aplusrei.xyz",
+        "count": "28",
+        "first_seen": "2022-02-26 02:25:47",
+        "last_seen": "2022-02-26 22:29:16",
+        "ip_address": "104.21.31.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.aplusrei.xyz",
+        "count": "28",
+        "first_seen": "2022-02-26 02:25:47",
+        "last_seen": "2022-02-26 22:29:16",
+        "ip_address": "172.67.176.131",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.aplusrei.xyz",
+        "count": "2",
+        "first_seen": "2022-02-26 03:17:41",
+        "last_seen": "2022-02-26 03:17:41",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.aplusrei.xyz",
+        "count": "2",
+        "first_seen": "2022-02-26 03:17:41",
+        "last_seen": "2022-02-26 03:17:41",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.aplusrei.xyz",
+        "count": "2",
+        "first_seen": "2022-02-26 02:33:15",
+        "last_seen": "2022-02-26 03:42:18",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.aplusrei.xyz",
+        "count": "2",
+        "first_seen": "2022-02-26 02:33:15",
+        "last_seen": "2022-02-26 03:42:18",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.aplusrei.xyz",
+        "count": "2",
+        "first_seen": "2022-02-26 04:06:02",
+        "last_seen": "2022-02-26 09:41:55",
+        "ip_address": "188.114.96.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.aplusrei.xyz",
+        "count": "2",
+        "first_seen": "2022-02-26 04:06:02",
+        "last_seen": "2022-02-26 09:41:55",
+        "ip_address": "188.114.97.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.aplusrei.xyz",
+        "count": "14",
+        "first_seen": "2022-02-26 02:09:36",
+        "last_seen": "2022-02-26 03:28:01",
+        "ip_address": "188.114.96.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.aplusrei.xyz",
+        "count": "14",
+        "first_seen": "2022-02-26 02:09:36",
+        "last_seen": "2022-02-26 03:28:01",
+        "ip_address": "188.114.97.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.aplusrei.xyz",
+        "count": "1",
+        "first_seen": "2022-02-26 03:17:39",
+        "last_seen": "2022-02-26 03:17:39",
+        "ip_address": "2606:4700:3032::ac43:b083",
+        "type": "IPv6"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.aplusrei.xyz",
+        "count": "1",
+        "first_seen": "2022-02-26 03:17:39",
+        "last_seen": "2022-02-26 03:17:39",
+        "ip_address": "2606:4700:3034::6815:1f7c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.aplusrei.xyz",
+        "count": "1",
+        "first_seen": "2022-02-26 03:17:41",
+        "last_seen": "2022-02-26 03:17:41",
+        "ip_address": "2a06:98c1:3120::2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.aplusrei.xyz",
+        "count": "1",
+        "first_seen": "2022-02-26 03:17:41",
+        "last_seen": "2022-02-26 03:17:41",
+        "ip_address": "2a06:98c1:3121::2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.aplusrei.xyz",
+        "count": "1",
+        "first_seen": "2022-02-26 02:09:37",
+        "last_seen": "2022-02-26 02:09:37",
+        "ip_address": "2a06:98c1:3120::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.aplusrei.xyz",
+        "count": "1",
+        "first_seen": "2022-02-26 02:09:37",
+        "last_seen": "2022-02-26 02:09:37",
+        "ip_address": "2a06:98c1:3121::16",
+        "type": "IPv6"
+    }
+]

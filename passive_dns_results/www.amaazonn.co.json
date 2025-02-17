@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.amaazonn.co",
+        "count": "47",
+        "first_seen": "2023-08-12 12:06:57",
+        "last_seen": "2023-08-14 04:52:16",
+        "ip_address": "104.21.57.42",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amaazonn.co",
+        "count": "47",
+        "first_seen": "2023-08-12 12:06:57",
+        "last_seen": "2023-08-14 04:52:16",
+        "ip_address": "172.67.189.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amaazonn.co",
+        "count": "14",
+        "first_seen": "2023-07-21 23:22:56",
+        "last_seen": "2023-07-22 06:05:11",
+        "ip_address": "155.94.158.108",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amaazonn.co",
+        "count": "177",
+        "first_seen": "2023-07-24 13:02:52",
+        "last_seen": "2023-08-12 08:39:49",
+        "ip_address": "204.44.85.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amaazonn.co",
+        "count": "7",
+        "first_seen": "2023-08-12 17:42:45",
+        "last_seen": "2023-08-13 22:10:59",
+        "ip_address": "2606:4700:3035::6815:392a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.amaazonn.co",
+        "count": "7",
+        "first_seen": "2023-08-12 17:42:45",
+        "last_seen": "2023-08-13 22:10:59",
+        "ip_address": "2606:4700:3036::ac43:bd1f",
+        "type": "IPv6"
+    }
+]

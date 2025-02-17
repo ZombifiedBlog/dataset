@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "admin-ifon-iofn.xyz",
+        "count": "3",
+        "first_seen": "2020-11-15 03:39:23",
+        "last_seen": "2020-11-15 08:01:12",
+        "ip_address": "192.51.188.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "admin-ifon-iofn.xyz",
+        "count": "7",
+        "first_seen": "2020-11-16 15:19:05",
+        "last_seen": "2020-11-17 10:09:09",
+        "ip_address": "193.222.102.180",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "smcc-cacc.escang.com",
+        "count": "6",
+        "first_seen": "2023-05-22 12:06:28",
+        "last_seen": "2023-06-21 14:43:43",
+        "ip_address": "23.19.215.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.escang.com",
+        "count": "11",
+        "first_seen": "2023-08-08 12:45:49",
+        "last_seen": "2023-10-13 06:06:18",
+        "ip_address": "23.81.104.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.escang.com",
+        "count": "2",
+        "first_seen": "2023-07-08 08:50:36",
+        "last_seen": "2023-07-08 08:50:36",
+        "ip_address": "23.106.189.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.escang.com",
+        "count": "6",
+        "first_seen": "2023-12-06 22:31:09",
+        "last_seen": "2023-12-31 03:12:20",
+        "ip_address": "23.106.220.42",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.escang.com",
+        "count": "8",
+        "first_seen": "2020-10-27 16:18:24",
+        "last_seen": "2020-10-29 07:44:42",
+        "ip_address": "67.198.237.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.escang.com",
+        "count": "3",
+        "first_seen": "2022-02-01 09:24:16",
+        "last_seen": "2022-02-12 05:44:31",
+        "ip_address": "103.100.208.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.escang.com",
+        "count": "3",
+        "first_seen": "2022-02-01 09:24:16",
+        "last_seen": "2022-02-12 05:44:31",
+        "ip_address": "159.138.6.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.escang.com",
+        "count": "189",
+        "first_seen": "2020-10-25 05:12:20",
+        "last_seen": "2020-10-27 03:33:30",
+        "ip_address": "174.139.137.41",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.escang.com",
+        "count": "2",
+        "first_seen": "2023-04-15 17:15:15",
+        "last_seen": "2023-04-25 01:37:29",
+        "ip_address": "204.11.56.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.escang.com",
+        "count": "34",
+        "first_seen": "2020-10-31 13:05:59",
+        "last_seen": "2020-12-11 04:17:26",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.escang.com",
+        "count": "4",
+        "first_seen": "2020-11-02 23:33:45",
+        "last_seen": "2020-11-05 04:19:53",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.alpha-avto.ru",
+        "count": "129",
+        "first_seen": "2012-07-23 20:01:08",
+        "last_seen": "2013-07-07 12:03:17",
+        "ip_address": "77.222.40.42",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alpha-avto.ru",
+        "count": "298",
+        "first_seen": "2010-07-19 13:19:39",
+        "last_seen": "2012-07-03 21:35:45",
+        "ip_address": "77.222.40.47",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alpha-avto.ru",
+        "count": "23708",
+        "first_seen": "2013-07-11 12:04:22",
+        "last_seen": "2015-12-30 06:43:39",
+        "ip_address": "77.222.40.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alpha-avto.ru",
+        "count": "461364",
+        "first_seen": "2017-04-07 20:20:56",
+        "last_seen": "2024-01-18 12:54:39",
+        "ip_address": "77.222.40.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alpha-avto.ru",
+        "count": "16",
+        "first_seen": "2014-09-02 12:40:23",
+        "last_seen": "2014-09-11 04:06:30",
+        "ip_address": "77.222.51.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alpha-avto.ru",
+        "count": "56032",
+        "first_seen": "2015-12-30 07:00:39",
+        "last_seen": "2017-04-07 20:06:06",
+        "ip_address": "77.222.61.196",
+        "type": "IPv4"
+    }
+]

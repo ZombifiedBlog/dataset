@@ -1,0 +1,114 @@
+[
+    {
+        "domain": "www.elecuatoriano.com",
+        "count": "33386",
+        "first_seen": "2012-02-14 02:32:37",
+        "last_seen": "2018-08-06 14:41:46",
+        "ip_address": "82.165.39.41",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.elecuatoriano.com",
+        "count": "1",
+        "first_seen": "2013-11-06 18:50:47",
+        "last_seen": "2013-11-06 18:50:47",
+        "ip_address": "108.162.196.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.elecuatoriano.com",
+        "count": "1",
+        "first_seen": "2013-11-06 18:50:47",
+        "last_seen": "2013-11-06 18:50:47",
+        "ip_address": "108.162.197.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.elecuatoriano.com",
+        "count": "271",
+        "first_seen": "2013-06-06 23:52:56",
+        "last_seen": "2013-06-13 09:24:39",
+        "ip_address": "108.162.203.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.elecuatoriano.com",
+        "count": "271",
+        "first_seen": "2013-06-06 23:52:56",
+        "last_seen": "2013-06-13 09:24:39",
+        "ip_address": "108.162.204.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.elecuatoriano.com",
+        "count": "2769",
+        "first_seen": "2013-11-07 02:32:00",
+        "last_seen": "2014-01-09 03:03:38",
+        "ip_address": "141.101.125.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.elecuatoriano.com",
+        "count": "2769",
+        "first_seen": "2013-11-07 02:32:00",
+        "last_seen": "2014-01-09 03:03:38",
+        "ip_address": "141.101.126.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.elecuatoriano.com",
+        "count": "1626",
+        "first_seen": "2014-01-09 23:55:03",
+        "last_seen": "2014-04-19 13:49:19",
+        "ip_address": "162.159.245.159",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.elecuatoriano.com",
+        "count": "1626",
+        "first_seen": "2014-01-09 23:55:03",
+        "last_seen": "2014-04-19 13:49:19",
+        "ip_address": "162.159.246.159",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.elecuatoriano.com",
+        "count": "7474",
+        "first_seen": "2018-08-07 02:00:35",
+        "last_seen": "2020-08-28 13:25:08",
+        "ip_address": "217.160.0.99",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.elecuatoriano.com",
+        "count": "181",
+        "first_seen": "2012-02-10 12:31:33",
+        "last_seen": "2012-02-14 01:49:07",
+        "ip_address": "217.160.31.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.elecuatoriano.com",
+        "count": "3024",
+        "first_seen": "2011-12-04 10:42:10",
+        "last_seen": "2012-02-10 10:02:09",
+        "ip_address": "217.160.124.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.elecuatoriano.com",
+        "count": "3",
+        "first_seen": "2014-03-31 18:23:15",
+        "last_seen": "2014-04-05 03:40:17",
+        "ip_address": "2400:cb00:2048:1::a29f:f59f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.elecuatoriano.com",
+        "count": "3",
+        "first_seen": "2014-03-31 18:23:15",
+        "last_seen": "2014-04-05 03:40:17",
+        "ip_address": "2400:cb00:2048:1::a29f:f69f",
+        "type": "IPv6"
+    }
+]

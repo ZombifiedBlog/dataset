@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.ssmd-cced.caoscod.com",
+        "count": "79",
+        "first_seen": "2021-09-18 01:54:12",
+        "last_seen": "2022-08-24 13:21:46",
+        "ip_address": "137.184.75.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ssmd-cced.caoscod.com",
+        "count": "191",
+        "first_seen": "2021-09-16 21:37:19",
+        "last_seen": "2021-09-18 01:15:08",
+        "ip_address": "154.30.197.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ssmd-cced.caoscod.com",
+        "count": "4",
+        "first_seen": "2022-09-17 10:26:38",
+        "last_seen": "2022-10-18 07:59:05",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ssmd-cced.caoscod.com",
+        "count": "4",
+        "first_seen": "2022-09-17 10:26:38",
+        "last_seen": "2022-09-17 11:28:03",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ssmd-cced.caoscod.com",
+        "count": "3",
+        "first_seen": "2022-09-17 23:00:28",
+        "last_seen": "2022-10-18 07:59:05",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

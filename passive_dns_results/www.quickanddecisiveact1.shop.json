@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.quickanddecisiveact1.shop",
+        "count": "1173",
+        "first_seen": "2021-12-29 16:35:15",
+        "last_seen": "2022-05-26 22:32:03",
+        "ip_address": "104.21.74.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.quickanddecisiveact1.shop",
+        "count": "1173",
+        "first_seen": "2021-12-29 16:35:15",
+        "last_seen": "2022-05-26 22:32:03",
+        "ip_address": "172.67.159.97",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.quickanddecisiveact1.shop",
+        "count": "1",
+        "first_seen": "2021-12-31 05:58:19",
+        "last_seen": "2021-12-31 05:58:19",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.quickanddecisiveact1.shop",
+        "count": "1",
+        "first_seen": "2021-12-31 05:58:15",
+        "last_seen": "2021-12-31 05:58:15",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.quickanddecisiveact1.shop",
+        "count": "639",
+        "first_seen": "2021-12-29 16:36:46",
+        "last_seen": "2022-04-26 15:26:13",
+        "ip_address": "2606:4700:3031::6815:4a93",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.quickanddecisiveact1.shop",
+        "count": "639",
+        "first_seen": "2021-12-29 16:36:46",
+        "last_seen": "2022-04-26 15:26:13",
+        "ip_address": "2606:4700:3036::ac43:9f61",
+        "type": "IPv6"
+    }
+]

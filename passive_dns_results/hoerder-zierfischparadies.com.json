@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "hoerder-zierfischparadies.com",
+        "count": "2278",
+        "first_seen": "2020-04-20 11:48:55",
+        "last_seen": "2024-01-11 13:07:07",
+        "ip_address": "217.160.0.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hoerder-zierfischparadies.com",
+        "count": "477",
+        "first_seen": "2020-04-27 11:33:02",
+        "last_seen": "2023-12-17 19:20:02",
+        "ip_address": "2001:8d8:100f:f000::213",
+        "type": "IPv6"
+    }
+]

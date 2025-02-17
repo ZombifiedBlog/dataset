@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscriber.qlyyyxq.top",
+        "count": "1",
+        "first_seen": "2023-07-04 03:11:00",
+        "last_seen": "2023-07-04 03:11:00",
+        "ip_address": "43.154.61.169",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.qlyyyxq.top",
+        "count": "10",
+        "first_seen": "2023-06-06 01:04:24",
+        "last_seen": "2023-06-10 09:54:35",
+        "ip_address": "49.51.77.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.qlyyyxq.top",
+        "count": "5",
+        "first_seen": "2023-06-29 10:42:56",
+        "last_seen": "2023-06-30 03:40:59",
+        "ip_address": "49.51.79.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.qlyyyxq.top",
+        "count": "9493",
+        "first_seen": "2023-02-02 18:17:23",
+        "last_seen": "2023-06-02 10:52:18",
+        "ip_address": "104.21.47.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.qlyyyxq.top",
+        "count": "9493",
+        "first_seen": "2023-02-02 18:17:23",
+        "last_seen": "2023-06-02 10:52:18",
+        "ip_address": "172.67.145.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.qlyyyxq.top",
+        "count": "286",
+        "first_seen": "2023-02-02 18:45:57",
+        "last_seen": "2023-05-27 18:29:20",
+        "ip_address": "2606:4700:3030::6815:2f56",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.qlyyyxq.top",
+        "count": "286",
+        "first_seen": "2023-02-02 18:45:57",
+        "last_seen": "2023-05-27 18:29:20",
+        "ip_address": "2606:4700:3037::ac43:91fb",
+        "type": "IPv6"
+    }
+]

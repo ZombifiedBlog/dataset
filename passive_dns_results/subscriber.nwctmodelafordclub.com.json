@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.nwctmodelafordclub.com",
+        "count": "400",
+        "first_seen": "2022-11-30 01:22:06",
+        "last_seen": "2023-01-02 09:27:33",
+        "ip_address": "104.21.10.181",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.nwctmodelafordclub.com",
+        "count": "400",
+        "first_seen": "2022-11-30 01:22:06",
+        "last_seen": "2023-01-02 09:27:33",
+        "ip_address": "172.67.190.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.nwctmodelafordclub.com",
+        "count": "67",
+        "first_seen": "2023-01-02 18:04:09",
+        "last_seen": "2023-02-11 01:37:04",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.nwctmodelafordclub.com",
+        "count": "1",
+        "first_seen": "2023-01-28 10:21:47",
+        "last_seen": "2023-01-28 10:21:47",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.nwctmodelafordclub.com",
+        "count": "16",
+        "first_seen": "2022-11-30 01:22:06",
+        "last_seen": "2023-01-01 13:26:42",
+        "ip_address": "2606:4700:3030::ac43:bec2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.nwctmodelafordclub.com",
+        "count": "16",
+        "first_seen": "2022-11-30 01:22:06",
+        "last_seen": "2023-01-01 13:26:42",
+        "ip_address": "2606:4700:3034::6815:ab5",
+        "type": "IPv6"
+    }
+]

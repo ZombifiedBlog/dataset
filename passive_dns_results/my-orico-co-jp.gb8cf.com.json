@@ -1,0 +1,114 @@
+[
+    {
+        "domain": "my-orico-co-jp.gb8cf.com",
+        "count": "400",
+        "first_seen": "2023-02-15 14:48:55",
+        "last_seen": "2023-03-15 01:50:50",
+        "ip_address": "104.21.66.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-orico-co-jp.gb8cf.com",
+        "count": "400",
+        "first_seen": "2023-02-15 14:48:55",
+        "last_seen": "2023-03-15 01:50:50",
+        "ip_address": "172.67.159.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-orico-co-jp.gb8cf.com",
+        "count": "12",
+        "first_seen": "2023-02-15 15:12:24",
+        "last_seen": "2023-02-15 18:21:34",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-orico-co-jp.gb8cf.com",
+        "count": "12",
+        "first_seen": "2023-02-15 15:12:24",
+        "last_seen": "2023-02-15 18:21:34",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-orico-co-jp.gb8cf.com",
+        "count": "9",
+        "first_seen": "2023-02-15 15:12:24",
+        "last_seen": "2023-02-15 18:15:45",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-orico-co-jp.gb8cf.com",
+        "count": "9",
+        "first_seen": "2023-02-15 15:12:24",
+        "last_seen": "2023-02-15 18:15:45",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-orico-co-jp.gb8cf.com",
+        "count": "8",
+        "first_seen": "2023-02-15 15:12:24",
+        "last_seen": "2023-02-15 18:15:45",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-orico-co-jp.gb8cf.com",
+        "count": "8",
+        "first_seen": "2023-02-15 15:12:24",
+        "last_seen": "2023-02-15 18:15:45",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-orico-co-jp.gb8cf.com",
+        "count": "2",
+        "first_seen": "2023-02-15 14:56:34",
+        "last_seen": "2023-02-15 14:56:34",
+        "ip_address": "188.114.96.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-orico-co-jp.gb8cf.com",
+        "count": "2",
+        "first_seen": "2023-02-15 14:56:34",
+        "last_seen": "2023-02-15 14:56:34",
+        "ip_address": "188.114.97.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-orico-co-jp.gb8cf.com",
+        "count": "12",
+        "first_seen": "2023-02-15 14:36:36",
+        "last_seen": "2023-02-15 17:58:39",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-orico-co-jp.gb8cf.com",
+        "count": "12",
+        "first_seen": "2023-02-15 14:36:36",
+        "last_seen": "2023-02-15 17:58:39",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-orico-co-jp.gb8cf.com",
+        "count": "1",
+        "first_seen": "2023-02-15 14:36:37",
+        "last_seen": "2023-02-15 14:36:37",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-orico-co-jp.gb8cf.com",
+        "count": "1",
+        "first_seen": "2023-02-15 14:36:37",
+        "last_seen": "2023-02-15 14:36:37",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "www.yldp.org",
+        "count": "4",
+        "first_seen": "2013-04-30 07:15:46",
+        "last_seen": "2013-05-22 16:12:34",
+        "ip_address": "54.228.201.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.yldp.org",
+        "count": "4",
+        "first_seen": "2013-04-30 07:15:46",
+        "last_seen": "2013-05-22 16:12:34",
+        "ip_address": "54.246.121.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.yldp.org",
+        "count": "4",
+        "first_seen": "2013-04-30 07:15:46",
+        "last_seen": "2013-05-22 16:12:34",
+        "ip_address": "54.247.69.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.yldp.org",
+        "count": "1",
+        "first_seen": "2013-03-19 01:18:03",
+        "last_seen": "2013-03-19 01:18:03",
+        "ip_address": "54.246.121.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.yldp.org",
+        "count": "1",
+        "first_seen": "2013-03-19 01:18:03",
+        "last_seen": "2013-03-19 01:18:03",
+        "ip_address": "54.246.122.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.yldp.org",
+        "count": "1",
+        "first_seen": "2013-03-19 01:18:03",
+        "last_seen": "2013-03-19 01:18:03",
+        "ip_address": "54.247.69.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.yldp.org",
+        "count": "8",
+        "first_seen": "2011-09-10 18:18:05",
+        "last_seen": "2012-02-28 06:49:48",
+        "ip_address": "89.20.93.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.yldp.org",
+        "count": "15",
+        "first_seen": "2023-08-18 01:01:44",
+        "last_seen": "2024-01-13 06:26:30",
+        "ip_address": "104.21.62.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.yldp.org",
+        "count": "15",
+        "first_seen": "2023-08-18 01:01:44",
+        "last_seen": "2024-01-13 06:26:30",
+        "ip_address": "172.67.223.133",
+        "type": "IPv4"
+    }
+]

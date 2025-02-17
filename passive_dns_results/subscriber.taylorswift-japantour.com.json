@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscriber.taylorswift-japantour.com",
+        "count": "17",
+        "first_seen": "2023-04-03 03:59:59",
+        "last_seen": "2024-01-12 00:16:11",
+        "ip_address": "103.224.182.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.taylorswift-japantour.com",
+        "count": "964",
+        "first_seen": "2022-11-30 01:44:39",
+        "last_seen": "2023-01-13 03:12:09",
+        "ip_address": "104.21.89.54",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.taylorswift-japantour.com",
+        "count": "964",
+        "first_seen": "2022-11-30 01:44:39",
+        "last_seen": "2023-01-13 03:12:09",
+        "ip_address": "172.67.188.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.taylorswift-japantour.com",
+        "count": "11",
+        "first_seen": "2023-01-16 11:44:00",
+        "last_seen": "2023-02-14 03:12:44",
+        "ip_address": "170.106.49.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.taylorswift-japantour.com",
+        "count": "1",
+        "first_seen": "2023-07-06 18:37:04",
+        "last_seen": "2023-07-06 18:37:04",
+        "ip_address": "103.224.182.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.taylorswift-japantour.com",
+        "count": "53",
+        "first_seen": "2022-12-01 01:28:24",
+        "last_seen": "2023-01-13 03:12:09",
+        "ip_address": "2606:4700:3033::6815:5936",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.taylorswift-japantour.com",
+        "count": "53",
+        "first_seen": "2022-12-01 01:28:24",
+        "last_seen": "2023-01-13 03:12:09",
+        "ip_address": "2606:4700:3037::ac43:bc23",
+        "type": "IPv6"
+    }
+]

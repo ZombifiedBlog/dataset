@@ -1,0 +1,122 @@
+[
+    {
+        "domain": "nolabrentd.xyz",
+        "count": "2",
+        "first_seen": "2019-09-03 13:44:54",
+        "last_seen": "2019-09-03 13:44:54",
+        "ip_address": "31.170.160.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nolabrentd.xyz",
+        "count": "135",
+        "first_seen": "2019-09-08 15:14:42",
+        "last_seen": "2020-05-24 02:41:51",
+        "ip_address": "104.28.28.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nolabrentd.xyz",
+        "count": "135",
+        "first_seen": "2019-09-08 15:14:42",
+        "last_seen": "2020-05-24 02:41:51",
+        "ip_address": "104.28.29.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nolabrentd.xyz",
+        "count": "54",
+        "first_seen": "2020-05-31 18:38:52",
+        "last_seen": "2020-08-30 10:41:36",
+        "ip_address": "104.28.28.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nolabrentd.xyz",
+        "count": "54",
+        "first_seen": "2020-05-31 18:38:52",
+        "last_seen": "2020-08-30 10:41:36",
+        "ip_address": "104.28.29.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nolabrentd.xyz",
+        "count": "54",
+        "first_seen": "2020-05-31 18:38:52",
+        "last_seen": "2020-08-30 10:41:36",
+        "ip_address": "172.67.166.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nolabrentd.xyz",
+        "count": "48",
+        "first_seen": "2020-11-07 18:27:36",
+        "last_seen": "2021-08-26 06:12:28",
+        "ip_address": "138.197.184.132",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nolabrentd.xyz",
+        "count": "1",
+        "first_seen": "2020-08-04 22:04:09",
+        "last_seen": "2020-08-04 22:04:09",
+        "ip_address": "172.64.95.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nolabrentd.xyz",
+        "count": "31",
+        "first_seen": "2019-11-06 20:22:04",
+        "last_seen": "2020-01-16 03:00:06",
+        "ip_address": "2606:4700:30::681c:1cdd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "nolabrentd.xyz",
+        "count": "31",
+        "first_seen": "2019-11-06 20:22:04",
+        "last_seen": "2020-01-16 03:00:06",
+        "ip_address": "2606:4700:30::681c:1ddd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "nolabrentd.xyz",
+        "count": "29",
+        "first_seen": "2020-01-19 23:04:05",
+        "last_seen": "2020-05-18 20:44:09",
+        "ip_address": "2606:4700:3031::681c:1ddd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "nolabrentd.xyz",
+        "count": "29",
+        "first_seen": "2020-01-19 23:04:05",
+        "last_seen": "2020-05-18 20:44:09",
+        "ip_address": "2606:4700:3035::681c:1cdd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "nolabrentd.xyz",
+        "count": "27",
+        "first_seen": "2020-06-06 04:55:33",
+        "last_seen": "2020-08-27 04:58:26",
+        "ip_address": "2606:4700:3031::681c:1ddd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "nolabrentd.xyz",
+        "count": "27",
+        "first_seen": "2020-06-06 04:55:33",
+        "last_seen": "2020-08-27 04:58:26",
+        "ip_address": "2606:4700:3035::681c:1cdd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "nolabrentd.xyz",
+        "count": "27",
+        "first_seen": "2020-06-06 04:55:33",
+        "last_seen": "2020-08-27 04:58:26",
+        "ip_address": "2606:4700:3035::ac43:a6aa",
+        "type": "IPv6"
+    }
+]

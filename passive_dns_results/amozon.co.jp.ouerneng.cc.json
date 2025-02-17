@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amozon.co.jp.ouerneng.cc",
+        "count": "6864",
+        "first_seen": "2022-09-05 07:31:46",
+        "last_seen": "2022-09-16 21:30:19",
+        "ip_address": "0.0.0.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amozon.co.jp.ouerneng.cc",
+        "count": "833",
+        "first_seen": "2022-08-31 16:01:55",
+        "last_seen": "2022-09-05 06:26:32",
+        "ip_address": "155.94.196.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amozon.co.jp.ouerneng.cc",
+        "count": "24",
+        "first_seen": "2022-09-05 08:43:51",
+        "last_seen": "2022-09-16 19:02:13",
+        "ip_address": "::",
+        "type": "IPv6"
+    }
+]

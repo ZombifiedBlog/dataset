@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "phacdochuabenh.com",
+        "count": "54",
+        "first_seen": "2019-05-16 15:53:17",
+        "last_seen": "2019-05-22 05:39:18",
+        "ip_address": "35.240.224.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "phacdochuabenh.com",
+        "count": "954",
+        "first_seen": "2018-07-30 17:13:21",
+        "last_seen": "2018-09-25 04:06:42",
+        "ip_address": "45.252.250.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "phacdochuabenh.com",
+        "count": "24734",
+        "first_seen": "2018-10-24 16:31:00",
+        "last_seen": "2022-01-02 15:18:06",
+        "ip_address": "103.221.220.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "phacdochuabenh.com",
+        "count": "2",
+        "first_seen": "2020-02-05 16:23:51",
+        "last_seen": "2020-02-05 16:23:51",
+        "ip_address": "103.221.220.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "phacdochuabenh.com",
+        "count": "464",
+        "first_seen": "2018-09-25 05:42:47",
+        "last_seen": "2018-10-24 15:22:40",
+        "ip_address": "103.221.220.64",
+        "type": "IPv4"
+    },
+    {
+        "domain": "phacdochuabenh.com",
+        "count": "14142",
+        "first_seen": "2022-01-02 17:43:25",
+        "last_seen": "2024-01-18 05:54:35",
+        "ip_address": "103.221.220.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "phacdochuabenh.com",
+        "count": "1492",
+        "first_seen": "2018-05-16 15:41:15",
+        "last_seen": "2018-07-30 14:28:03",
+        "ip_address": "103.221.222.112",
+        "type": "IPv4"
+    }
+]

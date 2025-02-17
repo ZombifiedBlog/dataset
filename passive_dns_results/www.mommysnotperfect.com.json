@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.mommysnotperfect.com",
+        "count": "53220",
+        "first_seen": "2016-02-10 14:36:29",
+        "last_seen": "2020-02-02 22:32:10",
+        "ip_address": "66.96.162.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mommysnotperfect.com",
+        "count": "29",
+        "first_seen": "2020-02-09 15:51:19",
+        "last_seen": "2020-03-05 18:53:33",
+        "ip_address": "209.99.64.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mommysnotperfect.com",
+        "count": "11",
+        "first_seen": "2020-02-21 14:11:34",
+        "last_seen": "2020-03-04 17:53:28",
+        "ip_address": "209.99.64.53",
+        "type": "IPv4"
+    }
+]

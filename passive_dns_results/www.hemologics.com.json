@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.hemologics.com",
+        "count": "14",
+        "first_seen": "2023-08-26 01:03:27",
+        "last_seen": "2023-08-27 12:42:23",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hemologics.com",
+        "count": "48",
+        "first_seen": "2023-10-22 05:06:13",
+        "last_seen": "2024-01-17 01:26:49",
+        "ip_address": "103.224.212.216",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hemologics.com",
+        "count": "23",
+        "first_seen": "2023-06-28 23:39:14",
+        "last_seen": "2023-09-24 05:17:34",
+        "ip_address": "103.224.212.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hemologics.com",
+        "count": "5",
+        "first_seen": "2023-08-27 12:42:02",
+        "last_seen": "2023-08-27 12:42:11",
+        "ip_address": "170.178.183.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hemologics.com",
+        "count": "128",
+        "first_seen": "2023-04-07 02:19:51",
+        "last_seen": "2023-04-07 13:28:30",
+        "ip_address": "204.44.93.80",
+        "type": "IPv4"
+    }
+]

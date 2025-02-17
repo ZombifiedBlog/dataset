@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "www.flitcharmbeam.us",
+        "count": "396",
+        "first_seen": "2023-07-25 21:56:41",
+        "last_seen": "2024-01-16 22:43:58",
+        "ip_address": "104.21.27.185",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.flitcharmbeam.us",
+        "count": "396",
+        "first_seen": "2023-07-25 21:56:41",
+        "last_seen": "2024-01-16 22:43:58",
+        "ip_address": "172.67.143.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.flitcharmbeam.us",
+        "count": "9",
+        "first_seen": "2023-07-25 21:56:39",
+        "last_seen": "2023-11-06 21:00:24",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.flitcharmbeam.us",
+        "count": "9",
+        "first_seen": "2023-07-25 21:56:39",
+        "last_seen": "2023-11-06 21:00:24",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.flitcharmbeam.us",
+        "count": "2",
+        "first_seen": "2023-07-25 21:58:50",
+        "last_seen": "2023-07-25 21:58:50",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.flitcharmbeam.us",
+        "count": "2",
+        "first_seen": "2023-07-25 21:58:50",
+        "last_seen": "2023-07-25 21:58:50",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.flitcharmbeam.us",
+        "count": "3",
+        "first_seen": "2023-07-25 21:57:36",
+        "last_seen": "2023-07-25 21:57:36",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.flitcharmbeam.us",
+        "count": "3",
+        "first_seen": "2023-07-25 21:57:36",
+        "last_seen": "2023-07-25 21:57:36",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.flitcharmbeam.us",
+        "count": "7",
+        "first_seen": "2023-07-25 22:14:01",
+        "last_seen": "2023-07-26 18:35:33",
+        "ip_address": "2606:4700:3034::ac43:8f71",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.flitcharmbeam.us",
+        "count": "7",
+        "first_seen": "2023-07-25 22:14:01",
+        "last_seen": "2023-07-26 18:35:33",
+        "ip_address": "2606:4700:3035::6815:1bb9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.flitcharmbeam.us",
+        "count": "2",
+        "first_seen": "2023-07-25 21:57:36",
+        "last_seen": "2023-07-25 21:57:36",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.flitcharmbeam.us",
+        "count": "2",
+        "first_seen": "2023-07-25 21:57:36",
+        "last_seen": "2023-07-25 21:57:36",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

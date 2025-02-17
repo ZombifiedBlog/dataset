@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.x.myjmseb.com",
+        "count": "172",
+        "first_seen": "2022-01-01 20:24:36",
+        "last_seen": "2022-01-04 09:13:41",
+        "ip_address": "172.245.94.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.x.myjmseb.com",
+        "count": "1",
+        "first_seen": "2023-02-08 13:33:54",
+        "last_seen": "2023-02-08 13:33:54",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.x.myjmseb.com",
+        "count": "1",
+        "first_seen": "2023-02-08 13:33:54",
+        "last_seen": "2023-02-08 13:33:54",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

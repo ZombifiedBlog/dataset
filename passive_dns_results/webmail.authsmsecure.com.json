@@ -1,0 +1,122 @@
+[
+    {
+        "domain": "webmail.authsmsecure.com",
+        "count": "29",
+        "first_seen": "2021-11-18 14:29:18",
+        "last_seen": "2021-12-06 17:39:51",
+        "ip_address": "31.22.7.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmail.authsmsecure.com",
+        "count": "517",
+        "first_seen": "2021-10-24 10:46:55",
+        "last_seen": "2021-11-04 08:48:32",
+        "ip_address": "51.255.26.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmail.authsmsecure.com",
+        "count": "4",
+        "first_seen": "2022-06-16 05:18:23",
+        "last_seen": "2022-06-16 05:18:23",
+        "ip_address": "62.77.153.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmail.authsmsecure.com",
+        "count": "3",
+        "first_seen": "2022-07-05 16:59:05",
+        "last_seen": "2022-07-16 00:47:39",
+        "ip_address": "62.77.153.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmail.authsmsecure.com",
+        "count": "2",
+        "first_seen": "2022-06-09 11:35:26",
+        "last_seen": "2022-06-09 11:35:26",
+        "ip_address": "67.222.24.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmail.authsmsecure.com",
+        "count": "42",
+        "first_seen": "2021-12-17 22:08:04",
+        "last_seen": "2022-06-01 12:12:27",
+        "ip_address": "79.133.41.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmail.authsmsecure.com",
+        "count": "59",
+        "first_seen": "2021-11-16 07:35:25",
+        "last_seen": "2021-11-18 09:28:26",
+        "ip_address": "85.92.70.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmail.authsmsecure.com",
+        "count": "731",
+        "first_seen": "2021-08-23 01:50:15",
+        "last_seen": "2021-09-11 11:23:12",
+        "ip_address": "87.117.239.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmail.authsmsecure.com",
+        "count": "1169",
+        "first_seen": "2021-09-11 16:14:50",
+        "last_seen": "2021-10-22 11:37:25",
+        "ip_address": "87.117.250.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmail.authsmsecure.com",
+        "count": "2",
+        "first_seen": "2021-10-23 21:18:17",
+        "last_seen": "2021-10-23 21:18:17",
+        "ip_address": "87.117.250.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmail.authsmsecure.com",
+        "count": "4",
+        "first_seen": "2022-08-07 15:33:23",
+        "last_seen": "2022-08-07 15:56:43",
+        "ip_address": "109.70.148.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmail.authsmsecure.com",
+        "count": "5",
+        "first_seen": "2021-11-18 12:16:32",
+        "last_seen": "2021-11-18 13:30:38",
+        "ip_address": "164.68.118.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmail.authsmsecure.com",
+        "count": "3",
+        "first_seen": "2021-11-18 10:27:10",
+        "last_seen": "2021-11-18 11:41:33",
+        "ip_address": "166.0.133.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmail.authsmsecure.com",
+        "count": "409",
+        "first_seen": "2021-11-02 18:07:50",
+        "last_seen": "2021-11-15 21:30:04",
+        "ip_address": "185.53.12.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmail.authsmsecure.com",
+        "count": "1",
+        "first_seen": "2022-07-05 17:01:05",
+        "last_seen": "2022-07-05 17:01:05",
+        "ip_address": "2a02:7b40:3e4d:998c::1",
+        "type": "IPv6"
+    }
+]

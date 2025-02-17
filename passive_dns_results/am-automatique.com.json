@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "am-automatique.com",
+        "count": "223",
+        "first_seen": "2020-01-11 21:49:02",
+        "last_seen": "2020-12-11 18:16:15",
+        "ip_address": "51.83.37.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "am-automatique.com",
+        "count": "104",
+        "first_seen": "2020-12-17 01:25:27",
+        "last_seen": "2021-08-23 02:24:47",
+        "ip_address": "51.178.64.41",
+        "type": "IPv4"
+    },
+    {
+        "domain": "am-automatique.com",
+        "count": "875",
+        "first_seen": "2021-08-25 05:59:13",
+        "last_seen": "2023-06-11 11:34:14",
+        "ip_address": "144.76.104.7",
+        "type": "IPv4"
+    }
+]

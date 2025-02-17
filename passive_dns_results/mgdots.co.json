@@ -1,0 +1,378 @@
+[
+    {
+        "domain": "mgdots.co",
+        "count": "12",
+        "first_seen": "2020-03-13 05:59:18",
+        "last_seen": "2020-03-13 05:59:21",
+        "ip_address": "23.228.97.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "604",
+        "first_seen": "2020-01-09 11:18:08",
+        "last_seen": "2020-02-05 00:04:42",
+        "ip_address": "23.228.97.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "311",
+        "first_seen": "2020-04-30 12:51:49",
+        "last_seen": "2020-05-16 07:34:31",
+        "ip_address": "23.247.70.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "188",
+        "first_seen": "2020-02-09 17:10:17",
+        "last_seen": "2020-03-11 01:13:36",
+        "ip_address": "23.247.93.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "4",
+        "first_seen": "2023-10-19 17:13:19",
+        "last_seen": "2023-10-19 17:54:33",
+        "ip_address": "103.224.182.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "8143",
+        "first_seen": "2023-10-19 18:49:32",
+        "last_seen": "2024-01-18 14:16:20",
+        "ip_address": "103.224.212.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "2",
+        "first_seen": "2020-02-06 12:18:00",
+        "last_seen": "2020-02-06 12:18:00",
+        "ip_address": "103.240.156.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "85730",
+        "first_seen": "2021-01-16 16:49:19",
+        "last_seen": "2023-06-19 01:29:52",
+        "ip_address": "104.21.27.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "85730",
+        "first_seen": "2021-01-16 16:49:19",
+        "last_seen": "2023-06-19 01:29:52",
+        "ip_address": "172.67.169.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "14261",
+        "first_seen": "2023-06-21 13:18:23",
+        "last_seen": "2023-08-13 22:37:07",
+        "ip_address": "104.21.32.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "14261",
+        "first_seen": "2023-06-21 13:18:23",
+        "last_seen": "2023-08-13 22:37:07",
+        "ip_address": "172.67.187.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "20",
+        "first_seen": "2020-11-28 19:10:32",
+        "last_seen": "2021-01-09 17:59:20",
+        "ip_address": "104.31.84.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "20",
+        "first_seen": "2020-11-28 19:10:32",
+        "last_seen": "2021-01-09 17:59:20",
+        "ip_address": "104.31.85.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "20",
+        "first_seen": "2020-11-28 19:10:32",
+        "last_seen": "2021-01-09 17:59:20",
+        "ip_address": "172.67.169.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "3620",
+        "first_seen": "2020-08-19 16:57:21",
+        "last_seen": "2020-09-11 05:16:35",
+        "ip_address": "104.148.72.98",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "6333",
+        "first_seen": "2020-09-11 05:26:17",
+        "last_seen": "2020-11-22 11:19:26",
+        "ip_address": "104.148.72.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "7",
+        "first_seen": "2020-04-08 07:11:25",
+        "last_seen": "2020-04-11 14:39:07",
+        "ip_address": "104.223.143.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "1111",
+        "first_seen": "2020-03-28 18:08:41",
+        "last_seen": "2020-04-05 08:48:23",
+        "ip_address": "104.223.170.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "3",
+        "first_seen": "2020-03-16 11:27:18",
+        "last_seen": "2020-03-16 18:10:48",
+        "ip_address": "104.223.170.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "127",
+        "first_seen": "2020-04-09 09:27:41",
+        "last_seen": "2020-04-29 08:48:04",
+        "ip_address": "107.179.33.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "5484",
+        "first_seen": "2020-05-16 19:43:45",
+        "last_seen": "2020-08-19 15:37:36",
+        "ip_address": "134.73.30.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "125",
+        "first_seen": "2020-03-19 06:59:34",
+        "last_seen": "2020-03-26 21:25:57",
+        "ip_address": "134.73.55.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "2",
+        "first_seen": "2022-05-16 18:55:13",
+        "last_seen": "2023-08-12 06:41:16",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "293",
+        "first_seen": "2023-06-26 17:12:54",
+        "last_seen": "2023-08-09 12:56:28",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "293",
+        "first_seen": "2023-06-26 17:12:54",
+        "last_seen": "2023-08-09 12:56:28",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "4",
+        "first_seen": "2023-06-28 18:22:17",
+        "last_seen": "2023-07-19 09:02:29",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "4",
+        "first_seen": "2023-06-28 18:22:17",
+        "last_seen": "2023-07-19 09:02:29",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "311",
+        "first_seen": "2023-06-22 08:02:00",
+        "last_seen": "2023-08-09 13:38:26",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "311",
+        "first_seen": "2023-06-22 08:02:00",
+        "last_seen": "2023-08-09 13:38:26",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "6",
+        "first_seen": "2023-06-24 15:25:14",
+        "last_seen": "2023-07-18 08:27:15",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "6",
+        "first_seen": "2023-06-24 15:25:14",
+        "last_seen": "2023-07-18 08:27:15",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "2",
+        "first_seen": "2023-07-01 08:36:20",
+        "last_seen": "2023-07-01 08:36:20",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "2",
+        "first_seen": "2023-07-01 08:36:20",
+        "last_seen": "2023-07-01 08:36:20",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "100",
+        "first_seen": "2023-06-22 18:54:16",
+        "last_seen": "2023-08-11 10:30:02",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "100",
+        "first_seen": "2023-06-22 18:54:16",
+        "last_seen": "2023-08-11 10:30:02",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "159",
+        "first_seen": "2022-03-10 17:00:43",
+        "last_seen": "2022-03-14 10:08:55",
+        "ip_address": "188.114.99.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "1",
+        "first_seen": "2022-05-16 18:55:14",
+        "last_seen": "2022-05-16 18:55:14",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "9",
+        "first_seen": "2020-11-23 00:01:51",
+        "last_seen": "2020-12-25 04:34:19",
+        "ip_address": "2606:4700:3030::ac43:a9be",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "9",
+        "first_seen": "2020-11-23 00:01:51",
+        "last_seen": "2020-12-25 04:34:19",
+        "ip_address": "2606:4700:3031::681f:55d4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "9",
+        "first_seen": "2020-11-23 00:01:51",
+        "last_seen": "2020-12-25 04:34:19",
+        "ip_address": "2606:4700:3032::681f:54d4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "4506",
+        "first_seen": "2021-02-02 12:09:40",
+        "last_seen": "2023-06-18 12:44:14",
+        "ip_address": "2606:4700:3030::ac43:a9be",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "4506",
+        "first_seen": "2021-02-02 12:09:40",
+        "last_seen": "2023-06-18 12:44:14",
+        "ip_address": "2606:4700:3035::6815:1bd2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "42",
+        "first_seen": "2023-06-21 13:18:23",
+        "last_seen": "2023-08-11 08:33:05",
+        "ip_address": "2606:4700:3032::6815:20d3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "42",
+        "first_seen": "2023-06-21 13:18:23",
+        "last_seen": "2023-08-11 08:33:05",
+        "ip_address": "2606:4700:3037::ac43:bb7b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "6",
+        "first_seen": "2023-06-30 08:34:35",
+        "last_seen": "2023-07-26 12:33:04",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "6",
+        "first_seen": "2023-06-30 08:34:35",
+        "last_seen": "2023-07-26 12:33:04",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mgdots.co",
+        "count": "1",
+        "first_seen": "2022-03-12 15:02:35",
+        "last_seen": "2022-03-12 15:02:35",
+        "ip_address": "2a06:98c1:3123:8000::",
+        "type": "IPv6"
+    }
+]

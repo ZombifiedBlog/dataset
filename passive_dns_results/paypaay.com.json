@@ -1,0 +1,106 @@
+[
+    {
+        "domain": "paypaay.com",
+        "count": "2",
+        "first_seen": "2018-06-21 15:19:50",
+        "last_seen": "2018-06-21 15:19:50",
+        "ip_address": "5.79.79.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "paypaay.com",
+        "count": "8",
+        "first_seen": "2021-02-26 10:24:16",
+        "last_seen": "2021-03-29 23:56:53",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "paypaay.com",
+        "count": "222",
+        "first_seen": "2020-04-16 05:11:40",
+        "last_seen": "2021-02-16 02:11:43",
+        "ip_address": "103.13.140.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "paypaay.com",
+        "count": "14",
+        "first_seen": "2023-05-20 20:37:15",
+        "last_seen": "2023-05-23 03:37:25",
+        "ip_address": "104.16.198.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "paypaay.com",
+        "count": "123",
+        "first_seen": "2023-05-23 03:45:55",
+        "last_seen": "2024-01-12 19:32:49",
+        "ip_address": "104.21.31.171",
+        "type": "IPv4"
+    },
+    {
+        "domain": "paypaay.com",
+        "count": "123",
+        "first_seen": "2023-05-23 03:45:55",
+        "last_seen": "2024-01-12 19:32:49",
+        "ip_address": "172.67.178.231",
+        "type": "IPv4"
+    },
+    {
+        "domain": "paypaay.com",
+        "count": "2",
+        "first_seen": "2018-06-23 19:13:50",
+        "last_seen": "2018-06-23 19:13:50",
+        "ip_address": "108.59.12.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "paypaay.com",
+        "count": "6",
+        "first_seen": "2017-05-04 04:24:46",
+        "last_seen": "2017-05-07 11:32:53",
+        "ip_address": "141.8.224.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "paypaay.com",
+        "count": "21",
+        "first_seen": "2020-02-19 16:23:47",
+        "last_seen": "2020-04-06 03:16:13",
+        "ip_address": "150.95.255.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "paypaay.com",
+        "count": "41",
+        "first_seen": "2023-05-23 16:05:43",
+        "last_seen": "2023-11-17 10:56:03",
+        "ip_address": "2606:4700:3030::6815:1fab",
+        "type": "IPv6"
+    },
+    {
+        "domain": "paypaay.com",
+        "count": "41",
+        "first_seen": "2023-05-23 16:05:43",
+        "last_seen": "2023-11-17 10:56:03",
+        "ip_address": "2606:4700:3032::ac43:b2e7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "paypaay.com",
+        "count": "2",
+        "first_seen": "2023-10-25 16:19:57",
+        "last_seen": "2023-10-25 16:19:57",
+        "ip_address": "2a06:98c1:3120::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "paypaay.com",
+        "count": "2",
+        "first_seen": "2023-10-25 16:19:57",
+        "last_seen": "2023-10-25 16:19:57",
+        "ip_address": "2a06:98c1:3121::",
+        "type": "IPv6"
+    }
+]

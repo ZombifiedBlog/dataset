@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "ro5ezy.top",
+        "count": "65",
+        "first_seen": "2022-12-11 09:36:56",
+        "last_seen": "2022-12-12 02:45:04",
+        "ip_address": "78.153.145.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ro5ezy.top",
+        "count": "18",
+        "first_seen": "2022-07-09 06:02:45",
+        "last_seen": "2022-07-18 01:11:00",
+        "ip_address": "103.120.80.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ro5ezy.top",
+        "count": "20",
+        "first_seen": "2022-11-18 14:47:49",
+        "last_seen": "2022-12-06 01:09:27",
+        "ip_address": "104.21.29.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ro5ezy.top",
+        "count": "20",
+        "first_seen": "2022-11-18 14:47:49",
+        "last_seen": "2022-12-06 01:09:27",
+        "ip_address": "172.67.149.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ro5ezy.top",
+        "count": "12",
+        "first_seen": "2022-11-18 14:51:31",
+        "last_seen": "2022-11-28 12:01:28",
+        "ip_address": "2606:4700:3030::6815:1da2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ro5ezy.top",
+        "count": "12",
+        "first_seen": "2022-11-18 14:51:31",
+        "last_seen": "2022-11-28 12:01:28",
+        "ip_address": "2606:4700:3036::ac43:9574",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.pareap.net",
+        "count": "53707",
+        "first_seen": "2017-06-29 03:06:35",
+        "last_seen": "2024-01-18 14:35:52",
+        "ip_address": "71.91.246.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.pareap.net",
+        "count": "1385",
+        "first_seen": "2017-05-19 23:27:34",
+        "last_seen": "2017-06-29 01:30:49",
+        "ip_address": "204.184.19.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.pareap.net",
+        "count": "3",
+        "first_seen": "2017-05-19 22:22:40",
+        "last_seen": "2017-05-19 22:52:21",
+        "ip_address": "208.91.197.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.pareap.net",
+        "count": "39",
+        "first_seen": "2019-07-09 08:28:37",
+        "last_seen": "2019-07-10 17:07:56",
+        "ip_address": "71.91.246.53",
+        "type": "IPv4"
+    }
+]

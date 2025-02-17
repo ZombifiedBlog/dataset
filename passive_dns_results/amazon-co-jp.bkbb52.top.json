@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "amazon-co-jp.bkbb52.top",
+        "count": "1",
+        "first_seen": "2022-03-28 09:13:45",
+        "last_seen": "2022-03-28 09:13:45",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-co-jp.bkbb52.top",
+        "count": "6",
+        "first_seen": "2023-08-22 20:26:06",
+        "last_seen": "2023-09-05 08:58:57",
+        "ip_address": "49.51.79.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-co-jp.bkbb52.top",
+        "count": "68",
+        "first_seen": "2021-05-11 15:27:09",
+        "last_seen": "2021-05-12 09:31:00",
+        "ip_address": "104.21.18.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-co-jp.bkbb52.top",
+        "count": "68",
+        "first_seen": "2021-05-11 15:27:09",
+        "last_seen": "2021-05-12 09:31:00",
+        "ip_address": "172.67.182.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-co-jp.bkbb52.top",
+        "count": "39",
+        "first_seen": "2022-10-11 09:36:01",
+        "last_seen": "2023-08-08 08:58:17",
+        "ip_address": "123.99.199.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-co-jp.bkbb52.top",
+        "count": "5",
+        "first_seen": "2021-05-11 15:27:10",
+        "last_seen": "2021-05-12 09:21:28",
+        "ip_address": "2606:4700:3032::6815:12a3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon-co-jp.bkbb52.top",
+        "count": "5",
+        "first_seen": "2021-05-11 15:27:10",
+        "last_seen": "2021-05-12 09:21:28",
+        "ip_address": "2606:4700:3036::ac43:b6bd",
+        "type": "IPv6"
+    }
+]

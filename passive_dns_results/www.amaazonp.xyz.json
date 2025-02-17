@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.amaazonp.xyz",
+        "count": "3",
+        "first_seen": "2020-10-27 19:00:37",
+        "last_seen": "2020-10-27 19:01:28",
+        "ip_address": "107.180.101.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amaazonp.xyz",
+        "count": "1",
+        "first_seen": "2020-10-26 20:04:49",
+        "last_seen": "2020-10-26 20:04:49",
+        "ip_address": "107.180.105.130",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amaazonp.xyz",
+        "count": "8",
+        "first_seen": "2020-10-27 23:57:16",
+        "last_seen": "2020-10-28 22:04:24",
+        "ip_address": "107.180.105.162",
+        "type": "IPv4"
+    }
+]

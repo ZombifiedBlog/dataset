@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "nobumi.net",
+        "count": "8",
+        "first_seen": "2016-03-22 11:37:02",
+        "last_seen": "2017-03-21 05:03:23",
+        "ip_address": "23.253.164.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nobumi.net",
+        "count": "8",
+        "first_seen": "2016-03-22 11:37:02",
+        "last_seen": "2017-03-21 05:03:23",
+        "ip_address": "192.64.147.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nobumi.net",
+        "count": "3",
+        "first_seen": "2018-03-20 11:20:20",
+        "last_seen": "2018-03-26 14:55:48",
+        "ip_address": "67.225.218.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nobumi.net",
+        "count": "24",
+        "first_seen": "2023-05-21 11:55:13",
+        "last_seen": "2024-01-02 20:32:34",
+        "ip_address": "133.130.34.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nobumi.net",
+        "count": "908",
+        "first_seen": "2019-06-24 18:24:20",
+        "last_seen": "2024-01-18 05:36:34",
+        "ip_address": "133.130.35.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nobumi.net",
+        "count": "535",
+        "first_seen": "2016-10-24 23:29:32",
+        "last_seen": "2019-06-23 00:38:23",
+        "ip_address": "163.44.191.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nobumi.net",
+        "count": "129",
+        "first_seen": "2012-11-19 06:37:15",
+        "last_seen": "2016-10-18 05:14:32",
+        "ip_address": "210.157.19.51",
+        "type": "IPv4"
+    }
+]

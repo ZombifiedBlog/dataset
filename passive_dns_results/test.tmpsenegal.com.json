@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "test.tmpsenegal.com",
+        "count": "4788",
+        "first_seen": "2020-01-18 21:17:42",
+        "last_seen": "2022-06-30 10:32:40",
+        "ip_address": "87.98.154.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "test.tmpsenegal.com",
+        "count": "1101",
+        "first_seen": "2020-01-18 21:16:38",
+        "last_seen": "2022-06-29 17:33:15",
+        "ip_address": "2001:41d0:301::26",
+        "type": "IPv6"
+    }
+]

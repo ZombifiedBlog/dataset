@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscribers.dpm877.icu",
+        "count": "21",
+        "first_seen": "2020-07-30 13:47:48",
+        "last_seen": "2020-07-31 19:44:05",
+        "ip_address": "104.27.142.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.dpm877.icu",
+        "count": "21",
+        "first_seen": "2020-07-30 13:47:48",
+        "last_seen": "2020-07-31 19:44:05",
+        "ip_address": "104.27.143.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.dpm877.icu",
+        "count": "21",
+        "first_seen": "2020-07-30 13:47:48",
+        "last_seen": "2020-07-31 19:44:05",
+        "ip_address": "172.67.171.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.dpm877.icu",
+        "count": "6",
+        "first_seen": "2020-07-30 13:47:48",
+        "last_seen": "2020-07-30 16:53:43",
+        "ip_address": "2606:4700:3030::681b:8fcf",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.dpm877.icu",
+        "count": "6",
+        "first_seen": "2020-07-30 13:47:48",
+        "last_seen": "2020-07-30 16:53:43",
+        "ip_address": "2606:4700:3033::ac43:ab94",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.dpm877.icu",
+        "count": "6",
+        "first_seen": "2020-07-30 13:47:48",
+        "last_seen": "2020-07-30 16:53:43",
+        "ip_address": "2606:4700:3036::681b:8ecf",
+        "type": "IPv6"
+    }
+]

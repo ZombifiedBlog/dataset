@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "kassas.gr",
+        "count": "148",
+        "first_seen": "2013-09-13 20:27:55",
+        "last_seen": "2014-12-01 08:13:37",
+        "ip_address": "37.61.233.106",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kassas.gr",
+        "count": "580",
+        "first_seen": "2014-12-07 14:12:32",
+        "last_seen": "2015-11-14 18:03:12",
+        "ip_address": "37.61.236.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kassas.gr",
+        "count": "426",
+        "first_seen": "2015-12-03 12:19:27",
+        "last_seen": "2016-12-23 03:23:27",
+        "ip_address": "51.254.32.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kassas.gr",
+        "count": "5",
+        "first_seen": "2018-01-30 14:07:12",
+        "last_seen": "2018-01-30 15:59:53",
+        "ip_address": "104.28.14.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kassas.gr",
+        "count": "5",
+        "first_seen": "2018-01-30 14:07:12",
+        "last_seen": "2018-01-30 15:59:53",
+        "ip_address": "104.28.15.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kassas.gr",
+        "count": "18",
+        "first_seen": "2015-11-19 13:24:40",
+        "last_seen": "2015-12-02 14:25:12",
+        "ip_address": "149.202.201.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kassas.gr",
+        "count": "17522",
+        "first_seen": "2016-12-28 16:15:36",
+        "last_seen": "2024-01-18 10:33:57",
+        "ip_address": "173.212.205.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kassas.gr",
+        "count": "2",
+        "first_seen": "2018-01-30 14:07:12",
+        "last_seen": "2018-01-30 14:07:12",
+        "ip_address": "2400:cb00:2048:1::681c:e59",
+        "type": "IPv6"
+    },
+    {
+        "domain": "kassas.gr",
+        "count": "2",
+        "first_seen": "2018-01-30 14:07:12",
+        "last_seen": "2018-01-30 14:07:12",
+        "ip_address": "2400:cb00:2048:1::681c:f59",
+        "type": "IPv6"
+    }
+]

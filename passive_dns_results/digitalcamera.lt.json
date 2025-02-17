@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "digitalcamera.lt",
+        "count": "2131",
+        "first_seen": "2013-08-15 12:39:02",
+        "last_seen": "2021-09-30 11:09:11",
+        "ip_address": "79.98.25.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "digitalcamera.lt",
+        "count": "627",
+        "first_seen": "2010-07-07 04:40:50",
+        "last_seen": "2010-11-04 18:54:50",
+        "ip_address": "79.98.28.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "digitalcamera.lt",
+        "count": "445",
+        "first_seen": "2014-06-12 07:17:09",
+        "last_seen": "2015-10-23 23:00:06",
+        "ip_address": "85.25.200.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "digitalcamera.lt",
+        "count": "277",
+        "first_seen": "2011-05-21 21:26:34",
+        "last_seen": "2011-11-19 21:17:26",
+        "ip_address": "184.172.142.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "digitalcamera.lt",
+        "count": "4378",
+        "first_seen": "2015-10-24 23:00:10",
+        "last_seen": "2017-10-23 18:01:24",
+        "ip_address": "185.53.169.69",
+        "type": "IPv4"
+    }
+]

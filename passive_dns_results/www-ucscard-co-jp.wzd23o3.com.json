@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www-ucscard-co-jp.wzd23o3.com",
+        "count": "20",
+        "first_seen": "2023-01-01 15:02:25",
+        "last_seen": "2023-01-02 01:49:18",
+        "ip_address": "104.21.73.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-ucscard-co-jp.wzd23o3.com",
+        "count": "20",
+        "first_seen": "2023-01-01 15:02:25",
+        "last_seen": "2023-01-02 01:49:18",
+        "ip_address": "172.67.151.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-ucscard-co-jp.wzd23o3.com",
+        "count": "16",
+        "first_seen": "2023-01-01 14:54:01",
+        "last_seen": "2023-01-01 22:57:25",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-ucscard-co-jp.wzd23o3.com",
+        "count": "16",
+        "first_seen": "2023-01-01 14:54:01",
+        "last_seen": "2023-01-01 22:57:25",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-ucscard-co-jp.wzd23o3.com",
+        "count": "1",
+        "first_seen": "2023-01-01 14:54:02",
+        "last_seen": "2023-01-01 14:54:02",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-ucscard-co-jp.wzd23o3.com",
+        "count": "1",
+        "first_seen": "2023-01-01 14:54:02",
+        "last_seen": "2023-01-01 14:54:02",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

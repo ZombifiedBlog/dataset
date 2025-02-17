@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "jcb-safty-center.yuecmjg.com",
+        "count": "96",
+        "first_seen": "2020-09-19 04:24:01",
+        "last_seen": "2020-09-20 10:00:37",
+        "ip_address": "104.24.114.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jcb-safty-center.yuecmjg.com",
+        "count": "96",
+        "first_seen": "2020-09-19 04:24:01",
+        "last_seen": "2020-09-20 10:00:37",
+        "ip_address": "104.24.115.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jcb-safty-center.yuecmjg.com",
+        "count": "96",
+        "first_seen": "2020-09-19 04:24:01",
+        "last_seen": "2020-09-20 10:00:37",
+        "ip_address": "172.67.146.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jcb-safty-center.yuecmjg.com",
+        "count": "12",
+        "first_seen": "2021-11-26 11:00:43",
+        "last_seen": "2021-11-26 11:02:13",
+        "ip_address": "173.231.14.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jcb-safty-center.yuecmjg.com",
+        "count": "38",
+        "first_seen": "2020-09-19 04:25:34",
+        "last_seen": "2020-09-20 07:28:28",
+        "ip_address": "2606:4700:3035::6818:7279",
+        "type": "IPv6"
+    },
+    {
+        "domain": "jcb-safty-center.yuecmjg.com",
+        "count": "38",
+        "first_seen": "2020-09-19 04:25:34",
+        "last_seen": "2020-09-20 07:28:28",
+        "ip_address": "2606:4700:3035::6818:7379",
+        "type": "IPv6"
+    },
+    {
+        "domain": "jcb-safty-center.yuecmjg.com",
+        "count": "38",
+        "first_seen": "2020-09-19 04:25:34",
+        "last_seen": "2020-09-20 07:28:28",
+        "ip_address": "2606:4700:3037::ac43:9256",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www_aeon_co_jp.dlnbhgo.cn",
+        "count": "21",
+        "first_seen": "2021-09-07 15:36:06",
+        "last_seen": "2021-09-08 02:44:41",
+        "ip_address": "104.21.73.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www_aeon_co_jp.dlnbhgo.cn",
+        "count": "21",
+        "first_seen": "2021-09-07 15:36:06",
+        "last_seen": "2021-09-08 02:44:41",
+        "ip_address": "172.67.189.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www_aeon_co_jp.dlnbhgo.cn",
+        "count": "1",
+        "first_seen": "2021-09-08 00:17:09",
+        "last_seen": "2021-09-08 00:17:09",
+        "ip_address": "2606:4700:3030::ac43:bd15",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www_aeon_co_jp.dlnbhgo.cn",
+        "count": "1",
+        "first_seen": "2021-09-08 00:17:09",
+        "last_seen": "2021-09-08 00:17:09",
+        "ip_address": "2606:4700:3031::6815:494e",
+        "type": "IPv6"
+    }
+]

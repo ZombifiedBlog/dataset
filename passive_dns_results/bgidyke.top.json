@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "bgidyke.top",
+        "count": "2",
+        "first_seen": "2019-11-08 11:25:11",
+        "last_seen": "2019-11-08 11:25:11",
+        "ip_address": "47.90.205.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bgidyke.top",
+        "count": "602",
+        "first_seen": "2019-11-09 05:55:46",
+        "last_seen": "2020-05-18 18:47:06",
+        "ip_address": "104.31.64.243",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bgidyke.top",
+        "count": "602",
+        "first_seen": "2019-11-09 05:55:46",
+        "last_seen": "2020-05-18 18:47:06",
+        "ip_address": "104.31.65.243",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bgidyke.top",
+        "count": "105",
+        "first_seen": "2019-11-09 05:54:50",
+        "last_seen": "2020-01-15 22:45:50",
+        "ip_address": "2606:4700:30::681f:40f3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "bgidyke.top",
+        "count": "105",
+        "first_seen": "2019-11-09 05:54:50",
+        "last_seen": "2020-01-15 22:45:50",
+        "ip_address": "2606:4700:30::681f:41f3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "bgidyke.top",
+        "count": "58",
+        "first_seen": "2020-01-16 23:27:22",
+        "last_seen": "2020-05-18 18:47:06",
+        "ip_address": "2606:4700:3030::681f:40f3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "bgidyke.top",
+        "count": "58",
+        "first_seen": "2020-01-16 23:27:22",
+        "last_seen": "2020-05-18 18:47:06",
+        "ip_address": "2606:4700:3037::681f:41f3",
+        "type": "IPv6"
+    }
+]

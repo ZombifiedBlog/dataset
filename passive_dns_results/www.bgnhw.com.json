@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.bgnhw.com",
+        "count": "8",
+        "first_seen": "2017-09-29 03:20:24",
+        "last_seen": "2017-10-24 12:21:01",
+        "ip_address": "43.252.231.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bgnhw.com",
+        "count": "9",
+        "first_seen": "2023-06-20 01:12:13",
+        "last_seen": "2023-08-25 03:44:15",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bgnhw.com",
+        "count": "20",
+        "first_seen": "2023-10-18 18:04:23",
+        "last_seen": "2024-01-15 18:57:55",
+        "ip_address": "103.224.212.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bgnhw.com",
+        "count": "533",
+        "first_seen": "2023-05-14 23:18:45",
+        "last_seen": "2023-09-12 19:02:11",
+        "ip_address": "103.224.212.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bgnhw.com",
+        "count": "1135",
+        "first_seen": "2023-03-02 20:40:51",
+        "last_seen": "2023-04-08 06:52:17",
+        "ip_address": "155.94.201.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bgnhw.com",
+        "count": "45",
+        "first_seen": "2020-01-17 02:30:31",
+        "last_seen": "2020-10-29 16:01:16",
+        "ip_address": "156.244.89.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bgnhw.com",
+        "count": "15",
+        "first_seen": "2023-06-20 01:12:01",
+        "last_seen": "2023-08-25 03:44:14",
+        "ip_address": "170.178.183.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bgnhw.com",
+        "count": "3",
+        "first_seen": "2023-06-20 01:12:25",
+        "last_seen": "2023-06-20 01:12:51",
+        "ip_address": "199.115.116.43",
+        "type": "IPv4"
+    }
+]

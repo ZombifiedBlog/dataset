@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www-aeon-co-jp.uxnhcb.shop",
+        "count": "22",
+        "first_seen": "2022-08-23 05:59:10",
+        "last_seen": "2022-08-23 09:54:28",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-aeon-co-jp.uxnhcb.shop",
+        "count": "116",
+        "first_seen": "2021-09-21 15:15:05",
+        "last_seen": "2021-09-27 07:04:35",
+        "ip_address": "104.21.63.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-aeon-co-jp.uxnhcb.shop",
+        "count": "116",
+        "first_seen": "2021-09-21 15:15:05",
+        "last_seen": "2021-09-27 07:04:35",
+        "ip_address": "172.67.143.243",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-aeon-co-jp.uxnhcb.shop",
+        "count": "24",
+        "first_seen": "2021-09-21 15:15:08",
+        "last_seen": "2021-09-22 12:57:22",
+        "ip_address": "2606:4700:3031::ac43:8ff3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-aeon-co-jp.uxnhcb.shop",
+        "count": "24",
+        "first_seen": "2021-09-21 15:15:08",
+        "last_seen": "2021-09-22 12:57:22",
+        "ip_address": "2606:4700:3032::6815:3f45",
+        "type": "IPv6"
+    }
+]

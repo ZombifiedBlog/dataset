@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.amazines.com",
+        "count": "93778",
+        "first_seen": "2018-07-11 08:30:51",
+        "last_seen": "2024-01-18 09:33:39",
+        "ip_address": "34.217.190.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazines.com",
+        "count": "529385",
+        "first_seen": "2011-08-19 20:20:10",
+        "last_seen": "2016-03-14 21:31:34",
+        "ip_address": "69.36.80.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazines.com",
+        "count": "69485",
+        "first_seen": "2011-03-14 19:22:08",
+        "last_seen": "2011-08-20 05:03:07",
+        "ip_address": "69.36.80.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazines.com",
+        "count": "69485",
+        "first_seen": "2011-03-14 19:22:08",
+        "last_seen": "2011-08-20 05:03:07",
+        "ip_address": "204.11.64.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazines.com",
+        "count": "259590",
+        "first_seen": "2010-06-24 05:46:28",
+        "last_seen": "2018-07-11 06:51:50",
+        "ip_address": "204.11.64.217",
+        "type": "IPv4"
+    }
+]

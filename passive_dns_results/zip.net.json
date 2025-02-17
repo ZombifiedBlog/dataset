@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "zip.net",
+        "count": "113610",
+        "first_seen": "2010-07-28 01:49:29",
+        "last_seen": "2012-09-20 08:29:26",
+        "ip_address": "200.147.3.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zip.net",
+        "count": "3719781",
+        "first_seen": "2012-09-20 08:43:00",
+        "last_seen": "2023-06-04 03:40:45",
+        "ip_address": "200.147.99.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zip.net",
+        "count": "13",
+        "first_seen": "2010-06-24 08:33:01",
+        "last_seen": "2010-07-25 15:58:30",
+        "ip_address": "200.221.8.150",
+        "type": "IPv4"
+    }
+]

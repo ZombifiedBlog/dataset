@@ -1,0 +1,186 @@
+[
+    {
+        "domain": "xx.lxvlv.net",
+        "count": "1",
+        "first_seen": "2023-08-06 04:22:56",
+        "last_seen": "2023-08-06 04:22:56",
+        "ip_address": "52.25.92.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xx.lxvlv.net",
+        "count": "1905",
+        "first_seen": "2022-08-16 00:52:14",
+        "last_seen": "2023-07-16 03:08:28",
+        "ip_address": "104.21.33.139",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xx.lxvlv.net",
+        "count": "1905",
+        "first_seen": "2022-08-16 00:52:14",
+        "last_seen": "2023-07-16 03:08:28",
+        "ip_address": "172.67.163.72",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xx.lxvlv.net",
+        "count": "1",
+        "first_seen": "2022-08-24 03:14:45",
+        "last_seen": "2022-08-24 03:14:45",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xx.lxvlv.net",
+        "count": "1",
+        "first_seen": "2022-08-24 03:14:45",
+        "last_seen": "2022-08-24 03:14:45",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xx.lxvlv.net",
+        "count": "6",
+        "first_seen": "2022-08-16 13:46:55",
+        "last_seen": "2022-08-22 04:17:17",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xx.lxvlv.net",
+        "count": "6",
+        "first_seen": "2022-08-16 13:46:55",
+        "last_seen": "2022-08-22 04:17:17",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xx.lxvlv.net",
+        "count": "59",
+        "first_seen": "2022-08-16 01:56:15",
+        "last_seen": "2023-07-14 11:11:58",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xx.lxvlv.net",
+        "count": "59",
+        "first_seen": "2022-08-16 01:56:15",
+        "last_seen": "2023-07-14 11:11:58",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xx.lxvlv.net",
+        "count": "1",
+        "first_seen": "2022-11-23 10:58:59",
+        "last_seen": "2022-11-23 10:58:59",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xx.lxvlv.net",
+        "count": "1",
+        "first_seen": "2022-11-23 10:58:59",
+        "last_seen": "2022-11-23 10:58:59",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xx.lxvlv.net",
+        "count": "3",
+        "first_seen": "2022-08-16 04:57:26",
+        "last_seen": "2022-08-22 00:14:16",
+        "ip_address": "188.114.96.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xx.lxvlv.net",
+        "count": "3",
+        "first_seen": "2022-08-16 04:57:26",
+        "last_seen": "2022-08-22 00:14:16",
+        "ip_address": "188.114.97.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xx.lxvlv.net",
+        "count": "9",
+        "first_seen": "2022-08-16 18:14:43",
+        "last_seen": "2022-08-25 01:15:21",
+        "ip_address": "188.114.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xx.lxvlv.net",
+        "count": "9",
+        "first_seen": "2022-08-16 18:14:43",
+        "last_seen": "2022-08-25 01:15:21",
+        "ip_address": "188.114.97.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xx.lxvlv.net",
+        "count": "872",
+        "first_seen": "2022-08-16 02:06:26",
+        "last_seen": "2022-08-25 00:59:59",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xx.lxvlv.net",
+        "count": "872",
+        "first_seen": "2022-08-16 02:06:26",
+        "last_seen": "2022-08-25 00:59:59",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xx.lxvlv.net",
+        "count": "13",
+        "first_seen": "2022-08-21 20:22:59",
+        "last_seen": "2023-07-14 12:49:36",
+        "ip_address": "2606:4700:3034::ac43:a348",
+        "type": "IPv6"
+    },
+    {
+        "domain": "xx.lxvlv.net",
+        "count": "13",
+        "first_seen": "2022-08-21 20:22:59",
+        "last_seen": "2023-07-14 12:49:36",
+        "ip_address": "2606:4700:3035::6815:218b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "xx.lxvlv.net",
+        "count": "2",
+        "first_seen": "2022-08-21 09:13:10",
+        "last_seen": "2022-08-23 10:14:44",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "xx.lxvlv.net",
+        "count": "2",
+        "first_seen": "2022-08-21 09:13:10",
+        "last_seen": "2022-08-23 10:14:44",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "xx.lxvlv.net",
+        "count": "330",
+        "first_seen": "2022-08-16 02:08:22",
+        "last_seen": "2022-08-25 00:59:59",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "xx.lxvlv.net",
+        "count": "330",
+        "first_seen": "2022-08-16 02:08:22",
+        "last_seen": "2022-08-25 00:59:59",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

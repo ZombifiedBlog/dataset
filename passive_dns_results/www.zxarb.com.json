@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.zxarb.com",
+        "count": "15",
+        "first_seen": "2021-05-11 01:11:29",
+        "last_seen": "2021-05-11 05:39:19",
+        "ip_address": "104.21.7.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zxarb.com",
+        "count": "15",
+        "first_seen": "2021-05-11 01:11:29",
+        "last_seen": "2021-05-11 05:39:19",
+        "ip_address": "172.67.155.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zxarb.com",
+        "count": "1382",
+        "first_seen": "2021-05-11 06:35:05",
+        "last_seen": "2022-03-24 01:31:41",
+        "ip_address": "198.144.154.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zxarb.com",
+        "count": "2",
+        "first_seen": "2021-05-11 03:05:20",
+        "last_seen": "2021-05-11 05:39:19",
+        "ip_address": "2606:4700:3034::6815:707",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zxarb.com",
+        "count": "2",
+        "first_seen": "2021-05-11 03:05:20",
+        "last_seen": "2021-05-11 05:39:19",
+        "ip_address": "2606:4700:3037::ac43:9b57",
+        "type": "IPv6"
+    }
+]

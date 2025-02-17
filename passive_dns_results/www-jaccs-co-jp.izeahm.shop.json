@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "www-jaccs-co-jp.izeahm.shop",
+        "count": "16",
+        "first_seen": "2021-07-12 18:26:06",
+        "last_seen": "2021-07-13 00:22:36",
+        "ip_address": "104.21.2.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.izeahm.shop",
+        "count": "16",
+        "first_seen": "2021-07-12 18:26:06",
+        "last_seen": "2021-07-13 00:22:36",
+        "ip_address": "172.67.129.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.izeahm.shop",
+        "count": "25",
+        "first_seen": "2021-07-13 01:37:55",
+        "last_seen": "2021-07-17 08:12:32",
+        "ip_address": "104.21.2.231",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.izeahm.shop",
+        "count": "25",
+        "first_seen": "2021-07-13 01:37:55",
+        "last_seen": "2021-07-17 08:12:32",
+        "ip_address": "172.67.129.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.izeahm.shop",
+        "count": "94",
+        "first_seen": "2021-07-12 14:36:21",
+        "last_seen": "2021-07-12 23:10:09",
+        "ip_address": "172.64.100.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.izeahm.shop",
+        "count": "94",
+        "first_seen": "2021-07-12 14:36:21",
+        "last_seen": "2021-07-12 23:10:09",
+        "ip_address": "172.64.101.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.izeahm.shop",
+        "count": "2",
+        "first_seen": "2021-07-12 20:20:46",
+        "last_seen": "2021-07-12 20:50:47",
+        "ip_address": "2606:4700:e0::ac40:6427",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.izeahm.shop",
+        "count": "2",
+        "first_seen": "2021-07-12 20:20:46",
+        "last_seen": "2021-07-12 20:50:47",
+        "ip_address": "2606:4700:e0::ac40:6527",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.izeahm.shop",
+        "count": "10",
+        "first_seen": "2021-07-13 03:50:27",
+        "last_seen": "2021-07-17 08:12:32",
+        "ip_address": "2606:4700:3031::6815:2e7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.izeahm.shop",
+        "count": "10",
+        "first_seen": "2021-07-13 03:50:27",
+        "last_seen": "2021-07-17 08:12:32",
+        "ip_address": "2606:4700:3031::ac43:81c9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.izeahm.shop",
+        "count": "1",
+        "first_seen": "2021-07-12 23:42:26",
+        "last_seen": "2021-07-12 23:42:26",
+        "ip_address": "2606:4700:3034::ac43:81c7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.izeahm.shop",
+        "count": "1",
+        "first_seen": "2021-07-12 23:42:26",
+        "last_seen": "2021-07-12 23:42:26",
+        "ip_address": "2606:4700:3037::6815:2e5",
+        "type": "IPv6"
+    }
+]

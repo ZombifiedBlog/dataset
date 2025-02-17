@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "smbc.jhtasia.com",
+        "count": "1672",
+        "first_seen": "2023-07-03 16:40:56",
+        "last_seen": "2023-08-13 07:20:42",
+        "ip_address": "47.87.144.156",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.jhtasia.com",
+        "count": "7",
+        "first_seen": "2023-12-17 04:17:19",
+        "last_seen": "2024-01-04 14:05:02",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.jhtasia.com",
+        "count": "150",
+        "first_seen": "2023-10-05 14:36:08",
+        "last_seen": "2024-01-18 08:51:24",
+        "ip_address": "103.224.212.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.jhtasia.com",
+        "count": "6",
+        "first_seen": "2023-09-28 03:56:36",
+        "last_seen": "2023-10-02 16:02:45",
+        "ip_address": "103.224.212.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.jhtasia.com",
+        "count": "2",
+        "first_seen": "2023-12-18 10:59:29",
+        "last_seen": "2023-12-18 10:59:29",
+        "ip_address": "170.178.183.18",
+        "type": "IPv4"
+    }
+]

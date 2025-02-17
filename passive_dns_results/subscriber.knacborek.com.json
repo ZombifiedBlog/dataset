@@ -1,0 +1,154 @@
+[
+    {
+        "domain": "subscriber.knacborek.com",
+        "count": "352",
+        "first_seen": "2022-11-29 19:14:08",
+        "last_seen": "2023-01-02 05:40:01",
+        "ip_address": "104.21.23.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.knacborek.com",
+        "count": "352",
+        "first_seen": "2022-11-29 19:14:08",
+        "last_seen": "2023-01-02 05:40:01",
+        "ip_address": "172.67.208.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.knacborek.com",
+        "count": "4",
+        "first_seen": "2022-11-30 10:44:00",
+        "last_seen": "2022-12-24 18:03:01",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.knacborek.com",
+        "count": "4",
+        "first_seen": "2022-11-30 10:44:00",
+        "last_seen": "2022-12-24 18:03:01",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.knacborek.com",
+        "count": "16",
+        "first_seen": "2022-12-01 12:56:16",
+        "last_seen": "2022-12-28 13:08:25",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.knacborek.com",
+        "count": "16",
+        "first_seen": "2022-12-01 12:56:16",
+        "last_seen": "2022-12-28 13:08:25",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.knacborek.com",
+        "count": "2",
+        "first_seen": "2022-12-25 03:49:48",
+        "last_seen": "2022-12-25 11:38:56",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.knacborek.com",
+        "count": "2",
+        "first_seen": "2022-12-25 03:49:48",
+        "last_seen": "2022-12-25 11:38:56",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.knacborek.com",
+        "count": "3",
+        "first_seen": "2022-12-24 06:19:37",
+        "last_seen": "2023-01-01 15:52:34",
+        "ip_address": "188.114.96.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.knacborek.com",
+        "count": "3",
+        "first_seen": "2022-12-24 06:19:37",
+        "last_seen": "2023-01-01 15:52:34",
+        "ip_address": "188.114.97.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.knacborek.com",
+        "count": "3",
+        "first_seen": "2022-12-27 08:08:17",
+        "last_seen": "2022-12-30 10:49:37",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.knacborek.com",
+        "count": "3",
+        "first_seen": "2022-12-27 08:08:17",
+        "last_seen": "2022-12-30 10:49:37",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.knacborek.com",
+        "count": "26",
+        "first_seen": "2023-01-03 10:28:22",
+        "last_seen": "2023-01-28 01:20:11",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.knacborek.com",
+        "count": "15",
+        "first_seen": "2022-12-01 19:09:33",
+        "last_seen": "2023-01-02 05:40:01",
+        "ip_address": "2606:4700:3033::ac43:d043",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.knacborek.com",
+        "count": "15",
+        "first_seen": "2022-12-01 19:09:33",
+        "last_seen": "2023-01-02 05:40:01",
+        "ip_address": "2606:4700:3036::6815:1709",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.knacborek.com",
+        "count": "5",
+        "first_seen": "2022-12-22 10:01:34",
+        "last_seen": "2022-12-24 22:14:13",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.knacborek.com",
+        "count": "5",
+        "first_seen": "2022-12-22 10:01:34",
+        "last_seen": "2022-12-24 22:14:13",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.knacborek.com",
+        "count": "1",
+        "first_seen": "2022-12-30 10:49:37",
+        "last_seen": "2022-12-30 10:49:37",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.knacborek.com",
+        "count": "1",
+        "first_seen": "2022-12-30 10:49:37",
+        "last_seen": "2022-12-30 10:49:37",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

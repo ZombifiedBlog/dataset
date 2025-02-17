@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "folifort.oomweb.com",
+        "count": "1",
+        "first_seen": "2022-11-05 10:03:35",
+        "last_seen": "2022-11-05 10:03:35",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "folifort.oomweb.com",
+        "count": "20",
+        "first_seen": "2022-07-28 02:34:50",
+        "last_seen": "2022-07-30 22:53:08",
+        "ip_address": "104.21.93.159",
+        "type": "IPv4"
+    },
+    {
+        "domain": "folifort.oomweb.com",
+        "count": "20",
+        "first_seen": "2022-07-28 02:34:50",
+        "last_seen": "2022-07-30 22:53:08",
+        "ip_address": "172.67.211.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "folifort.oomweb.com",
+        "count": "2",
+        "first_seen": "2022-07-28 02:39:18",
+        "last_seen": "2022-07-28 02:39:20",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "folifort.oomweb.com",
+        "count": "2",
+        "first_seen": "2022-07-28 02:39:18",
+        "last_seen": "2022-07-28 02:39:20",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "folifort.oomweb.com",
+        "count": "1",
+        "first_seen": "2022-07-30 22:53:08",
+        "last_seen": "2022-07-30 22:53:08",
+        "ip_address": "2606:4700:3030::6815:5d9f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "folifort.oomweb.com",
+        "count": "1",
+        "first_seen": "2022-07-30 22:53:08",
+        "last_seen": "2022-07-30 22:53:08",
+        "ip_address": "2606:4700:3036::ac43:d3bb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "folifort.oomweb.com",
+        "count": "1",
+        "first_seen": "2022-07-28 02:39:20",
+        "last_seen": "2022-07-28 02:39:20",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "folifort.oomweb.com",
+        "count": "1",
+        "first_seen": "2022-07-28 02:39:20",
+        "last_seen": "2022-07-28 02:39:20",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

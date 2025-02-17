@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "srnbc-cacd.slcgq.com",
+        "count": "323",
+        "first_seen": "2021-10-10 15:47:40",
+        "last_seen": "2021-10-11 00:51:06",
+        "ip_address": "45.207.55.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "srnbc-cacd.slcgq.com",
+        "count": "6",
+        "first_seen": "2022-09-22 11:27:24",
+        "last_seen": "2022-11-29 07:42:11",
+        "ip_address": "46.232.19.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "srnbc-cacd.slcgq.com",
+        "count": "5",
+        "first_seen": "2022-02-04 09:29:24",
+        "last_seen": "2022-02-28 03:20:29",
+        "ip_address": "46.232.113.42",
+        "type": "IPv4"
+    },
+    {
+        "domain": "srnbc-cacd.slcgq.com",
+        "count": "135",
+        "first_seen": "2022-03-09 13:21:29",
+        "last_seen": "2022-08-07 01:12:50",
+        "ip_address": "46.232.113.48",
+        "type": "IPv4"
+    }
+]

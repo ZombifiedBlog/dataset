@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "prime-amazon.ga",
+        "count": "13",
+        "first_seen": "2020-06-28 19:17:23",
+        "last_seen": "2020-06-29 12:11:03",
+        "ip_address": "104.24.116.166",
+        "type": "IPv4"
+    },
+    {
+        "domain": "prime-amazon.ga",
+        "count": "13",
+        "first_seen": "2020-06-28 19:17:23",
+        "last_seen": "2020-06-29 12:11:03",
+        "ip_address": "104.24.117.166",
+        "type": "IPv4"
+    },
+    {
+        "domain": "prime-amazon.ga",
+        "count": "13",
+        "first_seen": "2020-06-28 19:17:23",
+        "last_seen": "2020-06-29 12:11:03",
+        "ip_address": "172.67.149.181",
+        "type": "IPv4"
+    },
+    {
+        "domain": "prime-amazon.ga",
+        "count": "4",
+        "first_seen": "2020-06-28 18:59:00",
+        "last_seen": "2020-06-28 20:43:00",
+        "ip_address": "173.82.105.241",
+        "type": "IPv4"
+    },
+    {
+        "domain": "prime-amazon.ga",
+        "count": "6",
+        "first_seen": "2020-06-28 23:00:35",
+        "last_seen": "2020-06-29 12:11:03",
+        "ip_address": "2606:4700:3033::ac43:95b5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "prime-amazon.ga",
+        "count": "6",
+        "first_seen": "2020-06-28 23:00:35",
+        "last_seen": "2020-06-29 12:11:03",
+        "ip_address": "2606:4700:3035::6818:74a6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "prime-amazon.ga",
+        "count": "6",
+        "first_seen": "2020-06-28 23:00:35",
+        "last_seen": "2020-06-29 12:11:03",
+        "ip_address": "2606:4700:3036::6818:75a6",
+        "type": "IPv6"
+    }
+]

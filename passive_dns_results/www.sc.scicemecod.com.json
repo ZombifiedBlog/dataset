@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.sc.scicemecod.com",
+        "count": "2",
+        "first_seen": "2023-12-07 08:57:26",
+        "last_seen": "2023-12-07 08:57:26",
+        "ip_address": "23.82.12.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sc.scicemecod.com",
+        "count": "251",
+        "first_seen": "2022-01-15 19:24:44",
+        "last_seen": "2022-01-18 19:21:32",
+        "ip_address": "172.245.94.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sc.scicemecod.com",
+        "count": "1",
+        "first_seen": "2023-08-19 00:02:32",
+        "last_seen": "2023-08-19 00:02:32",
+        "ip_address": "199.59.243.224",
+        "type": "IPv4"
+    }
+]

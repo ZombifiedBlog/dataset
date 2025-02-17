@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.macauhub.com.mo",
+        "count": "2950",
+        "first_seen": "2017-04-05 02:09:28",
+        "last_seen": "2017-10-03 10:14:00",
+        "ip_address": "103.231.253.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.macauhub.com.mo",
+        "count": "16495",
+        "first_seen": "2017-10-03 17:44:32",
+        "last_seen": "2019-08-07 23:45:28",
+        "ip_address": "139.59.101.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.macauhub.com.mo",
+        "count": "9740",
+        "first_seen": "2010-06-24 14:48:26",
+        "last_seen": "2011-03-11 04:41:15",
+        "ip_address": "202.175.81.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.macauhub.com.mo",
+        "count": "21295",
+        "first_seen": "2016-02-24 16:53:04",
+        "last_seen": "2017-04-05 01:27:59",
+        "ip_address": "203.90.228.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.macauhub.com.mo",
+        "count": "8422",
+        "first_seen": "2019-07-01 16:58:10",
+        "last_seen": "2020-05-25 07:30:52",
+        "ip_address": "203.194.133.22",
+        "type": "IPv4"
+    }
+]

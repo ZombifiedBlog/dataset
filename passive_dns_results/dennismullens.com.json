@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "dennismullens.com",
+        "count": "12",
+        "first_seen": "2024-01-11 23:31:16",
+        "last_seen": "2024-01-17 23:01:53",
+        "ip_address": "50.6.160.91",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dennismullens.com",
+        "count": "1768",
+        "first_seen": "2011-07-12 00:37:24",
+        "last_seen": "2017-01-22 20:54:22",
+        "ip_address": "65.23.129.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dennismullens.com",
+        "count": "1226",
+        "first_seen": "2017-02-02 23:39:46",
+        "last_seen": "2019-12-27 12:12:07",
+        "ip_address": "65.23.156.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dennismullens.com",
+        "count": "55",
+        "first_seen": "2010-07-23 22:30:05",
+        "last_seen": "2010-12-25 14:28:09",
+        "ip_address": "72.249.108.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dennismullens.com",
+        "count": "4",
+        "first_seen": "2014-06-28 04:07:45",
+        "last_seen": "2014-06-30 15:20:03",
+        "ip_address": "74.117.222.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dennismullens.com",
+        "count": "2112",
+        "first_seen": "2019-12-29 13:40:34",
+        "last_seen": "2024-01-10 18:11:50",
+        "ip_address": "172.93.102.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dennismullens.com",
+        "count": "32",
+        "first_seen": "2011-01-21 04:52:01",
+        "last_seen": "2011-06-05 20:44:00",
+        "ip_address": "205.134.252.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dennismullens.com",
+        "count": "3",
+        "first_seen": "2014-06-28 04:07:45",
+        "last_seen": "2014-06-30 04:32:56",
+        "ip_address": "::ffff:74.117.222.24",
+        "type": "IPv6"
+    }
+]

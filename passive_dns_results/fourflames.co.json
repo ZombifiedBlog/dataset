@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "fourflames.co",
+        "count": "49",
+        "first_seen": "2021-01-16 13:36:41",
+        "last_seen": "2021-07-24 12:13:14",
+        "ip_address": "104.21.14.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fourflames.co",
+        "count": "49",
+        "first_seen": "2021-01-16 13:36:41",
+        "last_seen": "2021-07-24 12:13:14",
+        "ip_address": "172.67.158.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fourflames.co",
+        "count": "159",
+        "first_seen": "2018-11-09 15:39:13",
+        "last_seen": "2020-05-23 10:50:09",
+        "ip_address": "104.28.18.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fourflames.co",
+        "count": "159",
+        "first_seen": "2018-11-09 15:39:13",
+        "last_seen": "2020-05-23 10:50:09",
+        "ip_address": "104.28.19.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fourflames.co",
+        "count": "209",
+        "first_seen": "2020-05-30 10:36:30",
+        "last_seen": "2021-01-09 14:02:46",
+        "ip_address": "104.28.18.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fourflames.co",
+        "count": "209",
+        "first_seen": "2020-05-30 10:36:30",
+        "last_seen": "2021-01-09 14:02:46",
+        "ip_address": "104.28.19.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fourflames.co",
+        "count": "209",
+        "first_seen": "2020-05-30 10:36:30",
+        "last_seen": "2021-01-09 14:02:46",
+        "ip_address": "172.67.158.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fourflames.co",
+        "count": "2",
+        "first_seen": "2020-09-25 23:18:26",
+        "last_seen": "2020-09-25 23:18:26",
+        "ip_address": "172.64.93.240",
+        "type": "IPv4"
+    }
+]

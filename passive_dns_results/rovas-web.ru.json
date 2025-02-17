@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "rovas-web.ru",
+        "count": "21965",
+        "first_seen": "2013-06-02 12:10:18",
+        "last_seen": "2021-01-29 13:33:02",
+        "ip_address": "77.222.40.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rovas-web.ru",
+        "count": "98",
+        "first_seen": "2021-06-11 12:31:59",
+        "last_seen": "2021-10-08 03:04:25",
+        "ip_address": "77.222.40.64",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rovas-web.ru",
+        "count": "13",
+        "first_seen": "2021-01-31 12:46:23",
+        "last_seen": "2021-02-26 13:39:31",
+        "ip_address": "77.222.57.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rovas-web.ru",
+        "count": "43",
+        "first_seen": "2021-03-11 15:10:19",
+        "last_seen": "2021-06-07 19:10:39",
+        "ip_address": "77.222.61.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rovas-web.ru",
+        "count": "4",
+        "first_seen": "2021-10-09 03:57:54",
+        "last_seen": "2021-11-02 06:46:01",
+        "ip_address": "194.67.71.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rovas-web.ru",
+        "count": "13",
+        "first_seen": "2021-10-12 06:56:25",
+        "last_seen": "2021-11-02 05:01:45",
+        "ip_address": "194.67.71.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rovas-web.ru",
+        "count": "4",
+        "first_seen": "2021-11-01 22:55:57",
+        "last_seen": "2021-11-02 06:46:01",
+        "ip_address": "2a00:f940:4::10",
+        "type": "IPv6"
+    }
+]

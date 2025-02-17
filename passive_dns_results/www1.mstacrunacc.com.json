@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "www1.mstacrunacc.com",
+        "count": "5",
+        "first_seen": "2023-04-03 10:04:38",
+        "last_seen": "2023-04-24 10:12:32",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www1.mstacrunacc.com",
+        "count": "159",
+        "first_seen": "2022-03-25 02:21:08",
+        "last_seen": "2023-02-04 01:14:02",
+        "ip_address": "107.172.76.170",
+        "type": "IPv4"
+    }
+]

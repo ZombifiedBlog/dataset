@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "amazion.xyz",
+        "count": "338",
+        "first_seen": "2023-03-26 12:58:24",
+        "last_seen": "2024-01-18 14:03:45",
+        "ip_address": "3.64.163.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazion.xyz",
+        "count": "7",
+        "first_seen": "2023-02-05 00:57:46",
+        "last_seen": "2023-02-17 12:22:59",
+        "ip_address": "76.223.15.82",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazion.xyz",
+        "count": "145",
+        "first_seen": "2022-01-04 23:18:21",
+        "last_seen": "2023-02-01 10:14:43",
+        "ip_address": "104.21.14.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazion.xyz",
+        "count": "145",
+        "first_seen": "2022-01-04 23:18:21",
+        "last_seen": "2023-02-01 10:14:43",
+        "ip_address": "172.67.160.41",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazion.xyz",
+        "count": "151",
+        "first_seen": "2017-05-09 15:13:44",
+        "last_seen": "2017-06-28 21:53:10",
+        "ip_address": "107.161.189.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazion.xyz",
+        "count": "14",
+        "first_seen": "2020-08-24 08:00:53",
+        "last_seen": "2020-08-25 01:45:25",
+        "ip_address": "137.220.201.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazion.xyz",
+        "count": "3",
+        "first_seen": "2022-03-14 09:28:19",
+        "last_seen": "2022-03-14 09:28:20",
+        "ip_address": "188.114.98.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazion.xyz",
+        "count": "16",
+        "first_seen": "2017-06-29 10:19:18",
+        "last_seen": "2017-08-01 13:46:28",
+        "ip_address": "209.99.40.225",
+        "type": "IPv4"
+    }
+]

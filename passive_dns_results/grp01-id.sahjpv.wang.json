@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "grp01-id.sahjpv.wang",
+        "count": "6493",
+        "first_seen": "2020-11-10 18:45:43",
+        "last_seen": "2020-11-19 16:04:17",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grp01-id.sahjpv.wang",
+        "count": "65",
+        "first_seen": "2020-09-30 07:24:35",
+        "last_seen": "2020-10-03 03:33:15",
+        "ip_address": "104.27.164.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grp01-id.sahjpv.wang",
+        "count": "65",
+        "first_seen": "2020-09-30 07:24:35",
+        "last_seen": "2020-10-03 03:33:15",
+        "ip_address": "104.27.165.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grp01-id.sahjpv.wang",
+        "count": "65",
+        "first_seen": "2020-09-30 07:24:35",
+        "last_seen": "2020-10-03 03:33:15",
+        "ip_address": "172.67.214.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grp01-id.sahjpv.wang",
+        "count": "2",
+        "first_seen": "2020-10-02 19:10:17",
+        "last_seen": "2020-10-02 19:10:17",
+        "ip_address": "172.64.87.179",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grp01-id.sahjpv.wang",
+        "count": "8",
+        "first_seen": "2020-09-30 07:24:35",
+        "last_seen": "2020-10-02 20:05:34",
+        "ip_address": "2606:4700:3032::681b:a428",
+        "type": "IPv6"
+    },
+    {
+        "domain": "grp01-id.sahjpv.wang",
+        "count": "8",
+        "first_seen": "2020-09-30 07:24:35",
+        "last_seen": "2020-10-02 20:05:34",
+        "ip_address": "2606:4700:3035::681b:a528",
+        "type": "IPv6"
+    },
+    {
+        "domain": "grp01-id.sahjpv.wang",
+        "count": "8",
+        "first_seen": "2020-09-30 07:24:35",
+        "last_seen": "2020-10-02 20:05:34",
+        "ip_address": "2606:4700:3036::ac43:d6cf",
+        "type": "IPv6"
+    }
+]

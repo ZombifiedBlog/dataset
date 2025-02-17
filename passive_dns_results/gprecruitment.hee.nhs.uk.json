@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "gprecruitment.hee.nhs.uk",
+        "count": "1062",
+        "first_seen": "2017-07-01 05:35:30",
+        "last_seen": "2018-12-07 19:37:07",
+        "ip_address": "51.140.191.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gprecruitment.hee.nhs.uk",
+        "count": "2246",
+        "first_seen": "2018-12-09 10:20:16",
+        "last_seen": "2020-08-04 16:40:59",
+        "ip_address": "51.140.244.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gprecruitment.hee.nhs.uk",
+        "count": "433",
+        "first_seen": "2016-05-16 16:28:33",
+        "last_seen": "2017-06-29 00:41:31",
+        "ip_address": "104.47.160.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gprecruitment.hee.nhs.uk",
+        "count": "27",
+        "first_seen": "2016-04-14 11:48:01",
+        "last_seen": "2016-05-14 22:59:22",
+        "ip_address": "109.203.102.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gprecruitment.hee.nhs.uk",
+        "count": "1112",
+        "first_seen": "2017-06-30 22:35:08",
+        "last_seen": "2018-12-05 19:00:19",
+        "ip_address": "51.140.191.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gprecruitment.hee.nhs.uk",
+        "count": "4105",
+        "first_seen": "2018-12-07 16:43:22",
+        "last_seen": "2022-07-19 15:52:01",
+        "ip_address": "51.140.244.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gprecruitment.hee.nhs.uk",
+        "count": "1300",
+        "first_seen": "2016-05-17 15:01:56",
+        "last_seen": "2017-06-30 11:41:54",
+        "ip_address": "104.47.160.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gprecruitment.hee.nhs.uk",
+        "count": "4622",
+        "first_seen": "2013-09-11 16:52:25",
+        "last_seen": "2016-05-16 00:29:00",
+        "ip_address": "109.203.102.94",
+        "type": "IPv4"
+    }
+]

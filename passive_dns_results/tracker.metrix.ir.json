@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "tracker.metrix.ir",
+        "count": "92499",
+        "first_seen": "2020-01-20 22:55:05",
+        "last_seen": "2020-08-22 14:51:54",
+        "ip_address": "45.94.255.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tracker.metrix.ir",
+        "count": "285",
+        "first_seen": "2020-08-22 14:55:18",
+        "last_seen": "2021-01-09 11:04:03",
+        "ip_address": "45.94.255.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tracker.metrix.ir",
+        "count": "86327",
+        "first_seen": "2020-04-29 05:37:30",
+        "last_seen": "2020-08-25 20:57:07",
+        "ip_address": "45.94.255.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tracker.metrix.ir",
+        "count": "22",
+        "first_seen": "2020-08-25 21:07:21",
+        "last_seen": "2020-08-25 22:39:11",
+        "ip_address": "45.94.255.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tracker.metrix.ir",
+        "count": "2",
+        "first_seen": "2020-08-25 22:44:14",
+        "last_seen": "2020-08-25 22:44:14",
+        "ip_address": "45.94.255.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tracker.metrix.ir",
+        "count": "62001",
+        "first_seen": "2020-08-25 22:48:25",
+        "last_seen": "2021-01-06 07:11:44",
+        "ip_address": "45.94.255.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tracker.metrix.ir",
+        "count": "15",
+        "first_seen": "2020-12-08 18:15:54",
+        "last_seen": "2021-08-30 13:14:07",
+        "ip_address": "77.238.121.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tracker.metrix.ir",
+        "count": "108584",
+        "first_seen": "2018-12-06 08:20:36",
+        "last_seen": "2020-01-01 15:12:40",
+        "ip_address": "185.105.185.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tracker.metrix.ir",
+        "count": "10104",
+        "first_seen": "2020-01-01 15:15:22",
+        "last_seen": "2020-01-20 23:06:44",
+        "ip_address": "185.105.185.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tracker.metrix.ir",
+        "count": "3",
+        "first_seen": "2020-01-01 11:54:14",
+        "last_seen": "2020-01-01 11:55:28",
+        "ip_address": "185.105.185.249",
+        "type": "IPv4"
+    }
+]

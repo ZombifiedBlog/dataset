@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "kpquw.com",
+        "count": "34",
+        "first_seen": "2023-12-29 17:09:14",
+        "last_seen": "2024-01-17 10:21:29",
+        "ip_address": "104.21.72.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kpquw.com",
+        "count": "34",
+        "first_seen": "2023-12-29 17:09:14",
+        "last_seen": "2024-01-17 10:21:29",
+        "ip_address": "172.67.175.244",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kpquw.com",
+        "count": "28",
+        "first_seen": "2023-10-28 06:03:05",
+        "last_seen": "2023-11-18 12:09:31",
+        "ip_address": "170.106.48.231",
+        "type": "IPv4"
+    },
+    {
+        "domain": "kpquw.com",
+        "count": "11",
+        "first_seen": "2023-12-29 17:10:49",
+        "last_seen": "2024-01-17 10:21:29",
+        "ip_address": "2606:4700:3030::ac43:aff4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "kpquw.com",
+        "count": "11",
+        "first_seen": "2023-12-29 17:10:49",
+        "last_seen": "2024-01-17 10:21:29",
+        "ip_address": "2606:4700:3034::6815:483e",
+        "type": "IPv6"
+    }
+]

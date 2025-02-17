@@ -1,0 +1,146 @@
+[
+    {
+        "domain": "r1fashion.com.br",
+        "count": "12",
+        "first_seen": "2022-09-11 23:37:28",
+        "last_seen": "2022-10-04 14:10:06",
+        "ip_address": "45.152.46.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r1fashion.com.br",
+        "count": "2",
+        "first_seen": "2022-10-07 20:07:36",
+        "last_seen": "2022-10-07 20:32:32",
+        "ip_address": "45.152.46.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r1fashion.com.br",
+        "count": "2",
+        "first_seen": "2022-10-07 20:07:36",
+        "last_seen": "2022-10-07 20:32:32",
+        "ip_address": "54.243.49.95",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r1fashion.com.br",
+        "count": "532",
+        "first_seen": "2022-10-08 15:56:25",
+        "last_seen": "2024-01-18 07:45:09",
+        "ip_address": "54.243.49.95",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r1fashion.com.br",
+        "count": "3",
+        "first_seen": "2022-09-02 19:27:28",
+        "last_seen": "2022-09-04 22:24:26",
+        "ip_address": "68.178.232.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r1fashion.com.br",
+        "count": "3",
+        "first_seen": "2022-09-02 19:27:28",
+        "last_seen": "2022-09-04 22:24:26",
+        "ip_address": "216.239.32.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r1fashion.com.br",
+        "count": "3",
+        "first_seen": "2022-09-02 19:27:28",
+        "last_seen": "2022-09-04 22:24:26",
+        "ip_address": "216.239.34.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r1fashion.com.br",
+        "count": "3",
+        "first_seen": "2022-09-02 19:27:28",
+        "last_seen": "2022-09-04 22:24:26",
+        "ip_address": "216.239.36.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r1fashion.com.br",
+        "count": "3",
+        "first_seen": "2022-09-02 19:27:28",
+        "last_seen": "2022-09-04 22:24:26",
+        "ip_address": "216.239.38.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r1fashion.com.br",
+        "count": "150",
+        "first_seen": "2022-03-30 03:35:24",
+        "last_seen": "2022-08-31 20:56:17",
+        "ip_address": "70.32.23.115",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r1fashion.com.br",
+        "count": "1997",
+        "first_seen": "2020-05-21 21:33:05",
+        "last_seen": "2022-03-27 03:37:25",
+        "ip_address": "75.98.175.95",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r1fashion.com.br",
+        "count": "1606",
+        "first_seen": "2017-10-30 13:04:01",
+        "last_seen": "2020-05-20 20:14:47",
+        "ip_address": "104.247.79.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r1fashion.com.br",
+        "count": "332",
+        "first_seen": "2012-10-14 21:50:03",
+        "last_seen": "2017-10-30 05:05:53",
+        "ip_address": "184.172.47.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "r1fashion.com.br",
+        "count": "2",
+        "first_seen": "2022-09-02 19:27:15",
+        "last_seen": "2022-09-04 07:29:17",
+        "ip_address": "2001:4860:4802:32::15",
+        "type": "IPv6"
+    },
+    {
+        "domain": "r1fashion.com.br",
+        "count": "2",
+        "first_seen": "2022-09-02 19:27:15",
+        "last_seen": "2022-09-04 07:29:17",
+        "ip_address": "2001:4860:4802:34::15",
+        "type": "IPv6"
+    },
+    {
+        "domain": "r1fashion.com.br",
+        "count": "2",
+        "first_seen": "2022-09-02 19:27:15",
+        "last_seen": "2022-09-04 07:29:17",
+        "ip_address": "2001:4860:4802:36::15",
+        "type": "IPv6"
+    },
+    {
+        "domain": "r1fashion.com.br",
+        "count": "2",
+        "first_seen": "2022-09-02 19:27:15",
+        "last_seen": "2022-09-04 07:29:17",
+        "ip_address": "2001:4860:4802:38::15",
+        "type": "IPv6"
+    },
+    {
+        "domain": "r1fashion.com.br",
+        "count": "1",
+        "first_seen": "2022-09-12 16:22:17",
+        "last_seen": "2022-09-12 16:22:17",
+        "ip_address": "2a02:4780:13:902:0:317b:8a58:1",
+        "type": "IPv6"
+    }
+]

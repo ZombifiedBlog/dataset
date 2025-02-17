@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "pelanduk.com.my",
+        "count": "144",
+        "first_seen": "2020-09-22 03:48:04",
+        "last_seen": "2024-01-05 05:28:21",
+        "ip_address": "103.233.0.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pelanduk.com.my",
+        "count": "255",
+        "first_seen": "2018-05-24 03:32:15",
+        "last_seen": "2019-08-15 03:29:42",
+        "ip_address": "202.75.56.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pelanduk.com.my",
+        "count": "10",
+        "first_seen": "2019-10-01 16:12:12",
+        "last_seen": "2020-02-14 23:53:05",
+        "ip_address": "220.158.201.110",
+        "type": "IPv4"
+    }
+]

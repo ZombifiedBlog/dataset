@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "my.infocert.it",
+        "count": "27538",
+        "first_seen": "2016-11-15 06:26:10",
+        "last_seen": "2024-01-18 02:54:01",
+        "ip_address": "185.102.40.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.infocert.it",
+        "count": "3",
+        "first_seen": "2016-07-23 19:17:09",
+        "last_seen": "2016-07-23 19:17:09",
+        "ip_address": "78.6.251.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.infocert.it",
+        "count": "1187",
+        "first_seen": "2016-03-17 14:03:43",
+        "last_seen": "2016-08-07 15:28:24",
+        "ip_address": "78.6.251.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.infocert.it",
+        "count": "1187",
+        "first_seen": "2016-03-17 14:03:43",
+        "last_seen": "2016-08-07 15:28:24",
+        "ip_address": "82.85.191.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my.infocert.it",
+        "count": "576",
+        "first_seen": "2016-08-11 15:10:29",
+        "last_seen": "2016-11-14 11:55:41",
+        "ip_address": "185.102.40.104",
+        "type": "IPv4"
+    }
+]

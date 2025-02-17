@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "rudew.xyz",
+        "count": "2",
+        "first_seen": "2017-05-23 20:16:13",
+        "last_seen": "2017-05-23 20:16:13",
+        "ip_address": "0.0.0.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rudew.xyz",
+        "count": "7",
+        "first_seen": "2021-10-17 18:47:53",
+        "last_seen": "2021-11-09 16:18:29",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rudew.xyz",
+        "count": "88",
+        "first_seen": "2016-07-30 08:42:43",
+        "last_seen": "2017-04-18 20:29:36",
+        "ip_address": "66.34.1.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rudew.xyz",
+        "count": "8",
+        "first_seen": "2020-10-04 17:16:51",
+        "last_seen": "2020-10-04 21:41:00",
+        "ip_address": "192.145.37.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rudew.xyz",
+        "count": "79",
+        "first_seen": "2020-10-05 00:30:06",
+        "last_seen": "2021-10-09 05:06:55",
+        "ip_address": "195.124.45.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rudew.xyz",
+        "count": "5",
+        "first_seen": "2017-06-13 16:49:46",
+        "last_seen": "2017-07-11 15:57:47",
+        "ip_address": "199.184.144.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rudew.xyz",
+        "count": "15",
+        "first_seen": "2017-04-23 09:50:49",
+        "last_seen": "2017-05-17 03:02:14",
+        "ip_address": "199.229.232.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rudew.xyz",
+        "count": "2",
+        "first_seen": "2017-06-04 23:25:40",
+        "last_seen": "2017-06-06 18:16:19",
+        "ip_address": "218.38.12.228",
+        "type": "IPv4"
+    }
+]

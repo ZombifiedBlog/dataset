@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "mobile.mag2.com",
+        "count": "87",
+        "first_seen": "2015-09-13 12:26:33",
+        "last_seen": "2015-09-16 17:44:54",
+        "ip_address": "52.69.205.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mobile.mag2.com",
+        "count": "20111",
+        "first_seen": "2015-09-16 19:10:06",
+        "last_seen": "2024-01-16 18:47:07",
+        "ip_address": "54.92.126.131",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mobile.mag2.com",
+        "count": "26371",
+        "first_seen": "2010-07-12 03:11:22",
+        "last_seen": "2015-09-13 11:46:06",
+        "ip_address": "122.218.160.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mobile.mag2.com",
+        "count": "26371",
+        "first_seen": "2010-07-12 03:11:22",
+        "last_seen": "2015-09-13 11:46:06",
+        "ip_address": "122.218.160.200",
+        "type": "IPv4"
+    }
+]

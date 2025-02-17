@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "point-navi.net",
+        "count": "7",
+        "first_seen": "2021-02-19 16:22:50",
+        "last_seen": "2021-03-25 13:10:37",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "point-navi.net",
+        "count": "2204",
+        "first_seen": "2020-02-19 22:56:43",
+        "last_seen": "2021-01-31 03:53:27",
+        "ip_address": "103.13.140.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "point-navi.net",
+        "count": "10",
+        "first_seen": "2015-04-08 02:47:24",
+        "last_seen": "2015-05-16 12:23:16",
+        "ip_address": "166.78.103.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "point-navi.net",
+        "count": "7",
+        "first_seen": "2010-10-23 02:38:11",
+        "last_seen": "2010-10-26 02:43:55",
+        "ip_address": "210.157.1.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "point-navi.net",
+        "count": "27",
+        "first_seen": "2012-06-08 21:59:52",
+        "last_seen": "2014-12-26 22:20:13",
+        "ip_address": "219.94.128.213",
+        "type": "IPv4"
+    }
+]

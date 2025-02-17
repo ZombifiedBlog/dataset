@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.gaomagg.top",
+        "count": "294",
+        "first_seen": "2023-03-05 07:41:51",
+        "last_seen": "2023-05-30 17:19:56",
+        "ip_address": "103.12.48.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gaomagg.top",
+        "count": "2541",
+        "first_seen": "2023-02-02 18:17:21",
+        "last_seen": "2023-03-05 12:09:43",
+        "ip_address": "104.21.6.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gaomagg.top",
+        "count": "2541",
+        "first_seen": "2023-02-02 18:17:21",
+        "last_seen": "2023-03-05 12:09:43",
+        "ip_address": "172.67.134.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.gaomagg.top",
+        "count": "105",
+        "first_seen": "2023-02-03 00:25:35",
+        "last_seen": "2023-03-05 01:04:34",
+        "ip_address": "2606:4700:3034::ac43:86d2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.gaomagg.top",
+        "count": "105",
+        "first_seen": "2023-02-03 00:25:35",
+        "last_seen": "2023-03-05 01:04:34",
+        "ip_address": "2606:4700:3035::6815:676",
+        "type": "IPv6"
+    }
+]

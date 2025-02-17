@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.borderairtraining.com",
+        "count": "526",
+        "first_seen": "2010-07-13 12:05:42",
+        "last_seen": "2012-08-17 15:47:14",
+        "ip_address": "66.96.146.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.borderairtraining.com",
+        "count": "5",
+        "first_seen": "2023-05-27 05:02:46",
+        "last_seen": "2023-06-11 03:22:26",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.borderairtraining.com",
+        "count": "746",
+        "first_seen": "2012-08-18 14:34:11",
+        "last_seen": "2021-12-07 01:08:18",
+        "ip_address": "79.170.40.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.borderairtraining.com",
+        "count": "1",
+        "first_seen": "2022-04-07 12:32:09",
+        "last_seen": "2022-04-07 12:32:09",
+        "ip_address": "109.68.33.64",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.borderairtraining.com",
+        "count": "32",
+        "first_seen": "2023-04-08 01:19:19",
+        "last_seen": "2023-04-08 06:23:51",
+        "ip_address": "204.44.93.80",
+        "type": "IPv4"
+    }
+]

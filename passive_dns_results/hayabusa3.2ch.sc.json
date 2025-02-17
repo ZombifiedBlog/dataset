@@ -1,0 +1,562 @@
+[
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "258850",
+        "first_seen": "2014-04-07 06:32:27",
+        "last_seen": "2015-02-13 11:10:12",
+        "ip_address": "68.168.97.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "163616",
+        "first_seen": "2015-10-28 21:15:09",
+        "last_seen": "2016-12-19 06:12:57",
+        "ip_address": "104.20.35.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "163616",
+        "first_seen": "2015-10-28 21:15:09",
+        "last_seen": "2016-12-19 06:12:57",
+        "ip_address": "104.20.36.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "372",
+        "first_seen": "2016-12-19 06:15:40",
+        "last_seen": "2016-12-20 15:51:03",
+        "ip_address": "104.20.50.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "372",
+        "first_seen": "2016-12-19 06:15:40",
+        "last_seen": "2016-12-20 15:51:03",
+        "ip_address": "104.20.56.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "2",
+        "first_seen": "2019-07-15 06:32:09",
+        "last_seen": "2019-07-15 10:17:00",
+        "ip_address": "104.20.136.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "185361",
+        "first_seen": "2016-12-20 15:58:03",
+        "last_seen": "2020-03-25 23:15:01",
+        "ip_address": "104.20.136.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "185361",
+        "first_seen": "2016-12-20 15:58:03",
+        "last_seen": "2020-03-25 23:15:01",
+        "ip_address": "104.20.137.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "6",
+        "first_seen": "2019-07-15 02:04:01",
+        "last_seen": "2019-07-15 16:58:07",
+        "ip_address": "104.20.137.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "15972",
+        "first_seen": "2020-03-26 01:07:52",
+        "last_seen": "2020-06-03 20:24:38",
+        "ip_address": "104.22.10.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "15972",
+        "first_seen": "2020-03-26 01:07:52",
+        "last_seen": "2020-06-03 20:24:38",
+        "ip_address": "104.22.11.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "119351",
+        "first_seen": "2020-06-03 21:29:24",
+        "last_seen": "2024-01-18 05:52:52",
+        "ip_address": "104.22.10.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "119351",
+        "first_seen": "2020-06-03 21:29:24",
+        "last_seen": "2024-01-18 05:52:52",
+        "ip_address": "104.22.11.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "119351",
+        "first_seen": "2020-06-03 21:29:24",
+        "last_seen": "2024-01-18 05:52:52",
+        "ip_address": "172.67.4.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "669",
+        "first_seen": "2022-04-01 00:38:43",
+        "last_seen": "2022-05-03 16:12:47",
+        "ip_address": "188.114.98.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "474",
+        "first_seen": "2022-05-03 20:05:05",
+        "last_seen": "2022-05-26 19:12:59",
+        "ip_address": "188.114.98.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "379",
+        "first_seen": "2022-05-26 22:56:01",
+        "last_seen": "2022-06-26 08:59:39",
+        "ip_address": "188.114.98.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "103",
+        "first_seen": "2022-07-28 01:31:18",
+        "last_seen": "2022-08-17 12:40:34",
+        "ip_address": "188.114.98.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "103",
+        "first_seen": "2022-07-28 01:31:18",
+        "last_seen": "2022-08-17 12:40:34",
+        "ip_address": "188.114.99.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "958",
+        "first_seen": "2022-08-17 17:20:27",
+        "last_seen": "2022-10-11 11:19:11",
+        "ip_address": "188.114.98.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "958",
+        "first_seen": "2022-08-17 17:20:27",
+        "last_seen": "2022-10-11 11:19:11",
+        "ip_address": "188.114.99.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "4580",
+        "first_seen": "2022-10-11 14:03:25",
+        "last_seen": "2023-11-22 05:40:49",
+        "ip_address": "188.114.98.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "4580",
+        "first_seen": "2022-10-11 14:03:25",
+        "last_seen": "2023-11-22 05:40:49",
+        "ip_address": "188.114.99.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "2674",
+        "first_seen": "2023-03-12 04:19:52",
+        "last_seen": "2024-01-18 06:42:00",
+        "ip_address": "188.114.98.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "2674",
+        "first_seen": "2023-03-12 04:19:52",
+        "last_seen": "2024-01-18 06:42:00",
+        "ip_address": "188.114.99.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "32",
+        "first_seen": "2023-07-12 01:36:34",
+        "last_seen": "2023-11-20 16:03:18",
+        "ip_address": "188.114.98.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "32",
+        "first_seen": "2023-07-12 01:36:34",
+        "last_seen": "2023-11-20 16:03:18",
+        "ip_address": "188.114.99.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "270",
+        "first_seen": "2022-03-11 02:37:17",
+        "last_seen": "2022-03-31 06:12:25",
+        "ip_address": "188.114.99.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "382",
+        "first_seen": "2022-06-28 03:33:24",
+        "last_seen": "2022-07-27 20:33:14",
+        "ip_address": "188.114.99.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "1",
+        "first_seen": "2022-07-12 12:48:32",
+        "last_seen": "2022-07-12 12:48:32",
+        "ip_address": "188.114.99.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "158542",
+        "first_seen": "2015-02-13 11:13:38",
+        "last_seen": "2015-10-28 21:10:45",
+        "ip_address": "198.41.186.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "158542",
+        "first_seen": "2015-02-13 11:13:38",
+        "last_seen": "2015-10-28 21:10:45",
+        "ip_address": "198.41.187.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "158542",
+        "first_seen": "2015-02-13 11:13:38",
+        "last_seen": "2015-10-28 21:10:45",
+        "ip_address": "198.41.188.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "158542",
+        "first_seen": "2015-02-13 11:13:38",
+        "last_seen": "2015-10-28 21:10:45",
+        "ip_address": "198.41.189.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "158542",
+        "first_seen": "2015-02-13 11:13:38",
+        "last_seen": "2015-10-28 21:10:45",
+        "ip_address": "198.41.190.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "61588",
+        "first_seen": "2015-10-28 21:15:09",
+        "last_seen": "2016-12-19 06:09:43",
+        "ip_address": "2400:cb00:2048:1::6814:234a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "61588",
+        "first_seen": "2015-10-28 21:15:09",
+        "last_seen": "2016-12-19 06:09:43",
+        "ip_address": "2400:cb00:2048:1::6814:244a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "121",
+        "first_seen": "2016-12-19 06:22:42",
+        "last_seen": "2016-12-20 15:39:58",
+        "ip_address": "2400:cb00:2048:1::6814:32a3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "121",
+        "first_seen": "2016-12-19 06:22:42",
+        "last_seen": "2016-12-20 15:39:58",
+        "ip_address": "2400:cb00:2048:1::6814:38a3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "45400",
+        "first_seen": "2016-12-20 15:58:30",
+        "last_seen": "2018-10-08 10:17:06",
+        "ip_address": "2400:cb00:2048:1::6814:8802",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "45400",
+        "first_seen": "2016-12-20 15:58:30",
+        "last_seen": "2018-10-08 10:17:06",
+        "ip_address": "2400:cb00:2048:1::6814:8902",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "9994",
+        "first_seen": "2015-02-13 12:28:17",
+        "last_seen": "2015-10-28 21:09:00",
+        "ip_address": "2400:cb00:2048:1::c629:baa5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "9994",
+        "first_seen": "2015-02-13 12:28:17",
+        "last_seen": "2015-10-28 21:09:00",
+        "ip_address": "2400:cb00:2048:1::c629:bba5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "9994",
+        "first_seen": "2015-02-13 12:28:17",
+        "last_seen": "2015-10-28 21:09:00",
+        "ip_address": "2400:cb00:2048:1::c629:bca5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "9994",
+        "first_seen": "2015-02-13 12:28:17",
+        "last_seen": "2015-10-28 21:09:00",
+        "ip_address": "2400:cb00:2048:1::c629:bda5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "9994",
+        "first_seen": "2015-02-13 12:28:17",
+        "last_seen": "2015-10-28 21:09:00",
+        "ip_address": "2400:cb00:2048:1::c629:bea5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "2",
+        "first_seen": "2019-07-15 14:15:47",
+        "last_seen": "2019-07-15 16:49:48",
+        "ip_address": "2606:4700:10::6814:8802",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "40814",
+        "first_seen": "2018-10-08 12:53:50",
+        "last_seen": "2020-03-25 23:15:01",
+        "ip_address": "2606:4700:10::6814:8802",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "40814",
+        "first_seen": "2018-10-08 12:53:50",
+        "last_seen": "2020-03-25 23:15:01",
+        "ip_address": "2606:4700:10::6814:8902",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "7",
+        "first_seen": "2019-07-14 17:22:16",
+        "last_seen": "2019-07-15 16:58:08",
+        "ip_address": "2606:4700:10::6814:8902",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "10344",
+        "first_seen": "2020-03-26 02:43:58",
+        "last_seen": "2020-06-03 20:12:17",
+        "ip_address": "2606:4700:10::6816:ad9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "10344",
+        "first_seen": "2020-03-26 02:43:58",
+        "last_seen": "2020-06-03 20:12:17",
+        "ip_address": "2606:4700:10::6816:bd9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "77895",
+        "first_seen": "2020-06-03 21:41:23",
+        "last_seen": "2024-01-18 10:52:45",
+        "ip_address": "2606:4700:10::6816:ad9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "77895",
+        "first_seen": "2020-06-03 21:41:23",
+        "last_seen": "2024-01-18 10:52:45",
+        "ip_address": "2606:4700:10::6816:bd9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "77895",
+        "first_seen": "2020-06-03 21:41:23",
+        "last_seen": "2024-01-18 10:52:45",
+        "ip_address": "2606:4700:10::ac43:41d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "106",
+        "first_seen": "2022-03-11 02:37:17",
+        "last_seen": "2022-03-31 06:12:25",
+        "ip_address": "2a06:98c1:3121:8000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "271",
+        "first_seen": "2022-04-01 00:38:43",
+        "last_seen": "2022-05-03 16:12:47",
+        "ip_address": "2a06:98c1:3122:8000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "197",
+        "first_seen": "2022-05-03 20:05:05",
+        "last_seen": "2022-05-26 22:56:01",
+        "ip_address": "2a06:98c1:3122:9000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "140",
+        "first_seen": "2022-05-26 23:44:33",
+        "last_seen": "2022-06-26 08:59:39",
+        "ip_address": "2a06:98c1:3122:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "18",
+        "first_seen": "2022-07-28 06:41:03",
+        "last_seen": "2022-08-16 09:41:54",
+        "ip_address": "2a06:98c1:3122:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "18",
+        "first_seen": "2022-07-28 06:41:03",
+        "last_seen": "2022-08-16 09:41:54",
+        "ip_address": "2a06:98c1:3123:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "378",
+        "first_seen": "2022-08-20 11:00:43",
+        "last_seen": "2022-10-11 11:19:11",
+        "ip_address": "2a06:98c1:3122:c000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "378",
+        "first_seen": "2022-08-20 11:00:43",
+        "last_seen": "2022-10-11 11:19:11",
+        "ip_address": "2a06:98c1:3123:c000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "1500",
+        "first_seen": "2022-10-12 04:27:58",
+        "last_seen": "2023-11-22 05:40:49",
+        "ip_address": "2a06:98c1:3122:e000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "1500",
+        "first_seen": "2022-10-12 04:27:58",
+        "last_seen": "2023-11-22 05:40:49",
+        "ip_address": "2a06:98c1:3123:e000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "715",
+        "first_seen": "2023-03-12 04:19:52",
+        "last_seen": "2024-01-17 13:53:08",
+        "ip_address": "2a06:98c1:3122:e000::5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "715",
+        "first_seen": "2023-03-12 04:19:52",
+        "last_seen": "2024-01-17 13:53:08",
+        "ip_address": "2a06:98c1:3123:e000::5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "13",
+        "first_seen": "2023-08-07 11:55:08",
+        "last_seen": "2023-11-20 16:03:18",
+        "ip_address": "2a06:98c1:3122:e000::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "13",
+        "first_seen": "2023-08-07 11:55:08",
+        "last_seen": "2023-11-20 16:03:18",
+        "ip_address": "2a06:98c1:3123:e000::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "hayabusa3.2ch.sc",
+        "count": "132",
+        "first_seen": "2022-06-28 06:09:11",
+        "last_seen": "2022-07-27 06:46:23",
+        "ip_address": "2a06:98c1:3123:a000::",
+        "type": "IPv6"
+    }
+]

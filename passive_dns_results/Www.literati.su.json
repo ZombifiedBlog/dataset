@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.literati.su",
+        "count": "12",
+        "first_seen": "2019-09-01 00:58:46",
+        "last_seen": "2019-11-28 13:05:37",
+        "ip_address": "5.61.49.54",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.literati.su",
+        "count": "282",
+        "first_seen": "2016-07-09 17:48:14",
+        "last_seen": "2019-01-30 13:11:05",
+        "ip_address": "193.124.44.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.literati.su",
+        "count": "7",
+        "first_seen": "2020-02-10 18:12:54",
+        "last_seen": "2020-02-14 12:27:29",
+        "ip_address": "194.58.56.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.literati.su",
+        "count": "633",
+        "first_seen": "2015-08-23 15:17:23",
+        "last_seen": "2016-07-09 17:36:39",
+        "ip_address": "194.58.111.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.literati.su",
+        "count": "4",
+        "first_seen": "2020-02-13 20:44:06",
+        "last_seen": "2020-02-14 12:27:29",
+        "ip_address": "2a00:f940:4::10",
+        "type": "IPv6"
+    }
+]

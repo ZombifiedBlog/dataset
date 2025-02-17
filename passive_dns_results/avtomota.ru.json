@@ -1,0 +1,138 @@
+[
+    {
+        "domain": "avtomota.ru",
+        "count": "117",
+        "first_seen": "2012-08-21 17:51:50",
+        "last_seen": "2015-01-21 22:18:27",
+        "ip_address": "46.4.57.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "avtomota.ru",
+        "count": "205",
+        "first_seen": "2022-04-17 07:22:36",
+        "last_seen": "2022-05-20 02:23:54",
+        "ip_address": "62.182.158.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "avtomota.ru",
+        "count": "205",
+        "first_seen": "2022-04-17 07:22:36",
+        "last_seen": "2022-05-20 02:23:54",
+        "ip_address": "109.95.212.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "avtomota.ru",
+        "count": "287",
+        "first_seen": "2015-01-31 20:39:51",
+        "last_seen": "2016-04-13 22:05:06",
+        "ip_address": "78.46.64.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "avtomota.ru",
+        "count": "2",
+        "first_seen": "2011-12-26 15:51:26",
+        "last_seen": "2011-12-26 15:51:26",
+        "ip_address": "85.234.37.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "avtomota.ru",
+        "count": "290",
+        "first_seen": "2020-05-20 11:14:42",
+        "last_seen": "2022-06-20 12:43:55",
+        "ip_address": "88.212.208.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "avtomota.ru",
+        "count": "10296",
+        "first_seen": "2016-11-13 05:11:21",
+        "last_seen": "2019-05-08 21:09:10",
+        "ip_address": "91.217.9.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "avtomota.ru",
+        "count": "5",
+        "first_seen": "2022-06-21 22:44:27",
+        "last_seen": "2022-06-22 07:45:27",
+        "ip_address": "91.226.31.82",
+        "type": "IPv4"
+    },
+    {
+        "domain": "avtomota.ru",
+        "count": "2605",
+        "first_seen": "2019-05-08 21:43:08",
+        "last_seen": "2019-09-04 03:09:06",
+        "ip_address": "91.236.136.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "avtomota.ru",
+        "count": "60",
+        "first_seen": "2022-04-12 06:40:20",
+        "last_seen": "2022-04-17 05:17:19",
+        "ip_address": "91.236.136.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "avtomota.ru",
+        "count": "2740",
+        "first_seen": "2016-05-20 08:06:35",
+        "last_seen": "2016-11-12 22:18:35",
+        "ip_address": "91.236.136.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "avtomota.ru",
+        "count": "8677",
+        "first_seen": "2021-09-08 05:57:58",
+        "last_seen": "2022-04-11 21:31:50",
+        "ip_address": "91.236.136.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "avtomota.ru",
+        "count": "3143",
+        "first_seen": "2022-06-22 09:27:55",
+        "last_seen": "2023-09-05 21:03:37",
+        "ip_address": "104.21.20.231",
+        "type": "IPv4"
+    },
+    {
+        "domain": "avtomota.ru",
+        "count": "3143",
+        "first_seen": "2022-06-22 09:27:55",
+        "last_seen": "2023-09-05 21:03:37",
+        "ip_address": "172.67.194.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "avtomota.ru",
+        "count": "11721",
+        "first_seen": "2019-09-04 05:06:08",
+        "last_seen": "2021-09-08 05:19:41",
+        "ip_address": "185.179.191.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "avtomota.ru",
+        "count": "1520",
+        "first_seen": "2022-06-22 09:27:56",
+        "last_seen": "2023-09-04 12:29:18",
+        "ip_address": "2606:4700:3031::6815:14e7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "avtomota.ru",
+        "count": "1520",
+        "first_seen": "2022-06-22 09:27:56",
+        "last_seen": "2023-09-04 12:29:18",
+        "ip_address": "2606:4700:3036::ac43:c2bf",
+        "type": "IPv6"
+    }
+]

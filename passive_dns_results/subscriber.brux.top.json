@@ -1,0 +1,162 @@
+[
+    {
+        "domain": "subscriber.brux.top",
+        "count": "415",
+        "first_seen": "2023-06-15 12:39:34",
+        "last_seen": "2023-07-20 12:45:22",
+        "ip_address": "104.21.70.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.brux.top",
+        "count": "415",
+        "first_seen": "2023-06-15 12:39:34",
+        "last_seen": "2023-07-20 12:45:22",
+        "ip_address": "172.67.221.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.brux.top",
+        "count": "7",
+        "first_seen": "2023-06-27 02:01:34",
+        "last_seen": "2023-07-06 06:54:49",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.brux.top",
+        "count": "7",
+        "first_seen": "2023-06-27 02:01:34",
+        "last_seen": "2023-07-06 06:54:49",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.brux.top",
+        "count": "10",
+        "first_seen": "2023-06-27 05:49:36",
+        "last_seen": "2023-07-10 17:42:51",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.brux.top",
+        "count": "10",
+        "first_seen": "2023-06-27 05:49:36",
+        "last_seen": "2023-07-10 17:42:51",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.brux.top",
+        "count": "1",
+        "first_seen": "2023-08-06 15:28:30",
+        "last_seen": "2023-08-06 15:28:30",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.brux.top",
+        "count": "1",
+        "first_seen": "2023-08-06 15:28:30",
+        "last_seen": "2023-08-06 15:28:30",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.brux.top",
+        "count": "3",
+        "first_seen": "2023-06-28 04:30:07",
+        "last_seen": "2023-06-28 04:35:26",
+        "ip_address": "188.114.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.brux.top",
+        "count": "3",
+        "first_seen": "2023-06-28 04:30:07",
+        "last_seen": "2023-06-28 04:35:26",
+        "ip_address": "188.114.97.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.brux.top",
+        "count": "5",
+        "first_seen": "2023-06-17 14:41:02",
+        "last_seen": "2023-06-28 05:15:38",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.brux.top",
+        "count": "5",
+        "first_seen": "2023-06-17 14:41:02",
+        "last_seen": "2023-06-28 05:15:38",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.brux.top",
+        "count": "15",
+        "first_seen": "2023-06-27 13:23:55",
+        "last_seen": "2023-08-06 15:28:30",
+        "ip_address": "2606:4700:3030::6815:464c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.brux.top",
+        "count": "15",
+        "first_seen": "2023-06-27 13:23:55",
+        "last_seen": "2023-08-06 15:28:30",
+        "ip_address": "2606:4700:3034::ac43:dda2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.brux.top",
+        "count": "4",
+        "first_seen": "2023-06-27 13:01:29",
+        "last_seen": "2023-06-27 13:23:10",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.brux.top",
+        "count": "4",
+        "first_seen": "2023-06-27 13:01:29",
+        "last_seen": "2023-06-27 13:23:10",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.brux.top",
+        "count": "4",
+        "first_seen": "2023-06-28 04:35:26",
+        "last_seen": "2023-07-02 13:10:45",
+        "ip_address": "2a06:98c1:3120::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.brux.top",
+        "count": "4",
+        "first_seen": "2023-06-28 04:35:26",
+        "last_seen": "2023-07-02 13:10:45",
+        "ip_address": "2a06:98c1:3121::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.brux.top",
+        "count": "4",
+        "first_seen": "2023-06-17 14:41:03",
+        "last_seen": "2023-06-28 05:15:38",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.brux.top",
+        "count": "4",
+        "first_seen": "2023-06-17 14:41:03",
+        "last_seen": "2023-06-28 05:15:38",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

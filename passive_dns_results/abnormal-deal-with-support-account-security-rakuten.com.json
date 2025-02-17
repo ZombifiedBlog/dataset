@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "abnormal-deal-with-support-account-security-rakuten.com",
+        "count": "11",
+        "first_seen": "2020-05-20 00:02:25",
+        "last_seen": "2020-05-20 10:03:17",
+        "ip_address": "134.0.118.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "abnormal-deal-with-support-account-security-rakuten.com",
+        "count": "53",
+        "first_seen": "2021-05-26 16:23:49",
+        "last_seen": "2021-06-25 21:36:32",
+        "ip_address": "194.67.71.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "abnormal-deal-with-support-account-security-rakuten.com",
+        "count": "883",
+        "first_seen": "2020-05-20 12:02:52",
+        "last_seen": "2021-05-06 16:20:12",
+        "ip_address": "194.67.109.62",
+        "type": "IPv4"
+    }
+]

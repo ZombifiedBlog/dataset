@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "smcc-cacc.sinsue.com",
+        "count": "36",
+        "first_seen": "2020-11-11 03:05:33",
+        "last_seen": "2020-11-26 01:27:40",
+        "ip_address": "67.229.29.132",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.sinsue.com",
+        "count": "36",
+        "first_seen": "2020-11-11 03:05:33",
+        "last_seen": "2020-11-26 01:27:40",
+        "ip_address": "174.139.137.41",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.sinsue.com",
+        "count": "1",
+        "first_seen": "2022-09-17 18:10:36",
+        "last_seen": "2022-09-17 18:10:36",
+        "ip_address": "104.216.49.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.sinsue.com",
+        "count": "35",
+        "first_seen": "2022-09-25 12:05:55",
+        "last_seen": "2023-07-18 20:25:14",
+        "ip_address": "149.30.192.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.sinsue.com",
+        "count": "2",
+        "first_seen": "2023-10-01 19:17:21",
+        "last_seen": "2023-10-01 19:17:21",
+        "ip_address": "164.88.87.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.sinsue.com",
+        "count": "4",
+        "first_seen": "2023-08-13 20:12:15",
+        "last_seen": "2023-09-18 20:51:25",
+        "ip_address": "164.88.252.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.sinsue.com",
+        "count": "10",
+        "first_seen": "2023-11-26 18:17:16",
+        "last_seen": "2023-12-10 18:27:08",
+        "ip_address": "168.76.253.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.sinsue.com",
+        "count": "203",
+        "first_seen": "2020-10-31 13:02:43",
+        "last_seen": "2020-11-10 20:03:14",
+        "ip_address": "174.139.137.41",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.sinsue.com",
+        "count": "8",
+        "first_seen": "2021-12-03 02:30:26",
+        "last_seen": "2021-12-18 19:07:24",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.lmkse.com",
+        "count": "779",
+        "first_seen": "2021-10-21 07:03:31",
+        "last_seen": "2021-12-02 23:46:28",
+        "ip_address": "104.21.36.169",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lmkse.com",
+        "count": "779",
+        "first_seen": "2021-10-21 07:03:31",
+        "last_seen": "2021-12-02 23:46:28",
+        "ip_address": "172.67.197.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lmkse.com",
+        "count": "1",
+        "first_seen": "2021-11-05 20:45:35",
+        "last_seen": "2021-11-05 20:45:35",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lmkse.com",
+        "count": "138",
+        "first_seen": "2021-10-22 01:42:23",
+        "last_seen": "2021-11-07 12:21:41",
+        "ip_address": "2606:4700:3032::ac43:c599",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lmkse.com",
+        "count": "138",
+        "first_seen": "2021-10-22 01:42:23",
+        "last_seen": "2021-11-07 12:21:41",
+        "ip_address": "2606:4700:3033::6815:24a9",
+        "type": "IPv6"
+    }
+]

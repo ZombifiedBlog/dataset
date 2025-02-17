@@ -1,0 +1,138 @@
+[
+    {
+        "domain": "www.lbzrb.com",
+        "count": "1",
+        "first_seen": "2022-08-12 21:05:11",
+        "last_seen": "2022-08-12 21:05:11",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lbzrb.com",
+        "count": "1",
+        "first_seen": "2021-03-14 19:31:41",
+        "last_seen": "2021-03-14 19:31:41",
+        "ip_address": "104.21.15.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lbzrb.com",
+        "count": "1",
+        "first_seen": "2021-03-14 19:31:41",
+        "last_seen": "2021-03-14 19:31:41",
+        "ip_address": "172.67.208.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lbzrb.com",
+        "count": "498",
+        "first_seen": "2020-05-16 02:18:19",
+        "last_seen": "2020-05-28 05:22:48",
+        "ip_address": "104.31.66.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lbzrb.com",
+        "count": "498",
+        "first_seen": "2020-05-16 02:18:19",
+        "last_seen": "2020-05-28 05:22:48",
+        "ip_address": "104.31.67.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lbzrb.com",
+        "count": "2028",
+        "first_seen": "2020-05-28 05:39:36",
+        "last_seen": "2020-12-13 22:37:44",
+        "ip_address": "104.31.66.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lbzrb.com",
+        "count": "2028",
+        "first_seen": "2020-05-28 05:39:36",
+        "last_seen": "2020-12-13 22:37:44",
+        "ip_address": "104.31.67.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lbzrb.com",
+        "count": "2028",
+        "first_seen": "2020-05-28 05:39:36",
+        "last_seen": "2020-12-13 22:37:44",
+        "ip_address": "172.67.208.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lbzrb.com",
+        "count": "92",
+        "first_seen": "2021-09-21 03:25:59",
+        "last_seen": "2022-07-25 11:23:34",
+        "ip_address": "154.31.52.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lbzrb.com",
+        "count": "1",
+        "first_seen": "2021-03-16 11:31:15",
+        "last_seen": "2021-03-16 11:31:15",
+        "ip_address": "198.144.149.157",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lbzrb.com",
+        "count": "39",
+        "first_seen": "2020-05-29 13:35:20",
+        "last_seen": "2020-08-05 00:08:06",
+        "ip_address": "2606:4700:3032::ac43:d0a2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lbzrb.com",
+        "count": "39",
+        "first_seen": "2020-05-29 13:35:20",
+        "last_seen": "2020-08-05 00:08:06",
+        "ip_address": "2606:4700:3035::681f:4246",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lbzrb.com",
+        "count": "39",
+        "first_seen": "2020-05-29 13:35:20",
+        "last_seen": "2020-08-05 00:08:06",
+        "ip_address": "2606:4700:3037::681f:4346",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lbzrb.com",
+        "count": "1",
+        "first_seen": "2021-03-14 19:31:41",
+        "last_seen": "2021-03-14 19:31:41",
+        "ip_address": "2606:4700:3032::ac43:d0a2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lbzrb.com",
+        "count": "1",
+        "first_seen": "2021-03-14 19:31:41",
+        "last_seen": "2021-03-14 19:31:41",
+        "ip_address": "2606:4700:3037::6815:fef",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lbzrb.com",
+        "count": "11",
+        "first_seen": "2020-05-17 03:38:04",
+        "last_seen": "2020-05-27 19:05:25",
+        "ip_address": "2606:4700:3035::681f:4246",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lbzrb.com",
+        "count": "11",
+        "first_seen": "2020-05-17 03:38:04",
+        "last_seen": "2020-05-27 19:05:25",
+        "ip_address": "2606:4700:3037::681f:4346",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.lndkhb.com",
+        "count": "30",
+        "first_seen": "2023-01-30 10:03:04",
+        "last_seen": "2023-10-13 22:14:30",
+        "ip_address": "103.233.253.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lndkhb.com",
+        "count": "3644",
+        "first_seen": "2022-08-23 14:25:40",
+        "last_seen": "2022-11-10 18:41:42",
+        "ip_address": "104.21.73.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lndkhb.com",
+        "count": "3644",
+        "first_seen": "2022-08-23 14:25:40",
+        "last_seen": "2022-11-10 18:41:42",
+        "ip_address": "172.67.140.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.lndkhb.com",
+        "count": "91",
+        "first_seen": "2022-08-24 09:59:31",
+        "last_seen": "2022-11-11 22:20:47",
+        "ip_address": "2606:4700:3031::6815:4927",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.lndkhb.com",
+        "count": "91",
+        "first_seen": "2022-08-24 09:59:31",
+        "last_seen": "2022-11-11 22:20:47",
+        "ip_address": "2606:4700:3033::ac43:8c1b",
+        "type": "IPv6"
+    }
+]

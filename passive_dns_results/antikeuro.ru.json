@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "antikeuro.ru",
+        "count": "28087",
+        "first_seen": "2020-05-21 12:02:55",
+        "last_seen": "2024-01-18 05:39:29",
+        "ip_address": "31.31.196.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "antikeuro.ru",
+        "count": "25029",
+        "first_seen": "2014-10-20 18:59:40",
+        "last_seen": "2020-05-21 09:24:50",
+        "ip_address": "80.78.250.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "antikeuro.ru",
+        "count": "1",
+        "first_seen": "2014-01-17 11:20:34",
+        "last_seen": "2014-01-17 11:20:34",
+        "ip_address": "91.106.203.79",
+        "type": "IPv4"
+    },
+    {
+        "domain": "antikeuro.ru",
+        "count": "9398",
+        "first_seen": "2020-06-09 17:37:32",
+        "last_seen": "2024-01-17 17:00:35",
+        "ip_address": "2a00:f940:2:2:1:4:0:54",
+        "type": "IPv6"
+    },
+    {
+        "domain": "antikeuro.ru",
+        "count": "10137",
+        "first_seen": "2014-10-26 21:14:59",
+        "last_seen": "2020-06-08 18:54:49",
+        "ip_address": "2a03:4900:0:6037:80:78:250:22",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "amanzon.msspw.com",
+        "count": "511",
+        "first_seen": "2021-06-26 17:57:35",
+        "last_seen": "2021-07-02 08:11:37",
+        "ip_address": "45.207.55.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amanzon.msspw.com",
+        "count": "7",
+        "first_seen": "2022-11-04 15:40:28",
+        "last_seen": "2023-02-10 07:47:45",
+        "ip_address": "107.151.218.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amanzon.msspw.com",
+        "count": "135",
+        "first_seen": "2021-07-03 09:55:06",
+        "last_seen": "2021-08-05 02:27:55",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amanzon.msspw.com",
+        "count": "12",
+        "first_seen": "2021-07-04 23:26:02",
+        "last_seen": "2021-07-09 00:33:33",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    }
+]

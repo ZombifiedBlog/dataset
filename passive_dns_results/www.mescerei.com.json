@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.mescerei.com",
+        "count": "903",
+        "first_seen": "2022-03-20 15:05:12",
+        "last_seen": "2022-03-28 14:23:45",
+        "ip_address": "23.94.174.131",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mescerei.com",
+        "count": "2",
+        "first_seen": "2023-03-20 16:53:57",
+        "last_seen": "2023-03-26 02:39:35",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mescerei.com",
+        "count": "1",
+        "first_seen": "2023-03-20 16:53:57",
+        "last_seen": "2023-03-20 16:53:57",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

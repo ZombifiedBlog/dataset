@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "bcpsx.com",
+        "count": "2",
+        "first_seen": "2016-05-27 12:39:56",
+        "last_seen": "2016-05-27 12:39:56",
+        "ip_address": "47.88.12.157",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bcpsx.com",
+        "count": "7",
+        "first_seen": "2016-11-18 01:11:46",
+        "last_seen": "2016-12-19 11:01:34",
+        "ip_address": "47.89.58.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bcpsx.com",
+        "count": "10",
+        "first_seen": "2016-09-09 03:19:52",
+        "last_seen": "2016-10-20 07:35:36",
+        "ip_address": "68.64.161.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bcpsx.com",
+        "count": "8",
+        "first_seen": "2016-06-06 21:50:20",
+        "last_seen": "2016-06-30 04:34:08",
+        "ip_address": "107.150.49.98",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bcpsx.com",
+        "count": "8",
+        "first_seen": "2016-07-11 04:09:17",
+        "last_seen": "2016-08-26 05:28:41",
+        "ip_address": "199.168.103.230",
+        "type": "IPv4"
+    }
+]

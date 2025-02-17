@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.eki-net-com.lol",
+        "count": "1",
+        "first_seen": "2023-01-12 12:36:43",
+        "last_seen": "2023-01-12 12:36:43",
+        "ip_address": "103.75.118.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.eki-net-com.lol",
+        "count": "137",
+        "first_seen": "2023-01-04 10:11:21",
+        "last_seen": "2023-02-10 01:35:03",
+        "ip_address": "104.21.76.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.eki-net-com.lol",
+        "count": "137",
+        "first_seen": "2023-01-04 10:11:21",
+        "last_seen": "2023-02-10 01:35:03",
+        "ip_address": "172.67.192.109",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.eki-net-com.lol",
+        "count": "13",
+        "first_seen": "2023-01-04 10:14:02",
+        "last_seen": "2023-02-10 01:35:03",
+        "ip_address": "2606:4700:3035::ac43:c06d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.eki-net-com.lol",
+        "count": "13",
+        "first_seen": "2023-01-04 10:14:02",
+        "last_seen": "2023-02-10 01:35:03",
+        "ip_address": "2606:4700:3036::6815:4c5d",
+        "type": "IPv6"
+    }
+]

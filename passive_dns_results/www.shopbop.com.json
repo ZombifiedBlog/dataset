@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "www.shopbop.com",
+        "count": "468167",
+        "first_seen": "2011-03-24 22:32:53",
+        "last_seen": "2011-03-31 21:52:11",
+        "ip_address": "50.17.198.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shopbop.com",
+        "count": "164623",
+        "first_seen": "2014-02-05 18:25:29",
+        "last_seen": "2014-02-07 18:19:32",
+        "ip_address": "54.243.24.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shopbop.com",
+        "count": "16223",
+        "first_seen": "2014-02-05 15:09:54",
+        "last_seen": "2014-02-05 23:06:39",
+        "ip_address": "199.59.163.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shopbop.com",
+        "count": "90046504",
+        "first_seen": "2010-06-24 03:43:37",
+        "last_seen": "2013-11-22 22:02:35",
+        "ip_address": "206.16.237.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shopbop.com",
+        "count": "69390890",
+        "first_seen": "2013-11-22 21:58:39",
+        "last_seen": "2015-05-27 00:02:12",
+        "ip_address": "206.16.237.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shopbop.com",
+        "count": "4954266",
+        "first_seen": "2015-06-08 18:14:07",
+        "last_seen": "2015-12-01 18:27:17",
+        "ip_address": "54.239.16.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shopbop.com",
+        "count": "4955901",
+        "first_seen": "2015-06-08 18:19:41",
+        "last_seen": "2015-12-01 18:27:15",
+        "ip_address": "54.239.20.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shopbop.com",
+        "count": "4959228",
+        "first_seen": "2015-06-08 18:15:55",
+        "last_seen": "2015-12-01 18:27:12",
+        "ip_address": "54.239.21.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shopbop.com",
+        "count": "21041847",
+        "first_seen": "2015-11-12 19:16:31",
+        "last_seen": "2017-07-25 21:13:14",
+        "ip_address": "54.239.25.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shopbop.com",
+        "count": "21048772",
+        "first_seen": "2015-11-12 19:16:42",
+        "last_seen": "2017-07-25 21:12:30",
+        "ip_address": "54.239.25.244",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shopbop.com",
+        "count": "21004483",
+        "first_seen": "2015-11-12 19:16:16",
+        "last_seen": "2017-07-25 21:12:24",
+        "ip_address": "54.239.26.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shopbop.com",
+        "count": "561340",
+        "first_seen": "2015-05-26 23:25:22",
+        "last_seen": "2015-06-08 18:41:10",
+        "ip_address": "206.16.237.210",
+        "type": "IPv4"
+    }
+]

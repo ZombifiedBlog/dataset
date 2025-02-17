@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "gdr03-redirect-support-rakuten.com",
+        "count": "282",
+        "first_seen": "2019-06-17 02:30:25",
+        "last_seen": "2020-06-12 00:10:12",
+        "ip_address": "185.255.79.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gdr03-redirect-support-rakuten.com",
+        "count": "6",
+        "first_seen": "2020-06-19 18:29:30",
+        "last_seen": "2020-06-22 18:41:59",
+        "ip_address": "194.58.56.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gdr03-redirect-support-rakuten.com",
+        "count": "24",
+        "first_seen": "2020-06-24 17:09:41",
+        "last_seen": "2020-07-22 17:08:13",
+        "ip_address": "194.67.71.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gdr03-redirect-support-rakuten.com",
+        "count": "8",
+        "first_seen": "2020-06-20 12:44:27",
+        "last_seen": "2020-07-15 16:04:23",
+        "ip_address": "2a00:f940:4::10",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscriber.brothersbarbershopphx.com",
+        "count": "2763",
+        "first_seen": "2022-11-19 16:09:48",
+        "last_seen": "2023-02-08 21:25:22",
+        "ip_address": "104.21.60.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.brothersbarbershopphx.com",
+        "count": "2763",
+        "first_seen": "2022-11-19 16:09:48",
+        "last_seen": "2023-02-08 21:25:22",
+        "ip_address": "172.67.195.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.brothersbarbershopphx.com",
+        "count": "36",
+        "first_seen": "2023-03-24 21:39:48",
+        "last_seen": "2023-07-08 23:26:14",
+        "ip_address": "199.59.243.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.brothersbarbershopphx.com",
+        "count": "2",
+        "first_seen": "2023-08-30 08:29:33",
+        "last_seen": "2023-09-22 07:43:07",
+        "ip_address": "199.59.243.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.brothersbarbershopphx.com",
+        "count": "5",
+        "first_seen": "2023-10-29 01:37:40",
+        "last_seen": "2023-11-08 12:30:44",
+        "ip_address": "199.59.243.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.brothersbarbershopphx.com",
+        "count": "138",
+        "first_seen": "2022-11-19 23:56:52",
+        "last_seen": "2023-02-05 18:39:09",
+        "ip_address": "2606:4700:3033::ac43:c3c6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.brothersbarbershopphx.com",
+        "count": "138",
+        "first_seen": "2022-11-19 23:56:52",
+        "last_seen": "2023-02-05 18:39:09",
+        "ip_address": "2606:4700:3036::6815:3c67",
+        "type": "IPv6"
+    }
+]

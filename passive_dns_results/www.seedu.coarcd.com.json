@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.seedu.coarcd.com",
+        "count": "105",
+        "first_seen": "2021-10-02 17:24:39",
+        "last_seen": "2021-10-04 03:31:45",
+        "ip_address": "198.12.81.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.seedu.coarcd.com",
+        "count": "5",
+        "first_seen": "2022-10-02 21:09:48",
+        "last_seen": "2022-10-31 06:15:42",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.seedu.coarcd.com",
+        "count": "61",
+        "first_seen": "2021-10-04 07:09:19",
+        "last_seen": "2022-09-26 06:53:58",
+        "ip_address": "206.189.196.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.seedu.coarcd.com",
+        "count": "1",
+        "first_seen": "2022-10-11 06:19:18",
+        "last_seen": "2022-10-11 06:19:18",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.seedu.coarcd.com",
+        "count": "1",
+        "first_seen": "2022-10-11 06:19:18",
+        "last_seen": "2022-10-11 06:19:18",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

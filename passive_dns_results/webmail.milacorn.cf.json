@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "webmail.milacorn.cf",
+        "count": "72",
+        "first_seen": "2020-07-25 10:04:27",
+        "last_seen": "2020-07-29 17:09:32",
+        "ip_address": "104.27.152.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmail.milacorn.cf",
+        "count": "72",
+        "first_seen": "2020-07-25 10:04:27",
+        "last_seen": "2020-07-29 17:09:32",
+        "ip_address": "104.27.153.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmail.milacorn.cf",
+        "count": "72",
+        "first_seen": "2020-07-25 10:04:27",
+        "last_seen": "2020-07-29 17:09:32",
+        "ip_address": "172.67.153.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "webmail.milacorn.cf",
+        "count": "7",
+        "first_seen": "2020-07-25 10:04:27",
+        "last_seen": "2020-07-26 07:59:10",
+        "ip_address": "2606:4700:3035::681b:99d1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "webmail.milacorn.cf",
+        "count": "7",
+        "first_seen": "2020-07-25 10:04:27",
+        "last_seen": "2020-07-26 07:59:10",
+        "ip_address": "2606:4700:3035::ac43:9925",
+        "type": "IPv6"
+    },
+    {
+        "domain": "webmail.milacorn.cf",
+        "count": "7",
+        "first_seen": "2020-07-25 10:04:27",
+        "last_seen": "2020-07-26 07:59:10",
+        "ip_address": "2606:4700:3037::681b:98d1",
+        "type": "IPv6"
+    }
+]

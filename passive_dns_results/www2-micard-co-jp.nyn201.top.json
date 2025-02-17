@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www2-micard-co-jp.nyn201.top",
+        "count": "2",
+        "first_seen": "2022-09-30 07:08:12",
+        "last_seen": "2022-09-30 13:07:30",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-micard-co-jp.nyn201.top",
+        "count": "108",
+        "first_seen": "2021-10-04 04:32:53",
+        "last_seen": "2021-10-08 00:28:57",
+        "ip_address": "104.21.7.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-micard-co-jp.nyn201.top",
+        "count": "108",
+        "first_seen": "2021-10-04 04:32:53",
+        "last_seen": "2021-10-08 00:28:57",
+        "ip_address": "172.67.135.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-micard-co-jp.nyn201.top",
+        "count": "4",
+        "first_seen": "2021-10-04 09:36:15",
+        "last_seen": "2021-10-04 10:04:26",
+        "ip_address": "172.64.200.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-micard-co-jp.nyn201.top",
+        "count": "4",
+        "first_seen": "2021-10-04 09:36:15",
+        "last_seen": "2021-10-04 10:04:26",
+        "ip_address": "172.64.201.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-micard-co-jp.nyn201.top",
+        "count": "7",
+        "first_seen": "2021-10-04 05:10:42",
+        "last_seen": "2021-10-08 00:25:01",
+        "ip_address": "2606:4700:3030::ac43:87be",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www2-micard-co-jp.nyn201.top",
+        "count": "7",
+        "first_seen": "2021-10-04 05:10:42",
+        "last_seen": "2021-10-08 00:25:01",
+        "ip_address": "2606:4700:3037::6815:72e",
+        "type": "IPv6"
+    }
+]

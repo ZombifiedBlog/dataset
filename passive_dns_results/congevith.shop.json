@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "congevith.shop",
+        "count": "93",
+        "first_seen": "2022-06-23 01:11:46",
+        "last_seen": "2022-06-24 10:28:43",
+        "ip_address": "20.194.198.159",
+        "type": "IPv4"
+    },
+    {
+        "domain": "congevith.shop",
+        "count": "202",
+        "first_seen": "2022-06-19 22:01:30",
+        "last_seen": "2022-06-22 22:35:49",
+        "ip_address": "34.146.113.181",
+        "type": "IPv4"
+    },
+    {
+        "domain": "congevith.shop",
+        "count": "12",
+        "first_seen": "2023-01-28 10:49:23",
+        "last_seen": "2023-02-24 21:38:16",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "congevith.shop",
+        "count": "18",
+        "first_seen": "2022-01-21 18:19:49",
+        "last_seen": "2022-03-21 00:42:11",
+        "ip_address": "104.21.31.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "congevith.shop",
+        "count": "18",
+        "first_seen": "2022-01-21 18:19:49",
+        "last_seen": "2022-03-21 00:42:11",
+        "ip_address": "172.67.174.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "congevith.shop",
+        "count": "610",
+        "first_seen": "2022-03-28 11:24:05",
+        "last_seen": "2022-04-03 09:29:37",
+        "ip_address": "106.75.67.41",
+        "type": "IPv4"
+    },
+    {
+        "domain": "congevith.shop",
+        "count": "4",
+        "first_seen": "2022-06-06 19:04:43",
+        "last_seen": "2022-06-17 20:52:20",
+        "ip_address": "124.156.137.186",
+        "type": "IPv4"
+    },
+    {
+        "domain": "congevith.shop",
+        "count": "2",
+        "first_seen": "2022-01-21 18:20:19",
+        "last_seen": "2022-01-22 06:58:11",
+        "ip_address": "2606:4700:3031::6815:1f17",
+        "type": "IPv6"
+    },
+    {
+        "domain": "congevith.shop",
+        "count": "2",
+        "first_seen": "2022-01-21 18:20:19",
+        "last_seen": "2022-01-22 06:58:11",
+        "ip_address": "2606:4700:3032::ac43:aeaa",
+        "type": "IPv6"
+    }
+]

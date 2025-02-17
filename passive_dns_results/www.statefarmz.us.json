@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "www.statefarmz.us",
+        "count": "7",
+        "first_seen": "2023-10-30 23:28:59",
+        "last_seen": "2023-10-30 23:31:07",
+        "ip_address": "3.13.126.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.statefarmz.us",
+        "count": "7",
+        "first_seen": "2023-10-30 23:28:59",
+        "last_seen": "2023-10-30 23:31:07",
+        "ip_address": "3.128.221.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.statefarmz.us",
+        "count": "5",
+        "first_seen": "2023-11-12 10:14:13",
+        "last_seen": "2023-11-12 10:16:15",
+        "ip_address": "3.20.207.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.statefarmz.us",
+        "count": "5",
+        "first_seen": "2023-11-12 10:14:13",
+        "last_seen": "2023-11-12 10:16:15",
+        "ip_address": "3.139.147.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.statefarmz.us",
+        "count": "9019",
+        "first_seen": "2022-09-30 15:00:19",
+        "last_seen": "2023-10-19 19:07:31",
+        "ip_address": "104.21.86.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.statefarmz.us",
+        "count": "9019",
+        "first_seen": "2022-09-30 15:00:19",
+        "last_seen": "2023-10-19 19:07:31",
+        "ip_address": "172.67.215.166",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.statefarmz.us",
+        "count": "4",
+        "first_seen": "2023-03-01 08:38:15",
+        "last_seen": "2023-05-06 15:43:11",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.statefarmz.us",
+        "count": "1262",
+        "first_seen": "2022-09-30 15:01:13",
+        "last_seen": "2023-10-19 19:07:31",
+        "ip_address": "2606:4700:3031::ac43:d7a6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.statefarmz.us",
+        "count": "1262",
+        "first_seen": "2022-09-30 15:01:13",
+        "last_seen": "2023-10-19 19:07:31",
+        "ip_address": "2606:4700:3036::6815:563c",
+        "type": "IPv6"
+    }
+]

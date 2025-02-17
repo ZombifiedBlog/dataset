@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "healthmedsdata.info",
+        "count": "10",
+        "first_seen": "2020-03-19 17:25:51",
+        "last_seen": "2020-03-21 12:31:16",
+        "ip_address": "47.91.86.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "healthmedsdata.info",
+        "count": "3003",
+        "first_seen": "2020-03-06 16:27:43",
+        "last_seen": "2020-03-15 16:46:34",
+        "ip_address": "47.254.67.40",
+        "type": "IPv4"
+    }
+]

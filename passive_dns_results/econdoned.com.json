@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "econdoned.com",
+        "count": "3579",
+        "first_seen": "2023-03-09 02:19:18",
+        "last_seen": "2023-10-24 08:44:31",
+        "ip_address": "69.12.64.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "econdoned.com",
+        "count": "15",
+        "first_seen": "2015-07-02 01:39:46",
+        "last_seen": "2016-05-23 11:33:08",
+        "ip_address": "104.18.48.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "econdoned.com",
+        "count": "15",
+        "first_seen": "2015-07-02 01:39:46",
+        "last_seen": "2016-05-23 11:33:08",
+        "ip_address": "104.18.49.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "econdoned.com",
+        "count": "9",
+        "first_seen": "2023-03-22 19:22:34",
+        "last_seen": "2023-03-22 19:38:31",
+        "ip_address": "198.54.117.242",
+        "type": "IPv4"
+    }
+]

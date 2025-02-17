@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "h7t6frtghy.com",
+        "count": "130",
+        "first_seen": "2023-08-17 16:09:40",
+        "last_seen": "2024-01-15 22:31:42",
+        "ip_address": "104.21.9.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "h7t6frtghy.com",
+        "count": "130",
+        "first_seen": "2023-08-17 16:09:40",
+        "last_seen": "2024-01-15 22:31:42",
+        "ip_address": "172.67.141.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "h7t6frtghy.com",
+        "count": "37",
+        "first_seen": "2023-06-15 05:56:23",
+        "last_seen": "2023-08-14 03:42:37",
+        "ip_address": "104.21.78.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "h7t6frtghy.com",
+        "count": "37",
+        "first_seen": "2023-06-15 05:56:23",
+        "last_seen": "2023-08-14 03:42:37",
+        "ip_address": "172.67.217.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "h7t6frtghy.com",
+        "count": "20",
+        "first_seen": "2023-06-15 06:47:32",
+        "last_seen": "2023-06-15 13:08:46",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "h7t6frtghy.com",
+        "count": "20",
+        "first_seen": "2023-06-15 06:47:32",
+        "last_seen": "2023-06-15 13:08:46",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "h7t6frtghy.com",
+        "count": "41",
+        "first_seen": "2023-08-17 16:10:02",
+        "last_seen": "2024-01-15 22:31:42",
+        "ip_address": "2606:4700:3033::6815:933",
+        "type": "IPv6"
+    },
+    {
+        "domain": "h7t6frtghy.com",
+        "count": "41",
+        "first_seen": "2023-08-17 16:10:02",
+        "last_seen": "2024-01-15 22:31:42",
+        "ip_address": "2606:4700:3035::ac43:8dbf",
+        "type": "IPv6"
+    },
+    {
+        "domain": "h7t6frtghy.com",
+        "count": "6",
+        "first_seen": "2023-07-17 07:36:46",
+        "last_seen": "2023-08-14 03:42:37",
+        "ip_address": "2606:4700:3033::ac43:d937",
+        "type": "IPv6"
+    },
+    {
+        "domain": "h7t6frtghy.com",
+        "count": "6",
+        "first_seen": "2023-07-17 07:36:46",
+        "last_seen": "2023-08-14 03:42:37",
+        "ip_address": "2606:4700:3034::6815:4e3b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "h7t6frtghy.com",
+        "count": "1",
+        "first_seen": "2023-06-15 06:48:08",
+        "last_seen": "2023-06-15 06:48:08",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "h7t6frtghy.com",
+        "count": "1",
+        "first_seen": "2023-06-15 06:48:08",
+        "last_seen": "2023-06-15 06:48:08",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

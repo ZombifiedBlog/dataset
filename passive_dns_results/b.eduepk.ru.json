@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "b.eduepk.ru",
+        "count": "627",
+        "first_seen": "2023-05-16 04:01:37",
+        "last_seen": "2023-06-14 08:23:11",
+        "ip_address": "31.177.76.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "b.eduepk.ru",
+        "count": "627",
+        "first_seen": "2023-05-16 04:01:37",
+        "last_seen": "2023-06-14 08:23:11",
+        "ip_address": "31.177.80.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "b.eduepk.ru",
+        "count": "6917",
+        "first_seen": "2023-04-13 01:23:28",
+        "last_seen": "2023-05-15 13:46:30",
+        "ip_address": "104.21.77.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "b.eduepk.ru",
+        "count": "6917",
+        "first_seen": "2023-04-13 01:23:28",
+        "last_seen": "2023-05-15 13:46:30",
+        "ip_address": "172.67.206.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "b.eduepk.ru",
+        "count": "1196",
+        "first_seen": "2023-05-28 00:24:17",
+        "last_seen": "2023-06-06 14:01:44",
+        "ip_address": "31.177.76.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "b.eduepk.ru",
+        "count": "1196",
+        "first_seen": "2023-05-28 00:24:17",
+        "last_seen": "2023-06-06 14:01:44",
+        "ip_address": "31.177.80.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "b.eduepk.ru",
+        "count": "327",
+        "first_seen": "2023-04-13 01:54:23",
+        "last_seen": "2023-05-15 13:46:30",
+        "ip_address": "2606:4700:3031::6815:4d5c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "b.eduepk.ru",
+        "count": "327",
+        "first_seen": "2023-04-13 01:54:23",
+        "last_seen": "2023-05-15 13:46:30",
+        "ip_address": "2606:4700:3032::ac43:ce72",
+        "type": "IPv6"
+    }
+]

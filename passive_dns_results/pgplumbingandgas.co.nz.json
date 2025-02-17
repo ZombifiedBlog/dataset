@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "pgplumbingandgas.co.nz",
+        "count": "3",
+        "first_seen": "2015-07-16 06:40:15",
+        "last_seen": "2015-07-16 06:40:16",
+        "ip_address": "103.250.232.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pgplumbingandgas.co.nz",
+        "count": "57",
+        "first_seen": "2015-08-21 11:34:11",
+        "last_seen": "2016-02-25 03:20:33",
+        "ip_address": "103.250.232.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pgplumbingandgas.co.nz",
+        "count": "308",
+        "first_seen": "2016-03-29 00:22:59",
+        "last_seen": "2017-09-09 11:05:37",
+        "ip_address": "103.250.233.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pgplumbingandgas.co.nz",
+        "count": "18",
+        "first_seen": "2020-09-02 02:37:31",
+        "last_seen": "2020-11-15 04:58:59",
+        "ip_address": "103.250.233.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pgplumbingandgas.co.nz",
+        "count": "4793",
+        "first_seen": "2017-09-09 16:27:24",
+        "last_seen": "2023-04-03 21:29:27",
+        "ip_address": "103.250.233.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "pgplumbingandgas.co.nz",
+        "count": "2726",
+        "first_seen": "2023-04-03 05:03:52",
+        "last_seen": "2024-01-18 11:21:13",
+        "ip_address": "170.64.182.94",
+        "type": "IPv4"
+    }
+]

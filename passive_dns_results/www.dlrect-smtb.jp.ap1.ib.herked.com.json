@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.dlrect-smtb.jp.ap1.ib.herked.com",
+        "count": "103",
+        "first_seen": "2023-03-21 15:01:21",
+        "last_seen": "2023-03-24 08:39:05",
+        "ip_address": "204.44.75.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dlrect-smtb.jp.ap1.ib.herked.com",
+        "count": "3",
+        "first_seen": "2023-09-27 22:36:13",
+        "last_seen": "2023-09-27 22:36:14",
+        "ip_address": "208.91.197.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dlrect-smtb.jp.ap1.ib.herked.com",
+        "count": "6",
+        "first_seen": "2023-12-04 04:58:07",
+        "last_seen": "2023-12-19 06:16:26",
+        "ip_address": "208.91.197.132",
+        "type": "IPv4"
+    }
+]

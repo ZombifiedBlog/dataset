@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "lew.wazcunccha.icu",
+        "count": "5",
+        "first_seen": "2020-11-11 09:02:40",
+        "last_seen": "2020-11-12 15:53:20",
+        "ip_address": "104.24.98.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lew.wazcunccha.icu",
+        "count": "5",
+        "first_seen": "2020-11-11 09:02:40",
+        "last_seen": "2020-11-12 15:53:20",
+        "ip_address": "104.24.99.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lew.wazcunccha.icu",
+        "count": "5",
+        "first_seen": "2020-11-11 09:02:40",
+        "last_seen": "2020-11-12 15:53:20",
+        "ip_address": "172.67.194.202",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lew.wazcunccha.icu",
+        "count": "2",
+        "first_seen": "2020-11-11 09:02:40",
+        "last_seen": "2020-11-11 09:02:40",
+        "ip_address": "2606:4700:3032::ac43:c2ca",
+        "type": "IPv6"
+    },
+    {
+        "domain": "lew.wazcunccha.icu",
+        "count": "2",
+        "first_seen": "2020-11-11 09:02:40",
+        "last_seen": "2020-11-11 09:02:40",
+        "ip_address": "2606:4700:3033::6818:637d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "lew.wazcunccha.icu",
+        "count": "2",
+        "first_seen": "2020-11-11 09:02:40",
+        "last_seen": "2020-11-11 09:02:40",
+        "ip_address": "2606:4700:3036::6818:627d",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "melaninterest.com",
+        "count": "32709",
+        "first_seen": "2019-01-15 17:28:44",
+        "last_seen": "2019-08-19 06:27:42",
+        "ip_address": "45.33.122.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "melaninterest.com",
+        "count": "321167",
+        "first_seen": "2020-01-09 22:28:36",
+        "last_seen": "2024-01-18 08:39:28",
+        "ip_address": "45.79.42.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "melaninterest.com",
+        "count": "34",
+        "first_seen": "2019-01-09 14:57:35",
+        "last_seen": "2019-01-10 01:06:17",
+        "ip_address": "173.231.212.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "melaninterest.com",
+        "count": "188",
+        "first_seen": "2019-01-07 06:14:17",
+        "last_seen": "2019-01-09 14:22:09",
+        "ip_address": "199.250.204.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "melaninterest.com",
+        "count": "1959",
+        "first_seen": "2018-12-23 20:59:02",
+        "last_seen": "2019-01-07 05:59:17",
+        "ip_address": "199.250.214.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "melaninterest.com",
+        "count": "1137",
+        "first_seen": "2019-01-10 01:16:33",
+        "last_seen": "2019-01-17 03:16:51",
+        "ip_address": "209.124.74.235",
+        "type": "IPv4"
+    }
+]

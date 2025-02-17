@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "lab.efficience-services.fr",
+        "count": "618",
+        "first_seen": "2020-04-08 23:11:24",
+        "last_seen": "2024-01-12 05:11:40",
+        "ip_address": "213.186.33.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lab.efficience-services.fr",
+        "count": "27",
+        "first_seen": "2022-03-05 09:47:16",
+        "last_seen": "2023-11-23 16:59:36",
+        "ip_address": "2001:41d0:1:1b00:213:186:33:4",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.ken-movie.com",
+        "count": "93",
+        "first_seen": "2022-08-25 10:35:10",
+        "last_seen": "2022-09-25 16:49:12",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ken-movie.com",
+        "count": "4592",
+        "first_seen": "2022-06-06 21:27:25",
+        "last_seen": "2022-08-08 04:15:18",
+        "ip_address": "104.21.75.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ken-movie.com",
+        "count": "4592",
+        "first_seen": "2022-06-06 21:27:25",
+        "last_seen": "2022-08-08 04:15:18",
+        "ip_address": "172.67.213.82",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ken-movie.com",
+        "count": "93",
+        "first_seen": "2022-06-07 22:00:09",
+        "last_seen": "2022-08-08 00:55:05",
+        "ip_address": "2606:4700:3032::ac43:d552",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.ken-movie.com",
+        "count": "93",
+        "first_seen": "2022-06-07 22:00:09",
+        "last_seen": "2022-08-08 00:55:05",
+        "ip_address": "2606:4700:3035::6815:4b2b",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.ghin.com",
+        "count": "148",
+        "first_seen": "2013-08-15 09:43:06",
+        "last_seen": "2013-08-15 11:46:32",
+        "ip_address": "8.5.1.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ghin.com",
+        "count": "2283",
+        "first_seen": "2018-05-01 19:08:37",
+        "last_seen": "2018-05-02 16:19:30",
+        "ip_address": "104.20.150.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ghin.com",
+        "count": "2283",
+        "first_seen": "2018-05-01 19:08:37",
+        "last_seen": "2018-05-02 16:19:30",
+        "ip_address": "104.20.151.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ghin.com",
+        "count": "4299",
+        "first_seen": "2017-12-07 14:37:30",
+        "last_seen": "2018-05-02 17:43:56",
+        "ip_address": "209.235.207.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ghin.com",
+        "count": "13681",
+        "first_seen": "2012-07-24 21:08:44",
+        "last_seen": "2013-05-15 14:53:13",
+        "ip_address": "209.235.207.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ghin.com",
+        "count": "1300",
+        "first_seen": "2018-05-01 19:08:35",
+        "last_seen": "2018-05-02 16:19:30",
+        "ip_address": "2400:cb00:2048:1::6814:9631",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ghin.com",
+        "count": "1300",
+        "first_seen": "2018-05-01 19:08:35",
+        "last_seen": "2018-05-02 16:19:30",
+        "ip_address": "2400:cb00:2048:1::6814:9731",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "security-subscriber-center.superguvenLik.com",
+        "count": "1",
+        "first_seen": "2023-04-08 07:24:03",
+        "last_seen": "2023-04-08 07:24:03",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.superguvenLik.com",
+        "count": "11",
+        "first_seen": "2023-10-10 02:03:50",
+        "last_seen": "2024-01-10 04:52:30",
+        "ip_address": "103.224.212.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.superguvenLik.com",
+        "count": "189",
+        "first_seen": "2023-04-01 18:35:26",
+        "last_seen": "2023-09-23 18:09:27",
+        "ip_address": "103.224.212.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.superguvenLik.com",
+        "count": "5815",
+        "first_seen": "2022-10-01 23:32:46",
+        "last_seen": "2023-01-16 04:49:21",
+        "ip_address": "104.21.78.79",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.superguvenLik.com",
+        "count": "5815",
+        "first_seen": "2022-10-01 23:32:46",
+        "last_seen": "2023-01-16 04:49:21",
+        "ip_address": "172.67.218.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.superguvenLik.com",
+        "count": "223",
+        "first_seen": "2022-10-07 23:19:29",
+        "last_seen": "2023-01-12 07:37:42",
+        "ip_address": "2606:4700:3032::6815:4e4f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "security-subscriber-center.superguvenLik.com",
+        "count": "223",
+        "first_seen": "2022-10-07 23:19:29",
+        "last_seen": "2023-01-12 07:37:42",
+        "ip_address": "2606:4700:3035::ac43:da99",
+        "type": "IPv6"
+    }
+]

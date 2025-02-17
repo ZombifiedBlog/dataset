@@ -1,0 +1,114 @@
+[
+    {
+        "domain": "www.shutrenany.com",
+        "count": "7",
+        "first_seen": "2018-09-25 09:47:55",
+        "last_seen": "2018-09-25 09:47:56",
+        "ip_address": "104.24.104.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shutrenany.com",
+        "count": "7",
+        "first_seen": "2018-09-25 09:47:55",
+        "last_seen": "2018-09-25 09:47:56",
+        "ip_address": "104.24.105.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shutrenany.com",
+        "count": "384",
+        "first_seen": "2018-12-26 01:34:08",
+        "last_seen": "2019-09-19 05:02:20",
+        "ip_address": "104.24.122.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shutrenany.com",
+        "count": "384",
+        "first_seen": "2018-12-26 01:34:08",
+        "last_seen": "2019-09-19 05:02:20",
+        "ip_address": "104.24.123.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shutrenany.com",
+        "count": "17",
+        "first_seen": "2019-12-20 04:04:54",
+        "last_seen": "2020-12-14 06:05:53",
+        "ip_address": "104.216.119.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shutrenany.com",
+        "count": "30",
+        "first_seen": "2021-05-15 07:01:33",
+        "last_seen": "2022-04-10 12:30:17",
+        "ip_address": "172.252.126.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shutrenany.com",
+        "count": "1",
+        "first_seen": "2020-12-21 08:57:19",
+        "last_seen": "2020-12-21 08:57:19",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shutrenany.com",
+        "count": "4",
+        "first_seen": "2019-10-25 08:12:24",
+        "last_seen": "2019-11-06 02:45:25",
+        "ip_address": "209.99.40.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shutrenany.com",
+        "count": "2",
+        "first_seen": "2019-10-23 16:33:18",
+        "last_seen": "2019-10-23 16:33:18",
+        "ip_address": "209.99.40.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shutrenany.com",
+        "count": "1",
+        "first_seen": "2020-12-21 08:57:19",
+        "last_seen": "2020-12-21 08:57:19",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shutrenany.com",
+        "count": "2",
+        "first_seen": "2018-09-25 09:47:55",
+        "last_seen": "2018-09-25 09:47:55",
+        "ip_address": "2400:cb00:2048:1::6818:685a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.shutrenany.com",
+        "count": "2",
+        "first_seen": "2018-09-25 09:47:55",
+        "last_seen": "2018-09-25 09:47:55",
+        "ip_address": "2400:cb00:2048:1::6818:695a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.shutrenany.com",
+        "count": "174",
+        "first_seen": "2018-12-26 01:34:08",
+        "last_seen": "2019-09-19 05:02:20",
+        "ip_address": "2606:4700:30::6818:7aea",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.shutrenany.com",
+        "count": "174",
+        "first_seen": "2018-12-26 01:34:08",
+        "last_seen": "2019-09-19 05:02:20",
+        "ip_address": "2606:4700:30::6818:7bea",
+        "type": "IPv6"
+    }
+]

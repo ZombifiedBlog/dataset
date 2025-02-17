@@ -1,0 +1,138 @@
+[
+    {
+        "domain": "www.quia.com",
+        "count": "1170",
+        "first_seen": "2014-10-09 15:27:45",
+        "last_seen": "2014-10-09 18:29:01",
+        "ip_address": "64.41.142.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.quia.com",
+        "count": "7794353",
+        "first_seen": "2016-07-01 00:26:59",
+        "last_seen": "2022-07-06 18:13:43",
+        "ip_address": "104.16.69.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.quia.com",
+        "count": "7794353",
+        "first_seen": "2016-07-01 00:26:59",
+        "last_seen": "2022-07-06 18:13:43",
+        "ip_address": "104.16.70.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.quia.com",
+        "count": "3",
+        "first_seen": "2019-07-14 19:42:10",
+        "last_seen": "2019-07-15 16:24:18",
+        "ip_address": "104.16.70.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.quia.com",
+        "count": "358682",
+        "first_seen": "2022-07-06 18:17:01",
+        "last_seen": "2023-02-15 15:21:28",
+        "ip_address": "104.16.85.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.quia.com",
+        "count": "358682",
+        "first_seen": "2022-07-06 18:17:01",
+        "last_seen": "2023-02-15 15:21:28",
+        "ip_address": "104.16.86.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.quia.com",
+        "count": "246983",
+        "first_seen": "2023-02-15 15:21:40",
+        "last_seen": "2023-08-19 13:30:03",
+        "ip_address": "104.17.164.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.quia.com",
+        "count": "246983",
+        "first_seen": "2023-02-15 15:21:40",
+        "last_seen": "2023-08-19 13:30:03",
+        "ip_address": "104.17.165.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.quia.com",
+        "count": "5601",
+        "first_seen": "2023-08-19 13:38:07",
+        "last_seen": "2023-08-24 17:50:41",
+        "ip_address": "104.18.148.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.quia.com",
+        "count": "5601",
+        "first_seen": "2023-08-19 13:38:07",
+        "last_seen": "2023-08-24 17:50:41",
+        "ip_address": "104.18.149.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.quia.com",
+        "count": "262098",
+        "first_seen": "2023-08-24 17:51:27",
+        "last_seen": "2024-01-18 05:04:30",
+        "ip_address": "104.19.218.126",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.quia.com",
+        "count": "262098",
+        "first_seen": "2023-08-24 17:51:27",
+        "last_seen": "2024-01-18 05:04:30",
+        "ip_address": "104.19.219.126",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.quia.com",
+        "count": "2962",
+        "first_seen": "2022-03-31 14:50:05",
+        "last_seen": "2022-04-22 10:23:41",
+        "ip_address": "188.114.96.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.quia.com",
+        "count": "2",
+        "first_seen": "2022-04-05 10:55:17",
+        "last_seen": "2022-04-06 11:30:43",
+        "ip_address": "188.114.96.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.quia.com",
+        "count": "2551",
+        "first_seen": "2022-03-10 17:01:25",
+        "last_seen": "2022-03-31 14:13:16",
+        "ip_address": "188.114.98.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.quia.com",
+        "count": "4831415",
+        "first_seen": "2014-05-01 22:48:54",
+        "last_seen": "2016-07-01 00:25:39",
+        "ip_address": "190.93.246.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.quia.com",
+        "count": "4831415",
+        "first_seen": "2014-05-01 22:48:54",
+        "last_seen": "2016-07-01 00:25:39",
+        "ip_address": "190.93.247.217",
+        "type": "IPv4"
+    }
+]

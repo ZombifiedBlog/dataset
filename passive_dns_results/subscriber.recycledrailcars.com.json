@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.recycledrailcars.com",
+        "count": "3899",
+        "first_seen": "2023-01-06 14:06:57",
+        "last_seen": "2023-02-01 03:57:47",
+        "ip_address": "104.21.9.154",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.recycledrailcars.com",
+        "count": "3899",
+        "first_seen": "2023-01-06 14:06:57",
+        "last_seen": "2023-02-01 03:57:47",
+        "ip_address": "172.67.160.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.recycledrailcars.com",
+        "count": "73",
+        "first_seen": "2023-05-22 12:21:34",
+        "last_seen": "2023-12-26 19:08:21",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.recycledrailcars.com",
+        "count": "91",
+        "first_seen": "2023-01-06 22:45:00",
+        "last_seen": "2023-01-31 03:27:24",
+        "ip_address": "2606:4700:3034::6815:99a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.recycledrailcars.com",
+        "count": "91",
+        "first_seen": "2023-01-06 22:45:00",
+        "last_seen": "2023-01-31 03:27:24",
+        "ip_address": "2606:4700:3034::ac43:a041",
+        "type": "IPv6"
+    }
+]

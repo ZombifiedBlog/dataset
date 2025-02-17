@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "dtg01hot.info",
+        "count": "4161",
+        "first_seen": "2020-02-20 09:19:40",
+        "last_seen": "2020-02-27 16:15:06",
+        "ip_address": "8.209.75.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dtg01hot.info",
+        "count": "8733",
+        "first_seen": "2020-02-15 12:39:36",
+        "last_seen": "2020-02-20 09:16:51",
+        "ip_address": "47.89.178.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dtg01hot.info",
+        "count": "226",
+        "first_seen": "2020-03-19 04:52:30",
+        "last_seen": "2020-03-23 09:21:59",
+        "ip_address": "47.91.86.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dtg01hot.info",
+        "count": "7",
+        "first_seen": "2020-03-03 20:25:36",
+        "last_seen": "2020-03-15 13:37:50",
+        "ip_address": "47.254.67.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dtg01hot.info",
+        "count": "22",
+        "first_seen": "2020-02-27 19:19:16",
+        "last_seen": "2020-02-29 19:35:10",
+        "ip_address": "47.254.171.159",
+        "type": "IPv4"
+    }
+]

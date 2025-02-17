@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.ancuemn.aoscson.com",
+        "count": "208",
+        "first_seen": "2021-09-12 20:31:37",
+        "last_seen": "2021-09-13 13:27:29",
+        "ip_address": "154.23.177.98",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ancuemn.aoscson.com",
+        "count": "234",
+        "first_seen": "2021-09-13 14:50:49",
+        "last_seen": "2022-08-18 18:29:29",
+        "ip_address": "155.235.250.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ancuemn.aoscson.com",
+        "count": "5",
+        "first_seen": "2022-09-13 00:22:57",
+        "last_seen": "2022-10-08 01:05:40",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ancuemn.aoscson.com",
+        "count": "1",
+        "first_seen": "2022-09-13 00:22:57",
+        "last_seen": "2022-09-13 00:22:57",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ancuemn.aoscson.com",
+        "count": "1",
+        "first_seen": "2022-10-08 01:05:40",
+        "last_seen": "2022-10-08 01:05:40",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

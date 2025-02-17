@@ -1,0 +1,146 @@
+[
+    {
+        "domain": "blog.booxium.com",
+        "count": "418",
+        "first_seen": "2017-12-27 07:27:11",
+        "last_seen": "2019-06-04 23:31:26",
+        "ip_address": "5.101.141.82",
+        "type": "IPv4"
+    },
+    {
+        "domain": "blog.booxium.com",
+        "count": "13",
+        "first_seen": "2019-06-06 04:05:13",
+        "last_seen": "2019-07-31 04:15:38",
+        "ip_address": "81.19.215.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "blog.booxium.com",
+        "count": "142",
+        "first_seen": "2023-10-27 01:59:48",
+        "last_seen": "2023-11-16 10:12:17",
+        "ip_address": "104.21.4.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "blog.booxium.com",
+        "count": "142",
+        "first_seen": "2023-10-27 01:59:48",
+        "last_seen": "2023-11-16 10:12:17",
+        "ip_address": "172.67.132.143",
+        "type": "IPv4"
+    },
+    {
+        "domain": "blog.booxium.com",
+        "count": "87",
+        "first_seen": "2019-08-21 09:16:25",
+        "last_seen": "2020-05-16 05:02:58",
+        "ip_address": "104.31.74.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "blog.booxium.com",
+        "count": "87",
+        "first_seen": "2019-08-21 09:16:25",
+        "last_seen": "2020-05-16 05:02:58",
+        "ip_address": "104.31.75.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "blog.booxium.com",
+        "count": "41",
+        "first_seen": "2020-05-28 04:45:00",
+        "last_seen": "2020-09-20 09:12:17",
+        "ip_address": "104.31.74.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "blog.booxium.com",
+        "count": "41",
+        "first_seen": "2020-05-28 04:45:00",
+        "last_seen": "2020-09-20 09:12:17",
+        "ip_address": "104.31.75.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "blog.booxium.com",
+        "count": "41",
+        "first_seen": "2020-05-28 04:45:00",
+        "last_seen": "2020-09-20 09:12:17",
+        "ip_address": "172.67.191.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "blog.booxium.com",
+        "count": "11",
+        "first_seen": "2017-12-16 13:10:09",
+        "last_seen": "2017-12-24 21:47:41",
+        "ip_address": "185.3.166.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "blog.booxium.com",
+        "count": "12783",
+        "first_seen": "2020-09-23 17:37:14",
+        "last_seen": "2023-10-26 02:46:01",
+        "ip_address": "213.136.94.188",
+        "type": "IPv4"
+    },
+    {
+        "domain": "blog.booxium.com",
+        "count": "34",
+        "first_seen": "2023-10-27 01:59:48",
+        "last_seen": "2023-11-13 22:03:31",
+        "ip_address": "2606:4700:3030::6815:4e2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "blog.booxium.com",
+        "count": "34",
+        "first_seen": "2023-10-27 01:59:48",
+        "last_seen": "2023-11-13 22:03:31",
+        "ip_address": "2606:4700:3035::ac43:848f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "blog.booxium.com",
+        "count": "31",
+        "first_seen": "2020-06-10 22:45:06",
+        "last_seen": "2020-09-20 09:12:17",
+        "ip_address": "2606:4700:3031::681f:4a89",
+        "type": "IPv6"
+    },
+    {
+        "domain": "blog.booxium.com",
+        "count": "31",
+        "first_seen": "2020-06-10 22:45:06",
+        "last_seen": "2020-09-20 09:12:17",
+        "ip_address": "2606:4700:3035::ac43:bf4d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "blog.booxium.com",
+        "count": "31",
+        "first_seen": "2020-06-10 22:45:06",
+        "last_seen": "2020-09-20 09:12:17",
+        "ip_address": "2606:4700:3036::681f:4b89",
+        "type": "IPv6"
+    },
+    {
+        "domain": "blog.booxium.com",
+        "count": "64",
+        "first_seen": "2020-01-20 03:59:09",
+        "last_seen": "2020-04-15 03:27:47",
+        "ip_address": "2606:4700:3031::681f:4a89",
+        "type": "IPv6"
+    },
+    {
+        "domain": "blog.booxium.com",
+        "count": "64",
+        "first_seen": "2020-01-20 03:59:09",
+        "last_seen": "2020-04-15 03:27:47",
+        "ip_address": "2606:4700:3036::681f:4b89",
+        "type": "IPv6"
+    }
+]

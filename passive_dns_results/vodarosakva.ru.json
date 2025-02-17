@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "vodarosakva.ru",
+        "count": "22",
+        "first_seen": "2020-03-26 18:21:03",
+        "last_seen": "2020-03-30 19:19:43",
+        "ip_address": "8.209.93.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vodarosakva.ru",
+        "count": "26",
+        "first_seen": "2019-10-14 20:50:53",
+        "last_seen": "2019-10-22 05:55:12",
+        "ip_address": "31.31.203.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vodarosakva.ru",
+        "count": "3024",
+        "first_seen": "2020-03-20 14:02:35",
+        "last_seen": "2020-03-26 17:56:57",
+        "ip_address": "47.91.86.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vodarosakva.ru",
+        "count": "2",
+        "first_seen": "2019-12-05 09:24:58",
+        "last_seen": "2019-12-05 09:24:58",
+        "ip_address": "54.38.123.245",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vodarosakva.ru",
+        "count": "20",
+        "first_seen": "2020-03-03 15:29:46",
+        "last_seen": "2020-03-19 12:02:20",
+        "ip_address": "62.76.185.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vodarosakva.ru",
+        "count": "2",
+        "first_seen": "2020-02-27 11:42:09",
+        "last_seen": "2020-02-27 11:42:09",
+        "ip_address": "94.237.46.176",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vodarosakva.ru",
+        "count": "19",
+        "first_seen": "2019-10-27 05:57:59",
+        "last_seen": "2020-02-24 20:30:03",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vodarosakva.ru",
+        "count": "44",
+        "first_seen": "2019-12-13 16:40:05",
+        "last_seen": "2020-01-26 02:18:48",
+        "ip_address": "151.248.122.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vodarosakva.ru",
+        "count": "5",
+        "first_seen": "2020-01-30 21:11:12",
+        "last_seen": "2020-02-02 22:01:30",
+        "ip_address": "185.246.153.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vodarosakva.ru",
+        "count": "9",
+        "first_seen": "2019-11-25 20:45:59",
+        "last_seen": "2019-11-30 02:15:36",
+        "ip_address": "213.80.238.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vodarosakva.ru",
+        "count": "25",
+        "first_seen": "2019-11-05 23:17:29",
+        "last_seen": "2019-11-21 07:19:43",
+        "ip_address": "213.183.41.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "vodarosakva.ru",
+        "count": "15",
+        "first_seen": "2019-10-14 20:50:53",
+        "last_seen": "2019-10-18 11:14:33",
+        "ip_address": "2a00:f940:1:1:2::7f6",
+        "type": "IPv6"
+    }
+]

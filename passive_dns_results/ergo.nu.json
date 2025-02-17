@@ -1,0 +1,426 @@
+[
+    {
+        "domain": "ergo.nu",
+        "count": "5",
+        "first_seen": "2023-08-12 15:26:27",
+        "last_seen": "2023-08-12 15:26:27",
+        "ip_address": "84.32.84.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "2",
+        "first_seen": "2023-08-11 12:57:38",
+        "last_seen": "2023-08-11 12:57:38",
+        "ip_address": "84.32.84.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-11 12:57:38",
+        "last_seen": "2023-08-11 12:57:38",
+        "ip_address": "84.32.84.154",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-11 23:06:12",
+        "last_seen": "2023-08-11 23:06:12",
+        "ip_address": "84.32.84.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "201",
+        "first_seen": "2011-08-24 08:22:32",
+        "last_seen": "2011-10-15 06:22:07",
+        "ip_address": "91.123.201.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "6464",
+        "first_seen": "2022-02-03 16:52:41",
+        "last_seen": "2024-01-18 10:04:21",
+        "ip_address": "153.92.216.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "2",
+        "first_seen": "2023-08-10 17:43:39",
+        "last_seen": "2023-08-10 17:43:39",
+        "ip_address": "154.41.249.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "2",
+        "first_seen": "2023-08-10 17:43:39",
+        "last_seen": "2023-08-10 17:43:39",
+        "ip_address": "154.41.249.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-11 12:57:38",
+        "last_seen": "2023-08-11 12:57:38",
+        "ip_address": "154.49.138.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "2",
+        "first_seen": "2023-08-11 12:56:40",
+        "last_seen": "2023-08-11 12:56:40",
+        "ip_address": "154.49.138.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-11 12:56:40",
+        "last_seen": "2023-08-11 12:56:40",
+        "ip_address": "154.49.138.98",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-11 12:56:40",
+        "last_seen": "2023-08-11 12:56:40",
+        "ip_address": "154.49.138.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-11 12:57:38",
+        "last_seen": "2023-08-11 12:57:38",
+        "ip_address": "154.49.138.156",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-12 15:26:27",
+        "last_seen": "2023-08-12 15:26:27",
+        "ip_address": "154.49.138.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-12 15:26:27",
+        "last_seen": "2023-08-12 15:26:27",
+        "ip_address": "154.49.138.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-11 01:44:07",
+        "last_seen": "2023-08-11 01:44:07",
+        "ip_address": "154.49.138.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "2",
+        "first_seen": "2023-08-10 18:57:29",
+        "last_seen": "2023-08-10 18:57:29",
+        "ip_address": "154.62.105.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "2",
+        "first_seen": "2023-08-10 17:46:49",
+        "last_seen": "2023-08-10 17:46:49",
+        "ip_address": "154.62.105.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "2",
+        "first_seen": "2023-08-10 18:57:28",
+        "last_seen": "2023-08-10 18:57:28",
+        "ip_address": "154.62.105.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-15 00:21:29",
+        "last_seen": "2023-08-15 00:21:29",
+        "ip_address": "154.62.106.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-11 09:28:19",
+        "last_seen": "2023-08-11 09:28:19",
+        "ip_address": "154.62.106.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "3",
+        "first_seen": "2023-08-11 12:56:40",
+        "last_seen": "2023-08-11 12:57:38",
+        "ip_address": "185.77.97.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "2",
+        "first_seen": "2023-08-11 12:57:38",
+        "last_seen": "2023-08-11 12:57:38",
+        "ip_address": "185.77.97.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "2",
+        "first_seen": "2023-08-13 05:24:14",
+        "last_seen": "2023-08-13 05:24:14",
+        "ip_address": "185.77.97.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-10 18:28:08",
+        "last_seen": "2023-08-10 18:28:08",
+        "ip_address": "185.77.97.131",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-11 12:57:38",
+        "last_seen": "2023-08-11 12:57:38",
+        "ip_address": "185.77.97.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "2",
+        "first_seen": "2023-08-11 12:56:40",
+        "last_seen": "2023-08-11 12:56:40",
+        "ip_address": "185.77.97.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-11 23:40:07",
+        "last_seen": "2023-08-11 23:40:07",
+        "ip_address": "185.77.97.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-13 23:48:45",
+        "last_seen": "2023-08-13 23:48:45",
+        "ip_address": "185.77.97.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-14 21:36:54",
+        "last_seen": "2023-08-14 21:36:54",
+        "ip_address": "185.77.97.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-11 12:25:37",
+        "last_seen": "2023-08-11 12:25:37",
+        "ip_address": "185.77.97.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-12 19:43:00",
+        "last_seen": "2023-08-12 19:43:00",
+        "ip_address": "191.96.144.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "2",
+        "first_seen": "2010-09-22 04:22:23",
+        "last_seen": "2010-09-22 04:22:23",
+        "ip_address": "193.88.99.142",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "3798",
+        "first_seen": "2021-06-21 16:03:22",
+        "last_seen": "2022-02-03 14:48:00",
+        "ip_address": "194.5.156.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "89",
+        "first_seen": "2011-10-16 13:36:24",
+        "last_seen": "2011-10-26 05:48:49",
+        "ip_address": "195.74.38.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "11900",
+        "first_seen": "2012-05-31 05:43:57",
+        "last_seen": "2021-06-21 09:46:27",
+        "ip_address": "195.74.38.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1007",
+        "first_seen": "2021-10-26 13:35:24",
+        "last_seen": "2022-02-03 14:48:00",
+        "ip_address": "2a02:4780:8:322:0:176f:65fa:1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1944",
+        "first_seen": "2022-02-04 06:03:58",
+        "last_seen": "2024-01-15 09:45:36",
+        "ip_address": "2a02:4780:8:620:0:176f:65fa:1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-10 01:41:50",
+        "last_seen": "2023-08-10 01:41:50",
+        "ip_address": "2a02:4780:1d:d7b3:d027:ea27:350c:c237",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-10 01:41:50",
+        "last_seen": "2023-08-10 01:41:50",
+        "ip_address": "2a02:4780:1e:4b96:683b:e13f:dadb:eb6e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-12 19:43:01",
+        "last_seen": "2023-08-12 19:43:01",
+        "ip_address": "2a02:4780:1e:4dd5:f4d3:1e87:ddba:e51",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-13 19:45:15",
+        "last_seen": "2023-08-13 19:45:15",
+        "ip_address": "2a02:4780:22:2003:ebbc:e2c2:65f6:391b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "2",
+        "first_seen": "2023-08-11 23:40:07",
+        "last_seen": "2023-08-11 23:40:07",
+        "ip_address": "2a02:4780:25:2b04:d931:c107:c109:52f1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-11 12:57:38",
+        "last_seen": "2023-08-11 12:57:38",
+        "ip_address": "2a02:4780:25:7afd:c74e:fe2c:18fc:fb6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "2",
+        "first_seen": "2023-08-11 12:56:41",
+        "last_seen": "2023-08-11 12:56:41",
+        "ip_address": "2a02:4780:26:44ef:323e:8ec7:d173:8288",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-11 12:56:41",
+        "last_seen": "2023-08-11 12:56:41",
+        "ip_address": "2a02:4780:26:75b0:cf64:e17a:652a:ecf3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "2",
+        "first_seen": "2023-08-11 12:57:38",
+        "last_seen": "2023-08-11 12:57:38",
+        "ip_address": "2a02:4780:26:a2d4:ee8c:e357:4a45:3e8f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-11 12:56:41",
+        "last_seen": "2023-08-11 12:56:41",
+        "ip_address": "2a02:4780:26:b02a:a1b3:89c0:47b9:3431",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "3",
+        "first_seen": "2023-08-11 12:56:41",
+        "last_seen": "2023-08-11 12:57:38",
+        "ip_address": "2a02:4780:26:ca84:ef3:4c50:aa08:a724",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-11 12:57:38",
+        "last_seen": "2023-08-11 12:57:38",
+        "ip_address": "2a02:4780:26:d775:7f41:b50a:9b4a:83a2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "2",
+        "first_seen": "2023-08-11 12:57:38",
+        "last_seen": "2023-08-11 12:57:38",
+        "ip_address": "2a02:4780:26:da23:7bef:dbbb:f3f8:d96a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-11 09:28:19",
+        "last_seen": "2023-08-11 09:28:19",
+        "ip_address": "2a02:4780:84:842e:7ef8:14ad:6f51:f7bc",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ergo.nu",
+        "count": "1",
+        "first_seen": "2023-08-11 12:56:41",
+        "last_seen": "2023-08-11 12:56:41",
+        "ip_address": "2a02:4780:84:f77b:ae19:e637:d6b6:b4e2",
+        "type": "IPv6"
+    }
+]

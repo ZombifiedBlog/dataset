@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "jp-cna.win",
+        "count": "12",
+        "first_seen": "2021-11-23 18:32:14",
+        "last_seen": "2021-11-30 11:29:51",
+        "ip_address": "23.94.160.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jp-cna.win",
+        "count": "158",
+        "first_seen": "2021-08-28 19:59:36",
+        "last_seen": "2021-11-12 00:09:43",
+        "ip_address": "66.150.66.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jp-cna.win",
+        "count": "6",
+        "first_seen": "2022-06-19 01:09:55",
+        "last_seen": "2022-07-15 23:50:20",
+        "ip_address": "72.52.179.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jp-cna.win",
+        "count": "31",
+        "first_seen": "2022-04-22 18:13:12",
+        "last_seen": "2022-06-08 02:46:57",
+        "ip_address": "91.215.155.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jp-cna.win",
+        "count": "149",
+        "first_seen": "2021-06-22 12:23:08",
+        "last_seen": "2021-08-04 08:22:08",
+        "ip_address": "195.133.11.74",
+        "type": "IPv4"
+    }
+]

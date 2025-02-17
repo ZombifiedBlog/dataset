@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "security-subscriber-center.wizardremote.com",
+        "count": "121",
+        "first_seen": "2022-12-31 08:29:05",
+        "last_seen": "2023-01-03 11:15:05",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.wizardremote.com",
+        "count": "4583",
+        "first_seen": "2022-10-01 23:24:44",
+        "last_seen": "2022-12-31 07:58:00",
+        "ip_address": "104.21.44.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.wizardremote.com",
+        "count": "4583",
+        "first_seen": "2022-10-01 23:24:44",
+        "last_seen": "2022-12-31 07:58:00",
+        "ip_address": "172.67.194.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.wizardremote.com",
+        "count": "48",
+        "first_seen": "2023-03-20 13:31:25",
+        "last_seen": "2023-12-27 06:06:36",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.wizardremote.com",
+        "count": "233",
+        "first_seen": "2022-10-07 20:55:33",
+        "last_seen": "2022-12-31 01:43:24",
+        "ip_address": "2606:4700:3030::ac43:c257",
+        "type": "IPv6"
+    },
+    {
+        "domain": "security-subscriber-center.wizardremote.com",
+        "count": "233",
+        "first_seen": "2022-10-07 20:55:33",
+        "last_seen": "2022-12-31 01:43:24",
+        "ip_address": "2606:4700:3034::6815:2c20",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.90offsunglasses.com",
+        "count": "28816",
+        "first_seen": "2022-04-01 00:15:57",
+        "last_seen": "2022-05-07 05:21:25",
+        "ip_address": "104.21.60.175",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.90offsunglasses.com",
+        "count": "28816",
+        "first_seen": "2022-04-01 00:15:57",
+        "last_seen": "2022-05-07 05:21:25",
+        "ip_address": "172.67.198.237",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.90offsunglasses.com",
+        "count": "1",
+        "first_seen": "2022-04-08 11:18:14",
+        "last_seen": "2022-04-08 11:18:14",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.90offsunglasses.com",
+        "count": "1940",
+        "first_seen": "2022-04-01 00:15:57",
+        "last_seen": "2022-05-07 00:20:27",
+        "ip_address": "2606:4700:3031::6815:3caf",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.90offsunglasses.com",
+        "count": "1940",
+        "first_seen": "2022-04-01 00:15:57",
+        "last_seen": "2022-05-07 00:20:27",
+        "ip_address": "2606:4700:3031::ac43:c6ed",
+        "type": "IPv6"
+    }
+]

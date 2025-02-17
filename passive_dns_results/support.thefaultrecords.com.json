@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "support.thefaultrecords.com",
+        "count": "452",
+        "first_seen": "2022-11-09 15:31:22",
+        "last_seen": "2022-11-26 20:32:28",
+        "ip_address": "45.61.184.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.thefaultrecords.com",
+        "count": "1023",
+        "first_seen": "2022-10-15 07:13:53",
+        "last_seen": "2022-11-03 12:19:36",
+        "ip_address": "45.61.187.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.thefaultrecords.com",
+        "count": "7",
+        "first_seen": "2023-01-26 08:46:35",
+        "last_seen": "2023-02-25 06:55:53",
+        "ip_address": "103.120.80.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.thefaultrecords.com",
+        "count": "7",
+        "first_seen": "2023-01-26 08:46:35",
+        "last_seen": "2023-02-25 06:55:53",
+        "ip_address": "103.139.0.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.thefaultrecords.com",
+        "count": "157",
+        "first_seen": "2022-11-03 15:06:00",
+        "last_seen": "2022-11-09 12:48:05",
+        "ip_address": "198.98.57.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.thefaultrecords.com",
+        "count": "74",
+        "first_seen": "2023-04-04 11:46:44",
+        "last_seen": "2024-01-15 15:01:56",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.thefaultrecords.com",
+        "count": "865",
+        "first_seen": "2022-09-16 15:15:08",
+        "last_seen": "2022-10-15 01:46:16",
+        "ip_address": "209.141.41.158",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.thefaultrecords.com",
+        "count": "1",
+        "first_seen": "2023-06-06 01:12:03",
+        "last_seen": "2023-06-06 01:12:03",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    }
+]

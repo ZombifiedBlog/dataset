@@ -1,0 +1,114 @@
+[
+    {
+        "domain": "subscriber.grocerytrademagazine.com",
+        "count": "6",
+        "first_seen": "2023-04-03 11:44:50",
+        "last_seen": "2023-09-13 18:40:56",
+        "ip_address": "64.32.8.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.grocerytrademagazine.com",
+        "count": "1",
+        "first_seen": "2023-05-17 05:16:07",
+        "last_seen": "2023-05-17 05:16:07",
+        "ip_address": "64.32.8.68",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.grocerytrademagazine.com",
+        "count": "2",
+        "first_seen": "2023-04-04 01:42:22",
+        "last_seen": "2023-05-05 03:29:04",
+        "ip_address": "64.32.8.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.grocerytrademagazine.com",
+        "count": "5",
+        "first_seen": "2023-05-10 21:37:24",
+        "last_seen": "2023-11-06 13:46:58",
+        "ip_address": "64.32.8.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.grocerytrademagazine.com",
+        "count": "417",
+        "first_seen": "2022-11-29 19:26:40",
+        "last_seen": "2023-01-09 07:42:35",
+        "ip_address": "104.21.34.82",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.grocerytrademagazine.com",
+        "count": "417",
+        "first_seen": "2022-11-29 19:26:40",
+        "last_seen": "2023-01-09 07:42:35",
+        "ip_address": "172.67.201.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.grocerytrademagazine.com",
+        "count": "2",
+        "first_seen": "2023-11-28 14:20:25",
+        "last_seen": "2024-01-13 06:42:34",
+        "ip_address": "162.210.196.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.grocerytrademagazine.com",
+        "count": "3",
+        "first_seen": "2023-05-28 18:14:39",
+        "last_seen": "2023-11-27 14:16:15",
+        "ip_address": "185.107.56.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.grocerytrademagazine.com",
+        "count": "2",
+        "first_seen": "2023-04-29 17:51:04",
+        "last_seen": "2023-10-07 20:25:13",
+        "ip_address": "185.107.56.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.grocerytrademagazine.com",
+        "count": "2",
+        "first_seen": "2023-06-30 01:51:18",
+        "last_seen": "2023-06-30 01:51:18",
+        "ip_address": "185.107.56.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.grocerytrademagazine.com",
+        "count": "1",
+        "first_seen": "2023-11-20 14:05:14",
+        "last_seen": "2023-11-20 14:05:14",
+        "ip_address": "199.115.116.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.grocerytrademagazine.com",
+        "count": "26",
+        "first_seen": "2023-01-11 13:30:48",
+        "last_seen": "2023-02-15 10:42:27",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.grocerytrademagazine.com",
+        "count": "36",
+        "first_seen": "2022-12-01 10:36:46",
+        "last_seen": "2023-01-07 19:50:38",
+        "ip_address": "2606:4700:3033::6815:2252",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.grocerytrademagazine.com",
+        "count": "36",
+        "first_seen": "2022-12-01 10:36:46",
+        "last_seen": "2023-01-07 19:50:38",
+        "ip_address": "2606:4700:3037::ac43:c964",
+        "type": "IPv6"
+    }
+]

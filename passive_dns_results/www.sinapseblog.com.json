@@ -1,0 +1,106 @@
+[
+    {
+        "domain": "www.sinapseblog.com",
+        "count": "85",
+        "first_seen": "2013-06-30 10:40:06",
+        "last_seen": "2013-07-05 17:45:42",
+        "ip_address": "108.162.194.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sinapseblog.com",
+        "count": "85",
+        "first_seen": "2013-06-30 10:40:06",
+        "last_seen": "2013-07-05 17:45:42",
+        "ip_address": "108.162.195.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sinapseblog.com",
+        "count": "18",
+        "first_seen": "2013-08-08 21:02:28",
+        "last_seen": "2013-08-12 09:28:49",
+        "ip_address": "108.162.194.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sinapseblog.com",
+        "count": "18",
+        "first_seen": "2013-08-08 21:02:28",
+        "last_seen": "2013-08-12 09:28:49",
+        "ip_address": "108.162.195.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sinapseblog.com",
+        "count": "3484",
+        "first_seen": "2013-05-17 16:32:58",
+        "last_seen": "2014-03-28 05:19:48",
+        "ip_address": "108.162.196.249",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sinapseblog.com",
+        "count": "3484",
+        "first_seen": "2013-05-17 16:32:58",
+        "last_seen": "2014-03-28 05:19:48",
+        "ip_address": "108.162.197.249",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sinapseblog.com",
+        "count": "266",
+        "first_seen": "2013-04-26 11:57:46",
+        "last_seen": "2013-05-17 14:53:04",
+        "ip_address": "184.106.55.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sinapseblog.com",
+        "count": "1108",
+        "first_seen": "2016-02-16 09:12:22",
+        "last_seen": "2016-03-05 04:20:31",
+        "ip_address": "190.93.248.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sinapseblog.com",
+        "count": "1108",
+        "first_seen": "2016-02-16 09:12:22",
+        "last_seen": "2016-03-05 04:20:31",
+        "ip_address": "190.93.249.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sinapseblog.com",
+        "count": "88",
+        "first_seen": "2013-06-11 06:19:04",
+        "last_seen": "2013-06-18 06:58:31",
+        "ip_address": "199.27.134.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sinapseblog.com",
+        "count": "88",
+        "first_seen": "2013-06-11 06:19:04",
+        "last_seen": "2013-06-18 06:58:31",
+        "ip_address": "199.27.135.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sinapseblog.com",
+        "count": "3",
+        "first_seen": "2014-03-15 19:46:19",
+        "last_seen": "2014-03-27 08:14:34",
+        "ip_address": "2400:cb00:2048:1::6ca2:c4f9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.sinapseblog.com",
+        "count": "3",
+        "first_seen": "2014-03-15 19:46:19",
+        "last_seen": "2014-03-27 08:14:34",
+        "ip_address": "2400:cb00:2048:1::6ca2:c5f9",
+        "type": "IPv6"
+    }
+]

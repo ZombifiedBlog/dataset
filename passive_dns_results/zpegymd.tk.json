@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "zpegymd.tk",
+        "count": "107",
+        "first_seen": "2022-08-11 07:47:01",
+        "last_seen": "2022-08-13 00:30:09",
+        "ip_address": "104.21.42.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zpegymd.tk",
+        "count": "107",
+        "first_seen": "2022-08-11 07:47:01",
+        "last_seen": "2022-08-13 00:30:09",
+        "ip_address": "172.67.210.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zpegymd.tk",
+        "count": "5",
+        "first_seen": "2022-08-11 06:44:07",
+        "last_seen": "2022-08-11 06:56:05",
+        "ip_address": "167.160.188.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zpegymd.tk",
+        "count": "48",
+        "first_seen": "2022-08-11 07:47:01",
+        "last_seen": "2022-08-11 10:50:32",
+        "ip_address": "2606:4700:3030::6815:2ac9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "zpegymd.tk",
+        "count": "48",
+        "first_seen": "2022-08-11 07:47:01",
+        "last_seen": "2022-08-11 10:50:32",
+        "ip_address": "2606:4700:3035::ac43:d20d",
+        "type": "IPv6"
+    }
+]

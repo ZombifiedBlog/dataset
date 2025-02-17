@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www2.etc-meisci.akdswitchgear-me.com",
+        "count": "340",
+        "first_seen": "2023-05-29 07:22:04",
+        "last_seen": "2023-07-04 17:05:25",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etc-meisci.akdswitchgear-me.com",
+        "count": "20",
+        "first_seen": "2023-05-22 02:19:32",
+        "last_seen": "2023-05-25 20:50:11",
+        "ip_address": "172.245.6.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etc-meisci.akdswitchgear-me.com",
+        "count": "7",
+        "first_seen": "2023-07-08 14:52:50",
+        "last_seen": "2023-07-12 19:05:22",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etc-meisci.akdswitchgear-me.com",
+        "count": "2",
+        "first_seen": "2023-07-12 12:27:27",
+        "last_seen": "2023-07-13 03:32:02",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etc-meisci.akdswitchgear-me.com",
+        "count": "28",
+        "first_seen": "2023-07-11 13:26:18",
+        "last_seen": "2023-07-13 09:02:41",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

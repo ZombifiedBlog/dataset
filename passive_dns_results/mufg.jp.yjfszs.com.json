@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "mufg.jp.yjfszs.com",
+        "count": "300",
+        "first_seen": "2022-01-05 00:25:57",
+        "last_seen": "2022-01-11 06:40:03",
+        "ip_address": "45.207.33.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mufg.jp.yjfszs.com",
+        "count": "443",
+        "first_seen": "2022-01-13 09:21:52",
+        "last_seen": "2022-02-21 19:11:58",
+        "ip_address": "204.11.56.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mufg.jp.yjfszs.com",
+        "count": "35",
+        "first_seen": "2022-01-12 11:41:41",
+        "last_seen": "2022-02-06 07:46:36",
+        "ip_address": "204.11.56.37",
+        "type": "IPv4"
+    }
+]

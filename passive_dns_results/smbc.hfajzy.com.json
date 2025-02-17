@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "smbc.hfajzy.com",
+        "count": "1549",
+        "first_seen": "2023-05-31 16:11:32",
+        "last_seen": "2023-06-21 19:09:12",
+        "ip_address": "34.85.34.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.hfajzy.com",
+        "count": "179",
+        "first_seen": "2023-09-06 17:38:38",
+        "last_seen": "2023-11-15 16:55:19",
+        "ip_address": "104.21.2.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.hfajzy.com",
+        "count": "179",
+        "first_seen": "2023-09-06 17:38:38",
+        "last_seen": "2023-11-15 16:55:19",
+        "ip_address": "172.67.129.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.hfajzy.com",
+        "count": "2",
+        "first_seen": "2023-10-28 13:16:29",
+        "last_seen": "2023-10-28 13:16:29",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.hfajzy.com",
+        "count": "2",
+        "first_seen": "2023-10-28 13:16:29",
+        "last_seen": "2023-10-28 13:16:29",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.hfajzy.com",
+        "count": "46",
+        "first_seen": "2023-09-06 17:44:20",
+        "last_seen": "2023-09-27 23:56:00",
+        "ip_address": "2606:4700:3033::ac43:8181",
+        "type": "IPv6"
+    },
+    {
+        "domain": "smbc.hfajzy.com",
+        "count": "46",
+        "first_seen": "2023-09-06 17:44:20",
+        "last_seen": "2023-09-27 23:56:00",
+        "ip_address": "2606:4700:3037::6815:2ae",
+        "type": "IPv6"
+    }
+]

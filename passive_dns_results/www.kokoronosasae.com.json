@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.kokoronosasae.com",
+        "count": "156",
+        "first_seen": "2023-04-05 18:14:01",
+        "last_seen": "2024-01-14 13:39:19",
+        "ip_address": "49.212.125.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kokoronosasae.com",
+        "count": "101",
+        "first_seen": "2020-10-15 04:56:30",
+        "last_seen": "2023-02-20 20:14:33",
+        "ip_address": "153.126.148.244",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kokoronosasae.com",
+        "count": "33",
+        "first_seen": "2017-06-28 02:38:22",
+        "last_seen": "2017-12-31 05:42:33",
+        "ip_address": "185.53.179.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kokoronosasae.com",
+        "count": "245",
+        "first_seen": "2012-01-10 14:35:49",
+        "last_seen": "2017-02-06 08:57:11",
+        "ip_address": "210.157.30.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kokoronosasae.com",
+        "count": "7",
+        "first_seen": "2011-06-22 16:56:00",
+        "last_seen": "2011-12-01 16:26:50",
+        "ip_address": "210.157.30.67",
+        "type": "IPv4"
+    }
+]

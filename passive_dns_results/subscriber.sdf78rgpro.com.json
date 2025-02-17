@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "subscriber.sdf78rgpro.com",
+        "count": "678",
+        "first_seen": "2020-05-06 02:26:27",
+        "last_seen": "2020-05-23 16:23:39",
+        "ip_address": "104.27.146.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sdf78rgpro.com",
+        "count": "678",
+        "first_seen": "2020-05-06 02:26:27",
+        "last_seen": "2020-05-23 16:23:39",
+        "ip_address": "104.27.147.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sdf78rgpro.com",
+        "count": "13",
+        "first_seen": "2020-05-30 16:34:09",
+        "last_seen": "2020-06-25 17:15:34",
+        "ip_address": "104.27.146.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sdf78rgpro.com",
+        "count": "13",
+        "first_seen": "2020-05-30 16:34:09",
+        "last_seen": "2020-06-25 17:15:34",
+        "ip_address": "104.27.147.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sdf78rgpro.com",
+        "count": "13",
+        "first_seen": "2020-05-30 16:34:09",
+        "last_seen": "2020-06-25 17:15:34",
+        "ip_address": "172.67.138.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sdf78rgpro.com",
+        "count": "459",
+        "first_seen": "2020-05-06 02:36:35",
+        "last_seen": "2020-05-19 16:23:54",
+        "ip_address": "2606:4700:3032::681b:9221",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.sdf78rgpro.com",
+        "count": "459",
+        "first_seen": "2020-05-06 02:36:35",
+        "last_seen": "2020-05-19 16:23:54",
+        "ip_address": "2606:4700:3032::681b:9321",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.sdf78rgpro.com",
+        "count": "3",
+        "first_seen": "2020-06-02 11:58:18",
+        "last_seen": "2020-06-02 13:21:21",
+        "ip_address": "2606:4700:3032::681b:9221",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.sdf78rgpro.com",
+        "count": "3",
+        "first_seen": "2020-06-02 11:58:18",
+        "last_seen": "2020-06-02 13:21:21",
+        "ip_address": "2606:4700:3032::681b:9321",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.sdf78rgpro.com",
+        "count": "3",
+        "first_seen": "2020-06-02 11:58:18",
+        "last_seen": "2020-06-02 13:21:21",
+        "ip_address": "2606:4700:3032::ac43:8ae6",
+        "type": "IPv6"
+    }
+]

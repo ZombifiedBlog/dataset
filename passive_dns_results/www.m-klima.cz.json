@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.m-klima.cz",
+        "count": "459",
+        "first_seen": "2023-06-07 11:35:30",
+        "last_seen": "2024-01-16 11:18:05",
+        "ip_address": "37.235.104.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.m-klima.cz",
+        "count": "925",
+        "first_seen": "2017-06-09 16:49:04",
+        "last_seen": "2018-03-25 01:18:31",
+        "ip_address": "94.23.170.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.m-klima.cz",
+        "count": "160",
+        "first_seen": "2011-03-04 12:41:25",
+        "last_seen": "2014-06-11 13:50:25",
+        "ip_address": "95.168.206.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.m-klima.cz",
+        "count": "3604",
+        "first_seen": "2014-07-27 14:26:18",
+        "last_seen": "2017-06-09 06:16:28",
+        "ip_address": "95.168.206.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.m-klima.cz",
+        "count": "4388",
+        "first_seen": "2018-06-21 16:13:43",
+        "last_seen": "2023-06-05 08:48:59",
+        "ip_address": "95.215.81.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.m-klima.cz",
+        "count": "200",
+        "first_seen": "2018-03-28 09:48:11",
+        "last_seen": "2018-06-20 08:11:02",
+        "ip_address": "217.16.183.170",
+        "type": "IPv4"
+    }
+]

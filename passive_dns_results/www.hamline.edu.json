@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.hamline.edu",
+        "count": "8069",
+        "first_seen": "2023-12-06 15:41:29",
+        "last_seen": "2024-01-18 04:22:22",
+        "ip_address": "23.185.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hamline.edu",
+        "count": "468484",
+        "first_seen": "2014-08-21 01:24:53",
+        "last_seen": "2022-07-19 11:06:42",
+        "ip_address": "138.192.3.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hamline.edu",
+        "count": "29175",
+        "first_seen": "2010-06-25 11:20:37",
+        "last_seen": "2011-04-30 13:57:35",
+        "ip_address": "138.192.25.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hamline.edu",
+        "count": "126582",
+        "first_seen": "2011-04-30 13:59:37",
+        "last_seen": "2014-08-21 03:26:39",
+        "ip_address": "138.192.25.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hamline.edu",
+        "count": "3981",
+        "first_seen": "2023-12-06 17:39:14",
+        "last_seen": "2024-01-18 02:26:47",
+        "ip_address": "2620:12a:8000::1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.hamline.edu",
+        "count": "3981",
+        "first_seen": "2023-12-06 17:39:14",
+        "last_seen": "2024-01-18 02:26:47",
+        "ip_address": "2620:12a:8001::1",
+        "type": "IPv6"
+    }
+]

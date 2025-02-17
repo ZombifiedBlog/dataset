@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "my-jcb.atandcompany.com",
+        "count": "58",
+        "first_seen": "2021-01-07 17:13:55",
+        "last_seen": "2021-01-11 18:25:38",
+        "ip_address": "104.24.100.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.atandcompany.com",
+        "count": "58",
+        "first_seen": "2021-01-07 17:13:55",
+        "last_seen": "2021-01-11 18:25:38",
+        "ip_address": "104.24.101.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.atandcompany.com",
+        "count": "58",
+        "first_seen": "2021-01-07 17:13:55",
+        "last_seen": "2021-01-11 18:25:38",
+        "ip_address": "172.67.207.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.atandcompany.com",
+        "count": "5",
+        "first_seen": "2023-04-19 13:09:25",
+        "last_seen": "2023-05-09 03:41:48",
+        "ip_address": "204.11.56.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.atandcompany.com",
+        "count": "16",
+        "first_seen": "2021-03-23 12:52:56",
+        "last_seen": "2021-10-27 16:32:06",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.atandcompany.com",
+        "count": "49",
+        "first_seen": "2021-01-13 11:17:50",
+        "last_seen": "2021-02-07 18:54:23",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.atandcompany.com",
+        "count": "9",
+        "first_seen": "2021-01-13 11:17:50",
+        "last_seen": "2021-02-01 23:20:42",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.atandcompany.com",
+        "count": "22",
+        "first_seen": "2021-01-07 17:13:56",
+        "last_seen": "2021-01-11 18:25:38",
+        "ip_address": "2606:4700:3030::6818:654b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.atandcompany.com",
+        "count": "22",
+        "first_seen": "2021-01-07 17:13:56",
+        "last_seen": "2021-01-11 18:25:38",
+        "ip_address": "2606:4700:3033::ac43:cfc6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.atandcompany.com",
+        "count": "22",
+        "first_seen": "2021-01-07 17:13:56",
+        "last_seen": "2021-01-11 18:25:38",
+        "ip_address": "2606:4700:3037::6818:644b",
+        "type": "IPv6"
+    }
+]

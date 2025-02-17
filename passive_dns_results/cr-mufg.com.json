@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "cr-mufg.com",
+        "count": "63",
+        "first_seen": "2021-01-25 20:20:26",
+        "last_seen": "2021-02-12 22:19:42",
+        "ip_address": "23.95.234.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr-mufg.com",
+        "count": "955",
+        "first_seen": "2021-01-19 16:51:43",
+        "last_seen": "2021-01-25 18:59:45",
+        "ip_address": "23.95.234.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr-mufg.com",
+        "count": "6",
+        "first_seen": "2022-01-31 04:33:48",
+        "last_seen": "2022-02-18 02:28:50",
+        "ip_address": "43.130.64.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr-mufg.com",
+        "count": "5",
+        "first_seen": "2019-06-05 17:01:41",
+        "last_seen": "2019-06-09 12:22:05",
+        "ip_address": "67.227.154.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr-mufg.com",
+        "count": "26",
+        "first_seen": "2020-06-06 22:30:34",
+        "last_seen": "2020-07-16 20:27:12",
+        "ip_address": "91.195.240.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr-mufg.com",
+        "count": "268",
+        "first_seen": "2019-07-07 00:05:06",
+        "last_seen": "2020-06-05 02:03:59",
+        "ip_address": "98.124.204.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr-mufg.com",
+        "count": "36",
+        "first_seen": "2021-02-23 11:25:06",
+        "last_seen": "2021-05-21 00:00:08",
+        "ip_address": "103.214.171.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr-mufg.com",
+        "count": "17",
+        "first_seen": "2023-03-29 23:04:10",
+        "last_seen": "2023-05-03 06:28:22",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr-mufg.com",
+        "count": "4",
+        "first_seen": "2021-06-27 07:27:48",
+        "last_seen": "2021-06-27 07:27:48",
+        "ip_address": "154.83.125.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr-mufg.com",
+        "count": "79",
+        "first_seen": "2022-04-10 13:36:49",
+        "last_seen": "2023-03-24 22:00:42",
+        "ip_address": "154.218.66.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr-mufg.com",
+        "count": "49",
+        "first_seen": "2021-07-07 20:13:55",
+        "last_seen": "2022-01-15 10:33:40",
+        "ip_address": "156.245.207.199",
+        "type": "IPv4"
+    }
+]

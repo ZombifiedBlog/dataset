@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "www.greenstonessg.com",
+        "count": "2",
+        "first_seen": "2020-02-21 06:39:09",
+        "last_seen": "2020-02-21 06:39:09",
+        "ip_address": "51.77.100.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greenstonessg.com",
+        "count": "6",
+        "first_seen": "2019-02-02 15:30:00",
+        "last_seen": "2020-01-11 10:03:03",
+        "ip_address": "104.28.28.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greenstonessg.com",
+        "count": "6",
+        "first_seen": "2019-02-02 15:30:00",
+        "last_seen": "2020-01-11 10:03:03",
+        "ip_address": "104.28.29.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greenstonessg.com",
+        "count": "685",
+        "first_seen": "2020-03-01 10:11:40",
+        "last_seen": "2020-04-26 03:30:24",
+        "ip_address": "104.31.80.202",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greenstonessg.com",
+        "count": "685",
+        "first_seen": "2020-03-01 10:11:40",
+        "last_seen": "2020-04-26 03:30:24",
+        "ip_address": "104.31.81.202",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greenstonessg.com",
+        "count": "81",
+        "first_seen": "2020-01-20 14:09:30",
+        "last_seen": "2020-01-21 14:04:11",
+        "ip_address": "158.69.39.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greenstonessg.com",
+        "count": "1",
+        "first_seen": "2021-02-25 08:19:20",
+        "last_seen": "2021-02-25 08:19:20",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greenstonessg.com",
+        "count": "1",
+        "first_seen": "2021-02-25 08:19:20",
+        "last_seen": "2021-02-25 08:19:20",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greenstonessg.com",
+        "count": "1",
+        "first_seen": "2021-02-25 08:19:20",
+        "last_seen": "2021-02-25 08:19:20",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greenstonessg.com",
+        "count": "1",
+        "first_seen": "2021-02-25 08:19:20",
+        "last_seen": "2021-02-25 08:19:20",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greenstonessg.com",
+        "count": "262",
+        "first_seen": "2020-03-01 10:11:45",
+        "last_seen": "2020-04-26 03:30:24",
+        "ip_address": "2606:4700:3032::681f:51ca",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.greenstonessg.com",
+        "count": "262",
+        "first_seen": "2020-03-01 10:11:45",
+        "last_seen": "2020-04-26 03:30:24",
+        "ip_address": "2606:4700:3033::681f:50ca",
+        "type": "IPv6"
+    }
+]

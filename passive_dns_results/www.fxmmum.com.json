@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "www.fxmmum.com",
+        "count": "2",
+        "first_seen": "2023-03-04 11:59:51",
+        "last_seen": "2023-03-25 07:32:09",
+        "ip_address": "5.79.79.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.fxmmum.com",
+        "count": "1",
+        "first_seen": "2023-04-10 22:30:39",
+        "last_seen": "2023-04-10 22:30:39",
+        "ip_address": "5.79.79.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.fxmmum.com",
+        "count": "1",
+        "first_seen": "2023-05-02 17:36:33",
+        "last_seen": "2023-05-02 17:36:33",
+        "ip_address": "81.171.22.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.fxmmum.com",
+        "count": "42",
+        "first_seen": "2023-10-21 03:38:27",
+        "last_seen": "2023-12-03 07:04:00",
+        "ip_address": "103.224.212.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.fxmmum.com",
+        "count": "97",
+        "first_seen": "2022-11-16 15:19:24",
+        "last_seen": "2023-09-22 16:41:51",
+        "ip_address": "103.224.212.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.fxmmum.com",
+        "count": "1",
+        "first_seen": "2023-03-23 10:21:57",
+        "last_seen": "2023-03-23 10:21:57",
+        "ip_address": "108.59.12.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.fxmmum.com",
+        "count": "1",
+        "first_seen": "2023-04-22 14:08:37",
+        "last_seen": "2023-04-22 14:08:37",
+        "ip_address": "108.59.12.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.fxmmum.com",
+        "count": "1",
+        "first_seen": "2023-09-18 06:31:17",
+        "last_seen": "2023-09-18 06:31:17",
+        "ip_address": "170.178.183.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.fxmmum.com",
+        "count": "1",
+        "first_seen": "2023-04-13 22:25:31",
+        "last_seen": "2023-04-13 22:25:31",
+        "ip_address": "199.115.115.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.fxmmum.com",
+        "count": "1942",
+        "first_seen": "2022-07-26 15:25:02",
+        "last_seen": "2022-07-30 01:35:08",
+        "ip_address": "204.152.210.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.fxmmum.com",
+        "count": "1",
+        "first_seen": "2023-03-23 10:21:57",
+        "last_seen": "2023-03-23 10:21:57",
+        "ip_address": "207.244.76.130",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.fxmmum.com",
+        "count": "2",
+        "first_seen": "2023-10-27 13:42:03",
+        "last_seen": "2023-10-27 13:42:03",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    }
+]

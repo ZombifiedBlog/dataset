@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "rakuten.co.jp.hackcriticalops.com",
+        "count": "78",
+        "first_seen": "2020-12-09 15:31:43",
+        "last_seen": "2020-12-10 12:11:07",
+        "ip_address": "107.172.22.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten.co.jp.hackcriticalops.com",
+        "count": "1",
+        "first_seen": "2020-12-24 15:50:15",
+        "last_seen": "2020-12-24 15:50:15",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten.co.jp.hackcriticalops.com",
+        "count": "1",
+        "first_seen": "2021-01-01 11:30:17",
+        "last_seen": "2021-01-01 11:30:17",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    }
+]

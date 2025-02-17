@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "rakuten-co.xyz",
+        "count": "51",
+        "first_seen": "2023-01-26 17:14:45",
+        "last_seen": "2023-06-18 08:34:53",
+        "ip_address": "104.21.6.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten-co.xyz",
+        "count": "51",
+        "first_seen": "2023-01-26 17:14:45",
+        "last_seen": "2023-06-18 08:34:53",
+        "ip_address": "172.67.134.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten-co.xyz",
+        "count": "1",
+        "first_seen": "2023-01-26 10:46:22",
+        "last_seen": "2023-01-26 10:46:22",
+        "ip_address": "149.28.134.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten-co.xyz",
+        "count": "106",
+        "first_seen": "2020-11-23 13:59:14",
+        "last_seen": "2020-11-25 05:00:32",
+        "ip_address": "173.82.235.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten-co.xyz",
+        "count": "221",
+        "first_seen": "2020-10-21 17:22:17",
+        "last_seen": "2020-10-23 22:51:28",
+        "ip_address": "198.74.110.142",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rakuten-co.xyz",
+        "count": "16",
+        "first_seen": "2023-01-26 23:18:44",
+        "last_seen": "2023-06-17 15:20:58",
+        "ip_address": "2606:4700:3036::6815:67d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rakuten-co.xyz",
+        "count": "16",
+        "first_seen": "2023-01-26 23:18:44",
+        "last_seen": "2023-06-17 15:20:58",
+        "ip_address": "2606:4700:3037::ac43:86d9",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "glow.cleannameservers.com",
+        "count": "11457",
+        "first_seen": "2014-05-14 04:44:07",
+        "last_seen": "2019-06-18 19:07:48",
+        "ip_address": "192.210.220.98",
+        "type": "IPv4"
+    },
+    {
+        "domain": "glow.cleannameservers.com",
+        "count": "4",
+        "first_seen": "2017-05-06 16:22:22",
+        "last_seen": "2018-05-05 12:10:29",
+        "ip_address": "209.99.40.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "glow.cleannameservers.com",
+        "count": "4",
+        "first_seen": "2017-05-06 14:35:25",
+        "last_seen": "2018-05-05 15:54:24",
+        "ip_address": "209.99.40.223",
+        "type": "IPv4"
+    }
+]

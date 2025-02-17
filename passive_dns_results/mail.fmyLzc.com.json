@@ -1,0 +1,106 @@
+[
+    {
+        "domain": "mail.fmyLzc.com",
+        "count": "6",
+        "first_seen": "2016-07-24 00:37:07",
+        "last_seen": "2016-09-02 07:57:55",
+        "ip_address": "66.197.134.158",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.fmyLzc.com",
+        "count": "802",
+        "first_seen": "2020-06-09 08:55:07",
+        "last_seen": "2020-06-24 02:17:55",
+        "ip_address": "104.27.140.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.fmyLzc.com",
+        "count": "802",
+        "first_seen": "2020-06-09 08:55:07",
+        "last_seen": "2020-06-24 02:17:55",
+        "ip_address": "104.27.141.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.fmyLzc.com",
+        "count": "802",
+        "first_seen": "2020-06-09 08:55:07",
+        "last_seen": "2020-06-24 02:17:55",
+        "ip_address": "172.67.146.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.fmyLzc.com",
+        "count": "441",
+        "first_seen": "2020-06-24 06:38:01",
+        "last_seen": "2020-08-19 21:16:02",
+        "ip_address": "104.28.20.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.fmyLzc.com",
+        "count": "441",
+        "first_seen": "2020-06-24 06:38:01",
+        "last_seen": "2020-08-19 21:16:02",
+        "ip_address": "104.28.21.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.fmyLzc.com",
+        "count": "441",
+        "first_seen": "2020-06-24 06:38:01",
+        "last_seen": "2020-08-19 21:16:02",
+        "ip_address": "172.67.129.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.fmyLzc.com",
+        "count": "286",
+        "first_seen": "2020-06-09 10:21:55",
+        "last_seen": "2020-06-23 23:53:33",
+        "ip_address": "2606:4700:3033::681b:8c75",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.fmyLzc.com",
+        "count": "286",
+        "first_seen": "2020-06-09 10:21:55",
+        "last_seen": "2020-06-23 23:53:33",
+        "ip_address": "2606:4700:3035::ac43:9211",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.fmyLzc.com",
+        "count": "286",
+        "first_seen": "2020-06-09 10:21:55",
+        "last_seen": "2020-06-23 23:53:33",
+        "ip_address": "2606:4700:3036::681b:8d75",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.fmyLzc.com",
+        "count": "151",
+        "first_seen": "2020-06-24 06:38:01",
+        "last_seen": "2020-08-19 21:16:02",
+        "ip_address": "2606:4700:3034::681c:1410",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.fmyLzc.com",
+        "count": "151",
+        "first_seen": "2020-06-24 06:38:01",
+        "last_seen": "2020-08-19 21:16:02",
+        "ip_address": "2606:4700:3036::681c:1510",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.fmyLzc.com",
+        "count": "151",
+        "first_seen": "2020-06-24 06:38:01",
+        "last_seen": "2020-08-19 21:16:02",
+        "ip_address": "2606:4700:3037::ac43:8104",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.helperfunction.com",
+        "count": "63",
+        "first_seen": "2017-02-05 01:59:23",
+        "last_seen": "2019-04-02 14:57:45",
+        "ip_address": "64.98.145.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.helperfunction.com",
+        "count": "2",
+        "first_seen": "2016-02-26 09:54:24",
+        "last_seen": "2016-02-26 09:54:24",
+        "ip_address": "64.99.80.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.helperfunction.com",
+        "count": "4",
+        "first_seen": "2022-05-27 00:21:48",
+        "last_seen": "2022-06-08 12:57:57",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.helperfunction.com",
+        "count": "15",
+        "first_seen": "2022-04-22 14:26:57",
+        "last_seen": "2022-04-23 06:35:43",
+        "ip_address": "107.173.246.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.helperfunction.com",
+        "count": "281",
+        "first_seen": "2022-04-22 16:41:31",
+        "last_seen": "2022-04-23 03:00:59",
+        "ip_address": "112.121.162.82",
+        "type": "IPv4"
+    }
+]

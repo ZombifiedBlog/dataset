@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazon-pro.co",
+        "count": "1",
+        "first_seen": "2020-07-17 19:53:22",
+        "last_seen": "2020-07-17 19:53:22",
+        "ip_address": "34.102.136.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-pro.co",
+        "count": "307",
+        "first_seen": "2023-09-19 22:27:19",
+        "last_seen": "2024-01-17 00:00:02",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-pro.co",
+        "count": "217",
+        "first_seen": "2020-07-19 14:29:18",
+        "last_seen": "2021-07-22 01:14:57",
+        "ip_address": "103.59.103.48",
+        "type": "IPv4"
+    }
+]

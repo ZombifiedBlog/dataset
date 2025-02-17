@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "aura-no-kai.com",
+        "count": "24",
+        "first_seen": "2022-03-03 22:56:54",
+        "last_seen": "2022-04-16 13:22:57",
+        "ip_address": "5.180.22.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "aura-no-kai.com",
+        "count": "9",
+        "first_seen": "2022-01-28 20:22:14",
+        "last_seen": "2022-02-11 13:29:53",
+        "ip_address": "5.180.146.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "aura-no-kai.com",
+        "count": "6",
+        "first_seen": "2022-09-17 05:42:47",
+        "last_seen": "2022-09-29 22:01:32",
+        "ip_address": "103.120.80.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "aura-no-kai.com",
+        "count": "6",
+        "first_seen": "2022-09-17 05:42:47",
+        "last_seen": "2022-09-29 22:01:32",
+        "ip_address": "103.139.0.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "aura-no-kai.com",
+        "count": "220",
+        "first_seen": "2022-11-24 02:38:16",
+        "last_seen": "2023-12-05 19:20:49",
+        "ip_address": "136.0.156.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "aura-no-kai.com",
+        "count": "19",
+        "first_seen": "2019-07-28 08:17:51",
+        "last_seen": "2019-08-28 16:22:42",
+        "ip_address": "157.7.174.95",
+        "type": "IPv4"
+    },
+    {
+        "domain": "aura-no-kai.com",
+        "count": "628",
+        "first_seen": "2017-02-09 03:29:16",
+        "last_seen": "2019-07-17 21:37:05",
+        "ip_address": "163.44.76.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "aura-no-kai.com",
+        "count": "334",
+        "first_seen": "2013-05-30 20:39:00",
+        "last_seen": "2017-02-02 06:43:45",
+        "ip_address": "210.172.129.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "aura-no-kai.com",
+        "count": "197",
+        "first_seen": "2010-09-03 17:06:42",
+        "last_seen": "2013-05-24 15:07:33",
+        "ip_address": "211.13.204.46",
+        "type": "IPv4"
+    }
+]

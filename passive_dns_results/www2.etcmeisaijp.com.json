@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www2.etcmeisaijp.com",
+        "count": "82",
+        "first_seen": "2021-12-06 00:26:49",
+        "last_seen": "2021-12-10 05:00:07",
+        "ip_address": "104.21.44.126",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etcmeisaijp.com",
+        "count": "82",
+        "first_seen": "2021-12-06 00:26:49",
+        "last_seen": "2021-12-10 05:00:07",
+        "ip_address": "172.67.199.249",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etcmeisaijp.com",
+        "count": "4",
+        "first_seen": "2021-12-06 11:40:53",
+        "last_seen": "2021-12-10 14:10:23",
+        "ip_address": "2606:4700:3030::6815:2c7e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www2.etcmeisaijp.com",
+        "count": "4",
+        "first_seen": "2021-12-06 11:40:53",
+        "last_seen": "2021-12-10 14:10:23",
+        "ip_address": "2606:4700:3030::ac43:c7f9",
+        "type": "IPv6"
+    }
+]

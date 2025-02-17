@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.tzggp.cn",
+        "count": "107",
+        "first_seen": "2022-03-10 22:34:02",
+        "last_seen": "2022-05-24 21:53:58",
+        "ip_address": "104.21.25.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tzggp.cn",
+        "count": "107",
+        "first_seen": "2022-03-10 22:34:02",
+        "last_seen": "2022-05-24 21:53:58",
+        "ip_address": "172.67.134.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tzggp.cn",
+        "count": "5",
+        "first_seen": "2022-03-10 22:44:09",
+        "last_seen": "2022-03-13 18:16:47",
+        "ip_address": "188.114.96.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tzggp.cn",
+        "count": "32",
+        "first_seen": "2022-03-10 23:48:47",
+        "last_seen": "2022-05-24 21:53:58",
+        "ip_address": "2606:4700:3035::6815:19f6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.tzggp.cn",
+        "count": "32",
+        "first_seen": "2022-03-10 23:48:47",
+        "last_seen": "2022-05-24 21:53:58",
+        "ip_address": "2606:4700:3036::ac43:86ef",
+        "type": "IPv6"
+    }
+]

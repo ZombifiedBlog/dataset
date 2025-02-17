@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "szmou.dzrkxo.cn",
+        "count": "137",
+        "first_seen": "2023-09-04 13:54:25",
+        "last_seen": "2024-01-18 00:18:30",
+        "ip_address": "104.21.43.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "szmou.dzrkxo.cn",
+        "count": "137",
+        "first_seen": "2023-09-04 13:54:25",
+        "last_seen": "2024-01-18 00:18:30",
+        "ip_address": "172.67.222.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "szmou.dzrkxo.cn",
+        "count": "207",
+        "first_seen": "2023-04-22 14:56:41",
+        "last_seen": "2023-05-03 12:49:03",
+        "ip_address": "204.44.109.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "szmou.dzrkxo.cn",
+        "count": "2",
+        "first_seen": "2024-01-04 23:50:13",
+        "last_seen": "2024-01-04 23:50:13",
+        "ip_address": "2606:4700:3031::6815:2b4a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "szmou.dzrkxo.cn",
+        "count": "2",
+        "first_seen": "2024-01-04 23:50:13",
+        "last_seen": "2024-01-04 23:50:13",
+        "ip_address": "2606:4700:3031::ac43:de8d",
+        "type": "IPv6"
+    }
+]

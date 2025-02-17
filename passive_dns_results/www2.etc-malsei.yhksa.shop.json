@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www2.etc-malsei.yhksa.shop",
+        "count": "1",
+        "first_seen": "2023-09-21 07:55:57",
+        "last_seen": "2023-09-21 07:55:57",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etc-malsei.yhksa.shop",
+        "count": "86",
+        "first_seen": "2023-04-07 23:59:12",
+        "last_seen": "2023-07-29 19:20:23",
+        "ip_address": "173.82.245.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.etc-malsei.yhksa.shop",
+        "count": "16",
+        "first_seen": "2023-04-07 14:19:14",
+        "last_seen": "2023-04-07 22:15:49",
+        "ip_address": "173.82.255.176",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "smtwebinar.com",
+        "count": "279",
+        "first_seen": "2019-01-08 06:21:47",
+        "last_seen": "2019-02-05 16:12:59",
+        "ip_address": "142.4.5.171",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smtwebinar.com",
+        "count": "25",
+        "first_seen": "2019-02-21 14:51:22",
+        "last_seen": "2019-03-03 11:32:52",
+        "ip_address": "162.144.33.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smtwebinar.com",
+        "count": "127",
+        "first_seen": "2019-02-05 16:49:41",
+        "last_seen": "2019-02-17 09:27:46",
+        "ip_address": "162.144.41.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smtwebinar.com",
+        "count": "246",
+        "first_seen": "2018-12-07 03:51:58",
+        "last_seen": "2019-01-07 09:21:44",
+        "ip_address": "162.144.217.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smtwebinar.com",
+        "count": "9",
+        "first_seen": "2019-03-08 02:52:19",
+        "last_seen": "2019-03-13 04:42:33",
+        "ip_address": "162.241.174.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smtwebinar.com",
+        "count": "10",
+        "first_seen": "2019-12-07 20:00:41",
+        "last_seen": "2019-12-29 05:41:18",
+        "ip_address": "209.99.40.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smtwebinar.com",
+        "count": "6",
+        "first_seen": "2019-12-26 07:21:09",
+        "last_seen": "2020-01-14 19:06:30",
+        "ip_address": "209.99.40.223",
+        "type": "IPv4"
+    }
+]

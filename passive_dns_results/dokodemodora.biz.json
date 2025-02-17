@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "dokodemodora.biz",
+        "count": "2",
+        "first_seen": "2021-09-26 11:01:37",
+        "last_seen": "2021-10-07 08:00:01",
+        "ip_address": "52.25.92.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dokodemodora.biz",
+        "count": "1",
+        "first_seen": "2021-09-18 23:02:27",
+        "last_seen": "2021-09-18 23:02:27",
+        "ip_address": "54.65.172.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dokodemodora.biz",
+        "count": "1646",
+        "first_seen": "2020-09-11 05:26:38",
+        "last_seen": "2021-08-02 18:38:47",
+        "ip_address": "103.242.7.21",
+        "type": "IPv4"
+    }
+]

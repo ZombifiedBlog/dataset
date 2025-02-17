@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.kr-ruud.com",
+        "count": "99",
+        "first_seen": "2022-08-24 20:32:00",
+        "last_seen": "2022-10-01 15:22:49",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kr-ruud.com",
+        "count": "6091",
+        "first_seen": "2022-06-07 07:14:25",
+        "last_seen": "2022-08-23 03:45:11",
+        "ip_address": "104.21.74.159",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kr-ruud.com",
+        "count": "6091",
+        "first_seen": "2022-06-07 07:14:25",
+        "last_seen": "2022-08-23 03:45:11",
+        "ip_address": "172.67.159.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kr-ruud.com",
+        "count": "154",
+        "first_seen": "2022-06-08 13:09:40",
+        "last_seen": "2022-08-20 19:42:37",
+        "ip_address": "2606:4700:3033::6815:4a9f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.kr-ruud.com",
+        "count": "154",
+        "first_seen": "2022-06-08 13:09:40",
+        "last_seen": "2022-08-20 19:42:37",
+        "ip_address": "2606:4700:3037::ac43:9fdc",
+        "type": "IPv6"
+    }
+]

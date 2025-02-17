@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www1.micard.fun",
+        "count": "18",
+        "first_seen": "2021-06-13 19:53:36",
+        "last_seen": "2021-06-13 20:49:55",
+        "ip_address": "104.21.24.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www1.micard.fun",
+        "count": "18",
+        "first_seen": "2021-06-13 19:53:36",
+        "last_seen": "2021-06-13 20:49:55",
+        "ip_address": "172.67.220.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www1.micard.fun",
+        "count": "6",
+        "first_seen": "2021-06-13 19:53:37",
+        "last_seen": "2021-06-13 20:47:59",
+        "ip_address": "2606:4700:3031::ac43:dc21",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www1.micard.fun",
+        "count": "6",
+        "first_seen": "2021-06-13 19:53:37",
+        "last_seen": "2021-06-13 20:47:59",
+        "ip_address": "2606:4700:3036::6815:18c4",
+        "type": "IPv6"
+    }
+]

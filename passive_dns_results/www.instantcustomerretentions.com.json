@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.instantcustomerretentions.com",
+        "count": "582",
+        "first_seen": "2020-05-15 11:13:43",
+        "last_seen": "2020-05-17 03:27:35",
+        "ip_address": "104.24.112.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.instantcustomerretentions.com",
+        "count": "582",
+        "first_seen": "2020-05-15 11:13:43",
+        "last_seen": "2020-05-17 03:27:35",
+        "ip_address": "104.24.113.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.instantcustomerretentions.com",
+        "count": "5",
+        "first_seen": "2018-10-11 22:14:16",
+        "last_seen": "2018-10-26 02:56:38",
+        "ip_address": "195.154.165.73",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.instantcustomerretentions.com",
+        "count": "242",
+        "first_seen": "2020-05-15 11:14:00",
+        "last_seen": "2020-05-17 00:02:10",
+        "ip_address": "2606:4700:3032::6818:7075",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.instantcustomerretentions.com",
+        "count": "242",
+        "first_seen": "2020-05-15 11:14:00",
+        "last_seen": "2020-05-17 00:02:10",
+        "ip_address": "2606:4700:3034::6818:7175",
+        "type": "IPv6"
+    }
+]

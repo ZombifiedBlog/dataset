@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "www.cr.mufg-jp.vip",
+        "count": "103",
+        "first_seen": "2021-04-17 03:36:07",
+        "last_seen": "2022-02-25 12:18:04",
+        "ip_address": "104.168.11.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cr.mufg-jp.vip",
+        "count": "770",
+        "first_seen": "2021-04-16 19:43:09",
+        "last_seen": "2021-04-17 03:34:26",
+        "ip_address": "104.168.14.111",
+        "type": "IPv4"
+    }
+]

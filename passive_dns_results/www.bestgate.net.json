@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.bestgate.net",
+        "count": "2619",
+        "first_seen": "2022-05-18 00:17:39",
+        "last_seen": "2024-01-18 03:24:48",
+        "ip_address": "27.96.45.91",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bestgate.net",
+        "count": "1997",
+        "first_seen": "2020-07-19 17:32:34",
+        "last_seen": "2022-05-17 05:30:06",
+        "ip_address": "61.195.149.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bestgate.net",
+        "count": "4414",
+        "first_seen": "2010-10-12 16:43:13",
+        "last_seen": "2011-03-14 01:29:36",
+        "ip_address": "122.1.25.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bestgate.net",
+        "count": "1432",
+        "first_seen": "2010-07-03 16:31:34",
+        "last_seen": "2010-10-12 10:58:35",
+        "ip_address": "202.171.147.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bestgate.net",
+        "count": "45269",
+        "first_seen": "2015-05-22 18:07:36",
+        "last_seen": "2020-07-19 15:22:03",
+        "ip_address": "211.9.40.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bestgate.net",
+        "count": "43879",
+        "first_seen": "2011-03-14 05:11:52",
+        "last_seen": "2015-05-22 18:07:36",
+        "ip_address": "218.42.159.228",
+        "type": "IPv4"
+    }
+]

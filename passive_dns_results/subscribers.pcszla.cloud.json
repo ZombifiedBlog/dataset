@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscribers.pcszla.cloud",
+        "count": "10",
+        "first_seen": "2020-11-14 18:41:35",
+        "last_seen": "2020-11-30 18:50:56",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.pcszla.cloud",
+        "count": "250",
+        "first_seen": "2020-08-05 19:30:57",
+        "last_seen": "2020-11-09 23:48:16",
+        "ip_address": "104.27.164.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.pcszla.cloud",
+        "count": "250",
+        "first_seen": "2020-08-05 19:30:57",
+        "last_seen": "2020-11-09 23:48:16",
+        "ip_address": "104.27.165.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.pcszla.cloud",
+        "count": "250",
+        "first_seen": "2020-08-05 19:30:57",
+        "last_seen": "2020-11-09 23:48:16",
+        "ip_address": "172.67.162.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.pcszla.cloud",
+        "count": "197",
+        "first_seen": "2020-08-06 08:21:09",
+        "last_seen": "2020-11-09 23:48:16",
+        "ip_address": "2606:4700:3032::681b:a5ec",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.pcszla.cloud",
+        "count": "197",
+        "first_seen": "2020-08-06 08:21:09",
+        "last_seen": "2020-11-09 23:48:16",
+        "ip_address": "2606:4700:3037::681b:a4ec",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.pcszla.cloud",
+        "count": "197",
+        "first_seen": "2020-08-06 08:21:09",
+        "last_seen": "2020-11-09 23:48:16",
+        "ip_address": "2606:4700:3037::ac43:a2e1",
+        "type": "IPv6"
+    }
+]

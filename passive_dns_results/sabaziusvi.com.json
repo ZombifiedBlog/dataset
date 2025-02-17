@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "sabaziusvi.com",
+        "count": "742",
+        "first_seen": "2021-11-24 15:45:07",
+        "last_seen": "2022-01-02 18:16:39",
+        "ip_address": "31.47.72.143",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sabaziusvi.com",
+        "count": "742",
+        "first_seen": "2021-11-24 15:45:07",
+        "last_seen": "2022-01-02 18:16:39",
+        "ip_address": "31.47.72.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sabaziusvi.com",
+        "count": "10",
+        "first_seen": "2022-06-09 03:03:49",
+        "last_seen": "2022-06-11 22:06:45",
+        "ip_address": "103.224.182.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sabaziusvi.com",
+        "count": "40757",
+        "first_seen": "2015-11-27 03:58:05",
+        "last_seen": "2021-11-24 09:20:44",
+        "ip_address": "178.60.224.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sabaziusvi.com",
+        "count": "660",
+        "first_seen": "2021-11-24 15:45:10",
+        "last_seen": "2022-01-02 23:10:17",
+        "ip_address": "2a01:a940:419:8f::1000",
+        "type": "IPv6"
+    },
+    {
+        "domain": "sabaziusvi.com",
+        "count": "660",
+        "first_seen": "2021-11-24 15:45:10",
+        "last_seen": "2022-01-02 23:10:17",
+        "ip_address": "2a01:a940:419:99::1000",
+        "type": "IPv6"
+    }
+]

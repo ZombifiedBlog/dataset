@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.ammazont.xyz",
+        "count": "14",
+        "first_seen": "2020-11-08 10:09:09",
+        "last_seen": "2020-11-12 19:27:30",
+        "ip_address": "72.167.226.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ammazont.xyz",
+        "count": "4",
+        "first_seen": "2020-11-07 23:30:05",
+        "last_seen": "2020-11-07 23:46:29",
+        "ip_address": "107.180.101.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ammazont.xyz",
+        "count": "30",
+        "first_seen": "2020-11-08 00:26:24",
+        "last_seen": "2020-11-08 08:07:37",
+        "ip_address": "160.153.246.153",
+        "type": "IPv4"
+    }
+]

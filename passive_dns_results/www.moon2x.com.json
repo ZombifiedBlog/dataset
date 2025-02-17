@@ -1,0 +1,114 @@
+[
+    {
+        "domain": "www.moon2x.com",
+        "count": "19",
+        "first_seen": "2022-04-07 08:04:44",
+        "last_seen": "2022-04-25 12:23:15",
+        "ip_address": "104.21.37.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.moon2x.com",
+        "count": "19",
+        "first_seen": "2022-04-07 08:04:44",
+        "last_seen": "2022-04-25 12:23:15",
+        "ip_address": "172.67.205.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.moon2x.com",
+        "count": "1644",
+        "first_seen": "2020-02-12 16:09:05",
+        "last_seen": "2020-04-14 12:51:17",
+        "ip_address": "104.28.26.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.moon2x.com",
+        "count": "1644",
+        "first_seen": "2020-02-12 16:09:05",
+        "last_seen": "2020-04-14 12:51:17",
+        "ip_address": "104.28.27.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.moon2x.com",
+        "count": "2",
+        "first_seen": "2022-04-07 08:08:57",
+        "last_seen": "2022-04-07 08:08:57",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.moon2x.com",
+        "count": "2",
+        "first_seen": "2022-04-07 08:08:57",
+        "last_seen": "2022-04-07 08:08:57",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.moon2x.com",
+        "count": "6",
+        "first_seen": "2022-04-07 08:08:57",
+        "last_seen": "2022-04-24 14:45:11",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.moon2x.com",
+        "count": "6",
+        "first_seen": "2022-04-07 08:08:57",
+        "last_seen": "2022-04-24 14:45:11",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.moon2x.com",
+        "count": "7",
+        "first_seen": "2022-04-07 07:39:47",
+        "last_seen": "2022-04-10 00:25:26",
+        "ip_address": "2606:4700:3030::6815:253e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.moon2x.com",
+        "count": "7",
+        "first_seen": "2022-04-07 07:39:47",
+        "last_seen": "2022-04-10 00:25:26",
+        "ip_address": "2606:4700:3032::ac43:cd06",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.moon2x.com",
+        "count": "730",
+        "first_seen": "2020-02-12 16:09:11",
+        "last_seen": "2020-04-14 12:57:46",
+        "ip_address": "2606:4700:3032::681c:1aef",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.moon2x.com",
+        "count": "730",
+        "first_seen": "2020-02-12 16:09:11",
+        "last_seen": "2020-04-14 12:57:46",
+        "ip_address": "2606:4700:3035::681c:1bef",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.moon2x.com",
+        "count": "2",
+        "first_seen": "2022-04-10 00:12:38",
+        "last_seen": "2022-04-24 13:35:09",
+        "ip_address": "2a06:98c1:3120::7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.moon2x.com",
+        "count": "2",
+        "first_seen": "2022-04-10 00:12:38",
+        "last_seen": "2022-04-24 13:35:09",
+        "ip_address": "2a06:98c1:3121::7",
+        "type": "IPv6"
+    }
+]

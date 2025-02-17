@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "lamasathost.com",
+        "count": "12",
+        "first_seen": "2013-04-02 23:19:46",
+        "last_seen": "2013-12-20 07:57:03",
+        "ip_address": "50.63.57.191",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lamasathost.com",
+        "count": "25",
+        "first_seen": "2011-11-11 21:13:51",
+        "last_seen": "2012-03-25 16:51:04",
+        "ip_address": "64.202.189.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lamasathost.com",
+        "count": "1076",
+        "first_seen": "2012-04-19 19:41:08",
+        "last_seen": "2013-03-10 10:24:32",
+        "ip_address": "184.168.114.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lamasathost.com",
+        "count": "101",
+        "first_seen": "2014-08-02 15:18:14",
+        "last_seen": "2016-05-25 14:09:20",
+        "ip_address": "184.168.221.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lamasathost.com",
+        "count": "24",
+        "first_seen": "2016-06-11 23:06:33",
+        "last_seen": "2016-07-12 01:24:37",
+        "ip_address": "184.168.221.70",
+        "type": "IPv4"
+    }
+]

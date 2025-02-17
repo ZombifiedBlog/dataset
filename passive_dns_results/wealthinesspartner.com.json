@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "wealthinesspartner.com",
+        "count": "4",
+        "first_seen": "2020-10-29 08:07:09",
+        "last_seen": "2020-11-12 15:33:31",
+        "ip_address": "52.25.92.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wealthinesspartner.com",
+        "count": "4",
+        "first_seen": "2020-10-29 09:35:10",
+        "last_seen": "2020-10-30 04:17:34",
+        "ip_address": "54.65.172.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wealthinesspartner.com",
+        "count": "1259",
+        "first_seen": "2020-01-25 20:13:40",
+        "last_seen": "2020-10-17 16:35:02",
+        "ip_address": "103.48.37.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wealthinesspartner.com",
+        "count": "2390",
+        "first_seen": "2019-10-18 12:07:37",
+        "last_seen": "2020-01-21 20:27:39",
+        "ip_address": "103.242.7.252",
+        "type": "IPv4"
+    }
+]

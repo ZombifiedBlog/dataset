@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.damme.top",
+        "count": "2",
+        "first_seen": "2023-11-21 06:15:05",
+        "last_seen": "2023-11-22 20:53:43",
+        "ip_address": "49.51.79.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.damme.top",
+        "count": "414",
+        "first_seen": "2023-06-15 12:57:33",
+        "last_seen": "2023-08-07 14:59:18",
+        "ip_address": "104.21.21.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.damme.top",
+        "count": "414",
+        "first_seen": "2023-06-15 12:57:33",
+        "last_seen": "2023-08-07 14:59:18",
+        "ip_address": "172.67.196.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.damme.top",
+        "count": "1",
+        "first_seen": "2023-12-19 21:37:28",
+        "last_seen": "2023-12-19 21:37:28",
+        "ip_address": "167.88.180.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.damme.top",
+        "count": "12",
+        "first_seen": "2023-06-16 03:10:30",
+        "last_seen": "2023-06-28 09:05:13",
+        "ip_address": "2606:4700:3030::6815:1545",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.damme.top",
+        "count": "12",
+        "first_seen": "2023-06-16 03:10:30",
+        "last_seen": "2023-06-28 09:05:13",
+        "ip_address": "2606:4700:3035::ac43:c4d1",
+        "type": "IPv6"
+    }
+]

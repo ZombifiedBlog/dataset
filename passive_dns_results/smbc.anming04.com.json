@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "smbc.anming04.com",
+        "count": "1872",
+        "first_seen": "2023-06-28 19:20:39",
+        "last_seen": "2023-08-05 04:52:39",
+        "ip_address": "47.87.144.156",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.anming04.com",
+        "count": "8",
+        "first_seen": "2023-11-18 11:33:22",
+        "last_seen": "2023-12-07 09:55:58",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.anming04.com",
+        "count": "108",
+        "first_seen": "2023-10-05 02:12:22",
+        "last_seen": "2024-01-18 00:04:31",
+        "ip_address": "103.224.212.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.anming04.com",
+        "count": "11",
+        "first_seen": "2023-09-11 16:04:08",
+        "last_seen": "2023-10-02 07:06:14",
+        "ip_address": "103.224.212.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.anming04.com",
+        "count": "8",
+        "first_seen": "2023-11-30 04:20:52",
+        "last_seen": "2023-12-20 06:14:28",
+        "ip_address": "170.178.183.18",
+        "type": "IPv4"
+    }
+]

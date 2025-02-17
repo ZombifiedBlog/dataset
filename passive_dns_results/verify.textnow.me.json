@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "verify.textnow.me",
+        "count": "159713",
+        "first_seen": "2020-02-05 00:22:27",
+        "last_seen": "2023-08-28 05:18:12",
+        "ip_address": "3.209.201.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "verify.textnow.me",
+        "count": "216309",
+        "first_seen": "2017-07-10 16:38:58",
+        "last_seen": "2020-02-05 00:14:23",
+        "ip_address": "50.28.2.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "verify.textnow.me",
+        "count": "518",
+        "first_seen": "2017-06-08 16:06:43",
+        "last_seen": "2017-06-13 17:53:45",
+        "ip_address": "50.28.2.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "verify.textnow.me",
+        "count": "208056",
+        "first_seen": "2013-09-19 17:31:43",
+        "last_seen": "2017-07-10 16:29:16",
+        "ip_address": "209.59.180.54",
+        "type": "IPv4"
+    },
+    {
+        "domain": "verify.textnow.me",
+        "count": "62612",
+        "first_seen": "2012-04-24 17:50:15",
+        "last_seen": "2013-09-19 16:18:58",
+        "ip_address": "209.59.181.70",
+        "type": "IPv4"
+    }
+]

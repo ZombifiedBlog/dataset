@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscribers.obsmlt.art",
+        "count": "1",
+        "first_seen": "2020-12-08 11:00:03",
+        "last_seen": "2020-12-08 11:00:03",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.obsmlt.art",
+        "count": "90",
+        "first_seen": "2020-08-05 19:39:02",
+        "last_seen": "2020-11-06 18:21:32",
+        "ip_address": "104.31.86.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.obsmlt.art",
+        "count": "90",
+        "first_seen": "2020-08-05 19:39:02",
+        "last_seen": "2020-11-06 18:21:32",
+        "ip_address": "104.31.87.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.obsmlt.art",
+        "count": "90",
+        "first_seen": "2020-08-05 19:39:02",
+        "last_seen": "2020-11-06 18:21:32",
+        "ip_address": "172.67.171.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.obsmlt.art",
+        "count": "53",
+        "first_seen": "2020-08-05 19:39:13",
+        "last_seen": "2020-11-06 18:21:32",
+        "ip_address": "2606:4700:3030::681f:57cc",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.obsmlt.art",
+        "count": "53",
+        "first_seen": "2020-08-05 19:39:13",
+        "last_seen": "2020-11-06 18:21:32",
+        "ip_address": "2606:4700:3032::ac43:ab34",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.obsmlt.art",
+        "count": "53",
+        "first_seen": "2020-08-05 19:39:13",
+        "last_seen": "2020-11-06 18:21:32",
+        "ip_address": "2606:4700:3037::681f:56cc",
+        "type": "IPv6"
+    }
+]

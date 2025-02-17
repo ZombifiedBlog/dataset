@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.etc.ou.mncsiesoai.com",
+        "count": "172",
+        "first_seen": "2021-09-18 02:09:14",
+        "last_seen": "2022-09-11 05:42:34",
+        "ip_address": "137.184.75.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etc.ou.mncsiesoai.com",
+        "count": "107",
+        "first_seen": "2021-09-15 21:11:42",
+        "last_seen": "2021-09-17 16:23:10",
+        "ip_address": "154.30.198.156",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etc.ou.mncsiesoai.com",
+        "count": "2",
+        "first_seen": "2022-09-16 00:01:37",
+        "last_seen": "2022-10-05 11:51:05",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etc.ou.mncsiesoai.com",
+        "count": "2",
+        "first_seen": "2022-09-16 12:39:03",
+        "last_seen": "2022-10-14 14:44:27",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.etc.ou.mncsiesoai.com",
+        "count": "9",
+        "first_seen": "2022-09-16 00:01:37",
+        "last_seen": "2022-09-16 12:39:11",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

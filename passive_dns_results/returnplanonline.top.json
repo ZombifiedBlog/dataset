@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "returnplanonline.top",
+        "count": "88",
+        "first_seen": "2022-06-18 18:04:31",
+        "last_seen": "2022-06-21 20:20:17",
+        "ip_address": "45.130.146.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "returnplanonline.top",
+        "count": "11",
+        "first_seen": "2023-06-10 09:29:36",
+        "last_seen": "2023-06-28 02:22:09",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "returnplanonline.top",
+        "count": "522",
+        "first_seen": "2022-06-09 06:41:40",
+        "last_seen": "2022-06-16 22:05:11",
+        "ip_address": "104.21.14.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "returnplanonline.top",
+        "count": "522",
+        "first_seen": "2022-06-09 06:41:40",
+        "last_seen": "2022-06-16 22:05:11",
+        "ip_address": "172.67.202.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "returnplanonline.top",
+        "count": "94",
+        "first_seen": "2022-06-09 06:43:27",
+        "last_seen": "2022-06-14 22:46:56",
+        "ip_address": "2606:4700:3034::6815:e54",
+        "type": "IPv6"
+    },
+    {
+        "domain": "returnplanonline.top",
+        "count": "94",
+        "first_seen": "2022-06-09 06:43:27",
+        "last_seen": "2022-06-14 22:46:56",
+        "ip_address": "2606:4700:3035::ac43:caad",
+        "type": "IPv6"
+    }
+]

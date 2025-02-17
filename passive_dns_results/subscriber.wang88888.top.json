@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "subscriber.wang88888.top",
+        "count": "11",
+        "first_seen": "2023-03-24 00:05:21",
+        "last_seen": "2023-04-08 08:51:58",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.wang88888.top",
+        "count": "152",
+        "first_seen": "2023-03-07 06:01:02",
+        "last_seen": "2024-01-03 03:06:00",
+        "ip_address": "103.224.182.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.wang88888.top",
+        "count": "1",
+        "first_seen": "2023-03-07 06:26:17",
+        "last_seen": "2023-03-07 06:26:17",
+        "ip_address": "103.224.182.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.wang88888.top",
+        "count": "2855",
+        "first_seen": "2023-02-02 18:29:08",
+        "last_seen": "2023-03-07 07:04:38",
+        "ip_address": "104.21.24.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.wang88888.top",
+        "count": "2855",
+        "first_seen": "2023-02-02 18:29:08",
+        "last_seen": "2023-03-07 07:04:38",
+        "ip_address": "172.67.218.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.wang88888.top",
+        "count": "1",
+        "first_seen": "2023-07-05 02:18:06",
+        "last_seen": "2023-07-05 02:18:06",
+        "ip_address": "170.178.183.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.wang88888.top",
+        "count": "13",
+        "first_seen": "2023-03-24 03:18:02",
+        "last_seen": "2023-04-07 02:52:28",
+        "ip_address": "199.115.116.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.wang88888.top",
+        "count": "94",
+        "first_seen": "2023-02-03 17:39:42",
+        "last_seen": "2023-03-07 03:38:52",
+        "ip_address": "2606:4700:3032::6815:1854",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.wang88888.top",
+        "count": "94",
+        "first_seen": "2023-02-03 17:39:42",
+        "last_seen": "2023-03-07 03:38:52",
+        "ip_address": "2606:4700:3032::ac43:da13",
+        "type": "IPv6"
+    }
+]

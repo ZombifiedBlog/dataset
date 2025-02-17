@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amzonjp-mail.buzz",
+        "count": "9",
+        "first_seen": "2021-10-17 07:31:47",
+        "last_seen": "2021-11-04 19:06:06",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amzonjp-mail.buzz",
+        "count": "131",
+        "first_seen": "2020-10-08 03:38:31",
+        "last_seen": "2020-10-12 19:54:17",
+        "ip_address": "107.148.190.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amzonjp-mail.buzz",
+        "count": "27",
+        "first_seen": "2020-10-06 16:37:07",
+        "last_seen": "2020-10-11 03:35:06",
+        "ip_address": "160.153.252.111",
+        "type": "IPv4"
+    }
+]

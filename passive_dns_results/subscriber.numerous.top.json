@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.numerous.top",
+        "count": "453",
+        "first_seen": "2023-06-15 12:36:25",
+        "last_seen": "2023-08-06 07:48:06",
+        "ip_address": "104.21.73.91",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.numerous.top",
+        "count": "453",
+        "first_seen": "2023-06-15 12:36:25",
+        "last_seen": "2023-08-06 07:48:06",
+        "ip_address": "172.67.189.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.numerous.top",
+        "count": "3",
+        "first_seen": "2023-12-02 11:08:36",
+        "last_seen": "2023-12-05 23:11:19",
+        "ip_address": "167.88.180.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.numerous.top",
+        "count": "21",
+        "first_seen": "2023-06-17 14:03:32",
+        "last_seen": "2023-07-14 10:56:40",
+        "ip_address": "2606:4700:3036::6815:495b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.numerous.top",
+        "count": "21",
+        "first_seen": "2023-06-17 14:03:32",
+        "last_seen": "2023-07-14 10:56:40",
+        "ip_address": "2606:4700:3036::ac43:bd56",
+        "type": "IPv6"
+    }
+]

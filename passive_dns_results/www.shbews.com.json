@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.shbews.com",
+        "count": "5",
+        "first_seen": "2022-08-11 06:34:58",
+        "last_seen": "2022-10-04 08:33:12",
+        "ip_address": "69.160.169.106",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shbews.com",
+        "count": "250",
+        "first_seen": "2023-03-09 01:15:54",
+        "last_seen": "2023-03-09 11:52:55",
+        "ip_address": "155.94.201.178",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.shbews.com",
+        "count": "22",
+        "first_seen": "2022-07-27 11:44:22",
+        "last_seen": "2022-08-07 23:18:36",
+        "ip_address": "207.148.37.216",
+        "type": "IPv4"
+    }
+]

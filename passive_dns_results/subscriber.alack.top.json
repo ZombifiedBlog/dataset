@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.alack.top",
+        "count": "1",
+        "first_seen": "2023-11-19 20:52:12",
+        "last_seen": "2023-11-19 20:52:12",
+        "ip_address": "49.51.79.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.alack.top",
+        "count": "456",
+        "first_seen": "2023-06-15 12:54:21",
+        "last_seen": "2023-08-09 14:28:20",
+        "ip_address": "104.21.77.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.alack.top",
+        "count": "456",
+        "first_seen": "2023-06-15 12:54:21",
+        "last_seen": "2023-08-09 14:28:20",
+        "ip_address": "172.67.206.182",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.alack.top",
+        "count": "2",
+        "first_seen": "2023-12-02 07:06:09",
+        "last_seen": "2023-12-02 07:06:09",
+        "ip_address": "167.88.180.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.alack.top",
+        "count": "18",
+        "first_seen": "2023-06-15 15:49:37",
+        "last_seen": "2023-07-11 21:27:47",
+        "ip_address": "2606:4700:3030::6815:4d69",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.alack.top",
+        "count": "18",
+        "first_seen": "2023-06-15 15:49:37",
+        "last_seen": "2023-07-11 21:27:47",
+        "ip_address": "2606:4700:3037::ac43:ceb6",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "domain": "fredoldfield.com",
+        "count": "13",
+        "first_seen": "2020-09-23 12:24:09",
+        "last_seen": "2020-09-30 22:49:29",
+        "ip_address": "45.10.210.130",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fredoldfield.com",
+        "count": "6",
+        "first_seen": "2020-09-07 23:51:33",
+        "last_seen": "2020-09-12 09:06:40",
+        "ip_address": "47.90.80.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fredoldfield.com",
+        "count": "118",
+        "first_seen": "2019-05-07 17:37:47",
+        "last_seen": "2019-08-14 05:48:39",
+        "ip_address": "64.34.68.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fredoldfield.com",
+        "count": "1141",
+        "first_seen": "2016-07-13 20:33:37",
+        "last_seen": "2019-05-04 00:28:37",
+        "ip_address": "69.90.160.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fredoldfield.com",
+        "count": "534",
+        "first_seen": "2010-09-04 10:11:22",
+        "last_seen": "2016-07-09 13:08:26",
+        "ip_address": "69.90.160.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fredoldfield.com",
+        "count": "410",
+        "first_seen": "2019-08-14 19:39:21",
+        "last_seen": "2020-06-20 18:23:21",
+        "ip_address": "69.90.162.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fredoldfield.com",
+        "count": "6",
+        "first_seen": "2021-06-26 02:12:07",
+        "last_seen": "2021-07-11 19:22:50",
+        "ip_address": "103.145.104.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fredoldfield.com",
+        "count": "2739",
+        "first_seen": "2021-07-12 10:33:39",
+        "last_seen": "2021-09-02 22:45:01",
+        "ip_address": "104.21.57.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fredoldfield.com",
+        "count": "2739",
+        "first_seen": "2021-07-12 10:33:39",
+        "last_seen": "2021-09-02 22:45:01",
+        "ip_address": "172.67.167.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fredoldfield.com",
+        "count": "36",
+        "first_seen": "2020-11-07 08:15:05",
+        "last_seen": "2021-03-21 16:23:04",
+        "ip_address": "154.213.237.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fredoldfield.com",
+        "count": "26",
+        "first_seen": "2020-10-10 13:10:04",
+        "last_seen": "2020-10-27 17:07:43",
+        "ip_address": "156.238.252.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fredoldfield.com",
+        "count": "3",
+        "first_seen": "2021-06-18 10:29:08",
+        "last_seen": "2021-06-22 23:23:36",
+        "ip_address": "156.244.70.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fredoldfield.com",
+        "count": "9",
+        "first_seen": "2021-05-06 01:09:21",
+        "last_seen": "2021-06-04 01:59:08",
+        "ip_address": "156.254.224.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fredoldfield.com",
+        "count": "7",
+        "first_seen": "2021-03-26 12:46:45",
+        "last_seen": "2021-04-24 07:28:46",
+        "ip_address": "160.121.223.99",
+        "type": "IPv4"
+    },
+    {
+        "domain": "fredoldfield.com",
+        "count": "353",
+        "first_seen": "2021-07-12 10:41:56",
+        "last_seen": "2021-08-21 12:06:20",
+        "ip_address": "2606:4700:3036::6815:39d7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "fredoldfield.com",
+        "count": "353",
+        "first_seen": "2021-07-12 10:41:56",
+        "last_seen": "2021-08-21 12:06:20",
+        "ip_address": "2606:4700:3037::ac43:a70a",
+        "type": "IPv6"
+    }
+]

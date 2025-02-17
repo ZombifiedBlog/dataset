@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "subscriber.hg548gs.com",
+        "count": "42",
+        "first_seen": "2020-05-14 07:46:51",
+        "last_seen": "2020-05-17 20:47:49",
+        "ip_address": "104.18.36.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.hg548gs.com",
+        "count": "42",
+        "first_seen": "2020-05-14 07:46:51",
+        "last_seen": "2020-05-17 20:47:49",
+        "ip_address": "104.18.37.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.hg548gs.com",
+        "count": "39",
+        "first_seen": "2020-03-12 19:54:41",
+        "last_seen": "2020-04-29 23:58:58",
+        "ip_address": "104.31.84.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.hg548gs.com",
+        "count": "39",
+        "first_seen": "2020-03-12 19:54:41",
+        "last_seen": "2020-04-29 23:58:58",
+        "ip_address": "104.31.85.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.hg548gs.com",
+        "count": "25",
+        "first_seen": "2020-05-14 07:46:51",
+        "last_seen": "2020-05-17 20:47:49",
+        "ip_address": "2606:4700:3030::6812:256b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.hg548gs.com",
+        "count": "25",
+        "first_seen": "2020-05-14 07:46:51",
+        "last_seen": "2020-05-17 20:47:49",
+        "ip_address": "2606:4700:3032::6812:246b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.hg548gs.com",
+        "count": "22",
+        "first_seen": "2020-03-12 19:54:41",
+        "last_seen": "2020-04-28 20:50:26",
+        "ip_address": "2606:4700:3033::681f:55a8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.hg548gs.com",
+        "count": "22",
+        "first_seen": "2020-03-12 19:54:41",
+        "last_seen": "2020-04-28 20:50:26",
+        "ip_address": "2606:4700:3037::681f:54a8",
+        "type": "IPv6"
+    }
+]

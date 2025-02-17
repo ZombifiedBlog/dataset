@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "newawesome.shop",
+        "count": "231",
+        "first_seen": "2020-11-27 09:56:34",
+        "last_seen": "2020-12-11 08:54:14",
+        "ip_address": "104.24.110.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "newawesome.shop",
+        "count": "231",
+        "first_seen": "2020-11-27 09:56:34",
+        "last_seen": "2020-12-11 08:54:14",
+        "ip_address": "104.24.111.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "newawesome.shop",
+        "count": "231",
+        "first_seen": "2020-11-27 09:56:34",
+        "last_seen": "2020-12-11 08:54:14",
+        "ip_address": "172.67.223.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "newawesome.shop",
+        "count": "49",
+        "first_seen": "2020-11-27 09:56:34",
+        "last_seen": "2020-12-11 08:51:35",
+        "ip_address": "2606:4700:3030::6818:6e03",
+        "type": "IPv6"
+    },
+    {
+        "domain": "newawesome.shop",
+        "count": "49",
+        "first_seen": "2020-11-27 09:56:34",
+        "last_seen": "2020-12-11 08:51:35",
+        "ip_address": "2606:4700:3031::6818:6f03",
+        "type": "IPv6"
+    },
+    {
+        "domain": "newawesome.shop",
+        "count": "49",
+        "first_seen": "2020-11-27 09:56:34",
+        "last_seen": "2020-12-11 08:51:35",
+        "ip_address": "2606:4700:3031::ac43:df68",
+        "type": "IPv6"
+    }
+]

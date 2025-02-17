@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "subscriber.tokyocircles.com",
+        "count": "1",
+        "first_seen": "2023-08-21 06:02:15",
+        "last_seen": "2023-08-21 06:02:15",
+        "ip_address": "38.174.151.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tokyocircles.com",
+        "count": "4",
+        "first_seen": "2023-08-02 15:50:53",
+        "last_seen": "2023-08-14 05:05:24",
+        "ip_address": "45.200.195.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tokyocircles.com",
+        "count": "100",
+        "first_seen": "2022-08-26 19:40:47",
+        "last_seen": "2022-09-25 16:49:13",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tokyocircles.com",
+        "count": "5681",
+        "first_seen": "2022-06-07 17:47:37",
+        "last_seen": "2022-08-22 19:34:57",
+        "ip_address": "104.21.82.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tokyocircles.com",
+        "count": "5681",
+        "first_seen": "2022-06-07 17:47:37",
+        "last_seen": "2022-08-22 19:34:57",
+        "ip_address": "172.67.157.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tokyocircles.com",
+        "count": "2",
+        "first_seen": "2023-06-11 06:06:08",
+        "last_seen": "2023-07-08 12:55:44",
+        "ip_address": "154.194.134.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tokyocircles.com",
+        "count": "6",
+        "first_seen": "2023-11-11 00:16:12",
+        "last_seen": "2023-11-11 00:16:12",
+        "ip_address": "154.214.88.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tokyocircles.com",
+        "count": "14",
+        "first_seen": "2022-12-17 10:02:30",
+        "last_seen": "2023-03-23 05:51:32",
+        "ip_address": "160.124.178.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tokyocircles.com",
+        "count": "2",
+        "first_seen": "2023-03-26 03:11:32",
+        "last_seen": "2023-04-11 13:49:47",
+        "ip_address": "160.124.254.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.tokyocircles.com",
+        "count": "134",
+        "first_seen": "2022-06-08 05:02:22",
+        "last_seen": "2022-08-22 19:34:57",
+        "ip_address": "2606:4700:3034::6815:5281",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.tokyocircles.com",
+        "count": "134",
+        "first_seen": "2022-06-08 05:02:22",
+        "last_seen": "2022-08-22 19:34:57",
+        "ip_address": "2606:4700:3034::ac43:9dec",
+        "type": "IPv6"
+    }
+]

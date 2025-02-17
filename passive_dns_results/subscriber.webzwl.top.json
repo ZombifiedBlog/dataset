@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.webzwl.top",
+        "count": "102",
+        "first_seen": "2021-11-25 04:39:27",
+        "last_seen": "2021-11-30 02:56:14",
+        "ip_address": "104.21.3.130",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.webzwl.top",
+        "count": "102",
+        "first_seen": "2021-11-25 04:39:27",
+        "last_seen": "2021-11-30 02:56:14",
+        "ip_address": "172.67.130.184",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.webzwl.top",
+        "count": "2",
+        "first_seen": "2023-10-27 14:20:39",
+        "last_seen": "2023-10-27 14:20:39",
+        "ip_address": "104.164.191.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.webzwl.top",
+        "count": "58",
+        "first_seen": "2021-11-25 04:39:27",
+        "last_seen": "2021-11-29 20:30:06",
+        "ip_address": "2606:4700:3037::6815:382",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.webzwl.top",
+        "count": "58",
+        "first_seen": "2021-11-25 04:39:27",
+        "last_seen": "2021-11-29 20:30:06",
+        "ip_address": "2606:4700:3037::ac43:82b8",
+        "type": "IPv6"
+    }
+]

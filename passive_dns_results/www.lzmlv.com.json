@@ -1,0 +1,170 @@
+[
+    {
+        "domain": "www.lzmlv.com",
+        "count": "3",
+        "first_seen": "2023-08-06 12:29:59",
+        "last_seen": "2023-08-08 18:10:30",
+        "ip_address": "54.65.172.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzmlv.com",
+        "count": "3637",
+        "first_seen": "2022-11-23 02:40:49",
+        "last_seen": "2022-12-18 13:04:32",
+        "ip_address": "104.21.27.158",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzmlv.com",
+        "count": "3637",
+        "first_seen": "2022-11-23 02:40:49",
+        "last_seen": "2022-12-18 13:04:32",
+        "ip_address": "172.67.143.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzmlv.com",
+        "count": "1",
+        "first_seen": "2022-11-25 02:28:01",
+        "last_seen": "2022-11-25 02:28:01",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzmlv.com",
+        "count": "1",
+        "first_seen": "2022-11-25 02:28:01",
+        "last_seen": "2022-11-25 02:28:01",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzmlv.com",
+        "count": "18",
+        "first_seen": "2022-11-23 18:43:08",
+        "last_seen": "2022-12-03 02:06:23",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzmlv.com",
+        "count": "18",
+        "first_seen": "2022-11-23 18:43:08",
+        "last_seen": "2022-12-03 02:06:23",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzmlv.com",
+        "count": "243",
+        "first_seen": "2022-11-23 03:17:44",
+        "last_seen": "2022-12-04 10:55:14",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzmlv.com",
+        "count": "243",
+        "first_seen": "2022-11-23 03:17:44",
+        "last_seen": "2022-12-04 10:55:14",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzmlv.com",
+        "count": "10",
+        "first_seen": "2022-11-25 16:38:10",
+        "last_seen": "2022-12-01 04:12:54",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzmlv.com",
+        "count": "10",
+        "first_seen": "2022-11-25 16:38:10",
+        "last_seen": "2022-12-01 04:12:54",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzmlv.com",
+        "count": "40",
+        "first_seen": "2022-11-23 06:09:45",
+        "last_seen": "2022-12-03 16:26:50",
+        "ip_address": "188.114.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzmlv.com",
+        "count": "40",
+        "first_seen": "2022-11-23 06:09:45",
+        "last_seen": "2022-12-03 16:26:50",
+        "ip_address": "188.114.97.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzmlv.com",
+        "count": "1408",
+        "first_seen": "2022-11-23 03:26:25",
+        "last_seen": "2022-12-03 23:08:14",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzmlv.com",
+        "count": "1408",
+        "first_seen": "2022-11-23 03:26:25",
+        "last_seen": "2022-12-03 23:08:14",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lzmlv.com",
+        "count": "25",
+        "first_seen": "2022-11-23 08:22:49",
+        "last_seen": "2022-12-02 06:11:09",
+        "ip_address": "2606:4700:3033::ac43:8f3b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lzmlv.com",
+        "count": "25",
+        "first_seen": "2022-11-23 08:22:49",
+        "last_seen": "2022-12-02 06:11:09",
+        "ip_address": "2606:4700:3036::6815:1b9e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lzmlv.com",
+        "count": "5",
+        "first_seen": "2022-11-27 05:29:18",
+        "last_seen": "2022-11-28 13:47:22",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lzmlv.com",
+        "count": "5",
+        "first_seen": "2022-11-27 05:29:18",
+        "last_seen": "2022-11-28 13:47:22",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lzmlv.com",
+        "count": "3",
+        "first_seen": "2022-11-23 03:26:25",
+        "last_seen": "2022-11-30 05:26:15",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lzmlv.com",
+        "count": "3",
+        "first_seen": "2022-11-23 03:26:25",
+        "last_seen": "2022-11-30 05:26:15",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

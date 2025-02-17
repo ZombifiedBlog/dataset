@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.masorecsrd.masoreasrd.anriplt.mobi.tt",
+        "count": "7",
+        "first_seen": "2023-07-27 17:51:15",
+        "last_seen": "2024-01-12 18:42:15",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.masorecsrd.masoreasrd.anriplt.mobi.tt",
+        "count": "33",
+        "first_seen": "2022-07-11 18:10:37",
+        "last_seen": "2022-07-12 03:12:01",
+        "ip_address": "107.174.138.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.masorecsrd.masoreasrd.anriplt.mobi.tt",
+        "count": "2",
+        "first_seen": "2024-01-12 18:42:15",
+        "last_seen": "2024-01-12 18:42:15",
+        "ip_address": "::1",
+        "type": "IPv6"
+    }
+]

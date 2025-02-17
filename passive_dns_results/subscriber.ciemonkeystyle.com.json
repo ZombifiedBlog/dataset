@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.ciemonkeystyle.com",
+        "count": "45",
+        "first_seen": "2022-11-28 05:19:10",
+        "last_seen": "2023-11-15 15:10:55",
+        "ip_address": "23.90.2.188",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ciemonkeystyle.com",
+        "count": "5",
+        "first_seen": "2023-12-08 16:37:05",
+        "last_seen": "2024-01-17 20:00:14",
+        "ip_address": "23.231.122.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ciemonkeystyle.com",
+        "count": "4271",
+        "first_seen": "2022-08-23 14:45:10",
+        "last_seen": "2022-11-09 02:21:45",
+        "ip_address": "104.21.32.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ciemonkeystyle.com",
+        "count": "4271",
+        "first_seen": "2022-08-23 14:45:10",
+        "last_seen": "2022-11-09 02:21:45",
+        "ip_address": "172.67.184.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.ciemonkeystyle.com",
+        "count": "190",
+        "first_seen": "2022-08-23 15:30:14",
+        "last_seen": "2022-11-07 02:08:47",
+        "ip_address": "2606:4700:3033::ac43:b865",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.ciemonkeystyle.com",
+        "count": "190",
+        "first_seen": "2022-08-23 15:30:14",
+        "last_seen": "2022-11-07 02:08:47",
+        "ip_address": "2606:4700:3034::6815:204a",
+        "type": "IPv6"
+    }
+]

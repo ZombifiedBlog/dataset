@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "ds.zacrb.com",
+        "count": "3086",
+        "first_seen": "2021-10-29 01:00:11",
+        "last_seen": "2021-11-16 12:38:25",
+        "ip_address": "104.21.89.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ds.zacrb.com",
+        "count": "3086",
+        "first_seen": "2021-10-29 01:00:11",
+        "last_seen": "2021-11-16 12:38:25",
+        "ip_address": "172.67.164.143",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ds.zacrb.com",
+        "count": "469",
+        "first_seen": "2021-11-15 16:06:32",
+        "last_seen": "2022-04-16 15:14:50",
+        "ip_address": "198.144.149.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ds.zacrb.com",
+        "count": "1372",
+        "first_seen": "2021-10-29 01:54:18",
+        "last_seen": "2021-11-16 12:38:25",
+        "ip_address": "2606:4700:3031::ac43:a48f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ds.zacrb.com",
+        "count": "1372",
+        "first_seen": "2021-10-29 01:54:18",
+        "last_seen": "2021-11-16 12:38:25",
+        "ip_address": "2606:4700:3037::6815:59c2",
+        "type": "IPv6"
+    }
+]

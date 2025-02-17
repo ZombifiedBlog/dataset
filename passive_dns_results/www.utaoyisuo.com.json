@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "www.utaoyisuo.com",
+        "count": "470",
+        "first_seen": "2018-10-04 03:10:59",
+        "last_seen": "2019-09-19 07:39:17",
+        "ip_address": "104.24.122.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.utaoyisuo.com",
+        "count": "470",
+        "first_seen": "2018-10-04 03:10:59",
+        "last_seen": "2019-09-19 07:39:17",
+        "ip_address": "104.24.123.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.utaoyisuo.com",
+        "count": "7",
+        "first_seen": "2018-09-25 09:13:06",
+        "last_seen": "2018-09-25 09:13:07",
+        "ip_address": "104.28.20.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.utaoyisuo.com",
+        "count": "7",
+        "first_seen": "2018-09-25 09:13:06",
+        "last_seen": "2018-09-25 09:13:07",
+        "ip_address": "104.28.21.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.utaoyisuo.com",
+        "count": "4",
+        "first_seen": "2019-09-26 15:14:23",
+        "last_seen": "2019-10-23 17:09:05",
+        "ip_address": "209.99.40.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.utaoyisuo.com",
+        "count": "2",
+        "first_seen": "2018-09-25 09:13:06",
+        "last_seen": "2018-09-25 09:13:06",
+        "ip_address": "2400:cb00:2048:1::681c:14c1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.utaoyisuo.com",
+        "count": "2",
+        "first_seen": "2018-09-25 09:13:06",
+        "last_seen": "2018-09-25 09:13:06",
+        "ip_address": "2400:cb00:2048:1::681c:15c1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.utaoyisuo.com",
+        "count": "261",
+        "first_seen": "2018-10-04 03:10:59",
+        "last_seen": "2019-09-19 07:39:16",
+        "ip_address": "2606:4700:30::6818:7a7b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.utaoyisuo.com",
+        "count": "261",
+        "first_seen": "2018-10-04 03:10:59",
+        "last_seen": "2019-09-19 07:39:16",
+        "ip_address": "2606:4700:30::6818:7b7b",
+        "type": "IPv6"
+    }
+]

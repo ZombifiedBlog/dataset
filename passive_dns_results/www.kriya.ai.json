@@ -1,0 +1,162 @@
+[
+    {
+        "domain": "www.kriya.ai",
+        "count": "14666",
+        "first_seen": "2020-03-20 09:13:09",
+        "last_seen": "2020-06-02 21:55:01",
+        "ip_address": "104.24.68.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kriya.ai",
+        "count": "14666",
+        "first_seen": "2020-03-20 09:13:09",
+        "last_seen": "2020-06-02 21:55:01",
+        "ip_address": "104.24.69.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kriya.ai",
+        "count": "55668",
+        "first_seen": "2020-06-02 22:03:44",
+        "last_seen": "2024-01-15 21:30:35",
+        "ip_address": "104.24.68.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kriya.ai",
+        "count": "55668",
+        "first_seen": "2020-06-02 22:03:44",
+        "last_seen": "2024-01-15 21:30:35",
+        "ip_address": "104.24.69.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kriya.ai",
+        "count": "55668",
+        "first_seen": "2020-06-02 22:03:44",
+        "last_seen": "2024-01-15 21:30:35",
+        "ip_address": "172.67.83.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kriya.ai",
+        "count": "1008",
+        "first_seen": "2019-07-26 14:53:02",
+        "last_seen": "2020-03-20 09:09:55",
+        "ip_address": "104.25.218.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kriya.ai",
+        "count": "1008",
+        "first_seen": "2019-07-26 14:53:02",
+        "last_seen": "2020-03-20 09:09:55",
+        "ip_address": "104.25.219.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kriya.ai",
+        "count": "1150",
+        "first_seen": "2016-12-21 11:56:48",
+        "last_seen": "2019-07-18 23:08:35",
+        "ip_address": "104.25.237.99",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kriya.ai",
+        "count": "1150",
+        "first_seen": "2016-12-21 11:56:48",
+        "last_seen": "2019-07-18 23:08:35",
+        "ip_address": "104.25.238.99",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.kriya.ai",
+        "count": "485",
+        "first_seen": "2017-05-10 03:45:18",
+        "last_seen": "2018-09-27 13:45:29",
+        "ip_address": "2400:cb00:2048:1::6819:ed63",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.kriya.ai",
+        "count": "485",
+        "first_seen": "2017-05-10 03:45:18",
+        "last_seen": "2018-09-27 13:45:29",
+        "ip_address": "2400:cb00:2048:1::6819:ee63",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.kriya.ai",
+        "count": "6657",
+        "first_seen": "2020-03-20 09:13:10",
+        "last_seen": "2020-06-02 21:15:52",
+        "ip_address": "2606:4700:20::6818:440b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.kriya.ai",
+        "count": "6657",
+        "first_seen": "2020-03-20 09:13:10",
+        "last_seen": "2020-06-02 21:15:52",
+        "ip_address": "2606:4700:20::6818:450b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.kriya.ai",
+        "count": "26016",
+        "first_seen": "2020-06-02 22:07:56",
+        "last_seen": "2024-01-08 18:45:01",
+        "ip_address": "2606:4700:20::6818:440b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.kriya.ai",
+        "count": "26016",
+        "first_seen": "2020-06-02 22:07:56",
+        "last_seen": "2024-01-08 18:45:01",
+        "ip_address": "2606:4700:20::6818:450b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.kriya.ai",
+        "count": "26016",
+        "first_seen": "2020-06-02 22:07:56",
+        "last_seen": "2024-01-08 18:45:01",
+        "ip_address": "2606:4700:20::ac43:5338",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.kriya.ai",
+        "count": "515",
+        "first_seen": "2019-07-25 11:14:58",
+        "last_seen": "2020-03-20 02:10:08",
+        "ip_address": "2606:4700:20::6819:da07",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.kriya.ai",
+        "count": "515",
+        "first_seen": "2019-07-25 11:14:58",
+        "last_seen": "2020-03-20 02:10:08",
+        "ip_address": "2606:4700:20::6819:db07",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.kriya.ai",
+        "count": "235",
+        "first_seen": "2018-10-05 13:52:02",
+        "last_seen": "2019-07-18 23:08:35",
+        "ip_address": "2606:4700:20::6819:ed63",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.kriya.ai",
+        "count": "235",
+        "first_seen": "2018-10-05 13:52:02",
+        "last_seen": "2019-07-18 23:08:35",
+        "ip_address": "2606:4700:20::6819:ee63",
+        "type": "IPv6"
+    }
+]

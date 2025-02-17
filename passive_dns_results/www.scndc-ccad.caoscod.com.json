@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.scndc-ccad.caoscod.com",
+        "count": "25",
+        "first_seen": "2021-09-18 01:52:45",
+        "last_seen": "2022-09-14 20:17:27",
+        "ip_address": "137.184.75.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.scndc-ccad.caoscod.com",
+        "count": "166",
+        "first_seen": "2021-09-16 21:38:03",
+        "last_seen": "2021-09-17 16:23:48",
+        "ip_address": "154.30.198.156",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.scndc-ccad.caoscod.com",
+        "count": "29",
+        "first_seen": "2022-09-17 01:01:25",
+        "last_seen": "2022-10-17 06:49:49",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.scndc-ccad.caoscod.com",
+        "count": "3",
+        "first_seen": "2022-09-17 13:39:15",
+        "last_seen": "2022-09-19 06:39:04",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.scndc-ccad.caoscod.com",
+        "count": "4",
+        "first_seen": "2022-09-17 01:01:25",
+        "last_seen": "2022-10-12 04:59:43",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

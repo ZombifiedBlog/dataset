@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "support.oenncadv.com",
+        "count": "8",
+        "first_seen": "2020-12-23 07:18:40",
+        "last_seen": "2020-12-24 07:25:43",
+        "ip_address": "104.28.30.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.oenncadv.com",
+        "count": "8",
+        "first_seen": "2020-12-23 07:18:40",
+        "last_seen": "2020-12-24 07:25:43",
+        "ip_address": "104.28.31.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.oenncadv.com",
+        "count": "8",
+        "first_seen": "2020-12-23 07:18:40",
+        "last_seen": "2020-12-24 07:25:43",
+        "ip_address": "172.67.129.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.oenncadv.com",
+        "count": "1",
+        "first_seen": "2020-12-23 16:52:53",
+        "last_seen": "2020-12-23 16:52:53",
+        "ip_address": "2606:4700:3030::681c:1f13",
+        "type": "IPv6"
+    },
+    {
+        "domain": "support.oenncadv.com",
+        "count": "1",
+        "first_seen": "2020-12-23 16:52:53",
+        "last_seen": "2020-12-23 16:52:53",
+        "ip_address": "2606:4700:3031::ac43:8132",
+        "type": "IPv6"
+    },
+    {
+        "domain": "support.oenncadv.com",
+        "count": "1",
+        "first_seen": "2020-12-23 16:52:53",
+        "last_seen": "2020-12-23 16:52:53",
+        "ip_address": "2606:4700:3035::681c:1e13",
+        "type": "IPv6"
+    }
+]

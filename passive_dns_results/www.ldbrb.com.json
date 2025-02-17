@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "www.ldbrb.com",
+        "count": "472",
+        "first_seen": "2020-11-01 01:59:08",
+        "last_seen": "2021-01-14 09:23:26",
+        "ip_address": "104.18.52.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ldbrb.com",
+        "count": "472",
+        "first_seen": "2020-11-01 01:59:08",
+        "last_seen": "2021-01-14 09:23:26",
+        "ip_address": "104.18.53.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ldbrb.com",
+        "count": "472",
+        "first_seen": "2020-11-01 01:59:08",
+        "last_seen": "2021-01-14 09:23:26",
+        "ip_address": "172.67.196.243",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ldbrb.com",
+        "count": "28",
+        "first_seen": "2021-01-20 21:45:32",
+        "last_seen": "2021-05-14 06:11:05",
+        "ip_address": "104.21.41.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ldbrb.com",
+        "count": "28",
+        "first_seen": "2021-01-20 21:45:32",
+        "last_seen": "2021-05-14 06:11:05",
+        "ip_address": "172.67.196.243",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ldbrb.com",
+        "count": "46",
+        "first_seen": "2020-11-01 01:40:20",
+        "last_seen": "2021-01-03 07:20:04",
+        "ip_address": "2606:4700:3030::6812:3577",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ldbrb.com",
+        "count": "46",
+        "first_seen": "2020-11-01 01:40:20",
+        "last_seen": "2021-01-03 07:20:04",
+        "ip_address": "2606:4700:3034::6812:3477",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ldbrb.com",
+        "count": "46",
+        "first_seen": "2020-11-01 01:40:20",
+        "last_seen": "2021-01-03 07:20:04",
+        "ip_address": "2606:4700:3035::ac43:c4f3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ldbrb.com",
+        "count": "4",
+        "first_seen": "2021-01-20 21:45:32",
+        "last_seen": "2021-03-28 18:03:05",
+        "ip_address": "2606:4700:3035::ac43:c4f3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.ldbrb.com",
+        "count": "4",
+        "first_seen": "2021-01-20 21:45:32",
+        "last_seen": "2021-03-28 18:03:05",
+        "ip_address": "2606:4700:3037::6815:29f2",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "domain": "www.belinchetreffen.com",
+        "count": "699",
+        "first_seen": "2020-07-18 18:09:55",
+        "last_seen": "2020-07-22 10:24:10",
+        "ip_address": "104.27.184.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.belinchetreffen.com",
+        "count": "699",
+        "first_seen": "2020-07-18 18:09:55",
+        "last_seen": "2020-07-22 10:24:10",
+        "ip_address": "104.27.185.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.belinchetreffen.com",
+        "count": "699",
+        "first_seen": "2020-07-18 18:09:55",
+        "last_seen": "2020-07-22 10:24:10",
+        "ip_address": "172.67.200.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.belinchetreffen.com",
+        "count": "21",
+        "first_seen": "2021-09-05 06:03:07",
+        "last_seen": "2021-11-26 11:36:25",
+        "ip_address": "154.90.113.59",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.belinchetreffen.com",
+        "count": "30",
+        "first_seen": "2021-03-05 08:26:39",
+        "last_seen": "2021-08-10 16:35:51",
+        "ip_address": "156.235.203.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.belinchetreffen.com",
+        "count": "64",
+        "first_seen": "2020-07-18 18:51:42",
+        "last_seen": "2020-07-18 19:36:19",
+        "ip_address": "172.64.174.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.belinchetreffen.com",
+        "count": "64",
+        "first_seen": "2020-07-18 18:51:42",
+        "last_seen": "2020-07-18 19:36:19",
+        "ip_address": "172.64.175.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.belinchetreffen.com",
+        "count": "6",
+        "first_seen": "2020-10-21 16:09:22",
+        "last_seen": "2020-11-11 23:00:37",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.belinchetreffen.com",
+        "count": "6",
+        "first_seen": "2020-10-21 16:09:22",
+        "last_seen": "2020-11-11 23:00:37",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.belinchetreffen.com",
+        "count": "6",
+        "first_seen": "2020-10-21 16:09:22",
+        "last_seen": "2020-11-11 23:00:37",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.belinchetreffen.com",
+        "count": "6",
+        "first_seen": "2020-10-21 16:09:22",
+        "last_seen": "2020-11-11 23:00:37",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.belinchetreffen.com",
+        "count": "48",
+        "first_seen": "2020-07-18 18:50:25",
+        "last_seen": "2020-07-18 19:36:42",
+        "ip_address": "2606:4700:e4::ac40:ae06",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.belinchetreffen.com",
+        "count": "48",
+        "first_seen": "2020-07-18 18:50:25",
+        "last_seen": "2020-07-18 19:36:42",
+        "ip_address": "2606:4700:e4::ac40:af06",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.belinchetreffen.com",
+        "count": "292",
+        "first_seen": "2020-07-18 18:10:04",
+        "last_seen": "2020-07-22 06:25:39",
+        "ip_address": "2606:4700:3031::681b:b969",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.belinchetreffen.com",
+        "count": "292",
+        "first_seen": "2020-07-18 18:10:04",
+        "last_seen": "2020-07-22 06:25:39",
+        "ip_address": "2606:4700:3031::ac43:c8fb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.belinchetreffen.com",
+        "count": "292",
+        "first_seen": "2020-07-18 18:10:04",
+        "last_seen": "2020-07-22 06:25:39",
+        "ip_address": "2606:4700:3035::681b:b869",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.mehomeopath.com",
+        "count": "4832",
+        "first_seen": "2022-08-23 03:21:45",
+        "last_seen": "2022-11-16 06:56:28",
+        "ip_address": "104.21.50.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.mehomeopath.com",
+        "count": "4832",
+        "first_seen": "2022-08-23 03:21:45",
+        "last_seen": "2022-11-16 06:56:28",
+        "ip_address": "172.67.166.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.mehomeopath.com",
+        "count": "2",
+        "first_seen": "2023-01-04 10:45:21",
+        "last_seen": "2023-01-05 06:47:51",
+        "ip_address": "170.106.49.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.mehomeopath.com",
+        "count": "329",
+        "first_seen": "2022-08-23 04:21:06",
+        "last_seen": "2022-11-07 16:50:45",
+        "ip_address": "2606:4700:3031::ac43:a690",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.mehomeopath.com",
+        "count": "329",
+        "first_seen": "2022-08-23 04:21:06",
+        "last_seen": "2022-11-07 16:50:45",
+        "ip_address": "2606:4700:3032::6815:32c9",
+        "type": "IPv6"
+    }
+]

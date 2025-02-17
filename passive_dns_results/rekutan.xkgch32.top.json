@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "rekutan.xkgch32.top",
+        "count": "21",
+        "first_seen": "2020-10-24 17:31:23",
+        "last_seen": "2020-11-19 18:37:16",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekutan.xkgch32.top",
+        "count": "71",
+        "first_seen": "2020-09-27 05:51:58",
+        "last_seen": "2020-10-19 05:06:04",
+        "ip_address": "104.24.122.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekutan.xkgch32.top",
+        "count": "71",
+        "first_seen": "2020-09-27 05:51:58",
+        "last_seen": "2020-10-19 05:06:04",
+        "ip_address": "104.24.123.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekutan.xkgch32.top",
+        "count": "71",
+        "first_seen": "2020-09-27 05:51:58",
+        "last_seen": "2020-10-19 05:06:04",
+        "ip_address": "172.67.169.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekutan.xkgch32.top",
+        "count": "4",
+        "first_seen": "2020-09-27 05:52:00",
+        "last_seen": "2020-09-27 18:10:41",
+        "ip_address": "2606:4700:3030::6818:7bd4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rekutan.xkgch32.top",
+        "count": "4",
+        "first_seen": "2020-09-27 05:52:00",
+        "last_seen": "2020-09-27 18:10:41",
+        "ip_address": "2606:4700:3033::ac43:a9fb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rekutan.xkgch32.top",
+        "count": "4",
+        "first_seen": "2020-09-27 05:52:00",
+        "last_seen": "2020-09-27 18:10:41",
+        "ip_address": "2606:4700:3035::6818:7ad4",
+        "type": "IPv6"
+    }
+]

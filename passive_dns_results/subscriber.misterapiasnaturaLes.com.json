@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.misterapiasnaturaLes.com",
+        "count": "2757",
+        "first_seen": "2022-11-19 16:09:49",
+        "last_seen": "2023-01-28 07:23:40",
+        "ip_address": "104.21.69.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.misterapiasnaturaLes.com",
+        "count": "2757",
+        "first_seen": "2022-11-19 16:09:49",
+        "last_seen": "2023-01-28 07:23:40",
+        "ip_address": "172.67.209.91",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.misterapiasnaturaLes.com",
+        "count": "1",
+        "first_seen": "2023-02-10 02:38:29",
+        "last_seen": "2023-02-10 02:38:29",
+        "ip_address": "170.106.49.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.misterapiasnaturaLes.com",
+        "count": "7",
+        "first_seen": "2023-02-12 07:24:09",
+        "last_seen": "2023-02-27 11:24:16",
+        "ip_address": "170.106.49.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.misterapiasnaturaLes.com",
+        "count": "132",
+        "first_seen": "2022-11-20 04:51:31",
+        "last_seen": "2023-01-15 15:40:09",
+        "ip_address": "2606:4700:3032::ac43:d15b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.misterapiasnaturaLes.com",
+        "count": "132",
+        "first_seen": "2022-11-20 04:51:31",
+        "last_seen": "2023-01-15 15:40:09",
+        "ip_address": "2606:4700:3036::6815:4593",
+        "type": "IPv6"
+    }
+]

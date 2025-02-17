@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazonsscez.xyz",
+        "count": "6",
+        "first_seen": "2021-09-11 03:12:46",
+        "last_seen": "2021-10-08 06:21:53",
+        "ip_address": "99.81.40.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonsscez.xyz",
+        "count": "8",
+        "first_seen": "2020-09-11 22:50:13",
+        "last_seen": "2020-09-12 17:39:28",
+        "ip_address": "107.172.205.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonsscez.xyz",
+        "count": "48",
+        "first_seen": "2020-09-11 03:34:37",
+        "last_seen": "2020-09-11 20:50:16",
+        "ip_address": "198.148.118.101",
+        "type": "IPv4"
+    }
+]

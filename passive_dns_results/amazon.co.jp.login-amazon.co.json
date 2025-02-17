@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "amazon.co.jp.login-amazon.co",
+        "count": "816",
+        "first_seen": "2020-07-08 16:52:21",
+        "last_seen": "2021-06-27 17:00:14",
+        "ip_address": "27.124.22.63",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.co.jp.login-amazon.co",
+        "count": "7",
+        "first_seen": "2020-07-04 11:35:42",
+        "last_seen": "2020-07-04 18:32:10",
+        "ip_address": "51.195.148.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.co.jp.login-amazon.co",
+        "count": "8",
+        "first_seen": "2021-07-05 16:12:38",
+        "last_seen": "2021-07-06 05:01:26",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.co.jp.login-amazon.co",
+        "count": "24",
+        "first_seen": "2021-10-12 15:49:05",
+        "last_seen": "2022-10-13 18:45:07",
+        "ip_address": "103.224.182.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.co.jp.login-amazon.co",
+        "count": "12",
+        "first_seen": "2021-10-12 15:49:05",
+        "last_seen": "2021-10-13 05:02:10",
+        "ip_address": "103.224.182.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.co.jp.login-amazon.co",
+        "count": "2",
+        "first_seen": "2020-07-08 13:06:36",
+        "last_seen": "2020-07-08 13:06:36",
+        "ip_address": "2606:4700:3035::ac43:897f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon.co.jp.login-amazon.co",
+        "count": "2",
+        "first_seen": "2020-07-08 13:06:36",
+        "last_seen": "2020-07-08 13:06:36",
+        "ip_address": "2606:4700:3036::681b:a213",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon.co.jp.login-amazon.co",
+        "count": "2",
+        "first_seen": "2020-07-08 13:06:36",
+        "last_seen": "2020-07-08 13:06:36",
+        "ip_address": "2606:4700:3036::681b:a313",
+        "type": "IPv6"
+    }
+]

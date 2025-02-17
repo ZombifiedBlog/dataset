@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "9.kdeoz.ru",
+        "count": "8",
+        "first_seen": "2023-08-31 06:23:11",
+        "last_seen": "2023-09-25 14:55:46",
+        "ip_address": "31.177.76.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9.kdeoz.ru",
+        "count": "8",
+        "first_seen": "2023-08-31 06:23:11",
+        "last_seen": "2023-09-25 14:55:46",
+        "ip_address": "31.177.80.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9.kdeoz.ru",
+        "count": "10336",
+        "first_seen": "2023-04-27 01:05:47",
+        "last_seen": "2023-08-11 19:29:40",
+        "ip_address": "104.21.92.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9.kdeoz.ru",
+        "count": "10336",
+        "first_seen": "2023-04-27 01:05:47",
+        "last_seen": "2023-08-11 19:29:40",
+        "ip_address": "172.67.186.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9.kdeoz.ru",
+        "count": "395",
+        "first_seen": "2023-04-27 01:05:48",
+        "last_seen": "2023-08-11 19:29:40",
+        "ip_address": "2606:4700:3033::ac43:ba30",
+        "type": "IPv6"
+    },
+    {
+        "domain": "9.kdeoz.ru",
+        "count": "395",
+        "first_seen": "2023-04-27 01:05:48",
+        "last_seen": "2023-08-11 19:29:40",
+        "ip_address": "2606:4700:3036::6815:5c27",
+        "type": "IPv6"
+    }
+]

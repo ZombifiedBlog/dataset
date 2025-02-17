@@ -1,0 +1,146 @@
+[
+    {
+        "domain": "ly1.ru",
+        "count": "279",
+        "first_seen": "2022-03-03 07:23:54",
+        "last_seen": "2022-04-04 11:33:31",
+        "ip_address": "5.101.159.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ly1.ru",
+        "count": "422",
+        "first_seen": "2021-01-28 02:32:38",
+        "last_seen": "2021-03-02 04:38:08",
+        "ip_address": "31.177.76.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ly1.ru",
+        "count": "422",
+        "first_seen": "2021-01-28 02:32:38",
+        "last_seen": "2021-03-02 04:38:08",
+        "ip_address": "31.177.80.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ly1.ru",
+        "count": "54",
+        "first_seen": "2017-11-23 02:12:51",
+        "last_seen": "2017-11-28 15:19:32",
+        "ip_address": "37.9.156.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ly1.ru",
+        "count": "6",
+        "first_seen": "2013-03-31 23:06:55",
+        "last_seen": "2013-04-02 13:49:25",
+        "ip_address": "82.151.200.235",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ly1.ru",
+        "count": "5192",
+        "first_seen": "2021-03-02 15:45:58",
+        "last_seen": "2022-03-03 07:22:33",
+        "ip_address": "87.236.16.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ly1.ru",
+        "count": "1",
+        "first_seen": "2021-03-02 15:44:44",
+        "last_seen": "2021-03-02 15:44:44",
+        "ip_address": "87.236.19.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ly1.ru",
+        "count": "40",
+        "first_seen": "2013-06-02 10:17:10",
+        "last_seen": "2014-03-31 04:49:58",
+        "ip_address": "91.218.229.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ly1.ru",
+        "count": "3",
+        "first_seen": "2019-01-29 10:47:26",
+        "last_seen": "2019-01-29 12:18:30",
+        "ip_address": "109.70.26.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ly1.ru",
+        "count": "3",
+        "first_seen": "2019-01-29 10:47:26",
+        "last_seen": "2019-01-29 12:18:30",
+        "ip_address": "194.85.61.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ly1.ru",
+        "count": "10212",
+        "first_seen": "2015-12-10 15:32:24",
+        "last_seen": "2016-12-12 16:57:56",
+        "ip_address": "136.243.146.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ly1.ru",
+        "count": "8457",
+        "first_seen": "2016-12-12 17:40:01",
+        "last_seen": "2017-11-21 20:25:28",
+        "ip_address": "136.243.146.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ly1.ru",
+        "count": "318",
+        "first_seen": "2023-11-20 10:11:46",
+        "last_seen": "2024-01-18 06:40:40",
+        "ip_address": "194.58.112.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ly1.ru",
+        "count": "7767",
+        "first_seen": "2015-01-28 20:29:03",
+        "last_seen": "2015-12-10 11:11:05",
+        "ip_address": "213.178.59.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ly1.ru",
+        "count": "7849",
+        "first_seen": "2017-11-29 05:46:51",
+        "last_seen": "2019-10-08 13:32:33",
+        "ip_address": "213.178.59.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ly1.ru",
+        "count": "4830",
+        "first_seen": "2019-10-08 17:29:58",
+        "last_seen": "2021-01-28 04:20:15",
+        "ip_address": "213.178.63.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ly1.ru",
+        "count": "227",
+        "first_seen": "2023-11-20 09:31:39",
+        "last_seen": "2024-01-18 06:40:40",
+        "ip_address": "2a00:f940:4::152",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ly1.ru",
+        "count": "4",
+        "first_seen": "2013-06-03 19:50:33",
+        "last_seen": "2013-08-06 12:02:30",
+        "ip_address": "2a03:c980::1:20:8",
+        "type": "IPv6"
+    }
+]

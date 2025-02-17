@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.disboards.com",
+        "count": "669381",
+        "first_seen": "2022-06-20 06:06:52",
+        "last_seen": "2024-01-18 08:05:26",
+        "ip_address": "108.61.75.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.disboards.com",
+        "count": "1913",
+        "first_seen": "2012-04-15 09:53:30",
+        "last_seen": "2012-04-17 02:26:32",
+        "ip_address": "108.166.45.255",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.disboards.com",
+        "count": "3157317",
+        "first_seen": "2012-04-17 01:20:01",
+        "last_seen": "2022-07-18 23:33:51",
+        "ip_address": "108.171.164.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.disboards.com",
+        "count": "503945",
+        "first_seen": "2010-06-24 11:30:51",
+        "last_seen": "2012-04-15 10:41:38",
+        "ip_address": "216.167.116.58",
+        "type": "IPv4"
+    }
+]

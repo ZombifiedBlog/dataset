@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "www-cr-mufg-jp.gzmz.xyz",
+        "count": "73",
+        "first_seen": "2023-01-28 14:06:15",
+        "last_seen": "2023-01-29 07:49:16",
+        "ip_address": "104.21.25.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.gzmz.xyz",
+        "count": "73",
+        "first_seen": "2023-01-28 14:06:15",
+        "last_seen": "2023-01-29 07:49:16",
+        "ip_address": "172.67.134.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.gzmz.xyz",
+        "count": "2",
+        "first_seen": "2023-01-28 14:28:02",
+        "last_seen": "2023-01-28 14:28:02",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.gzmz.xyz",
+        "count": "2",
+        "first_seen": "2023-01-28 14:28:02",
+        "last_seen": "2023-01-28 14:28:02",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.gzmz.xyz",
+        "count": "2",
+        "first_seen": "2023-01-28 14:28:02",
+        "last_seen": "2023-01-28 14:28:02",
+        "ip_address": "188.114.96.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.gzmz.xyz",
+        "count": "2",
+        "first_seen": "2023-01-28 14:28:02",
+        "last_seen": "2023-01-28 14:28:02",
+        "ip_address": "188.114.97.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.gzmz.xyz",
+        "count": "13",
+        "first_seen": "2023-01-28 14:17:57",
+        "last_seen": "2023-01-28 18:31:28",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.gzmz.xyz",
+        "count": "13",
+        "first_seen": "2023-01-28 14:17:57",
+        "last_seen": "2023-01-28 18:31:28",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.gzmz.xyz",
+        "count": "1",
+        "first_seen": "2023-01-28 14:17:57",
+        "last_seen": "2023-01-28 14:17:57",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-cr-mufg-jp.gzmz.xyz",
+        "count": "1",
+        "first_seen": "2023-01-28 14:17:57",
+        "last_seen": "2023-01-28 14:17:57",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

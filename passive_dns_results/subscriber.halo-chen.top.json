@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscriber.halo-chen.top",
+        "count": "3",
+        "first_seen": "2023-05-24 19:29:58",
+        "last_seen": "2023-05-28 10:01:06",
+        "ip_address": "49.51.77.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.halo-chen.top",
+        "count": "6583",
+        "first_seen": "2023-02-02 18:39:56",
+        "last_seen": "2023-05-05 13:18:22",
+        "ip_address": "104.21.20.57",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.halo-chen.top",
+        "count": "6583",
+        "first_seen": "2023-02-02 18:39:56",
+        "last_seen": "2023-05-05 13:18:22",
+        "ip_address": "172.67.191.206",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.halo-chen.top",
+        "count": "37",
+        "first_seen": "2023-05-11 08:40:05",
+        "last_seen": "2023-05-15 23:00:41",
+        "ip_address": "170.106.49.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.halo-chen.top",
+        "count": "161",
+        "first_seen": "2023-05-04 23:12:29",
+        "last_seen": "2023-05-19 23:30:12",
+        "ip_address": "170.106.49.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.halo-chen.top",
+        "count": "268",
+        "first_seen": "2023-02-02 18:39:57",
+        "last_seen": "2023-05-04 21:43:20",
+        "ip_address": "2606:4700:3031::ac43:bfce",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.halo-chen.top",
+        "count": "268",
+        "first_seen": "2023-02-02 18:39:57",
+        "last_seen": "2023-05-04 21:43:20",
+        "ip_address": "2606:4700:3037::6815:1439",
+        "type": "IPv6"
+    }
+]

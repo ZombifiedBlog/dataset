@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "amaree.nexddcf.com",
+        "count": "124",
+        "first_seen": "2020-05-07 19:30:35",
+        "last_seen": "2020-05-13 02:06:13",
+        "ip_address": "104.31.80.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amaree.nexddcf.com",
+        "count": "124",
+        "first_seen": "2020-05-07 19:30:35",
+        "last_seen": "2020-05-13 02:06:13",
+        "ip_address": "104.31.81.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amaree.nexddcf.com",
+        "count": "75",
+        "first_seen": "2020-05-08 04:46:03",
+        "last_seen": "2020-05-13 02:06:13",
+        "ip_address": "2606:4700:3033::681f:5079",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amaree.nexddcf.com",
+        "count": "75",
+        "first_seen": "2020-05-08 04:46:03",
+        "last_seen": "2020-05-13 02:06:13",
+        "ip_address": "2606:4700:3035::681f:5179",
+        "type": "IPv6"
+    }
+]

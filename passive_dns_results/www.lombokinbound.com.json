@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "www.lombokinbound.com",
+        "count": "7",
+        "first_seen": "2023-07-04 07:20:02",
+        "last_seen": "2023-11-28 09:51:52",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lombokinbound.com",
+        "count": "26",
+        "first_seen": "2023-10-14 00:42:25",
+        "last_seen": "2024-01-07 13:17:05",
+        "ip_address": "103.224.212.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lombokinbound.com",
+        "count": "148",
+        "first_seen": "2023-04-06 23:15:59",
+        "last_seen": "2023-09-22 07:00:19",
+        "ip_address": "103.224.212.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lombokinbound.com",
+        "count": "630",
+        "first_seen": "2023-02-17 20:00:07",
+        "last_seen": "2023-02-20 05:21:26",
+        "ip_address": "104.129.5.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lombokinbound.com",
+        "count": "8",
+        "first_seen": "2022-07-06 07:33:51",
+        "last_seen": "2022-11-17 06:34:55",
+        "ip_address": "104.164.153.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lombokinbound.com",
+        "count": "8",
+        "first_seen": "2023-06-29 06:50:16",
+        "last_seen": "2023-12-01 05:29:35",
+        "ip_address": "170.178.183.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lombokinbound.com",
+        "count": "3",
+        "first_seen": "2023-04-18 06:49:48",
+        "last_seen": "2023-07-06 06:49:58",
+        "ip_address": "199.115.116.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lombokinbound.com",
+        "count": "2293",
+        "first_seen": "2016-03-30 03:48:36",
+        "last_seen": "2020-11-21 23:19:38",
+        "ip_address": "202.124.241.203",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lombokinbound.com",
+        "count": "493",
+        "first_seen": "2016-04-14 19:24:10",
+        "last_seen": "2020-11-21 23:19:38",
+        "ip_address": "2403:1400:2:1::107",
+        "type": "IPv6"
+    }
+]

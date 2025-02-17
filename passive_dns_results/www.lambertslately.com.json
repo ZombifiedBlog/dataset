@@ -1,0 +1,570 @@
+[
+    {
+        "domain": "www.lambertslately.com",
+        "count": "9",
+        "first_seen": "2022-06-01 22:14:10",
+        "last_seen": "2022-06-01 23:23:08",
+        "ip_address": "35.209.100.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "3",
+        "first_seen": "2023-04-28 05:34:13",
+        "last_seen": "2023-04-28 07:23:25",
+        "ip_address": "98.124.224.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "130296",
+        "first_seen": "2022-09-29 00:45:51",
+        "last_seen": "2024-01-18 13:55:44",
+        "ip_address": "104.21.82.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "130296",
+        "first_seen": "2022-09-29 00:45:51",
+        "last_seen": "2024-01-18 13:55:44",
+        "ip_address": "172.67.163.95",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "3267",
+        "first_seen": "2022-09-04 09:19:15",
+        "last_seen": "2022-09-29 00:16:53",
+        "ip_address": "104.26.4.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "3267",
+        "first_seen": "2022-09-04 09:19:15",
+        "last_seen": "2022-09-29 00:16:53",
+        "ip_address": "104.26.5.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "3267",
+        "first_seen": "2022-09-04 09:19:15",
+        "last_seen": "2022-09-29 00:16:53",
+        "ip_address": "172.67.70.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "47456",
+        "first_seen": "2017-07-18 16:24:44",
+        "last_seen": "2017-09-29 23:24:17",
+        "ip_address": "104.31.64.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "47456",
+        "first_seen": "2017-07-18 16:24:44",
+        "last_seen": "2017-09-29 23:24:17",
+        "ip_address": "104.31.65.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "366",
+        "first_seen": "2023-06-29 19:18:55",
+        "last_seen": "2024-01-18 14:46:16",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "8015",
+        "first_seen": "2022-06-01 23:41:23",
+        "last_seen": "2022-09-01 01:38:06",
+        "ip_address": "172.66.40.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "8015",
+        "first_seen": "2022-06-01 23:41:23",
+        "last_seen": "2022-09-01 01:38:06",
+        "ip_address": "172.66.43.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "608",
+        "first_seen": "2017-07-19 00:13:44",
+        "last_seen": "2017-07-20 01:53:07",
+        "ip_address": "173.236.11.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "22",
+        "first_seen": "2023-05-30 12:15:30",
+        "last_seen": "2023-12-05 09:23:14",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "22",
+        "first_seen": "2023-05-30 12:15:30",
+        "last_seen": "2023-12-05 09:23:14",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "1",
+        "first_seen": "2023-04-10 18:16:48",
+        "last_seen": "2023-04-10 18:16:48",
+        "ip_address": "188.114.96.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "1",
+        "first_seen": "2023-04-10 18:16:48",
+        "last_seen": "2023-04-10 18:16:48",
+        "ip_address": "188.114.97.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "24",
+        "first_seen": "2022-10-25 12:12:09",
+        "last_seen": "2024-01-15 08:37:48",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "24",
+        "first_seen": "2022-10-25 12:12:09",
+        "last_seen": "2024-01-15 08:37:48",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "692",
+        "first_seen": "2022-09-30 10:40:35",
+        "last_seen": "2024-01-18 17:21:27",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "692",
+        "first_seen": "2022-09-30 10:40:35",
+        "last_seen": "2024-01-18 17:21:27",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "89",
+        "first_seen": "2022-09-30 08:19:54",
+        "last_seen": "2024-01-18 12:15:48",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "89",
+        "first_seen": "2022-09-30 08:19:54",
+        "last_seen": "2024-01-18 12:15:48",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "2",
+        "first_seen": "2024-01-12 15:05:12",
+        "last_seen": "2024-01-12 15:05:12",
+        "ip_address": "188.114.96.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "2",
+        "first_seen": "2024-01-12 15:05:12",
+        "last_seen": "2024-01-12 15:05:12",
+        "ip_address": "188.114.97.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "1",
+        "first_seen": "2023-09-28 18:10:11",
+        "last_seen": "2023-09-28 18:10:11",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "1",
+        "first_seen": "2023-09-28 18:10:11",
+        "last_seen": "2023-09-28 18:10:11",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "72",
+        "first_seen": "2022-12-20 08:28:07",
+        "last_seen": "2024-01-07 19:39:08",
+        "ip_address": "188.114.96.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "72",
+        "first_seen": "2022-12-20 08:28:07",
+        "last_seen": "2024-01-07 19:39:08",
+        "ip_address": "188.114.97.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "71",
+        "first_seen": "2022-10-02 22:52:24",
+        "last_seen": "2023-12-11 16:46:14",
+        "ip_address": "188.114.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "71",
+        "first_seen": "2022-10-02 22:52:24",
+        "last_seen": "2023-12-11 16:46:14",
+        "ip_address": "188.114.97.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "10",
+        "first_seen": "2022-10-28 09:46:58",
+        "last_seen": "2023-07-25 21:03:10",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "10",
+        "first_seen": "2022-10-28 09:46:58",
+        "last_seen": "2023-07-25 21:03:10",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "60",
+        "first_seen": "2022-06-02 18:40:52",
+        "last_seen": "2022-06-27 05:37:07",
+        "ip_address": "188.114.96.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "40",
+        "first_seen": "2022-07-03 03:30:00",
+        "last_seen": "2022-07-27 20:25:20",
+        "ip_address": "188.114.98.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "49",
+        "first_seen": "2022-07-28 19:44:49",
+        "last_seen": "2022-08-17 11:32:10",
+        "ip_address": "188.114.98.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "49",
+        "first_seen": "2022-07-28 19:44:49",
+        "last_seen": "2022-08-17 11:32:10",
+        "ip_address": "188.114.99.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "2",
+        "first_seen": "2022-07-13 01:48:26",
+        "last_seen": "2022-07-13 01:48:26",
+        "ip_address": "188.114.98.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "101",
+        "first_seen": "2022-08-18 09:01:40",
+        "last_seen": "2022-09-28 17:45:04",
+        "ip_address": "188.114.98.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "101",
+        "first_seen": "2022-08-18 09:01:40",
+        "last_seen": "2022-09-28 17:45:04",
+        "ip_address": "188.114.99.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "21786",
+        "first_seen": "2017-07-18 16:28:35",
+        "last_seen": "2017-09-29 14:05:44",
+        "ip_address": "2400:cb00:2048:1::681f:402c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "21786",
+        "first_seen": "2017-07-18 16:28:35",
+        "last_seen": "2017-09-29 14:05:44",
+        "ip_address": "2400:cb00:2048:1::681f:412c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "2128",
+        "first_seen": "2022-09-04 09:19:15",
+        "last_seen": "2022-09-29 00:16:53",
+        "ip_address": "2606:4700:20::681a:4d5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "2128",
+        "first_seen": "2022-09-04 09:19:15",
+        "last_seen": "2022-09-29 00:16:53",
+        "ip_address": "2606:4700:20::681a:5d5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "2128",
+        "first_seen": "2022-09-04 09:19:15",
+        "last_seen": "2022-09-29 00:16:53",
+        "ip_address": "2606:4700:20::ac43:46d2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "11",
+        "first_seen": "2023-07-11 12:37:17",
+        "last_seen": "2024-01-03 18:20:07",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "85219",
+        "first_seen": "2022-09-29 00:52:52",
+        "last_seen": "2024-01-18 13:54:28",
+        "ip_address": "2606:4700:3030::6815:52d1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "85219",
+        "first_seen": "2022-09-29 00:52:52",
+        "last_seen": "2024-01-18 13:54:28",
+        "ip_address": "2606:4700:3031::ac43:a35f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "5274",
+        "first_seen": "2022-06-01 23:41:23",
+        "last_seen": "2022-09-01 02:03:50",
+        "ip_address": "2606:4700:3108::ac42:28ec",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "5274",
+        "first_seen": "2022-06-01 23:41:23",
+        "last_seen": "2022-09-01 02:03:50",
+        "ip_address": "2606:4700:3108::ac42:2b14",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "2",
+        "first_seen": "2023-10-05 22:56:44",
+        "last_seen": "2023-10-25 09:53:10",
+        "ip_address": "2a06:98c1:3120::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "2",
+        "first_seen": "2023-10-05 22:56:44",
+        "last_seen": "2023-10-25 09:53:10",
+        "ip_address": "2a06:98c1:3121::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "2",
+        "first_seen": "2023-10-10 09:53:28",
+        "last_seen": "2023-10-10 09:53:28",
+        "ip_address": "2a06:98c1:3120::2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "2",
+        "first_seen": "2023-10-10 09:53:28",
+        "last_seen": "2023-10-10 09:53:28",
+        "ip_address": "2a06:98c1:3121::2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "588",
+        "first_seen": "2022-09-29 14:43:21",
+        "last_seen": "2024-01-18 04:26:24",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "588",
+        "first_seen": "2022-09-29 14:43:21",
+        "last_seen": "2024-01-18 04:26:24",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "65",
+        "first_seen": "2022-11-13 15:16:40",
+        "last_seen": "2024-01-14 20:16:23",
+        "ip_address": "2a06:98c1:3120::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "65",
+        "first_seen": "2022-11-13 15:16:40",
+        "last_seen": "2024-01-14 20:16:23",
+        "ip_address": "2a06:98c1:3121::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "42",
+        "first_seen": "2022-12-30 12:58:40",
+        "last_seen": "2024-01-07 16:40:43",
+        "ip_address": "2a06:98c1:3120::8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "42",
+        "first_seen": "2022-12-30 12:58:40",
+        "last_seen": "2024-01-07 16:40:43",
+        "ip_address": "2a06:98c1:3121::8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "53",
+        "first_seen": "2022-09-29 12:53:19",
+        "last_seen": "2023-09-01 17:10:41",
+        "ip_address": "2a06:98c1:3120::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "53",
+        "first_seen": "2022-09-29 12:53:19",
+        "last_seen": "2023-09-01 17:10:41",
+        "ip_address": "2a06:98c1:3121::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "4",
+        "first_seen": "2022-10-10 15:27:27",
+        "last_seen": "2022-10-29 18:15:09",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "4",
+        "first_seen": "2022-10-10 15:27:27",
+        "last_seen": "2022-10-29 18:15:09",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "27",
+        "first_seen": "2022-06-03 08:45:45",
+        "last_seen": "2022-06-27 05:37:07",
+        "ip_address": "2a06:98c1:3120:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "11",
+        "first_seen": "2022-07-28 19:44:49",
+        "last_seen": "2022-08-11 04:07:32",
+        "ip_address": "2a06:98c1:3122:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "11",
+        "first_seen": "2022-07-28 19:44:49",
+        "last_seen": "2022-08-11 04:07:32",
+        "ip_address": "2a06:98c1:3123:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "27",
+        "first_seen": "2022-08-21 07:19:31",
+        "last_seen": "2022-09-28 17:45:04",
+        "ip_address": "2a06:98c1:3122:c000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "27",
+        "first_seen": "2022-08-21 07:19:31",
+        "last_seen": "2022-09-28 17:45:04",
+        "ip_address": "2a06:98c1:3123:c000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "12",
+        "first_seen": "2022-07-03 03:30:00",
+        "last_seen": "2022-07-25 21:35:21",
+        "ip_address": "2a06:98c1:3123:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lambertslately.com",
+        "count": "1",
+        "first_seen": "2022-07-13 01:48:26",
+        "last_seen": "2022-07-13 01:48:26",
+        "ip_address": "2a06:98c1:3123:a000::5",
+        "type": "IPv6"
+    }
+]

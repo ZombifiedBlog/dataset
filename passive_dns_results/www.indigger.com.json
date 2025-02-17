@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "www.indigger.com",
+        "count": "7",
+        "first_seen": "2022-09-13 19:29:30",
+        "last_seen": "2023-01-10 05:15:15",
+        "ip_address": "23.82.73.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.indigger.com",
+        "count": "2",
+        "first_seen": "2023-03-07 05:37:43",
+        "last_seen": "2023-03-14 20:42:01",
+        "ip_address": "52.213.114.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.indigger.com",
+        "count": "1",
+        "first_seen": "2011-08-16 21:58:12",
+        "last_seen": "2011-08-16 21:58:12",
+        "ip_address": "74.220.199.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.indigger.com",
+        "count": "679",
+        "first_seen": "2023-01-19 18:46:57",
+        "last_seen": "2023-01-22 07:22:30",
+        "ip_address": "107.150.5.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.indigger.com",
+        "count": "5",
+        "first_seen": "2022-07-15 18:03:58",
+        "last_seen": "2022-08-27 00:41:00",
+        "ip_address": "142.91.232.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.indigger.com",
+        "count": "2",
+        "first_seen": "2022-05-01 16:03:05",
+        "last_seen": "2022-05-04 02:21:17",
+        "ip_address": "154.92.75.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.indigger.com",
+        "count": "2",
+        "first_seen": "2012-07-14 03:55:53",
+        "last_seen": "2012-07-14 03:55:53",
+        "ip_address": "176.74.176.175",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.indigger.com",
+        "count": "131",
+        "first_seen": "2023-03-25 09:06:36",
+        "last_seen": "2024-01-09 12:48:32",
+        "ip_address": "192.177.35.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.indigger.com",
+        "count": "4",
+        "first_seen": "2012-10-05 17:48:56",
+        "last_seen": "2012-10-09 00:14:24",
+        "ip_address": "208.87.35.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.indigger.com",
+        "count": "1",
+        "first_seen": "2012-04-14 02:59:05",
+        "last_seen": "2012-04-14 02:59:05",
+        "ip_address": "208.87.35.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.indigger.com",
+        "count": "1",
+        "first_seen": "2012-06-02 18:59:40",
+        "last_seen": "2012-06-02 18:59:40",
+        "ip_address": "208.87.35.106",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.indigger.com",
+        "count": "2",
+        "first_seen": "2012-07-28 18:29:00",
+        "last_seen": "2012-08-07 14:51:22",
+        "ip_address": "208.87.35.107",
+        "type": "IPv4"
+    }
+]

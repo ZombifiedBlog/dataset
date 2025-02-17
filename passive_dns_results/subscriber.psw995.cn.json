@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.psw995.cn",
+        "count": "25",
+        "first_seen": "2022-04-30 16:52:48",
+        "last_seen": "2022-05-25 02:35:40",
+        "ip_address": "43.130.65.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.psw995.cn",
+        "count": "64",
+        "first_seen": "2022-03-10 03:25:07",
+        "last_seen": "2022-04-24 16:20:45",
+        "ip_address": "104.21.16.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.psw995.cn",
+        "count": "64",
+        "first_seen": "2022-03-10 03:25:07",
+        "last_seen": "2022-04-24 16:20:45",
+        "ip_address": "172.67.166.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.psw995.cn",
+        "count": "4",
+        "first_seen": "2022-03-10 22:45:11",
+        "last_seen": "2022-03-14 04:41:32",
+        "ip_address": "188.114.99.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.psw995.cn",
+        "count": "9",
+        "first_seen": "2022-03-11 06:08:37",
+        "last_seen": "2022-03-14 11:12:31",
+        "ip_address": "2606:4700:3036::ac43:a610",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.psw995.cn",
+        "count": "9",
+        "first_seen": "2022-03-11 06:08:37",
+        "last_seen": "2022-03-14 11:12:31",
+        "ip_address": "2606:4700:3037::6815:1021",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "accident.ns02.us",
+        "count": "103",
+        "first_seen": "2023-06-01 00:24:48",
+        "last_seen": "2023-07-19 20:24:17",
+        "ip_address": "34.146.81.252",
+        "type": "IPv4"
+    },
+    {
+        "domain": "accident.ns02.us",
+        "count": "3",
+        "first_seen": "2023-07-19 20:24:17",
+        "last_seen": "2023-07-19 20:24:17",
+        "ip_address": "34.146.81.252",
+        "type": "IPv4"
+    }
+]

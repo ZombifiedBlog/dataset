@@ -1,0 +1,106 @@
+[
+    {
+        "domain": "www.rosewood2001.com",
+        "count": "1",
+        "first_seen": "2022-12-22 03:13:02",
+        "last_seen": "2022-12-22 03:13:02",
+        "ip_address": "38.47.253.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.rosewood2001.com",
+        "count": "5",
+        "first_seen": "2023-01-21 22:54:26",
+        "last_seen": "2023-02-14 03:15:22",
+        "ip_address": "38.47.253.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.rosewood2001.com",
+        "count": "1",
+        "first_seen": "2022-04-27 16:48:42",
+        "last_seen": "2022-04-27 16:48:42",
+        "ip_address": "45.136.119.178",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.rosewood2001.com",
+        "count": "5",
+        "first_seen": "2022-09-28 03:21:42",
+        "last_seen": "2022-10-09 19:09:26",
+        "ip_address": "45.200.50.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.rosewood2001.com",
+        "count": "18",
+        "first_seen": "2021-06-29 22:02:23",
+        "last_seen": "2023-04-11 18:35:21",
+        "ip_address": "67.227.226.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.rosewood2001.com",
+        "count": "392",
+        "first_seen": "2023-04-11 22:49:45",
+        "last_seen": "2023-05-20 18:06:13",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.rosewood2001.com",
+        "count": "4",
+        "first_seen": "2022-11-05 23:49:38",
+        "last_seen": "2022-11-09 07:02:16",
+        "ip_address": "154.23.53.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.rosewood2001.com",
+        "count": "10",
+        "first_seen": "2022-11-20 23:20:47",
+        "last_seen": "2022-11-27 13:59:52",
+        "ip_address": "154.38.196.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.rosewood2001.com",
+        "count": "5",
+        "first_seen": "2022-09-15 15:37:09",
+        "last_seen": "2022-09-27 02:19:32",
+        "ip_address": "154.206.107.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.rosewood2001.com",
+        "count": "4",
+        "first_seen": "2022-07-15 18:14:55",
+        "last_seen": "2022-08-06 22:25:44",
+        "ip_address": "156.230.176.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.rosewood2001.com",
+        "count": "434",
+        "first_seen": "2016-02-21 19:19:12",
+        "last_seen": "2021-01-18 19:04:51",
+        "ip_address": "157.112.145.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.rosewood2001.com",
+        "count": "33",
+        "first_seen": "2023-03-22 01:21:14",
+        "last_seen": "2023-03-23 09:05:57",
+        "ip_address": "204.44.75.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.rosewood2001.com",
+        "count": "3",
+        "first_seen": "2023-04-23 13:50:57",
+        "last_seen": "2023-05-09 23:00:04",
+        "ip_address": "2600:3c02::f03c:91ff:fee2:5b0f",
+        "type": "IPv6"
+    }
+]

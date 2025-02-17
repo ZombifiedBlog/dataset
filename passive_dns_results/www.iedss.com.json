@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "www.iedss.com",
+        "count": "10",
+        "first_seen": "2018-02-17 03:09:13",
+        "last_seen": "2018-03-10 22:48:04",
+        "ip_address": "52.213.114.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.iedss.com",
+        "count": "63",
+        "first_seen": "2020-01-02 22:21:58",
+        "last_seen": "2020-05-05 14:34:34",
+        "ip_address": "168.206.244.67",
+        "type": "IPv4"
+    }
+]

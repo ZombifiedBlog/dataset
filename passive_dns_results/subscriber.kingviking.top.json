@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscriber.kingviking.top",
+        "count": "21",
+        "first_seen": "2023-08-27 03:50:22",
+        "last_seen": "2023-12-13 23:09:36",
+        "ip_address": "45.120.206.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kingviking.top",
+        "count": "12",
+        "first_seen": "2023-06-09 09:10:34",
+        "last_seen": "2023-06-23 05:37:44",
+        "ip_address": "49.51.77.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kingviking.top",
+        "count": "2",
+        "first_seen": "2023-06-27 04:34:41",
+        "last_seen": "2023-07-04 11:33:49",
+        "ip_address": "49.51.79.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kingviking.top",
+        "count": "9399",
+        "first_seen": "2023-02-02 18:09:40",
+        "last_seen": "2023-06-02 10:52:19",
+        "ip_address": "104.21.64.232",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kingviking.top",
+        "count": "9399",
+        "first_seen": "2023-02-02 18:09:40",
+        "last_seen": "2023-06-02 10:52:19",
+        "ip_address": "172.67.137.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kingviking.top",
+        "count": "263",
+        "first_seen": "2023-02-02 19:47:02",
+        "last_seen": "2023-05-26 04:24:09",
+        "ip_address": "2606:4700:3036::6815:40e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.kingviking.top",
+        "count": "263",
+        "first_seen": "2023-02-02 19:47:02",
+        "last_seen": "2023-05-26 04:24:09",
+        "ip_address": "2606:4700:3037::ac43:8995",
+        "type": "IPv6"
+    }
+]

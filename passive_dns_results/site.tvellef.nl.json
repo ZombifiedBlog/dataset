@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "site.tvellef.nl",
+        "count": "2621",
+        "first_seen": "2015-12-08 10:14:27",
+        "last_seen": "2018-03-31 23:42:55",
+        "ip_address": "5.178.65.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "site.tvellef.nl",
+        "count": "166",
+        "first_seen": "2018-04-25 10:39:19",
+        "last_seen": "2020-02-07 06:32:04",
+        "ip_address": "91.192.37.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "site.tvellef.nl",
+        "count": "64",
+        "first_seen": "2020-03-01 00:56:58",
+        "last_seen": "2020-07-01 04:46:43",
+        "ip_address": "116.203.43.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "site.tvellef.nl",
+        "count": "34",
+        "first_seen": "2018-07-15 06:21:05",
+        "last_seen": "2020-01-23 02:16:14",
+        "ip_address": "2a00:1bd0:0:108:13::150",
+        "type": "IPv6"
+    },
+    {
+        "domain": "site.tvellef.nl",
+        "count": "910",
+        "first_seen": "2015-12-08 10:14:27",
+        "last_seen": "2018-02-02 01:30:24",
+        "ip_address": "2a00:1ca8:4e::45",
+        "type": "IPv6"
+    }
+]

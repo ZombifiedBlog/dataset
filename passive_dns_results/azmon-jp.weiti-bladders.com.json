@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "azmon-jp.weiti-bladders.com",
+        "count": "5",
+        "first_seen": "2022-07-08 10:23:13",
+        "last_seen": "2022-09-16 00:38:45",
+        "ip_address": "35.215.148.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "azmon-jp.weiti-bladders.com",
+        "count": "18",
+        "first_seen": "2023-06-04 09:43:21",
+        "last_seen": "2023-11-19 09:31:56",
+        "ip_address": "35.215.173.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "azmon-jp.weiti-bladders.com",
+        "count": "337",
+        "first_seen": "2020-03-11 00:36:33",
+        "last_seen": "2020-04-01 10:19:47",
+        "ip_address": "104.27.186.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "azmon-jp.weiti-bladders.com",
+        "count": "337",
+        "first_seen": "2020-03-11 00:36:33",
+        "last_seen": "2020-04-01 10:19:47",
+        "ip_address": "104.27.187.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "azmon-jp.weiti-bladders.com",
+        "count": "5",
+        "first_seen": "2021-01-15 09:44:33",
+        "last_seen": "2021-06-18 16:40:12",
+        "ip_address": "154.212.92.115",
+        "type": "IPv4"
+    },
+    {
+        "domain": "azmon-jp.weiti-bladders.com",
+        "count": "2",
+        "first_seen": "2023-11-19 09:31:56",
+        "last_seen": "2023-11-19 09:31:56",
+        "ip_address": "156.251.239.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "azmon-jp.weiti-bladders.com",
+        "count": "212",
+        "first_seen": "2020-03-11 00:36:33",
+        "last_seen": "2020-03-26 23:48:33",
+        "ip_address": "2606:4700:3031::681b:bb7c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "azmon-jp.weiti-bladders.com",
+        "count": "212",
+        "first_seen": "2020-03-11 00:36:33",
+        "last_seen": "2020-03-26 23:48:33",
+        "ip_address": "2606:4700:3035::681b:ba7c",
+        "type": "IPv6"
+    }
+]

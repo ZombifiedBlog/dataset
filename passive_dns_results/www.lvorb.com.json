@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "www.lvorb.com",
+        "count": "720",
+        "first_seen": "2020-08-19 06:41:53",
+        "last_seen": "2020-10-18 17:02:09",
+        "ip_address": "104.28.8.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lvorb.com",
+        "count": "720",
+        "first_seen": "2020-08-19 06:41:53",
+        "last_seen": "2020-10-18 17:02:09",
+        "ip_address": "104.28.9.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lvorb.com",
+        "count": "720",
+        "first_seen": "2020-08-19 06:41:53",
+        "last_seen": "2020-10-18 17:02:09",
+        "ip_address": "172.67.153.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lvorb.com",
+        "count": "2",
+        "first_seen": "2020-09-26 04:36:12",
+        "last_seen": "2020-09-26 04:36:12",
+        "ip_address": "172.64.91.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lvorb.com",
+        "count": "2",
+        "first_seen": "2020-09-26 17:49:04",
+        "last_seen": "2020-09-26 17:49:04",
+        "ip_address": "172.64.91.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lvorb.com",
+        "count": "2",
+        "first_seen": "2020-08-19 01:56:17",
+        "last_seen": "2020-08-19 01:56:17",
+        "ip_address": "172.64.93.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lvorb.com",
+        "count": "65",
+        "first_seen": "2020-08-19 06:41:53",
+        "last_seen": "2020-10-16 03:53:01",
+        "ip_address": "2606:4700:3031::681c:9d6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lvorb.com",
+        "count": "65",
+        "first_seen": "2020-08-19 06:41:53",
+        "last_seen": "2020-10-16 03:53:01",
+        "ip_address": "2606:4700:3033::681c:8d6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lvorb.com",
+        "count": "65",
+        "first_seen": "2020-08-19 06:41:53",
+        "last_seen": "2020-10-16 03:53:01",
+        "ip_address": "2606:4700:3033::ac43:9980",
+        "type": "IPv6"
+    }
+]

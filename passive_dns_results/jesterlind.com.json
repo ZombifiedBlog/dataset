@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "jesterlind.com",
+        "count": "2036",
+        "first_seen": "2015-10-08 02:09:17",
+        "last_seen": "2019-02-18 16:49:42",
+        "ip_address": "65.39.193.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jesterlind.com",
+        "count": "2923",
+        "first_seen": "2019-02-20 12:58:43",
+        "last_seen": "2023-10-01 15:19:50",
+        "ip_address": "69.90.66.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jesterlind.com",
+        "count": "2",
+        "first_seen": "2016-10-10 20:04:30",
+        "last_seen": "2016-10-10 20:04:30",
+        "ip_address": "69.172.201.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jesterlind.com",
+        "count": "4",
+        "first_seen": "2014-02-21 04:42:43",
+        "last_seen": "2014-03-01 04:48:06",
+        "ip_address": "184.168.221.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jesterlind.com",
+        "count": "408",
+        "first_seen": "2023-10-02 09:49:32",
+        "last_seen": "2024-01-18 18:10:13",
+        "ip_address": "204.44.192.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jesterlind.com",
+        "count": "31",
+        "first_seen": "2012-03-12 00:55:38",
+        "last_seen": "2012-08-24 17:33:04",
+        "ip_address": "208.92.222.101",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "domain": "www.firma.infocert.it",
+        "count": "2",
+        "first_seen": "2021-12-23 09:27:44",
+        "last_seen": "2021-12-23 09:30:17",
+        "ip_address": "13.95.13.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.firma.infocert.it",
+        "count": "91288",
+        "first_seen": "2022-01-18 21:00:42",
+        "last_seen": "2022-06-21 19:08:02",
+        "ip_address": "20.71.23.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.firma.infocert.it",
+        "count": "1320",
+        "first_seen": "2010-06-25 12:04:03",
+        "last_seen": "2012-06-07 04:23:05",
+        "ip_address": "80.82.9.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.firma.infocert.it",
+        "count": "2056177",
+        "first_seen": "2022-06-21 19:12:11",
+        "last_seen": "2023-04-15 07:14:37",
+        "ip_address": "104.45.8.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.firma.infocert.it",
+        "count": "66171",
+        "first_seen": "2016-11-14 13:09:48",
+        "last_seen": "2022-01-18 20:46:59",
+        "ip_address": "185.102.40.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.firma.infocert.it",
+        "count": "6697",
+        "first_seen": "2013-08-06 08:25:25",
+        "last_seen": "2016-07-25 11:08:52",
+        "ip_address": "78.6.249.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.firma.infocert.it",
+        "count": "37965",
+        "first_seen": "2015-05-18 09:40:55",
+        "last_seen": "2016-10-26 09:39:13",
+        "ip_address": "78.6.249.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.firma.infocert.it",
+        "count": "37965",
+        "first_seen": "2015-05-18 09:40:55",
+        "last_seen": "2016-10-26 09:39:13",
+        "ip_address": "82.85.189.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.firma.infocert.it",
+        "count": "2",
+        "first_seen": "2016-10-26 09:42:16",
+        "last_seen": "2016-10-26 09:42:16",
+        "ip_address": "78.6.249.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.firma.infocert.it",
+        "count": "2",
+        "first_seen": "2016-10-26 09:42:16",
+        "last_seen": "2016-10-26 09:42:16",
+        "ip_address": "185.102.40.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.firma.infocert.it",
+        "count": "1518",
+        "first_seen": "2013-08-06 06:43:19",
+        "last_seen": "2016-10-24 07:56:04",
+        "ip_address": "82.85.189.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.firma.infocert.it",
+        "count": "2516",
+        "first_seen": "2016-10-26 09:43:54",
+        "last_seen": "2016-11-14 12:57:28",
+        "ip_address": "185.102.40.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.firma.infocert.it",
+        "count": "3651",
+        "first_seen": "2012-06-07 15:36:08",
+        "last_seen": "2013-09-06 09:17:13",
+        "ip_address": "78.6.249.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.firma.infocert.it",
+        "count": "1297",
+        "first_seen": "2012-06-09 12:52:44",
+        "last_seen": "2013-09-06 07:50:40",
+        "ip_address": "82.85.189.56",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "bookingnavi.com",
+        "count": "2",
+        "first_seen": "2020-03-28 08:32:17",
+        "last_seen": "2020-03-28 08:32:17",
+        "ip_address": "67.225.218.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bookingnavi.com",
+        "count": "39",
+        "first_seen": "2020-04-03 06:07:30",
+        "last_seen": "2020-05-07 08:13:50",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bookingnavi.com",
+        "count": "237",
+        "first_seen": "2019-05-06 17:59:00",
+        "last_seen": "2020-03-27 06:04:42",
+        "ip_address": "103.13.140.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bookingnavi.com",
+        "count": "41",
+        "first_seen": "2017-02-23 12:46:28",
+        "last_seen": "2019-04-17 17:13:02",
+        "ip_address": "150.95.255.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bookingnavi.com",
+        "count": "8",
+        "first_seen": "2017-11-01 19:34:31",
+        "last_seen": "2017-11-22 20:55:33",
+        "ip_address": "192.64.147.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bookingnavi.com",
+        "count": "19",
+        "first_seen": "2015-09-11 13:49:17",
+        "last_seen": "2017-01-19 12:30:41",
+        "ip_address": "210.157.1.134",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bookingnavi.com",
+        "count": "9",
+        "first_seen": "2016-07-24 23:42:50",
+        "last_seen": "2017-02-02 06:02:37",
+        "ip_address": "210.172.133.12",
+        "type": "IPv4"
+    }
+]

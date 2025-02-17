@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "rbs.vdrbs.com",
+        "count": "1031",
+        "first_seen": "2019-11-12 09:32:22",
+        "last_seen": "2019-12-06 13:56:32",
+        "ip_address": "104.27.178.241",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rbs.vdrbs.com",
+        "count": "1031",
+        "first_seen": "2019-11-12 09:32:22",
+        "last_seen": "2019-12-06 13:56:32",
+        "ip_address": "104.27.179.241",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rbs.vdrbs.com",
+        "count": "74",
+        "first_seen": "2019-11-13 10:01:51",
+        "last_seen": "2019-12-05 16:38:52",
+        "ip_address": "2606:4700:30::681b:b2f1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rbs.vdrbs.com",
+        "count": "74",
+        "first_seen": "2019-11-13 10:01:51",
+        "last_seen": "2019-12-05 16:38:52",
+        "ip_address": "2606:4700:30::681b:b3f1",
+        "type": "IPv6"
+    }
+]

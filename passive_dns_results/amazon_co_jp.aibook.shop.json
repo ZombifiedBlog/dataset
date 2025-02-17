@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "amazon_co_jp.aibook.shop",
+        "count": "13",
+        "first_seen": "2021-04-24 16:31:29",
+        "last_seen": "2021-04-27 12:42:58",
+        "ip_address": "104.21.50.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon_co_jp.aibook.shop",
+        "count": "13",
+        "first_seen": "2021-04-24 16:31:29",
+        "last_seen": "2021-04-27 12:42:58",
+        "ip_address": "172.67.167.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon_co_jp.aibook.shop",
+        "count": "1",
+        "first_seen": "2021-04-27 07:37:51",
+        "last_seen": "2021-04-27 07:37:51",
+        "ip_address": "2606:4700:3033::ac43:a71d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon_co_jp.aibook.shop",
+        "count": "1",
+        "first_seen": "2021-04-27 07:37:51",
+        "last_seen": "2021-04-27 07:37:51",
+        "ip_address": "2606:4700:3034::6815:32d1",
+        "type": "IPv6"
+    }
+]

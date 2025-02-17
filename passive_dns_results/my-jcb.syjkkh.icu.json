@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "my-jcb.syjkkh.icu",
+        "count": "9",
+        "first_seen": "2020-10-08 06:49:33",
+        "last_seen": "2020-10-09 21:53:19",
+        "ip_address": "104.31.76.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.syjkkh.icu",
+        "count": "9",
+        "first_seen": "2020-10-08 06:49:33",
+        "last_seen": "2020-10-09 21:53:19",
+        "ip_address": "104.31.77.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.syjkkh.icu",
+        "count": "9",
+        "first_seen": "2020-10-08 06:49:33",
+        "last_seen": "2020-10-09 21:53:19",
+        "ip_address": "172.67.189.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.syjkkh.icu",
+        "count": "2",
+        "first_seen": "2020-10-08 06:49:33",
+        "last_seen": "2020-10-08 06:49:33",
+        "ip_address": "2606:4700:3030::ac43:bddc",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.syjkkh.icu",
+        "count": "2",
+        "first_seen": "2020-10-08 06:49:33",
+        "last_seen": "2020-10-08 06:49:33",
+        "ip_address": "2606:4700:3032::681f:4c90",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.syjkkh.icu",
+        "count": "2",
+        "first_seen": "2020-10-08 06:49:33",
+        "last_seen": "2020-10-08 06:49:33",
+        "ip_address": "2606:4700:3037::681f:4d90",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "netstation2-aplus-co-jp.wanxiaoyiyi.top",
+        "count": "14",
+        "first_seen": "2021-12-15 01:56:48",
+        "last_seen": "2021-12-15 02:37:45",
+        "ip_address": "104.21.40.186",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.wanxiaoyiyi.top",
+        "count": "14",
+        "first_seen": "2021-12-15 01:56:48",
+        "last_seen": "2021-12-15 02:37:45",
+        "ip_address": "172.67.156.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.wanxiaoyiyi.top",
+        "count": "4",
+        "first_seen": "2021-12-15 01:56:50",
+        "last_seen": "2021-12-15 02:37:45",
+        "ip_address": "2606:4700:3032::6815:28ba",
+        "type": "IPv6"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.wanxiaoyiyi.top",
+        "count": "4",
+        "first_seen": "2021-12-15 01:56:50",
+        "last_seen": "2021-12-15 02:37:45",
+        "ip_address": "2606:4700:3036::ac43:9c4b",
+        "type": "IPv6"
+    }
+]

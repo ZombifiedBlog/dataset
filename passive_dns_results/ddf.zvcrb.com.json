@@ -1,0 +1,130 @@
+[
+    {
+        "domain": "ddf.zvcrb.com",
+        "count": "2133",
+        "first_seen": "2021-10-30 02:27:03",
+        "last_seen": "2022-03-16 13:25:51",
+        "ip_address": "104.21.68.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ddf.zvcrb.com",
+        "count": "2133",
+        "first_seen": "2021-10-30 02:27:03",
+        "last_seen": "2022-03-16 13:25:51",
+        "ip_address": "172.67.185.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ddf.zvcrb.com",
+        "count": "1",
+        "first_seen": "2022-02-02 02:00:02",
+        "last_seen": "2022-02-02 02:00:02",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ddf.zvcrb.com",
+        "count": "1",
+        "first_seen": "2022-02-02 02:00:02",
+        "last_seen": "2022-02-02 02:00:02",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ddf.zvcrb.com",
+        "count": "1",
+        "first_seen": "2022-03-20 16:45:24",
+        "last_seen": "2022-03-20 16:45:24",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ddf.zvcrb.com",
+        "count": "1",
+        "first_seen": "2022-03-20 16:45:24",
+        "last_seen": "2022-03-20 16:45:24",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ddf.zvcrb.com",
+        "count": "2",
+        "first_seen": "2021-11-24 11:54:09",
+        "last_seen": "2022-02-13 19:11:02",
+        "ip_address": "188.114.96.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ddf.zvcrb.com",
+        "count": "2",
+        "first_seen": "2021-11-24 11:54:09",
+        "last_seen": "2022-02-13 19:11:02",
+        "ip_address": "188.114.97.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ddf.zvcrb.com",
+        "count": "2",
+        "first_seen": "2022-02-15 08:24:16",
+        "last_seen": "2022-02-27 22:32:14",
+        "ip_address": "188.114.96.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ddf.zvcrb.com",
+        "count": "2",
+        "first_seen": "2022-02-15 08:24:16",
+        "last_seen": "2022-02-27 22:32:14",
+        "ip_address": "188.114.97.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ddf.zvcrb.com",
+        "count": "1029",
+        "first_seen": "2021-10-30 02:27:04",
+        "last_seen": "2022-02-25 12:57:31",
+        "ip_address": "2606:4700:3035::ac43:b91b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ddf.zvcrb.com",
+        "count": "1029",
+        "first_seen": "2021-10-30 02:27:04",
+        "last_seen": "2022-02-25 12:57:31",
+        "ip_address": "2606:4700:3037::6815:4413",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ddf.zvcrb.com",
+        "count": "1",
+        "first_seen": "2022-02-27 22:32:14",
+        "last_seen": "2022-02-27 22:32:14",
+        "ip_address": "2a06:98c1:3120::7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ddf.zvcrb.com",
+        "count": "1",
+        "first_seen": "2022-02-27 22:32:14",
+        "last_seen": "2022-02-27 22:32:14",
+        "ip_address": "2a06:98c1:3121::7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ddf.zvcrb.com",
+        "count": "2",
+        "first_seen": "2021-11-24 11:54:09",
+        "last_seen": "2022-02-13 19:11:02",
+        "ip_address": "2a06:98c1:3120::10",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ddf.zvcrb.com",
+        "count": "2",
+        "first_seen": "2021-11-24 11:54:09",
+        "last_seen": "2022-02-13 19:11:02",
+        "ip_address": "2a06:98c1:3121::10",
+        "type": "IPv6"
+    }
+]

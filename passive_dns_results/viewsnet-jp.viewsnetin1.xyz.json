@@ -1,0 +1,114 @@
+[
+    {
+        "domain": "viewsnet-jp.viewsnetin1.xyz",
+        "count": "41",
+        "first_seen": "2022-03-24 14:41:20",
+        "last_seen": "2022-03-24 21:18:27",
+        "ip_address": "104.21.23.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "viewsnet-jp.viewsnetin1.xyz",
+        "count": "41",
+        "first_seen": "2022-03-24 14:41:20",
+        "last_seen": "2022-03-24 21:18:27",
+        "ip_address": "172.67.209.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "viewsnet-jp.viewsnetin1.xyz",
+        "count": "3",
+        "first_seen": "2022-03-24 18:52:26",
+        "last_seen": "2022-03-24 18:52:26",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "viewsnet-jp.viewsnetin1.xyz",
+        "count": "3",
+        "first_seen": "2022-03-24 18:52:26",
+        "last_seen": "2022-03-24 18:52:26",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "viewsnet-jp.viewsnetin1.xyz",
+        "count": "5",
+        "first_seen": "2022-03-24 16:30:05",
+        "last_seen": "2022-03-24 18:36:53",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "viewsnet-jp.viewsnetin1.xyz",
+        "count": "5",
+        "first_seen": "2022-03-24 16:30:05",
+        "last_seen": "2022-03-24 18:36:53",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "viewsnet-jp.viewsnetin1.xyz",
+        "count": "1",
+        "first_seen": "2022-03-24 21:29:42",
+        "last_seen": "2022-03-24 21:29:42",
+        "ip_address": "188.114.96.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "viewsnet-jp.viewsnetin1.xyz",
+        "count": "1",
+        "first_seen": "2022-03-24 21:29:42",
+        "last_seen": "2022-03-24 21:29:42",
+        "ip_address": "188.114.97.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "viewsnet-jp.viewsnetin1.xyz",
+        "count": "2",
+        "first_seen": "2022-03-24 15:17:54",
+        "last_seen": "2022-03-24 19:44:51",
+        "ip_address": "188.114.96.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "viewsnet-jp.viewsnetin1.xyz",
+        "count": "2",
+        "first_seen": "2022-03-24 15:17:54",
+        "last_seen": "2022-03-24 19:44:51",
+        "ip_address": "188.114.97.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "viewsnet-jp.viewsnetin1.xyz",
+        "count": "39",
+        "first_seen": "2022-03-24 14:14:38",
+        "last_seen": "2022-03-25 10:12:34",
+        "ip_address": "188.114.96.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "viewsnet-jp.viewsnetin1.xyz",
+        "count": "39",
+        "first_seen": "2022-03-24 14:14:38",
+        "last_seen": "2022-03-25 10:12:34",
+        "ip_address": "188.114.97.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "viewsnet-jp.viewsnetin1.xyz",
+        "count": "1",
+        "first_seen": "2022-03-24 14:14:39",
+        "last_seen": "2022-03-24 14:14:39",
+        "ip_address": "2a06:98c1:3120::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "viewsnet-jp.viewsnetin1.xyz",
+        "count": "1",
+        "first_seen": "2022-03-24 14:14:39",
+        "last_seen": "2022-03-24 14:14:39",
+        "ip_address": "2a06:98c1:3121::16",
+        "type": "IPv6"
+    }
+]

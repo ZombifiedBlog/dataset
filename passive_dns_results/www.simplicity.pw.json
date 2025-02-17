@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.simplicity.pw",
+        "count": "470",
+        "first_seen": "2017-11-08 12:24:59",
+        "last_seen": "2017-11-23 16:30:13",
+        "ip_address": "31.41.47.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.simplicity.pw",
+        "count": "32",
+        "first_seen": "2018-09-15 10:37:11",
+        "last_seen": "2019-04-27 02:15:52",
+        "ip_address": "69.172.201.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.simplicity.pw",
+        "count": "16",
+        "first_seen": "2017-04-13 01:47:41",
+        "last_seen": "2017-05-06 23:19:28",
+        "ip_address": "104.18.46.235",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.simplicity.pw",
+        "count": "16",
+        "first_seen": "2017-04-13 01:47:41",
+        "last_seen": "2017-05-06 23:19:28",
+        "ip_address": "104.18.47.235",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.simplicity.pw",
+        "count": "5",
+        "first_seen": "2017-06-20 13:57:43",
+        "last_seen": "2017-07-02 16:41:43",
+        "ip_address": "119.28.74.86",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscriber.jzhb3.com",
+        "count": "1",
+        "first_seen": "2021-02-09 16:20:23",
+        "last_seen": "2021-02-09 16:20:23",
+        "ip_address": "47.74.14.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jzhb3.com",
+        "count": "1700",
+        "first_seen": "2020-10-29 15:57:21",
+        "last_seen": "2021-01-09 07:34:58",
+        "ip_address": "104.24.112.157",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jzhb3.com",
+        "count": "1700",
+        "first_seen": "2020-10-29 15:57:21",
+        "last_seen": "2021-01-09 07:34:58",
+        "ip_address": "104.24.113.157",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jzhb3.com",
+        "count": "1700",
+        "first_seen": "2020-10-29 15:57:21",
+        "last_seen": "2021-01-09 07:34:58",
+        "ip_address": "172.67.184.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jzhb3.com",
+        "count": "295",
+        "first_seen": "2020-10-29 16:55:50",
+        "last_seen": "2021-01-09 07:34:58",
+        "ip_address": "2606:4700:3032::6818:709d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.jzhb3.com",
+        "count": "295",
+        "first_seen": "2020-10-29 16:55:50",
+        "last_seen": "2021-01-09 07:34:58",
+        "ip_address": "2606:4700:3033::6818:719d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.jzhb3.com",
+        "count": "295",
+        "first_seen": "2020-10-29 16:55:50",
+        "last_seen": "2021-01-09 07:34:58",
+        "ip_address": "2606:4700:3036::ac43:b8de",
+        "type": "IPv6"
+    }
+]

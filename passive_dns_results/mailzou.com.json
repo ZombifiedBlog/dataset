@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "mailzou.com",
+        "count": "7165",
+        "first_seen": "2010-07-27 12:53:22",
+        "last_seen": "2012-10-05 00:03:18",
+        "ip_address": "219.99.160.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mailzou.com",
+        "count": "391848",
+        "first_seen": "2012-10-05 01:23:04",
+        "last_seen": "2023-12-05 21:41:22",
+        "ip_address": "219.99.164.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mailzou.com",
+        "count": "217",
+        "first_seen": "2023-12-06 06:09:07",
+        "last_seen": "2024-01-18 06:21:52",
+        "ip_address": "219.99.170.219",
+        "type": "IPv4"
+    }
+]

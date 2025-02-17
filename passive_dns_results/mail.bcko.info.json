@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "mail.bcko.info",
+        "count": "8",
+        "first_seen": "2019-03-26 12:43:10",
+        "last_seen": "2019-04-04 04:38:24",
+        "ip_address": "45.34.78.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.bcko.info",
+        "count": "26",
+        "first_seen": "2019-06-07 11:42:19",
+        "last_seen": "2019-10-30 23:06:46",
+        "ip_address": "45.34.78.245",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.bcko.info",
+        "count": "76",
+        "first_seen": "2019-11-05 02:44:47",
+        "last_seen": "2020-01-28 22:53:23",
+        "ip_address": "45.34.78.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.bcko.info",
+        "count": "44",
+        "first_seen": "2019-04-12 23:15:04",
+        "last_seen": "2019-05-21 14:20:36",
+        "ip_address": "104.217.54.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.bcko.info",
+        "count": "57",
+        "first_seen": "2020-02-05 19:36:56",
+        "last_seen": "2020-03-02 00:38:21",
+        "ip_address": "104.217.128.208",
+        "type": "IPv4"
+    }
+]

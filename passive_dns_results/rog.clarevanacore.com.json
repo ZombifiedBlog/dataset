@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "rog.clarevanacore.com",
+        "count": "93",
+        "first_seen": "2021-10-18 01:46:42",
+        "last_seen": "2021-12-17 08:15:44",
+        "ip_address": "45.64.54.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rog.clarevanacore.com",
+        "count": "22",
+        "first_seen": "2022-01-03 06:24:02",
+        "last_seen": "2022-03-03 10:24:03",
+        "ip_address": "45.125.216.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rog.clarevanacore.com",
+        "count": "1",
+        "first_seen": "2022-03-21 01:52:47",
+        "last_seen": "2022-03-21 01:52:47",
+        "ip_address": "209.99.40.222",
+        "type": "IPv4"
+    }
+]

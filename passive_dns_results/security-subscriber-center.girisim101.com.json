@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "security-subscriber-center.girisim101.com",
+        "count": "129",
+        "first_seen": "2022-12-31 09:18:40",
+        "last_seen": "2023-01-26 19:29:49",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.girisim101.com",
+        "count": "4728",
+        "first_seen": "2022-10-01 23:33:17",
+        "last_seen": "2022-12-31 07:34:10",
+        "ip_address": "104.21.89.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.girisim101.com",
+        "count": "4728",
+        "first_seen": "2022-10-01 23:33:17",
+        "last_seen": "2022-12-31 07:34:10",
+        "ip_address": "172.67.191.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.girisim101.com",
+        "count": "210",
+        "first_seen": "2022-10-03 05:56:52",
+        "last_seen": "2022-12-29 03:54:52",
+        "ip_address": "2606:4700:3034::6815:59dd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "security-subscriber-center.girisim101.com",
+        "count": "210",
+        "first_seen": "2022-10-03 05:56:52",
+        "last_seen": "2022-12-29 03:54:52",
+        "ip_address": "2606:4700:3037::ac43:bf8c",
+        "type": "IPv6"
+    }
+]

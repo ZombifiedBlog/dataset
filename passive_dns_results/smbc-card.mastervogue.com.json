@@ -1,0 +1,138 @@
+[
+    {
+        "domain": "smbc-card.mastervogue.com",
+        "count": "206",
+        "first_seen": "2023-09-20 15:56:15",
+        "last_seen": "2023-10-26 23:11:22",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-card.mastervogue.com",
+        "count": "685",
+        "first_seen": "2023-07-26 03:47:55",
+        "last_seen": "2023-09-20 03:51:04",
+        "ip_address": "104.21.42.63",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-card.mastervogue.com",
+        "count": "685",
+        "first_seen": "2023-07-26 03:47:55",
+        "last_seen": "2023-09-20 03:51:04",
+        "ip_address": "172.67.201.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-card.mastervogue.com",
+        "count": "10",
+        "first_seen": "2023-08-02 09:07:09",
+        "last_seen": "2023-08-07 21:09:57",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-card.mastervogue.com",
+        "count": "10",
+        "first_seen": "2023-08-02 09:07:09",
+        "last_seen": "2023-08-07 21:09:57",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-card.mastervogue.com",
+        "count": "12",
+        "first_seen": "2023-07-26 04:31:06",
+        "last_seen": "2023-08-08 09:03:53",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-card.mastervogue.com",
+        "count": "12",
+        "first_seen": "2023-07-26 04:31:06",
+        "last_seen": "2023-08-08 09:03:53",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-card.mastervogue.com",
+        "count": "37",
+        "first_seen": "2023-07-26 03:49:52",
+        "last_seen": "2023-07-26 13:07:13",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-card.mastervogue.com",
+        "count": "37",
+        "first_seen": "2023-07-26 03:49:52",
+        "last_seen": "2023-07-26 13:07:13",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-card.mastervogue.com",
+        "count": "180",
+        "first_seen": "2023-07-26 11:09:52",
+        "last_seen": "2023-09-20 03:51:04",
+        "ip_address": "2606:4700:3032::6815:2a3f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "smbc-card.mastervogue.com",
+        "count": "180",
+        "first_seen": "2023-07-26 11:09:52",
+        "last_seen": "2023-09-20 03:51:04",
+        "ip_address": "2606:4700:3034::ac43:c9fa",
+        "type": "IPv6"
+    },
+    {
+        "domain": "smbc-card.mastervogue.com",
+        "count": "2",
+        "first_seen": "2023-08-04 21:06:13",
+        "last_seen": "2023-08-04 21:06:13",
+        "ip_address": "2a06:98c1:3120::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "smbc-card.mastervogue.com",
+        "count": "2",
+        "first_seen": "2023-08-04 21:06:13",
+        "last_seen": "2023-08-04 21:06:13",
+        "ip_address": "2a06:98c1:3121::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "smbc-card.mastervogue.com",
+        "count": "1",
+        "first_seen": "2023-08-02 21:10:46",
+        "last_seen": "2023-08-02 21:10:46",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "smbc-card.mastervogue.com",
+        "count": "1",
+        "first_seen": "2023-08-02 21:10:46",
+        "last_seen": "2023-08-02 21:10:46",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "smbc-card.mastervogue.com",
+        "count": "1",
+        "first_seen": "2023-07-26 03:49:54",
+        "last_seen": "2023-07-26 03:49:54",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "smbc-card.mastervogue.com",
+        "count": "1",
+        "first_seen": "2023-07-26 03:49:54",
+        "last_seen": "2023-07-26 03:49:54",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "delfianocoffee.com",
+        "count": "24",
+        "first_seen": "2015-10-19 11:11:48",
+        "last_seen": "2016-08-03 14:11:50",
+        "ip_address": "82.151.132.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "delfianocoffee.com",
+        "count": "4",
+        "first_seen": "2016-08-07 07:44:20",
+        "last_seen": "2016-08-13 04:03:18",
+        "ip_address": "92.42.36.126",
+        "type": "IPv4"
+    },
+    {
+        "domain": "delfianocoffee.com",
+        "count": "402",
+        "first_seen": "2018-11-09 11:29:58",
+        "last_seen": "2019-03-07 14:51:47",
+        "ip_address": "94.73.146.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "delfianocoffee.com",
+        "count": "3434",
+        "first_seen": "2019-03-07 16:32:49",
+        "last_seen": "2022-03-04 06:24:27",
+        "ip_address": "94.199.200.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "delfianocoffee.com",
+        "count": "879",
+        "first_seen": "2022-03-25 02:19:18",
+        "last_seen": "2024-01-18 00:50:47",
+        "ip_address": "94.199.206.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "delfianocoffee.com",
+        "count": "5758",
+        "first_seen": "2016-08-18 04:14:37",
+        "last_seen": "2018-11-08 23:05:44",
+        "ip_address": "178.210.171.25",
+        "type": "IPv4"
+    }
+]

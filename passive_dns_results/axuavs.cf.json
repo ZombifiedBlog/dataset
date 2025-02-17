@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "axuavs.cf",
+        "count": "15",
+        "first_seen": "2023-02-04 13:06:41",
+        "last_seen": "2023-03-25 19:17:39",
+        "ip_address": "195.20.55.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "axuavs.cf",
+        "count": "231",
+        "first_seen": "2022-03-20 02:14:04",
+        "last_seen": "2023-01-14 20:14:37",
+        "ip_address": "104.21.64.68",
+        "type": "IPv4"
+    },
+    {
+        "domain": "axuavs.cf",
+        "count": "231",
+        "first_seen": "2022-03-20 02:14:04",
+        "last_seen": "2023-01-14 20:14:37",
+        "ip_address": "172.67.177.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "axuavs.cf",
+        "count": "5",
+        "first_seen": "2022-03-19 19:11:01",
+        "last_seen": "2022-03-19 19:13:12",
+        "ip_address": "155.94.151.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "axuavs.cf",
+        "count": "10",
+        "first_seen": "2022-03-20 12:08:07",
+        "last_seen": "2022-04-17 13:23:39",
+        "ip_address": "2606:4700:3031::6815:4044",
+        "type": "IPv6"
+    },
+    {
+        "domain": "axuavs.cf",
+        "count": "10",
+        "first_seen": "2022-03-20 12:08:07",
+        "last_seen": "2022-04-17 13:23:39",
+        "ip_address": "2606:4700:3035::ac43:b154",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "domain": "o.hecizebq.ru",
+        "count": "1415",
+        "first_seen": "2023-06-03 00:05:02",
+        "last_seen": "2024-01-09 06:31:10",
+        "ip_address": "104.21.35.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "o.hecizebq.ru",
+        "count": "1415",
+        "first_seen": "2023-06-03 00:05:02",
+        "last_seen": "2024-01-09 06:31:10",
+        "ip_address": "172.67.179.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "o.hecizebq.ru",
+        "count": "2",
+        "first_seen": "2023-10-24 20:24:35",
+        "last_seen": "2023-10-24 20:24:35",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "o.hecizebq.ru",
+        "count": "2",
+        "first_seen": "2023-10-24 20:24:35",
+        "last_seen": "2023-10-24 20:24:35",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "o.hecizebq.ru",
+        "count": "5",
+        "first_seen": "2023-06-03 10:47:33",
+        "last_seen": "2023-06-05 02:43:20",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "o.hecizebq.ru",
+        "count": "5",
+        "first_seen": "2023-06-03 10:47:33",
+        "last_seen": "2023-06-05 02:43:20",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "o.hecizebq.ru",
+        "count": "573",
+        "first_seen": "2023-06-03 00:03:10",
+        "last_seen": "2024-01-07 22:53:48",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "o.hecizebq.ru",
+        "count": "573",
+        "first_seen": "2023-06-03 00:03:10",
+        "last_seen": "2024-01-07 22:53:48",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "o.hecizebq.ru",
+        "count": "11",
+        "first_seen": "2023-06-03 07:19:39",
+        "last_seen": "2023-09-22 03:15:32",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "o.hecizebq.ru",
+        "count": "11",
+        "first_seen": "2023-06-03 07:19:39",
+        "last_seen": "2023-09-22 03:15:32",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "o.hecizebq.ru",
+        "count": "1",
+        "first_seen": "2023-06-03 03:03:01",
+        "last_seen": "2023-06-03 03:03:01",
+        "ip_address": "188.114.96.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "o.hecizebq.ru",
+        "count": "1",
+        "first_seen": "2023-06-03 03:03:01",
+        "last_seen": "2023-06-03 03:03:01",
+        "ip_address": "188.114.97.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "o.hecizebq.ru",
+        "count": "43",
+        "first_seen": "2023-06-03 03:16:56",
+        "last_seen": "2023-12-13 01:35:03",
+        "ip_address": "2606:4700:3033::ac43:b319",
+        "type": "IPv6"
+    },
+    {
+        "domain": "o.hecizebq.ru",
+        "count": "43",
+        "first_seen": "2023-06-03 03:16:56",
+        "last_seen": "2023-12-13 01:35:03",
+        "ip_address": "2606:4700:3035::6815:23c7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "o.hecizebq.ru",
+        "count": "39",
+        "first_seen": "2023-06-03 00:03:10",
+        "last_seen": "2023-11-05 15:44:29",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "o.hecizebq.ru",
+        "count": "39",
+        "first_seen": "2023-06-03 00:03:10",
+        "last_seen": "2023-11-05 15:44:29",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "o.hecizebq.ru",
+        "count": "4",
+        "first_seen": "2023-06-03 09:17:48",
+        "last_seen": "2023-06-07 07:17:38",
+        "ip_address": "2a06:98c1:3120::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "o.hecizebq.ru",
+        "count": "4",
+        "first_seen": "2023-06-03 09:17:48",
+        "last_seen": "2023-06-07 07:17:38",
+        "ip_address": "2a06:98c1:3121::4",
+        "type": "IPv6"
+    }
+]

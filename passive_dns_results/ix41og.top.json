@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "ix41og.top",
+        "count": "1",
+        "first_seen": "2022-12-07 09:04:14",
+        "last_seen": "2022-12-07 09:05:11",
+        "ip_address": "78.153.145.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ix41og.top",
+        "count": "179",
+        "first_seen": "2022-12-07 09:09:34",
+        "last_seen": "2022-12-12 02:20:12",
+        "ip_address": "78.153.145.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ix41og.top",
+        "count": "21",
+        "first_seen": "2022-07-12 14:06:36",
+        "last_seen": "2022-07-14 15:35:32",
+        "ip_address": "103.120.80.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ix41og.top",
+        "count": "7",
+        "first_seen": "2022-11-18 15:42:31",
+        "last_seen": "2022-12-03 18:31:07",
+        "ip_address": "104.21.67.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ix41og.top",
+        "count": "7",
+        "first_seen": "2022-11-18 15:42:31",
+        "last_seen": "2022-12-03 18:31:07",
+        "ip_address": "172.67.220.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ix41og.top",
+        "count": "15",
+        "first_seen": "2022-11-18 15:42:31",
+        "last_seen": "2022-12-04 11:37:43",
+        "ip_address": "2606:4700:3031::6815:435e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ix41og.top",
+        "count": "15",
+        "first_seen": "2022-11-18 15:42:31",
+        "last_seen": "2022-12-04 11:37:43",
+        "ip_address": "2606:4700:3034::ac43:dc45",
+        "type": "IPv6"
+    }
+]

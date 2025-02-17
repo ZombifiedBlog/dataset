@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "tt.zicrb.com",
+        "count": "299",
+        "first_seen": "2022-04-18 04:10:45",
+        "last_seen": "2022-07-21 15:02:23",
+        "ip_address": "104.21.66.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tt.zicrb.com",
+        "count": "299",
+        "first_seen": "2022-04-18 04:10:45",
+        "last_seen": "2022-07-21 15:02:23",
+        "ip_address": "172.67.168.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tt.zicrb.com",
+        "count": "75",
+        "first_seen": "2022-04-18 04:10:45",
+        "last_seen": "2022-06-07 06:39:04",
+        "ip_address": "2606:4700:3030::ac43:a813",
+        "type": "IPv6"
+    },
+    {
+        "domain": "tt.zicrb.com",
+        "count": "75",
+        "first_seen": "2022-04-18 04:10:45",
+        "last_seen": "2022-06-07 06:39:04",
+        "ip_address": "2606:4700:3033::6815:424a",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "bafybeicom7mnltz4b3oop7bbm2oojmlybxhgrfqnnnebwyvzzyn3ylhnsy.ipfs.dweb.link",
+        "count": "292",
+        "first_seen": "2023-03-06 07:25:19",
+        "last_seen": "2023-06-09 02:46:50",
+        "ip_address": "209.94.90.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bafybeicom7mnltz4b3oop7bbm2oojmlybxhgrfqnnnebwyvzzyn3ylhnsy.ipfs.dweb.link",
+        "count": "779",
+        "first_seen": "2023-03-08 02:36:13",
+        "last_seen": "2023-06-10 17:12:11",
+        "ip_address": "209.94.90.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bafybeicom7mnltz4b3oop7bbm2oojmlybxhgrfqnnnebwyvzzyn3ylhnsy.ipfs.dweb.link",
+        "count": "35",
+        "first_seen": "2023-03-06 08:33:23",
+        "last_seen": "2023-06-02 09:02:30",
+        "ip_address": "2602:fea2:2::1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "bafybeicom7mnltz4b3oop7bbm2oojmlybxhgrfqnnnebwyvzzyn3ylhnsy.ipfs.dweb.link",
+        "count": "70",
+        "first_seen": "2023-03-08 15:30:51",
+        "last_seen": "2023-06-05 04:30:29",
+        "ip_address": "2602:fea2:2::1",
+        "type": "IPv6"
+    }
+]

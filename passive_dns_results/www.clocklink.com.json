@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "www.clocklink.com",
+        "count": "3709376",
+        "first_seen": "2010-06-24 03:40:03",
+        "last_seen": "2024-01-18 07:12:12",
+        "ip_address": "216.230.241.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.clocklink.com",
+        "count": "448",
+        "first_seen": "2011-10-20 12:26:12",
+        "last_seen": "2011-10-24 17:16:27",
+        "ip_address": "2620:b3:0:241::100",
+        "type": "IPv6"
+    }
+]

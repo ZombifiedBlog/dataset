@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.mvfg.cc",
+        "count": "1",
+        "first_seen": "2022-01-12 22:44:47",
+        "last_seen": "2022-01-12 22:44:47",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mvfg.cc",
+        "count": "1",
+        "first_seen": "2022-05-18 02:20:23",
+        "last_seen": "2022-05-18 02:20:23",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mvfg.cc",
+        "count": "115",
+        "first_seen": "2021-01-03 19:22:41",
+        "last_seen": "2021-02-02 12:18:51",
+        "ip_address": "107.172.248.177",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "6url.ru",
+        "count": "1",
+        "first_seen": "2011-07-30 05:51:46",
+        "last_seen": "2011-07-30 05:51:46",
+        "ip_address": "46.182.30.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "6url.ru",
+        "count": "44818",
+        "first_seen": "2012-03-20 23:02:01",
+        "last_seen": "2015-03-26 15:35:46",
+        "ip_address": "176.9.64.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "6url.ru",
+        "count": "189949",
+        "first_seen": "2017-03-15 06:20:53",
+        "last_seen": "2024-01-18 13:10:19",
+        "ip_address": "190.14.38.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "6url.ru",
+        "count": "1157510",
+        "first_seen": "2015-03-26 16:10:26",
+        "last_seen": "2017-03-15 06:18:55",
+        "ip_address": "192.162.240.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "6url.ru",
+        "count": "250",
+        "first_seen": "2019-04-12 09:40:59",
+        "last_seen": "2019-04-16 12:13:24",
+        "ip_address": "193.227.240.131",
+        "type": "IPv4"
+    },
+    {
+        "domain": "6url.ru",
+        "count": "97",
+        "first_seen": "2023-04-06 00:12:39",
+        "last_seen": "2023-04-07 02:43:39",
+        "ip_address": "194.67.71.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "6url.ru",
+        "count": "6",
+        "first_seen": "2023-04-06 10:38:49",
+        "last_seen": "2023-04-06 20:08:24",
+        "ip_address": "194.67.71.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "6url.ru",
+        "count": "92",
+        "first_seen": "2023-04-06 00:12:39",
+        "last_seen": "2023-04-07 02:43:39",
+        "ip_address": "2a00:f940:4::10",
+        "type": "IPv6"
+    }
+]

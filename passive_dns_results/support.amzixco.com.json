@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "support.amzixco.com",
+        "count": "41",
+        "first_seen": "2020-07-12 15:47:34",
+        "last_seen": "2020-07-13 10:57:36",
+        "ip_address": "104.27.152.166",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.amzixco.com",
+        "count": "41",
+        "first_seen": "2020-07-12 15:47:34",
+        "last_seen": "2020-07-13 10:57:36",
+        "ip_address": "104.27.153.166",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.amzixco.com",
+        "count": "41",
+        "first_seen": "2020-07-12 15:47:34",
+        "last_seen": "2020-07-13 10:57:36",
+        "ip_address": "172.67.180.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.amzixco.com",
+        "count": "31",
+        "first_seen": "2020-07-12 20:57:49",
+        "last_seen": "2020-07-13 10:57:36",
+        "ip_address": "2606:4700:3033::681b:99a6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "support.amzixco.com",
+        "count": "31",
+        "first_seen": "2020-07-12 20:57:49",
+        "last_seen": "2020-07-13 10:57:36",
+        "ip_address": "2606:4700:3033::ac43:b4e2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "support.amzixco.com",
+        "count": "31",
+        "first_seen": "2020-07-12 20:57:49",
+        "last_seen": "2020-07-13 10:57:36",
+        "ip_address": "2606:4700:3036::681b:98a6",
+        "type": "IPv6"
+    }
+]

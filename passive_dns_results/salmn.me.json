@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "salmn.me",
+        "count": "662",
+        "first_seen": "2013-06-07 07:20:35",
+        "last_seen": "2016-10-07 03:50:02",
+        "ip_address": "50.63.223.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "salmn.me",
+        "count": "31",
+        "first_seen": "2012-11-15 14:01:31",
+        "last_seen": "2012-12-31 08:30:02",
+        "ip_address": "50.63.223.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "salmn.me",
+        "count": "105",
+        "first_seen": "2013-10-19 11:25:37",
+        "last_seen": "2014-11-13 19:27:01",
+        "ip_address": "50.63.223.193",
+        "type": "IPv4"
+    },
+    {
+        "domain": "salmn.me",
+        "count": "2",
+        "first_seen": "2013-03-17 15:33:37",
+        "last_seen": "2013-03-17 15:33:37",
+        "ip_address": "108.162.192.82",
+        "type": "IPv4"
+    },
+    {
+        "domain": "salmn.me",
+        "count": "2",
+        "first_seen": "2013-03-17 15:33:37",
+        "last_seen": "2013-03-17 15:33:37",
+        "ip_address": "108.162.193.82",
+        "type": "IPv4"
+    },
+    {
+        "domain": "salmn.me",
+        "count": "11",
+        "first_seen": "2013-02-04 01:04:16",
+        "last_seen": "2013-03-25 11:50:52",
+        "ip_address": "141.101.116.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "salmn.me",
+        "count": "11",
+        "first_seen": "2013-02-04 01:04:16",
+        "last_seen": "2013-03-25 11:50:52",
+        "ip_address": "141.101.117.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "salmn.me",
+        "count": "1",
+        "first_seen": "2013-03-03 19:33:43",
+        "last_seen": "2013-03-03 19:33:43",
+        "ip_address": "199.27.134.188",
+        "type": "IPv4"
+    },
+    {
+        "domain": "salmn.me",
+        "count": "1",
+        "first_seen": "2013-03-03 19:33:43",
+        "last_seen": "2013-03-03 19:33:43",
+        "ip_address": "199.27.135.188",
+        "type": "IPv4"
+    }
+]

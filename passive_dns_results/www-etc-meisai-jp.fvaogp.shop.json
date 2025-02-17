@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www-etc-meisai-jp.fvaogp.shop",
+        "count": "122",
+        "first_seen": "2021-10-20 14:35:26",
+        "last_seen": "2021-10-22 02:24:02",
+        "ip_address": "104.21.43.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-etc-meisai-jp.fvaogp.shop",
+        "count": "122",
+        "first_seen": "2021-10-20 14:35:26",
+        "last_seen": "2021-10-22 02:24:02",
+        "ip_address": "172.67.220.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-etc-meisai-jp.fvaogp.shop",
+        "count": "18",
+        "first_seen": "2021-10-20 14:35:29",
+        "last_seen": "2021-10-20 20:45:10",
+        "ip_address": "2606:4700:3035::6815:2b32",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-etc-meisai-jp.fvaogp.shop",
+        "count": "18",
+        "first_seen": "2021-10-20 14:35:29",
+        "last_seen": "2021-10-20 20:45:10",
+        "ip_address": "2606:4700:3036::ac43:dc0c",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.indexmonster.net",
+        "count": "1142",
+        "first_seen": "2020-02-20 14:09:54",
+        "last_seen": "2020-04-02 11:32:35",
+        "ip_address": "104.27.160.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.indexmonster.net",
+        "count": "1142",
+        "first_seen": "2020-02-20 14:09:54",
+        "last_seen": "2020-04-02 11:32:35",
+        "ip_address": "104.27.161.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.indexmonster.net",
+        "count": "2",
+        "first_seen": "2020-12-04 22:52:21",
+        "last_seen": "2020-12-04 22:52:21",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.indexmonster.net",
+        "count": "2",
+        "first_seen": "2020-12-04 22:52:21",
+        "last_seen": "2020-12-04 22:52:21",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.indexmonster.net",
+        "count": "2",
+        "first_seen": "2020-12-04 22:52:21",
+        "last_seen": "2020-12-04 22:52:21",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.indexmonster.net",
+        "count": "2",
+        "first_seen": "2020-12-04 22:52:21",
+        "last_seen": "2020-12-04 22:52:21",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.indexmonster.net",
+        "count": "432",
+        "first_seen": "2020-02-20 14:10:01",
+        "last_seen": "2020-04-02 11:32:35",
+        "ip_address": "2606:4700:3031::681b:a045",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.indexmonster.net",
+        "count": "432",
+        "first_seen": "2020-02-20 14:10:01",
+        "last_seen": "2020-04-02 11:32:35",
+        "ip_address": "2606:4700:3034::681b:a145",
+        "type": "IPv6"
+    }
+]

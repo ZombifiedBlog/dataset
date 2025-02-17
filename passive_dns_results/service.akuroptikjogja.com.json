@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "service.akuroptikjogja.com",
+        "count": "229",
+        "first_seen": "2022-01-19 20:10:20",
+        "last_seen": "2022-06-14 12:34:57",
+        "ip_address": "103.29.215.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "service.akuroptikjogja.com",
+        "count": "15",
+        "first_seen": "2022-07-22 03:34:52",
+        "last_seen": "2022-10-26 07:09:32",
+        "ip_address": "202.83.121.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "service.akuroptikjogja.com",
+        "count": "1",
+        "first_seen": "2022-12-18 10:23:20",
+        "last_seen": "2022-12-18 10:23:20",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

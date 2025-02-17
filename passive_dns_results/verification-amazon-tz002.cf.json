@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "verification-amazon-tz002.cf",
+        "count": "41",
+        "first_seen": "2020-08-08 08:21:03",
+        "last_seen": "2020-08-10 00:27:58",
+        "ip_address": "173.82.168.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "verification-amazon-tz002.cf",
+        "count": "4",
+        "first_seen": "2020-08-11 16:04:27",
+        "last_seen": "2020-08-11 16:38:39",
+        "ip_address": "173.82.232.202",
+        "type": "IPv4"
+    },
+    {
+        "domain": "verification-amazon-tz002.cf",
+        "count": "17",
+        "first_seen": "2020-08-10 21:37:15",
+        "last_seen": "2020-08-11 11:02:59",
+        "ip_address": "173.82.245.81",
+        "type": "IPv4"
+    }
+]

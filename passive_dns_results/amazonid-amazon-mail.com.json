@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "amazonid-amazon-mail.com",
+        "count": "12",
+        "first_seen": "2021-10-10 14:14:42",
+        "last_seen": "2021-10-28 01:08:41",
+        "ip_address": "99.81.40.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonid-amazon-mail.com",
+        "count": "109",
+        "first_seen": "2020-10-04 12:10:09",
+        "last_seen": "2021-10-01 19:52:19",
+        "ip_address": "204.15.75.143",
+        "type": "IPv4"
+    }
+]

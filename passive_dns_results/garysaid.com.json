@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "garysaid.com",
+        "count": "31340",
+        "first_seen": "2011-10-18 04:09:59",
+        "last_seen": "2012-12-04 17:27:02",
+        "ip_address": "50.22.11.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "garysaid.com",
+        "count": "15405",
+        "first_seen": "2010-06-26 16:25:14",
+        "last_seen": "2011-02-13 01:48:14",
+        "ip_address": "74.208.27.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "garysaid.com",
+        "count": "1065",
+        "first_seen": "2011-02-13 01:54:28",
+        "last_seen": "2011-02-25 07:36:12",
+        "ip_address": "74.208.31.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "garysaid.com",
+        "count": "20936",
+        "first_seen": "2011-02-28 13:28:01",
+        "last_seen": "2011-10-18 10:52:20",
+        "ip_address": "74.208.200.176",
+        "type": "IPv4"
+    },
+    {
+        "domain": "garysaid.com",
+        "count": "216",
+        "first_seen": "2011-02-25 07:12:53",
+        "last_seen": "2011-02-28 09:21:29",
+        "ip_address": "82.165.245.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "garysaid.com",
+        "count": "50256",
+        "first_seen": "2012-12-04 19:45:42",
+        "last_seen": "2017-03-07 00:09:56",
+        "ip_address": "108.174.158.232",
+        "type": "IPv4"
+    },
+    {
+        "domain": "garysaid.com",
+        "count": "47077",
+        "first_seen": "2017-03-07 03:07:51",
+        "last_seen": "2024-01-18 05:26:03",
+        "ip_address": "143.95.225.58",
+        "type": "IPv4"
+    }
+]

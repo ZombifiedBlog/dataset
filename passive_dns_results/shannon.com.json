@@ -1,0 +1,474 @@
+[
+    {
+        "domain": "shannon.com",
+        "count": "7575",
+        "first_seen": "2013-01-29 20:37:27",
+        "last_seen": "2017-09-25 13:12:36",
+        "ip_address": "50.63.202.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "4127",
+        "first_seen": "2010-07-27 18:04:43",
+        "last_seen": "2013-01-29 18:29:26",
+        "ip_address": "64.202.189.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "22167",
+        "first_seen": "2019-09-07 18:19:35",
+        "last_seen": "2020-10-11 13:55:17",
+        "ip_address": "67.43.11.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "124694",
+        "first_seen": "2018-07-11 07:49:53",
+        "last_seen": "2019-06-09 05:09:47",
+        "ip_address": "67.225.190.73",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "25346",
+        "first_seen": "2019-06-07 04:20:09",
+        "last_seen": "2019-09-08 17:07:02",
+        "ip_address": "72.52.172.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "12886",
+        "first_seen": "2021-01-13 00:55:44",
+        "last_seen": "2021-10-14 13:19:20",
+        "ip_address": "104.21.5.159",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "12886",
+        "first_seen": "2021-01-13 00:55:44",
+        "last_seen": "2021-10-14 13:19:20",
+        "ip_address": "172.67.133.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "8247",
+        "first_seen": "2021-10-14 14:46:47",
+        "last_seen": "2022-12-05 21:21:13",
+        "ip_address": "104.26.0.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "8247",
+        "first_seen": "2021-10-14 14:46:47",
+        "last_seen": "2022-12-05 21:21:13",
+        "ip_address": "104.26.1.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "8247",
+        "first_seen": "2021-10-14 14:46:47",
+        "last_seen": "2022-12-05 21:21:13",
+        "ip_address": "172.67.73.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "1250",
+        "first_seen": "2020-10-11 14:33:10",
+        "last_seen": "2020-11-17 05:35:58",
+        "ip_address": "104.26.2.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "1250",
+        "first_seen": "2020-10-11 14:33:10",
+        "last_seen": "2020-11-17 05:35:58",
+        "ip_address": "104.26.3.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "1250",
+        "first_seen": "2020-10-11 14:33:10",
+        "last_seen": "2020-11-17 05:35:58",
+        "ip_address": "172.67.70.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "2470",
+        "first_seen": "2020-11-17 06:05:47",
+        "last_seen": "2021-01-12 23:22:14",
+        "ip_address": "104.28.0.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "2470",
+        "first_seen": "2020-11-17 06:05:47",
+        "last_seen": "2021-01-12 23:22:14",
+        "ip_address": "104.28.1.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "2470",
+        "first_seen": "2020-11-17 06:05:47",
+        "last_seen": "2021-01-12 23:22:14",
+        "ip_address": "172.67.133.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "2498",
+        "first_seen": "2018-03-11 03:27:52",
+        "last_seen": "2018-05-11 15:18:16",
+        "ip_address": "104.196.107.244",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "7814",
+        "first_seen": "2022-12-06 00:17:40",
+        "last_seen": "2024-01-17 21:54:44",
+        "ip_address": "104.198.227.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "243",
+        "first_seen": "2018-07-06 00:17:45",
+        "last_seen": "2018-07-11 07:28:47",
+        "ip_address": "146.66.103.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "12",
+        "first_seen": "2018-07-05 06:44:03",
+        "last_seen": "2018-07-05 06:45:13",
+        "ip_address": "146.66.103.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "2",
+        "first_seen": "2020-11-25 05:48:42",
+        "last_seen": "2020-11-25 05:48:42",
+        "ip_address": "172.64.80.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "1",
+        "first_seen": "2021-01-11 08:22:11",
+        "last_seen": "2021-01-11 08:22:11",
+        "ip_address": "172.64.80.227",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "1",
+        "first_seen": "2021-02-18 07:47:38",
+        "last_seen": "2021-02-18 07:47:38",
+        "ip_address": "172.64.81.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "1",
+        "first_seen": "2020-12-27 23:44:50",
+        "last_seen": "2020-12-27 23:44:50",
+        "ip_address": "172.64.82.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "1",
+        "first_seen": "2020-12-26 13:31:21",
+        "last_seen": "2020-12-26 13:31:21",
+        "ip_address": "172.64.82.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "1",
+        "first_seen": "2020-12-15 04:30:10",
+        "last_seen": "2020-12-15 04:30:10",
+        "ip_address": "172.64.91.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "1",
+        "first_seen": "2020-12-16 14:36:53",
+        "last_seen": "2020-12-16 14:36:53",
+        "ip_address": "172.64.95.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "219",
+        "first_seen": "2022-03-11 02:39:01",
+        "last_seen": "2022-03-31 13:18:56",
+        "ip_address": "188.114.96.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "724",
+        "first_seen": "2022-03-31 16:41:18",
+        "last_seen": "2022-05-03 17:01:17",
+        "ip_address": "188.114.98.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "314",
+        "first_seen": "2022-05-03 23:49:16",
+        "last_seen": "2022-05-26 21:28:19",
+        "ip_address": "188.114.98.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "299",
+        "first_seen": "2022-05-26 23:59:22",
+        "last_seen": "2022-07-27 05:02:02",
+        "ip_address": "188.114.98.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "111",
+        "first_seen": "2022-07-28 03:01:11",
+        "last_seen": "2022-08-17 07:09:45",
+        "ip_address": "188.114.98.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "111",
+        "first_seen": "2022-07-28 03:01:11",
+        "last_seen": "2022-08-17 07:09:45",
+        "ip_address": "188.114.99.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "370",
+        "first_seen": "2022-08-17 21:18:08",
+        "last_seen": "2022-10-11 10:17:36",
+        "ip_address": "188.114.98.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "370",
+        "first_seen": "2022-08-17 21:18:08",
+        "last_seen": "2022-10-11 10:17:36",
+        "ip_address": "188.114.99.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "284",
+        "first_seen": "2022-10-11 21:39:23",
+        "last_seen": "2022-12-05 20:42:37",
+        "ip_address": "188.114.98.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "284",
+        "first_seen": "2022-10-11 21:39:23",
+        "last_seen": "2022-12-05 20:42:37",
+        "ip_address": "188.114.99.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "6574",
+        "first_seen": "2017-09-25 17:49:12",
+        "last_seen": "2018-07-05 22:41:43",
+        "ip_address": "192.124.249.64",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "1049",
+        "first_seen": "2017-09-27 22:45:05",
+        "last_seen": "2018-07-05 07:29:21",
+        "ip_address": "198.71.233.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "4801",
+        "first_seen": "2021-10-14 14:46:47",
+        "last_seen": "2022-12-05 10:03:20",
+        "ip_address": "2606:4700:20::681a:8a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "4801",
+        "first_seen": "2021-10-14 14:46:47",
+        "last_seen": "2022-12-05 10:03:20",
+        "ip_address": "2606:4700:20::681a:18a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "4801",
+        "first_seen": "2021-10-14 14:46:47",
+        "last_seen": "2022-12-05 10:03:20",
+        "ip_address": "2606:4700:20::ac43:4930",
+        "type": "IPv6"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "555",
+        "first_seen": "2020-10-11 14:33:11",
+        "last_seen": "2020-11-17 04:29:21",
+        "ip_address": "2606:4700:20::681a:28d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "555",
+        "first_seen": "2020-10-11 14:33:11",
+        "last_seen": "2020-11-17 04:29:21",
+        "ip_address": "2606:4700:20::681a:38d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "555",
+        "first_seen": "2020-10-11 14:33:11",
+        "last_seen": "2020-11-17 04:29:21",
+        "ip_address": "2606:4700:20::ac43:462e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "887",
+        "first_seen": "2020-11-17 09:51:59",
+        "last_seen": "2021-01-12 23:16:18",
+        "ip_address": "2606:4700:3031::ac43:859b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "887",
+        "first_seen": "2020-11-17 09:51:59",
+        "last_seen": "2021-01-12 23:16:18",
+        "ip_address": "2606:4700:3032::681c:5a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "887",
+        "first_seen": "2020-11-17 09:51:59",
+        "last_seen": "2021-01-12 23:16:18",
+        "ip_address": "2606:4700:3032::681c:15a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "6253",
+        "first_seen": "2021-01-13 01:41:05",
+        "last_seen": "2021-10-14 07:02:32",
+        "ip_address": "2606:4700:3031::ac43:859b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "6253",
+        "first_seen": "2021-01-13 01:41:05",
+        "last_seen": "2021-10-14 07:02:32",
+        "ip_address": "2606:4700:3037::6815:59f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "115",
+        "first_seen": "2022-03-11 02:39:01",
+        "last_seen": "2022-05-03 08:24:04",
+        "ip_address": "2a06:98c1:3122:8000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "55",
+        "first_seen": "2022-05-05 10:49:12",
+        "last_seen": "2022-05-26 14:35:38",
+        "ip_address": "2a06:98c1:3122:9000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "113",
+        "first_seen": "2022-05-27 08:00:19",
+        "last_seen": "2022-07-26 18:05:42",
+        "ip_address": "2a06:98c1:3122:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "52",
+        "first_seen": "2022-07-28 13:41:15",
+        "last_seen": "2022-08-17 07:09:44",
+        "ip_address": "2a06:98c1:3122:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "52",
+        "first_seen": "2022-07-28 13:41:15",
+        "last_seen": "2022-08-17 07:09:44",
+        "ip_address": "2a06:98c1:3123:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "122",
+        "first_seen": "2022-08-18 19:01:16",
+        "last_seen": "2022-10-11 08:25:22",
+        "ip_address": "2a06:98c1:3122:c000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "122",
+        "first_seen": "2022-08-18 19:01:16",
+        "last_seen": "2022-10-11 08:25:22",
+        "ip_address": "2a06:98c1:3123:c000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "174",
+        "first_seen": "2022-10-11 21:39:23",
+        "last_seen": "2022-12-05 15:17:53",
+        "ip_address": "2a06:98c1:3122:e000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "shannon.com",
+        "count": "174",
+        "first_seen": "2022-10-11 21:39:23",
+        "last_seen": "2022-12-05 15:17:53",
+        "ip_address": "2a06:98c1:3123:e000::",
+        "type": "IPv6"
+    }
+]

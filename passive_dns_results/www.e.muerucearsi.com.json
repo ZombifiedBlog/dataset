@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.e.muerucearsi.com",
+        "count": "109",
+        "first_seen": "2021-12-23 20:00:28",
+        "last_seen": "2021-12-27 14:03:46",
+        "ip_address": "23.95.122.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.e.muerucearsi.com",
+        "count": "1",
+        "first_seen": "2022-12-23 19:31:49",
+        "last_seen": "2022-12-23 19:31:49",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.e.muerucearsi.com",
+        "count": "1",
+        "first_seen": "2022-12-28 12:48:42",
+        "last_seen": "2022-12-28 12:48:42",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.e.muerucearsi.com",
+        "count": "13",
+        "first_seen": "2022-12-23 19:31:49",
+        "last_seen": "2022-12-28 12:48:42",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

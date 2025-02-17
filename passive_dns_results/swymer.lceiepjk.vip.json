@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "swymer.lceiepjk.vip",
+        "count": "2",
+        "first_seen": "2021-05-17 16:18:59",
+        "last_seen": "2021-05-17 16:18:59",
+        "ip_address": "104.21.54.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "swymer.lceiepjk.vip",
+        "count": "2",
+        "first_seen": "2021-05-17 16:18:59",
+        "last_seen": "2021-05-17 16:18:59",
+        "ip_address": "172.67.223.154",
+        "type": "IPv4"
+    },
+    {
+        "domain": "swymer.lceiepjk.vip",
+        "count": "3",
+        "first_seen": "2020-12-27 17:53:22",
+        "last_seen": "2020-12-29 09:22:52",
+        "ip_address": "104.24.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "swymer.lceiepjk.vip",
+        "count": "3",
+        "first_seen": "2020-12-27 17:53:22",
+        "last_seen": "2020-12-29 09:22:52",
+        "ip_address": "104.24.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "swymer.lceiepjk.vip",
+        "count": "3",
+        "first_seen": "2020-12-27 17:53:22",
+        "last_seen": "2020-12-29 09:22:52",
+        "ip_address": "172.67.223.154",
+        "type": "IPv4"
+    },
+    {
+        "domain": "swymer.lceiepjk.vip",
+        "count": "1",
+        "first_seen": "2021-05-17 16:18:59",
+        "last_seen": "2021-05-17 16:18:59",
+        "ip_address": "2606:4700:3030::6815:3630",
+        "type": "IPv6"
+    },
+    {
+        "domain": "swymer.lceiepjk.vip",
+        "count": "1",
+        "first_seen": "2021-05-17 16:18:59",
+        "last_seen": "2021-05-17 16:18:59",
+        "ip_address": "2606:4700:3030::ac43:df9a",
+        "type": "IPv6"
+    }
+]

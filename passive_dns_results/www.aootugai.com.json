@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "www.aootugai.com",
+        "count": "103",
+        "first_seen": "2018-10-03 20:51:02",
+        "last_seen": "2019-09-15 02:22:08",
+        "ip_address": "104.27.138.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.aootugai.com",
+        "count": "103",
+        "first_seen": "2018-10-03 20:51:02",
+        "last_seen": "2019-09-15 02:22:08",
+        "ip_address": "104.27.139.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.aootugai.com",
+        "count": "10",
+        "first_seen": "2018-09-14 09:05:25",
+        "last_seen": "2018-09-14 09:19:34",
+        "ip_address": "104.28.20.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.aootugai.com",
+        "count": "10",
+        "first_seen": "2018-09-14 09:05:25",
+        "last_seen": "2018-09-14 09:19:34",
+        "ip_address": "104.28.21.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.aootugai.com",
+        "count": "2",
+        "first_seen": "2019-12-18 06:20:34",
+        "last_seen": "2019-12-18 06:20:34",
+        "ip_address": "107.186.247.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.aootugai.com",
+        "count": "12",
+        "first_seen": "2019-09-14 13:00:07",
+        "last_seen": "2019-09-19 04:24:46",
+        "ip_address": "209.99.40.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.aootugai.com",
+        "count": "12",
+        "first_seen": "2019-09-16 13:02:55",
+        "last_seen": "2019-09-19 04:24:46",
+        "ip_address": "209.99.40.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.aootugai.com",
+        "count": "3",
+        "first_seen": "2018-09-14 09:05:27",
+        "last_seen": "2018-09-14 09:19:34",
+        "ip_address": "2400:cb00:2048:1::681c:14fe",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.aootugai.com",
+        "count": "3",
+        "first_seen": "2018-09-14 09:05:27",
+        "last_seen": "2018-09-14 09:19:34",
+        "ip_address": "2400:cb00:2048:1::681c:15fe",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.aootugai.com",
+        "count": "52",
+        "first_seen": "2018-10-03 20:51:02",
+        "last_seen": "2019-09-15 02:22:08",
+        "ip_address": "2606:4700:30::681b:8a8a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.aootugai.com",
+        "count": "52",
+        "first_seen": "2018-10-03 20:51:02",
+        "last_seen": "2019-09-15 02:22:08",
+        "ip_address": "2606:4700:30::681b:8b8a",
+        "type": "IPv6"
+    }
+]

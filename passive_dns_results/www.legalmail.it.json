@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "www.legalmail.it",
+        "count": "15188",
+        "first_seen": "2022-01-18 21:11:28",
+        "last_seen": "2022-06-21 19:13:05",
+        "ip_address": "20.71.23.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.legalmail.it",
+        "count": "2719",
+        "first_seen": "2010-06-25 13:05:57",
+        "last_seen": "2012-06-28 06:51:46",
+        "ip_address": "80.82.9.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.legalmail.it",
+        "count": "51057",
+        "first_seen": "2022-06-21 19:22:06",
+        "last_seen": "2023-04-15 06:41:19",
+        "ip_address": "104.45.8.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.legalmail.it",
+        "count": "97064",
+        "first_seen": "2016-11-14 13:04:08",
+        "last_seen": "2022-01-18 20:44:14",
+        "ip_address": "185.102.40.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.legalmail.it",
+        "count": "30447",
+        "first_seen": "2012-06-28 11:03:57",
+        "last_seen": "2016-08-28 07:52:13",
+        "ip_address": "78.6.249.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.legalmail.it",
+        "count": "21951",
+        "first_seen": "2015-05-18 03:01:05",
+        "last_seen": "2016-10-26 09:31:35",
+        "ip_address": "78.6.249.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.legalmail.it",
+        "count": "21951",
+        "first_seen": "2015-05-18 03:01:05",
+        "last_seen": "2016-10-26 09:31:35",
+        "ip_address": "82.85.189.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.legalmail.it",
+        "count": "4801",
+        "first_seen": "2012-06-29 00:20:32",
+        "last_seen": "2016-10-24 07:35:04",
+        "ip_address": "82.85.189.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.legalmail.it",
+        "count": "808",
+        "first_seen": "2016-10-26 10:08:06",
+        "last_seen": "2016-11-14 14:15:06",
+        "ip_address": "185.102.40.112",
+        "type": "IPv4"
+    }
+]

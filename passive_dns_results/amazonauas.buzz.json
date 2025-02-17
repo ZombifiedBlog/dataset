@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazonauas.buzz",
+        "count": "90",
+        "first_seen": "2021-09-01 03:38:13",
+        "last_seen": "2021-10-04 09:13:44",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonauas.buzz",
+        "count": "109",
+        "first_seen": "2020-09-02 21:34:48",
+        "last_seen": "2020-09-04 12:12:41",
+        "ip_address": "173.82.151.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonauas.buzz",
+        "count": "21",
+        "first_seen": "2020-09-01 00:56:46",
+        "last_seen": "2020-09-02 14:05:54",
+        "ip_address": "173.82.240.218",
+        "type": "IPv4"
+    }
+]

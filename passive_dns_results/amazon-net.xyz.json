@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "amazon-net.xyz",
+        "count": "24",
+        "first_seen": "2020-10-16 07:59:23",
+        "last_seen": "2020-10-19 02:41:18",
+        "ip_address": "108.166.217.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-net.xyz",
+        "count": "3",
+        "first_seen": "2020-10-19 06:20:25",
+        "last_seen": "2020-10-19 06:20:54",
+        "ip_address": "173.82.11.123",
+        "type": "IPv4"
+    }
+]

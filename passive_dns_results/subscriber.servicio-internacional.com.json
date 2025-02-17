@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.servicio-internacionaL.com",
+        "count": "4",
+        "first_seen": "2023-01-27 23:31:35",
+        "last_seen": "2023-02-18 05:05:06",
+        "ip_address": "103.120.80.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.servicio-internacionaL.com",
+        "count": "4",
+        "first_seen": "2023-01-27 23:31:35",
+        "last_seen": "2023-02-18 05:05:06",
+        "ip_address": "103.139.0.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.servicio-internacionaL.com",
+        "count": "2728",
+        "first_seen": "2022-11-19 17:30:33",
+        "last_seen": "2023-01-20 23:45:56",
+        "ip_address": "104.21.92.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.servicio-internacionaL.com",
+        "count": "2728",
+        "first_seen": "2022-11-19 17:30:33",
+        "last_seen": "2023-01-20 23:45:56",
+        "ip_address": "172.67.191.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.servicio-internacionaL.com",
+        "count": "140",
+        "first_seen": "2022-11-19 19:29:56",
+        "last_seen": "2023-01-06 21:14:17",
+        "ip_address": "2606:4700:3033::6815:5c65",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.servicio-internacionaL.com",
+        "count": "140",
+        "first_seen": "2022-11-19 19:29:56",
+        "last_seen": "2023-01-06 21:14:17",
+        "ip_address": "2606:4700:3036::ac43:bf8a",
+        "type": "IPv6"
+    }
+]

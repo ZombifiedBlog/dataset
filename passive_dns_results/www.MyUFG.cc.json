@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.MyUFG.cc",
+        "count": "3",
+        "first_seen": "2022-01-14 10:49:39",
+        "last_seen": "2022-02-16 09:39:08",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.MyUFG.cc",
+        "count": "10",
+        "first_seen": "2021-05-05 03:39:56",
+        "last_seen": "2021-09-28 17:29:42",
+        "ip_address": "154.23.1.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.MyUFG.cc",
+        "count": "275",
+        "first_seen": "2021-01-09 17:50:20",
+        "last_seen": "2021-01-28 10:29:19",
+        "ip_address": "192.3.47.245",
+        "type": "IPv4"
+    }
+]

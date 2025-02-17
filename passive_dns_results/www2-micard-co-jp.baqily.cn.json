@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www2-micard-co-jp.baqily.cn",
+        "count": "1",
+        "first_seen": "2021-11-22 03:52:30",
+        "last_seen": "2021-11-22 03:52:30",
+        "ip_address": "43.130.64.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-micard-co-jp.baqily.cn",
+        "count": "1",
+        "first_seen": "2021-11-19 00:13:59",
+        "last_seen": "2021-11-19 00:13:59",
+        "ip_address": "43.130.65.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-micard-co-jp.baqily.cn",
+        "count": "35",
+        "first_seen": "2021-09-28 06:30:45",
+        "last_seen": "2021-09-30 19:54:31",
+        "ip_address": "104.21.19.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-micard-co-jp.baqily.cn",
+        "count": "35",
+        "first_seen": "2021-09-28 06:30:45",
+        "last_seen": "2021-09-30 19:54:31",
+        "ip_address": "172.67.185.68",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2-micard-co-jp.baqily.cn",
+        "count": "8",
+        "first_seen": "2021-09-28 07:46:06",
+        "last_seen": "2021-10-01 23:18:26",
+        "ip_address": "2606:4700:3031::6815:1338",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www2-micard-co-jp.baqily.cn",
+        "count": "8",
+        "first_seen": "2021-09-28 07:46:06",
+        "last_seen": "2021-10-01 23:18:26",
+        "ip_address": "2606:4700:3032::ac43:b944",
+        "type": "IPv6"
+    }
+]

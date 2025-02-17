@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "import.easedomain.com",
+        "count": "340",
+        "first_seen": "2022-12-26 12:57:03",
+        "last_seen": "2023-01-12 19:15:43",
+        "ip_address": "34.85.101.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "import.easedomain.com",
+        "count": "59",
+        "first_seen": "2023-01-12 21:36:31",
+        "last_seen": "2023-01-15 04:51:01",
+        "ip_address": "103.120.80.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "import.easedomain.com",
+        "count": "59",
+        "first_seen": "2023-01-12 21:36:31",
+        "last_seen": "2023-01-15 04:51:01",
+        "ip_address": "103.139.0.32",
+        "type": "IPv4"
+    }
+]

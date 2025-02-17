@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "netstation2-aplus-co-jp.apluser2.xyz",
+        "count": "61",
+        "first_seen": "2022-02-13 14:36:44",
+        "last_seen": "2022-02-15 05:03:35",
+        "ip_address": "104.21.88.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.apluser2.xyz",
+        "count": "61",
+        "first_seen": "2022-02-13 14:36:44",
+        "last_seen": "2022-02-15 05:03:35",
+        "ip_address": "172.67.173.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.apluser2.xyz",
+        "count": "3",
+        "first_seen": "2022-02-14 21:34:53",
+        "last_seen": "2022-02-15 01:46:25",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.apluser2.xyz",
+        "count": "3",
+        "first_seen": "2022-02-14 21:34:53",
+        "last_seen": "2022-02-15 01:46:25",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.apluser2.xyz",
+        "count": "1",
+        "first_seen": "2022-02-13 22:30:24",
+        "last_seen": "2022-02-13 22:30:24",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.apluser2.xyz",
+        "count": "1",
+        "first_seen": "2022-02-13 22:30:24",
+        "last_seen": "2022-02-13 22:30:24",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.apluser2.xyz",
+        "count": "31",
+        "first_seen": "2022-02-13 13:54:42",
+        "last_seen": "2022-02-13 17:43:18",
+        "ip_address": "188.114.96.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.apluser2.xyz",
+        "count": "31",
+        "first_seen": "2022-02-13 13:54:42",
+        "last_seen": "2022-02-13 17:43:18",
+        "ip_address": "188.114.97.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.apluser2.xyz",
+        "count": "2",
+        "first_seen": "2022-02-13 13:54:43",
+        "last_seen": "2022-02-13 14:07:42",
+        "ip_address": "2a06:98c1:3120::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "netstation2-aplus-co-jp.apluser2.xyz",
+        "count": "2",
+        "first_seen": "2022-02-13 13:54:43",
+        "last_seen": "2022-02-13 14:07:42",
+        "ip_address": "2a06:98c1:3121::16",
+        "type": "IPv6"
+    }
+]

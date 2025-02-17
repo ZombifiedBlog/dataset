@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "miaingram.com",
+        "count": "121",
+        "first_seen": "2021-08-21 15:40:58",
+        "last_seen": "2022-09-22 09:59:12",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "miaingram.com",
+        "count": "125",
+        "first_seen": "2020-07-10 15:57:45",
+        "last_seen": "2021-07-22 02:00:31",
+        "ip_address": "34.102.136.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "miaingram.com",
+        "count": "42",
+        "first_seen": "2022-11-07 02:06:51",
+        "last_seen": "2023-01-28 12:03:34",
+        "ip_address": "38.239.38.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "miaingram.com",
+        "count": "2",
+        "first_seen": "2018-08-20 13:22:47",
+        "last_seen": "2018-08-20 13:22:47",
+        "ip_address": "50.63.202.73",
+        "type": "IPv4"
+    },
+    {
+        "domain": "miaingram.com",
+        "count": "404",
+        "first_seen": "2023-07-21 05:13:18",
+        "last_seen": "2023-07-25 06:53:46",
+        "ip_address": "66.154.107.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "miaingram.com",
+        "count": "1",
+        "first_seen": "2022-11-02 01:01:00",
+        "last_seen": "2022-11-02 01:01:00",
+        "ip_address": "154.55.240.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "miaingram.com",
+        "count": "598",
+        "first_seen": "2023-08-06 14:22:12",
+        "last_seen": "2023-09-08 01:09:53",
+        "ip_address": "154.55.243.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "miaingram.com",
+        "count": "56",
+        "first_seen": "2023-02-09 01:46:08",
+        "last_seen": "2023-07-07 10:39:45",
+        "ip_address": "154.89.113.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "miaingram.com",
+        "count": "741",
+        "first_seen": "2014-11-04 12:24:36",
+        "last_seen": "2020-07-06 07:55:05",
+        "ip_address": "184.168.221.32",
+        "type": "IPv4"
+    }
+]

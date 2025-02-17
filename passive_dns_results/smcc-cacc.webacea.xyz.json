@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "smcc-cacc.webacea.xyz",
+        "count": "7",
+        "first_seen": "2020-12-07 19:02:06",
+        "last_seen": "2020-12-08 02:38:34",
+        "ip_address": "98.126.213.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.webacea.xyz",
+        "count": "69",
+        "first_seen": "2020-11-15 19:43:08",
+        "last_seen": "2020-12-05 19:07:09",
+        "ip_address": "98.126.214.241",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.webacea.xyz",
+        "count": "8",
+        "first_seen": "2020-11-15 16:45:29",
+        "last_seen": "2020-11-15 18:47:25",
+        "ip_address": "154.220.3.163",
+        "type": "IPv4"
+    }
+]

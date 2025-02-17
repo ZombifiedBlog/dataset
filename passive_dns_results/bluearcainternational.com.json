@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "bluearcainternational.com",
+        "count": "13",
+        "first_seen": "2022-08-24 11:47:00",
+        "last_seen": "2022-09-17 13:05:42",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bluearcainternational.com",
+        "count": "125",
+        "first_seen": "2020-08-14 18:19:52",
+        "last_seen": "2022-08-07 07:39:03",
+        "ip_address": "34.102.136.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bluearcainternational.com",
+        "count": "4",
+        "first_seen": "2021-04-07 10:02:47",
+        "last_seen": "2021-04-13 12:23:31",
+        "ip_address": "104.21.61.151",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bluearcainternational.com",
+        "count": "4",
+        "first_seen": "2021-04-07 10:02:47",
+        "last_seen": "2021-04-13 12:23:31",
+        "ip_address": "172.67.211.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bluearcainternational.com",
+        "count": "4235",
+        "first_seen": "2021-05-15 23:29:14",
+        "last_seen": "2022-04-15 18:56:10",
+        "ip_address": "173.201.185.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bluearcainternational.com",
+        "count": "4",
+        "first_seen": "2021-04-06 21:25:22",
+        "last_seen": "2021-04-13 12:23:32",
+        "ip_address": "2606:4700:3030::ac43:d37a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "bluearcainternational.com",
+        "count": "4",
+        "first_seen": "2021-04-06 21:25:22",
+        "last_seen": "2021-04-13 12:23:32",
+        "ip_address": "2606:4700:3034::6815:3d97",
+        "type": "IPv6"
+    }
+]

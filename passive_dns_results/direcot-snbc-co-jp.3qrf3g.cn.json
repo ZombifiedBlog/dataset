@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "direcot-snbc-co-jp.3qrf3g.cn",
+        "count": "15",
+        "first_seen": "2021-11-14 08:29:15",
+        "last_seen": "2021-11-24 09:09:54",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "direcot-snbc-co-jp.3qrf3g.cn",
+        "count": "84",
+        "first_seen": "2021-10-26 18:44:05",
+        "last_seen": "2021-10-29 09:48:57",
+        "ip_address": "104.21.71.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "direcot-snbc-co-jp.3qrf3g.cn",
+        "count": "84",
+        "first_seen": "2021-10-26 18:44:05",
+        "last_seen": "2021-10-29 09:48:57",
+        "ip_address": "172.67.142.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "direcot-snbc-co-jp.3qrf3g.cn",
+        "count": "3",
+        "first_seen": "2021-10-26 19:40:58",
+        "last_seen": "2021-10-26 21:59:43",
+        "ip_address": "2606:4700:3033::ac43:8e6e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "direcot-snbc-co-jp.3qrf3g.cn",
+        "count": "3",
+        "first_seen": "2021-10-26 19:40:58",
+        "last_seen": "2021-10-26 21:59:43",
+        "ip_address": "2606:4700:3036::6815:471b",
+        "type": "IPv6"
+    }
+]

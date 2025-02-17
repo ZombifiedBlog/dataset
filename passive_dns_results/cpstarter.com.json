@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "cpstarter.com",
+        "count": "40",
+        "first_seen": "2023-03-29 17:31:28",
+        "last_seen": "2023-06-19 01:35:44",
+        "ip_address": "67.21.75.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cpstarter.com",
+        "count": "7",
+        "first_seen": "2022-11-26 12:54:38",
+        "last_seen": "2022-12-23 14:46:23",
+        "ip_address": "78.24.223.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cpstarter.com",
+        "count": "99",
+        "first_seen": "2022-01-31 14:03:33",
+        "last_seen": "2022-05-06 07:44:17",
+        "ip_address": "192.3.183.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cpstarter.com",
+        "count": "82",
+        "first_seen": "2022-07-20 20:41:45",
+        "last_seen": "2022-11-07 07:52:12",
+        "ip_address": "193.201.9.179",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cpstarter.com",
+        "count": "235",
+        "first_seen": "2023-06-20 09:03:06",
+        "last_seen": "2023-06-21 02:47:37",
+        "ip_address": "204.44.75.99",
+        "type": "IPv4"
+    }
+]

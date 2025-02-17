@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "apluas.com",
+        "count": "298",
+        "first_seen": "2020-12-13 18:09:01",
+        "last_seen": "2020-12-15 07:27:14",
+        "ip_address": "23.95.233.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "apluas.com",
+        "count": "5",
+        "first_seen": "2013-12-12 04:48:06",
+        "last_seen": "2013-12-30 20:55:44",
+        "ip_address": "184.168.221.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "apluas.com",
+        "count": "1",
+        "first_seen": "2013-04-29 06:51:32",
+        "last_seen": "2013-04-29 06:51:32",
+        "ip_address": "208.73.211.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "apluas.com",
+        "count": "1",
+        "first_seen": "2013-03-18 06:16:50",
+        "last_seen": "2013-03-18 06:16:50",
+        "ip_address": "208.73.211.208",
+        "type": "IPv4"
+    }
+]

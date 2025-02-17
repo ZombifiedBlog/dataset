@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "abeca.ru",
+        "count": "577",
+        "first_seen": "2019-12-26 22:42:23",
+        "last_seen": "2020-01-29 07:09:08",
+        "ip_address": "46.229.212.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "abeca.ru",
+        "count": "6050",
+        "first_seen": "2015-10-12 07:53:55",
+        "last_seen": "2016-06-07 15:50:03",
+        "ip_address": "62.213.67.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "abeca.ru",
+        "count": "10",
+        "first_seen": "2016-05-10 08:05:25",
+        "last_seen": "2016-05-10 11:10:06",
+        "ip_address": "109.70.26.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "abeca.ru",
+        "count": "10",
+        "first_seen": "2016-05-10 08:05:25",
+        "last_seen": "2016-05-10 11:10:06",
+        "ip_address": "194.85.61.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "abeca.ru",
+        "count": "25457",
+        "first_seen": "2018-02-12 23:52:04",
+        "last_seen": "2020-09-04 08:51:08",
+        "ip_address": "185.5.249.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "abeca.ru",
+        "count": "27982",
+        "first_seen": "2020-09-04 11:37:23",
+        "last_seen": "2024-01-18 10:21:30",
+        "ip_address": "185.87.51.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "abeca.ru",
+        "count": "22240",
+        "first_seen": "2016-06-08 08:05:19",
+        "last_seen": "2018-02-12 21:20:39",
+        "ip_address": "193.124.184.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "abeca.ru",
+        "count": "551",
+        "first_seen": "2015-05-15 21:33:58",
+        "last_seen": "2015-10-07 13:43:11",
+        "ip_address": "212.158.172.222",
+        "type": "IPv4"
+    }
+]

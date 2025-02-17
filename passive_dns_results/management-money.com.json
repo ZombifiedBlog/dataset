@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "management-money.com",
+        "count": "1",
+        "first_seen": "2021-01-17 16:30:42",
+        "last_seen": "2021-01-17 16:30:42",
+        "ip_address": "52.25.92.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "management-money.com",
+        "count": "3",
+        "first_seen": "2021-01-23 14:45:55",
+        "last_seen": "2021-02-14 07:04:28",
+        "ip_address": "54.65.172.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "management-money.com",
+        "count": "39",
+        "first_seen": "2023-12-09 06:56:23",
+        "last_seen": "2024-01-11 08:27:43",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "management-money.com",
+        "count": "4894",
+        "first_seen": "2020-05-21 08:34:17",
+        "last_seen": "2021-01-06 19:22:10",
+        "ip_address": "103.48.37.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "management-money.com",
+        "count": "13177",
+        "first_seen": "2020-01-17 01:20:51",
+        "last_seen": "2020-05-19 17:06:50",
+        "ip_address": "103.242.7.252",
+        "type": "IPv4"
+    },
+    {
+        "domain": "management-money.com",
+        "count": "2025",
+        "first_seen": "2021-12-03 18:41:24",
+        "last_seen": "2023-12-03 12:07:56",
+        "ip_address": "192.0.78.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "management-money.com",
+        "count": "2025",
+        "first_seen": "2021-12-03 18:41:24",
+        "last_seen": "2023-12-03 12:07:56",
+        "ip_address": "192.0.78.25",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "4",
+        "first_seen": "2023-10-10 09:23:40",
+        "last_seen": "2023-10-25 12:07:24",
+        "ip_address": "103.224.212.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "20",
+        "first_seen": "2022-12-31 21:45:19",
+        "last_seen": "2023-09-26 06:11:25",
+        "ip_address": "103.224.212.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "2965",
+        "first_seen": "2022-08-23 15:31:07",
+        "last_seen": "2022-11-10 13:56:19",
+        "ip_address": "104.21.46.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "2965",
+        "first_seen": "2022-08-23 15:31:07",
+        "last_seen": "2022-11-10 13:56:19",
+        "ip_address": "172.67.136.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "36",
+        "first_seen": "2022-10-12 00:18:47",
+        "last_seen": "2022-10-15 07:38:51",
+        "ip_address": "188.114.96.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "36",
+        "first_seen": "2022-10-12 00:18:47",
+        "last_seen": "2022-10-15 07:38:51",
+        "ip_address": "188.114.97.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "104",
+        "first_seen": "2022-09-06 13:10:53",
+        "last_seen": "2022-11-10 16:36:41",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "104",
+        "first_seen": "2022-09-06 13:10:53",
+        "last_seen": "2022-11-10 16:36:41",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "96",
+        "first_seen": "2022-08-23 18:18:57",
+        "last_seen": "2022-11-04 11:07:22",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "96",
+        "first_seen": "2022-08-23 18:18:57",
+        "last_seen": "2022-11-04 11:07:22",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "4",
+        "first_seen": "2022-09-24 15:01:53",
+        "last_seen": "2022-11-01 20:41:05",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "4",
+        "first_seen": "2022-09-24 15:01:53",
+        "last_seen": "2022-11-01 20:41:05",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "1",
+        "first_seen": "2022-08-25 22:31:17",
+        "last_seen": "2022-08-25 22:31:17",
+        "ip_address": "188.114.96.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "1",
+        "first_seen": "2022-08-25 22:31:17",
+        "last_seen": "2022-08-25 22:31:17",
+        "ip_address": "188.114.97.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "4",
+        "first_seen": "2022-09-09 12:44:28",
+        "last_seen": "2022-09-26 07:47:31",
+        "ip_address": "188.114.96.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "4",
+        "first_seen": "2022-09-09 12:44:28",
+        "last_seen": "2022-09-26 07:47:31",
+        "ip_address": "188.114.97.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "9",
+        "first_seen": "2022-08-24 12:25:32",
+        "last_seen": "2022-11-04 09:30:23",
+        "ip_address": "188.114.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "9",
+        "first_seen": "2022-08-24 12:25:32",
+        "last_seen": "2022-11-04 09:30:23",
+        "ip_address": "188.114.97.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "75",
+        "first_seen": "2022-08-23 20:36:32",
+        "last_seen": "2022-11-06 23:33:23",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "75",
+        "first_seen": "2022-08-23 20:36:32",
+        "last_seen": "2022-11-06 23:33:23",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "29",
+        "first_seen": "2022-08-24 15:08:52",
+        "last_seen": "2022-11-02 14:16:25",
+        "ip_address": "2606:4700:3034::6815:2e4d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "29",
+        "first_seen": "2022-08-24 15:08:52",
+        "last_seen": "2022-11-02 14:16:25",
+        "ip_address": "2606:4700:3037::ac43:8869",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "47",
+        "first_seen": "2022-08-23 18:09:02",
+        "last_seen": "2022-11-01 12:03:59",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "47",
+        "first_seen": "2022-08-23 18:09:02",
+        "last_seen": "2022-11-01 12:03:59",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "11",
+        "first_seen": "2022-08-24 04:42:15",
+        "last_seen": "2022-10-27 10:52:32",
+        "ip_address": "2a06:98c1:3120::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "11",
+        "first_seen": "2022-08-24 04:42:15",
+        "last_seen": "2022-10-27 10:52:32",
+        "ip_address": "2a06:98c1:3121::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "18",
+        "first_seen": "2022-08-25 10:04:46",
+        "last_seen": "2022-11-06 23:33:23",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.thespongebob.com",
+        "count": "18",
+        "first_seen": "2022-08-25 10:04:46",
+        "last_seen": "2022-11-06 23:33:23",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

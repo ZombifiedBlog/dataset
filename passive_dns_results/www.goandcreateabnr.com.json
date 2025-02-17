@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.goandcreateabnr.com",
+        "count": "2",
+        "first_seen": "2022-08-31 07:01:12",
+        "last_seen": "2022-09-10 22:57:07",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.goandcreateabnr.com",
+        "count": "5",
+        "first_seen": "2022-11-15 04:43:15",
+        "last_seen": "2022-11-21 06:23:58",
+        "ip_address": "85.208.116.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.goandcreateabnr.com",
+        "count": "1119",
+        "first_seen": "2022-08-08 14:43:23",
+        "last_seen": "2022-08-15 09:03:21",
+        "ip_address": "104.223.16.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.goandcreateabnr.com",
+        "count": "13",
+        "first_seen": "2021-11-29 18:47:22",
+        "last_seen": "2022-04-16 00:18:52",
+        "ip_address": "156.241.190.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.goandcreateabnr.com",
+        "count": "112",
+        "first_seen": "2022-11-23 17:00:34",
+        "last_seen": "2023-11-13 03:04:13",
+        "ip_address": "160.121.159.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.goandcreateabnr.com",
+        "count": "56",
+        "first_seen": "2021-08-22 21:51:16",
+        "last_seen": "2021-11-18 23:26:56",
+        "ip_address": "164.155.190.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.goandcreateabnr.com",
+        "count": "12",
+        "first_seen": "2023-11-14 19:38:14",
+        "last_seen": "2023-12-22 00:53:04",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.goandcreateabnr.com",
+        "count": "17",
+        "first_seen": "2023-11-18 09:32:27",
+        "last_seen": "2023-12-22 00:53:04",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "blackhatsem.co",
+        "count": "11521",
+        "first_seen": "2021-02-12 19:01:45",
+        "last_seen": "2024-01-10 10:16:38",
+        "ip_address": "104.21.62.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "blackhatsem.co",
+        "count": "11521",
+        "first_seen": "2021-02-12 19:01:45",
+        "last_seen": "2024-01-10 10:16:38",
+        "ip_address": "172.67.168.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "blackhatsem.co",
+        "count": "9",
+        "first_seen": "2022-03-11 11:54:46",
+        "last_seen": "2022-03-14 11:02:55",
+        "ip_address": "188.114.99.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "blackhatsem.co",
+        "count": "1",
+        "first_seen": "2021-02-13 18:11:28",
+        "last_seen": "2021-02-13 18:11:28",
+        "ip_address": "2606:4700:130:52e1:943b:39b4:bec4:d169",
+        "type": "IPv6"
+    },
+    {
+        "domain": "blackhatsem.co",
+        "count": "689",
+        "first_seen": "2021-02-12 19:01:46",
+        "last_seen": "2023-11-28 19:16:33",
+        "ip_address": "2606:4700:3035::ac43:a8b7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "blackhatsem.co",
+        "count": "689",
+        "first_seen": "2021-02-12 19:01:46",
+        "last_seen": "2023-11-28 19:16:33",
+        "ip_address": "2606:4700:3037::6815:3eec",
+        "type": "IPv6"
+    },
+    {
+        "domain": "blackhatsem.co",
+        "count": "2",
+        "first_seen": "2022-03-12 10:05:59",
+        "last_seen": "2022-03-14 11:02:56",
+        "ip_address": "2a06:98c1:3122:8000::",
+        "type": "IPv6"
+    }
+]

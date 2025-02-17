@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.amazonma.top",
+        "count": "5",
+        "first_seen": "2021-09-25 13:11:01",
+        "last_seen": "2021-09-26 03:08:00",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazonma.top",
+        "count": "2",
+        "first_seen": "2020-11-03 10:20:50",
+        "last_seen": "2020-11-03 10:20:50",
+        "ip_address": "128.14.142.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazonma.top",
+        "count": "95",
+        "first_seen": "2020-09-24 10:02:03",
+        "last_seen": "2020-09-24 19:46:42",
+        "ip_address": "198.12.71.112",
+        "type": "IPv4"
+    }
+]

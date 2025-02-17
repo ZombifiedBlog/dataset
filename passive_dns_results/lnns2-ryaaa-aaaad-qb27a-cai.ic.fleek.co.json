@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "lnns2-ryaaa-aaaad-qb27a-cai.ic.fleek.co",
+        "count": "43",
+        "first_seen": "2023-01-19 20:11:09",
+        "last_seen": "2023-01-20 21:16:35",
+        "ip_address": "104.18.6.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lnns2-ryaaa-aaaad-qb27a-cai.ic.fleek.co",
+        "count": "43",
+        "first_seen": "2023-01-19 20:11:09",
+        "last_seen": "2023-01-20 21:16:35",
+        "ip_address": "104.18.7.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lnns2-ryaaa-aaaad-qb27a-cai.ic.fleek.co",
+        "count": "14",
+        "first_seen": "2022-06-20 17:21:37",
+        "last_seen": "2022-07-03 02:00:08",
+        "ip_address": "188.114.98.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lnns2-ryaaa-aaaad-qb27a-cai.ic.fleek.co",
+        "count": "18",
+        "first_seen": "2022-11-16 00:49:19",
+        "last_seen": "2022-11-19 19:18:23",
+        "ip_address": "188.114.98.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lnns2-ryaaa-aaaad-qb27a-cai.ic.fleek.co",
+        "count": "18",
+        "first_seen": "2022-11-16 00:49:19",
+        "last_seen": "2022-11-19 19:18:23",
+        "ip_address": "188.114.99.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lnns2-ryaaa-aaaad-qb27a-cai.ic.fleek.co",
+        "count": "2",
+        "first_seen": "2022-11-16 16:48:10",
+        "last_seen": "2022-11-16 16:48:10",
+        "ip_address": "2606:4700::6812:691",
+        "type": "IPv6"
+    },
+    {
+        "domain": "lnns2-ryaaa-aaaad-qb27a-cai.ic.fleek.co",
+        "count": "2",
+        "first_seen": "2022-11-16 16:48:10",
+        "last_seen": "2022-11-16 16:48:10",
+        "ip_address": "2606:4700::6812:791",
+        "type": "IPv6"
+    },
+    {
+        "domain": "lnns2-ryaaa-aaaad-qb27a-cai.ic.fleek.co",
+        "count": "4",
+        "first_seen": "2022-11-17 04:15:36",
+        "last_seen": "2022-11-18 23:34:26",
+        "ip_address": "2a06:98c1:3122:e000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "lnns2-ryaaa-aaaad-qb27a-cai.ic.fleek.co",
+        "count": "4",
+        "first_seen": "2022-11-17 04:15:36",
+        "last_seen": "2022-11-18 23:34:26",
+        "ip_address": "2a06:98c1:3123:e000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "lnns2-ryaaa-aaaad-qb27a-cai.ic.fleek.co",
+        "count": "4",
+        "first_seen": "2022-06-20 17:21:37",
+        "last_seen": "2022-06-20 18:07:45",
+        "ip_address": "2a06:98c1:3123:a000::",
+        "type": "IPv6"
+    }
+]

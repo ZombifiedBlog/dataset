@@ -1,0 +1,106 @@
+[
+    {
+        "domain": "9e4m.cn",
+        "count": "5",
+        "first_seen": "2021-09-04 13:40:43",
+        "last_seen": "2021-09-07 07:32:14",
+        "ip_address": "47.90.86.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9e4m.cn",
+        "count": "14",
+        "first_seen": "2019-03-25 19:42:01",
+        "last_seen": "2021-08-18 11:52:53",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9e4m.cn",
+        "count": "1816",
+        "first_seen": "2023-08-04 05:34:04",
+        "last_seen": "2023-10-13 12:37:58",
+        "ip_address": "104.21.46.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9e4m.cn",
+        "count": "1816",
+        "first_seen": "2023-08-04 05:34:04",
+        "last_seen": "2023-10-13 12:37:58",
+        "ip_address": "172.67.136.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9e4m.cn",
+        "count": "20",
+        "first_seen": "2021-09-15 13:19:45",
+        "last_seen": "2021-11-26 05:00:34",
+        "ip_address": "104.149.153.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9e4m.cn",
+        "count": "8",
+        "first_seen": "2020-07-22 15:01:05",
+        "last_seen": "2020-08-12 14:02:25",
+        "ip_address": "107.163.141.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9e4m.cn",
+        "count": "4",
+        "first_seen": "2019-02-18 03:57:22",
+        "last_seen": "2019-02-20 17:11:36",
+        "ip_address": "122.10.74.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9e4m.cn",
+        "count": "31",
+        "first_seen": "2019-07-11 02:52:09",
+        "last_seen": "2020-06-10 14:23:28",
+        "ip_address": "175.29.251.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9e4m.cn",
+        "count": "71",
+        "first_seen": "2020-08-19 14:26:22",
+        "last_seen": "2021-01-06 16:35:04",
+        "ip_address": "192.238.170.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9e4m.cn",
+        "count": "31",
+        "first_seen": "2021-01-13 16:37:33",
+        "last_seen": "2021-06-30 13:05:48",
+        "ip_address": "192.238.170.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9e4m.cn",
+        "count": "114",
+        "first_seen": "2022-11-16 23:09:41",
+        "last_seen": "2023-08-02 17:13:37",
+        "ip_address": "206.119.78.126",
+        "type": "IPv4"
+    },
+    {
+        "domain": "9e4m.cn",
+        "count": "225",
+        "first_seen": "2023-08-04 05:34:31",
+        "last_seen": "2023-10-13 09:38:20",
+        "ip_address": "2606:4700:3032::6815:2e53",
+        "type": "IPv6"
+    },
+    {
+        "domain": "9e4m.cn",
+        "count": "225",
+        "first_seen": "2023-08-04 05:34:31",
+        "last_seen": "2023-10-13 09:38:20",
+        "ip_address": "2606:4700:3035::ac43:88fd",
+        "type": "IPv6"
+    }
+]

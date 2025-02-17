@@ -1,0 +1,114 @@
+[
+    {
+        "domain": "my-ts3card-com.huczti.top",
+        "count": "47",
+        "first_seen": "2022-05-12 07:09:42",
+        "last_seen": "2022-05-13 08:03:03",
+        "ip_address": "104.21.49.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.huczti.top",
+        "count": "47",
+        "first_seen": "2022-05-12 07:09:42",
+        "last_seen": "2022-05-13 08:03:03",
+        "ip_address": "172.67.147.72",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.huczti.top",
+        "count": "11",
+        "first_seen": "2022-05-12 11:12:28",
+        "last_seen": "2022-05-13 09:24:10",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.huczti.top",
+        "count": "11",
+        "first_seen": "2022-05-12 11:12:28",
+        "last_seen": "2022-05-13 09:24:10",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.huczti.top",
+        "count": "3",
+        "first_seen": "2022-05-12 12:25:29",
+        "last_seen": "2022-05-12 15:11:15",
+        "ip_address": "188.114.96.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.huczti.top",
+        "count": "3",
+        "first_seen": "2022-05-12 12:25:29",
+        "last_seen": "2022-05-12 15:11:15",
+        "ip_address": "188.114.97.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.huczti.top",
+        "count": "8",
+        "first_seen": "2022-05-12 08:24:08",
+        "last_seen": "2022-05-13 08:53:25",
+        "ip_address": "188.114.96.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.huczti.top",
+        "count": "8",
+        "first_seen": "2022-05-12 08:24:08",
+        "last_seen": "2022-05-13 08:53:25",
+        "ip_address": "188.114.97.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.huczti.top",
+        "count": "1",
+        "first_seen": "2022-05-12 12:37:13",
+        "last_seen": "2022-05-12 12:37:13",
+        "ip_address": "188.114.96.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.huczti.top",
+        "count": "1",
+        "first_seen": "2022-05-12 12:37:13",
+        "last_seen": "2022-05-12 12:37:13",
+        "ip_address": "188.114.97.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.huczti.top",
+        "count": "50",
+        "first_seen": "2022-05-12 07:19:36",
+        "last_seen": "2022-05-12 16:04:30",
+        "ip_address": "188.114.96.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.huczti.top",
+        "count": "50",
+        "first_seen": "2022-05-12 07:19:36",
+        "last_seen": "2022-05-12 16:04:30",
+        "ip_address": "188.114.97.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.huczti.top",
+        "count": "21",
+        "first_seen": "2022-05-12 07:19:36",
+        "last_seen": "2022-05-12 16:04:30",
+        "ip_address": "2a06:98c1:3120::19",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-ts3card-com.huczti.top",
+        "count": "21",
+        "first_seen": "2022-05-12 07:19:36",
+        "last_seen": "2022-05-12 16:04:30",
+        "ip_address": "2a06:98c1:3121::19",
+        "type": "IPv6"
+    }
+]

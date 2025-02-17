@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.lozmk.com",
+        "count": "1390",
+        "first_seen": "2021-03-03 03:02:28",
+        "last_seen": "2021-04-14 18:46:27",
+        "ip_address": "104.21.39.167",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lozmk.com",
+        "count": "1390",
+        "first_seen": "2021-03-03 03:02:28",
+        "last_seen": "2021-04-14 18:46:27",
+        "ip_address": "172.67.146.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lozmk.com",
+        "count": "1",
+        "first_seen": "2021-03-03 01:03:58",
+        "last_seen": "2021-03-03 01:03:58",
+        "ip_address": "198.144.154.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lozmk.com",
+        "count": "269",
+        "first_seen": "2021-03-03 03:02:28",
+        "last_seen": "2021-04-14 18:46:27",
+        "ip_address": "2606:4700:3033::ac43:92c6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lozmk.com",
+        "count": "269",
+        "first_seen": "2021-03-03 03:02:28",
+        "last_seen": "2021-04-14 18:46:27",
+        "ip_address": "2606:4700:3035::6815:27a7",
+        "type": "IPv6"
+    }
+]

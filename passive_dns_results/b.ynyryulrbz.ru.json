@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "b.ynyryulrbz.ru",
+        "count": "16",
+        "first_seen": "2023-12-06 13:46:30",
+        "last_seen": "2024-01-10 19:21:25",
+        "ip_address": "31.177.76.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "b.ynyryulrbz.ru",
+        "count": "16",
+        "first_seen": "2023-12-06 13:46:30",
+        "last_seen": "2024-01-10 19:21:25",
+        "ip_address": "31.177.80.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "b.ynyryulrbz.ru",
+        "count": "2180",
+        "first_seen": "2023-06-10 01:12:22",
+        "last_seen": "2023-11-25 00:34:17",
+        "ip_address": "104.21.24.158",
+        "type": "IPv4"
+    },
+    {
+        "domain": "b.ynyryulrbz.ru",
+        "count": "2180",
+        "first_seen": "2023-06-10 01:12:22",
+        "last_seen": "2023-11-25 00:34:17",
+        "ip_address": "172.67.219.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "b.ynyryulrbz.ru",
+        "count": "127",
+        "first_seen": "2023-06-10 01:12:23",
+        "last_seen": "2023-08-06 17:33:36",
+        "ip_address": "2606:4700:3034::6815:189e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "b.ynyryulrbz.ru",
+        "count": "127",
+        "first_seen": "2023-06-10 01:12:23",
+        "last_seen": "2023-08-06 17:33:36",
+        "ip_address": "2606:4700:3037::ac43:db95",
+        "type": "IPv6"
+    }
+]

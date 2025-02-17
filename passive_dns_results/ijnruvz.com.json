@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "ijnruvz.com",
+        "count": "3",
+        "first_seen": "2023-03-17 11:22:17",
+        "last_seen": "2023-03-27 11:15:56",
+        "ip_address": "34.160.73.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ijnruvz.com",
+        "count": "10",
+        "first_seen": "2023-02-22 13:30:25",
+        "last_seen": "2023-03-07 04:55:18",
+        "ip_address": "34.160.209.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ijnruvz.com",
+        "count": "71",
+        "first_seen": "2022-02-22 10:01:23",
+        "last_seen": "2023-02-12 21:14:28",
+        "ip_address": "74.206.228.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ijnruvz.com",
+        "count": "71",
+        "first_seen": "2022-02-22 10:01:23",
+        "last_seen": "2023-02-12 21:14:28",
+        "ip_address": "173.239.5.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ijnruvz.com",
+        "count": "71",
+        "first_seen": "2022-02-22 10:01:23",
+        "last_seen": "2023-02-12 21:14:28",
+        "ip_address": "173.239.8.164",
+        "type": "IPv4"
+    }
+]

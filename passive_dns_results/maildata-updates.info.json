@@ -1,0 +1,154 @@
+[
+    {
+        "domain": "maildata-updates.info",
+        "count": "10206",
+        "first_seen": "2023-05-22 13:56:12",
+        "last_seen": "2024-01-18 04:50:17",
+        "ip_address": "104.21.31.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "maildata-updates.info",
+        "count": "10206",
+        "first_seen": "2023-05-22 13:56:12",
+        "last_seen": "2024-01-18 04:50:17",
+        "ip_address": "172.67.178.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "maildata-updates.info",
+        "count": "5",
+        "first_seen": "2023-06-07 03:51:17",
+        "last_seen": "2023-06-07 10:19:56",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "maildata-updates.info",
+        "count": "29",
+        "first_seen": "2023-05-30 10:21:45",
+        "last_seen": "2024-01-13 20:24:05",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "maildata-updates.info",
+        "count": "29",
+        "first_seen": "2023-05-30 10:21:45",
+        "last_seen": "2024-01-13 20:24:05",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "maildata-updates.info",
+        "count": "137",
+        "first_seen": "2023-12-15 05:23:26",
+        "last_seen": "2023-12-18 05:40:07",
+        "ip_address": "188.114.96.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "maildata-updates.info",
+        "count": "137",
+        "first_seen": "2023-12-15 05:23:26",
+        "last_seen": "2023-12-18 05:40:07",
+        "ip_address": "188.114.97.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "maildata-updates.info",
+        "count": "9",
+        "first_seen": "2023-05-30 09:27:21",
+        "last_seen": "2023-05-30 19:31:22",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "maildata-updates.info",
+        "count": "9",
+        "first_seen": "2023-05-30 09:27:21",
+        "last_seen": "2023-05-30 19:31:22",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "maildata-updates.info",
+        "count": "162",
+        "first_seen": "2023-05-30 04:43:55",
+        "last_seen": "2024-01-17 22:22:55",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "maildata-updates.info",
+        "count": "162",
+        "first_seen": "2023-05-30 04:43:55",
+        "last_seen": "2024-01-17 22:22:55",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "maildata-updates.info",
+        "count": "7",
+        "first_seen": "2023-05-30 10:47:00",
+        "last_seen": "2023-09-21 12:33:29",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "maildata-updates.info",
+        "count": "7",
+        "first_seen": "2023-05-30 10:47:00",
+        "last_seen": "2023-09-21 12:33:29",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "maildata-updates.info",
+        "count": "2",
+        "first_seen": "2023-05-30 05:46:57",
+        "last_seen": "2023-05-30 17:11:31",
+        "ip_address": "188.114.96.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "maildata-updates.info",
+        "count": "2",
+        "first_seen": "2023-05-30 05:46:57",
+        "last_seen": "2023-05-30 17:11:31",
+        "ip_address": "188.114.97.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "maildata-updates.info",
+        "count": "30",
+        "first_seen": "2023-05-22 13:56:12",
+        "last_seen": "2024-01-13 20:22:06",
+        "ip_address": "2606:4700:3034::ac43:b2f2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "maildata-updates.info",
+        "count": "30",
+        "first_seen": "2023-05-22 13:56:12",
+        "last_seen": "2024-01-13 20:22:06",
+        "ip_address": "2606:4700:3036::6815:1fb4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "maildata-updates.info",
+        "count": "28",
+        "first_seen": "2023-05-30 07:20:28",
+        "last_seen": "2023-10-28 12:59:02",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "maildata-updates.info",
+        "count": "28",
+        "first_seen": "2023-05-30 07:20:28",
+        "last_seen": "2023-10-28 12:59:02",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    }
+]

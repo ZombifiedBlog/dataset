@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.automotive.wiki",
+        "count": "4337",
+        "first_seen": "2018-01-16 09:32:45",
+        "last_seen": "2024-01-18 09:25:51",
+        "ip_address": "82.165.70.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.automotive.wiki",
+        "count": "182",
+        "first_seen": "2016-05-08 23:19:34",
+        "last_seen": "2017-12-03 23:37:58",
+        "ip_address": "82.165.149.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.automotive.wiki",
+        "count": "84",
+        "first_seen": "2016-06-23 07:21:16",
+        "last_seen": "2017-11-25 05:10:49",
+        "ip_address": "2001:8d8:100f:f000::2e8",
+        "type": "IPv6"
+    }
+]

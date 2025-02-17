@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.chenmeixin.top",
+        "count": "3",
+        "first_seen": "2023-06-05 19:34:47",
+        "last_seen": "2023-06-06 04:17:13",
+        "ip_address": "49.51.77.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chenmeixin.top",
+        "count": "4",
+        "first_seen": "2023-07-01 14:42:23",
+        "last_seen": "2023-07-02 15:07:19",
+        "ip_address": "49.51.79.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chenmeixin.top",
+        "count": "4905",
+        "first_seen": "2023-02-02 19:09:41",
+        "last_seen": "2023-04-25 02:36:43",
+        "ip_address": "104.21.7.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chenmeixin.top",
+        "count": "4905",
+        "first_seen": "2023-02-02 19:09:41",
+        "last_seen": "2023-04-25 02:36:43",
+        "ip_address": "172.67.135.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.chenmeixin.top",
+        "count": "195",
+        "first_seen": "2023-02-02 22:18:00",
+        "last_seen": "2023-04-24 20:11:24",
+        "ip_address": "2606:4700:3035::6815:74d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.chenmeixin.top",
+        "count": "195",
+        "first_seen": "2023-02-02 22:18:00",
+        "last_seen": "2023-04-24 20:11:24",
+        "ip_address": "2606:4700:3036::ac43:87cf",
+        "type": "IPv6"
+    }
+]

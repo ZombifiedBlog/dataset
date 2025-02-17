@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "bk.mufg.syssailing.com",
+        "count": "550",
+        "first_seen": "2023-07-27 10:11:28",
+        "last_seen": "2023-09-02 07:51:09",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bk.mufg.syssailing.com",
+        "count": "3",
+        "first_seen": "2023-12-03 01:16:08",
+        "last_seen": "2024-01-03 12:15:47",
+        "ip_address": "63.141.242.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bk.mufg.syssailing.com",
+        "count": "2",
+        "first_seen": "2023-12-18 16:17:17",
+        "last_seen": "2023-12-18 16:17:17",
+        "ip_address": "81.17.18.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bk.mufg.syssailing.com",
+        "count": "1850",
+        "first_seen": "2023-07-13 21:28:16",
+        "last_seen": "2023-07-27 09:29:09",
+        "ip_address": "96.45.169.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bk.mufg.syssailing.com",
+        "count": "35",
+        "first_seen": "2023-10-26 23:18:30",
+        "last_seen": "2023-10-30 17:42:53",
+        "ip_address": "199.59.243.225",
+        "type": "IPv4"
+    }
+]

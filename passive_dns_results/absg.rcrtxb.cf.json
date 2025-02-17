@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "absg.rcrtxb.cf",
+        "count": "103",
+        "first_seen": "2018-11-23 10:36:13",
+        "last_seen": "2018-11-23 11:15:02",
+        "ip_address": "45.33.47.171",
+        "type": "IPv4"
+    },
+    {
+        "domain": "absg.rcrtxb.cf",
+        "count": "722",
+        "first_seen": "2018-11-23 11:18:47",
+        "last_seen": "2019-02-14 15:11:19",
+        "ip_address": "47.254.64.232",
+        "type": "IPv4"
+    },
+    {
+        "domain": "absg.rcrtxb.cf",
+        "count": "2",
+        "first_seen": "2019-02-27 16:44:15",
+        "last_seen": "2019-02-27 16:44:15",
+        "ip_address": "141.8.224.221",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "domain": "bejuy.com",
+        "count": "15",
+        "first_seen": "2023-01-02 14:57:10",
+        "last_seen": "2023-02-05 08:45:44",
+        "ip_address": "34.120.145.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bejuy.com",
+        "count": "26",
+        "first_seen": "2021-06-30 22:10:59",
+        "last_seen": "2021-09-29 06:27:13",
+        "ip_address": "74.206.228.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bejuy.com",
+        "count": "26",
+        "first_seen": "2021-06-30 22:10:59",
+        "last_seen": "2021-09-29 06:27:13",
+        "ip_address": "173.239.5.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bejuy.com",
+        "count": "26",
+        "first_seen": "2021-06-30 22:10:59",
+        "last_seen": "2021-09-29 06:27:13",
+        "ip_address": "173.239.8.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bejuy.com",
+        "count": "540",
+        "first_seen": "2018-11-15 14:17:55",
+        "last_seen": "2019-01-08 20:34:04",
+        "ip_address": "91.195.240.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bejuy.com",
+        "count": "28",
+        "first_seen": "2021-10-02 19:51:01",
+        "last_seen": "2021-11-10 23:33:08",
+        "ip_address": "91.195.240.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bejuy.com",
+        "count": "10",
+        "first_seen": "2021-12-28 23:21:51",
+        "last_seen": "2022-01-21 09:26:18",
+        "ip_address": "104.21.13.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bejuy.com",
+        "count": "10",
+        "first_seen": "2021-12-28 23:21:51",
+        "last_seen": "2022-01-21 09:26:18",
+        "ip_address": "172.67.198.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bejuy.com",
+        "count": "455",
+        "first_seen": "2022-01-22 14:23:08",
+        "last_seen": "2022-12-29 23:16:57",
+        "ip_address": "162.0.209.130",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bejuy.com",
+        "count": "1127",
+        "first_seen": "2020-05-05 08:22:18",
+        "last_seen": "2020-06-16 14:33:00",
+        "ip_address": "173.239.5.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bejuy.com",
+        "count": "1127",
+        "first_seen": "2020-05-05 08:22:18",
+        "last_seen": "2020-06-16 14:33:00",
+        "ip_address": "173.239.8.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bejuy.com",
+        "count": "6442",
+        "first_seen": "2019-01-08 22:07:48",
+        "last_seen": "2021-06-30 01:51:47",
+        "ip_address": "173.239.5.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bejuy.com",
+        "count": "6442",
+        "first_seen": "2019-01-08 22:07:48",
+        "last_seen": "2021-06-30 01:51:47",
+        "ip_address": "173.239.8.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bejuy.com",
+        "count": "6442",
+        "first_seen": "2019-01-08 22:07:48",
+        "last_seen": "2021-06-30 01:51:47",
+        "ip_address": "213.247.47.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bejuy.com",
+        "count": "1",
+        "first_seen": "2019-07-15 03:56:52",
+        "last_seen": "2019-07-15 03:56:52",
+        "ip_address": "173.239.8.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bejuy.com",
+        "count": "2",
+        "first_seen": "2019-07-15 03:56:52",
+        "last_seen": "2019-07-15 05:29:56",
+        "ip_address": "213.247.47.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bejuy.com",
+        "count": "5",
+        "first_seen": "2021-12-28 23:21:52",
+        "last_seen": "2022-01-21 09:26:18",
+        "ip_address": "2606:4700:3031::6815:d4d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "bejuy.com",
+        "count": "5",
+        "first_seen": "2021-12-28 23:21:52",
+        "last_seen": "2022-01-21 09:26:18",
+        "ip_address": "2606:4700:3036::ac43:c6cf",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.kensyo-dou.com",
+        "count": "8",
+        "first_seen": "2022-09-07 11:40:53",
+        "last_seen": "2022-09-17 12:37:17",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kensyo-dou.com",
+        "count": "4552",
+        "first_seen": "2022-06-07 17:30:23",
+        "last_seen": "2022-08-05 08:15:27",
+        "ip_address": "104.21.8.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kensyo-dou.com",
+        "count": "4552",
+        "first_seen": "2022-06-07 17:30:23",
+        "last_seen": "2022-08-05 08:15:27",
+        "ip_address": "172.67.158.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kensyo-dou.com",
+        "count": "108",
+        "first_seen": "2022-06-07 20:40:22",
+        "last_seen": "2022-08-05 09:16:23",
+        "ip_address": "2606:4700:3030::ac43:9e20",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.kensyo-dou.com",
+        "count": "108",
+        "first_seen": "2022-06-07 20:40:22",
+        "last_seen": "2022-08-05 09:16:23",
+        "ip_address": "2606:4700:3034::6815:8f0",
+        "type": "IPv6"
+    }
+]

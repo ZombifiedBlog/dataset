@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.cr-mufg.top",
+        "count": "51",
+        "first_seen": "2021-03-02 19:07:02",
+        "last_seen": "2021-03-03 07:27:59",
+        "ip_address": "23.95.233.186",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cr-mufg.top",
+        "count": "189",
+        "first_seen": "2023-02-10 07:16:58",
+        "last_seen": "2023-02-13 07:21:11",
+        "ip_address": "23.224.171.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cr-mufg.top",
+        "count": "4",
+        "first_seen": "2017-04-23 13:27:20",
+        "last_seen": "2017-04-24 07:01:10",
+        "ip_address": "118.193.196.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cr-mufg.top",
+        "count": "10",
+        "first_seen": "2017-10-20 08:26:04",
+        "last_seen": "2018-02-21 09:00:20",
+        "ip_address": "207.250.29.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.cr-mufg.top",
+        "count": "9",
+        "first_seen": "2017-12-02 08:24:08",
+        "last_seen": "2018-04-21 09:40:59",
+        "ip_address": "207.250.29.221",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "www.bgnnw.com",
+        "count": "2",
+        "first_seen": "2023-12-03 09:04:37",
+        "last_seen": "2023-12-18 15:18:07",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bgnnw.com",
+        "count": "26",
+        "first_seen": "2017-10-17 04:53:02",
+        "last_seen": "2018-04-17 11:55:28",
+        "ip_address": "103.56.103.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bgnnw.com",
+        "count": "4",
+        "first_seen": "2022-06-27 02:48:38",
+        "last_seen": "2022-08-03 18:12:22",
+        "ip_address": "103.112.187.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bgnnw.com",
+        "count": "40",
+        "first_seen": "2023-10-05 17:42:11",
+        "last_seen": "2024-01-11 09:36:02",
+        "ip_address": "103.224.212.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bgnnw.com",
+        "count": "579",
+        "first_seen": "2023-05-14 23:18:45",
+        "last_seen": "2023-09-27 19:30:55",
+        "ip_address": "103.224.212.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bgnnw.com",
+        "count": "57",
+        "first_seen": "2019-01-18 04:36:24",
+        "last_seen": "2019-09-14 09:15:53",
+        "ip_address": "154.88.121.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bgnnw.com",
+        "count": "1353",
+        "first_seen": "2023-03-02 20:09:50",
+        "last_seen": "2023-04-08 07:53:03",
+        "ip_address": "155.94.201.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bgnnw.com",
+        "count": "4",
+        "first_seen": "2022-10-21 18:56:32",
+        "last_seen": "2023-01-09 17:13:03",
+        "ip_address": "156.241.146.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bgnnw.com",
+        "count": "3",
+        "first_seen": "2023-06-14 19:34:46",
+        "last_seen": "2023-06-14 19:34:53",
+        "ip_address": "199.59.243.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bgnnw.com",
+        "count": "6",
+        "first_seen": "2023-02-12 05:59:29",
+        "last_seen": "2023-03-02 17:12:17",
+        "ip_address": "202.79.174.58",
+        "type": "IPv4"
+    }
+]

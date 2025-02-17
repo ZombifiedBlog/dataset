@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazon-mi.buzz",
+        "count": "1",
+        "first_seen": "2022-06-02 10:24:27",
+        "last_seen": "2022-06-02 10:24:27",
+        "ip_address": "72.52.179.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-mi.buzz",
+        "count": "136",
+        "first_seen": "2020-12-23 16:05:51",
+        "last_seen": "2020-12-25 12:16:41",
+        "ip_address": "96.43.92.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-mi.buzz",
+        "count": "42",
+        "first_seen": "2021-05-24 03:10:27",
+        "last_seen": "2022-05-08 21:44:07",
+        "ip_address": "154.30.195.111",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "www.greadedu.com",
+        "count": "2",
+        "first_seen": "2017-04-16 19:32:12",
+        "last_seen": "2017-04-16 19:32:12",
+        "ip_address": "50.117.113.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greadedu.com",
+        "count": "52",
+        "first_seen": "2022-11-12 16:54:00",
+        "last_seen": "2022-12-01 09:32:04",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greadedu.com",
+        "count": "57",
+        "first_seen": "2020-09-01 19:48:53",
+        "last_seen": "2021-08-22 17:47:12",
+        "ip_address": "104.28.10.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greadedu.com",
+        "count": "4457",
+        "first_seen": "2022-09-17 16:30:02",
+        "last_seen": "2022-11-12 15:53:22",
+        "ip_address": "104.129.5.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greadedu.com",
+        "count": "13",
+        "first_seen": "2016-07-05 11:28:01",
+        "last_seen": "2016-08-01 13:35:47",
+        "ip_address": "119.10.59.179",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greadedu.com",
+        "count": "9",
+        "first_seen": "2017-06-22 08:15:26",
+        "last_seen": "2017-08-20 10:43:57",
+        "ip_address": "122.114.187.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greadedu.com",
+        "count": "75",
+        "first_seen": "2021-11-24 12:46:13",
+        "last_seen": "2022-07-15 01:43:19",
+        "ip_address": "154.31.165.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greadedu.com",
+        "count": "7",
+        "first_seen": "2022-08-04 13:20:11",
+        "last_seen": "2022-09-13 01:02:40",
+        "ip_address": "154.38.199.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.greadedu.com",
+        "count": "125",
+        "first_seen": "2017-10-14 11:56:21",
+        "last_seen": "2020-06-01 23:39:07",
+        "ip_address": "211.149.168.174",
+        "type": "IPv4"
+    }
+]

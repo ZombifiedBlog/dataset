@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www2.ncroaeci.com",
+        "count": "530",
+        "first_seen": "2021-10-01 01:31:07",
+        "last_seen": "2022-09-05 09:05:41",
+        "ip_address": "167.99.148.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.ncroaeci.com",
+        "count": "23",
+        "first_seen": "2022-09-30 22:08:31",
+        "last_seen": "2022-11-04 00:58:13",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www2.ncroaeci.com",
+        "count": "4",
+        "first_seen": "2022-10-03 12:16:55",
+        "last_seen": "2022-10-23 02:34:19",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.dlrect-smtb.jp.ap1.ib.aiwebnetwork.com",
+        "count": "10",
+        "first_seen": "2023-04-15 03:06:11",
+        "last_seen": "2023-04-15 12:06:01",
+        "ip_address": "107.148.145.161",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dlrect-smtb.jp.ap1.ib.aiwebnetwork.com",
+        "count": "9",
+        "first_seen": "2023-04-01 18:00:46",
+        "last_seen": "2023-04-02 09:51:04",
+        "ip_address": "107.150.4.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dlrect-smtb.jp.ap1.ib.aiwebnetwork.com",
+        "count": "2299",
+        "first_seen": "2023-04-15 14:35:35",
+        "last_seen": "2023-07-19 03:07:42",
+        "ip_address": "206.238.220.45",
+        "type": "IPv4"
+    }
+]

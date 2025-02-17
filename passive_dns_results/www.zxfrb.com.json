@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.zxfrb.com",
+        "count": "2",
+        "first_seen": "2017-02-13 00:08:49",
+        "last_seen": "2017-02-13 00:08:49",
+        "ip_address": "47.89.58.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zxfrb.com",
+        "count": "32",
+        "first_seen": "2022-04-16 01:36:46",
+        "last_seen": "2022-07-15 23:18:09",
+        "ip_address": "104.21.91.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zxfrb.com",
+        "count": "32",
+        "first_seen": "2022-04-16 01:36:46",
+        "last_seen": "2022-07-15 23:18:09",
+        "ip_address": "172.67.217.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zxfrb.com",
+        "count": "34",
+        "first_seen": "2017-06-24 17:41:32",
+        "last_seen": "2018-06-11 07:25:35",
+        "ip_address": "172.80.95.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zxfrb.com",
+        "count": "848",
+        "first_seen": "2021-08-01 09:16:44",
+        "last_seen": "2022-04-09 00:49:39",
+        "ip_address": "198.144.149.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zxfrb.com",
+        "count": "7",
+        "first_seen": "2018-06-28 07:44:41",
+        "last_seen": "2018-07-25 11:26:31",
+        "ip_address": "209.99.40.221",
+        "type": "IPv4"
+    }
+]

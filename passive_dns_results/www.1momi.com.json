@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.1momi.com",
+        "count": "179",
+        "first_seen": "2012-06-16 01:31:27",
+        "last_seen": "2021-01-19 16:01:56",
+        "ip_address": "112.140.51.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.1momi.com",
+        "count": "1",
+        "first_seen": "2021-02-13 06:28:36",
+        "last_seen": "2021-02-13 06:28:36",
+        "ip_address": "112.140.51.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.1momi.com",
+        "count": "41",
+        "first_seen": "2010-08-22 02:41:21",
+        "last_seen": "2012-06-03 15:49:33",
+        "ip_address": "211.9.59.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.1momi.com",
+        "count": "162",
+        "first_seen": "2021-06-13 04:19:23",
+        "last_seen": "2024-01-17 20:59:31",
+        "ip_address": "211.14.17.230",
+        "type": "IPv4"
+    }
+]

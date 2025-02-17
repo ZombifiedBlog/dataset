@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "zingmi.com",
+        "count": "6915",
+        "first_seen": "2014-07-22 02:05:17",
+        "last_seen": "2017-05-12 06:56:33",
+        "ip_address": "203.175.162.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zingmi.com",
+        "count": "5560",
+        "first_seen": "2017-05-15 14:21:49",
+        "last_seen": "2019-03-15 18:31:21",
+        "ip_address": "203.175.162.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zingmi.com",
+        "count": "340",
+        "first_seen": "2013-03-07 10:20:31",
+        "last_seen": "2014-07-19 20:35:45",
+        "ip_address": "203.175.162.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zingmi.com",
+        "count": "16188",
+        "first_seen": "2019-10-31 01:05:07",
+        "last_seen": "2024-01-18 11:35:28",
+        "ip_address": "203.175.162.79",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zingmi.com",
+        "count": "539",
+        "first_seen": "2019-03-16 14:50:37",
+        "last_seen": "2019-10-28 22:52:08",
+        "ip_address": "203.175.162.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zingmi.com",
+        "count": "7",
+        "first_seen": "2010-12-09 13:21:37",
+        "last_seen": "2011-09-06 23:33:50",
+        "ip_address": "209.62.21.215",
+        "type": "IPv4"
+    }
+]

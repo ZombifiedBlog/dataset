@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "www.sandboxadvisors.com",
+        "count": "502",
+        "first_seen": "2022-07-21 07:57:53",
+        "last_seen": "2022-07-29 21:34:29",
+        "ip_address": "23.236.62.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.sandboxadvisors.com",
+        "count": "87",
+        "first_seen": "2022-07-05 19:30:42",
+        "last_seen": "2022-07-21 04:20:02",
+        "ip_address": "162.159.134.42",
+        "type": "IPv4"
+    }
+]

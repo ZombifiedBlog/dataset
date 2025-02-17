@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "gregmiranda.com",
+        "count": "1",
+        "first_seen": "2014-05-22 19:03:52",
+        "last_seen": "2014-05-22 19:03:52",
+        "ip_address": "50.87.144.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gregmiranda.com",
+        "count": "11119",
+        "first_seen": "2015-07-27 04:23:48",
+        "last_seen": "2022-04-08 06:38:42",
+        "ip_address": "67.227.187.156",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gregmiranda.com",
+        "count": "127",
+        "first_seen": "2015-01-07 14:55:52",
+        "last_seen": "2015-07-22 01:15:02",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gregmiranda.com",
+        "count": "127",
+        "first_seen": "2015-01-07 14:55:52",
+        "last_seen": "2015-07-22 01:15:02",
+        "ip_address": "192.64.179.131",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gregmiranda.com",
+        "count": "803",
+        "first_seen": "2023-01-18 09:39:19",
+        "last_seen": "2024-01-18 04:53:50",
+        "ip_address": "160.153.0.171",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gregmiranda.com",
+        "count": "615",
+        "first_seen": "2022-04-08 04:59:19",
+        "last_seen": "2023-07-25 06:09:02",
+        "ip_address": "198.71.233.70",
+        "type": "IPv4"
+    }
+]

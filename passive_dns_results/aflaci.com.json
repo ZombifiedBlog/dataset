@@ -1,0 +1,122 @@
+[
+    {
+        "domain": "aflaci.com",
+        "count": "11",
+        "first_seen": "2017-12-06 09:13:37",
+        "last_seen": "2018-01-10 15:07:56",
+        "ip_address": "69.64.147.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "aflaci.com",
+        "count": "77",
+        "first_seen": "2017-01-21 13:43:51",
+        "last_seen": "2017-08-04 18:22:42",
+        "ip_address": "104.24.20.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "aflaci.com",
+        "count": "77",
+        "first_seen": "2017-01-21 13:43:51",
+        "last_seen": "2017-08-04 18:22:42",
+        "ip_address": "104.24.21.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "aflaci.com",
+        "count": "4",
+        "first_seen": "2016-12-19 23:58:19",
+        "last_seen": "2017-01-14 15:39:45",
+        "ip_address": "104.25.209.68",
+        "type": "IPv4"
+    },
+    {
+        "domain": "aflaci.com",
+        "count": "4",
+        "first_seen": "2016-12-19 23:58:19",
+        "last_seen": "2017-01-14 15:39:45",
+        "ip_address": "104.25.210.68",
+        "type": "IPv4"
+    },
+    {
+        "domain": "aflaci.com",
+        "count": "10",
+        "first_seen": "2016-12-02 14:18:18",
+        "last_seen": "2016-12-18 17:59:13",
+        "ip_address": "104.27.182.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "aflaci.com",
+        "count": "10",
+        "first_seen": "2016-12-02 14:18:18",
+        "last_seen": "2016-12-18 17:59:13",
+        "ip_address": "104.27.183.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "aflaci.com",
+        "count": "31",
+        "first_seen": "2022-12-17 01:02:10",
+        "last_seen": "2023-01-05 03:05:41",
+        "ip_address": "170.106.49.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "aflaci.com",
+        "count": "629",
+        "first_seen": "2021-12-10 18:34:41",
+        "last_seen": "2022-11-30 15:13:42",
+        "ip_address": "216.224.120.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "aflaci.com",
+        "count": "14",
+        "first_seen": "2017-01-27 12:47:30",
+        "last_seen": "2017-08-04 18:22:42",
+        "ip_address": "2400:cb00:2048:1::6818:1424",
+        "type": "IPv6"
+    },
+    {
+        "domain": "aflaci.com",
+        "count": "14",
+        "first_seen": "2017-01-27 12:47:30",
+        "last_seen": "2017-08-04 18:22:42",
+        "ip_address": "2400:cb00:2048:1::6818:1524",
+        "type": "IPv6"
+    },
+    {
+        "domain": "aflaci.com",
+        "count": "2",
+        "first_seen": "2016-12-29 17:22:41",
+        "last_seen": "2016-12-29 17:22:41",
+        "ip_address": "2400:cb00:2048:1::6819:d144",
+        "type": "IPv6"
+    },
+    {
+        "domain": "aflaci.com",
+        "count": "2",
+        "first_seen": "2016-12-29 17:22:41",
+        "last_seen": "2016-12-29 17:22:41",
+        "ip_address": "2400:cb00:2048:1::6819:d244",
+        "type": "IPv6"
+    },
+    {
+        "domain": "aflaci.com",
+        "count": "6",
+        "first_seen": "2016-12-02 14:18:18",
+        "last_seen": "2016-12-15 18:29:45",
+        "ip_address": "2400:cb00:2048:1::681b:b6d6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "aflaci.com",
+        "count": "6",
+        "first_seen": "2016-12-02 14:18:18",
+        "last_seen": "2016-12-15 18:29:45",
+        "ip_address": "2400:cb00:2048:1::681b:b7d6",
+        "type": "IPv6"
+    }
+]

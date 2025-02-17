@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.pillarboxblue.com",
+        "count": "41195",
+        "first_seen": "2015-07-25 13:54:58",
+        "last_seen": "2016-06-01 08:17:34",
+        "ip_address": "45.33.24.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.pillarboxblue.com",
+        "count": "103",
+        "first_seen": "2016-03-01 06:10:58",
+        "last_seen": "2016-03-01 20:22:06",
+        "ip_address": "82.165.33.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.pillarboxblue.com",
+        "count": "22471",
+        "first_seen": "2016-06-01 08:36:18",
+        "last_seen": "2016-07-23 22:26:34",
+        "ip_address": "104.239.150.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.pillarboxblue.com",
+        "count": "2931",
+        "first_seen": "2015-02-09 08:15:46",
+        "last_seen": "2015-07-25 12:33:22",
+        "ip_address": "185.43.78.169",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.pillarboxblue.com",
+        "count": "26",
+        "first_seen": "2016-03-01 05:20:17",
+        "last_seen": "2016-03-01 19:58:00",
+        "ip_address": "2001:8d8:1001:532d:dc02:2ecc:8262:4008",
+        "type": "IPv6"
+    }
+]

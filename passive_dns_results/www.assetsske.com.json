@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "www.assetsske.com",
+        "count": "34",
+        "first_seen": "2021-12-28 05:12:30",
+        "last_seen": "2022-08-05 06:27:39",
+        "ip_address": "50.3.244.41",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.assetsske.com",
+        "count": "2",
+        "first_seen": "2021-01-22 16:16:32",
+        "last_seen": "2021-05-18 06:10:38",
+        "ip_address": "104.21.63.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.assetsske.com",
+        "count": "2",
+        "first_seen": "2021-01-22 16:16:32",
+        "last_seen": "2021-05-18 06:10:38",
+        "ip_address": "172.67.171.181",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.assetsske.com",
+        "count": "862",
+        "first_seen": "2020-06-17 16:02:08",
+        "last_seen": "2020-11-27 23:18:30",
+        "ip_address": "104.27.136.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.assetsske.com",
+        "count": "862",
+        "first_seen": "2020-06-17 16:02:08",
+        "last_seen": "2020-11-27 23:18:30",
+        "ip_address": "104.27.137.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.assetsske.com",
+        "count": "862",
+        "first_seen": "2020-06-17 16:02:08",
+        "last_seen": "2020-11-27 23:18:30",
+        "ip_address": "172.67.171.181",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.assetsske.com",
+        "count": "288",
+        "first_seen": "2023-03-11 13:14:44",
+        "last_seen": "2023-03-13 09:09:02",
+        "ip_address": "162.245.189.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.assetsske.com",
+        "count": "543",
+        "first_seen": "2020-06-17 02:38:06",
+        "last_seen": "2020-11-27 23:18:30",
+        "ip_address": "2606:4700:3031::ac43:abb5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.assetsske.com",
+        "count": "543",
+        "first_seen": "2020-06-17 02:38:06",
+        "last_seen": "2020-11-27 23:18:30",
+        "ip_address": "2606:4700:3037::681b:88cc",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.assetsske.com",
+        "count": "543",
+        "first_seen": "2020-06-17 02:38:06",
+        "last_seen": "2020-11-27 23:18:30",
+        "ip_address": "2606:4700:3037::681b:89cc",
+        "type": "IPv6"
+    }
+]

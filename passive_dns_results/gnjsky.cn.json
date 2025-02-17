@@ -1,0 +1,178 @@
+[
+    {
+        "domain": "gnjsky.cn",
+        "count": "3269",
+        "first_seen": "2022-07-02 08:55:13",
+        "last_seen": "2022-10-30 03:28:07",
+        "ip_address": "45.152.218.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gnjsky.cn",
+        "count": "907",
+        "first_seen": "2022-10-30 05:58:38",
+        "last_seen": "2022-11-29 10:42:38",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gnjsky.cn",
+        "count": "1510",
+        "first_seen": "2022-05-16 10:28:33",
+        "last_seen": "2022-06-12 14:38:51",
+        "ip_address": "104.21.18.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gnjsky.cn",
+        "count": "1510",
+        "first_seen": "2022-05-16 10:28:33",
+        "last_seen": "2022-06-12 14:38:51",
+        "ip_address": "172.67.181.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gnjsky.cn",
+        "count": "402",
+        "first_seen": "2022-05-08 10:32:17",
+        "last_seen": "2022-05-11 10:47:44",
+        "ip_address": "106.75.75.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gnjsky.cn",
+        "count": "80",
+        "first_seen": "2022-06-12 15:48:52",
+        "last_seen": "2022-06-13 13:00:52",
+        "ip_address": "134.122.253.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gnjsky.cn",
+        "count": "448",
+        "first_seen": "2022-05-16 13:07:06",
+        "last_seen": "2022-05-27 09:17:39",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gnjsky.cn",
+        "count": "448",
+        "first_seen": "2022-05-16 13:07:06",
+        "last_seen": "2022-05-27 09:17:39",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gnjsky.cn",
+        "count": "112",
+        "first_seen": "2022-05-26 00:25:17",
+        "last_seen": "2022-05-26 05:05:22",
+        "ip_address": "188.114.96.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gnjsky.cn",
+        "count": "112",
+        "first_seen": "2022-05-26 00:25:17",
+        "last_seen": "2022-05-26 05:05:22",
+        "ip_address": "188.114.97.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gnjsky.cn",
+        "count": "10",
+        "first_seen": "2022-05-19 16:58:13",
+        "last_seen": "2022-05-26 14:01:27",
+        "ip_address": "188.114.96.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gnjsky.cn",
+        "count": "10",
+        "first_seen": "2022-05-19 16:58:13",
+        "last_seen": "2022-05-26 14:01:27",
+        "ip_address": "188.114.97.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gnjsky.cn",
+        "count": "352",
+        "first_seen": "2022-05-16 12:39:23",
+        "last_seen": "2022-05-26 21:06:58",
+        "ip_address": "188.114.96.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gnjsky.cn",
+        "count": "352",
+        "first_seen": "2022-05-16 12:39:23",
+        "last_seen": "2022-05-26 21:06:58",
+        "ip_address": "188.114.97.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gnjsky.cn",
+        "count": "1",
+        "first_seen": "2022-05-16 15:52:26",
+        "last_seen": "2022-05-16 15:52:26",
+        "ip_address": "188.114.96.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gnjsky.cn",
+        "count": "1",
+        "first_seen": "2022-05-16 15:52:26",
+        "last_seen": "2022-05-16 15:52:26",
+        "ip_address": "188.114.97.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gnjsky.cn",
+        "count": "302",
+        "first_seen": "2022-05-19 15:37:08",
+        "last_seen": "2022-05-26 15:50:02",
+        "ip_address": "188.114.96.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gnjsky.cn",
+        "count": "302",
+        "first_seen": "2022-05-19 15:37:08",
+        "last_seen": "2022-05-26 15:50:02",
+        "ip_address": "188.114.97.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "gnjsky.cn",
+        "count": "9",
+        "first_seen": "2022-05-16 10:31:27",
+        "last_seen": "2022-05-26 06:02:45",
+        "ip_address": "2606:4700:3032::ac43:b5cf",
+        "type": "IPv6"
+    },
+    {
+        "domain": "gnjsky.cn",
+        "count": "9",
+        "first_seen": "2022-05-16 10:31:27",
+        "last_seen": "2022-05-26 06:02:45",
+        "ip_address": "2606:4700:3037::6815:1278",
+        "type": "IPv6"
+    },
+    {
+        "domain": "gnjsky.cn",
+        "count": "124",
+        "first_seen": "2022-05-19 15:37:10",
+        "last_seen": "2022-05-26 15:50:02",
+        "ip_address": "2a06:98c1:3120::19",
+        "type": "IPv6"
+    },
+    {
+        "domain": "gnjsky.cn",
+        "count": "124",
+        "first_seen": "2022-05-19 15:37:10",
+        "last_seen": "2022-05-26 15:50:02",
+        "ip_address": "2a06:98c1:3121::19",
+        "type": "IPv6"
+    }
+]

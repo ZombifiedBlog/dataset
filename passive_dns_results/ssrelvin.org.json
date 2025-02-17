@@ -1,0 +1,114 @@
+[
+    {
+        "domain": "ssrelvin.org",
+        "count": "1",
+        "first_seen": "2021-07-04 10:30:47",
+        "last_seen": "2021-07-04 10:30:47",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ssrelvin.org",
+        "count": "1",
+        "first_seen": "2021-03-04 23:45:48",
+        "last_seen": "2021-03-04 23:45:48",
+        "ip_address": "104.21.1.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ssrelvin.org",
+        "count": "1",
+        "first_seen": "2021-03-04 23:45:48",
+        "last_seen": "2021-03-04 23:45:48",
+        "ip_address": "172.67.128.241",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ssrelvin.org",
+        "count": "89",
+        "first_seen": "2020-06-17 10:31:15",
+        "last_seen": "2020-12-08 10:38:35",
+        "ip_address": "104.28.28.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ssrelvin.org",
+        "count": "89",
+        "first_seen": "2020-06-17 10:31:15",
+        "last_seen": "2020-12-08 10:38:35",
+        "ip_address": "104.28.29.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ssrelvin.org",
+        "count": "89",
+        "first_seen": "2020-06-17 10:31:15",
+        "last_seen": "2020-12-08 10:38:35",
+        "ip_address": "172.67.128.241",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ssrelvin.org",
+        "count": "2",
+        "first_seen": "2020-08-25 05:29:03",
+        "last_seen": "2020-08-25 05:29:03",
+        "ip_address": "172.64.84.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ssrelvin.org",
+        "count": "2",
+        "first_seen": "2020-08-20 01:04:25",
+        "last_seen": "2020-08-20 01:04:25",
+        "ip_address": "2606:4700:130:9a06:bf80:4de0:5519:2b3c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ssrelvin.org",
+        "count": "2",
+        "first_seen": "2020-08-25 05:29:04",
+        "last_seen": "2020-08-25 05:29:04",
+        "ip_address": "2606:4700:13b:b333:86d2:b1d5:a1df:8e72",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ssrelvin.org",
+        "count": "2",
+        "first_seen": "2021-05-17 18:40:51",
+        "last_seen": "2021-05-18 08:15:47",
+        "ip_address": "2606:4700:3030::6815:157",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ssrelvin.org",
+        "count": "2",
+        "first_seen": "2021-05-17 18:40:51",
+        "last_seen": "2021-05-18 08:15:47",
+        "ip_address": "2606:4700:3036::ac43:80f1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ssrelvin.org",
+        "count": "34",
+        "first_seen": "2020-06-17 23:02:43",
+        "last_seen": "2020-08-27 00:38:57",
+        "ip_address": "2606:4700:3032::681c:1d11",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ssrelvin.org",
+        "count": "34",
+        "first_seen": "2020-06-17 23:02:43",
+        "last_seen": "2020-08-27 00:38:57",
+        "ip_address": "2606:4700:3035::681c:1c11",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ssrelvin.org",
+        "count": "34",
+        "first_seen": "2020-06-17 23:02:43",
+        "last_seen": "2020-08-27 00:38:57",
+        "ip_address": "2606:4700:3036::ac43:80f1",
+        "type": "IPv6"
+    }
+]

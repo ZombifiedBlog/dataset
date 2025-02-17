@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "www.amarracaodeamor.org",
+        "count": "3",
+        "first_seen": "2024-01-15 12:56:06",
+        "last_seen": "2024-01-15 12:56:06",
+        "ip_address": "15.197.172.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amarracaodeamor.org",
+        "count": "1",
+        "first_seen": "2023-01-21 09:46:53",
+        "last_seen": "2023-01-21 09:46:53",
+        "ip_address": "34.160.209.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amarracaodeamor.org",
+        "count": "4",
+        "first_seen": "2020-01-18 02:47:20",
+        "last_seen": "2021-01-16 20:04:51",
+        "ip_address": "91.195.240.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amarracaodeamor.org",
+        "count": "578",
+        "first_seen": "2018-05-27 23:05:21",
+        "last_seen": "2019-10-16 04:44:56",
+        "ip_address": "104.24.112.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amarracaodeamor.org",
+        "count": "578",
+        "first_seen": "2018-05-27 23:05:21",
+        "last_seen": "2019-10-16 04:44:56",
+        "ip_address": "104.24.113.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amarracaodeamor.org",
+        "count": "84",
+        "first_seen": "2018-05-27 23:05:22",
+        "last_seen": "2018-09-24 18:44:51",
+        "ip_address": "2400:cb00:2048:1::6818:706b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.amarracaodeamor.org",
+        "count": "84",
+        "first_seen": "2018-05-27 23:05:22",
+        "last_seen": "2018-09-24 18:44:51",
+        "ip_address": "2400:cb00:2048:1::6818:716b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.amarracaodeamor.org",
+        "count": "196",
+        "first_seen": "2018-09-26 15:58:26",
+        "last_seen": "2019-10-06 22:44:23",
+        "ip_address": "2606:4700:30::6818:706b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.amarracaodeamor.org",
+        "count": "196",
+        "first_seen": "2018-09-26 15:58:26",
+        "last_seen": "2019-10-06 22:44:23",
+        "ip_address": "2606:4700:30::6818:716b",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "url-x.it",
+        "count": "21654",
+        "first_seen": "2020-08-28 10:14:39",
+        "last_seen": "2024-01-18 10:18:05",
+        "ip_address": "217.160.0.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "url-x.it",
+        "count": "8453",
+        "first_seen": "2020-08-28 10:14:49",
+        "last_seen": "2024-01-16 11:28:32",
+        "ip_address": "2001:8d8:100f:f000::280",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "restore-account-support-amazon.com",
+        "count": "52",
+        "first_seen": "2020-02-22 19:27:13",
+        "last_seen": "2020-03-24 04:39:23",
+        "ip_address": "194.58.56.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "restore-account-support-amazon.com",
+        "count": "259",
+        "first_seen": "2019-03-04 13:29:56",
+        "last_seen": "2020-02-17 17:49:01",
+        "ip_address": "194.58.123.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "restore-account-support-amazon.com",
+        "count": "24",
+        "first_seen": "2019-02-20 15:40:08",
+        "last_seen": "2019-03-03 12:58:31",
+        "ip_address": "213.226.124.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "restore-account-support-amazon.com",
+        "count": "13",
+        "first_seen": "2020-02-22 19:27:13",
+        "last_seen": "2020-03-23 04:12:17",
+        "ip_address": "2a00:f940:4::10",
+        "type": "IPv6"
+    }
+]

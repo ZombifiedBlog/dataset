@@ -1,0 +1,154 @@
+[
+    {
+        "domain": "www.bkdbw.com",
+        "count": "15972",
+        "first_seen": "2022-07-24 14:43:33",
+        "last_seen": "2022-10-06 11:06:06",
+        "ip_address": "23.104.112.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bkdbw.com",
+        "count": "1735",
+        "first_seen": "2022-10-06 12:42:15",
+        "last_seen": "2022-10-08 04:05:18",
+        "ip_address": "23.104.112.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bkdbw.com",
+        "count": "1735",
+        "first_seen": "2022-10-06 12:42:15",
+        "last_seen": "2022-10-08 04:05:18",
+        "ip_address": "45.192.96.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bkdbw.com",
+        "count": "4",
+        "first_seen": "2017-01-24 18:19:22",
+        "last_seen": "2017-02-02 10:35:55",
+        "ip_address": "23.234.4.54",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bkdbw.com",
+        "count": "4",
+        "first_seen": "2017-01-24 18:19:22",
+        "last_seen": "2017-02-02 10:35:55",
+        "ip_address": "23.234.4.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bkdbw.com",
+        "count": "70837",
+        "first_seen": "2022-10-08 06:29:59",
+        "last_seen": "2023-02-03 13:23:20",
+        "ip_address": "45.192.96.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bkdbw.com",
+        "count": "12360",
+        "first_seen": "2023-02-03 13:33:19",
+        "last_seen": "2023-07-14 07:45:21",
+        "ip_address": "45.194.211.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bkdbw.com",
+        "count": "14",
+        "first_seen": "2018-02-03 07:40:55",
+        "last_seen": "2018-04-09 12:49:52",
+        "ip_address": "47.89.58.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bkdbw.com",
+        "count": "4",
+        "first_seen": "2017-11-25 09:04:16",
+        "last_seen": "2017-11-28 08:58:11",
+        "ip_address": "47.89.58.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bkdbw.com",
+        "count": "16170",
+        "first_seen": "2023-10-20 07:49:54",
+        "last_seen": "2024-01-18 08:12:15",
+        "ip_address": "104.21.48.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bkdbw.com",
+        "count": "16170",
+        "first_seen": "2023-10-20 07:49:54",
+        "last_seen": "2024-01-18 08:12:15",
+        "ip_address": "172.67.151.151",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bkdbw.com",
+        "count": "607",
+        "first_seen": "2023-07-14 08:35:39",
+        "last_seen": "2023-07-24 16:07:17",
+        "ip_address": "154.212.75.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bkdbw.com",
+        "count": "2",
+        "first_seen": "2021-11-19 10:55:08",
+        "last_seen": "2021-11-22 18:52:19",
+        "ip_address": "168.206.105.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bkdbw.com",
+        "count": "2",
+        "first_seen": "2021-11-19 10:55:08",
+        "last_seen": "2021-11-22 18:52:19",
+        "ip_address": "168.206.107.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bkdbw.com",
+        "count": "800",
+        "first_seen": "2022-04-25 06:45:57",
+        "last_seen": "2022-04-26 23:19:56",
+        "ip_address": "182.16.3.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bkdbw.com",
+        "count": "143",
+        "first_seen": "2023-07-24 18:11:22",
+        "last_seen": "2023-09-01 23:55:24",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bkdbw.com",
+        "count": "3116",
+        "first_seen": "2023-07-24 22:36:34",
+        "last_seen": "2023-09-02 17:15:43",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bkdbw.com",
+        "count": "5",
+        "first_seen": "2023-11-24 12:00:25",
+        "last_seen": "2023-12-29 18:16:53",
+        "ip_address": "2606:4700:3032::ac43:9797",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bkdbw.com",
+        "count": "5",
+        "first_seen": "2023-11-24 12:00:25",
+        "last_seen": "2023-12-29 18:16:53",
+        "ip_address": "2606:4700:3033::6815:307d",
+        "type": "IPv6"
+    }
+]

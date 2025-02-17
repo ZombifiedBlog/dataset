@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "nova-store.my.id",
+        "count": "230",
+        "first_seen": "2021-12-28 12:46:36",
+        "last_seen": "2022-01-27 16:16:43",
+        "ip_address": "8.215.28.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nova-store.my.id",
+        "count": "1",
+        "first_seen": "2022-07-07 04:37:49",
+        "last_seen": "2022-07-07 04:37:49",
+        "ip_address": "103.253.214.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nova-store.my.id",
+        "count": "28",
+        "first_seen": "2023-07-07 18:23:22",
+        "last_seen": "2023-08-16 06:21:27",
+        "ip_address": "103.253.215.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nova-store.my.id",
+        "count": "5",
+        "first_seen": "2021-07-07 10:03:33",
+        "last_seen": "2021-11-29 21:04:02",
+        "ip_address": "104.21.22.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nova-store.my.id",
+        "count": "5",
+        "first_seen": "2021-07-07 10:03:33",
+        "last_seen": "2021-11-29 21:04:02",
+        "ip_address": "172.67.203.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nova-store.my.id",
+        "count": "3303",
+        "first_seen": "2022-01-27 17:30:15",
+        "last_seen": "2023-07-03 00:07:54",
+        "ip_address": "104.21.69.131",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nova-store.my.id",
+        "count": "3303",
+        "first_seen": "2022-01-27 17:30:15",
+        "last_seen": "2023-07-03 00:07:54",
+        "ip_address": "172.67.208.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nova-store.my.id",
+        "count": "2",
+        "first_seen": "2021-07-07 22:14:24",
+        "last_seen": "2021-07-07 22:14:30",
+        "ip_address": "2606:4700:3031::6815:165e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "nova-store.my.id",
+        "count": "2",
+        "first_seen": "2021-07-07 22:14:24",
+        "last_seen": "2021-07-07 22:14:30",
+        "ip_address": "2606:4700:3031::ac43:cbc9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "nova-store.my.id",
+        "count": "658",
+        "first_seen": "2022-01-27 17:32:34",
+        "last_seen": "2023-05-01 08:51:20",
+        "ip_address": "2606:4700:3034::6815:4583",
+        "type": "IPv6"
+    },
+    {
+        "domain": "nova-store.my.id",
+        "count": "658",
+        "first_seen": "2022-01-27 17:32:34",
+        "last_seen": "2023-05-01 08:51:20",
+        "ip_address": "2606:4700:3035::ac43:d0b7",
+        "type": "IPv6"
+    }
+]

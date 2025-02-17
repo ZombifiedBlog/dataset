@@ -1,0 +1,106 @@
+[
+    {
+        "domain": "www.extric.top",
+        "count": "688",
+        "first_seen": "2021-01-13 19:37:24",
+        "last_seen": "2021-10-07 06:31:38",
+        "ip_address": "104.21.16.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.extric.top",
+        "count": "688",
+        "first_seen": "2021-01-13 19:37:24",
+        "last_seen": "2021-10-07 06:31:38",
+        "ip_address": "172.67.166.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.extric.top",
+        "count": "890",
+        "first_seen": "2020-10-06 22:35:16",
+        "last_seen": "2021-01-11 09:23:04",
+        "ip_address": "104.31.74.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.extric.top",
+        "count": "890",
+        "first_seen": "2020-10-06 22:35:16",
+        "last_seen": "2021-01-11 09:23:04",
+        "ip_address": "104.31.75.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.extric.top",
+        "count": "890",
+        "first_seen": "2020-10-06 22:35:16",
+        "last_seen": "2021-01-11 09:23:04",
+        "ip_address": "172.67.166.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.extric.top",
+        "count": "2",
+        "first_seen": "2020-10-06 22:37:36",
+        "last_seen": "2020-10-06 22:37:36",
+        "ip_address": "172.64.83.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.extric.top",
+        "count": "1",
+        "first_seen": "2020-12-15 21:19:59",
+        "last_seen": "2020-12-15 21:19:59",
+        "ip_address": "172.64.95.188",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.extric.top",
+        "count": "10",
+        "first_seen": "2021-10-08 06:41:05",
+        "last_seen": "2021-10-15 13:45:41",
+        "ip_address": "199.59.242.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.extric.top",
+        "count": "265",
+        "first_seen": "2020-10-06 22:35:16",
+        "last_seen": "2021-01-04 10:37:38",
+        "ip_address": "2606:4700:3030::681f:4bda",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.extric.top",
+        "count": "265",
+        "first_seen": "2020-10-06 22:35:16",
+        "last_seen": "2021-01-04 10:37:38",
+        "ip_address": "2606:4700:3033::ac43:a6ea",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.extric.top",
+        "count": "265",
+        "first_seen": "2020-10-06 22:35:16",
+        "last_seen": "2021-01-04 10:37:38",
+        "ip_address": "2606:4700:3037::681f:4ada",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.extric.top",
+        "count": "193",
+        "first_seen": "2021-01-13 19:37:24",
+        "last_seen": "2021-09-14 15:10:29",
+        "ip_address": "2606:4700:3033::ac43:a6ea",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.extric.top",
+        "count": "193",
+        "first_seen": "2021-01-13 19:37:24",
+        "last_seen": "2021-09-14 15:10:29",
+        "ip_address": "2606:4700:3034::6815:104d",
+        "type": "IPv6"
+    }
+]

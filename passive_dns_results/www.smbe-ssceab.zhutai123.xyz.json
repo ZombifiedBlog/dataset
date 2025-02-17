@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.smbe-ssceab.zhutai123.xyz",
+        "count": "5",
+        "first_seen": "2023-05-01 09:17:44",
+        "last_seen": "2023-05-29 10:10:24",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smbe-ssceab.zhutai123.xyz",
+        "count": "3",
+        "first_seen": "2023-02-11 01:53:02",
+        "last_seen": "2023-03-26 22:31:14",
+        "ip_address": "103.30.43.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smbe-ssceab.zhutai123.xyz",
+        "count": "1",
+        "first_seen": "2022-12-01 09:09:35",
+        "last_seen": "2022-12-01 09:09:35",
+        "ip_address": "103.229.124.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smbe-ssceab.zhutai123.xyz",
+        "count": "3",
+        "first_seen": "2023-01-07 01:57:36",
+        "last_seen": "2023-01-24 09:37:03",
+        "ip_address": "103.229.124.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smbe-ssceab.zhutai123.xyz",
+        "count": "3",
+        "first_seen": "2023-01-07 01:57:36",
+        "last_seen": "2023-01-24 09:37:03",
+        "ip_address": "103.229.125.135",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smbe-ssceab.zhutai123.xyz",
+        "count": "1",
+        "first_seen": "2022-11-05 01:35:28",
+        "last_seen": "2022-11-05 01:35:28",
+        "ip_address": "103.243.24.154",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smbe-ssceab.zhutai123.xyz",
+        "count": "129",
+        "first_seen": "2022-06-22 20:27:11",
+        "last_seen": "2022-06-25 02:05:07",
+        "ip_address": "198.12.89.117",
+        "type": "IPv4"
+    }
+]

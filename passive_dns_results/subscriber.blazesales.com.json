@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.blazesales.com",
+        "count": "4",
+        "first_seen": "2020-05-15 16:30:01",
+        "last_seen": "2020-05-15 19:39:49",
+        "ip_address": "104.27.156.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.blazesales.com",
+        "count": "4",
+        "first_seen": "2020-05-15 16:30:01",
+        "last_seen": "2020-05-15 19:39:49",
+        "ip_address": "104.27.157.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.blazesales.com",
+        "count": "2",
+        "first_seen": "2020-06-24 14:58:27",
+        "last_seen": "2020-06-24 14:58:27",
+        "ip_address": "121.54.175.97",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.blazesales.com",
+        "count": "1",
+        "first_seen": "2022-10-17 23:13:34",
+        "last_seen": "2022-10-17 23:13:34",
+        "ip_address": "154.38.220.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.blazesales.com",
+        "count": "4",
+        "first_seen": "2020-05-15 16:30:01",
+        "last_seen": "2020-05-15 19:39:49",
+        "ip_address": "2606:4700:3032::681b:9c7b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.blazesales.com",
+        "count": "4",
+        "first_seen": "2020-05-15 16:30:01",
+        "last_seen": "2020-05-15 19:39:49",
+        "ip_address": "2606:4700:3034::681b:9d7b",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "cleanmaster.am",
+        "count": "382",
+        "first_seen": "2019-09-06 12:56:34",
+        "last_seen": "2020-01-08 07:24:24",
+        "ip_address": "78.46.139.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cleanmaster.am",
+        "count": "41",
+        "first_seen": "2021-08-31 16:03:37",
+        "last_seen": "2021-10-05 11:50:01",
+        "ip_address": "94.228.113.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cleanmaster.am",
+        "count": "3038",
+        "first_seen": "2021-10-06 10:41:33",
+        "last_seen": "2024-01-17 21:18:31",
+        "ip_address": "94.228.125.231",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cleanmaster.am",
+        "count": "13918",
+        "first_seen": "2020-01-11 15:04:37",
+        "last_seen": "2021-08-30 17:00:31",
+        "ip_address": "185.178.45.37",
+        "type": "IPv4"
+    }
+]

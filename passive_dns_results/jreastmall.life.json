@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "jreastmall.life",
+        "count": "148",
+        "first_seen": "2022-05-20 04:46:12",
+        "last_seen": "2022-05-24 11:05:05",
+        "ip_address": "104.21.14.169",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jreastmall.life",
+        "count": "148",
+        "first_seen": "2022-05-20 04:46:12",
+        "last_seen": "2022-05-24 11:05:05",
+        "ip_address": "172.67.160.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jreastmall.life",
+        "count": "2",
+        "first_seen": "2022-05-20 11:40:15",
+        "last_seen": "2022-05-23 20:31:47",
+        "ip_address": "2606:4700:3033::6815:ea9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "jreastmall.life",
+        "count": "2",
+        "first_seen": "2022-05-20 11:40:15",
+        "last_seen": "2022-05-23 20:31:47",
+        "ip_address": "2606:4700:3036::ac43:a014",
+        "type": "IPv6"
+    }
+]

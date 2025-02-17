@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "zkzhmxekl.xyz",
+        "count": "3",
+        "first_seen": "2020-01-24 21:08:12",
+        "last_seen": "2020-01-28 23:06:42",
+        "ip_address": "118.27.5.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zkzhmxekl.xyz",
+        "count": "42",
+        "first_seen": "2020-02-01 18:30:08",
+        "last_seen": "2020-03-04 15:27:33",
+        "ip_address": "118.27.18.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zkzhmxekl.xyz",
+        "count": "85",
+        "first_seen": "2020-07-17 05:40:58",
+        "last_seen": "2020-07-30 08:13:59",
+        "ip_address": "184.168.131.241",
+        "type": "IPv4"
+    }
+]

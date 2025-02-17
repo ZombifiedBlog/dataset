@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "amazon.co.jp.e7tw8g1vwar35h4t86r4j12z1srfnbht3657j486rt1nje23541j685y7ko86yr.buzz",
+        "count": "25",
+        "first_seen": "2020-06-16 14:21:40",
+        "last_seen": "2020-06-17 07:32:04",
+        "ip_address": "104.28.24.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.co.jp.e7tw8g1vwar35h4t86r4j12z1srfnbht3657j486rt1nje23541j685y7ko86yr.buzz",
+        "count": "25",
+        "first_seen": "2020-06-16 14:21:40",
+        "last_seen": "2020-06-17 07:32:04",
+        "ip_address": "104.28.25.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.co.jp.e7tw8g1vwar35h4t86r4j12z1srfnbht3657j486rt1nje23541j685y7ko86yr.buzz",
+        "count": "25",
+        "first_seen": "2020-06-16 14:21:40",
+        "last_seen": "2020-06-17 07:32:04",
+        "ip_address": "172.67.189.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.co.jp.e7tw8g1vwar35h4t86r4j12z1srfnbht3657j486rt1nje23541j685y7ko86yr.buzz",
+        "count": "10",
+        "first_seen": "2020-06-16 14:21:40",
+        "last_seen": "2020-06-17 03:30:39",
+        "ip_address": "2606:4700:3030::ac43:bd37",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon.co.jp.e7tw8g1vwar35h4t86r4j12z1srfnbht3657j486rt1nje23541j685y7ko86yr.buzz",
+        "count": "10",
+        "first_seen": "2020-06-16 14:21:40",
+        "last_seen": "2020-06-17 03:30:39",
+        "ip_address": "2606:4700:3032::681c:1892",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon.co.jp.e7tw8g1vwar35h4t86r4j12z1srfnbht3657j486rt1nje23541j685y7ko86yr.buzz",
+        "count": "10",
+        "first_seen": "2020-06-16 14:21:40",
+        "last_seen": "2020-06-17 03:30:39",
+        "ip_address": "2606:4700:3033::681c:1992",
+        "type": "IPv6"
+    }
+]

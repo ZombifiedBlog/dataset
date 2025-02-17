@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.dnjmortgage.com",
+        "count": "3753",
+        "first_seen": "2014-10-03 18:35:01",
+        "last_seen": "2016-01-28 12:32:01",
+        "ip_address": "12.168.17.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dnjmortgage.com",
+        "count": "8258",
+        "first_seen": "2016-01-28 23:25:37",
+        "last_seen": "2022-03-23 23:58:52",
+        "ip_address": "12.168.17.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dnjmortgage.com",
+        "count": "20",
+        "first_seen": "2022-03-28 02:20:24",
+        "last_seen": "2022-04-27 13:22:20",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dnjmortgage.com",
+        "count": "288",
+        "first_seen": "2022-05-01 20:03:39",
+        "last_seen": "2024-01-16 18:09:59",
+        "ip_address": "104.21.3.63",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dnjmortgage.com",
+        "count": "288",
+        "first_seen": "2022-05-01 20:03:39",
+        "last_seen": "2024-01-16 18:09:59",
+        "ip_address": "172.67.153.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dnjmortgage.com",
+        "count": "83",
+        "first_seen": "2022-05-02 02:58:34",
+        "last_seen": "2024-01-16 18:09:59",
+        "ip_address": "2606:4700:3030::ac43:993e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.dnjmortgage.com",
+        "count": "83",
+        "first_seen": "2022-05-02 02:58:34",
+        "last_seen": "2024-01-16 18:09:59",
+        "ip_address": "2606:4700:3032::6815:33f",
+        "type": "IPv6"
+    }
+]

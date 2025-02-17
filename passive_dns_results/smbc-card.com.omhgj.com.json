@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "smbc-card.com.omhgj.com",
+        "count": "1",
+        "first_seen": "2021-05-29 23:58:25",
+        "last_seen": "2021-05-29 23:58:25",
+        "ip_address": "47.74.14.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-card.com.omhgj.com",
+        "count": "2",
+        "first_seen": "2023-10-21 15:35:58",
+        "last_seen": "2023-10-21 15:35:58",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-card.com.omhgj.com",
+        "count": "131",
+        "first_seen": "2021-04-12 13:52:53",
+        "last_seen": "2021-04-12 19:20:37",
+        "ip_address": "198.55.96.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-card.com.omhgj.com",
+        "count": "205",
+        "first_seen": "2021-04-12 19:25:59",
+        "last_seen": "2021-05-21 16:31:48",
+        "ip_address": "198.55.102.16",
+        "type": "IPv4"
+    }
+]

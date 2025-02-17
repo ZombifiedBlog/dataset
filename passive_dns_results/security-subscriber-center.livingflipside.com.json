@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "security-subscriber-center.LivingfLipside.com",
+        "count": "1",
+        "first_seen": "2023-08-27 16:34:51",
+        "last_seen": "2023-08-27 16:34:51",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.LivingfLipside.com",
+        "count": "8",
+        "first_seen": "2023-04-21 08:39:39",
+        "last_seen": "2023-10-04 17:31:37",
+        "ip_address": "103.224.212.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.LivingfLipside.com",
+        "count": "5519",
+        "first_seen": "2022-10-02 05:59:01",
+        "last_seen": "2023-01-17 16:18:57",
+        "ip_address": "104.21.65.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.LivingfLipside.com",
+        "count": "5519",
+        "first_seen": "2022-10-02 05:59:01",
+        "last_seen": "2023-01-17 16:18:57",
+        "ip_address": "172.67.139.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.LivingfLipside.com",
+        "count": "1",
+        "first_seen": "2023-08-13 23:24:36",
+        "last_seen": "2023-08-13 23:24:36",
+        "ip_address": "170.178.183.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.LivingfLipside.com",
+        "count": "244",
+        "first_seen": "2022-10-02 19:01:47",
+        "last_seen": "2023-01-14 11:26:13",
+        "ip_address": "2606:4700:3035::6815:4118",
+        "type": "IPv6"
+    },
+    {
+        "domain": "security-subscriber-center.LivingfLipside.com",
+        "count": "244",
+        "first_seen": "2022-10-02 19:01:47",
+        "last_seen": "2023-01-14 11:26:13",
+        "ip_address": "2606:4700:3036::ac43:8bdc",
+        "type": "IPv6"
+    }
+]

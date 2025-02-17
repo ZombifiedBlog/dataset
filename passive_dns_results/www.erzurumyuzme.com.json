@@ -1,0 +1,130 @@
+[
+    {
+        "domain": "www.erzurumyuzme.com",
+        "count": "3",
+        "first_seen": "2022-08-15 22:33:50",
+        "last_seen": "2022-08-15 23:12:46",
+        "ip_address": "69.16.231.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.erzurumyuzme.com",
+        "count": "68",
+        "first_seen": "2022-08-16 19:44:08",
+        "last_seen": "2022-09-24 07:42:17",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.erzurumyuzme.com",
+        "count": "1",
+        "first_seen": "2021-11-18 07:34:36",
+        "last_seen": "2021-11-18 07:34:36",
+        "ip_address": "85.208.118.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.erzurumyuzme.com",
+        "count": "2",
+        "first_seen": "2021-08-19 18:19:54",
+        "last_seen": "2021-08-19 18:19:54",
+        "ip_address": "103.93.76.169",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.erzurumyuzme.com",
+        "count": "1665",
+        "first_seen": "2018-08-13 13:46:39",
+        "last_seen": "2019-07-31 23:01:12",
+        "ip_address": "104.27.136.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.erzurumyuzme.com",
+        "count": "1665",
+        "first_seen": "2018-08-13 13:46:39",
+        "last_seen": "2019-07-31 23:01:12",
+        "ip_address": "104.27.137.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.erzurumyuzme.com",
+        "count": "833",
+        "first_seen": "2016-06-22 08:15:57",
+        "last_seen": "2018-01-20 01:27:49",
+        "ip_address": "129.121.5.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.erzurumyuzme.com",
+        "count": "298",
+        "first_seen": "2016-05-05 09:29:14",
+        "last_seen": "2016-06-14 07:01:30",
+        "ip_address": "143.95.67.97",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.erzurumyuzme.com",
+        "count": "2814",
+        "first_seen": "2022-07-15 14:44:29",
+        "last_seen": "2022-08-15 21:14:58",
+        "ip_address": "167.160.189.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.erzurumyuzme.com",
+        "count": "291",
+        "first_seen": "2011-08-11 09:05:27",
+        "last_seen": "2016-05-04 23:40:19",
+        "ip_address": "174.120.226.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.erzurumyuzme.com",
+        "count": "10",
+        "first_seen": "2017-01-23 06:16:32",
+        "last_seen": "2018-02-14 01:39:58",
+        "ip_address": "209.99.40.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.erzurumyuzme.com",
+        "count": "7",
+        "first_seen": "2017-01-25 13:00:52",
+        "last_seen": "2018-01-31 05:49:51",
+        "ip_address": "209.99.40.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.erzurumyuzme.com",
+        "count": "223",
+        "first_seen": "2018-08-13 13:46:39",
+        "last_seen": "2018-09-26 19:12:26",
+        "ip_address": "2400:cb00:2048:1::681b:8822",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.erzurumyuzme.com",
+        "count": "223",
+        "first_seen": "2018-08-13 13:46:39",
+        "last_seen": "2018-09-26 19:12:26",
+        "ip_address": "2400:cb00:2048:1::681b:8922",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.erzurumyuzme.com",
+        "count": "686",
+        "first_seen": "2018-09-27 22:26:16",
+        "last_seen": "2019-07-14 13:33:43",
+        "ip_address": "2606:4700:30::681b:8822",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.erzurumyuzme.com",
+        "count": "686",
+        "first_seen": "2018-09-27 22:26:16",
+        "last_seen": "2019-07-14 13:33:43",
+        "ip_address": "2606:4700:30::681b:8922",
+        "type": "IPv6"
+    }
+]

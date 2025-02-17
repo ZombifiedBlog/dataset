@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "www.smbc-card.com",
+        "count": "325436",
+        "first_seen": "2010-06-26 13:27:59",
+        "last_seen": "2019-02-12 20:55:59",
+        "ip_address": "202.32.243.154",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smbc-card.com",
+        "count": "90270",
+        "first_seen": "2012-07-08 17:59:58",
+        "last_seen": "2019-02-12 20:55:59",
+        "ip_address": "2001:240:157:102:3::6",
+        "type": "IPv6"
+    }
+]

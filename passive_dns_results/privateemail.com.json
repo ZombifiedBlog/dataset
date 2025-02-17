@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "privateemail.com",
+        "count": "30",
+        "first_seen": "2021-12-21 14:54:35",
+        "last_seen": "2022-01-06 00:36:16",
+        "ip_address": "198.54.122.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "privateemail.com",
+        "count": "567",
+        "first_seen": "2013-01-27 12:34:02",
+        "last_seen": "2013-03-19 23:17:34",
+        "ip_address": "64.95.64.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "privateemail.com",
+        "count": "6374866",
+        "first_seen": "2016-06-11 04:25:33",
+        "last_seen": "2021-12-02 08:13:27",
+        "ip_address": "68.65.122.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "privateemail.com",
+        "count": "1",
+        "first_seen": "2014-03-05 05:29:25",
+        "last_seen": "2014-03-05 05:29:25",
+        "ip_address": "98.124.198.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "privateemail.com",
+        "count": "3772",
+        "first_seen": "2010-07-23 11:53:27",
+        "last_seen": "2014-02-27 14:52:18",
+        "ip_address": "174.137.132.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "privateemail.com",
+        "count": "1582449",
+        "first_seen": "2014-03-14 07:02:06",
+        "last_seen": "2016-06-11 04:24:10",
+        "ip_address": "192.64.116.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "privateemail.com",
+        "count": "4134913",
+        "first_seen": "2021-12-02 08:13:47",
+        "last_seen": "2024-01-18 04:25:26",
+        "ip_address": "198.54.122.136",
+        "type": "IPv4"
+    }
+]

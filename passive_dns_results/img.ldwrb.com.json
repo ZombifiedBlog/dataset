@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "img.ldwrb.com",
+        "count": "12",
+        "first_seen": "2021-01-15 01:03:00",
+        "last_seen": "2021-02-12 13:17:27",
+        "ip_address": "104.21.52.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.ldwrb.com",
+        "count": "12",
+        "first_seen": "2021-01-15 01:03:00",
+        "last_seen": "2021-02-12 13:17:27",
+        "ip_address": "172.67.205.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.ldwrb.com",
+        "count": "1073",
+        "first_seen": "2020-11-16 03:32:27",
+        "last_seen": "2021-01-12 15:55:22",
+        "ip_address": "104.24.104.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.ldwrb.com",
+        "count": "1073",
+        "first_seen": "2020-11-16 03:32:27",
+        "last_seen": "2021-01-12 15:55:22",
+        "ip_address": "104.24.105.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.ldwrb.com",
+        "count": "1073",
+        "first_seen": "2020-11-16 03:32:27",
+        "last_seen": "2021-01-12 15:55:22",
+        "ip_address": "172.67.205.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.ldwrb.com",
+        "count": "504",
+        "first_seen": "2020-11-16 03:32:27",
+        "last_seen": "2021-01-12 15:55:22",
+        "ip_address": "2606:4700:3030::6818:6953",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.ldwrb.com",
+        "count": "504",
+        "first_seen": "2020-11-16 03:32:27",
+        "last_seen": "2021-01-12 15:55:22",
+        "ip_address": "2606:4700:3034::6818:6853",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.ldwrb.com",
+        "count": "504",
+        "first_seen": "2020-11-16 03:32:27",
+        "last_seen": "2021-01-12 15:55:22",
+        "ip_address": "2606:4700:3036::ac43:cd3a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.ldwrb.com",
+        "count": "8",
+        "first_seen": "2021-01-15 01:03:00",
+        "last_seen": "2021-01-27 12:12:59",
+        "ip_address": "2606:4700:3031::6815:34e6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.ldwrb.com",
+        "count": "8",
+        "first_seen": "2021-01-15 01:03:00",
+        "last_seen": "2021-01-27 12:12:59",
+        "ip_address": "2606:4700:3036::ac43:cd3a",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "mail.LgyL-zc.com",
+        "count": "498",
+        "first_seen": "2020-06-24 06:03:41",
+        "last_seen": "2020-08-24 00:38:40",
+        "ip_address": "104.27.142.235",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.LgyL-zc.com",
+        "count": "498",
+        "first_seen": "2020-06-24 06:03:41",
+        "last_seen": "2020-08-24 00:38:40",
+        "ip_address": "104.27.143.235",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.LgyL-zc.com",
+        "count": "498",
+        "first_seen": "2020-06-24 06:03:41",
+        "last_seen": "2020-08-24 00:38:40",
+        "ip_address": "172.67.155.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.LgyL-zc.com",
+        "count": "832",
+        "first_seen": "2020-06-09 08:45:50",
+        "last_seen": "2020-06-24 00:42:52",
+        "ip_address": "104.31.94.178",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.LgyL-zc.com",
+        "count": "832",
+        "first_seen": "2020-06-09 08:45:50",
+        "last_seen": "2020-06-24 00:42:52",
+        "ip_address": "104.31.95.178",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.LgyL-zc.com",
+        "count": "832",
+        "first_seen": "2020-06-09 08:45:50",
+        "last_seen": "2020-06-24 00:42:52",
+        "ip_address": "172.67.178.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mail.LgyL-zc.com",
+        "count": "263",
+        "first_seen": "2020-06-24 11:22:40",
+        "last_seen": "2020-08-24 00:38:40",
+        "ip_address": "2606:4700:3031::681b:8eeb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.LgyL-zc.com",
+        "count": "263",
+        "first_seen": "2020-06-24 11:22:40",
+        "last_seen": "2020-08-24 00:38:40",
+        "ip_address": "2606:4700:3033::ac43:9b45",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.LgyL-zc.com",
+        "count": "263",
+        "first_seen": "2020-06-24 11:22:40",
+        "last_seen": "2020-08-24 00:38:40",
+        "ip_address": "2606:4700:3037::681b:8feb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.LgyL-zc.com",
+        "count": "234",
+        "first_seen": "2020-06-09 08:49:26",
+        "last_seen": "2020-06-24 00:42:52",
+        "ip_address": "2606:4700:3032::681f:5eb2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.LgyL-zc.com",
+        "count": "234",
+        "first_seen": "2020-06-09 08:49:26",
+        "last_seen": "2020-06-24 00:42:52",
+        "ip_address": "2606:4700:3032::ac43:b2db",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mail.LgyL-zc.com",
+        "count": "234",
+        "first_seen": "2020-06-09 08:49:26",
+        "last_seen": "2020-06-24 00:42:52",
+        "ip_address": "2606:4700:3036::681f:5fb2",
+        "type": "IPv6"
+    }
+]

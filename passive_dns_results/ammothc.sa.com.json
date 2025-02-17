@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "ammothc.sa.com",
+        "count": "77",
+        "first_seen": "2023-06-05 13:20:22",
+        "last_seen": "2024-01-10 18:44:06",
+        "ip_address": "92.205.167.169",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ammothc.sa.com",
+        "count": "60",
+        "first_seen": "2023-02-19 00:41:54",
+        "last_seen": "2023-05-21 13:56:11",
+        "ip_address": "104.21.11.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ammothc.sa.com",
+        "count": "60",
+        "first_seen": "2023-02-19 00:41:54",
+        "last_seen": "2023-05-21 13:56:11",
+        "ip_address": "172.67.147.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ammothc.sa.com",
+        "count": "13",
+        "first_seen": "2023-05-22 13:44:40",
+        "last_seen": "2023-05-25 12:37:45",
+        "ip_address": "172.93.123.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ammothc.sa.com",
+        "count": "8",
+        "first_seen": "2023-02-19 00:42:33",
+        "last_seen": "2023-04-20 00:50:27",
+        "ip_address": "2606:4700:3032::6815:b06",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ammothc.sa.com",
+        "count": "8",
+        "first_seen": "2023-02-19 00:42:33",
+        "last_seen": "2023-04-20 00:50:27",
+        "ip_address": "2606:4700:3033::ac43:934d",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.equivalent.pro",
+        "count": "9479",
+        "first_seen": "2023-06-07 18:44:05",
+        "last_seen": "2024-01-17 20:13:59",
+        "ip_address": "45.128.206.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.equivalent.pro",
+        "count": "24",
+        "first_seen": "2023-06-07 06:55:43",
+        "last_seen": "2023-06-07 12:46:11",
+        "ip_address": "213.189.196.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.equivalent.pro",
+        "count": "15751",
+        "first_seen": "2022-05-16 09:05:28",
+        "last_seen": "2023-06-06 15:31:19",
+        "ip_address": "213.189.196.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.equivalent.pro",
+        "count": "23584",
+        "first_seen": "2019-01-27 17:03:57",
+        "last_seen": "2022-05-16 09:37:13",
+        "ip_address": "213.189.196.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.equivalent.pro",
+        "count": "406",
+        "first_seen": "2018-12-21 23:25:40",
+        "last_seen": "2019-01-27 16:06:15",
+        "ip_address": "213.189.197.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.equivalent.pro",
+        "count": "23985",
+        "first_seen": "2015-02-12 11:10:49",
+        "last_seen": "2018-12-21 09:47:36",
+        "ip_address": "213.189.197.2",
+        "type": "IPv4"
+    }
+]

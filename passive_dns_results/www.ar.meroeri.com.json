@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.ar.meroeri.com",
+        "count": "132",
+        "first_seen": "2022-01-20 19:20:15",
+        "last_seen": "2022-01-23 19:42:24",
+        "ip_address": "23.94.159.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ar.meroeri.com",
+        "count": "1",
+        "first_seen": "2023-01-20 19:15:59",
+        "last_seen": "2023-01-20 19:15:59",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.ar.meroeri.com",
+        "count": "7",
+        "first_seen": "2023-01-20 19:15:59",
+        "last_seen": "2023-01-20 19:18:22",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

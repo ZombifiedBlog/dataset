@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "etc.robustcn.cn",
+        "count": "2",
+        "first_seen": "2022-04-19 09:38:02",
+        "last_seen": "2022-04-19 09:38:03",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "etc.robustcn.cn",
+        "count": "64",
+        "first_seen": "2022-02-24 03:32:36",
+        "last_seen": "2022-02-26 20:13:15",
+        "ip_address": "104.129.63.74",
+        "type": "IPv4"
+    }
+]

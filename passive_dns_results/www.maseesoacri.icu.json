@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.maseesoacri.icu",
+        "count": "2",
+        "first_seen": "2023-04-12 08:21:41",
+        "last_seen": "2023-05-05 05:22:54",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.maseesoacri.icu",
+        "count": "133",
+        "first_seen": "2022-03-29 13:01:06",
+        "last_seen": "2022-12-19 05:56:11",
+        "ip_address": "172.245.119.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.maseesoacri.icu",
+        "count": "28",
+        "first_seen": "2022-03-28 15:27:21",
+        "last_seen": "2022-03-29 12:23:51",
+        "ip_address": "198.12.127.223",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "bgm.aromatale.com",
+        "count": "52",
+        "first_seen": "2023-01-25 18:58:46",
+        "last_seen": "2023-04-26 11:36:08",
+        "ip_address": "50.117.26.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bgm.aromatale.com",
+        "count": "3415",
+        "first_seen": "2022-10-22 14:19:56",
+        "last_seen": "2022-11-26 09:58:05",
+        "ip_address": "104.232.77.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bgm.aromatale.com",
+        "count": "715",
+        "first_seen": "2022-10-20 09:21:41",
+        "last_seen": "2022-10-22 13:19:30",
+        "ip_address": "202.61.137.66",
+        "type": "IPv4"
+    }
+]

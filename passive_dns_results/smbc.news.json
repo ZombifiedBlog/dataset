@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "smbc.news",
+        "count": "332",
+        "first_seen": "2017-10-24 12:56:08",
+        "last_seen": "2019-12-27 12:37:05",
+        "ip_address": "47.88.22.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.news",
+        "count": "32",
+        "first_seen": "2019-12-29 05:35:56",
+        "last_seen": "2020-01-26 10:48:30",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.news",
+        "count": "285",
+        "first_seen": "2020-09-17 17:46:45",
+        "last_seen": "2020-09-27 10:22:35",
+        "ip_address": "67.229.48.132",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.news",
+        "count": "95",
+        "first_seen": "2021-05-02 08:28:25",
+        "last_seen": "2021-10-24 01:47:59",
+        "ip_address": "99.83.154.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.news",
+        "count": "1",
+        "first_seen": "2020-09-17 13:18:51",
+        "last_seen": "2020-09-17 13:18:51",
+        "ip_address": "103.150.215.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.news",
+        "count": "68",
+        "first_seen": "2020-12-19 22:24:15",
+        "last_seen": "2021-04-20 08:10:10",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.news",
+        "count": "68",
+        "first_seen": "2020-12-19 22:24:15",
+        "last_seen": "2021-04-20 08:10:10",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.news",
+        "count": "68",
+        "first_seen": "2020-12-19 22:24:15",
+        "last_seen": "2021-04-20 08:10:10",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.news",
+        "count": "68",
+        "first_seen": "2020-12-19 22:24:15",
+        "last_seen": "2021-04-20 08:10:10",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc.news",
+        "count": "90",
+        "first_seen": "2020-10-03 01:19:41",
+        "last_seen": "2020-12-18 13:26:07",
+        "ip_address": "198.54.117.244",
+        "type": "IPv4"
+    }
+]

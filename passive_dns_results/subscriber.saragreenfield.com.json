@@ -1,0 +1,178 @@
+[
+    {
+        "domain": "subscriber.saragreenfield.com",
+        "count": "404",
+        "first_seen": "2022-11-29 19:23:13",
+        "last_seen": "2023-01-02 07:31:42",
+        "ip_address": "104.21.63.216",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.saragreenfield.com",
+        "count": "404",
+        "first_seen": "2022-11-29 19:23:13",
+        "last_seen": "2023-01-02 07:31:42",
+        "ip_address": "172.67.172.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.saragreenfield.com",
+        "count": "2",
+        "first_seen": "2022-12-27 06:45:28",
+        "last_seen": "2022-12-31 19:25:37",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.saragreenfield.com",
+        "count": "2",
+        "first_seen": "2022-12-27 06:45:28",
+        "last_seen": "2022-12-31 19:25:37",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.saragreenfield.com",
+        "count": "8",
+        "first_seen": "2022-12-01 05:35:22",
+        "last_seen": "2023-01-02 07:27:31",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.saragreenfield.com",
+        "count": "8",
+        "first_seen": "2022-12-01 05:35:22",
+        "last_seen": "2023-01-02 07:27:31",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.saragreenfield.com",
+        "count": "4",
+        "first_seen": "2022-12-22 10:40:40",
+        "last_seen": "2022-12-25 13:01:12",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.saragreenfield.com",
+        "count": "4",
+        "first_seen": "2022-12-22 10:40:40",
+        "last_seen": "2022-12-25 13:01:12",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.saragreenfield.com",
+        "count": "2",
+        "first_seen": "2023-01-01 08:22:39",
+        "last_seen": "2023-01-02 08:34:53",
+        "ip_address": "188.114.96.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.saragreenfield.com",
+        "count": "2",
+        "first_seen": "2023-01-01 08:22:39",
+        "last_seen": "2023-01-02 08:34:53",
+        "ip_address": "188.114.97.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.saragreenfield.com",
+        "count": "5",
+        "first_seen": "2022-12-24 07:36:22",
+        "last_seen": "2022-12-29 15:34:33",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.saragreenfield.com",
+        "count": "5",
+        "first_seen": "2022-12-24 07:36:22",
+        "last_seen": "2022-12-29 15:34:33",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.saragreenfield.com",
+        "count": "24",
+        "first_seen": "2023-01-02 10:07:47",
+        "last_seen": "2023-01-30 11:34:11",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.saragreenfield.com",
+        "count": "7",
+        "first_seen": "2023-01-02 10:07:47",
+        "last_seen": "2023-01-02 13:57:58",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.saragreenfield.com",
+        "count": "10",
+        "first_seen": "2022-12-01 05:35:22",
+        "last_seen": "2023-01-02 05:40:20",
+        "ip_address": "2606:4700:3032::6815:3fd8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.saragreenfield.com",
+        "count": "10",
+        "first_seen": "2022-12-01 05:35:22",
+        "last_seen": "2023-01-02 05:40:20",
+        "ip_address": "2606:4700:3035::ac43:ac0b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.saragreenfield.com",
+        "count": "7",
+        "first_seen": "2022-12-01 09:04:25",
+        "last_seen": "2023-01-02 08:34:53",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.saragreenfield.com",
+        "count": "7",
+        "first_seen": "2022-12-01 09:04:25",
+        "last_seen": "2023-01-02 08:34:53",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.saragreenfield.com",
+        "count": "3",
+        "first_seen": "2022-12-25 19:58:08",
+        "last_seen": "2022-12-27 19:21:56",
+        "ip_address": "2a06:98c1:3120::8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.saragreenfield.com",
+        "count": "3",
+        "first_seen": "2022-12-25 19:58:08",
+        "last_seen": "2022-12-27 19:21:56",
+        "ip_address": "2a06:98c1:3121::8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.saragreenfield.com",
+        "count": "2",
+        "first_seen": "2022-12-24 07:36:23",
+        "last_seen": "2022-12-25 08:32:38",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.saragreenfield.com",
+        "count": "2",
+        "first_seen": "2022-12-24 07:36:23",
+        "last_seen": "2022-12-25 08:32:38",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

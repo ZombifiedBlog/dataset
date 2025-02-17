@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "mymelany.info",
+        "count": "69",
+        "first_seen": "2022-07-01 10:00:54",
+        "last_seen": "2023-03-13 12:53:18",
+        "ip_address": "46.101.119.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mymelany.info",
+        "count": "9",
+        "first_seen": "2023-03-24 13:08:28",
+        "last_seen": "2023-04-22 18:05:43",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mymelany.info",
+        "count": "119",
+        "first_seen": "2022-03-17 13:43:18",
+        "last_seen": "2022-06-19 13:15:09",
+        "ip_address": "142.93.41.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mymelany.info",
+        "count": "101",
+        "first_seen": "2019-11-27 13:53:21",
+        "last_seen": "2019-12-10 08:39:00",
+        "ip_address": "161.117.88.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mymelany.info",
+        "count": "26253",
+        "first_seen": "2019-11-18 13:57:01",
+        "last_seen": "2019-11-27 01:36:14",
+        "ip_address": "161.117.226.35",
+        "type": "IPv4"
+    }
+]

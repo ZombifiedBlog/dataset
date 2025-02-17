@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "mks.zimks.com",
+        "count": "5093",
+        "first_seen": "2019-08-03 07:15:45",
+        "last_seen": "2019-11-11 05:01:19",
+        "ip_address": "104.27.140.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mks.zimks.com",
+        "count": "5093",
+        "first_seen": "2019-08-03 07:15:45",
+        "last_seen": "2019-11-11 05:01:19",
+        "ip_address": "104.27.141.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mks.zimks.com",
+        "count": "22",
+        "first_seen": "2019-11-18 04:47:47",
+        "last_seen": "2020-07-27 10:15:21",
+        "ip_address": "104.237.133.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mks.zimks.com",
+        "count": "2",
+        "first_seen": "2021-03-05 03:21:30",
+        "last_seen": "2021-05-07 12:11:02",
+        "ip_address": "104.253.208.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mks.zimks.com",
+        "count": "128",
+        "first_seen": "2019-08-10 18:32:17",
+        "last_seen": "2019-11-08 19:37:46",
+        "ip_address": "2606:4700:30::681b:8c3a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mks.zimks.com",
+        "count": "128",
+        "first_seen": "2019-08-10 18:32:17",
+        "last_seen": "2019-11-08 19:37:46",
+        "ip_address": "2606:4700:30::681b:8d3a",
+        "type": "IPv6"
+    }
+]

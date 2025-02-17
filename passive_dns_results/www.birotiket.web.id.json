@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.birotiket.web.id",
+        "count": "2",
+        "first_seen": "2016-01-02 06:29:46",
+        "last_seen": "2016-01-02 06:29:46",
+        "ip_address": "103.247.10.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.birotiket.web.id",
+        "count": "13",
+        "first_seen": "2016-10-26 09:26:03",
+        "last_seen": "2016-11-26 14:50:54",
+        "ip_address": "103.247.10.131",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.birotiket.web.id",
+        "count": "2",
+        "first_seen": "2016-08-25 01:16:13",
+        "last_seen": "2016-08-25 01:16:13",
+        "ip_address": "202.69.110.87",
+        "type": "IPv4"
+    }
+]

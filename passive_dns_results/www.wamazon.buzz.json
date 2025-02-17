@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.wamazon.buzz",
+        "count": "34",
+        "first_seen": "2020-09-30 15:12:54",
+        "last_seen": "2020-09-30 17:06:41",
+        "ip_address": "64.202.190.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wamazon.buzz",
+        "count": "1",
+        "first_seen": "2021-10-02 13:27:04",
+        "last_seen": "2021-10-02 13:27:04",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wamazon.buzz",
+        "count": "78",
+        "first_seen": "2020-09-30 17:25:08",
+        "last_seen": "2020-10-01 12:52:23",
+        "ip_address": "148.66.129.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wamazon.buzz",
+        "count": "16",
+        "first_seen": "2020-10-01 17:04:34",
+        "last_seen": "2020-10-02 03:10:00",
+        "ip_address": "160.153.252.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.wamazon.buzz",
+        "count": "7",
+        "first_seen": "2020-10-02 14:24:58",
+        "last_seen": "2020-10-02 14:39:12",
+        "ip_address": "173.82.121.66",
+        "type": "IPv4"
+    }
+]

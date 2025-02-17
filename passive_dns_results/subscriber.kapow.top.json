@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.kapow.top",
+        "count": "1",
+        "first_seen": "2023-11-26 02:59:37",
+        "last_seen": "2023-11-26 02:59:37",
+        "ip_address": "49.51.79.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kapow.top",
+        "count": "453",
+        "first_seen": "2023-06-15 22:00:19",
+        "last_seen": "2023-07-28 10:06:30",
+        "ip_address": "104.21.38.9",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kapow.top",
+        "count": "453",
+        "first_seen": "2023-06-15 22:00:19",
+        "last_seen": "2023-07-28 10:06:30",
+        "ip_address": "172.67.216.201",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.kapow.top",
+        "count": "22",
+        "first_seen": "2023-06-17 14:03:26",
+        "last_seen": "2023-07-20 13:18:04",
+        "ip_address": "2606:4700:3032::ac43:d8c9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.kapow.top",
+        "count": "22",
+        "first_seen": "2023-06-17 14:03:26",
+        "last_seen": "2023-07-20 13:18:04",
+        "ip_address": "2606:4700:3034::6815:2609",
+        "type": "IPv6"
+    }
+]

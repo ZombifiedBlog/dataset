@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "services.maxcoinre.com",
+        "count": "10",
+        "first_seen": "2022-12-08 19:10:52",
+        "last_seen": "2022-12-17 03:46:54",
+        "ip_address": "34.85.72.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "services.maxcoinre.com",
+        "count": "2016",
+        "first_seen": "2022-11-07 20:58:57",
+        "last_seen": "2022-12-08 05:34:18",
+        "ip_address": "35.190.227.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "services.maxcoinre.com",
+        "count": "4",
+        "first_seen": "2022-12-22 15:51:19",
+        "last_seen": "2023-02-11 09:39:52",
+        "ip_address": "45.61.184.74",
+        "type": "IPv4"
+    }
+]

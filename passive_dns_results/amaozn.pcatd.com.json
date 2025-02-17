@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amaozn.pcatd.com",
+        "count": "3",
+        "first_seen": "2023-04-22 17:16:37",
+        "last_seen": "2023-05-18 15:09:32",
+        "ip_address": "35.240.224.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amaozn.pcatd.com",
+        "count": "255",
+        "first_seen": "2021-07-04 18:11:09",
+        "last_seen": "2021-07-05 05:57:35",
+        "ip_address": "43.255.29.151",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amaozn.pcatd.com",
+        "count": "2",
+        "first_seen": "2021-09-20 07:38:52",
+        "last_seen": "2021-09-22 20:17:20",
+        "ip_address": "51.195.17.68",
+        "type": "IPv4"
+    }
+]

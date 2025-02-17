@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "www.secure-quotes.com",
+        "count": "30565",
+        "first_seen": "2010-06-28 18:10:31",
+        "last_seen": "2012-09-05 22:49:51",
+        "ip_address": "74.55.214.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.secure-quotes.com",
+        "count": "20941",
+        "first_seen": "2012-09-05 23:09:29",
+        "last_seen": "2014-01-24 02:07:03",
+        "ip_address": "108.168.244.194",
+        "type": "IPv4"
+    }
+]

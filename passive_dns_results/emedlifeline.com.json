@@ -1,0 +1,106 @@
+[
+    {
+        "domain": "emedlifeline.com",
+        "count": "89",
+        "first_seen": "2021-11-25 09:31:01",
+        "last_seen": "2021-12-30 21:57:04",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "emedlifeline.com",
+        "count": "16",
+        "first_seen": "2023-04-26 15:54:06",
+        "last_seen": "2023-04-30 01:28:21",
+        "ip_address": "34.102.136.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "emedlifeline.com",
+        "count": "870",
+        "first_seen": "2023-04-30 05:32:51",
+        "last_seen": "2023-12-09 15:02:29",
+        "ip_address": "54.37.163.166",
+        "type": "IPv4"
+    },
+    {
+        "domain": "emedlifeline.com",
+        "count": "24634",
+        "first_seen": "2015-07-28 17:52:03",
+        "last_seen": "2021-11-24 08:55:03",
+        "ip_address": "95.142.152.194",
+        "type": "IPv4"
+    },
+    {
+        "domain": "emedlifeline.com",
+        "count": "1676",
+        "first_seen": "2022-02-06 21:39:22",
+        "last_seen": "2023-03-19 01:25:31",
+        "ip_address": "104.21.84.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "emedlifeline.com",
+        "count": "1676",
+        "first_seen": "2022-02-06 21:39:22",
+        "last_seen": "2023-03-19 01:25:31",
+        "ip_address": "172.67.186.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "emedlifeline.com",
+        "count": "163",
+        "first_seen": "2015-06-24 08:35:09",
+        "last_seen": "2015-07-26 15:07:54",
+        "ip_address": "104.236.164.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "emedlifeline.com",
+        "count": "83",
+        "first_seen": "2012-01-06 20:46:51",
+        "last_seen": "2012-04-02 01:22:58",
+        "ip_address": "173.236.38.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "emedlifeline.com",
+        "count": "3654",
+        "first_seen": "2012-04-09 00:58:38",
+        "last_seen": "2015-04-21 13:33:03",
+        "ip_address": "173.236.38.68",
+        "type": "IPv4"
+    },
+    {
+        "domain": "emedlifeline.com",
+        "count": "563",
+        "first_seen": "2015-04-21 06:47:24",
+        "last_seen": "2015-06-23 18:37:46",
+        "ip_address": "185.56.86.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "emedlifeline.com",
+        "count": "6",
+        "first_seen": "2022-03-10 22:03:27",
+        "last_seen": "2022-03-13 23:28:46",
+        "ip_address": "188.114.99.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "emedlifeline.com",
+        "count": "582",
+        "first_seen": "2022-02-06 21:42:11",
+        "last_seen": "2023-03-17 19:14:15",
+        "ip_address": "2606:4700:3031::6815:5435",
+        "type": "IPv6"
+    },
+    {
+        "domain": "emedlifeline.com",
+        "count": "582",
+        "first_seen": "2022-02-06 21:42:11",
+        "last_seen": "2023-03-17 19:14:15",
+        "ip_address": "2606:4700:3037::ac43:ba94",
+        "type": "IPv6"
+    }
+]

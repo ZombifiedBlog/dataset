@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.aouu-aosmensom.italin.shop",
+        "count": "6",
+        "first_seen": "2022-11-16 15:18:44",
+        "last_seen": "2022-12-21 03:16:42",
+        "ip_address": "104.21.62.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.aouu-aosmensom.italin.shop",
+        "count": "6",
+        "first_seen": "2022-11-16 15:18:44",
+        "last_seen": "2022-12-21 03:16:42",
+        "ip_address": "172.67.139.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.aouu-aosmensom.italin.shop",
+        "count": "127",
+        "first_seen": "2022-05-14 16:01:19",
+        "last_seen": "2022-05-18 06:31:23",
+        "ip_address": "209.97.172.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.aouu-aosmensom.italin.shop",
+        "count": "1",
+        "first_seen": "2022-12-21 03:16:42",
+        "last_seen": "2022-12-21 03:16:42",
+        "ip_address": "2606:4700:3031::ac43:8b43",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.aouu-aosmensom.italin.shop",
+        "count": "1",
+        "first_seen": "2022-12-21 03:16:42",
+        "last_seen": "2022-12-21 03:16:42",
+        "ip_address": "2606:4700:3034::6815:3ed2",
+        "type": "IPv6"
+    }
+]

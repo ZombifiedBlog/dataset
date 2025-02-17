@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "www.tcbank.com.tw",
+        "count": "25",
+        "first_seen": "2019-07-03 14:53:40",
+        "last_seen": "2019-12-30 09:01:07",
+        "ip_address": "54.72.9.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tcbank.com.tw",
+        "count": "43521",
+        "first_seen": "2011-08-09 14:31:26",
+        "last_seen": "2018-01-29 23:54:18",
+        "ip_address": "59.125.162.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tcbank.com.tw",
+        "count": "4156",
+        "first_seen": "2010-07-30 18:32:11",
+        "last_seen": "2011-08-10 08:32:10",
+        "ip_address": "59.125.162.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tcbank.com.tw",
+        "count": "4156",
+        "first_seen": "2010-07-30 18:32:11",
+        "last_seen": "2011-08-10 08:32:10",
+        "ip_address": "122.147.224.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tcbank.com.tw",
+        "count": "1318",
+        "first_seen": "2020-05-14 23:47:11",
+        "last_seen": "2021-02-23 02:20:42",
+        "ip_address": "104.247.82.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tcbank.com.tw",
+        "count": "44634",
+        "first_seen": "2011-08-09 17:47:46",
+        "last_seen": "2018-01-29 18:09:13",
+        "ip_address": "122.147.224.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tcbank.com.tw",
+        "count": "2895",
+        "first_seen": "2019-07-04 10:14:05",
+        "last_seen": "2020-04-06 19:36:00",
+        "ip_address": "185.53.178.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tcbank.com.tw",
+        "count": "76201",
+        "first_seen": "2020-04-07 09:43:57",
+        "last_seen": "2021-02-25 09:14:34",
+        "ip_address": "185.53.178.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tcbank.com.tw",
+        "count": "4",
+        "first_seen": "2015-10-01 03:19:06",
+        "last_seen": "2015-10-01 04:03:47",
+        "ip_address": "211.75.101.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tcbank.com.tw",
+        "count": "9",
+        "first_seen": "2020-02-16 18:34:44",
+        "last_seen": "2020-02-17 02:17:53",
+        "ip_address": "185.53.178.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.tcbank.com.tw",
+        "count": "298",
+        "first_seen": "2020-08-27 03:36:19",
+        "last_seen": "2020-08-27 16:20:23",
+        "ip_address": "185.53.178.52",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "huntavirus.infinitytek.co",
+        "count": "2781",
+        "first_seen": "2022-02-04 21:29:58",
+        "last_seen": "2022-05-20 08:18:02",
+        "ip_address": "162.213.251.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "huntavirus.infinitytek.co",
+        "count": "7",
+        "first_seen": "2023-08-28 05:32:04",
+        "last_seen": "2023-08-28 05:32:18",
+        "ip_address": "172.232.4.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "huntavirus.infinitytek.co",
+        "count": "2",
+        "first_seen": "2023-08-28 07:01:56",
+        "last_seen": "2023-08-28 07:01:56",
+        "ip_address": "172.233.218.191",
+        "type": "IPv4"
+    }
+]

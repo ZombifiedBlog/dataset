@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.m.maeroci.com",
+        "count": "63",
+        "first_seen": "2022-01-08 19:05:52",
+        "last_seen": "2022-01-11 03:06:25",
+        "ip_address": "198.46.199.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.m.maeroci.com",
+        "count": "1",
+        "first_seen": "2023-02-08 08:16:12",
+        "last_seen": "2023-02-08 08:16:12",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.m.maeroci.com",
+        "count": "1",
+        "first_seen": "2023-02-08 08:16:12",
+        "last_seen": "2023-02-08 08:16:12",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

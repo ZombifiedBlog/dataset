@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "smbc-co-jp.xmrmjz.xyz",
+        "count": "7",
+        "first_seen": "2022-02-21 04:33:43",
+        "last_seen": "2022-02-21 05:40:01",
+        "ip_address": "104.21.28.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-co-jp.xmrmjz.xyz",
+        "count": "7",
+        "first_seen": "2022-02-21 04:33:43",
+        "last_seen": "2022-02-21 05:40:01",
+        "ip_address": "172.67.147.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-co-jp.xmrmjz.xyz",
+        "count": "1",
+        "first_seen": "2022-02-21 04:41:48",
+        "last_seen": "2022-02-21 04:41:48",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-co-jp.xmrmjz.xyz",
+        "count": "1",
+        "first_seen": "2022-02-21 04:41:48",
+        "last_seen": "2022-02-21 04:41:48",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-co-jp.xmrmjz.xyz",
+        "count": "1",
+        "first_seen": "2022-02-21 05:44:49",
+        "last_seen": "2022-02-21 05:44:49",
+        "ip_address": "188.114.96.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-co-jp.xmrmjz.xyz",
+        "count": "1",
+        "first_seen": "2022-02-21 05:44:49",
+        "last_seen": "2022-02-21 05:44:49",
+        "ip_address": "188.114.97.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-co-jp.xmrmjz.xyz",
+        "count": "4",
+        "first_seen": "2022-02-21 03:08:50",
+        "last_seen": "2022-02-21 08:58:30",
+        "ip_address": "188.114.96.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-co-jp.xmrmjz.xyz",
+        "count": "4",
+        "first_seen": "2022-02-21 03:08:50",
+        "last_seen": "2022-02-21 08:58:30",
+        "ip_address": "188.114.97.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-co-jp.xmrmjz.xyz",
+        "count": "1",
+        "first_seen": "2022-02-21 03:08:55",
+        "last_seen": "2022-02-21 03:08:55",
+        "ip_address": "2a06:98c1:3120::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "smbc-co-jp.xmrmjz.xyz",
+        "count": "1",
+        "first_seen": "2022-02-21 03:08:55",
+        "last_seen": "2022-02-21 03:08:55",
+        "ip_address": "2a06:98c1:3121::16",
+        "type": "IPv6"
+    }
+]

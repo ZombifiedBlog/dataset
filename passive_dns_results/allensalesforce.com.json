@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "allensalesforce.com",
+        "count": "1",
+        "first_seen": "2013-11-24 13:41:38",
+        "last_seen": "2013-11-24 13:41:38",
+        "ip_address": "50.63.202.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "allensalesforce.com",
+        "count": "2",
+        "first_seen": "2011-02-04 14:45:53",
+        "last_seen": "2011-09-27 01:44:42",
+        "ip_address": "68.178.232.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "allensalesforce.com",
+        "count": "136",
+        "first_seen": "2014-05-14 00:32:43",
+        "last_seen": "2015-08-29 11:26:16",
+        "ip_address": "93.158.98.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "allensalesforce.com",
+        "count": "5",
+        "first_seen": "2016-03-13 21:38:38",
+        "last_seen": "2016-03-16 12:38:34",
+        "ip_address": "208.91.197.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "allensalesforce.com",
+        "count": "3",
+        "first_seen": "2014-03-14 04:05:36",
+        "last_seen": "2014-03-16 04:03:14",
+        "ip_address": "208.91.197.218",
+        "type": "IPv4"
+    }
+]

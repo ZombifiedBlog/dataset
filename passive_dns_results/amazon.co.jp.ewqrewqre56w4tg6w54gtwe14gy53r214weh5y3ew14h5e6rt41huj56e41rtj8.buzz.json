@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "amazon.co.jp.ewqrewqre56w4tg6w54gtwe14gy53r214weh5y3ew14h5e6rt41huj56e41rtj8.buzz",
+        "count": "1",
+        "first_seen": "2021-07-01 06:51:48",
+        "last_seen": "2021-07-01 06:51:48",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.co.jp.ewqrewqre56w4tg6w54gtwe14gy53r214weh5y3ew14h5e6rt41huj56e41rtj8.buzz",
+        "count": "89",
+        "first_seen": "2020-06-23 18:04:43",
+        "last_seen": "2020-06-25 10:31:58",
+        "ip_address": "104.24.96.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.co.jp.ewqrewqre56w4tg6w54gtwe14gy53r214weh5y3ew14h5e6rt41huj56e41rtj8.buzz",
+        "count": "89",
+        "first_seen": "2020-06-23 18:04:43",
+        "last_seen": "2020-06-25 10:31:58",
+        "ip_address": "104.24.97.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.co.jp.ewqrewqre56w4tg6w54gtwe14gy53r214weh5y3ew14h5e6rt41huj56e41rtj8.buzz",
+        "count": "89",
+        "first_seen": "2020-06-23 18:04:43",
+        "last_seen": "2020-06-25 10:31:58",
+        "ip_address": "172.67.206.206",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon.co.jp.ewqrewqre56w4tg6w54gtwe14gy53r214weh5y3ew14h5e6rt41huj56e41rtj8.buzz",
+        "count": "73",
+        "first_seen": "2020-06-23 20:14:52",
+        "last_seen": "2020-06-25 10:31:58",
+        "ip_address": "2606:4700:3031::6818:604a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon.co.jp.ewqrewqre56w4tg6w54gtwe14gy53r214weh5y3ew14h5e6rt41huj56e41rtj8.buzz",
+        "count": "73",
+        "first_seen": "2020-06-23 20:14:52",
+        "last_seen": "2020-06-25 10:31:58",
+        "ip_address": "2606:4700:3031::6818:614a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon.co.jp.ewqrewqre56w4tg6w54gtwe14gy53r214weh5y3ew14h5e6rt41huj56e41rtj8.buzz",
+        "count": "73",
+        "first_seen": "2020-06-23 20:14:52",
+        "last_seen": "2020-06-25 10:31:58",
+        "ip_address": "2606:4700:3031::ac43:cece",
+        "type": "IPv6"
+    }
+]

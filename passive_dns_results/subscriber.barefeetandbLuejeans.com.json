@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "subscriber.barefeetandbLuejeans.com",
+        "count": "6",
+        "first_seen": "2023-05-03 04:21:55",
+        "last_seen": "2023-12-31 11:28:47",
+        "ip_address": "3.64.163.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.barefeetandbLuejeans.com",
+        "count": "5",
+        "first_seen": "2023-01-25 10:10:05",
+        "last_seen": "2023-02-09 23:08:38",
+        "ip_address": "103.120.80.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.barefeetandbLuejeans.com",
+        "count": "5",
+        "first_seen": "2023-01-25 10:10:05",
+        "last_seen": "2023-02-09 23:08:38",
+        "ip_address": "103.139.0.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.barefeetandbLuejeans.com",
+        "count": "2875",
+        "first_seen": "2022-11-19 16:13:20",
+        "last_seen": "2023-01-16 12:26:05",
+        "ip_address": "104.21.61.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.barefeetandbLuejeans.com",
+        "count": "2875",
+        "first_seen": "2022-11-19 16:13:20",
+        "last_seen": "2023-01-16 12:26:05",
+        "ip_address": "172.67.205.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.barefeetandbLuejeans.com",
+        "count": "8",
+        "first_seen": "2023-09-04 23:56:54",
+        "last_seen": "2023-12-31 11:28:47",
+        "ip_address": "3.64.163.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.barefeetandbLuejeans.com",
+        "count": "128",
+        "first_seen": "2022-11-19 22:00:06",
+        "last_seen": "2023-01-15 15:56:21",
+        "ip_address": "2606:4700:3033::6815:3d14",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.barefeetandbLuejeans.com",
+        "count": "128",
+        "first_seen": "2022-11-19 22:00:06",
+        "last_seen": "2023-01-15 15:56:21",
+        "ip_address": "2606:4700:3037::ac43:cd27",
+        "type": "IPv6"
+    }
+]

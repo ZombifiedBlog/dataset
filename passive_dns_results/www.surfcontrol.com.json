@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.surfcontrol.com",
+        "count": "2511671",
+        "first_seen": "2013-02-04 23:39:07",
+        "last_seen": "2024-01-17 15:44:49",
+        "ip_address": "204.15.67.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.surfcontrol.com",
+        "count": "2483514",
+        "first_seen": "2010-06-24 03:43:01",
+        "last_seen": "2013-02-04 23:37:25",
+        "ip_address": "204.15.67.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.surfcontrol.com",
+        "count": "3642",
+        "first_seen": "2016-09-21 18:37:07",
+        "last_seen": "2016-10-14 22:01:24",
+        "ip_address": "::204.15.67.15",
+        "type": "IPv6"
+    }
+]

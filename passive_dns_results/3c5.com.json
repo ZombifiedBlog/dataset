@@ -1,0 +1,434 @@
+[
+    {
+        "domain": "3c5.com",
+        "count": "19421",
+        "first_seen": "2023-03-10 09:25:02",
+        "last_seen": "2023-07-20 00:29:21",
+        "ip_address": "70.39.67.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "3360",
+        "first_seen": "2022-05-17 08:49:45",
+        "last_seen": "2022-06-26 04:48:58",
+        "ip_address": "103.179.243.175",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "9",
+        "first_seen": "2014-05-21 04:10:40",
+        "last_seen": "2014-09-09 18:43:49",
+        "ip_address": "103.240.148.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "103338",
+        "first_seen": "2022-06-26 12:50:38",
+        "last_seen": "2023-03-01 11:16:43",
+        "ip_address": "104.21.26.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "103338",
+        "first_seen": "2022-06-26 12:50:38",
+        "last_seen": "2023-03-01 11:16:43",
+        "ip_address": "172.67.135.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "10365",
+        "first_seen": "2021-11-05 04:54:54",
+        "last_seen": "2022-01-22 19:23:45",
+        "ip_address": "104.21.54.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "10365",
+        "first_seen": "2021-11-05 04:54:54",
+        "last_seen": "2022-01-22 19:23:45",
+        "ip_address": "172.67.221.235",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "1938",
+        "first_seen": "2023-07-20 01:59:32",
+        "last_seen": "2024-01-18 13:55:28",
+        "ip_address": "104.21.86.156",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "1938",
+        "first_seen": "2023-07-20 01:59:32",
+        "last_seen": "2024-01-18 13:55:28",
+        "ip_address": "172.67.221.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "18293",
+        "first_seen": "2022-01-14 03:07:29",
+        "last_seen": "2022-05-17 00:49:06",
+        "ip_address": "116.213.41.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "3",
+        "first_seen": "2014-10-23 00:44:24",
+        "last_seen": "2014-10-23 21:10:28",
+        "ip_address": "122.112.89.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "1",
+        "first_seen": "2012-12-06 08:41:56",
+        "last_seen": "2012-12-06 08:41:56",
+        "ip_address": "176.74.176.167",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "2",
+        "first_seen": "2014-03-02 17:50:11",
+        "last_seen": "2014-03-04 06:13:42",
+        "ip_address": "176.74.176.178",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "2",
+        "first_seen": "2014-05-02 18:08:10",
+        "last_seen": "2014-05-02 18:08:11",
+        "ip_address": "176.74.176.179",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "23",
+        "first_seen": "2023-02-15 02:33:54",
+        "last_seen": "2023-02-16 06:00:45",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "23",
+        "first_seen": "2023-02-15 02:33:54",
+        "last_seen": "2023-02-16 06:00:45",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "381",
+        "first_seen": "2022-08-25 02:01:45",
+        "last_seen": "2022-10-16 16:19:28",
+        "ip_address": "188.114.96.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "381",
+        "first_seen": "2022-08-25 02:01:45",
+        "last_seen": "2022-10-16 16:19:28",
+        "ip_address": "188.114.97.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "101",
+        "first_seen": "2022-07-03 05:43:15",
+        "last_seen": "2023-02-28 20:00:17",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "101",
+        "first_seen": "2022-07-03 05:43:15",
+        "last_seen": "2023-02-28 20:00:17",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "9267",
+        "first_seen": "2022-06-27 19:17:06",
+        "last_seen": "2023-03-01 10:46:28",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "9267",
+        "first_seen": "2022-06-27 19:17:06",
+        "last_seen": "2023-03-01 10:46:28",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "304",
+        "first_seen": "2022-07-01 05:09:23",
+        "last_seen": "2023-03-01 08:29:10",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "304",
+        "first_seen": "2022-07-01 05:09:23",
+        "last_seen": "2023-03-01 08:29:10",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "13",
+        "first_seen": "2022-08-26 18:35:15",
+        "last_seen": "2023-02-10 07:12:38",
+        "ip_address": "188.114.96.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "13",
+        "first_seen": "2022-08-26 18:35:15",
+        "last_seen": "2023-02-10 07:12:38",
+        "ip_address": "188.114.97.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "281",
+        "first_seen": "2021-11-24 11:55:20",
+        "last_seen": "2023-03-01 07:57:09",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "281",
+        "first_seen": "2021-11-24 11:55:20",
+        "last_seen": "2023-03-01 07:57:09",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "2",
+        "first_seen": "2021-11-24 12:34:45",
+        "last_seen": "2021-11-24 17:59:59",
+        "ip_address": "188.114.96.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "2",
+        "first_seen": "2021-11-24 12:34:45",
+        "last_seen": "2021-11-24 17:59:59",
+        "ip_address": "188.114.97.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "5",
+        "first_seen": "2022-10-30 11:09:06",
+        "last_seen": "2022-10-30 11:13:15",
+        "ip_address": "192.186.14.80",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "1",
+        "first_seen": "2011-09-24 17:25:54",
+        "last_seen": "2011-09-24 17:25:54",
+        "ip_address": "208.87.32.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "1",
+        "first_seen": "2011-11-06 22:32:10",
+        "last_seen": "2011-11-06 22:32:10",
+        "ip_address": "208.87.35.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "26",
+        "first_seen": "2013-03-11 11:55:24",
+        "last_seen": "2013-11-02 23:05:47",
+        "ip_address": "208.87.35.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "1",
+        "first_seen": "2014-03-17 15:47:43",
+        "last_seen": "2014-03-17 15:47:43",
+        "ip_address": "208.87.35.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "1",
+        "first_seen": "2012-08-26 17:17:25",
+        "last_seen": "2012-08-26 17:17:25",
+        "ip_address": "208.87.35.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "53532",
+        "first_seen": "2022-06-27 16:26:14",
+        "last_seen": "2023-03-01 04:13:17",
+        "ip_address": "2606:4700:3031::6815:1a5e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "53532",
+        "first_seen": "2022-06-27 16:26:14",
+        "last_seen": "2023-03-01 04:13:17",
+        "ip_address": "2606:4700:3036::ac43:87d4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "784",
+        "first_seen": "2023-07-20 02:01:02",
+        "last_seen": "2024-01-18 16:57:54",
+        "ip_address": "2606:4700:3031::ac43:dd9b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "784",
+        "first_seen": "2023-07-20 02:01:02",
+        "last_seen": "2024-01-18 16:57:54",
+        "ip_address": "2606:4700:3035::6815:569c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "4024",
+        "first_seen": "2021-11-14 02:54:39",
+        "last_seen": "2022-01-22 16:31:29",
+        "ip_address": "2606:4700:3031::ac43:ddeb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "4024",
+        "first_seen": "2021-11-14 02:54:39",
+        "last_seen": "2022-01-22 16:31:29",
+        "ip_address": "2606:4700:3035::6815:3604",
+        "type": "IPv6"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "2",
+        "first_seen": "2022-09-27 23:58:15",
+        "last_seen": "2022-09-27 23:58:15",
+        "ip_address": "2a06:98c1:3120::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "2",
+        "first_seen": "2022-09-27 23:58:15",
+        "last_seen": "2022-09-27 23:58:15",
+        "ip_address": "2a06:98c1:3121::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "1",
+        "first_seen": "2022-07-12 08:27:36",
+        "last_seen": "2022-07-12 08:27:36",
+        "ip_address": "2a06:98c1:3120::2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "1",
+        "first_seen": "2022-07-12 08:27:36",
+        "last_seen": "2022-07-12 08:27:36",
+        "ip_address": "2a06:98c1:3121::2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "7293",
+        "first_seen": "2022-06-27 11:57:23",
+        "last_seen": "2023-03-01 10:46:28",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "7293",
+        "first_seen": "2022-06-27 11:57:23",
+        "last_seen": "2023-03-01 10:46:28",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "261",
+        "first_seen": "2022-07-12 21:40:32",
+        "last_seen": "2023-03-01 08:29:10",
+        "ip_address": "2a06:98c1:3120::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "261",
+        "first_seen": "2022-07-12 21:40:32",
+        "last_seen": "2023-03-01 08:29:10",
+        "ip_address": "2a06:98c1:3121::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "127",
+        "first_seen": "2022-07-08 23:45:05",
+        "last_seen": "2023-03-01 00:41:00",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "127",
+        "first_seen": "2022-07-08 23:45:05",
+        "last_seen": "2023-03-01 00:41:00",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "1",
+        "first_seen": "2021-11-24 12:34:45",
+        "last_seen": "2021-11-24 12:34:45",
+        "ip_address": "2a06:98c1:3120::15",
+        "type": "IPv6"
+    },
+    {
+        "domain": "3c5.com",
+        "count": "1",
+        "first_seen": "2021-11-24 12:34:45",
+        "last_seen": "2021-11-24 12:34:45",
+        "ip_address": "2a06:98c1:3121::15",
+        "type": "IPv6"
+    }
+]

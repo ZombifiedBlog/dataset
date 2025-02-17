@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "49478f487721f77ee6ba6f0cdf2dd213.0730idc.net",
+        "count": "24",
+        "first_seen": "2023-06-14 11:48:28",
+        "last_seen": "2023-07-14 02:17:59",
+        "ip_address": "64.190.63.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "49478f487721f77ee6ba6f0cdf2dd213.0730idc.net",
+        "count": "48",
+        "first_seen": "2023-05-30 04:35:35",
+        "last_seen": "2023-06-13 20:24:23",
+        "ip_address": "104.21.21.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "49478f487721f77ee6ba6f0cdf2dd213.0730idc.net",
+        "count": "48",
+        "first_seen": "2023-05-30 04:35:35",
+        "last_seen": "2023-06-13 20:24:23",
+        "ip_address": "172.67.198.73",
+        "type": "IPv4"
+    },
+    {
+        "domain": "49478f487721f77ee6ba6f0cdf2dd213.0730idc.net",
+        "count": "2",
+        "first_seen": "2023-07-22 09:36:37",
+        "last_seen": "2023-07-28 02:21:06",
+        "ip_address": "104.160.190.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "49478f487721f77ee6ba6f0cdf2dd213.0730idc.net",
+        "count": "23",
+        "first_seen": "2023-06-08 00:34:36",
+        "last_seen": "2023-06-13 20:24:23",
+        "ip_address": "2606:4700:3033::ac43:c649",
+        "type": "IPv6"
+    },
+    {
+        "domain": "49478f487721f77ee6ba6f0cdf2dd213.0730idc.net",
+        "count": "23",
+        "first_seen": "2023-06-08 00:34:36",
+        "last_seen": "2023-06-13 20:24:23",
+        "ip_address": "2606:4700:3035::6815:156f",
+        "type": "IPv6"
+    }
+]

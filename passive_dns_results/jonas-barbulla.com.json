@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "jonas-barbulla.com",
+        "count": "5",
+        "first_seen": "2019-05-12 05:07:14",
+        "last_seen": "2019-07-30 02:26:05",
+        "ip_address": "50.63.202.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jonas-barbulla.com",
+        "count": "18",
+        "first_seen": "2019-04-30 12:14:05",
+        "last_seen": "2019-07-26 10:19:54",
+        "ip_address": "50.63.202.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jonas-barbulla.com",
+        "count": "15",
+        "first_seen": "2019-05-15 01:33:44",
+        "last_seen": "2019-08-02 18:42:54",
+        "ip_address": "50.63.202.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jonas-barbulla.com",
+        "count": "20",
+        "first_seen": "2019-08-17 19:31:55",
+        "last_seen": "2019-09-29 05:48:45",
+        "ip_address": "51.91.249.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jonas-barbulla.com",
+        "count": "223",
+        "first_seen": "2019-10-01 07:53:10",
+        "last_seen": "2020-04-30 06:46:59",
+        "ip_address": "108.174.194.54",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jonas-barbulla.com",
+        "count": "12",
+        "first_seen": "2019-05-22 15:31:40",
+        "last_seen": "2019-08-06 13:26:35",
+        "ip_address": "184.168.221.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jonas-barbulla.com",
+        "count": "6",
+        "first_seen": "2020-05-24 04:11:07",
+        "last_seen": "2020-06-04 02:51:15",
+        "ip_address": "184.168.221.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jonas-barbulla.com",
+        "count": "2",
+        "first_seen": "2020-05-09 22:05:42",
+        "last_seen": "2020-05-09 22:05:42",
+        "ip_address": "184.168.221.82",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jonas-barbulla.com",
+        "count": "3",
+        "first_seen": "2020-05-23 14:08:21",
+        "last_seen": "2020-06-06 19:51:40",
+        "ip_address": "184.168.221.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jonas-barbulla.com",
+        "count": "2",
+        "first_seen": "2020-05-04 17:05:30",
+        "last_seen": "2020-05-04 17:05:30",
+        "ip_address": "184.168.221.94",
+        "type": "IPv4"
+    }
+]

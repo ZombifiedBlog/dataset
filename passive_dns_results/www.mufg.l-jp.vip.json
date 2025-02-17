@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.mufg.l-jp.vip",
+        "count": "2",
+        "first_seen": "2022-05-17 10:07:28",
+        "last_seen": "2022-06-01 04:14:10",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mufg.l-jp.vip",
+        "count": "22",
+        "first_seen": "2021-05-10 20:28:47",
+        "last_seen": "2022-04-04 11:07:50",
+        "ip_address": "104.168.89.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mufg.l-jp.vip",
+        "count": "311",
+        "first_seen": "2021-05-07 15:08:58",
+        "last_seen": "2021-05-08 06:56:46",
+        "ip_address": "192.3.48.119",
+        "type": "IPv4"
+    }
+]

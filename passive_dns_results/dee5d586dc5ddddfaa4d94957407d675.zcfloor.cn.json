@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "dee5d586dc5ddddfaa4d94957407d675.zcfloor.cn",
+        "count": "2",
+        "first_seen": "2023-07-14 08:34:02",
+        "last_seen": "2023-07-14 10:33:37",
+        "ip_address": "104.21.96.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dee5d586dc5ddddfaa4d94957407d675.zcfloor.cn",
+        "count": "2",
+        "first_seen": "2023-07-14 08:34:02",
+        "last_seen": "2023-07-14 10:33:37",
+        "ip_address": "172.67.173.252",
+        "type": "IPv4"
+    },
+    {
+        "domain": "dee5d586dc5ddddfaa4d94957407d675.zcfloor.cn",
+        "count": "2",
+        "first_seen": "2023-07-14 08:34:02",
+        "last_seen": "2023-07-14 10:33:37",
+        "ip_address": "2606:4700:3030::6815:6042",
+        "type": "IPv6"
+    },
+    {
+        "domain": "dee5d586dc5ddddfaa4d94957407d675.zcfloor.cn",
+        "count": "2",
+        "first_seen": "2023-07-14 08:34:02",
+        "last_seen": "2023-07-14 10:33:37",
+        "ip_address": "2606:4700:3035::ac43:adfc",
+        "type": "IPv6"
+    }
+]

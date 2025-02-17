@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www.yourdigitalprofessionals.com",
+        "count": "222",
+        "first_seen": "2020-02-25 14:10:04",
+        "last_seen": "2020-03-22 17:06:56",
+        "ip_address": "104.24.104.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.yourdigitalprofessionals.com",
+        "count": "222",
+        "first_seen": "2020-02-25 14:10:04",
+        "last_seen": "2020-03-22 17:06:56",
+        "ip_address": "104.24.105.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.yourdigitalprofessionals.com",
+        "count": "11",
+        "first_seen": "2020-04-03 06:50:32",
+        "last_seen": "2020-05-04 22:58:30",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.yourdigitalprofessionals.com",
+        "count": "11",
+        "first_seen": "2020-04-03 06:50:32",
+        "last_seen": "2020-05-04 22:58:30",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.yourdigitalprofessionals.com",
+        "count": "11",
+        "first_seen": "2020-04-03 06:50:32",
+        "last_seen": "2020-05-04 22:58:30",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.yourdigitalprofessionals.com",
+        "count": "11",
+        "first_seen": "2020-04-03 06:50:32",
+        "last_seen": "2020-05-04 22:58:30",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.yourdigitalprofessionals.com",
+        "count": "32",
+        "first_seen": "2020-02-25 14:10:20",
+        "last_seen": "2020-03-22 17:06:55",
+        "ip_address": "2606:4700:3032::6818:6858",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.yourdigitalprofessionals.com",
+        "count": "32",
+        "first_seen": "2020-02-25 14:10:20",
+        "last_seen": "2020-03-22 17:06:55",
+        "ip_address": "2606:4700:3037::6818:6958",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "amazon-us-west-amazonaws-account.dormpals.com",
+        "count": "6",
+        "first_seen": "2019-11-17 11:19:08",
+        "last_seen": "2019-11-20 10:21:48",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-amazonaws-account.dormpals.com",
+        "count": "2",
+        "first_seen": "2020-12-17 03:48:23",
+        "last_seen": "2021-01-19 01:31:09",
+        "ip_address": "75.126.101.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-amazonaws-account.dormpals.com",
+        "count": "2",
+        "first_seen": "2021-05-25 12:02:27",
+        "last_seen": "2021-05-26 10:14:58",
+        "ip_address": "91.195.240.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-amazonaws-account.dormpals.com",
+        "count": "1836",
+        "first_seen": "2019-10-09 04:46:06",
+        "last_seen": "2019-11-02 13:19:32",
+        "ip_address": "104.24.98.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-amazonaws-account.dormpals.com",
+        "count": "1836",
+        "first_seen": "2019-10-09 04:46:06",
+        "last_seen": "2019-11-02 13:19:32",
+        "ip_address": "104.24.99.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-us-west-amazonaws-account.dormpals.com",
+        "count": "123",
+        "first_seen": "2019-10-09 05:28:03",
+        "last_seen": "2019-10-28 20:35:22",
+        "ip_address": "2606:4700:30::6818:62aa",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon-us-west-amazonaws-account.dormpals.com",
+        "count": "123",
+        "first_seen": "2019-10-09 05:28:03",
+        "last_seen": "2019-10-28 20:35:22",
+        "ip_address": "2606:4700:30::6818:63aa",
+        "type": "IPv6"
+    }
+]

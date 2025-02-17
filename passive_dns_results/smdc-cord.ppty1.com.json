@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "smdc-cord.ppty1.com",
+        "count": "2",
+        "first_seen": "2021-09-18 16:59:19",
+        "last_seen": "2021-09-19 17:26:12",
+        "ip_address": "45.251.242.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smdc-cord.ppty1.com",
+        "count": "39",
+        "first_seen": "2020-11-16 02:24:30",
+        "last_seen": "2020-11-16 03:33:28",
+        "ip_address": "62.216.80.167",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smdc-cord.ppty1.com",
+        "count": "3",
+        "first_seen": "2022-01-05 02:35:31",
+        "last_seen": "2022-01-09 02:34:51",
+        "ip_address": "154.7.84.26",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "zealanced.com",
+        "count": "524",
+        "first_seen": "2022-10-13 21:47:49",
+        "last_seen": "2023-03-23 13:10:44",
+        "ip_address": "54.38.111.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zealanced.com",
+        "count": "3",
+        "first_seen": "2020-09-17 13:27:37",
+        "last_seen": "2022-10-08 19:08:40",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zealanced.com",
+        "count": "38",
+        "first_seen": "2023-10-09 17:23:08",
+        "last_seen": "2023-11-06 10:26:07",
+        "ip_address": "172.234.25.151",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zealanced.com",
+        "count": "497",
+        "first_seen": "2020-09-26 06:48:04",
+        "last_seen": "2021-09-17 03:35:17",
+        "ip_address": "192.154.241.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zealanced.com",
+        "count": "98",
+        "first_seen": "2022-10-22 13:14:14",
+        "last_seen": "2023-02-27 20:02:55",
+        "ip_address": "198.54.117.242",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zealanced.com",
+        "count": "706",
+        "first_seen": "2023-03-24 19:17:51",
+        "last_seen": "2023-09-23 23:31:31",
+        "ip_address": "198.211.53.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "zealanced.com",
+        "count": "6",
+        "first_seen": "2021-09-20 11:11:13",
+        "last_seen": "2021-10-25 06:52:58",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    }
+]

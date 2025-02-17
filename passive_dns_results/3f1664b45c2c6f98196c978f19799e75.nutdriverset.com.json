@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "3f1664b45c2c6f98196c978f19799e75.nutdriverset.com",
+        "count": "2",
+        "first_seen": "2023-11-04 09:02:44",
+        "last_seen": "2023-11-04 09:02:44",
+        "ip_address": "64.190.63.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3f1664b45c2c6f98196c978f19799e75.nutdriverset.com",
+        "count": "3",
+        "first_seen": "2023-08-20 14:48:50",
+        "last_seen": "2023-08-20 14:48:52",
+        "ip_address": "154.40.56.231",
+        "type": "IPv4"
+    },
+    {
+        "domain": "3f1664b45c2c6f98196c978f19799e75.nutdriverset.com",
+        "count": "1",
+        "first_seen": "2023-08-02 08:29:41",
+        "last_seen": "2023-08-02 08:29:41",
+        "ip_address": "2606:4700:3035::ac43:93f3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "3f1664b45c2c6f98196c978f19799e75.nutdriverset.com",
+        "count": "1",
+        "first_seen": "2023-08-02 08:29:41",
+        "last_seen": "2023-08-02 08:29:41",
+        "ip_address": "2606:4700:3037::6815:3fa6",
+        "type": "IPv6"
+    }
+]

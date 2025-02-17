@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "amazon-mail.win",
+        "count": "14",
+        "first_seen": "2021-09-05 02:00:50",
+        "last_seen": "2021-10-04 17:59:45",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-mail.win",
+        "count": "611",
+        "first_seen": "2020-09-01 12:56:32",
+        "last_seen": "2021-09-02 02:14:00",
+        "ip_address": "148.66.128.194",
+        "type": "IPv4"
+    }
+]

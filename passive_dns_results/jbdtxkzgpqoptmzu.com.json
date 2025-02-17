@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "jbdtxkzgpqoptmzu.com",
+        "count": "34",
+        "first_seen": "2023-06-06 03:43:50",
+        "last_seen": "2023-07-09 06:04:19",
+        "ip_address": "104.21.27.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jbdtxkzgpqoptmzu.com",
+        "count": "34",
+        "first_seen": "2023-06-06 03:43:50",
+        "last_seen": "2023-07-09 06:04:19",
+        "ip_address": "172.67.143.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jbdtxkzgpqoptmzu.com",
+        "count": "126",
+        "first_seen": "2023-07-09 16:18:09",
+        "last_seen": "2023-07-10 03:00:24",
+        "ip_address": "204.44.70.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jbdtxkzgpqoptmzu.com",
+        "count": "3",
+        "first_seen": "2023-06-06 03:43:50",
+        "last_seen": "2023-06-06 18:35:36",
+        "ip_address": "2606:4700:3032::ac43:8f99",
+        "type": "IPv6"
+    },
+    {
+        "domain": "jbdtxkzgpqoptmzu.com",
+        "count": "3",
+        "first_seen": "2023-06-06 03:43:50",
+        "last_seen": "2023-06-06 18:35:36",
+        "ip_address": "2606:4700:3033::6815:1bdb",
+        "type": "IPv6"
+    }
+]

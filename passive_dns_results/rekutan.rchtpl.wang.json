@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "rekutan.rchtpl.wang",
+        "count": "69",
+        "first_seen": "2020-09-26 03:19:11",
+        "last_seen": "2020-11-03 19:03:43",
+        "ip_address": "104.24.110.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekutan.rchtpl.wang",
+        "count": "69",
+        "first_seen": "2020-09-26 03:19:11",
+        "last_seen": "2020-11-03 19:03:43",
+        "ip_address": "104.24.111.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekutan.rchtpl.wang",
+        "count": "69",
+        "first_seen": "2020-09-26 03:19:11",
+        "last_seen": "2020-11-03 19:03:43",
+        "ip_address": "172.67.215.206",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekutan.rchtpl.wang",
+        "count": "4",
+        "first_seen": "2020-09-26 03:19:11",
+        "last_seen": "2020-09-26 15:40:21",
+        "ip_address": "2606:4700:3030::6818:6f25",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rekutan.rchtpl.wang",
+        "count": "4",
+        "first_seen": "2020-09-26 03:19:11",
+        "last_seen": "2020-09-26 15:40:21",
+        "ip_address": "2606:4700:3034::ac43:d7ce",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rekutan.rchtpl.wang",
+        "count": "4",
+        "first_seen": "2020-09-26 03:19:11",
+        "last_seen": "2020-09-26 15:40:21",
+        "ip_address": "2606:4700:3036::6818:6e25",
+        "type": "IPv6"
+    }
+]

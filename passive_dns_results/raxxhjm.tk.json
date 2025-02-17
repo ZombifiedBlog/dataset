@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "raxxhjm.tk",
+        "count": "232",
+        "first_seen": "2022-01-14 08:38:07",
+        "last_seen": "2022-03-14 20:39:27",
+        "ip_address": "104.21.50.81",
+        "type": "IPv4"
+    },
+    {
+        "domain": "raxxhjm.tk",
+        "count": "232",
+        "first_seen": "2022-01-14 08:38:07",
+        "last_seen": "2022-03-14 20:39:27",
+        "ip_address": "172.67.159.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "raxxhjm.tk",
+        "count": "9",
+        "first_seen": "2022-01-14 08:22:51",
+        "last_seen": "2022-01-14 08:25:46",
+        "ip_address": "173.82.153.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "raxxhjm.tk",
+        "count": "2",
+        "first_seen": "2022-01-14 08:45:31",
+        "last_seen": "2022-01-15 00:08:05",
+        "ip_address": "2606:4700:3033::6815:3251",
+        "type": "IPv6"
+    },
+    {
+        "domain": "raxxhjm.tk",
+        "count": "2",
+        "first_seen": "2022-01-14 08:45:31",
+        "last_seen": "2022-01-15 00:08:05",
+        "ip_address": "2606:4700:3035::ac43:9f7b",
+        "type": "IPv6"
+    }
+]

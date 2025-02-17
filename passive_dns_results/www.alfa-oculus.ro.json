@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.alfa-oculus.ro",
+        "count": "4871",
+        "first_seen": "2015-03-14 19:32:45",
+        "last_seen": "2024-01-14 23:17:57",
+        "ip_address": "5.2.225.214",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alfa-oculus.ro",
+        "count": "17",
+        "first_seen": "2024-01-15 14:31:30",
+        "last_seen": "2024-01-17 19:05:48",
+        "ip_address": "89.42.218.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alfa-oculus.ro",
+        "count": "81",
+        "first_seen": "2011-12-23 10:53:03",
+        "last_seen": "2014-12-20 11:04:43",
+        "ip_address": "94.177.3.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alfa-oculus.ro",
+        "count": "61",
+        "first_seen": "2014-12-29 12:57:43",
+        "last_seen": "2015-03-12 20:09:10",
+        "ip_address": "188.25.70.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alfa-oculus.ro",
+        "count": "55",
+        "first_seen": "2014-12-28 11:28:08",
+        "last_seen": "2015-03-12 15:20:54",
+        "ip_address": "188.26.70.28",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "seervzw.be",
+        "count": "28",
+        "first_seen": "2018-09-27 19:05:49",
+        "last_seen": "2019-01-10 16:16:24",
+        "ip_address": "31.186.171.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "seervzw.be",
+        "count": "1052",
+        "first_seen": "2019-01-11 12:00:58",
+        "last_seen": "2024-01-11 10:49:16",
+        "ip_address": "185.87.187.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "seervzw.be",
+        "count": "450",
+        "first_seen": "2019-01-11 12:00:58",
+        "last_seen": "2024-01-02 21:13:02",
+        "ip_address": "2a00:f10:305:0:1c00:8cff:fe00:445",
+        "type": "IPv6"
+    },
+    {
+        "domain": "seervzw.be",
+        "count": "24",
+        "first_seen": "2018-09-27 19:05:49",
+        "last_seen": "2018-12-15 11:42:20",
+        "ip_address": "2a02:40c0:1000:1000:0:4:6:1",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "www.xsbndzqamu.com",
+        "count": "7",
+        "first_seen": "2021-11-15 06:24:13",
+        "last_seen": "2022-08-18 14:44:09",
+        "ip_address": "104.21.86.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.xsbndzqamu.com",
+        "count": "7",
+        "first_seen": "2021-11-15 06:24:13",
+        "last_seen": "2022-08-18 14:44:09",
+        "ip_address": "172.67.136.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.xsbndzqamu.com",
+        "count": "1",
+        "first_seen": "2022-03-13 05:34:23",
+        "last_seen": "2022-03-13 05:34:23",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.xsbndzqamu.com",
+        "count": "1",
+        "first_seen": "2022-07-09 13:11:50",
+        "last_seen": "2022-07-09 13:11:50",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.xsbndzqamu.com",
+        "count": "1",
+        "first_seen": "2022-07-09 13:11:50",
+        "last_seen": "2022-07-09 13:11:50",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.xsbndzqamu.com",
+        "count": "1842",
+        "first_seen": "2022-09-13 11:52:31",
+        "last_seen": "2022-09-19 04:20:38",
+        "ip_address": "204.44.95.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.xsbndzqamu.com",
+        "count": "1",
+        "first_seen": "2022-03-13 05:34:24",
+        "last_seen": "2022-03-13 05:34:24",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.xsbndzqamu.com",
+        "count": "6",
+        "first_seen": "2021-11-15 06:24:14",
+        "last_seen": "2022-09-06 13:51:39",
+        "ip_address": "2606:4700:3033::ac43:8819",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.xsbndzqamu.com",
+        "count": "6",
+        "first_seen": "2021-11-15 06:24:14",
+        "last_seen": "2022-09-06 13:51:39",
+        "ip_address": "2606:4700:3037::6815:56bd",
+        "type": "IPv6"
+    }
+]

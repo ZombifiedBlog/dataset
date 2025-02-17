@@ -1,0 +1,114 @@
+[
+    {
+        "domain": "www-cr-mufg-jp.97jxbs.xyz",
+        "count": "22",
+        "first_seen": "2022-03-30 14:08:40",
+        "last_seen": "2022-08-23 19:28:47",
+        "ip_address": "104.21.93.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.97jxbs.xyz",
+        "count": "22",
+        "first_seen": "2022-03-30 14:08:40",
+        "last_seen": "2022-08-23 19:28:47",
+        "ip_address": "172.67.211.181",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.97jxbs.xyz",
+        "count": "6",
+        "first_seen": "2022-03-30 19:18:28",
+        "last_seen": "2022-04-03 20:14:23",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.97jxbs.xyz",
+        "count": "6",
+        "first_seen": "2022-03-30 19:18:28",
+        "last_seen": "2022-04-03 20:14:23",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.97jxbs.xyz",
+        "count": "12",
+        "first_seen": "2022-03-30 19:29:45",
+        "last_seen": "2022-04-03 20:58:54",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.97jxbs.xyz",
+        "count": "12",
+        "first_seen": "2022-03-30 19:29:45",
+        "last_seen": "2022-04-03 20:58:54",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.97jxbs.xyz",
+        "count": "1",
+        "first_seen": "2022-05-14 21:07:57",
+        "last_seen": "2022-05-14 21:07:57",
+        "ip_address": "188.114.96.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.97jxbs.xyz",
+        "count": "1",
+        "first_seen": "2022-05-14 21:07:57",
+        "last_seen": "2022-05-14 21:07:57",
+        "ip_address": "188.114.97.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.97jxbs.xyz",
+        "count": "13",
+        "first_seen": "2022-03-30 14:12:05",
+        "last_seen": "2022-03-30 18:47:41",
+        "ip_address": "188.114.96.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.97jxbs.xyz",
+        "count": "13",
+        "first_seen": "2022-03-30 14:12:05",
+        "last_seen": "2022-03-30 18:47:41",
+        "ip_address": "188.114.97.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-cr-mufg-jp.97jxbs.xyz",
+        "count": "1",
+        "first_seen": "2022-03-30 19:06:21",
+        "last_seen": "2022-03-30 19:06:21",
+        "ip_address": "2606:4700:3033::6815:5d99",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-cr-mufg-jp.97jxbs.xyz",
+        "count": "1",
+        "first_seen": "2022-03-30 19:06:21",
+        "last_seen": "2022-03-30 19:06:21",
+        "ip_address": "2606:4700:3033::ac43:d3b5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-cr-mufg-jp.97jxbs.xyz",
+        "count": "1",
+        "first_seen": "2022-03-30 14:12:06",
+        "last_seen": "2022-03-30 14:12:06",
+        "ip_address": "2a06:98c1:3120::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-cr-mufg-jp.97jxbs.xyz",
+        "count": "1",
+        "first_seen": "2022-03-30 14:12:06",
+        "last_seen": "2022-03-30 14:12:06",
+        "ip_address": "2a06:98c1:3121::16",
+        "type": "IPv6"
+    }
+]

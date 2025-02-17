@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www-aeon-co-jp.nyn500.top",
+        "count": "1",
+        "first_seen": "2022-09-26 18:05:24",
+        "last_seen": "2022-09-26 18:05:24",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-aeon-co-jp.nyn500.top",
+        "count": "120",
+        "first_seen": "2021-09-30 15:04:30",
+        "last_seen": "2021-10-13 01:45:38",
+        "ip_address": "104.21.80.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-aeon-co-jp.nyn500.top",
+        "count": "120",
+        "first_seen": "2021-09-30 15:04:30",
+        "last_seen": "2021-10-13 01:45:38",
+        "ip_address": "172.67.173.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-aeon-co-jp.nyn500.top",
+        "count": "21",
+        "first_seen": "2021-09-30 15:04:32",
+        "last_seen": "2021-10-11 21:28:42",
+        "ip_address": "2606:4700:3032::6815:501a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-aeon-co-jp.nyn500.top",
+        "count": "21",
+        "first_seen": "2021-09-30 15:04:32",
+        "last_seen": "2021-10-11 21:28:42",
+        "ip_address": "2606:4700:3036::ac43:ad58",
+        "type": "IPv6"
+    }
+]

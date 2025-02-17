@@ -1,0 +1,106 @@
+[
+    {
+        "domain": "direct-smbc-co-jp.madeulookads.com",
+        "count": "2",
+        "first_seen": "2021-12-22 10:53:54",
+        "last_seen": "2021-12-22 11:36:58",
+        "ip_address": "37.48.65.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "direct-smbc-co-jp.madeulookads.com",
+        "count": "1",
+        "first_seen": "2022-01-02 20:30:33",
+        "last_seen": "2022-01-02 20:30:33",
+        "ip_address": "81.171.22.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "direct-smbc-co-jp.madeulookads.com",
+        "count": "1",
+        "first_seen": "2021-03-04 11:29:00",
+        "last_seen": "2021-03-04 11:29:00",
+        "ip_address": "103.224.212.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "direct-smbc-co-jp.madeulookads.com",
+        "count": "8",
+        "first_seen": "2020-10-09 10:31:22",
+        "last_seen": "2020-10-09 14:27:17",
+        "ip_address": "104.18.32.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "direct-smbc-co-jp.madeulookads.com",
+        "count": "8",
+        "first_seen": "2020-10-09 10:31:22",
+        "last_seen": "2020-10-09 14:27:17",
+        "ip_address": "104.18.33.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "direct-smbc-co-jp.madeulookads.com",
+        "count": "8",
+        "first_seen": "2020-10-09 10:31:22",
+        "last_seen": "2020-10-09 14:27:17",
+        "ip_address": "172.67.214.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "direct-smbc-co-jp.madeulookads.com",
+        "count": "1",
+        "first_seen": "2021-07-28 07:11:30",
+        "last_seen": "2021-07-28 07:11:30",
+        "ip_address": "162.210.195.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "direct-smbc-co-jp.madeulookads.com",
+        "count": "2",
+        "first_seen": "2021-09-09 11:18:27",
+        "last_seen": "2021-12-22 11:38:20",
+        "ip_address": "162.210.196.166",
+        "type": "IPv4"
+    },
+    {
+        "domain": "direct-smbc-co-jp.madeulookads.com",
+        "count": "1",
+        "first_seen": "2022-03-01 14:29:18",
+        "last_seen": "2022-03-01 14:29:18",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "direct-smbc-co-jp.madeulookads.com",
+        "count": "1",
+        "first_seen": "2021-03-04 11:29:00",
+        "last_seen": "2021-03-04 11:29:00",
+        "ip_address": "103.224.212.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "direct-smbc-co-jp.madeulookads.com",
+        "count": "5",
+        "first_seen": "2020-10-09 10:31:22",
+        "last_seen": "2020-10-09 14:27:17",
+        "ip_address": "2606:4700:3033::6812:202e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "direct-smbc-co-jp.madeulookads.com",
+        "count": "5",
+        "first_seen": "2020-10-09 10:31:22",
+        "last_seen": "2020-10-09 14:27:17",
+        "ip_address": "2606:4700:3035::ac43:d659",
+        "type": "IPv6"
+    },
+    {
+        "domain": "direct-smbc-co-jp.madeulookads.com",
+        "count": "5",
+        "first_seen": "2020-10-09 10:31:22",
+        "last_seen": "2020-10-09 14:27:17",
+        "ip_address": "2606:4700:3037::6812:212e",
+        "type": "IPv6"
+    }
+]

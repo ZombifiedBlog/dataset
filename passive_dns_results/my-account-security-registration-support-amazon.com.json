@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "my-account-security-registration-support-amazon.com",
+        "count": "26",
+        "first_seen": "2020-06-02 09:45:24",
+        "last_seen": "2020-06-02 17:26:31",
+        "ip_address": "37.18.88.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-account-security-registration-support-amazon.com",
+        "count": "501",
+        "first_seen": "2020-06-03 03:23:18",
+        "last_seen": "2021-05-09 18:24:20",
+        "ip_address": "78.140.223.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-account-security-registration-support-amazon.com",
+        "count": "35",
+        "first_seen": "2021-06-04 20:52:29",
+        "last_seen": "2021-06-29 04:55:01",
+        "ip_address": "194.67.71.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-account-security-registration-support-amazon.com",
+        "count": "29",
+        "first_seen": "2020-06-02 06:16:57",
+        "last_seen": "2020-06-02 08:21:30",
+        "ip_address": "195.123.228.72",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-account-security-registration-support-amazon.com",
+        "count": "5",
+        "first_seen": "2021-06-06 12:41:00",
+        "last_seen": "2021-06-29 04:55:01",
+        "ip_address": "2a00:f940:4::10",
+        "type": "IPv6"
+    }
+]

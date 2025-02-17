@@ -1,0 +1,178 @@
+[
+    {
+        "domain": "subscriber.jlsjlkj.top",
+        "count": "2",
+        "first_seen": "2023-06-14 00:17:31",
+        "last_seen": "2023-06-21 00:34:44",
+        "ip_address": "49.51.77.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jlsjlkj.top",
+        "count": "3",
+        "first_seen": "2023-07-01 19:35:38",
+        "last_seen": "2023-07-06 23:07:05",
+        "ip_address": "49.51.79.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jlsjlkj.top",
+        "count": "585",
+        "first_seen": "2023-02-02 20:29:47",
+        "last_seen": "2023-02-09 08:28:31",
+        "ip_address": "104.21.37.135",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jlsjlkj.top",
+        "count": "585",
+        "first_seen": "2023-02-02 20:29:47",
+        "last_seen": "2023-02-09 08:28:31",
+        "ip_address": "172.67.208.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jlsjlkj.top",
+        "count": "29",
+        "first_seen": "2023-02-02 18:40:48",
+        "last_seen": "2023-02-08 06:51:01",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jlsjlkj.top",
+        "count": "29",
+        "first_seen": "2023-02-02 18:40:48",
+        "last_seen": "2023-02-08 06:51:01",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jlsjlkj.top",
+        "count": "18",
+        "first_seen": "2023-02-02 21:58:50",
+        "last_seen": "2023-02-07 15:23:44",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jlsjlkj.top",
+        "count": "18",
+        "first_seen": "2023-02-02 21:58:50",
+        "last_seen": "2023-02-07 15:23:44",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jlsjlkj.top",
+        "count": "1",
+        "first_seen": "2023-02-06 13:23:46",
+        "last_seen": "2023-02-06 13:23:46",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jlsjlkj.top",
+        "count": "1",
+        "first_seen": "2023-02-06 13:23:46",
+        "last_seen": "2023-02-06 13:23:46",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jlsjlkj.top",
+        "count": "1",
+        "first_seen": "2023-02-05 18:40:55",
+        "last_seen": "2023-02-05 18:40:55",
+        "ip_address": "188.114.96.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jlsjlkj.top",
+        "count": "1",
+        "first_seen": "2023-02-05 18:40:55",
+        "last_seen": "2023-02-05 18:40:55",
+        "ip_address": "188.114.97.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jlsjlkj.top",
+        "count": "11",
+        "first_seen": "2023-02-02 22:48:06",
+        "last_seen": "2023-02-06 22:47:30",
+        "ip_address": "188.114.96.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jlsjlkj.top",
+        "count": "11",
+        "first_seen": "2023-02-02 22:48:06",
+        "last_seen": "2023-02-06 22:47:30",
+        "ip_address": "188.114.97.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jlsjlkj.top",
+        "count": "36",
+        "first_seen": "2023-02-02 23:59:06",
+        "last_seen": "2023-02-09 01:51:18",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jlsjlkj.top",
+        "count": "36",
+        "first_seen": "2023-02-02 23:59:06",
+        "last_seen": "2023-02-09 01:51:18",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.jlsjlkj.top",
+        "count": "12",
+        "first_seen": "2023-02-02 21:27:53",
+        "last_seen": "2023-02-06 18:50:54",
+        "ip_address": "2606:4700:3031::6815:2587",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.jlsjlkj.top",
+        "count": "12",
+        "first_seen": "2023-02-02 21:27:53",
+        "last_seen": "2023-02-06 18:50:54",
+        "ip_address": "2606:4700:3037::ac43:d068",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.jlsjlkj.top",
+        "count": "8",
+        "first_seen": "2023-02-03 07:35:37",
+        "last_seen": "2023-02-07 15:23:44",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.jlsjlkj.top",
+        "count": "8",
+        "first_seen": "2023-02-03 07:35:37",
+        "last_seen": "2023-02-07 15:23:44",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.jlsjlkj.top",
+        "count": "17",
+        "first_seen": "2023-02-02 23:59:08",
+        "last_seen": "2023-02-09 01:51:18",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.jlsjlkj.top",
+        "count": "17",
+        "first_seen": "2023-02-02 23:59:08",
+        "last_seen": "2023-02-09 01:51:18",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

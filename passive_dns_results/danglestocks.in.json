@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "danglestocks.in",
+        "count": "1",
+        "first_seen": "2022-07-07 04:40:42",
+        "last_seen": "2022-07-07 04:40:42",
+        "ip_address": "38.98.34.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "danglestocks.in",
+        "count": "2",
+        "first_seen": "2023-07-05 17:52:45",
+        "last_seen": "2023-07-08 08:38:42",
+        "ip_address": "45.79.244.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "danglestocks.in",
+        "count": "417",
+        "first_seen": "2021-04-08 09:05:23",
+        "last_seen": "2022-04-06 18:06:26",
+        "ip_address": "95.216.246.143",
+        "type": "IPv4"
+    },
+    {
+        "domain": "danglestocks.in",
+        "count": "223",
+        "first_seen": "2022-04-06 18:38:33",
+        "last_seen": "2022-04-08 21:14:42",
+        "ip_address": "142.132.251.120",
+        "type": "IPv4"
+    },
+    {
+        "domain": "danglestocks.in",
+        "count": "61",
+        "first_seen": "2022-04-08 10:16:02",
+        "last_seen": "2022-05-20 03:46:58",
+        "ip_address": "209.99.40.222",
+        "type": "IPv4"
+    }
+]

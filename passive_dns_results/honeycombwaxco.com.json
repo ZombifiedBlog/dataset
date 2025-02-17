@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "honeycombwaxco.com",
+        "count": "138881",
+        "first_seen": "2020-09-27 20:40:25",
+        "last_seen": "2023-06-02 04:31:11",
+        "ip_address": "23.227.38.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "honeycombwaxco.com",
+        "count": "99",
+        "first_seen": "2019-02-02 18:34:02",
+        "last_seen": "2019-05-03 03:49:23",
+        "ip_address": "23.236.62.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "honeycombwaxco.com",
+        "count": "12699",
+        "first_seen": "2023-05-31 21:59:34",
+        "last_seen": "2024-01-18 09:50:52",
+        "ip_address": "63.141.128.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "honeycombwaxco.com",
+        "count": "2842",
+        "first_seen": "2019-01-13 23:24:07",
+        "last_seen": "2020-09-27 19:00:22",
+        "ip_address": "69.16.196.67",
+        "type": "IPv4"
+    }
+]

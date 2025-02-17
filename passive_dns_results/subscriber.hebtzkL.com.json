@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscriber.hebtzkL.com",
+        "count": "7",
+        "first_seen": "2023-10-07 03:15:36",
+        "last_seen": "2023-12-15 18:50:03",
+        "ip_address": "103.224.212.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.hebtzkL.com",
+        "count": "426",
+        "first_seen": "2023-01-17 10:08:44",
+        "last_seen": "2023-08-14 10:43:06",
+        "ip_address": "103.224.212.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.hebtzkL.com",
+        "count": "4477",
+        "first_seen": "2022-08-23 03:20:55",
+        "last_seen": "2022-11-10 18:27:26",
+        "ip_address": "104.21.40.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.hebtzkL.com",
+        "count": "4477",
+        "first_seen": "2022-08-23 03:20:55",
+        "last_seen": "2022-11-10 18:27:26",
+        "ip_address": "172.67.184.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.hebtzkL.com",
+        "count": "110",
+        "first_seen": "2023-01-19 11:14:47",
+        "last_seen": "2023-04-05 13:11:57",
+        "ip_address": "103.224.212.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.hebtzkL.com",
+        "count": "210",
+        "first_seen": "2022-08-23 05:00:00",
+        "last_seen": "2022-11-06 14:09:23",
+        "ip_address": "2606:4700:3035::ac43:b830",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.hebtzkL.com",
+        "count": "210",
+        "first_seen": "2022-08-23 05:00:00",
+        "last_seen": "2022-11-06 14:09:23",
+        "ip_address": "2606:4700:3036::6815:2864",
+        "type": "IPv6"
+    }
+]

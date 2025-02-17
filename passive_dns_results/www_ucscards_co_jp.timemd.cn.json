@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www_ucscards_co_jp.timemd.cn",
+        "count": "36",
+        "first_seen": "2021-11-11 12:34:19",
+        "last_seen": "2021-11-15 16:17:10",
+        "ip_address": "104.21.85.126",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www_ucscards_co_jp.timemd.cn",
+        "count": "36",
+        "first_seen": "2021-11-11 12:34:19",
+        "last_seen": "2021-11-15 16:17:10",
+        "ip_address": "172.67.205.184",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www_ucscards_co_jp.timemd.cn",
+        "count": "9",
+        "first_seen": "2021-11-12 01:10:11",
+        "last_seen": "2021-11-15 09:26:08",
+        "ip_address": "2606:4700:3034::6815:557e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www_ucscards_co_jp.timemd.cn",
+        "count": "9",
+        "first_seen": "2021-11-12 01:10:11",
+        "last_seen": "2021-11-15 09:26:08",
+        "ip_address": "2606:4700:3037::ac43:cdb8",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "igear-au.com",
+        "count": "9",
+        "first_seen": "2021-06-05 20:11:00",
+        "last_seen": "2021-07-05 17:11:52",
+        "ip_address": "18.213.250.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "igear-au.com",
+        "count": "9",
+        "first_seen": "2021-06-05 20:11:00",
+        "last_seen": "2021-07-05 17:11:52",
+        "ip_address": "18.215.128.143",
+        "type": "IPv4"
+    },
+    {
+        "domain": "igear-au.com",
+        "count": "9",
+        "first_seen": "2021-06-05 20:11:00",
+        "last_seen": "2021-07-05 17:11:52",
+        "ip_address": "52.4.209.250",
+        "type": "IPv4"
+    },
+    {
+        "domain": "igear-au.com",
+        "count": "234",
+        "first_seen": "2021-04-26 21:04:44",
+        "last_seen": "2021-05-24 14:35:06",
+        "ip_address": "104.21.81.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "igear-au.com",
+        "count": "234",
+        "first_seen": "2021-04-26 21:04:44",
+        "last_seen": "2021-05-24 14:35:06",
+        "ip_address": "172.67.145.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "igear-au.com",
+        "count": "59",
+        "first_seen": "2020-05-31 11:26:04",
+        "last_seen": "2020-10-09 02:59:40",
+        "ip_address": "169.255.59.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "igear-au.com",
+        "count": "37",
+        "first_seen": "2020-10-19 11:33:57",
+        "last_seen": "2021-04-26 00:33:18",
+        "ip_address": "169.255.59.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "igear-au.com",
+        "count": "42",
+        "first_seen": "2021-04-28 01:48:02",
+        "last_seen": "2021-05-05 13:37:34",
+        "ip_address": "2606:4700:3031::6815:51b1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "igear-au.com",
+        "count": "42",
+        "first_seen": "2021-04-28 01:48:02",
+        "last_seen": "2021-05-05 13:37:34",
+        "ip_address": "2606:4700:3031::ac43:9189",
+        "type": "IPv6"
+    },
+    {
+        "domain": "igear-au.com",
+        "count": "3",
+        "first_seen": "2020-12-01 18:55:04",
+        "last_seen": "2021-03-31 18:20:24",
+        "ip_address": "2c0f:f598::3d:bb5e",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,1042 @@
+[
+    {
+        "domain": "www.Coinbase.com",
+        "count": "8",
+        "first_seen": "2022-01-13 13:17:53",
+        "last_seen": "2022-01-14 05:18:31",
+        "ip_address": "10.123.0.254",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "255",
+        "first_seen": "2019-07-14 19:54:22",
+        "last_seen": "2019-07-15 17:11:56",
+        "ip_address": "104.16.8.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "37151052",
+        "first_seen": "2015-01-24 01:55:31",
+        "last_seen": "2021-03-15 21:25:42",
+        "ip_address": "104.16.8.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "37151052",
+        "first_seen": "2015-01-24 01:55:31",
+        "last_seen": "2021-03-15 21:25:42",
+        "ip_address": "104.16.9.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "265",
+        "first_seen": "2019-07-14 20:10:20",
+        "last_seen": "2019-07-15 17:01:53",
+        "ip_address": "104.16.9.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "4743008",
+        "first_seen": "2022-11-11 17:26:30",
+        "last_seen": "2023-08-30 20:13:56",
+        "ip_address": "104.18.4.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "4743008",
+        "first_seen": "2022-11-11 17:26:30",
+        "last_seen": "2023-08-30 20:13:56",
+        "ip_address": "104.18.5.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "12095387",
+        "first_seen": "2021-03-15 21:25:49",
+        "last_seen": "2022-04-06 19:27:08",
+        "ip_address": "104.18.6.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "12095387",
+        "first_seen": "2021-03-15 21:25:49",
+        "last_seen": "2022-04-06 19:27:08",
+        "ip_address": "104.18.7.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "3796085",
+        "first_seen": "2023-08-30 20:14:06",
+        "last_seen": "2024-01-18 16:34:04",
+        "ip_address": "104.18.35.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "3796085",
+        "first_seen": "2023-08-30 20:14:06",
+        "last_seen": "2024-01-18 16:34:04",
+        "ip_address": "172.64.152.241",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "3878312",
+        "first_seen": "2022-04-06 19:27:10",
+        "last_seen": "2022-11-11 17:26:26",
+        "ip_address": "104.18.42.167",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "3878312",
+        "first_seen": "2022-04-06 19:27:10",
+        "last_seen": "2022-11-11 17:26:26",
+        "ip_address": "172.64.145.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "9",
+        "first_seen": "2021-02-22 06:28:17",
+        "last_seen": "2021-09-27 12:51:28",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "372",
+        "first_seen": "2013-05-03 22:19:34",
+        "last_seen": "2013-05-16 08:36:14",
+        "ip_address": "141.101.112.127",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "372",
+        "first_seen": "2013-05-03 22:19:34",
+        "last_seen": "2013-05-16 08:36:14",
+        "ip_address": "141.101.113.127",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "372",
+        "first_seen": "2013-05-03 22:19:34",
+        "last_seen": "2013-05-16 08:36:14",
+        "ip_address": "141.101.123.127",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "372",
+        "first_seen": "2013-05-03 22:19:34",
+        "last_seen": "2013-05-16 08:36:14",
+        "ip_address": "190.93.240.127",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "372",
+        "first_seen": "2013-05-03 22:19:34",
+        "last_seen": "2013-05-16 08:36:14",
+        "ip_address": "190.93.243.126",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "298383",
+        "first_seen": "2022-03-10 17:01:01",
+        "last_seen": "2022-03-31 14:41:12",
+        "ip_address": "188.114.96.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "2",
+        "first_seen": "2022-03-23 15:51:36",
+        "last_seen": "2022-03-31 06:22:14",
+        "ip_address": "188.114.96.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "35",
+        "first_seen": "2022-03-22 10:02:10",
+        "last_seen": "2022-03-31 08:33:49",
+        "ip_address": "188.114.96.138",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "385911",
+        "first_seen": "2022-03-31 14:40:55",
+        "last_seen": "2022-05-03 17:30:55",
+        "ip_address": "188.114.98.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "112",
+        "first_seen": "2022-04-01 01:13:48",
+        "last_seen": "2022-05-02 22:15:59",
+        "ip_address": "188.114.98.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "300342",
+        "first_seen": "2022-05-03 17:30:51",
+        "last_seen": "2022-05-27 00:08:11",
+        "ip_address": "188.114.98.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "205",
+        "first_seen": "2022-05-23 01:41:58",
+        "last_seen": "2022-05-23 02:08:26",
+        "ip_address": "188.114.98.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2022-05-09 11:19:42",
+        "last_seen": "2022-05-09 11:19:42",
+        "ip_address": "188.114.98.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "152",
+        "first_seen": "2022-05-07 07:07:12",
+        "last_seen": "2022-05-21 08:50:55",
+        "ip_address": "188.114.98.156",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "548686",
+        "first_seen": "2022-05-26 21:36:55",
+        "last_seen": "2022-07-27 22:25:34",
+        "ip_address": "188.114.98.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "154593",
+        "first_seen": "2022-07-27 20:32:49",
+        "last_seen": "2022-08-17 16:30:56",
+        "ip_address": "188.114.98.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "154593",
+        "first_seen": "2022-07-27 20:32:49",
+        "last_seen": "2022-08-17 16:30:56",
+        "ip_address": "188.114.99.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "662",
+        "first_seen": "2022-07-13 00:23:28",
+        "last_seen": "2022-07-13 02:02:42",
+        "ip_address": "188.114.98.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2022-07-31 04:24:43",
+        "last_seen": "2022-07-31 04:24:43",
+        "ip_address": "188.114.98.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2022-07-31 04:24:43",
+        "last_seen": "2022-07-31 04:24:43",
+        "ip_address": "188.114.99.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2022-05-31 04:05:06",
+        "last_seen": "2022-05-31 04:05:06",
+        "ip_address": "188.114.98.171",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "2",
+        "first_seen": "2022-08-04 16:16:24",
+        "last_seen": "2022-08-08 20:32:16",
+        "ip_address": "188.114.98.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "2",
+        "first_seen": "2022-08-04 16:16:24",
+        "last_seen": "2022-08-08 20:32:16",
+        "ip_address": "188.114.99.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "47",
+        "first_seen": "2022-06-07 08:28:20",
+        "last_seen": "2022-07-24 19:53:30",
+        "ip_address": "188.114.98.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "2",
+        "first_seen": "2022-07-27 23:22:18",
+        "last_seen": "2022-07-28 21:13:26",
+        "ip_address": "188.114.98.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "2",
+        "first_seen": "2022-07-27 23:22:18",
+        "last_seen": "2022-07-28 21:13:26",
+        "ip_address": "188.114.99.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "393347",
+        "first_seen": "2022-08-17 16:30:56",
+        "last_seen": "2022-10-11 12:50:50",
+        "ip_address": "188.114.98.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "393347",
+        "first_seen": "2022-08-17 16:30:56",
+        "last_seen": "2022-10-11 12:50:50",
+        "ip_address": "188.114.99.192",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2022-08-24 14:55:43",
+        "last_seen": "2022-08-24 14:55:43",
+        "ip_address": "188.114.98.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2022-08-24 14:55:43",
+        "last_seen": "2022-08-24 14:55:43",
+        "ip_address": "188.114.99.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "4",
+        "first_seen": "2022-08-19 14:25:27",
+        "last_seen": "2022-10-07 18:00:06",
+        "ip_address": "188.114.98.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "4",
+        "first_seen": "2022-08-19 14:25:27",
+        "last_seen": "2022-10-07 18:00:06",
+        "ip_address": "188.114.99.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2022-09-09 03:02:22",
+        "last_seen": "2022-09-09 03:02:22",
+        "ip_address": "188.114.98.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2022-09-09 03:02:22",
+        "last_seen": "2022-09-09 03:02:22",
+        "ip_address": "188.114.99.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "2322014",
+        "first_seen": "2022-10-11 12:50:52",
+        "last_seen": "2024-01-16 11:18:02",
+        "ip_address": "188.114.98.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "2322014",
+        "first_seen": "2022-10-11 12:50:52",
+        "last_seen": "2024-01-16 11:18:02",
+        "ip_address": "188.114.99.224",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "2412059",
+        "first_seen": "2023-02-06 14:32:56",
+        "last_seen": "2024-01-18 15:46:37",
+        "ip_address": "188.114.98.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "2412059",
+        "first_seen": "2023-02-06 14:32:56",
+        "last_seen": "2024-01-18 15:46:37",
+        "ip_address": "188.114.99.229",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "16",
+        "first_seen": "2022-10-12 07:45:15",
+        "last_seen": "2023-07-12 14:13:24",
+        "ip_address": "188.114.98.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "16",
+        "first_seen": "2022-10-12 07:45:15",
+        "last_seen": "2023-07-12 14:13:24",
+        "ip_address": "188.114.99.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "34567",
+        "first_seen": "2022-10-25 19:44:57",
+        "last_seen": "2024-01-17 10:51:45",
+        "ip_address": "188.114.98.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "34567",
+        "first_seen": "2022-10-25 19:44:57",
+        "last_seen": "2024-01-17 10:51:45",
+        "ip_address": "188.114.99.236",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "6",
+        "first_seen": "2015-01-24 01:54:52",
+        "last_seen": "2015-01-24 01:55:29",
+        "ip_address": "190.93.241.231",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1018151",
+        "first_seen": "2014-05-01 22:52:26",
+        "last_seen": "2015-10-08 18:52:51",
+        "ip_address": "190.93.241.231",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1018151",
+        "first_seen": "2014-05-01 22:52:26",
+        "last_seen": "2015-10-08 18:52:51",
+        "ip_address": "190.93.242.231",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "16",
+        "first_seen": "2012-05-28 04:40:58",
+        "last_seen": "2012-05-30 22:54:51",
+        "ip_address": "205.210.42.167",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "3",
+        "first_seen": "2012-03-10 02:47:31",
+        "last_seen": "2012-03-12 00:19:25",
+        "ip_address": "216.150.214.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "8328263",
+        "first_seen": "2019-08-22 00:01:29",
+        "last_seen": "2021-03-15 21:25:44",
+        "ip_address": "2606:4700::6810:8fb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "8328263",
+        "first_seen": "2019-08-22 00:01:29",
+        "last_seen": "2021-03-15 21:25:44",
+        "ip_address": "2606:4700::6810:9fb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "4173373",
+        "first_seen": "2022-11-11 17:26:30",
+        "last_seen": "2023-08-30 20:13:58",
+        "ip_address": "2606:4700::6812:42b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "4173373",
+        "first_seen": "2022-11-11 17:26:30",
+        "last_seen": "2023-08-30 20:13:58",
+        "ip_address": "2606:4700::6812:52b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "9242786",
+        "first_seen": "2021-03-15 21:25:53",
+        "last_seen": "2022-04-06 19:27:09",
+        "ip_address": "2606:4700::6812:60a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "9242786",
+        "first_seen": "2021-03-15 21:25:53",
+        "last_seen": "2022-04-06 19:27:09",
+        "ip_address": "2606:4700::6812:70a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1958749",
+        "first_seen": "2023-08-30 20:14:09",
+        "last_seen": "2024-01-18 16:52:34",
+        "ip_address": "2606:4700:4400::6812:230f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1958749",
+        "first_seen": "2023-08-30 20:14:09",
+        "last_seen": "2024-01-18 16:52:34",
+        "ip_address": "2606:4700:4400::ac40:98f1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "3590632",
+        "first_seen": "2022-04-06 19:27:10",
+        "last_seen": "2022-11-11 17:26:19",
+        "ip_address": "2606:4700:4400::6812:2aa7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "3590632",
+        "first_seen": "2022-04-06 19:27:10",
+        "last_seen": "2022-11-11 17:26:19",
+        "ip_address": "2606:4700:4400::ac40:9159",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "4",
+        "first_seen": "2023-11-10 07:16:30",
+        "last_seen": "2023-12-12 06:29:09",
+        "ip_address": "2606:4700:8390:9809:a03b:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "3",
+        "first_seen": "2023-10-31 05:09:39",
+        "last_seen": "2023-12-04 17:26:55",
+        "ip_address": "2606:4700:83b0:9809:a03b:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "2",
+        "first_seen": "2024-01-11 18:56:01",
+        "last_seen": "2024-01-17 08:50:19",
+        "ip_address": "2606:4700:83b0:9809:a0c5:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2023-12-14 01:37:29",
+        "last_seen": "2023-12-14 01:37:29",
+        "ip_address": "2606:4700:83b0:9809:a0ca:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2023-12-17 14:17:41",
+        "last_seen": "2023-12-17 14:17:41",
+        "ip_address": "2606:4700:8ca0:9809:a0ca:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "2",
+        "first_seen": "2023-12-13 11:34:43",
+        "last_seen": "2023-12-17 09:56:45",
+        "ip_address": "2606:4700:8d90:9809:a042:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2023-11-04 20:39:29",
+        "last_seen": "2023-11-04 20:39:29",
+        "ip_address": "2606:4700:8dd0:9809:a0a7:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2023-12-14 07:35:43",
+        "last_seen": "2023-12-14 07:35:43",
+        "ip_address": "2606:4700:8de0:9809:a042:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "2",
+        "first_seen": "2023-12-12 09:08:08",
+        "last_seen": "2023-12-12 22:45:39",
+        "ip_address": "2606:4700:8de0:9809:a043:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2023-12-14 17:26:20",
+        "last_seen": "2023-12-14 17:26:20",
+        "ip_address": "2606:4700:8de0:9809:a0c5:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "2",
+        "first_seen": "2023-12-12 09:45:51",
+        "last_seen": "2023-12-17 16:37:42",
+        "ip_address": "2606:4700:90c0:9809:a042:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "3",
+        "first_seen": "2023-11-22 10:54:29",
+        "last_seen": "2023-12-13 12:38:20",
+        "ip_address": "2606:4700:90d0:9809:a03b:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "5",
+        "first_seen": "2023-11-24 06:42:20",
+        "last_seen": "2023-12-04 17:11:46",
+        "ip_address": "2606:4700:91b0:9809:a03b:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "2",
+        "first_seen": "2023-11-04 21:11:29",
+        "last_seen": "2023-11-04 21:53:29",
+        "ip_address": "2606:4700:9640:9809:a042:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "3",
+        "first_seen": "2023-11-04 21:03:29",
+        "last_seen": "2023-12-14 07:40:45",
+        "ip_address": "2606:4700:9640:9809:a0c5:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "3",
+        "first_seen": "2023-11-28 11:38:56",
+        "last_seen": "2023-12-04 17:07:47",
+        "ip_address": "2606:4700:9760:9809:a03b:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2023-12-13 11:56:35",
+        "last_seen": "2023-12-13 11:56:35",
+        "ip_address": "2606:4700:99e0:9809:a0c5:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "3",
+        "first_seen": "2023-12-13 20:33:12",
+        "last_seen": "2023-12-15 00:13:28",
+        "ip_address": "2606:4700:9a60:9809:a043:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2023-11-04 21:17:29",
+        "last_seen": "2023-11-04 21:17:29",
+        "ip_address": "2606:4700:9a60:9809:a09e:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2023-12-18 01:40:27",
+        "last_seen": "2023-12-18 01:40:27",
+        "ip_address": "2606:4700:9a60:9809:a0c5:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2023-12-06 17:17:40",
+        "last_seen": "2023-12-06 17:17:40",
+        "ip_address": "2606:4700:9a90:9809:a03b:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2023-12-14 07:50:50",
+        "last_seen": "2023-12-14 07:50:50",
+        "ip_address": "2606:4700:9a90:9809:a042:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2023-12-14 08:00:56",
+        "last_seen": "2023-12-14 08:00:56",
+        "ip_address": "2606:4700:9a90:9809:a043:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2023-12-14 08:36:20",
+        "last_seen": "2023-12-14 08:36:20",
+        "ip_address": "2606:4700:9ad0:9809:a042:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2023-12-13 12:18:16",
+        "last_seen": "2023-12-13 12:18:16",
+        "ip_address": "2606:4700:9ad0:9809:a043:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2023-12-13 11:36:43",
+        "last_seen": "2023-12-13 11:36:43",
+        "ip_address": "2606:4700:9ae0:9809:a042:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2023-12-12 17:42:39",
+        "last_seen": "2023-12-12 17:42:39",
+        "ip_address": "2606:4700:9ae0:9809:a0c5:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2023-12-14 08:31:16",
+        "last_seen": "2023-12-14 08:31:16",
+        "ip_address": "2606:4700:9ae0:9809:a0ca:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "2",
+        "first_seen": "2023-12-13 17:56:39",
+        "last_seen": "2023-12-17 18:41:30",
+        "ip_address": "2606:4700:9b00:9809:a0ca:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2023-12-12 08:35:51",
+        "last_seen": "2023-12-12 08:35:51",
+        "ip_address": "2606:4700:9c60:9809:a042:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2023-12-13 01:11:02",
+        "last_seen": "2023-12-13 01:11:02",
+        "ip_address": "2606:4700:9c60:9809:a043:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "2",
+        "first_seen": "2023-11-04 22:07:29",
+        "last_seen": "2023-12-17 08:30:45",
+        "ip_address": "2606:4700:9c60:9809:a0c5:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2023-12-14 08:46:26",
+        "last_seen": "2023-12-14 08:46:26",
+        "ip_address": "2606:4700:9c60:9809:a0ca:0:717d:9e8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "100814",
+        "first_seen": "2022-03-10 17:01:01",
+        "last_seen": "2022-03-31 14:39:57",
+        "ip_address": "2a06:98c1:3121:8000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "7",
+        "first_seen": "2022-03-22 12:14:34",
+        "last_seen": "2022-03-30 18:38:57",
+        "ip_address": "2a06:98c1:3121:8000::a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "3",
+        "first_seen": "2022-10-28 18:55:44",
+        "last_seen": "2023-03-09 08:57:23",
+        "ip_address": "2a06:98c1:3122::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "3",
+        "first_seen": "2022-10-28 18:55:44",
+        "last_seen": "2023-03-09 08:57:23",
+        "ip_address": "2a06:98c1:3123::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "37829",
+        "first_seen": "2022-07-27 20:38:34",
+        "last_seen": "2022-08-17 16:29:17",
+        "ip_address": "2a06:98c1:3122:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "37829",
+        "first_seen": "2022-07-27 20:38:34",
+        "last_seen": "2022-08-17 16:29:17",
+        "ip_address": "2a06:98c1:3123:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "82954",
+        "first_seen": "2022-08-17 16:30:56",
+        "last_seen": "2022-10-11 12:50:38",
+        "ip_address": "2a06:98c1:3122:c000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "82954",
+        "first_seen": "2022-08-17 16:30:56",
+        "last_seen": "2022-10-11 12:50:38",
+        "ip_address": "2a06:98c1:3123:c000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2022-09-09 03:02:22",
+        "last_seen": "2022-09-09 03:02:22",
+        "ip_address": "2a06:98c1:3122:c000::d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "1",
+        "first_seen": "2022-09-09 03:02:22",
+        "last_seen": "2022-09-09 03:02:22",
+        "ip_address": "2a06:98c1:3123:c000::d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "425996",
+        "first_seen": "2022-10-11 12:50:50",
+        "last_seen": "2024-01-16 11:07:59",
+        "ip_address": "2a06:98c1:3122:e000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "425996",
+        "first_seen": "2022-10-11 12:50:50",
+        "last_seen": "2024-01-16 11:07:59",
+        "ip_address": "2a06:98c1:3123:e000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "297668",
+        "first_seen": "2023-02-06 14:43:40",
+        "last_seen": "2024-01-18 16:21:30",
+        "ip_address": "2a06:98c1:3122:e000::5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "297668",
+        "first_seen": "2023-02-06 14:43:40",
+        "last_seen": "2024-01-18 16:21:30",
+        "ip_address": "2a06:98c1:3123:e000::5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "3",
+        "first_seen": "2023-06-08 21:18:17",
+        "last_seen": "2023-08-03 08:34:46",
+        "ip_address": "2a06:98c1:3122:e000::a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "3",
+        "first_seen": "2023-06-08 21:18:17",
+        "last_seen": "2023-08-03 08:34:46",
+        "ip_address": "2a06:98c1:3123:e000::a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "3349",
+        "first_seen": "2022-11-23 17:57:27",
+        "last_seen": "2024-01-17 00:14:50",
+        "ip_address": "2a06:98c1:3122:e000::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "3349",
+        "first_seen": "2022-11-23 17:57:27",
+        "last_seen": "2024-01-17 00:14:50",
+        "ip_address": "2a06:98c1:3123:e000::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "119401",
+        "first_seen": "2022-03-31 14:41:12",
+        "last_seen": "2022-05-03 17:30:51",
+        "ip_address": "2a06:98c1:3123:8000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "6",
+        "first_seen": "2022-03-31 20:34:23",
+        "last_seen": "2022-05-02 22:15:59",
+        "ip_address": "2a06:98c1:3123:8000::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "102351",
+        "first_seen": "2022-05-03 17:31:20",
+        "last_seen": "2022-05-27 00:01:36",
+        "ip_address": "2a06:98c1:3123:9000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "78",
+        "first_seen": "2022-05-23 01:42:31",
+        "last_seen": "2022-05-23 02:08:52",
+        "ip_address": "2a06:98c1:3123:9000::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "5",
+        "first_seen": "2022-05-08 10:32:56",
+        "last_seen": "2022-05-19 16:18:32",
+        "ip_address": "2a06:98c1:3123:9000::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "159035",
+        "first_seen": "2022-05-26 22:06:44",
+        "last_seen": "2022-07-27 22:06:24",
+        "ip_address": "2a06:98c1:3123:a000::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "304",
+        "first_seen": "2022-07-13 00:23:59",
+        "last_seen": "2022-07-13 02:01:30",
+        "ip_address": "2a06:98c1:3123:a000::5",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.Coinbase.com",
+        "count": "3",
+        "first_seen": "2022-06-06 07:57:29",
+        "last_seen": "2022-07-17 06:35:00",
+        "ip_address": "2a06:98c1:3123:a000::d",
+        "type": "IPv6"
+    }
+]

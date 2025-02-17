@@ -1,0 +1,106 @@
+[
+    {
+        "domain": "www.zxbrb.com",
+        "count": "21",
+        "first_seen": "2023-07-23 17:39:19",
+        "last_seen": "2023-08-28 21:29:04",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zxbrb.com",
+        "count": "2",
+        "first_seen": "2022-06-03 07:33:48",
+        "last_seen": "2022-06-03 07:33:48",
+        "ip_address": "99.83.248.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zxbrb.com",
+        "count": "31",
+        "first_seen": "2021-05-08 01:56:24",
+        "last_seen": "2021-05-12 04:26:20",
+        "ip_address": "104.21.16.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zxbrb.com",
+        "count": "31",
+        "first_seen": "2021-05-08 01:56:24",
+        "last_seen": "2021-05-12 04:26:20",
+        "ip_address": "172.67.166.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zxbrb.com",
+        "count": "1480",
+        "first_seen": "2022-04-06 02:11:38",
+        "last_seen": "2022-04-22 03:30:12",
+        "ip_address": "104.21.91.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zxbrb.com",
+        "count": "1480",
+        "first_seen": "2022-04-06 02:11:38",
+        "last_seen": "2022-04-22 03:30:12",
+        "ip_address": "172.67.177.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zxbrb.com",
+        "count": "28",
+        "first_seen": "2017-04-20 10:19:24",
+        "last_seen": "2018-02-20 10:28:53",
+        "ip_address": "104.223.180.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zxbrb.com",
+        "count": "63",
+        "first_seen": "2022-08-02 04:07:14",
+        "last_seen": "2023-07-21 18:53:53",
+        "ip_address": "154.23.227.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zxbrb.com",
+        "count": "1359",
+        "first_seen": "2021-05-11 07:35:43",
+        "last_seen": "2022-03-31 08:37:09",
+        "ip_address": "198.144.154.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.zxbrb.com",
+        "count": "3",
+        "first_seen": "2021-05-08 01:56:24",
+        "last_seen": "2021-05-11 04:37:39",
+        "ip_address": "2606:4700:3030::6815:1054",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zxbrb.com",
+        "count": "3",
+        "first_seen": "2021-05-08 01:56:24",
+        "last_seen": "2021-05-11 04:37:39",
+        "ip_address": "2606:4700:3032::ac43:a6f6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zxbrb.com",
+        "count": "29",
+        "first_seen": "2022-04-07 02:47:17",
+        "last_seen": "2022-04-22 03:30:12",
+        "ip_address": "2606:4700:3032::ac43:b1d1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.zxbrb.com",
+        "count": "29",
+        "first_seen": "2022-04-07 02:47:17",
+        "last_seen": "2022-04-22 03:30:12",
+        "ip_address": "2606:4700:3036::6815:5bb7",
+        "type": "IPv6"
+    }
+]

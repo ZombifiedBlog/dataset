@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.6883513.com",
+        "count": "1366",
+        "first_seen": "2021-09-12 06:41:18",
+        "last_seen": "2021-10-19 06:08:24",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.6883513.com",
+        "count": "11",
+        "first_seen": "2021-11-30 23:10:37",
+        "last_seen": "2021-12-05 23:10:36",
+        "ip_address": "103.224.212.220",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.6883513.com",
+        "count": "16212",
+        "first_seen": "2021-04-09 02:12:27",
+        "last_seen": "2021-09-12 05:40:17",
+        "ip_address": "104.21.30.252",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.6883513.com",
+        "count": "16212",
+        "first_seen": "2021-04-09 02:12:27",
+        "last_seen": "2021-09-12 05:40:17",
+        "ip_address": "172.67.174.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.6883513.com",
+        "count": "5443",
+        "first_seen": "2021-04-09 02:12:27",
+        "last_seen": "2021-09-11 06:07:03",
+        "ip_address": "2606:4700:3031::6815:1efc",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.6883513.com",
+        "count": "5443",
+        "first_seen": "2021-04-09 02:12:27",
+        "last_seen": "2021-09-11 06:07:03",
+        "ip_address": "2606:4700:3033::ac43:ae3d",
+        "type": "IPv6"
+    }
+]

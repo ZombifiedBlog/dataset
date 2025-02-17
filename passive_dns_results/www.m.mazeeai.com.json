@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.m.mazeeai.com",
+        "count": "212",
+        "first_seen": "2022-01-06 19:53:13",
+        "last_seen": "2022-01-11 03:06:14",
+        "ip_address": "198.46.199.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.m.mazeeai.com",
+        "count": "1",
+        "first_seen": "2023-01-09 19:22:25",
+        "last_seen": "2023-01-09 19:22:25",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.m.mazeeai.com",
+        "count": "1",
+        "first_seen": "2023-01-06 19:57:22",
+        "last_seen": "2023-01-06 19:57:22",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.m.mazeeai.com",
+        "count": "7",
+        "first_seen": "2023-01-06 19:57:22",
+        "last_seen": "2023-01-09 19:22:25",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    }
+]

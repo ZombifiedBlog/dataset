@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "sizosuot.info",
+        "count": "1",
+        "first_seen": "2021-02-25 04:58:06",
+        "last_seen": "2021-02-25 04:58:06",
+        "ip_address": "47.254.39.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sizosuot.info",
+        "count": "367",
+        "first_seen": "2021-02-18 19:23:34",
+        "last_seen": "2021-02-28 12:42:30",
+        "ip_address": "104.21.48.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sizosuot.info",
+        "count": "367",
+        "first_seen": "2021-02-18 19:23:34",
+        "last_seen": "2021-02-28 12:42:30",
+        "ip_address": "172.67.176.108",
+        "type": "IPv4"
+    },
+    {
+        "domain": "sizosuot.info",
+        "count": "130",
+        "first_seen": "2021-02-18 19:23:35",
+        "last_seen": "2021-02-28 12:42:30",
+        "ip_address": "2606:4700:3033::6815:301f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "sizosuot.info",
+        "count": "130",
+        "first_seen": "2021-02-18 19:23:35",
+        "last_seen": "2021-02-28 12:42:30",
+        "ip_address": "2606:4700:3033::ac43:b06c",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "nbep-uaks.cf",
+        "count": "112",
+        "first_seen": "2023-01-07 01:16:32",
+        "last_seen": "2023-03-27 13:42:21",
+        "ip_address": "195.20.55.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nbep-uaks.cf",
+        "count": "137",
+        "first_seen": "2021-12-24 11:06:07",
+        "last_seen": "2022-12-30 18:18:45",
+        "ip_address": "104.21.55.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nbep-uaks.cf",
+        "count": "137",
+        "first_seen": "2021-12-24 11:06:07",
+        "last_seen": "2022-12-30 18:18:45",
+        "ip_address": "172.67.147.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "nbep-uaks.cf",
+        "count": "10",
+        "first_seen": "2021-12-24 06:20:17",
+        "last_seen": "2022-11-26 08:10:01",
+        "ip_address": "2606:4700:3031::6815:3775",
+        "type": "IPv6"
+    },
+    {
+        "domain": "nbep-uaks.cf",
+        "count": "10",
+        "first_seen": "2021-12-24 06:20:17",
+        "last_seen": "2022-11-26 08:10:01",
+        "ip_address": "2606:4700:3035::ac43:93fd",
+        "type": "IPv6"
+    }
+]

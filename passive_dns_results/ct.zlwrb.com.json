@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "ct.zlwrb.com",
+        "count": "160",
+        "first_seen": "2022-02-20 04:08:33",
+        "last_seen": "2022-04-08 10:38:59",
+        "ip_address": "104.21.89.182",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ct.zlwrb.com",
+        "count": "160",
+        "first_seen": "2022-02-20 04:08:33",
+        "last_seen": "2022-04-08 10:38:59",
+        "ip_address": "172.67.190.142",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ct.zlwrb.com",
+        "count": "53",
+        "first_seen": "2022-02-20 05:20:51",
+        "last_seen": "2022-04-08 10:38:59",
+        "ip_address": "2606:4700:3036::6815:59b6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ct.zlwrb.com",
+        "count": "53",
+        "first_seen": "2022-02-20 05:20:51",
+        "last_seen": "2022-04-08 10:38:59",
+        "ip_address": "2606:4700:3036::ac43:be8e",
+        "type": "IPv6"
+    }
+]

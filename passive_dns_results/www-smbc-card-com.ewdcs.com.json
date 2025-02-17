@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www-smbc-card-com.ewdcs.com",
+        "count": "18",
+        "first_seen": "2023-01-08 14:28:20",
+        "last_seen": "2023-01-08 17:26:01",
+        "ip_address": "104.21.87.202",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-smbc-card-com.ewdcs.com",
+        "count": "18",
+        "first_seen": "2023-01-08 14:28:20",
+        "last_seen": "2023-01-08 17:26:01",
+        "ip_address": "172.67.145.241",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-smbc-card-com.ewdcs.com",
+        "count": "11",
+        "first_seen": "2023-01-08 14:24:28",
+        "last_seen": "2023-01-08 17:36:41",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-smbc-card-com.ewdcs.com",
+        "count": "11",
+        "first_seen": "2023-01-08 14:24:28",
+        "last_seen": "2023-01-08 17:36:41",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-smbc-card-com.ewdcs.com",
+        "count": "1",
+        "first_seen": "2023-01-08 14:24:29",
+        "last_seen": "2023-01-08 14:24:29",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-smbc-card-com.ewdcs.com",
+        "count": "1",
+        "first_seen": "2023-01-08 14:24:29",
+        "last_seen": "2023-01-08 14:24:29",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

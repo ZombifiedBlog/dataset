@@ -1,0 +1,130 @@
+[
+    {
+        "domain": "trk.inboxclick.shop",
+        "count": "805",
+        "first_seen": "2023-03-22 16:55:48",
+        "last_seen": "2023-04-03 07:00:23",
+        "ip_address": "104.21.59.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "trk.inboxclick.shop",
+        "count": "805",
+        "first_seen": "2023-03-22 16:55:48",
+        "last_seen": "2023-04-03 07:00:23",
+        "ip_address": "172.67.211.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "trk.inboxclick.shop",
+        "count": "27",
+        "first_seen": "2023-03-22 22:51:48",
+        "last_seen": "2023-03-27 06:43:12",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "trk.inboxclick.shop",
+        "count": "27",
+        "first_seen": "2023-03-22 22:51:48",
+        "last_seen": "2023-03-27 06:43:12",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "trk.inboxclick.shop",
+        "count": "2",
+        "first_seen": "2023-03-24 21:19:13",
+        "last_seen": "2023-03-24 21:19:13",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "trk.inboxclick.shop",
+        "count": "2",
+        "first_seen": "2023-03-24 21:19:13",
+        "last_seen": "2023-03-24 21:19:13",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "trk.inboxclick.shop",
+        "count": "43",
+        "first_seen": "2023-03-22 17:21:26",
+        "last_seen": "2023-03-24 20:50:49",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "trk.inboxclick.shop",
+        "count": "43",
+        "first_seen": "2023-03-22 17:21:26",
+        "last_seen": "2023-03-24 20:50:49",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "trk.inboxclick.shop",
+        "count": "176",
+        "first_seen": "2023-03-22 17:58:42",
+        "last_seen": "2023-04-02 23:40:31",
+        "ip_address": "2606:4700:3034::6815:3b1c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "trk.inboxclick.shop",
+        "count": "176",
+        "first_seen": "2023-03-22 17:58:42",
+        "last_seen": "2023-04-02 23:40:31",
+        "ip_address": "2606:4700:3035::ac43:d3d1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "trk.inboxclick.shop",
+        "count": "23",
+        "first_seen": "2023-03-22 18:22:02",
+        "last_seen": "2023-03-28 13:49:33",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "trk.inboxclick.shop",
+        "count": "23",
+        "first_seen": "2023-03-22 18:22:02",
+        "last_seen": "2023-03-28 13:49:33",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "trk.inboxclick.shop",
+        "count": "2",
+        "first_seen": "2023-03-24 21:19:13",
+        "last_seen": "2023-03-24 21:19:13",
+        "ip_address": "2a06:98c1:3120::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "trk.inboxclick.shop",
+        "count": "2",
+        "first_seen": "2023-03-24 21:19:13",
+        "last_seen": "2023-03-24 21:19:13",
+        "ip_address": "2a06:98c1:3121::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "trk.inboxclick.shop",
+        "count": "28",
+        "first_seen": "2023-03-22 17:21:27",
+        "last_seen": "2023-03-24 20:50:49",
+        "ip_address": "2a06:98c1:3120::7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "trk.inboxclick.shop",
+        "count": "28",
+        "first_seen": "2023-03-22 17:21:27",
+        "last_seen": "2023-03-24 20:50:49",
+        "ip_address": "2a06:98c1:3121::7",
+        "type": "IPv6"
+    }
+]

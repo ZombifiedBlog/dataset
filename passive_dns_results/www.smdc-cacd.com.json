@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "www.smdc-cacd.com",
+        "count": "855",
+        "first_seen": "2021-01-28 19:22:33",
+        "last_seen": "2021-01-29 20:11:45",
+        "ip_address": "23.94.4.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smdc-cacd.com",
+        "count": "146",
+        "first_seen": "2021-01-29 20:54:53",
+        "last_seen": "2021-02-06 07:36:09",
+        "ip_address": "23.94.4.98",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smdc-cacd.com",
+        "count": "1",
+        "first_seen": "2022-02-13 11:12:57",
+        "last_seen": "2022-02-13 11:12:57",
+        "ip_address": "43.130.64.87",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smdc-cacd.com",
+        "count": "12",
+        "first_seen": "2021-05-02 15:10:04",
+        "last_seen": "2021-11-05 09:29:43",
+        "ip_address": "156.239.99.110",
+        "type": "IPv4"
+    }
+]

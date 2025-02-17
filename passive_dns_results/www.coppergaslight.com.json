@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "www.coppergaslight.com",
+        "count": "2",
+        "first_seen": "2015-03-18 06:56:28",
+        "last_seen": "2015-03-18 06:56:28",
+        "ip_address": "54.208.247.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.coppergaslight.com",
+        "count": "4",
+        "first_seen": "2022-10-23 07:43:05",
+        "last_seen": "2022-11-18 13:06:30",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.coppergaslight.com",
+        "count": "2",
+        "first_seen": "2022-08-19 04:36:04",
+        "last_seen": "2022-08-19 08:42:30",
+        "ip_address": "104.21.8.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.coppergaslight.com",
+        "count": "2",
+        "first_seen": "2022-08-19 04:36:04",
+        "last_seen": "2022-08-19 08:42:30",
+        "ip_address": "172.67.156.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.coppergaslight.com",
+        "count": "1987",
+        "first_seen": "2022-09-17 16:28:50",
+        "last_seen": "2022-10-23 00:55:23",
+        "ip_address": "104.129.5.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.coppergaslight.com",
+        "count": "1",
+        "first_seen": "2022-03-10 23:44:54",
+        "last_seen": "2022-03-10 23:44:54",
+        "ip_address": "188.114.99.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.coppergaslight.com",
+        "count": "2",
+        "first_seen": "2022-01-17 08:51:24",
+        "last_seen": "2022-08-19 08:42:30",
+        "ip_address": "2606:4700:3031::6815:80a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.coppergaslight.com",
+        "count": "2",
+        "first_seen": "2022-01-17 08:51:24",
+        "last_seen": "2022-08-19 08:42:30",
+        "ip_address": "2606:4700:3034::ac43:9c9b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.coppergaslight.com",
+        "count": "1",
+        "first_seen": "2022-03-10 23:44:55",
+        "last_seen": "2022-03-10 23:44:55",
+        "ip_address": "2a06:98c1:3122:8000::",
+        "type": "IPv6"
+    }
+]

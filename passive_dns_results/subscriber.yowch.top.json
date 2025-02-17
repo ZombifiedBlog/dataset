@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.yowch.top",
+        "count": "1",
+        "first_seen": "2023-11-25 13:50:55",
+        "last_seen": "2023-11-25 13:50:55",
+        "ip_address": "49.51.79.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yowch.top",
+        "count": "445",
+        "first_seen": "2023-06-15 16:39:32",
+        "last_seen": "2023-07-29 08:56:48",
+        "ip_address": "104.21.18.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yowch.top",
+        "count": "445",
+        "first_seen": "2023-06-15 16:39:32",
+        "last_seen": "2023-07-29 08:56:48",
+        "ip_address": "172.67.183.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yowch.top",
+        "count": "3",
+        "first_seen": "2023-12-17 14:29:09",
+        "last_seen": "2023-12-19 22:56:11",
+        "ip_address": "167.88.180.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yowch.top",
+        "count": "24",
+        "first_seen": "2023-06-17 14:51:21",
+        "last_seen": "2023-07-10 07:25:02",
+        "ip_address": "2606:4700:3035::ac43:b74c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.yowch.top",
+        "count": "24",
+        "first_seen": "2023-06-17 14:51:21",
+        "last_seen": "2023-07-10 07:25:02",
+        "ip_address": "2606:4700:3037::6815:12c3",
+        "type": "IPv6"
+    }
+]

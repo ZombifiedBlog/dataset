@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "my-jcb-co-jp.cyyan.xyz",
+        "count": "70",
+        "first_seen": "2022-02-17 14:05:37",
+        "last_seen": "2022-02-18 01:23:06",
+        "ip_address": "104.21.68.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.cyyan.xyz",
+        "count": "70",
+        "first_seen": "2022-02-17 14:05:37",
+        "last_seen": "2022-02-18 01:23:06",
+        "ip_address": "172.67.194.72",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb-co-jp.cyyan.xyz",
+        "count": "1",
+        "first_seen": "2022-02-17 14:05:37",
+        "last_seen": "2022-02-17 14:05:37",
+        "ip_address": "2606:4700:3030::ac43:c248",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb-co-jp.cyyan.xyz",
+        "count": "1",
+        "first_seen": "2022-02-17 14:05:37",
+        "last_seen": "2022-02-17 14:05:37",
+        "ip_address": "2606:4700:3035::6815:446b",
+        "type": "IPv6"
+    }
+]

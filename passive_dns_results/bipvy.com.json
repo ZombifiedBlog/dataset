@@ -1,0 +1,642 @@
+[
+    {
+        "domain": "bipvy.com",
+        "count": "149",
+        "first_seen": "2023-09-21 00:40:11",
+        "last_seen": "2024-01-18 16:07:54",
+        "ip_address": "3.33.130.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "149",
+        "first_seen": "2023-09-21 00:40:11",
+        "last_seen": "2024-01-18 16:07:54",
+        "ip_address": "15.197.148.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "82",
+        "first_seen": "2018-10-09 08:15:14",
+        "last_seen": "2018-11-21 09:23:53",
+        "ip_address": "5.79.79.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "105",
+        "first_seen": "2018-10-10 00:04:09",
+        "last_seen": "2018-11-30 15:57:24",
+        "ip_address": "5.79.79.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "89",
+        "first_seen": "2018-10-09 10:12:58",
+        "last_seen": "2018-12-01 15:43:44",
+        "ip_address": "5.79.79.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "77",
+        "first_seen": "2018-10-03 08:20:03",
+        "last_seen": "2018-12-01 11:36:11",
+        "ip_address": "5.79.79.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "46",
+        "first_seen": "2020-10-07 18:09:11",
+        "last_seen": "2020-11-11 15:38:43",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "797",
+        "first_seen": "2020-11-19 14:50:31",
+        "last_seen": "2023-09-17 03:43:08",
+        "ip_address": "34.102.136.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "5",
+        "first_seen": "2019-12-24 08:55:47",
+        "last_seen": "2020-01-18 14:09:30",
+        "ip_address": "46.166.182.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "16",
+        "first_seen": "2019-11-29 13:01:31",
+        "last_seen": "2020-01-29 00:01:04",
+        "ip_address": "46.166.182.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "19",
+        "first_seen": "2019-11-29 12:08:02",
+        "last_seen": "2020-01-30 23:08:13",
+        "ip_address": "46.166.182.54",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "16",
+        "first_seen": "2019-12-12 21:56:37",
+        "last_seen": "2020-01-31 10:29:53",
+        "ip_address": "46.166.182.55",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "14",
+        "first_seen": "2019-11-19 21:16:31",
+        "last_seen": "2019-12-30 23:41:19",
+        "ip_address": "46.166.182.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "4",
+        "first_seen": "2019-11-25 11:01:04",
+        "last_seen": "2019-11-26 11:07:39",
+        "ip_address": "46.166.182.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "9",
+        "first_seen": "2019-11-08 07:28:14",
+        "last_seen": "2019-12-30 16:05:04",
+        "ip_address": "46.166.182.63",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "9",
+        "first_seen": "2019-12-02 21:55:15",
+        "last_seen": "2019-12-24 04:37:56",
+        "ip_address": "46.166.182.64",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "4",
+        "first_seen": "2020-08-08 13:50:15",
+        "last_seen": "2020-08-09 00:45:39",
+        "ip_address": "63.143.32.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "2",
+        "first_seen": "2020-08-06 04:01:06",
+        "last_seen": "2020-08-06 04:01:06",
+        "ip_address": "63.143.32.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "2",
+        "first_seen": "2020-08-06 00:51:56",
+        "last_seen": "2020-08-06 00:51:56",
+        "ip_address": "63.143.32.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "2",
+        "first_seen": "2020-08-09 07:10:52",
+        "last_seen": "2020-08-09 07:10:52",
+        "ip_address": "63.143.32.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "2",
+        "first_seen": "2020-08-06 19:44:21",
+        "last_seen": "2020-08-06 19:44:21",
+        "ip_address": "63.143.32.89",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "2",
+        "first_seen": "2020-08-09 18:00:27",
+        "last_seen": "2020-08-09 18:00:27",
+        "ip_address": "63.143.32.91",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "5",
+        "first_seen": "2020-08-06 19:13:31",
+        "last_seen": "2020-08-09 02:01:03",
+        "ip_address": "63.143.32.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "5",
+        "first_seen": "2020-08-08 22:44:07",
+        "last_seen": "2020-08-09 18:23:42",
+        "ip_address": "63.143.32.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "28",
+        "first_seen": "2020-02-18 04:17:10",
+        "last_seen": "2020-06-25 16:51:45",
+        "ip_address": "78.41.204.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "19",
+        "first_seen": "2020-02-15 21:51:40",
+        "last_seen": "2020-06-19 08:24:46",
+        "ip_address": "78.41.204.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "22",
+        "first_seen": "2020-02-10 13:47:06",
+        "last_seen": "2020-07-23 05:02:17",
+        "ip_address": "78.41.204.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "26",
+        "first_seen": "2020-02-17 12:12:13",
+        "last_seen": "2020-07-12 08:37:07",
+        "ip_address": "78.41.204.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "33",
+        "first_seen": "2020-02-27 03:08:11",
+        "last_seen": "2020-07-17 09:02:55",
+        "ip_address": "78.41.204.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "24",
+        "first_seen": "2020-03-19 15:03:30",
+        "last_seen": "2020-07-16 06:23:12",
+        "ip_address": "78.41.204.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "16",
+        "first_seen": "2020-02-17 08:43:38",
+        "last_seen": "2020-07-15 01:11:45",
+        "ip_address": "78.41.204.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "24",
+        "first_seen": "2020-02-08 22:15:24",
+        "last_seen": "2020-06-11 14:57:29",
+        "ip_address": "78.41.204.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "23",
+        "first_seen": "2020-02-16 10:06:38",
+        "last_seen": "2020-05-19 13:53:40",
+        "ip_address": "78.41.204.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "33",
+        "first_seen": "2020-03-20 05:33:40",
+        "last_seen": "2020-07-22 14:28:49",
+        "ip_address": "78.41.204.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "31",
+        "first_seen": "2020-02-20 01:42:25",
+        "last_seen": "2020-07-01 08:43:56",
+        "ip_address": "78.41.204.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "41",
+        "first_seen": "2020-02-13 08:56:57",
+        "last_seen": "2020-07-02 07:28:09",
+        "ip_address": "78.41.204.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "23",
+        "first_seen": "2020-02-13 17:10:51",
+        "last_seen": "2020-07-05 16:55:08",
+        "ip_address": "78.41.204.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "26",
+        "first_seen": "2020-02-09 06:12:43",
+        "last_seen": "2020-06-30 13:14:01",
+        "ip_address": "78.41.204.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "1048",
+        "first_seen": "2018-12-29 12:42:15",
+        "last_seen": "2020-10-06 04:36:46",
+        "ip_address": "93.115.28.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "2",
+        "first_seen": "2019-04-08 09:57:23",
+        "last_seen": "2019-04-08 09:57:23",
+        "ip_address": "94.229.72.115",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "2",
+        "first_seen": "2019-04-07 10:09:10",
+        "last_seen": "2019-04-07 10:09:10",
+        "ip_address": "94.229.72.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "2",
+        "first_seen": "2019-04-06 17:39:25",
+        "last_seen": "2019-04-06 17:39:25",
+        "ip_address": "94.229.72.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "5",
+        "first_seen": "2019-04-07 05:30:12",
+        "last_seen": "2019-04-08 15:58:34",
+        "ip_address": "94.229.72.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "16",
+        "first_seen": "2019-11-20 03:00:55",
+        "last_seen": "2020-01-18 19:14:15",
+        "ip_address": "96.47.230.67",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "44",
+        "first_seen": "2019-11-20 09:55:47",
+        "last_seen": "2020-01-24 13:12:30",
+        "ip_address": "96.47.230.68",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "11",
+        "first_seen": "2019-11-21 11:59:09",
+        "last_seen": "2020-01-07 14:26:41",
+        "ip_address": "96.47.230.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "27",
+        "first_seen": "2019-12-03 00:25:45",
+        "last_seen": "2020-01-15 01:14:11",
+        "ip_address": "96.47.230.70",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "3",
+        "first_seen": "2019-05-07 13:25:48",
+        "last_seen": "2019-05-07 14:03:36",
+        "ip_address": "104.237.196.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "157",
+        "first_seen": "2018-10-06 13:58:48",
+        "last_seen": "2018-12-02 20:22:50",
+        "ip_address": "108.59.12.98",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "143",
+        "first_seen": "2018-10-04 09:54:17",
+        "last_seen": "2018-12-02 11:49:44",
+        "ip_address": "108.59.12.99",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "10",
+        "first_seen": "2018-10-03 00:04:26",
+        "last_seen": "2018-10-10 01:39:40",
+        "ip_address": "108.59.12.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "179",
+        "first_seen": "2018-10-08 20:35:31",
+        "last_seen": "2018-12-02 20:07:05",
+        "ip_address": "108.59.12.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "33",
+        "first_seen": "2019-11-26 11:07:08",
+        "last_seen": "2020-01-30 10:56:09",
+        "ip_address": "108.61.19.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "23",
+        "first_seen": "2019-11-29 08:21:27",
+        "last_seen": "2020-02-02 04:36:05",
+        "ip_address": "108.61.19.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "19",
+        "first_seen": "2019-11-19 23:28:11",
+        "last_seen": "2020-02-05 20:41:25",
+        "ip_address": "108.61.19.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "32",
+        "first_seen": "2019-11-12 17:11:27",
+        "last_seen": "2020-01-29 09:19:33",
+        "ip_address": "108.61.19.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "21",
+        "first_seen": "2019-11-25 04:00:37",
+        "last_seen": "2020-01-10 12:54:15",
+        "ip_address": "109.201.135.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "7",
+        "first_seen": "2019-12-15 17:17:25",
+        "last_seen": "2019-12-19 16:48:00",
+        "ip_address": "109.201.135.39",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "4",
+        "first_seen": "2019-11-07 11:19:24",
+        "last_seen": "2019-11-08 09:09:07",
+        "ip_address": "109.201.135.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "8",
+        "first_seen": "2019-12-09 08:04:27",
+        "last_seen": "2020-01-06 04:22:34",
+        "ip_address": "109.201.135.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "6",
+        "first_seen": "2019-11-29 21:00:58",
+        "last_seen": "2020-01-18 14:09:31",
+        "ip_address": "109.201.135.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "17",
+        "first_seen": "2019-11-07 22:40:50",
+        "last_seen": "2020-01-15 06:03:27",
+        "ip_address": "109.201.135.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "19",
+        "first_seen": "2019-11-08 11:43:29",
+        "last_seen": "2020-01-25 11:04:45",
+        "ip_address": "109.201.135.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "6",
+        "first_seen": "2019-12-08 10:45:03",
+        "last_seen": "2019-12-26 23:14:12",
+        "ip_address": "109.201.135.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "2",
+        "first_seen": "2019-05-07 12:11:42",
+        "last_seen": "2019-05-07 12:11:42",
+        "ip_address": "172.93.194.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "2",
+        "first_seen": "2019-05-07 20:44:45",
+        "last_seen": "2019-05-07 20:44:45",
+        "ip_address": "172.93.194.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "490",
+        "first_seen": "2018-12-29 22:37:03",
+        "last_seen": "2019-11-05 16:56:25",
+        "ip_address": "172.98.192.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "394",
+        "first_seen": "2018-12-29 01:47:01",
+        "last_seen": "2019-10-03 18:53:55",
+        "ip_address": "172.98.192.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "435",
+        "first_seen": "2018-12-28 18:55:43",
+        "last_seen": "2019-10-27 02:59:19",
+        "ip_address": "172.98.192.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "2",
+        "first_seen": "2019-10-07 09:49:20",
+        "last_seen": "2019-10-07 09:49:20",
+        "ip_address": "184.168.221.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "4",
+        "first_seen": "2020-02-15 01:44:08",
+        "last_seen": "2020-02-15 11:36:35",
+        "ip_address": "209.126.122.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "135",
+        "first_seen": "2020-02-07 08:55:52",
+        "last_seen": "2020-07-21 13:42:40",
+        "ip_address": "209.126.123.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "117",
+        "first_seen": "2020-02-07 00:42:33",
+        "last_seen": "2020-07-18 20:38:31",
+        "ip_address": "209.126.123.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "100",
+        "first_seen": "2020-02-07 16:03:22",
+        "last_seen": "2020-07-22 18:32:40",
+        "ip_address": "209.126.123.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "4",
+        "first_seen": "2019-06-26 11:58:13",
+        "last_seen": "2020-04-20 10:24:31",
+        "ip_address": "216.157.88.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "6",
+        "first_seen": "2020-04-22 09:04:04",
+        "last_seen": "2020-04-23 19:55:50",
+        "ip_address": "216.157.88.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "2",
+        "first_seen": "2019-06-26 13:52:14",
+        "last_seen": "2019-06-26 13:52:14",
+        "ip_address": "216.157.88.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "2",
+        "first_seen": "2020-04-21 02:01:21",
+        "last_seen": "2020-04-21 02:01:21",
+        "ip_address": "216.157.88.25",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "6",
+        "first_seen": "2020-04-22 20:59:44",
+        "last_seen": "2020-04-22 23:54:25",
+        "ip_address": "216.157.88.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "bipvy.com",
+        "count": "2",
+        "first_seen": "2020-04-21 07:42:58",
+        "last_seen": "2020-04-21 07:42:58",
+        "ip_address": "216.157.88.27",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "domain": "anazom.xyz",
+        "count": "352",
+        "first_seen": "2023-03-25 15:02:55",
+        "last_seen": "2024-01-16 15:13:13",
+        "ip_address": "3.64.163.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anazom.xyz",
+        "count": "31",
+        "first_seen": "2022-01-13 02:16:40",
+        "last_seen": "2022-02-22 14:35:25",
+        "ip_address": "45.207.50.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anazom.xyz",
+        "count": "4",
+        "first_seen": "2017-03-07 12:36:58",
+        "last_seen": "2017-03-07 12:46:34",
+        "ip_address": "62.113.241.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anazom.xyz",
+        "count": "7",
+        "first_seen": "2020-08-16 23:03:14",
+        "last_seen": "2020-08-17 04:16:07",
+        "ip_address": "64.202.188.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anazom.xyz",
+        "count": "10",
+        "first_seen": "2021-08-17 08:24:39",
+        "last_seen": "2021-09-19 12:33:04",
+        "ip_address": "72.52.179.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anazom.xyz",
+        "count": "8",
+        "first_seen": "2023-01-14 14:55:56",
+        "last_seen": "2023-01-17 20:17:39",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anazom.xyz",
+        "count": "147",
+        "first_seen": "2017-03-17 05:00:42",
+        "last_seen": "2018-03-04 07:36:27",
+        "ip_address": "104.27.180.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anazom.xyz",
+        "count": "147",
+        "first_seen": "2017-03-17 05:00:42",
+        "last_seen": "2018-03-04 07:36:27",
+        "ip_address": "104.27.181.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anazom.xyz",
+        "count": "44",
+        "first_seen": "2020-01-11 14:07:33",
+        "last_seen": "2020-02-18 14:12:32",
+        "ip_address": "198.54.117.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anazom.xyz",
+        "count": "44",
+        "first_seen": "2020-01-11 14:07:33",
+        "last_seen": "2020-02-18 14:12:32",
+        "ip_address": "198.54.117.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anazom.xyz",
+        "count": "44",
+        "first_seen": "2020-01-11 14:07:33",
+        "last_seen": "2020-02-18 14:12:32",
+        "ip_address": "198.54.117.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anazom.xyz",
+        "count": "44",
+        "first_seen": "2020-01-11 14:07:33",
+        "last_seen": "2020-02-18 14:12:32",
+        "ip_address": "198.54.117.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anazom.xyz",
+        "count": "17",
+        "first_seen": "2018-03-08 12:56:09",
+        "last_seen": "2018-04-07 09:13:15",
+        "ip_address": "209.99.40.227",
+        "type": "IPv4"
+    },
+    {
+        "domain": "anazom.xyz",
+        "count": "89",
+        "first_seen": "2017-03-18 02:20:55",
+        "last_seen": "2018-03-02 12:12:46",
+        "ip_address": "2400:cb00:2048:1::681b:b44b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "anazom.xyz",
+        "count": "89",
+        "first_seen": "2017-03-18 02:20:55",
+        "last_seen": "2018-03-02 12:12:46",
+        "ip_address": "2400:cb00:2048:1::681b:b54b",
+        "type": "IPv6"
+    }
+]

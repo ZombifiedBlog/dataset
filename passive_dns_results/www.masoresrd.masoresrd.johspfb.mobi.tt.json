@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.masoresrd.masoresrd.johspfb.mobi.tt",
+        "count": "3",
+        "first_seen": "2023-06-01 13:01:18",
+        "last_seen": "2024-01-14 10:12:11",
+        "ip_address": "127.0.0.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.masoresrd.masoresrd.johspfb.mobi.tt",
+        "count": "38",
+        "first_seen": "2022-07-11 18:04:38",
+        "last_seen": "2022-07-12 04:12:23",
+        "ip_address": "107.174.138.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.masoresrd.masoresrd.johspfb.mobi.tt",
+        "count": "2",
+        "first_seen": "2024-01-14 10:12:11",
+        "last_seen": "2024-01-14 10:12:11",
+        "ip_address": "::1",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "grp01-id.rthzpg.wang",
+        "count": "2",
+        "first_seen": "2020-11-17 08:20:19",
+        "last_seen": "2020-11-17 08:20:19",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grp01-id.rthzpg.wang",
+        "count": "91",
+        "first_seen": "2020-09-30 07:43:10",
+        "last_seen": "2020-10-10 11:46:29",
+        "ip_address": "104.28.0.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grp01-id.rthzpg.wang",
+        "count": "91",
+        "first_seen": "2020-09-30 07:43:10",
+        "last_seen": "2020-10-10 11:46:29",
+        "ip_address": "104.28.1.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grp01-id.rthzpg.wang",
+        "count": "91",
+        "first_seen": "2020-09-30 07:43:10",
+        "last_seen": "2020-10-10 11:46:29",
+        "ip_address": "172.67.129.148",
+        "type": "IPv4"
+    },
+    {
+        "domain": "grp01-id.rthzpg.wang",
+        "count": "8",
+        "first_seen": "2020-09-30 07:43:10",
+        "last_seen": "2020-10-02 20:08:55",
+        "ip_address": "2606:4700:3033::681c:1a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "grp01-id.rthzpg.wang",
+        "count": "8",
+        "first_seen": "2020-09-30 07:43:10",
+        "last_seen": "2020-10-02 20:08:55",
+        "ip_address": "2606:4700:3033::ac43:8194",
+        "type": "IPv6"
+    },
+    {
+        "domain": "grp01-id.rthzpg.wang",
+        "count": "8",
+        "first_seen": "2020-09-30 07:43:10",
+        "last_seen": "2020-10-02 20:08:55",
+        "ip_address": "2606:4700:3037::681c:11a",
+        "type": "IPv6"
+    }
+]

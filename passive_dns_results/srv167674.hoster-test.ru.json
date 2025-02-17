@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "srv167674.hoster-test.ru",
+        "count": "3",
+        "first_seen": "2020-11-11 04:57:10",
+        "last_seen": "2020-11-21 15:52:21",
+        "ip_address": "31.28.24.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "srv167674.hoster-test.ru",
+        "count": "142",
+        "first_seen": "2020-11-10 00:55:10",
+        "last_seen": "2023-08-13 14:18:29",
+        "ip_address": "31.28.24.124",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "cistv.biz",
+        "count": "1",
+        "first_seen": "2013-07-08 14:19:03",
+        "last_seen": "2013-07-08 14:19:03",
+        "ip_address": "50.63.202.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cistv.biz",
+        "count": "64",
+        "first_seen": "2021-08-20 08:00:34",
+        "last_seen": "2022-09-30 03:33:17",
+        "ip_address": "104.21.48.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cistv.biz",
+        "count": "64",
+        "first_seen": "2021-08-20 08:00:34",
+        "last_seen": "2022-09-30 03:33:17",
+        "ip_address": "172.67.176.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cistv.biz",
+        "count": "19",
+        "first_seen": "2021-08-20 08:05:11",
+        "last_seen": "2022-09-02 15:35:47",
+        "ip_address": "2606:4700:3032::6815:3022",
+        "type": "IPv6"
+    },
+    {
+        "domain": "cistv.biz",
+        "count": "19",
+        "first_seen": "2021-08-20 08:05:11",
+        "last_seen": "2022-09-02 15:35:47",
+        "ip_address": "2606:4700:3037::ac43:b06f",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.amazong.buzz",
+        "count": "4",
+        "first_seen": "2021-10-10 18:12:05",
+        "last_seen": "2021-11-10 23:44:46",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazong.buzz",
+        "count": "4",
+        "first_seen": "2020-10-08 18:50:52",
+        "last_seen": "2020-10-08 18:50:52",
+        "ip_address": "148.66.129.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.amazong.buzz",
+        "count": "44",
+        "first_seen": "2020-10-08 18:53:11",
+        "last_seen": "2020-10-09 03:08:06",
+        "ip_address": "148.66.129.203",
+        "type": "IPv4"
+    }
+]

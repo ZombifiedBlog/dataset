@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "img.lkzrb.com",
+        "count": "36",
+        "first_seen": "2022-05-03 22:41:30",
+        "last_seen": "2022-10-23 00:53:32",
+        "ip_address": "23.27.220.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lkzrb.com",
+        "count": "16",
+        "first_seen": "2021-10-25 09:31:37",
+        "last_seen": "2021-11-17 12:24:17",
+        "ip_address": "45.192.202.190",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lkzrb.com",
+        "count": "6",
+        "first_seen": "2022-10-26 09:06:11",
+        "last_seen": "2022-11-27 07:50:27",
+        "ip_address": "52.213.114.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lkzrb.com",
+        "count": "3184",
+        "first_seen": "2020-08-06 06:45:07",
+        "last_seen": "2020-10-22 15:07:23",
+        "ip_address": "104.27.156.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lkzrb.com",
+        "count": "3184",
+        "first_seen": "2020-08-06 06:45:07",
+        "last_seen": "2020-10-22 15:07:23",
+        "ip_address": "104.27.157.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lkzrb.com",
+        "count": "3184",
+        "first_seen": "2020-08-06 06:45:07",
+        "last_seen": "2020-10-22 15:07:23",
+        "ip_address": "172.67.148.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lkzrb.com",
+        "count": "30",
+        "first_seen": "2022-02-24 07:50:45",
+        "last_seen": "2022-05-02 02:06:34",
+        "ip_address": "156.254.225.169",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lkzrb.com",
+        "count": "5",
+        "first_seen": "2022-02-08 20:10:33",
+        "last_seen": "2022-02-17 10:35:08",
+        "ip_address": "180.222.207.81",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lkzrb.com",
+        "count": "31",
+        "first_seen": "2021-11-23 21:06:51",
+        "last_seen": "2022-02-07 05:16:37",
+        "ip_address": "202.61.184.208",
+        "type": "IPv4"
+    },
+    {
+        "domain": "img.lkzrb.com",
+        "count": "671",
+        "first_seen": "2020-08-06 06:45:07",
+        "last_seen": "2020-10-22 15:07:23",
+        "ip_address": "2606:4700:3031::681b:9d93",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lkzrb.com",
+        "count": "671",
+        "first_seen": "2020-08-06 06:45:07",
+        "last_seen": "2020-10-22 15:07:23",
+        "ip_address": "2606:4700:3032::ac43:9471",
+        "type": "IPv6"
+    },
+    {
+        "domain": "img.lkzrb.com",
+        "count": "671",
+        "first_seen": "2020-08-06 06:45:07",
+        "last_seen": "2020-10-22 15:07:23",
+        "ip_address": "2606:4700:3037::681b:9c93",
+        "type": "IPv6"
+    }
+]

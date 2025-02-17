@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "ikbmwt.tk",
+        "count": "450",
+        "first_seen": "2022-01-26 23:58:50",
+        "last_seen": "2022-03-26 11:10:39",
+        "ip_address": "104.21.62.145",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ikbmwt.tk",
+        "count": "450",
+        "first_seen": "2022-01-26 23:58:50",
+        "last_seen": "2022-03-26 11:10:39",
+        "ip_address": "172.67.136.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ikbmwt.tk",
+        "count": "3",
+        "first_seen": "2022-01-26 11:20:05",
+        "last_seen": "2022-01-26 11:20:05",
+        "ip_address": "173.82.206.202",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ikbmwt.tk",
+        "count": "8",
+        "first_seen": "2022-01-29 00:08:22",
+        "last_seen": "2022-03-26 11:10:39",
+        "ip_address": "2606:4700:3031::6815:3e91",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ikbmwt.tk",
+        "count": "8",
+        "first_seen": "2022-01-29 00:08:22",
+        "last_seen": "2022-03-26 11:10:39",
+        "ip_address": "2606:4700:3031::ac43:88aa",
+        "type": "IPv6"
+    }
+]

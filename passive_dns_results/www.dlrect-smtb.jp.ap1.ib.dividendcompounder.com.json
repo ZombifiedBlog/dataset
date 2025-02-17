@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.dlrect-smtb.jp.ap1.ib.dividendcompounder.com",
+        "count": "876",
+        "first_seen": "2023-07-20 11:50:51",
+        "last_seen": "2023-08-13 19:22:07",
+        "ip_address": "104.21.50.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dlrect-smtb.jp.ap1.ib.dividendcompounder.com",
+        "count": "876",
+        "first_seen": "2023-07-20 11:50:51",
+        "last_seen": "2023-08-13 19:22:07",
+        "ip_address": "172.67.163.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dlrect-smtb.jp.ap1.ib.dividendcompounder.com",
+        "count": "431",
+        "first_seen": "2023-03-30 16:48:28",
+        "last_seen": "2023-04-13 04:21:37",
+        "ip_address": "107.150.4.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dlrect-smtb.jp.ap1.ib.dividendcompounder.com",
+        "count": "2200",
+        "first_seen": "2023-04-15 14:35:34",
+        "last_seen": "2023-07-18 23:23:18",
+        "ip_address": "206.238.220.45",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.dlrect-smtb.jp.ap1.ib.dividendcompounder.com",
+        "count": "2",
+        "first_seen": "2023-07-25 11:07:32",
+        "last_seen": "2023-07-25 11:07:32",
+        "ip_address": "2606:4700:3034::6815:327c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.dlrect-smtb.jp.ap1.ib.dividendcompounder.com",
+        "count": "2",
+        "first_seen": "2023-07-25 11:07:32",
+        "last_seen": "2023-07-25 11:07:32",
+        "ip_address": "2606:4700:3035::ac43:a32d",
+        "type": "IPv6"
+    }
+]

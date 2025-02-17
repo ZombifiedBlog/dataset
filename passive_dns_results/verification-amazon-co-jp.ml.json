@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "verification-amazon-co-jp.ml",
+        "count": "16",
+        "first_seen": "2020-08-03 05:28:34",
+        "last_seen": "2020-08-04 06:05:57",
+        "ip_address": "173.82.95.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "verification-amazon-co-jp.ml",
+        "count": "3",
+        "first_seen": "2020-08-04 08:08:32",
+        "last_seen": "2020-08-04 08:08:32",
+        "ip_address": "173.82.130.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "verification-amazon-co-jp.ml",
+        "count": "69",
+        "first_seen": "2020-07-30 17:14:25",
+        "last_seen": "2020-08-01 01:04:20",
+        "ip_address": "173.82.154.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "verification-amazon-co-jp.ml",
+        "count": "53",
+        "first_seen": "2020-08-01 02:05:41",
+        "last_seen": "2020-08-03 05:01:20",
+        "ip_address": "173.82.208.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "verification-amazon-co-jp.ml",
+        "count": "111",
+        "first_seen": "2020-08-04 13:53:14",
+        "last_seen": "2020-08-07 10:17:26",
+        "ip_address": "173.82.255.159",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.liederkranz-troesel.com",
+        "count": "60",
+        "first_seen": "2022-03-24 21:48:13",
+        "last_seen": "2022-06-23 02:41:24",
+        "ip_address": "76.164.216.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.liederkranz-troesel.com",
+        "count": "25",
+        "first_seen": "2022-01-05 11:54:53",
+        "last_seen": "2022-02-09 03:32:34",
+        "ip_address": "76.164.216.106",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.liederkranz-troesel.com",
+        "count": "36",
+        "first_seen": "2022-02-10 08:24:28",
+        "last_seen": "2022-03-21 07:05:02",
+        "ip_address": "76.164.224.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.liederkranz-troesel.com",
+        "count": "471",
+        "first_seen": "2011-11-05 13:43:59",
+        "last_seen": "2021-11-16 18:03:09",
+        "ip_address": "80.150.6.143",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.liederkranz-troesel.com",
+        "count": "28",
+        "first_seen": "2022-10-04 04:16:59",
+        "last_seen": "2022-11-27 04:49:46",
+        "ip_address": "185.153.181.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.liederkranz-troesel.com",
+        "count": "337",
+        "first_seen": "2015-11-27 00:04:53",
+        "last_seen": "2021-11-16 18:03:09",
+        "ip_address": "2003:2:2:15:80:150:6:143",
+        "type": "IPv6"
+    }
+]

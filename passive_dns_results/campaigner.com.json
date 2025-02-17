@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "campaigner.com",
+        "count": "95885",
+        "first_seen": "2020-12-17 14:17:14",
+        "last_seen": "2021-09-24 13:56:53",
+        "ip_address": "34.95.13.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "campaigner.com",
+        "count": "4",
+        "first_seen": "2018-10-12 13:52:36",
+        "last_seen": "2018-10-12 14:12:30",
+        "ip_address": "35.182.12.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "campaigner.com",
+        "count": "4",
+        "first_seen": "2018-10-12 13:52:36",
+        "last_seen": "2018-10-12 14:12:30",
+        "ip_address": "35.183.163.169",
+        "type": "IPv4"
+    },
+    {
+        "domain": "campaigner.com",
+        "count": "179836",
+        "first_seen": "2021-09-24 14:46:49",
+        "last_seen": "2024-01-18 11:35:12",
+        "ip_address": "162.159.135.42",
+        "type": "IPv4"
+    },
+    {
+        "domain": "campaigner.com",
+        "count": "26019",
+        "first_seen": "2012-01-22 12:06:36",
+        "last_seen": "2013-01-26 04:21:13",
+        "ip_address": "209.5.242.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "campaigner.com",
+        "count": "20343",
+        "first_seen": "2010-06-25 22:12:09",
+        "last_seen": "2012-01-22 10:37:35",
+        "ip_address": "216.24.224.53",
+        "type": "IPv4"
+    },
+    {
+        "domain": "campaigner.com",
+        "count": "205768",
+        "first_seen": "2013-01-26 05:15:11",
+        "last_seen": "2020-12-17 13:33:01",
+        "ip_address": "216.24.224.134",
+        "type": "IPv4"
+    }
+]

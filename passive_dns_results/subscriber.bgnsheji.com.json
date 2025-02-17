@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "subscriber.bgnsheji.com",
+        "count": "3508",
+        "first_seen": "2022-08-23 14:45:13",
+        "last_seen": "2022-11-11 09:30:23",
+        "ip_address": "104.21.93.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.bgnsheji.com",
+        "count": "3508",
+        "first_seen": "2022-08-23 14:45:13",
+        "last_seen": "2022-11-11 09:30:23",
+        "ip_address": "172.67.214.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.bgnsheji.com",
+        "count": "80",
+        "first_seen": "2022-08-23 18:49:46",
+        "last_seen": "2022-11-10 11:35:44",
+        "ip_address": "2606:4700:3037::6815:5dd1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.bgnsheji.com",
+        "count": "80",
+        "first_seen": "2022-08-23 18:49:46",
+        "last_seen": "2022-11-10 11:35:44",
+        "ip_address": "2606:4700:3037::ac43:d679",
+        "type": "IPv6"
+    }
+]

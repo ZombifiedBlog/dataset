@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "amazom.zuwfe.cn",
+        "count": "27",
+        "first_seen": "2022-06-28 16:52:48",
+        "last_seen": "2022-08-12 17:45:30",
+        "ip_address": "103.230.140.95",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazom.zuwfe.cn",
+        "count": "1",
+        "first_seen": "2022-10-01 18:41:00",
+        "last_seen": "2022-10-01 18:41:00",
+        "ip_address": "144.48.83.173",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazom.zuwfe.cn",
+        "count": "693",
+        "first_seen": "2021-12-05 15:12:24",
+        "last_seen": "2022-04-27 06:03:50",
+        "ip_address": "172.245.157.131",
+        "type": "IPv4"
+    }
+]

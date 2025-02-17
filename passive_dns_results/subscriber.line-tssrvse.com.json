@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "subscriber.line-tssrvse.com",
+        "count": "25",
+        "first_seen": "2020-03-12 19:55:12",
+        "last_seen": "2020-03-20 01:31:02",
+        "ip_address": "104.24.100.231",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.line-tssrvse.com",
+        "count": "25",
+        "first_seen": "2020-03-12 19:55:12",
+        "last_seen": "2020-03-20 01:31:02",
+        "ip_address": "104.24.101.231",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.line-tssrvse.com",
+        "count": "5",
+        "first_seen": "2020-05-14 08:10:54",
+        "last_seen": "2020-05-17 19:12:56",
+        "ip_address": "104.27.186.252",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.line-tssrvse.com",
+        "count": "5",
+        "first_seen": "2020-05-14 08:10:54",
+        "last_seen": "2020-05-17 19:12:56",
+        "ip_address": "104.27.187.252",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.line-tssrvse.com",
+        "count": "2",
+        "first_seen": "2020-06-09 01:54:48",
+        "last_seen": "2020-06-09 01:54:48",
+        "ip_address": "104.27.186.252",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.line-tssrvse.com",
+        "count": "2",
+        "first_seen": "2020-06-09 01:54:48",
+        "last_seen": "2020-06-09 01:54:48",
+        "ip_address": "104.27.187.252",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.line-tssrvse.com",
+        "count": "2",
+        "first_seen": "2020-06-09 01:54:48",
+        "last_seen": "2020-06-09 01:54:48",
+        "ip_address": "172.67.157.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.line-tssrvse.com",
+        "count": "4",
+        "first_seen": "2020-05-14 08:10:54",
+        "last_seen": "2020-05-17 19:12:56",
+        "ip_address": "2606:4700:3031::681b:bafc",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.line-tssrvse.com",
+        "count": "4",
+        "first_seen": "2020-05-14 08:10:54",
+        "last_seen": "2020-05-17 19:12:56",
+        "ip_address": "2606:4700:3037::681b:bbfc",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.line-tssrvse.com",
+        "count": "13",
+        "first_seen": "2020-03-12 19:55:13",
+        "last_seen": "2020-03-20 01:31:02",
+        "ip_address": "2606:4700:3032::6818:64e7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.line-tssrvse.com",
+        "count": "13",
+        "first_seen": "2020-03-12 19:55:13",
+        "last_seen": "2020-03-20 01:31:02",
+        "ip_address": "2606:4700:3033::6818:65e7",
+        "type": "IPv6"
+    }
+]

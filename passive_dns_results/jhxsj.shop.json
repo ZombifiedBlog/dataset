@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "jhxsj.shop",
+        "count": "23",
+        "first_seen": "2022-11-16 04:26:51",
+        "last_seen": "2023-01-20 03:49:05",
+        "ip_address": "23.227.38.65",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jhxsj.shop",
+        "count": "58",
+        "first_seen": "2022-04-29 05:40:39",
+        "last_seen": "2022-10-23 18:39:10",
+        "ip_address": "104.21.71.154",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jhxsj.shop",
+        "count": "58",
+        "first_seen": "2022-04-29 05:40:39",
+        "last_seen": "2022-10-23 18:39:10",
+        "ip_address": "172.67.170.186",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jhxsj.shop",
+        "count": "840",
+        "first_seen": "2023-01-24 18:29:52",
+        "last_seen": "2023-02-03 14:49:44",
+        "ip_address": "202.61.137.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "jhxsj.shop",
+        "count": "9",
+        "first_seen": "2022-04-29 05:40:40",
+        "last_seen": "2022-11-04 23:31:31",
+        "ip_address": "2606:4700:3032::6815:479a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "jhxsj.shop",
+        "count": "9",
+        "first_seen": "2022-04-29 05:40:40",
+        "last_seen": "2022-11-04 23:31:31",
+        "ip_address": "2606:4700:3037::ac43:aaba",
+        "type": "IPv6"
+    }
+]

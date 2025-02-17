@@ -1,0 +1,138 @@
+[
+    {
+        "domain": "koxwssi.cn",
+        "count": "2062",
+        "first_seen": "2023-02-20 05:39:30",
+        "last_seen": "2023-03-22 05:27:39",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "koxwssi.cn",
+        "count": "1465",
+        "first_seen": "2023-01-06 21:53:03",
+        "last_seen": "2023-02-20 04:14:58",
+        "ip_address": "104.21.14.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "koxwssi.cn",
+        "count": "1465",
+        "first_seen": "2023-01-06 21:53:03",
+        "last_seen": "2023-02-20 04:14:58",
+        "ip_address": "172.67.202.235",
+        "type": "IPv4"
+    },
+    {
+        "domain": "koxwssi.cn",
+        "count": "2",
+        "first_seen": "2023-01-06 23:23:57",
+        "last_seen": "2023-01-06 23:24:15",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "koxwssi.cn",
+        "count": "2",
+        "first_seen": "2023-01-06 23:23:57",
+        "last_seen": "2023-01-06 23:24:15",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "koxwssi.cn",
+        "count": "3",
+        "first_seen": "2023-01-06 21:52:48",
+        "last_seen": "2023-01-07 00:28:55",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "koxwssi.cn",
+        "count": "3",
+        "first_seen": "2023-01-06 21:52:48",
+        "last_seen": "2023-01-07 00:28:55",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "koxwssi.cn",
+        "count": "13",
+        "first_seen": "2023-01-14 07:53:59",
+        "last_seen": "2023-01-14 16:42:36",
+        "ip_address": "188.114.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "koxwssi.cn",
+        "count": "13",
+        "first_seen": "2023-01-14 07:53:59",
+        "last_seen": "2023-01-14 16:42:36",
+        "ip_address": "188.114.97.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "koxwssi.cn",
+        "count": "51",
+        "first_seen": "2023-01-06 22:22:41",
+        "last_seen": "2023-01-07 02:09:05",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "koxwssi.cn",
+        "count": "51",
+        "first_seen": "2023-01-06 22:22:41",
+        "last_seen": "2023-01-07 02:09:05",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "koxwssi.cn",
+        "count": "16",
+        "first_seen": "2023-01-06 21:54:19",
+        "last_seen": "2023-01-28 11:00:14",
+        "ip_address": "2606:4700:3032::6815:e74",
+        "type": "IPv6"
+    },
+    {
+        "domain": "koxwssi.cn",
+        "count": "16",
+        "first_seen": "2023-01-06 21:54:19",
+        "last_seen": "2023-01-28 11:00:14",
+        "ip_address": "2606:4700:3033::ac43:caeb",
+        "type": "IPv6"
+    },
+    {
+        "domain": "koxwssi.cn",
+        "count": "1",
+        "first_seen": "2023-01-07 00:02:38",
+        "last_seen": "2023-01-07 00:02:38",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "koxwssi.cn",
+        "count": "1",
+        "first_seen": "2023-01-07 00:02:38",
+        "last_seen": "2023-01-07 00:02:38",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "koxwssi.cn",
+        "count": "18",
+        "first_seen": "2023-01-06 22:22:42",
+        "last_seen": "2023-01-07 02:09:05",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "koxwssi.cn",
+        "count": "18",
+        "first_seen": "2023-01-06 22:22:42",
+        "last_seen": "2023-01-07 02:09:05",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    }
+]

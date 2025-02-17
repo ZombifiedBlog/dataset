@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.5oku.com",
+        "count": "570",
+        "first_seen": "2019-08-10 10:16:29",
+        "last_seen": "2024-01-12 21:39:12",
+        "ip_address": "3.1.253.90",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.5oku.com",
+        "count": "1715",
+        "first_seen": "2014-11-29 01:14:28",
+        "last_seen": "2019-07-15 05:50:02",
+        "ip_address": "54.169.12.28",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.5oku.com",
+        "count": "1246",
+        "first_seen": "2013-06-15 06:44:39",
+        "last_seen": "2014-11-27 15:14:14",
+        "ip_address": "120.136.14.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.5oku.com",
+        "count": "138",
+        "first_seen": "2010-07-28 08:54:25",
+        "last_seen": "2010-10-26 03:53:04",
+        "ip_address": "210.172.144.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.5oku.com",
+        "count": "2005",
+        "first_seen": "2010-10-28 16:21:22",
+        "last_seen": "2013-06-14 00:28:02",
+        "ip_address": "210.172.144.77",
+        "type": "IPv4"
+    }
+]

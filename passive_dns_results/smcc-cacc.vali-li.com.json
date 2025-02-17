@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "smcc-cacc.vali-li.com",
+        "count": "188",
+        "first_seen": "2020-10-20 19:01:54",
+        "last_seen": "2020-11-04 22:41:23",
+        "ip_address": "45.82.166.72",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.vali-li.com",
+        "count": "6",
+        "first_seen": "2020-11-06 19:00:18",
+        "last_seen": "2020-11-13 13:26:10",
+        "ip_address": "47.91.29.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.vali-li.com",
+        "count": "11",
+        "first_seen": "2022-04-26 19:03:43",
+        "last_seen": "2022-05-14 23:50:25",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.vali-li.com",
+        "count": "2",
+        "first_seen": "2022-02-25 13:52:48",
+        "last_seen": "2022-02-25 13:52:57",
+        "ip_address": "199.59.240.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.vali-li.com",
+        "count": "18",
+        "first_seen": "2021-06-04 02:58:28",
+        "last_seen": "2021-11-18 04:34:07",
+        "ip_address": "199.59.242.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smcc-cacc.vali-li.com",
+        "count": "17",
+        "first_seen": "2021-12-04 02:31:35",
+        "last_seen": "2022-01-29 18:31:48",
+        "ip_address": "199.59.243.200",
+        "type": "IPv4"
+    }
+]

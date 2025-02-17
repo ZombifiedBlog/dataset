@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "alnitcorp.ru",
+        "count": "36",
+        "first_seen": "2015-09-02 09:20:54",
+        "last_seen": "2015-10-04 22:47:07",
+        "ip_address": "83.222.14.207",
+        "type": "IPv4"
+    },
+    {
+        "domain": "alnitcorp.ru",
+        "count": "232",
+        "first_seen": "2014-10-21 11:16:31",
+        "last_seen": "2015-03-24 14:18:11",
+        "ip_address": "178.208.83.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "alnitcorp.ru",
+        "count": "22",
+        "first_seen": "2015-03-24 21:12:34",
+        "last_seen": "2015-03-27 18:48:16",
+        "ip_address": "178.208.83.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "alnitcorp.ru",
+        "count": "1",
+        "first_seen": "2014-09-25 17:09:55",
+        "last_seen": "2014-09-25 17:09:55",
+        "ip_address": "193.201.224.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "alnitcorp.ru",
+        "count": "2",
+        "first_seen": "2015-02-10 14:50:17",
+        "last_seen": "2015-02-10 14:50:17",
+        "ip_address": "195.211.221.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "alnitcorp.ru",
+        "count": "3",
+        "first_seen": "2015-02-17 17:53:34",
+        "last_seen": "2015-02-17 19:36:55",
+        "ip_address": "195.211.221.197",
+        "type": "IPv4"
+    }
+]

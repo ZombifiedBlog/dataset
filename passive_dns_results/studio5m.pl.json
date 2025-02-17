@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "studio5m.pl",
+        "count": "9",
+        "first_seen": "2013-10-18 10:30:04",
+        "last_seen": "2014-03-16 00:45:13",
+        "ip_address": "37.59.24.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "studio5m.pl",
+        "count": "6",
+        "first_seen": "2013-06-20 06:27:15",
+        "last_seen": "2013-06-28 21:26:22",
+        "ip_address": "46.4.123.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "studio5m.pl",
+        "count": "23",
+        "first_seen": "2011-01-29 17:37:01",
+        "last_seen": "2011-06-25 20:27:14",
+        "ip_address": "188.165.17.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "studio5m.pl",
+        "count": "30",
+        "first_seen": "2011-08-25 15:10:09",
+        "last_seen": "2013-06-08 05:18:08",
+        "ip_address": "188.165.192.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "studio5m.pl",
+        "count": "10",
+        "first_seen": "2011-12-02 10:41:34",
+        "last_seen": "2012-03-05 14:07:53",
+        "ip_address": "188.165.212.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "studio5m.pl",
+        "count": "1691",
+        "first_seen": "2020-06-09 16:09:15",
+        "last_seen": "2021-01-03 08:40:27",
+        "ip_address": "193.143.77.50",
+        "type": "IPv4"
+    }
+]

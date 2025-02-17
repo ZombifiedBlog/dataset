@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "ydoyntzvpg.com",
+        "count": "13",
+        "first_seen": "2023-05-02 04:50:17",
+        "last_seen": "2023-05-07 02:21:46",
+        "ip_address": "104.21.15.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ydoyntzvpg.com",
+        "count": "13",
+        "first_seen": "2023-05-02 04:50:17",
+        "last_seen": "2023-05-07 02:21:46",
+        "ip_address": "172.67.160.253",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ydoyntzvpg.com",
+        "count": "2",
+        "first_seen": "2023-05-08 15:01:32",
+        "last_seen": "2023-05-17 19:38:12",
+        "ip_address": "107.148.134.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ydoyntzvpg.com",
+        "count": "42",
+        "first_seen": "2023-05-20 16:03:53",
+        "last_seen": "2023-05-21 10:50:40",
+        "ip_address": "192.161.176.78",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ydoyntzvpg.com",
+        "count": "168",
+        "first_seen": "2023-05-20 07:58:00",
+        "last_seen": "2023-05-20 16:02:10",
+        "ip_address": "204.44.88.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ydoyntzvpg.com",
+        "count": "38",
+        "first_seen": "2023-05-21 11:02:55",
+        "last_seen": "2023-05-22 01:09:30",
+        "ip_address": "204.44.93.141",
+        "type": "IPv4"
+    },
+    {
+        "domain": "ydoyntzvpg.com",
+        "count": "2",
+        "first_seen": "2023-05-02 04:50:17",
+        "last_seen": "2023-05-05 07:26:05",
+        "ip_address": "2606:4700:3033::ac43:a0fd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "ydoyntzvpg.com",
+        "count": "2",
+        "first_seen": "2023-05-02 04:50:17",
+        "last_seen": "2023-05-05 07:26:05",
+        "ip_address": "2606:4700:3034::6815:f0b",
+        "type": "IPv6"
+    }
+]

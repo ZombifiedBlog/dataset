@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.omgxx.com",
+        "count": "63",
+        "first_seen": "2022-10-31 06:53:21",
+        "last_seen": "2022-11-24 17:10:12",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.omgxx.com",
+        "count": "4146",
+        "first_seen": "2022-08-23 14:59:25",
+        "last_seen": "2022-10-31 05:15:37",
+        "ip_address": "104.21.43.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.omgxx.com",
+        "count": "4146",
+        "first_seen": "2022-08-23 14:59:25",
+        "last_seen": "2022-10-31 05:15:37",
+        "ip_address": "172.67.185.237",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.omgxx.com",
+        "count": "204",
+        "first_seen": "2022-08-24 02:14:27",
+        "last_seen": "2022-10-30 11:55:45",
+        "ip_address": "2606:4700:3033::6815:2bda",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.omgxx.com",
+        "count": "204",
+        "first_seen": "2022-08-24 02:14:27",
+        "last_seen": "2022-10-30 11:55:45",
+        "ip_address": "2606:4700:3033::ac43:b9ed",
+        "type": "IPv6"
+    }
+]

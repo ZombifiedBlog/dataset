@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "subscriber.mutLuannemutLubebek.com",
+        "count": "2848",
+        "first_seen": "2022-11-19 16:51:06",
+        "last_seen": "2023-02-14 08:30:38",
+        "ip_address": "104.21.32.112",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.mutLuannemutLubebek.com",
+        "count": "2848",
+        "first_seen": "2022-11-19 16:51:06",
+        "last_seen": "2023-02-14 08:30:38",
+        "ip_address": "172.67.151.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.mutLuannemutLubebek.com",
+        "count": "122",
+        "first_seen": "2022-11-19 20:33:47",
+        "last_seen": "2023-01-15 15:40:08",
+        "ip_address": "2606:4700:3032::6815:2070",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.mutLuannemutLubebek.com",
+        "count": "122",
+        "first_seen": "2022-11-19 20:33:47",
+        "last_seen": "2023-01-15 15:40:08",
+        "ip_address": "2606:4700:3032::ac43:9714",
+        "type": "IPv6"
+    }
+]

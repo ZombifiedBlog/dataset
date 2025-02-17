@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscribers.gsn826.icu",
+        "count": "80",
+        "first_seen": "2020-07-24 10:24:04",
+        "last_seen": "2020-07-30 17:09:40",
+        "ip_address": "104.24.100.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.gsn826.icu",
+        "count": "80",
+        "first_seen": "2020-07-24 10:24:04",
+        "last_seen": "2020-07-30 17:09:40",
+        "ip_address": "104.24.101.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.gsn826.icu",
+        "count": "80",
+        "first_seen": "2020-07-24 10:24:04",
+        "last_seen": "2020-07-30 17:09:40",
+        "ip_address": "172.67.162.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscribers.gsn826.icu",
+        "count": "7",
+        "first_seen": "2020-07-24 10:24:04",
+        "last_seen": "2020-07-24 17:38:03",
+        "ip_address": "2606:4700:3031::ac43:a27a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.gsn826.icu",
+        "count": "7",
+        "first_seen": "2020-07-24 10:24:04",
+        "last_seen": "2020-07-24 17:38:03",
+        "ip_address": "2606:4700:3032::6818:65ea",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscribers.gsn826.icu",
+        "count": "7",
+        "first_seen": "2020-07-24 10:24:04",
+        "last_seen": "2020-07-24 17:38:03",
+        "ip_address": "2606:4700:3035::6818:64ea",
+        "type": "IPv6"
+    }
+]

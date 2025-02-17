@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "subscriber.0Ldd.com",
+        "count": "26",
+        "first_seen": "2023-05-18 14:56:39",
+        "last_seen": "2023-12-31 16:26:32",
+        "ip_address": "47.94.98.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.0Ldd.com",
+        "count": "8",
+        "first_seen": "2021-01-14 15:15:54",
+        "last_seen": "2021-01-18 19:56:28",
+        "ip_address": "104.21.28.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.0Ldd.com",
+        "count": "8",
+        "first_seen": "2021-01-14 15:15:54",
+        "last_seen": "2021-01-18 19:56:28",
+        "ip_address": "172.67.170.99",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.0Ldd.com",
+        "count": "9",
+        "first_seen": "2021-01-11 02:12:17",
+        "last_seen": "2021-01-12 11:55:45",
+        "ip_address": "104.28.28.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.0Ldd.com",
+        "count": "9",
+        "first_seen": "2021-01-11 02:12:17",
+        "last_seen": "2021-01-12 11:55:45",
+        "ip_address": "104.28.29.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.0Ldd.com",
+        "count": "9",
+        "first_seen": "2021-01-11 02:12:17",
+        "last_seen": "2021-01-12 11:55:45",
+        "ip_address": "172.67.170.99",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.0Ldd.com",
+        "count": "6",
+        "first_seen": "2021-01-11 00:16:34",
+        "last_seen": "2021-01-12 07:35:50",
+        "ip_address": "2606:4700:3030::681c:1cd2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.0Ldd.com",
+        "count": "6",
+        "first_seen": "2021-01-11 00:16:34",
+        "last_seen": "2021-01-12 07:35:50",
+        "ip_address": "2606:4700:3032::ac43:aa63",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.0Ldd.com",
+        "count": "6",
+        "first_seen": "2021-01-11 00:16:34",
+        "last_seen": "2021-01-12 07:35:50",
+        "ip_address": "2606:4700:3035::681c:1dd2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.0Ldd.com",
+        "count": "3",
+        "first_seen": "2021-01-14 15:15:54",
+        "last_seen": "2021-01-16 03:15:42",
+        "ip_address": "2606:4700:3032::ac43:aa63",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.0Ldd.com",
+        "count": "3",
+        "first_seen": "2021-01-14 15:15:54",
+        "last_seen": "2021-01-16 03:15:42",
+        "ip_address": "2606:4700:3034::6815:1c3a",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,210 @@
+[
+    {
+        "domain": "newsouthcharm.com",
+        "count": "6",
+        "first_seen": "2015-04-24 02:01:39",
+        "last_seen": "2015-04-26 02:11:13",
+        "ip_address": "50.63.202.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "newsouthcharm.com",
+        "count": "186630",
+        "first_seen": "2021-01-15 01:23:04",
+        "last_seen": "2024-01-18 05:40:40",
+        "ip_address": "104.21.58.248",
+        "type": "IPv4"
+    },
+    {
+        "domain": "newsouthcharm.com",
+        "count": "186630",
+        "first_seen": "2021-01-15 01:23:04",
+        "last_seen": "2024-01-18 05:40:40",
+        "ip_address": "172.67.166.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "newsouthcharm.com",
+        "count": "82879",
+        "first_seen": "2018-09-05 20:11:04",
+        "last_seen": "2020-05-26 19:30:10",
+        "ip_address": "104.27.136.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "newsouthcharm.com",
+        "count": "82879",
+        "first_seen": "2018-09-05 20:11:04",
+        "last_seen": "2020-05-26 19:30:10",
+        "ip_address": "104.27.137.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "newsouthcharm.com",
+        "count": "41390",
+        "first_seen": "2020-05-26 19:50:14",
+        "last_seen": "2021-01-15 01:16:41",
+        "ip_address": "104.27.136.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "newsouthcharm.com",
+        "count": "41390",
+        "first_seen": "2020-05-26 19:50:14",
+        "last_seen": "2021-01-15 01:16:41",
+        "ip_address": "104.27.137.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "newsouthcharm.com",
+        "count": "41390",
+        "first_seen": "2020-05-26 19:50:14",
+        "last_seen": "2021-01-15 01:16:41",
+        "ip_address": "172.67.166.129",
+        "type": "IPv4"
+    },
+    {
+        "domain": "newsouthcharm.com",
+        "count": "108719",
+        "first_seen": "2015-05-08 23:39:18",
+        "last_seen": "2018-09-05 21:08:03",
+        "ip_address": "143.95.40.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "newsouthcharm.com",
+        "count": "4",
+        "first_seen": "2023-12-26 18:12:53",
+        "last_seen": "2023-12-26 18:12:54",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "newsouthcharm.com",
+        "count": "47",
+        "first_seen": "2017-04-27 12:48:11",
+        "last_seen": "2017-04-27 19:49:32",
+        "ip_address": "184.168.221.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "newsouthcharm.com",
+        "count": "12",
+        "first_seen": "2022-03-11 05:44:40",
+        "last_seen": "2022-03-14 10:09:11",
+        "ip_address": "188.114.97.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "newsouthcharm.com",
+        "count": "1342",
+        "first_seen": "2018-09-05 20:11:04",
+        "last_seen": "2018-09-25 10:23:52",
+        "ip_address": "2400:cb00:2048:1::681b:88de",
+        "type": "IPv6"
+    },
+    {
+        "domain": "newsouthcharm.com",
+        "count": "1342",
+        "first_seen": "2018-09-05 20:11:04",
+        "last_seen": "2018-09-25 10:23:52",
+        "ip_address": "2400:cb00:2048:1::681b:89de",
+        "type": "IPv6"
+    },
+    {
+        "domain": "newsouthcharm.com",
+        "count": "35663",
+        "first_seen": "2018-09-25 12:11:10",
+        "last_seen": "2020-01-16 10:03:24",
+        "ip_address": "2606:4700:30::681b:88de",
+        "type": "IPv6"
+    },
+    {
+        "domain": "newsouthcharm.com",
+        "count": "35663",
+        "first_seen": "2018-09-25 12:11:10",
+        "last_seen": "2020-01-16 10:03:24",
+        "ip_address": "2606:4700:30::681b:89de",
+        "type": "IPv6"
+    },
+    {
+        "domain": "newsouthcharm.com",
+        "count": "9",
+        "first_seen": "2020-01-16 11:22:02",
+        "last_seen": "2020-01-16 15:21:27",
+        "ip_address": "2606:4700:3031::681b:89de",
+        "type": "IPv6"
+    },
+    {
+        "domain": "newsouthcharm.com",
+        "count": "9",
+        "first_seen": "2020-01-16 11:22:02",
+        "last_seen": "2020-01-16 15:21:27",
+        "ip_address": "2606:4700:3036::681b:88de",
+        "type": "IPv6"
+    },
+    {
+        "domain": "newsouthcharm.com",
+        "count": "25400",
+        "first_seen": "2020-05-26 20:08:12",
+        "last_seen": "2021-01-15 01:07:03",
+        "ip_address": "2606:4700:3031::ac43:a681",
+        "type": "IPv6"
+    },
+    {
+        "domain": "newsouthcharm.com",
+        "count": "25400",
+        "first_seen": "2020-05-26 20:08:12",
+        "last_seen": "2021-01-15 01:07:03",
+        "ip_address": "2606:4700:3032::681b:89de",
+        "type": "IPv6"
+    },
+    {
+        "domain": "newsouthcharm.com",
+        "count": "25400",
+        "first_seen": "2020-05-26 20:08:12",
+        "last_seen": "2021-01-15 01:07:03",
+        "ip_address": "2606:4700:3036::681b:88de",
+        "type": "IPv6"
+    },
+    {
+        "domain": "newsouthcharm.com",
+        "count": "121550",
+        "first_seen": "2021-01-15 01:23:04",
+        "last_seen": "2024-01-18 04:29:38",
+        "ip_address": "2606:4700:3031::ac43:a681",
+        "type": "IPv6"
+    },
+    {
+        "domain": "newsouthcharm.com",
+        "count": "121550",
+        "first_seen": "2021-01-15 01:23:04",
+        "last_seen": "2024-01-18 04:29:38",
+        "ip_address": "2606:4700:3033::6815:3af8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "newsouthcharm.com",
+        "count": "10871",
+        "first_seen": "2020-01-16 15:27:34",
+        "last_seen": "2020-05-26 19:30:10",
+        "ip_address": "2606:4700:3032::681b:89de",
+        "type": "IPv6"
+    },
+    {
+        "domain": "newsouthcharm.com",
+        "count": "10871",
+        "first_seen": "2020-01-16 15:27:34",
+        "last_seen": "2020-05-26 19:30:10",
+        "ip_address": "2606:4700:3036::681b:88de",
+        "type": "IPv6"
+    },
+    {
+        "domain": "newsouthcharm.com",
+        "count": "2",
+        "first_seen": "2022-03-11 08:25:19",
+        "last_seen": "2022-03-13 10:30:04",
+        "ip_address": "2a06:98c1:3122:8000::",
+        "type": "IPv6"
+    }
+]

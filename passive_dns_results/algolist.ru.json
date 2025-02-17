@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "algolist.ru",
+        "count": "3376417",
+        "first_seen": "2019-08-16 18:38:15",
+        "last_seen": "2024-01-18 12:03:45",
+        "ip_address": "88.99.225.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "algolist.ru",
+        "count": "1190151",
+        "first_seen": "2017-12-01 07:46:45",
+        "last_seen": "2019-08-16 09:46:56",
+        "ip_address": "94.130.7.169",
+        "type": "IPv4"
+    },
+    {
+        "domain": "algolist.ru",
+        "count": "198",
+        "first_seen": "2015-04-28 11:20:57",
+        "last_seen": "2019-08-16 11:32:27",
+        "ip_address": "104.31.82.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "algolist.ru",
+        "count": "198",
+        "first_seen": "2015-04-28 11:20:57",
+        "last_seen": "2019-08-16 11:32:27",
+        "ip_address": "104.31.83.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "algolist.ru",
+        "count": "579",
+        "first_seen": "2019-08-16 09:47:28",
+        "last_seen": "2019-08-16 18:37:28",
+        "ip_address": "148.251.92.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "algolist.ru",
+        "count": "461350",
+        "first_seen": "2013-05-09 02:46:18",
+        "last_seen": "2017-12-01 07:44:55",
+        "ip_address": "176.9.249.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "algolist.ru",
+        "count": "1882",
+        "first_seen": "2010-07-13 07:31:49",
+        "last_seen": "2013-05-08 02:11:40",
+        "ip_address": "217.65.7.103",
+        "type": "IPv4"
+    },
+    {
+        "domain": "algolist.ru",
+        "count": "3",
+        "first_seen": "2017-11-22 17:22:52",
+        "last_seen": "2017-11-22 17:22:52",
+        "ip_address": "2400:cb00:2048:1::681f:5234",
+        "type": "IPv6"
+    },
+    {
+        "domain": "algolist.ru",
+        "count": "3",
+        "first_seen": "2017-11-22 17:22:52",
+        "last_seen": "2017-11-22 17:22:52",
+        "ip_address": "2400:cb00:2048:1::681f:5334",
+        "type": "IPv6"
+    },
+    {
+        "domain": "algolist.ru",
+        "count": "14",
+        "first_seen": "2019-08-16 10:04:19",
+        "last_seen": "2019-08-16 11:29:24",
+        "ip_address": "2606:4700:30::681f:5234",
+        "type": "IPv6"
+    },
+    {
+        "domain": "algolist.ru",
+        "count": "14",
+        "first_seen": "2019-08-16 10:04:19",
+        "last_seen": "2019-08-16 11:29:24",
+        "ip_address": "2606:4700:30::681f:5334",
+        "type": "IPv6"
+    }
+]

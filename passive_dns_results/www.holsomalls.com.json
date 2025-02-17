@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.holsomalls.com",
+        "count": "407",
+        "first_seen": "2018-10-18 09:19:27",
+        "last_seen": "2019-10-11 00:29:46",
+        "ip_address": "104.18.38.98",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.holsomalls.com",
+        "count": "407",
+        "first_seen": "2018-10-18 09:19:27",
+        "last_seen": "2019-10-11 00:29:46",
+        "ip_address": "104.18.39.98",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.holsomalls.com",
+        "count": "6",
+        "first_seen": "2019-10-25 06:56:05",
+        "last_seen": "2019-11-26 02:01:43",
+        "ip_address": "209.99.40.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.holsomalls.com",
+        "count": "184",
+        "first_seen": "2018-10-18 09:19:27",
+        "last_seen": "2019-10-11 00:29:44",
+        "ip_address": "2606:4700:30::6812:2662",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.holsomalls.com",
+        "count": "184",
+        "first_seen": "2018-10-18 09:19:27",
+        "last_seen": "2019-10-11 00:29:44",
+        "ip_address": "2606:4700:30::6812:2762",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "statistics.rjczyx.cn",
+        "count": "7",
+        "first_seen": "2021-05-12 07:20:13",
+        "last_seen": "2021-05-14 00:28:00",
+        "ip_address": "45.119.125.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "statistics.rjczyx.cn",
+        "count": "16",
+        "first_seen": "2021-05-06 02:30:00",
+        "last_seen": "2021-05-08 19:38:10",
+        "ip_address": "104.21.45.198",
+        "type": "IPv4"
+    },
+    {
+        "domain": "statistics.rjczyx.cn",
+        "count": "16",
+        "first_seen": "2021-05-06 02:30:00",
+        "last_seen": "2021-05-08 19:38:10",
+        "ip_address": "172.67.218.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "statistics.rjczyx.cn",
+        "count": "8",
+        "first_seen": "2021-05-06 02:30:00",
+        "last_seen": "2021-05-10 07:32:07",
+        "ip_address": "2606:4700:3035::6815:2dc6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "statistics.rjczyx.cn",
+        "count": "8",
+        "first_seen": "2021-05-06 02:30:00",
+        "last_seen": "2021-05-10 07:32:07",
+        "ip_address": "2606:4700:3035::ac43:dab7",
+        "type": "IPv6"
+    }
+]

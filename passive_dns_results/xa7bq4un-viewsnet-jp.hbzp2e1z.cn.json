@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "xa7bq4un-viewsnet-jp.hbzp2e1z.cn",
+        "count": "9",
+        "first_seen": "2022-03-26 17:42:46",
+        "last_seen": "2022-04-21 20:11:25",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xa7bq4un-viewsnet-jp.hbzp2e1z.cn",
+        "count": "28",
+        "first_seen": "2022-02-28 23:02:42",
+        "last_seen": "2022-03-15 15:32:21",
+        "ip_address": "104.21.81.216",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xa7bq4un-viewsnet-jp.hbzp2e1z.cn",
+        "count": "28",
+        "first_seen": "2022-02-28 23:02:42",
+        "last_seen": "2022-03-15 15:32:21",
+        "ip_address": "172.67.165.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xa7bq4un-viewsnet-jp.hbzp2e1z.cn",
+        "count": "6",
+        "first_seen": "2022-03-01 17:34:53",
+        "last_seen": "2022-03-15 15:32:21",
+        "ip_address": "2606:4700:3033::ac43:a538",
+        "type": "IPv6"
+    },
+    {
+        "domain": "xa7bq4un-viewsnet-jp.hbzp2e1z.cn",
+        "count": "6",
+        "first_seen": "2022-03-01 17:34:53",
+        "last_seen": "2022-03-15 15:32:21",
+        "ip_address": "2606:4700:3035::6815:51d8",
+        "type": "IPv6"
+    }
+]

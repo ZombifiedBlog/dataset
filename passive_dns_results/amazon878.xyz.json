@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "amazon878.xyz",
+        "count": "3",
+        "first_seen": "2021-04-09 10:23:59",
+        "last_seen": "2021-04-09 10:34:08",
+        "ip_address": "103.124.104.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon878.xyz",
+        "count": "23",
+        "first_seen": "2024-01-04 07:46:57",
+        "last_seen": "2024-01-17 08:37:33",
+        "ip_address": "104.21.53.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon878.xyz",
+        "count": "23",
+        "first_seen": "2024-01-04 07:46:57",
+        "last_seen": "2024-01-17 08:37:33",
+        "ip_address": "172.67.210.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon878.xyz",
+        "count": "2",
+        "first_seen": "2021-04-11 15:13:10",
+        "last_seen": "2021-04-11 16:38:37",
+        "ip_address": "173.82.238.195",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon878.xyz",
+        "count": "5",
+        "first_seen": "2024-01-04 07:51:04",
+        "last_seen": "2024-01-17 09:38:04",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon878.xyz",
+        "count": "5",
+        "first_seen": "2024-01-04 07:51:04",
+        "last_seen": "2024-01-17 09:38:04",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon878.xyz",
+        "count": "1",
+        "first_seen": "2024-01-04 07:47:10",
+        "last_seen": "2024-01-04 07:47:10",
+        "ip_address": "188.114.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon878.xyz",
+        "count": "1",
+        "first_seen": "2024-01-04 07:47:10",
+        "last_seen": "2024-01-04 07:47:10",
+        "ip_address": "188.114.97.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon878.xyz",
+        "count": "2",
+        "first_seen": "2024-01-04 07:48:16",
+        "last_seen": "2024-01-11 05:33:33",
+        "ip_address": "2606:4700:3032::6815:354d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon878.xyz",
+        "count": "2",
+        "first_seen": "2024-01-04 07:48:16",
+        "last_seen": "2024-01-11 05:33:33",
+        "ip_address": "2606:4700:3035::ac43:d264",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon878.xyz",
+        "count": "1",
+        "first_seen": "2024-01-04 07:47:10",
+        "last_seen": "2024-01-04 07:47:10",
+        "ip_address": "2a06:98c1:3120::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon878.xyz",
+        "count": "1",
+        "first_seen": "2024-01-04 07:47:10",
+        "last_seen": "2024-01-04 07:47:10",
+        "ip_address": "2a06:98c1:3121::c",
+        "type": "IPv6"
+    }
+]

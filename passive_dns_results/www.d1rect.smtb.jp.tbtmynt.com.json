@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.d1rect.smtb.jp.tbtmynt.com",
+        "count": "4483",
+        "first_seen": "2023-05-14 02:44:49",
+        "last_seen": "2023-12-29 20:33:34",
+        "ip_address": "104.21.2.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.d1rect.smtb.jp.tbtmynt.com",
+        "count": "4483",
+        "first_seen": "2023-05-14 02:44:49",
+        "last_seen": "2023-12-29 20:33:34",
+        "ip_address": "172.67.152.230",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.d1rect.smtb.jp.tbtmynt.com",
+        "count": "240",
+        "first_seen": "2023-03-20 13:52:10",
+        "last_seen": "2023-03-28 01:25:35",
+        "ip_address": "204.44.75.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.d1rect.smtb.jp.tbtmynt.com",
+        "count": "11",
+        "first_seen": "2023-05-21 15:22:08",
+        "last_seen": "2023-08-25 09:46:04",
+        "ip_address": "2606:4700:3031::ac43:98e6",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.d1rect.smtb.jp.tbtmynt.com",
+        "count": "11",
+        "first_seen": "2023-05-21 15:22:08",
+        "last_seen": "2023-08-25 09:46:04",
+        "ip_address": "2606:4700:3036::6815:2cd",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.lmkzd.com",
+        "count": "4",
+        "first_seen": "2017-02-28 13:40:39",
+        "last_seen": "2017-02-28 13:40:42",
+        "ip_address": "75.126.0.100",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lmkzd.com",
+        "count": "3",
+        "first_seen": "2016-10-13 18:00:28",
+        "last_seen": "2016-10-13 18:14:10",
+        "ip_address": "172.247.59.247",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lmkzd.com",
+        "count": "618",
+        "first_seen": "2021-09-15 00:53:54",
+        "last_seen": "2022-08-08 10:23:25",
+        "ip_address": "198.144.145.221",
+        "type": "IPv4"
+    }
+]

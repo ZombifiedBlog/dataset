@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "amazzon.buzz",
+        "count": "2",
+        "first_seen": "2021-10-10 16:40:03",
+        "last_seen": "2021-11-01 15:49:00",
+        "ip_address": "72.52.179.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazzon.buzz",
+        "count": "13",
+        "first_seen": "2023-07-29 16:44:56",
+        "last_seen": "2023-08-31 00:09:09",
+        "ip_address": "91.195.240.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazzon.buzz",
+        "count": "19",
+        "first_seen": "2020-09-29 19:32:40",
+        "last_seen": "2020-10-11 07:02:33",
+        "ip_address": "173.82.133.241",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazzon.buzz",
+        "count": "80",
+        "first_seen": "2022-07-29 14:02:06",
+        "last_seen": "2023-07-26 03:44:13",
+        "ip_address": "207.148.88.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazzon.buzz",
+        "count": "24",
+        "first_seen": "2022-08-21 17:33:28",
+        "last_seen": "2023-07-15 11:40:14",
+        "ip_address": "2001:19f0:7001:2f2d:5400:4ff:fe16:3d3b",
+        "type": "IPv6"
+    }
+]

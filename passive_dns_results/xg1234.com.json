@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "xg1234.com",
+        "count": "260",
+        "first_seen": "2015-01-19 06:00:29",
+        "last_seen": "2017-07-10 19:55:45",
+        "ip_address": "23.234.63.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xg1234.com",
+        "count": "128",
+        "first_seen": "2021-06-19 06:57:10",
+        "last_seen": "2022-06-12 06:15:41",
+        "ip_address": "45.125.108.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xg1234.com",
+        "count": "26",
+        "first_seen": "2022-06-13 12:20:09",
+        "last_seen": "2022-07-16 19:21:47",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xg1234.com",
+        "count": "3",
+        "first_seen": "2014-07-07 03:12:21",
+        "last_seen": "2014-07-09 03:11:18",
+        "ip_address": "54.72.9.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xg1234.com",
+        "count": "10",
+        "first_seen": "2013-07-12 09:11:44",
+        "last_seen": "2013-11-04 14:57:18",
+        "ip_address": "67.18.1.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xg1234.com",
+        "count": "200",
+        "first_seen": "2021-02-22 22:41:37",
+        "last_seen": "2021-04-28 02:46:03",
+        "ip_address": "85.208.109.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xg1234.com",
+        "count": "9",
+        "first_seen": "2017-07-15 14:28:40",
+        "last_seen": "2017-08-13 19:37:33",
+        "ip_address": "103.57.24.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xg1234.com",
+        "count": "370",
+        "first_seen": "2023-03-24 03:12:52",
+        "last_seen": "2024-01-15 05:04:39",
+        "ip_address": "103.71.32.185",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xg1234.com",
+        "count": "4",
+        "first_seen": "2012-11-24 23:05:30",
+        "last_seen": "2013-03-16 08:32:00",
+        "ip_address": "204.16.195.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "xg1234.com",
+        "count": "1",
+        "first_seen": "2010-08-18 06:59:55",
+        "last_seen": "2010-08-18 06:59:55",
+        "ip_address": "216.218.207.155",
+        "type": "IPv4"
+    }
+]

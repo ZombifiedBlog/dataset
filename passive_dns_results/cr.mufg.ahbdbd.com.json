@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "cr.mufg.ahbdbd.com",
+        "count": "2",
+        "first_seen": "2021-12-22 10:05:22",
+        "last_seen": "2021-12-22 11:36:57",
+        "ip_address": "78.41.204.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.ahbdbd.com",
+        "count": "1",
+        "first_seen": "2021-10-22 03:01:18",
+        "last_seen": "2021-10-22 03:01:18",
+        "ip_address": "78.41.204.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.ahbdbd.com",
+        "count": "4",
+        "first_seen": "2021-05-05 01:52:11",
+        "last_seen": "2021-07-12 11:20:09",
+        "ip_address": "103.224.212.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.ahbdbd.com",
+        "count": "312",
+        "first_seen": "2021-02-04 15:12:17",
+        "last_seen": "2021-02-06 05:31:41",
+        "ip_address": "155.94.158.105",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.ahbdbd.com",
+        "count": "1",
+        "first_seen": "2022-05-25 20:31:23",
+        "last_seen": "2022-05-25 20:31:23",
+        "ip_address": "162.210.196.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.ahbdbd.com",
+        "count": "1",
+        "first_seen": "2022-02-17 06:26:27",
+        "last_seen": "2022-02-17 06:26:27",
+        "ip_address": "209.126.123.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "cr.mufg.ahbdbd.com",
+        "count": "1",
+        "first_seen": "2021-12-22 11:38:19",
+        "last_seen": "2021-12-22 11:38:19",
+        "ip_address": "209.126.123.12",
+        "type": "IPv4"
+    }
+]

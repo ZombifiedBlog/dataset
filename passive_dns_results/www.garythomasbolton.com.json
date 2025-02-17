@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www.garythomasbolton.com",
+        "count": "903",
+        "first_seen": "2020-04-09 05:24:11",
+        "last_seen": "2020-04-30 22:03:45",
+        "ip_address": "104.28.18.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.garythomasbolton.com",
+        "count": "903",
+        "first_seen": "2020-04-09 05:24:11",
+        "last_seen": "2020-04-30 22:03:45",
+        "ip_address": "104.28.19.205",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.garythomasbolton.com",
+        "count": "29",
+        "first_seen": "2020-03-12 14:44:14",
+        "last_seen": "2020-03-12 17:39:54",
+        "ip_address": "158.69.39.136",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.garythomasbolton.com",
+        "count": "384",
+        "first_seen": "2020-04-09 09:09:19",
+        "last_seen": "2020-04-30 22:03:45",
+        "ip_address": "2606:4700:3031::681c:13cd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.garythomasbolton.com",
+        "count": "384",
+        "first_seen": "2020-04-09 09:09:19",
+        "last_seen": "2020-04-30 22:03:45",
+        "ip_address": "2606:4700:3032::681c:12cd",
+        "type": "IPv6"
+    }
+]

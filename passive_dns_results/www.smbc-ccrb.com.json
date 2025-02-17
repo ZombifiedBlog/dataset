@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "www.smbc-ccrb.com",
+        "count": "9",
+        "first_seen": "2021-06-13 04:44:14",
+        "last_seen": "2021-12-24 10:21:02",
+        "ip_address": "156.239.99.108",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.smbc-ccrb.com",
+        "count": "371",
+        "first_seen": "2021-01-09 18:20:15",
+        "last_seen": "2021-02-01 08:51:39",
+        "ip_address": "192.3.47.245",
+        "type": "IPv4"
+    }
+]

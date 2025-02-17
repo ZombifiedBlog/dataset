@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "car-myjcb-mail.eaqrf5hn.com",
+        "count": "88",
+        "first_seen": "2019-11-23 16:09:14",
+        "last_seen": "2019-11-27 01:01:20",
+        "ip_address": "104.28.8.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "car-myjcb-mail.eaqrf5hn.com",
+        "count": "88",
+        "first_seen": "2019-11-23 16:09:14",
+        "last_seen": "2019-11-27 01:01:20",
+        "ip_address": "104.28.9.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "car-myjcb-mail.eaqrf5hn.com",
+        "count": "62",
+        "first_seen": "2019-11-23 16:09:14",
+        "last_seen": "2019-11-27 01:01:20",
+        "ip_address": "2606:4700:30::681c:87b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "car-myjcb-mail.eaqrf5hn.com",
+        "count": "62",
+        "first_seen": "2019-11-23 16:09:14",
+        "last_seen": "2019-11-27 01:01:20",
+        "ip_address": "2606:4700:30::681c:97b",
+        "type": "IPv6"
+    }
+]

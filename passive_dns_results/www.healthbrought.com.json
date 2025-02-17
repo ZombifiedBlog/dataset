@@ -1,0 +1,170 @@
+[
+    {
+        "domain": "www.healthbrought.com",
+        "count": "61",
+        "first_seen": "2021-11-01 10:46:38",
+        "last_seen": "2023-12-05 12:30:27",
+        "ip_address": "3.64.163.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.healthbrought.com",
+        "count": "1",
+        "first_seen": "2024-01-02 02:00:43",
+        "last_seen": "2024-01-02 02:00:43",
+        "ip_address": "13.248.169.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.healthbrought.com",
+        "count": "1",
+        "first_seen": "2024-01-02 02:00:43",
+        "last_seen": "2024-01-02 02:00:43",
+        "ip_address": "76.223.54.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.healthbrought.com",
+        "count": "5",
+        "first_seen": "2021-07-30 10:36:15",
+        "last_seen": "2022-03-24 15:13:26",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.healthbrought.com",
+        "count": "1678",
+        "first_seen": "2020-03-03 03:25:40",
+        "last_seen": "2020-05-27 03:21:32",
+        "ip_address": "104.27.150.143",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.healthbrought.com",
+        "count": "1678",
+        "first_seen": "2020-03-03 03:25:40",
+        "last_seen": "2020-05-27 03:21:32",
+        "ip_address": "104.27.151.143",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.healthbrought.com",
+        "count": "94",
+        "first_seen": "2020-06-01 08:37:15",
+        "last_seen": "2021-01-02 21:24:58",
+        "ip_address": "104.27.150.143",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.healthbrought.com",
+        "count": "94",
+        "first_seen": "2020-06-01 08:37:15",
+        "last_seen": "2021-01-02 21:24:58",
+        "ip_address": "104.27.151.143",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.healthbrought.com",
+        "count": "94",
+        "first_seen": "2020-06-01 08:37:15",
+        "last_seen": "2021-01-02 21:24:58",
+        "ip_address": "172.67.190.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.healthbrought.com",
+        "count": "4",
+        "first_seen": "2024-01-09 13:41:47",
+        "last_seen": "2024-01-10 11:04:17",
+        "ip_address": "172.234.25.151",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.healthbrought.com",
+        "count": "87",
+        "first_seen": "2021-11-01 10:46:38",
+        "last_seen": "2023-11-23 14:49:44",
+        "ip_address": "3.64.163.50",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.healthbrought.com",
+        "count": "2",
+        "first_seen": "2024-01-02 02:00:43",
+        "last_seen": "2024-01-02 02:00:46",
+        "ip_address": "13.248.169.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.healthbrought.com",
+        "count": "2",
+        "first_seen": "2024-01-02 02:00:43",
+        "last_seen": "2024-01-02 02:00:46",
+        "ip_address": "76.223.54.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.healthbrought.com",
+        "count": "814",
+        "first_seen": "2020-03-03 13:10:18",
+        "last_seen": "2020-05-26 16:04:10",
+        "ip_address": "2606:4700:3034::681b:978f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.healthbrought.com",
+        "count": "814",
+        "first_seen": "2020-03-03 13:10:18",
+        "last_seen": "2020-05-26 16:04:10",
+        "ip_address": "2606:4700:3035::681b:968f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.healthbrought.com",
+        "count": "35",
+        "first_seen": "2020-06-01 08:37:15",
+        "last_seen": "2020-11-29 00:13:27",
+        "ip_address": "2606:4700:3034::681b:978f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.healthbrought.com",
+        "count": "35",
+        "first_seen": "2020-06-01 08:37:15",
+        "last_seen": "2020-11-29 00:13:27",
+        "ip_address": "2606:4700:3035::681b:968f",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.healthbrought.com",
+        "count": "35",
+        "first_seen": "2020-06-01 08:37:15",
+        "last_seen": "2020-11-29 00:13:27",
+        "ip_address": "2606:4700:3035::ac43:bef0",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.healthbrought.com",
+        "count": "4",
+        "first_seen": "2021-07-30 10:36:15",
+        "last_seen": "2022-03-24 15:13:26",
+        "ip_address": "2607:fad0:3801:4::1",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.healthbrought.com",
+        "count": "2",
+        "first_seen": "2021-10-01 13:51:09",
+        "last_seen": "2021-11-12 13:52:06",
+        "ip_address": "2a05:d014:9da:8c10:306e:3e07:a16f:a552",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.healthbrought.com",
+        "count": "3",
+        "first_seen": "2021-11-01 18:40:04",
+        "last_seen": "2021-11-15 05:00:02",
+        "ip_address": "2a05:d014:9da:8c10:306e:3e07:a16f:a552",
+        "type": "IPv6"
+    }
+]

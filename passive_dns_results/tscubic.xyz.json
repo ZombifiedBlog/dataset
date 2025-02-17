@@ -1,0 +1,130 @@
+[
+    {
+        "domain": "tscubic.xyz",
+        "count": "320",
+        "first_seen": "2022-02-03 03:55:30",
+        "last_seen": "2022-02-08 00:44:16",
+        "ip_address": "104.21.86.202",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tscubic.xyz",
+        "count": "320",
+        "first_seen": "2022-02-03 03:55:30",
+        "last_seen": "2022-02-08 00:44:16",
+        "ip_address": "172.67.136.157",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tscubic.xyz",
+        "count": "8",
+        "first_seen": "2022-02-08 02:02:09",
+        "last_seen": "2022-02-08 05:27:37",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tscubic.xyz",
+        "count": "8",
+        "first_seen": "2022-02-08 02:02:09",
+        "last_seen": "2022-02-08 05:27:37",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tscubic.xyz",
+        "count": "13",
+        "first_seen": "2022-02-03 05:45:52",
+        "last_seen": "2022-02-06 18:21:22",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tscubic.xyz",
+        "count": "13",
+        "first_seen": "2022-02-03 05:45:52",
+        "last_seen": "2022-02-06 18:21:22",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tscubic.xyz",
+        "count": "1",
+        "first_seen": "2022-02-03 06:26:41",
+        "last_seen": "2022-02-03 06:26:41",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tscubic.xyz",
+        "count": "1",
+        "first_seen": "2022-02-03 06:26:41",
+        "last_seen": "2022-02-03 06:26:41",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tscubic.xyz",
+        "count": "1",
+        "first_seen": "2022-02-03 08:46:15",
+        "last_seen": "2022-02-03 08:46:15",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tscubic.xyz",
+        "count": "1",
+        "first_seen": "2022-02-03 08:46:15",
+        "last_seen": "2022-02-03 08:46:15",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tscubic.xyz",
+        "count": "52",
+        "first_seen": "2022-02-03 04:57:54",
+        "last_seen": "2022-02-03 11:55:30",
+        "ip_address": "188.114.96.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tscubic.xyz",
+        "count": "52",
+        "first_seen": "2022-02-03 04:57:54",
+        "last_seen": "2022-02-03 11:55:30",
+        "ip_address": "188.114.97.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "tscubic.xyz",
+        "count": "1",
+        "first_seen": "2022-02-03 03:57:45",
+        "last_seen": "2022-02-03 03:57:45",
+        "ip_address": "2606:4700:3032::ac43:889d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "tscubic.xyz",
+        "count": "1",
+        "first_seen": "2022-02-03 03:57:45",
+        "last_seen": "2022-02-03 03:57:45",
+        "ip_address": "2606:4700:3034::6815:56ca",
+        "type": "IPv6"
+    },
+    {
+        "domain": "tscubic.xyz",
+        "count": "1",
+        "first_seen": "2022-02-03 05:17:44",
+        "last_seen": "2022-02-03 05:17:44",
+        "ip_address": "2a06:98c1:3120::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "tscubic.xyz",
+        "count": "1",
+        "first_seen": "2022-02-03 05:17:44",
+        "last_seen": "2022-02-03 05:17:44",
+        "ip_address": "2a06:98c1:3121::16",
+        "type": "IPv6"
+    }
+]

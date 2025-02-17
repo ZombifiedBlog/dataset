@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.instahardmale.shop",
+        "count": "2369",
+        "first_seen": "2022-11-24 15:01:10",
+        "last_seen": "2023-02-02 08:00:45",
+        "ip_address": "104.21.52.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.instahardmale.shop",
+        "count": "2369",
+        "first_seen": "2022-11-24 15:01:10",
+        "last_seen": "2023-02-02 08:00:45",
+        "ip_address": "172.67.194.79",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.instahardmale.shop",
+        "count": "1",
+        "first_seen": "2022-11-25 04:18:27",
+        "last_seen": "2022-11-25 04:18:27",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.instahardmale.shop",
+        "count": "1",
+        "first_seen": "2022-11-25 04:18:27",
+        "last_seen": "2022-11-25 04:18:27",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.instahardmale.shop",
+        "count": "480",
+        "first_seen": "2022-11-24 15:06:03",
+        "last_seen": "2023-02-02 08:00:45",
+        "ip_address": "2606:4700:3031::6815:3418",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.instahardmale.shop",
+        "count": "480",
+        "first_seen": "2022-11-24 15:06:03",
+        "last_seen": "2023-02-02 08:00:45",
+        "ip_address": "2606:4700:3031::ac43:c24f",
+        "type": "IPv6"
+    }
+]

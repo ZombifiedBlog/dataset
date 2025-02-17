@@ -1,0 +1,130 @@
+[
+    {
+        "domain": "www-jaccs-co-jp.gyvtes.shop",
+        "count": "12",
+        "first_seen": "2021-09-12 15:00:12",
+        "last_seen": "2021-09-12 16:02:33",
+        "ip_address": "104.21.35.86",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gyvtes.shop",
+        "count": "12",
+        "first_seen": "2021-09-12 15:00:12",
+        "last_seen": "2021-09-12 16:02:33",
+        "ip_address": "172.67.216.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gyvtes.shop",
+        "count": "3",
+        "first_seen": "2021-09-12 16:19:15",
+        "last_seen": "2021-09-12 16:29:28",
+        "ip_address": "104.21.35.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gyvtes.shop",
+        "count": "3",
+        "first_seen": "2021-09-12 16:19:15",
+        "last_seen": "2021-09-12 16:29:28",
+        "ip_address": "172.67.175.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gyvtes.shop",
+        "count": "7",
+        "first_seen": "2021-09-13 01:26:41",
+        "last_seen": "2021-09-14 17:36:55",
+        "ip_address": "104.21.35.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gyvtes.shop",
+        "count": "7",
+        "first_seen": "2021-09-13 01:26:41",
+        "last_seen": "2021-09-14 17:36:55",
+        "ip_address": "172.67.176.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gyvtes.shop",
+        "count": "55",
+        "first_seen": "2021-09-12 16:39:16",
+        "last_seen": "2021-09-12 23:43:12",
+        "ip_address": "172.64.138.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gyvtes.shop",
+        "count": "55",
+        "first_seen": "2021-09-12 16:39:16",
+        "last_seen": "2021-09-12 23:43:12",
+        "ip_address": "172.64.139.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gyvtes.shop",
+        "count": "2",
+        "first_seen": "2021-09-13 00:33:55",
+        "last_seen": "2021-09-13 00:33:55",
+        "ip_address": "172.64.160.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gyvtes.shop",
+        "count": "2",
+        "first_seen": "2021-09-13 00:33:55",
+        "last_seen": "2021-09-13 00:33:55",
+        "ip_address": "172.64.161.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gyvtes.shop",
+        "count": "3",
+        "first_seen": "2021-09-12 16:11:27",
+        "last_seen": "2021-09-12 16:11:41",
+        "ip_address": "2606:4700:e0::ac40:6e14",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gyvtes.shop",
+        "count": "3",
+        "first_seen": "2021-09-12 16:11:27",
+        "last_seen": "2021-09-12 16:11:41",
+        "ip_address": "2606:4700:e0::ac40:6f14",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gyvtes.shop",
+        "count": "5",
+        "first_seen": "2021-09-12 17:35:25",
+        "last_seen": "2021-09-12 23:39:43",
+        "ip_address": "2606:4700:e2::ac40:8a17",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gyvtes.shop",
+        "count": "5",
+        "first_seen": "2021-09-12 17:35:25",
+        "last_seen": "2021-09-12 23:39:43",
+        "ip_address": "2606:4700:e2::ac40:8b17",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gyvtes.shop",
+        "count": "6",
+        "first_seen": "2021-09-13 03:11:15",
+        "last_seen": "2021-09-14 17:36:53",
+        "ip_address": "2606:4700:3035::6815:2393",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.gyvtes.shop",
+        "count": "6",
+        "first_seen": "2021-09-13 03:11:15",
+        "last_seen": "2021-09-14 17:36:53",
+        "ip_address": "2606:4700:3036::ac43:b0b7",
+        "type": "IPv6"
+    }
+]

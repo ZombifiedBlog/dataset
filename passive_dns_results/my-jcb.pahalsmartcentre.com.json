@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "my-jcb.pahalsmartcentre.com",
+        "count": "1",
+        "first_seen": "2022-06-30 11:25:28",
+        "last_seen": "2022-06-30 11:25:28",
+        "ip_address": "94.229.72.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.pahalsmartcentre.com",
+        "count": "2",
+        "first_seen": "2021-09-01 22:14:53",
+        "last_seen": "2021-09-01 22:14:53",
+        "ip_address": "103.224.212.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.pahalsmartcentre.com",
+        "count": "36",
+        "first_seen": "2021-03-03 06:04:58",
+        "last_seen": "2021-03-07 00:50:51",
+        "ip_address": "104.21.71.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.pahalsmartcentre.com",
+        "count": "36",
+        "first_seen": "2021-03-03 06:04:58",
+        "last_seen": "2021-03-07 00:50:51",
+        "ip_address": "172.67.144.202",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-jcb.pahalsmartcentre.com",
+        "count": "11",
+        "first_seen": "2021-03-03 06:04:58",
+        "last_seen": "2021-03-03 12:06:05",
+        "ip_address": "2606:4700:3033::6815:4774",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-jcb.pahalsmartcentre.com",
+        "count": "11",
+        "first_seen": "2021-03-03 06:04:58",
+        "last_seen": "2021-03-03 12:06:05",
+        "ip_address": "2606:4700:3033::ac43:90ca",
+        "type": "IPv6"
+    }
+]

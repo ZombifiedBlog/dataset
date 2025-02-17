@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "wesendit.info",
+        "count": "7911",
+        "first_seen": "2014-03-09 03:49:58",
+        "last_seen": "2020-06-05 15:30:42",
+        "ip_address": "78.46.98.73",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wesendit.info",
+        "count": "3",
+        "first_seen": "2014-02-12 03:16:10",
+        "last_seen": "2014-02-14 03:28:28",
+        "ip_address": "85.131.245.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wesendit.info",
+        "count": "1232",
+        "first_seen": "2020-04-29 06:41:52",
+        "last_seen": "2024-01-17 15:36:56",
+        "ip_address": "88.99.101.251",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wesendit.info",
+        "count": "2810",
+        "first_seen": "2020-06-05 20:40:33",
+        "last_seen": "2022-05-30 06:17:35",
+        "ip_address": "149.126.4.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wesendit.info",
+        "count": "313",
+        "first_seen": "2020-05-02 01:36:12",
+        "last_seen": "2023-12-26 23:03:42",
+        "ip_address": "2a01:4f8:221:11cd:9734:4c26:6044:5f33",
+        "type": "IPv6"
+    },
+    {
+        "domain": "wesendit.info",
+        "count": "1751",
+        "first_seen": "2020-06-06 06:03:39",
+        "last_seen": "2022-05-29 07:46:59",
+        "ip_address": "2a01:ab20:0:4::48",
+        "type": "IPv6"
+    }
+]

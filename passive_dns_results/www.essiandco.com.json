@@ -1,0 +1,98 @@
+[
+    {
+        "domain": "www.essiandco.com",
+        "count": "6",
+        "first_seen": "2022-09-07 00:27:52",
+        "last_seen": "2023-01-06 10:45:07",
+        "ip_address": "23.82.73.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.essiandco.com",
+        "count": "305",
+        "first_seen": "2023-06-27 18:29:44",
+        "last_seen": "2023-12-21 03:05:53",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.essiandco.com",
+        "count": "869",
+        "first_seen": "2023-10-05 02:36:30",
+        "last_seen": "2024-01-18 06:19:18",
+        "ip_address": "103.224.212.213",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.essiandco.com",
+        "count": "1193",
+        "first_seen": "2023-05-15 23:37:53",
+        "last_seen": "2023-10-02 15:15:26",
+        "ip_address": "103.224.212.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.essiandco.com",
+        "count": "6",
+        "first_seen": "2022-07-16 02:51:49",
+        "last_seen": "2022-08-25 15:29:17",
+        "ip_address": "142.234.114.177",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.essiandco.com",
+        "count": "1",
+        "first_seen": "2022-04-26 23:36:50",
+        "last_seen": "2022-04-26 23:36:50",
+        "ip_address": "154.92.75.98",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.essiandco.com",
+        "count": "2857",
+        "first_seen": "2023-02-28 23:45:18",
+        "last_seen": "2023-04-08 14:22:38",
+        "ip_address": "155.94.201.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.essiandco.com",
+        "count": "326",
+        "first_seen": "2023-06-27 19:16:15",
+        "last_seen": "2023-12-21 04:27:35",
+        "ip_address": "170.178.183.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.essiandco.com",
+        "count": "1",
+        "first_seen": "2023-06-14 07:54:57",
+        "last_seen": "2023-06-14 07:54:57",
+        "ip_address": "199.59.243.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.essiandco.com",
+        "count": "80",
+        "first_seen": "2023-06-27 21:28:33",
+        "last_seen": "2023-07-19 04:39:02",
+        "ip_address": "199.115.116.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.essiandco.com",
+        "count": "2",
+        "first_seen": "2021-03-05 08:48:32",
+        "last_seen": "2021-03-13 06:55:05",
+        "ip_address": "208.91.197.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.essiandco.com",
+        "count": "5",
+        "first_seen": "2023-07-24 15:14:33",
+        "last_seen": "2023-08-13 00:37:42",
+        "ip_address": "103.224.212.222",
+        "type": "IPv4"
+    }
+]

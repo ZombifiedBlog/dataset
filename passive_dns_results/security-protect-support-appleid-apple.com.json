@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "security-protect-support-appleid-apple.com",
+        "count": "456",
+        "first_seen": "2018-11-14 16:58:14",
+        "last_seen": "2019-11-11 22:54:25",
+        "ip_address": "91.215.169.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-protect-support-appleid-apple.com",
+        "count": "35",
+        "first_seen": "2019-11-15 04:08:33",
+        "last_seen": "2019-12-20 21:16:00",
+        "ip_address": "194.58.56.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-protect-support-appleid-apple.com",
+        "count": "13",
+        "first_seen": "2019-11-15 04:08:33",
+        "last_seen": "2019-12-20 21:16:00",
+        "ip_address": "2a00:f940:4::10",
+        "type": "IPv6"
+    }
+]

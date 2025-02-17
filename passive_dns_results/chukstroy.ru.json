@@ -1,0 +1,554 @@
+[
+    {
+        "domain": "chukstroy.ru",
+        "count": "58",
+        "first_seen": "2016-07-06 14:57:31",
+        "last_seen": "2016-10-04 08:02:07",
+        "ip_address": "62.109.26.228",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "16405",
+        "first_seen": "2016-10-05 12:09:06",
+        "last_seen": "2018-03-26 22:53:04",
+        "ip_address": "82.146.40.33",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "38308",
+        "first_seen": "2018-03-23 19:46:54",
+        "last_seen": "2024-01-18 06:44:29",
+        "ip_address": "88.99.251.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "12",
+        "first_seen": "2023-07-08 03:34:58",
+        "last_seen": "2023-07-08 03:39:38",
+        "ip_address": "194.67.71.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "22",
+        "first_seen": "2023-07-07 04:08:30",
+        "last_seen": "2023-07-07 04:11:59",
+        "ip_address": "194.67.71.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "4",
+        "first_seen": "2023-07-07 09:52:34",
+        "last_seen": "2023-07-07 09:52:34",
+        "ip_address": "194.67.71.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "18",
+        "first_seen": "2023-07-07 14:41:35",
+        "last_seen": "2023-07-07 14:46:32",
+        "ip_address": "194.67.71.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "12",
+        "first_seen": "2023-07-04 06:40:02",
+        "last_seen": "2023-07-04 06:43:46",
+        "ip_address": "194.67.71.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "26",
+        "first_seen": "2023-07-05 22:20:01",
+        "last_seen": "2023-07-05 22:25:31",
+        "ip_address": "194.67.71.15",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "4",
+        "first_seen": "2023-07-02 04:06:20",
+        "last_seen": "2023-07-02 04:06:20",
+        "ip_address": "194.67.71.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "6",
+        "first_seen": "2023-07-02 14:23:49",
+        "last_seen": "2023-07-02 14:25:21",
+        "ip_address": "194.67.71.18",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "4",
+        "first_seen": "2023-07-03 02:35:13",
+        "last_seen": "2023-07-03 02:35:13",
+        "ip_address": "194.67.71.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "18",
+        "first_seen": "2023-07-05 11:49:35",
+        "last_seen": "2023-07-05 11:56:48",
+        "ip_address": "194.67.71.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "20",
+        "first_seen": "2023-07-04 07:02:04",
+        "last_seen": "2023-07-04 07:07:25",
+        "ip_address": "194.67.71.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "34",
+        "first_seen": "2023-07-05 16:50:33",
+        "last_seen": "2023-07-08 01:03:44",
+        "ip_address": "194.67.71.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "8",
+        "first_seen": "2023-07-04 09:49:18",
+        "last_seen": "2023-07-07 21:57:50",
+        "ip_address": "194.67.71.26",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "16",
+        "first_seen": "2023-07-05 17:02:07",
+        "last_seen": "2023-07-06 23:15:33",
+        "ip_address": "194.67.71.31",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "4",
+        "first_seen": "2023-07-04 11:52:43",
+        "last_seen": "2023-07-04 11:52:43",
+        "ip_address": "194.67.71.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "26",
+        "first_seen": "2023-07-04 15:33:12",
+        "last_seen": "2023-07-06 19:58:56",
+        "ip_address": "194.67.71.44",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "20",
+        "first_seen": "2023-07-04 17:57:50",
+        "last_seen": "2023-07-08 09:47:13",
+        "ip_address": "194.67.71.46",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "4",
+        "first_seen": "2023-07-07 11:54:45",
+        "last_seen": "2023-07-07 11:54:45",
+        "ip_address": "194.67.71.47",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "12",
+        "first_seen": "2023-07-03 05:10:56",
+        "last_seen": "2023-07-03 05:11:11",
+        "ip_address": "194.67.71.54",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "4",
+        "first_seen": "2023-07-05 07:03:30",
+        "last_seen": "2023-07-05 07:03:30",
+        "ip_address": "194.67.71.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "2",
+        "first_seen": "2023-07-07 12:55:22",
+        "last_seen": "2023-07-07 12:55:22",
+        "ip_address": "194.67.71.68",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "4",
+        "first_seen": "2023-07-03 23:13:17",
+        "last_seen": "2023-07-03 23:13:17",
+        "ip_address": "194.67.71.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "64",
+        "first_seen": "2023-07-06 16:13:03",
+        "last_seen": "2023-07-07 19:15:50",
+        "ip_address": "194.67.71.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "16",
+        "first_seen": "2023-07-06 23:18:43",
+        "last_seen": "2023-07-06 23:19:09",
+        "ip_address": "194.67.71.72",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "6",
+        "first_seen": "2023-07-04 16:23:06",
+        "last_seen": "2023-07-04 16:26:15",
+        "ip_address": "194.67.71.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "8",
+        "first_seen": "2023-07-02 03:58:19",
+        "last_seen": "2023-07-02 03:58:19",
+        "ip_address": "194.67.71.79",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "10",
+        "first_seen": "2023-07-07 08:34:08",
+        "last_seen": "2023-07-07 08:37:19",
+        "ip_address": "194.67.71.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "8",
+        "first_seen": "2023-07-07 06:18:56",
+        "last_seen": "2023-07-07 06:21:52",
+        "ip_address": "194.67.71.85",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "14",
+        "first_seen": "2023-07-07 09:11:43",
+        "last_seen": "2023-07-07 09:12:06",
+        "ip_address": "194.67.71.88",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "8",
+        "first_seen": "2023-07-02 09:14:06",
+        "last_seen": "2023-07-08 09:51:18",
+        "ip_address": "194.67.71.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "12",
+        "first_seen": "2023-07-04 13:55:34",
+        "last_seen": "2023-07-05 00:29:55",
+        "ip_address": "194.67.71.94",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "8",
+        "first_seen": "2023-07-03 16:11:41",
+        "last_seen": "2023-07-03 16:11:41",
+        "ip_address": "194.67.71.96",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "10",
+        "first_seen": "2023-07-05 20:46:55",
+        "last_seen": "2023-07-05 20:47:27",
+        "ip_address": "194.67.71.98",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "24",
+        "first_seen": "2023-07-03 21:37:15",
+        "last_seen": "2023-07-06 08:56:49",
+        "ip_address": "194.67.71.101",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "10",
+        "first_seen": "2023-07-06 02:03:19",
+        "last_seen": "2023-07-06 02:07:20",
+        "ip_address": "194.67.71.104",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "2",
+        "first_seen": "2023-07-07 20:56:29",
+        "last_seen": "2023-07-07 20:56:29",
+        "ip_address": "194.67.71.106",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "2",
+        "first_seen": "2023-07-06 03:53:15",
+        "last_seen": "2023-07-06 03:53:15",
+        "ip_address": "194.67.71.107",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "10",
+        "first_seen": "2023-07-04 18:53:33",
+        "last_seen": "2023-07-07 19:53:40",
+        "ip_address": "194.67.71.109",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "6",
+        "first_seen": "2023-07-07 02:40:10",
+        "last_seen": "2023-07-07 02:40:26",
+        "ip_address": "194.67.71.114",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "10",
+        "first_seen": "2023-07-06 05:37:31",
+        "last_seen": "2023-07-06 05:37:36",
+        "ip_address": "194.67.71.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "4",
+        "first_seen": "2023-07-07 08:51:13",
+        "last_seen": "2023-07-07 08:51:13",
+        "ip_address": "194.67.71.123",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "12",
+        "first_seen": "2023-07-05 06:55:03",
+        "last_seen": "2023-07-05 06:58:18",
+        "ip_address": "194.67.71.127",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "6",
+        "first_seen": "2023-07-02 12:52:48",
+        "last_seen": "2023-07-04 23:11:16",
+        "ip_address": "194.67.71.134",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "18",
+        "first_seen": "2023-07-05 22:04:58",
+        "last_seen": "2023-07-05 22:09:13",
+        "ip_address": "194.67.71.137",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "1",
+        "first_seen": "2021-07-04 04:17:04",
+        "last_seen": "2021-07-04 04:17:04",
+        "ip_address": "194.67.71.139",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "22",
+        "first_seen": "2023-07-06 13:04:53",
+        "last_seen": "2023-07-08 00:19:36",
+        "ip_address": "194.67.71.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "12",
+        "first_seen": "2023-07-03 15:43:29",
+        "last_seen": "2023-07-07 02:11:54",
+        "ip_address": "194.67.71.142",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "1",
+        "first_seen": "2021-07-07 22:29:59",
+        "last_seen": "2021-07-07 22:29:59",
+        "ip_address": "194.67.71.146",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "1",
+        "first_seen": "2021-07-07 02:48:25",
+        "last_seen": "2021-07-07 02:48:25",
+        "ip_address": "194.67.71.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "6",
+        "first_seen": "2023-07-03 05:34:10",
+        "last_seen": "2023-07-03 05:41:29",
+        "ip_address": "194.67.71.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "551",
+        "first_seen": "2021-07-02 04:28:38",
+        "last_seen": "2023-07-08 00:13:41",
+        "ip_address": "194.67.71.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "4",
+        "first_seen": "2023-07-02 11:59:14",
+        "last_seen": "2023-07-02 11:59:14",
+        "ip_address": "194.67.71.158",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "4",
+        "first_seen": "2023-07-03 14:24:41",
+        "last_seen": "2023-07-03 14:24:41",
+        "ip_address": "194.67.71.159",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "14",
+        "first_seen": "2023-07-05 12:21:44",
+        "last_seen": "2023-07-05 12:25:27",
+        "ip_address": "194.67.71.165",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "14",
+        "first_seen": "2023-07-04 09:28:38",
+        "last_seen": "2023-07-04 09:28:38",
+        "ip_address": "194.67.71.168",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "4",
+        "first_seen": "2023-07-06 14:16:20",
+        "last_seen": "2023-07-06 14:16:20",
+        "ip_address": "194.67.71.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "27",
+        "first_seen": "2023-07-02 05:06:40",
+        "last_seen": "2023-07-02 05:10:12",
+        "ip_address": "194.67.71.179",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "22",
+        "first_seen": "2023-07-08 08:03:11",
+        "last_seen": "2023-07-08 08:06:12",
+        "ip_address": "194.67.71.181",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "2",
+        "first_seen": "2023-07-02 15:26:25",
+        "last_seen": "2023-07-02 15:26:25",
+        "ip_address": "194.67.71.182",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "2",
+        "first_seen": "2023-07-04 03:16:17",
+        "last_seen": "2023-07-04 03:16:17",
+        "ip_address": "194.67.71.183",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "22",
+        "first_seen": "2023-07-04 02:57:10",
+        "last_seen": "2023-07-06 22:08:28",
+        "ip_address": "194.67.71.187",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "8",
+        "first_seen": "2023-07-04 01:54:47",
+        "last_seen": "2023-07-04 01:58:26",
+        "ip_address": "194.67.71.188",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "8",
+        "first_seen": "2023-07-03 09:24:24",
+        "last_seen": "2023-07-03 09:24:45",
+        "ip_address": "194.67.71.197",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "4",
+        "first_seen": "2023-07-05 09:18:28",
+        "last_seen": "2023-07-05 09:18:28",
+        "ip_address": "194.67.71.199",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "16",
+        "first_seen": "2023-07-02 16:27:30",
+        "last_seen": "2023-07-02 16:31:42",
+        "ip_address": "194.67.71.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "chukstroy.ru",
+        "count": "1057",
+        "first_seen": "2021-07-08 05:51:46",
+        "last_seen": "2023-07-08 08:06:12",
+        "ip_address": "2a00:f940:4::10",
+        "type": "IPv6"
+    }
+]

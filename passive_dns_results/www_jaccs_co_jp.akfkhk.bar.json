@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "www_jaccs_co_jp.akfkhk.bar",
+        "count": "1",
+        "first_seen": "2021-06-08 17:39:25",
+        "last_seen": "2021-06-08 17:39:25",
+        "ip_address": "0.0.0.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www_jaccs_co_jp.akfkhk.bar",
+        "count": "117",
+        "first_seen": "2021-05-26 17:01:36",
+        "last_seen": "2021-06-05 17:37:08",
+        "ip_address": "104.21.53.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www_jaccs_co_jp.akfkhk.bar",
+        "count": "117",
+        "first_seen": "2021-05-26 17:01:36",
+        "last_seen": "2021-06-05 17:37:08",
+        "ip_address": "172.67.218.215",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www_jaccs_co_jp.akfkhk.bar",
+        "count": "29",
+        "first_seen": "2021-05-26 18:05:24",
+        "last_seen": "2021-06-01 13:57:21",
+        "ip_address": "2606:4700:3030::ac43:dad7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www_jaccs_co_jp.akfkhk.bar",
+        "count": "29",
+        "first_seen": "2021-05-26 18:05:24",
+        "last_seen": "2021-06-01 13:57:21",
+        "ip_address": "2606:4700:3033::6815:35d3",
+        "type": "IPv6"
+    }
+]

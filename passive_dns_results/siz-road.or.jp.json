@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "siz-road.or.jp",
+        "count": "24687",
+        "first_seen": "2020-02-25 08:01:50",
+        "last_seen": "2024-01-18 08:16:08",
+        "ip_address": "153.122.13.178",
+        "type": "IPv4"
+    },
+    {
+        "domain": "siz-road.or.jp",
+        "count": "8033",
+        "first_seen": "2013-12-24 00:28:59",
+        "last_seen": "2016-03-24 19:06:03",
+        "ip_address": "157.7.156.160",
+        "type": "IPv4"
+    },
+    {
+        "domain": "siz-road.or.jp",
+        "count": "5340",
+        "first_seen": "2017-05-31 21:47:59",
+        "last_seen": "2020-02-24 08:38:23",
+        "ip_address": "160.16.57.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "siz-road.or.jp",
+        "count": "16283",
+        "first_seen": "2016-03-25 04:54:29",
+        "last_seen": "2018-10-23 09:56:27",
+        "ip_address": "160.16.243.75",
+        "type": "IPv4"
+    },
+    {
+        "domain": "siz-road.or.jp",
+        "count": "40",
+        "first_seen": "2012-05-20 12:30:52",
+        "last_seen": "2013-12-20 06:02:11",
+        "ip_address": "218.223.74.57",
+        "type": "IPv4"
+    }
+]

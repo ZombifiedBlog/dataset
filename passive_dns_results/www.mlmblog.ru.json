@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.mlmblog.ru",
+        "count": "1399",
+        "first_seen": "2022-02-28 20:57:08",
+        "last_seen": "2024-01-17 20:49:19",
+        "ip_address": "62.113.86.42",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mlmblog.ru",
+        "count": "6",
+        "first_seen": "2013-03-29 14:43:21",
+        "last_seen": "2013-04-01 19:49:31",
+        "ip_address": "62.113.115.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mlmblog.ru",
+        "count": "480",
+        "first_seen": "2020-12-01 18:48:39",
+        "last_seen": "2022-02-27 19:08:53",
+        "ip_address": "213.189.196.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mlmblog.ru",
+        "count": "35",
+        "first_seen": "2010-08-16 01:31:56",
+        "last_seen": "2011-08-23 04:27:17",
+        "ip_address": "213.189.197.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mlmblog.ru",
+        "count": "52",
+        "first_seen": "2011-10-12 01:14:21",
+        "last_seen": "2013-03-26 04:21:56",
+        "ip_address": "213.189.197.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.mlmblog.ru",
+        "count": "7800",
+        "first_seen": "2013-04-16 23:27:47",
+        "last_seen": "2020-11-30 22:06:13",
+        "ip_address": "213.189.197.140",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "smbc-carb.cc",
+        "count": "6",
+        "first_seen": "2021-12-14 12:48:47",
+        "last_seen": "2022-01-07 16:43:31",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-carb.cc",
+        "count": "99",
+        "first_seen": "2020-12-08 21:56:41",
+        "last_seen": "2020-12-09 18:01:59",
+        "ip_address": "104.27.152.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-carb.cc",
+        "count": "99",
+        "first_seen": "2020-12-08 21:56:41",
+        "last_seen": "2020-12-09 18:01:59",
+        "ip_address": "104.27.153.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-carb.cc",
+        "count": "99",
+        "first_seen": "2020-12-08 21:56:41",
+        "last_seen": "2020-12-09 18:01:59",
+        "ip_address": "172.67.145.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-carb.cc",
+        "count": "89",
+        "first_seen": "2020-12-09 22:09:11",
+        "last_seen": "2020-12-28 14:34:46",
+        "ip_address": "104.168.13.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-carb.cc",
+        "count": "1",
+        "first_seen": "2021-01-26 12:46:56",
+        "last_seen": "2021-01-26 12:46:56",
+        "ip_address": "104.252.44.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-carb.cc",
+        "count": "4",
+        "first_seen": "2021-03-13 11:13:27",
+        "last_seen": "2021-06-14 14:23:35",
+        "ip_address": "156.235.247.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-carb.cc",
+        "count": "25",
+        "first_seen": "2020-12-09 00:08:08",
+        "last_seen": "2020-12-09 18:01:59",
+        "ip_address": "2606:4700:3030::681b:996e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "smbc-carb.cc",
+        "count": "25",
+        "first_seen": "2020-12-09 00:08:08",
+        "last_seen": "2020-12-09 18:01:59",
+        "ip_address": "2606:4700:3036::681b:986e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "smbc-carb.cc",
+        "count": "25",
+        "first_seen": "2020-12-09 00:08:08",
+        "last_seen": "2020-12-09 18:01:59",
+        "ip_address": "2606:4700:3037::ac43:91a3",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "amazonomea.buzz",
+        "count": "6",
+        "first_seen": "2020-08-17 21:58:10",
+        "last_seen": "2020-08-18 23:56:39",
+        "ip_address": "64.202.188.113",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonomea.buzz",
+        "count": "1",
+        "first_seen": "2020-08-17 21:58:10",
+        "last_seen": "2020-08-17 21:58:10",
+        "ip_address": "107.161.23.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonomea.buzz",
+        "count": "1",
+        "first_seen": "2020-08-17 21:58:10",
+        "last_seen": "2020-08-17 21:58:10",
+        "ip_address": "192.161.187.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazonomea.buzz",
+        "count": "1",
+        "first_seen": "2020-08-17 21:58:10",
+        "last_seen": "2020-08-17 21:58:10",
+        "ip_address": "209.141.38.71",
+        "type": "IPv4"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.yangzhenh.top",
+        "count": "1",
+        "first_seen": "2023-06-21 02:57:08",
+        "last_seen": "2023-06-21 02:57:08",
+        "ip_address": "49.51.77.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yangzhenh.top",
+        "count": "328",
+        "first_seen": "2023-03-05 07:56:07",
+        "last_seen": "2023-04-09 17:12:46",
+        "ip_address": "103.12.48.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yangzhenh.top",
+        "count": "2589",
+        "first_seen": "2023-02-02 18:15:47",
+        "last_seen": "2023-03-05 09:55:38",
+        "ip_address": "104.21.25.106",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yangzhenh.top",
+        "count": "2589",
+        "first_seen": "2023-02-02 18:15:47",
+        "last_seen": "2023-03-05 09:55:38",
+        "ip_address": "172.67.134.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yangzhenh.top",
+        "count": "101",
+        "first_seen": "2023-02-02 21:26:13",
+        "last_seen": "2023-03-04 19:24:55",
+        "ip_address": "2606:4700:3036::6815:196a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.yangzhenh.top",
+        "count": "101",
+        "first_seen": "2023-02-02 21:26:13",
+        "last_seen": "2023-03-04 19:24:55",
+        "ip_address": "2606:4700:3036::ac43:8605",
+        "type": "IPv6"
+    }
+]

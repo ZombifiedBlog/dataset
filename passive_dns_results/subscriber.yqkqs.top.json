@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.yqkqs.top",
+        "count": "1",
+        "first_seen": "2023-06-09 07:54:52",
+        "last_seen": "2023-06-09 07:54:52",
+        "ip_address": "49.51.77.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yqkqs.top",
+        "count": "326",
+        "first_seen": "2023-03-05 08:05:21",
+        "last_seen": "2023-06-04 01:19:09",
+        "ip_address": "103.24.154.243",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yqkqs.top",
+        "count": "2653",
+        "first_seen": "2023-02-02 18:18:05",
+        "last_seen": "2023-03-05 12:30:01",
+        "ip_address": "104.21.37.74",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yqkqs.top",
+        "count": "2653",
+        "first_seen": "2023-02-02 18:18:05",
+        "last_seen": "2023-03-05 12:30:01",
+        "ip_address": "172.67.205.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.yqkqs.top",
+        "count": "104",
+        "first_seen": "2023-02-02 19:27:44",
+        "last_seen": "2023-03-05 01:57:19",
+        "ip_address": "2606:4700:3034::6815:254a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.yqkqs.top",
+        "count": "104",
+        "first_seen": "2023-02-02 19:27:44",
+        "last_seen": "2023-03-05 01:57:19",
+        "ip_address": "2606:4700:3037::ac43:cd4d",
+        "type": "IPv6"
+    }
+]

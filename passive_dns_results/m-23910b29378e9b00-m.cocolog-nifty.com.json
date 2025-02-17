@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "m-23910b29378e9b00-m.cocolog-nifty.com",
+        "count": "1126",
+        "first_seen": "2019-03-30 13:41:33",
+        "last_seen": "2022-12-18 12:30:10",
+        "ip_address": "59.106.98.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "m-23910b29378e9b00-m.cocolog-nifty.com",
+        "count": "2770",
+        "first_seen": "2015-03-11 04:03:23",
+        "last_seen": "2019-03-18 10:34:47",
+        "ip_address": "121.94.171.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "m-23910b29378e9b00-m.cocolog-nifty.com",
+        "count": "4122",
+        "first_seen": "2011-10-15 02:23:41",
+        "last_seen": "2015-03-10 00:43:06",
+        "ip_address": "202.248.45.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "m-23910b29378e9b00-m.cocolog-nifty.com",
+        "count": "1",
+        "first_seen": "2011-10-13 23:59:13",
+        "last_seen": "2011-10-13 23:59:13",
+        "ip_address": "202.248.45.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "m-23910b29378e9b00-m.cocolog-nifty.com",
+        "count": "1",
+        "first_seen": "2011-10-13 23:59:13",
+        "last_seen": "2011-10-13 23:59:13",
+        "ip_address": "202.248.237.47",
+        "type": "IPv4"
+    },
+    {
+        "domain": "m-23910b29378e9b00-m.cocolog-nifty.com",
+        "count": "790",
+        "first_seen": "2010-07-25 04:07:04",
+        "last_seen": "2011-03-07 23:16:41",
+        "ip_address": "202.248.89.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "m-23910b29378e9b00-m.cocolog-nifty.com",
+        "count": "729",
+        "first_seen": "2011-03-08 10:55:47",
+        "last_seen": "2011-10-13 03:03:12",
+        "ip_address": "202.248.237.47",
+        "type": "IPv4"
+    },
+    {
+        "domain": "m-23910b29378e9b00-m.cocolog-nifty.com",
+        "count": "41",
+        "first_seen": "2011-07-07 06:54:24",
+        "last_seen": "2012-05-28 00:50:27",
+        "ip_address": "2001:258:8602:351:202:248:175:146",
+        "type": "IPv6"
+    },
+    {
+        "domain": "m-23910b29378e9b00-m.cocolog-nifty.com",
+        "count": "91",
+        "first_seen": "2012-05-30 16:44:57",
+        "last_seen": "2015-01-19 14:28:01",
+        "ip_address": "2001:258:8602:432:202:248:45:17",
+        "type": "IPv6"
+    }
+]

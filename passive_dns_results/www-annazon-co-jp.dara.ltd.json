@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www-annazon-co-jp.dara.ltd",
+        "count": "3",
+        "first_seen": "2022-06-25 14:01:25",
+        "last_seen": "2022-07-22 21:16:13",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-annazon-co-jp.dara.ltd",
+        "count": "5",
+        "first_seen": "2022-05-29 12:54:29",
+        "last_seen": "2022-05-29 12:55:57",
+        "ip_address": "155.94.128.204",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-annazon-co-jp.dara.ltd",
+        "count": "675",
+        "first_seen": "2022-05-20 03:28:32",
+        "last_seen": "2022-05-21 07:47:53",
+        "ip_address": "192.161.56.75",
+        "type": "IPv4"
+    }
+]

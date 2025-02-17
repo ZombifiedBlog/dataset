@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "www.matipledray.com",
+        "count": "14",
+        "first_seen": "2018-09-25 09:42:32",
+        "last_seen": "2018-09-25 09:47:13",
+        "ip_address": "104.24.112.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.matipledray.com",
+        "count": "14",
+        "first_seen": "2018-09-25 09:42:32",
+        "last_seen": "2018-09-25 09:47:13",
+        "ip_address": "104.24.113.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.matipledray.com",
+        "count": "446",
+        "first_seen": "2018-10-03 00:17:43",
+        "last_seen": "2019-09-20 11:44:24",
+        "ip_address": "104.31.72.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.matipledray.com",
+        "count": "446",
+        "first_seen": "2018-10-03 00:17:43",
+        "last_seen": "2019-09-20 11:44:24",
+        "ip_address": "104.31.73.217",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.matipledray.com",
+        "count": "5",
+        "first_seen": "2019-11-04 07:23:13",
+        "last_seen": "2019-11-05 01:11:52",
+        "ip_address": "209.99.40.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.matipledray.com",
+        "count": "2",
+        "first_seen": "2019-10-19 07:04:47",
+        "last_seen": "2019-10-19 07:04:47",
+        "ip_address": "209.99.40.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.matipledray.com",
+        "count": "3",
+        "first_seen": "2018-09-25 09:42:32",
+        "last_seen": "2018-09-25 09:47:13",
+        "ip_address": "2400:cb00:2048:1::6818:704c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.matipledray.com",
+        "count": "3",
+        "first_seen": "2018-09-25 09:42:32",
+        "last_seen": "2018-09-25 09:47:13",
+        "ip_address": "2400:cb00:2048:1::6818:714c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.matipledray.com",
+        "count": "186",
+        "first_seen": "2018-10-03 00:17:44",
+        "last_seen": "2019-09-20 11:44:24",
+        "ip_address": "2606:4700:30::681f:48d9",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.matipledray.com",
+        "count": "186",
+        "first_seen": "2018-10-03 00:17:44",
+        "last_seen": "2019-09-20 11:44:24",
+        "ip_address": "2606:4700:30::681f:49d9",
+        "type": "IPv6"
+    }
+]

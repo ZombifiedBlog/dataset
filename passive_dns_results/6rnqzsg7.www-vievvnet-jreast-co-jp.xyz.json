@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "6rnqzsg7.www-vievvnet-jreast-co-jp.xyz",
+        "count": "212",
+        "first_seen": "2022-02-24 16:05:01",
+        "last_seen": "2022-05-17 00:53:23",
+        "ip_address": "104.21.51.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "6rnqzsg7.www-vievvnet-jreast-co-jp.xyz",
+        "count": "212",
+        "first_seen": "2022-02-24 16:05:01",
+        "last_seen": "2022-05-17 00:53:23",
+        "ip_address": "172.67.216.37",
+        "type": "IPv4"
+    },
+    {
+        "domain": "6rnqzsg7.www-vievvnet-jreast-co-jp.xyz",
+        "count": "6",
+        "first_seen": "2022-03-12 13:50:23",
+        "last_seen": "2022-03-13 06:16:15",
+        "ip_address": "188.114.98.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "6rnqzsg7.www-vievvnet-jreast-co-jp.xyz",
+        "count": "16",
+        "first_seen": "2022-02-24 16:05:02",
+        "last_seen": "2022-04-12 05:21:59",
+        "ip_address": "2606:4700:3030::6815:3305",
+        "type": "IPv6"
+    },
+    {
+        "domain": "6rnqzsg7.www-vievvnet-jreast-co-jp.xyz",
+        "count": "16",
+        "first_seen": "2022-02-24 16:05:02",
+        "last_seen": "2022-04-12 05:21:59",
+        "ip_address": "2606:4700:3030::ac43:d825",
+        "type": "IPv6"
+    },
+    {
+        "domain": "6rnqzsg7.www-vievvnet-jreast-co-jp.xyz",
+        "count": "3",
+        "first_seen": "2022-03-12 13:50:23",
+        "last_seen": "2022-03-13 06:16:15",
+        "ip_address": "2a06:98c1:3121:8000::",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "wwwamazom.klyuesao.com",
+        "count": "1494",
+        "first_seen": "2020-03-09 13:00:19",
+        "last_seen": "2020-04-10 14:32:21",
+        "ip_address": "104.18.62.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wwwamazom.klyuesao.com",
+        "count": "1494",
+        "first_seen": "2020-03-09 13:00:19",
+        "last_seen": "2020-04-10 14:32:21",
+        "ip_address": "104.18.63.172",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wwwamazom.klyuesao.com",
+        "count": "3",
+        "first_seen": "2022-12-02 07:41:51",
+        "last_seen": "2022-12-03 15:52:21",
+        "ip_address": "170.106.49.122",
+        "type": "IPv4"
+    },
+    {
+        "domain": "wwwamazom.klyuesao.com",
+        "count": "943",
+        "first_seen": "2020-03-09 13:00:19",
+        "last_seen": "2020-04-10 14:32:21",
+        "ip_address": "2606:4700:3033::6812:3eac",
+        "type": "IPv6"
+    },
+    {
+        "domain": "wwwamazom.klyuesao.com",
+        "count": "943",
+        "first_seen": "2020-03-09 13:00:19",
+        "last_seen": "2020-04-10 14:32:21",
+        "ip_address": "2606:4700:3033::6812:3fac",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "domain": "www.brannockstown.com",
+        "count": "2",
+        "first_seen": "2023-05-01 04:02:51",
+        "last_seen": "2023-05-01 04:02:51",
+        "ip_address": "5.79.79.211",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brannockstown.com",
+        "count": "3",
+        "first_seen": "2023-08-13 05:56:07",
+        "last_seen": "2023-11-22 00:39:04",
+        "ip_address": "70.32.1.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brannockstown.com",
+        "count": "3",
+        "first_seen": "2022-08-27 13:58:10",
+        "last_seen": "2022-09-17 13:38:40",
+        "ip_address": "72.52.178.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brannockstown.com",
+        "count": "2",
+        "first_seen": "2023-03-10 10:09:18",
+        "last_seen": "2023-05-01 04:02:51",
+        "ip_address": "81.171.22.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brannockstown.com",
+        "count": "2",
+        "first_seen": "2023-04-05 12:05:49",
+        "last_seen": "2023-04-20 09:08:21",
+        "ip_address": "81.171.22.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brannockstown.com",
+        "count": "6",
+        "first_seen": "2021-12-10 13:43:55",
+        "last_seen": "2021-12-10 14:15:49",
+        "ip_address": "85.208.118.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brannockstown.com",
+        "count": "2",
+        "first_seen": "2018-03-20 04:38:37",
+        "last_seen": "2018-03-20 04:38:37",
+        "ip_address": "91.195.240.95",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brannockstown.com",
+        "count": "2",
+        "first_seen": "2018-04-10 14:08:14",
+        "last_seen": "2018-04-10 14:08:14",
+        "ip_address": "91.195.240.115",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brannockstown.com",
+        "count": "34",
+        "first_seen": "2023-10-13 19:04:57",
+        "last_seen": "2023-12-09 16:45:13",
+        "ip_address": "103.224.212.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brannockstown.com",
+        "count": "59",
+        "first_seen": "2022-11-06 22:53:53",
+        "last_seen": "2023-09-28 21:05:58",
+        "ip_address": "103.224.212.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brannockstown.com",
+        "count": "927",
+        "first_seen": "2022-07-28 08:57:13",
+        "last_seen": "2022-08-10 00:37:27",
+        "ip_address": "104.129.12.110",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brannockstown.com",
+        "count": "52",
+        "first_seen": "2018-06-29 02:34:47",
+        "last_seen": "2018-12-03 13:54:45",
+        "ip_address": "142.111.169.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brannockstown.com",
+        "count": "25",
+        "first_seen": "2019-01-05 01:15:34",
+        "last_seen": "2019-05-21 10:23:33",
+        "ip_address": "172.241.252.232",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brannockstown.com",
+        "count": "3",
+        "first_seen": "2023-03-21 05:32:28",
+        "last_seen": "2023-04-20 09:08:21",
+        "ip_address": "199.115.115.102",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brannockstown.com",
+        "count": "1",
+        "first_seen": "2023-05-01 04:02:51",
+        "last_seen": "2023-05-01 04:02:51",
+        "ip_address": "199.115.115.116",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brannockstown.com",
+        "count": "3",
+        "first_seen": "2022-11-16 15:18:57",
+        "last_seen": "2023-06-17 04:12:33",
+        "ip_address": "199.115.116.43",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brannockstown.com",
+        "count": "7",
+        "first_seen": "2018-03-21 20:55:16",
+        "last_seen": "2018-04-21 03:36:56",
+        "ip_address": "209.200.154.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.brannockstown.com",
+        "count": "3",
+        "first_seen": "2022-11-26 10:58:51",
+        "last_seen": "2023-08-06 01:23:44",
+        "ip_address": "103.224.212.221",
+        "type": "IPv4"
+    }
+]

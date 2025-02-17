@@ -1,0 +1,154 @@
+[
+    {
+        "domain": "beautemori.com",
+        "count": "2005",
+        "first_seen": "2015-07-03 07:22:10",
+        "last_seen": "2019-06-27 07:29:06",
+        "ip_address": "14.102.145.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "beautemori.com",
+        "count": "8",
+        "first_seen": "2015-04-01 10:32:26",
+        "last_seen": "2015-05-29 10:34:31",
+        "ip_address": "14.102.145.209",
+        "type": "IPv4"
+    },
+    {
+        "domain": "beautemori.com",
+        "count": "8",
+        "first_seen": "2015-04-01 10:32:26",
+        "last_seen": "2015-05-29 10:34:31",
+        "ip_address": "106.186.114.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "beautemori.com",
+        "count": "5499",
+        "first_seen": "2020-01-15 01:32:40",
+        "last_seen": "2021-10-29 05:19:37",
+        "ip_address": "103.133.133.76",
+        "type": "IPv4"
+    },
+    {
+        "domain": "beautemori.com",
+        "count": "21606",
+        "first_seen": "2021-10-29 11:43:01",
+        "last_seen": "2024-01-18 07:48:59",
+        "ip_address": "104.21.65.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "beautemori.com",
+        "count": "21606",
+        "first_seen": "2021-10-29 11:43:01",
+        "last_seen": "2024-01-18 07:48:59",
+        "ip_address": "172.67.139.95",
+        "type": "IPv4"
+    },
+    {
+        "domain": "beautemori.com",
+        "count": "22",
+        "first_seen": "2019-06-30 12:36:11",
+        "last_seen": "2019-07-08 08:05:13",
+        "ip_address": "104.24.124.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "beautemori.com",
+        "count": "22",
+        "first_seen": "2019-06-30 12:36:11",
+        "last_seen": "2019-07-08 08:05:13",
+        "ip_address": "104.24.125.40",
+        "type": "IPv4"
+    },
+    {
+        "domain": "beautemori.com",
+        "count": "13",
+        "first_seen": "2015-02-09 00:49:30",
+        "last_seen": "2015-03-23 14:25:33",
+        "ip_address": "106.186.114.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "beautemori.com",
+        "count": "267",
+        "first_seen": "2019-07-14 03:39:17",
+        "last_seen": "2020-01-10 15:11:15",
+        "ip_address": "110.74.163.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "beautemori.com",
+        "count": "1",
+        "first_seen": "2021-12-26 18:32:43",
+        "last_seen": "2021-12-26 18:32:43",
+        "ip_address": "172.64.80.1",
+        "type": "IPv4"
+    },
+    {
+        "domain": "beautemori.com",
+        "count": "2",
+        "first_seen": "2023-09-15 10:07:51",
+        "last_seen": "2023-09-15 10:07:51",
+        "ip_address": "178.128.105.219",
+        "type": "IPv4"
+    },
+    {
+        "domain": "beautemori.com",
+        "count": "10",
+        "first_seen": "2022-03-11 01:29:21",
+        "last_seen": "2022-03-14 10:25:16",
+        "ip_address": "188.114.99.128",
+        "type": "IPv4"
+    },
+    {
+        "domain": "beautemori.com",
+        "count": "2",
+        "first_seen": "2018-09-12 17:09:51",
+        "last_seen": "2018-09-12 17:09:51",
+        "ip_address": "199.59.242.150",
+        "type": "IPv4"
+    },
+    {
+        "domain": "beautemori.com",
+        "count": "19",
+        "first_seen": "2019-06-28 18:34:22",
+        "last_seen": "2019-07-05 20:38:19",
+        "ip_address": "2606:4700:30::6818:7c28",
+        "type": "IPv6"
+    },
+    {
+        "domain": "beautemori.com",
+        "count": "19",
+        "first_seen": "2019-06-28 18:34:22",
+        "last_seen": "2019-07-05 20:38:19",
+        "ip_address": "2606:4700:30::6818:7d28",
+        "type": "IPv6"
+    },
+    {
+        "domain": "beautemori.com",
+        "count": "1",
+        "first_seen": "2021-12-26 18:32:43",
+        "last_seen": "2021-12-26 18:32:43",
+        "ip_address": "2606:4700:130:436c:6f75:6466:6c61:7265",
+        "type": "IPv6"
+    },
+    {
+        "domain": "beautemori.com",
+        "count": "17045",
+        "first_seen": "2021-10-29 11:43:01",
+        "last_seen": "2024-01-17 23:48:50",
+        "ip_address": "2606:4700:3033::6815:4113",
+        "type": "IPv6"
+    },
+    {
+        "domain": "beautemori.com",
+        "count": "17045",
+        "first_seen": "2021-10-29 11:43:01",
+        "last_seen": "2024-01-17 23:48:50",
+        "ip_address": "2606:4700:3034::ac43:8b5f",
+        "type": "IPv6"
+    }
+]

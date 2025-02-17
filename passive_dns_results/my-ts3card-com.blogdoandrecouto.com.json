@@ -1,0 +1,162 @@
+[
+    {
+        "domain": "my-ts3card-com.blogdoandrecouto.com",
+        "count": "43",
+        "first_seen": "2023-05-04 11:31:07",
+        "last_seen": "2023-12-25 11:52:35",
+        "ip_address": "64.190.63.111",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.blogdoandrecouto.com",
+        "count": "23",
+        "first_seen": "2022-11-08 10:16:46",
+        "last_seen": "2023-04-15 20:39:08",
+        "ip_address": "103.224.182.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.blogdoandrecouto.com",
+        "count": "275",
+        "first_seen": "2022-02-01 14:03:25",
+        "last_seen": "2022-02-16 13:28:55",
+        "ip_address": "104.21.30.51",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.blogdoandrecouto.com",
+        "count": "275",
+        "first_seen": "2022-02-01 14:03:25",
+        "last_seen": "2022-02-16 13:28:55",
+        "ip_address": "172.67.150.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.blogdoandrecouto.com",
+        "count": "1",
+        "first_seen": "2022-02-03 01:09:56",
+        "last_seen": "2022-02-03 01:09:56",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.blogdoandrecouto.com",
+        "count": "1",
+        "first_seen": "2022-02-03 01:09:56",
+        "last_seen": "2022-02-03 01:09:56",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.blogdoandrecouto.com",
+        "count": "4",
+        "first_seen": "2022-02-01 15:04:01",
+        "last_seen": "2022-02-01 18:25:51",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.blogdoandrecouto.com",
+        "count": "4",
+        "first_seen": "2022-02-01 15:04:01",
+        "last_seen": "2022-02-01 18:25:51",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.blogdoandrecouto.com",
+        "count": "1",
+        "first_seen": "2022-02-01 14:25:17",
+        "last_seen": "2022-02-01 14:25:17",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.blogdoandrecouto.com",
+        "count": "1",
+        "first_seen": "2022-02-01 14:25:17",
+        "last_seen": "2022-02-01 14:25:17",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.blogdoandrecouto.com",
+        "count": "1",
+        "first_seen": "2022-02-01 15:24:38",
+        "last_seen": "2022-02-01 15:24:38",
+        "ip_address": "188.114.96.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.blogdoandrecouto.com",
+        "count": "1",
+        "first_seen": "2022-02-01 15:24:38",
+        "last_seen": "2022-02-01 15:24:38",
+        "ip_address": "188.114.97.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.blogdoandrecouto.com",
+        "count": "91",
+        "first_seen": "2022-02-01 14:11:14",
+        "last_seen": "2022-02-01 21:59:59",
+        "ip_address": "188.114.96.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.blogdoandrecouto.com",
+        "count": "91",
+        "first_seen": "2022-02-01 14:11:14",
+        "last_seen": "2022-02-01 21:59:59",
+        "ip_address": "188.114.97.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.blogdoandrecouto.com",
+        "count": "56",
+        "first_seen": "2022-05-09 16:07:08",
+        "last_seen": "2022-10-12 11:12:06",
+        "ip_address": "199.191.50.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.blogdoandrecouto.com",
+        "count": "1",
+        "first_seen": "2022-12-30 15:18:26",
+        "last_seen": "2022-12-30 15:18:26",
+        "ip_address": "103.224.182.246",
+        "type": "IPv4"
+    },
+    {
+        "domain": "my-ts3card-com.blogdoandrecouto.com",
+        "count": "2",
+        "first_seen": "2022-02-04 07:33:52",
+        "last_seen": "2022-02-10 15:01:05",
+        "ip_address": "2606:4700:3032::ac43:9698",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-ts3card-com.blogdoandrecouto.com",
+        "count": "2",
+        "first_seen": "2022-02-04 07:33:52",
+        "last_seen": "2022-02-10 15:01:05",
+        "ip_address": "2606:4700:3033::6815:1e33",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-ts3card-com.blogdoandrecouto.com",
+        "count": "35",
+        "first_seen": "2022-02-01 14:13:39",
+        "last_seen": "2022-02-01 21:52:06",
+        "ip_address": "2a06:98c1:3120::1d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "my-ts3card-com.blogdoandrecouto.com",
+        "count": "35",
+        "first_seen": "2022-02-01 14:13:39",
+        "last_seen": "2022-02-01 21:52:06",
+        "ip_address": "2a06:98c1:3121::1d",
+        "type": "IPv6"
+    }
+]

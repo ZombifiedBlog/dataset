@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "subscriber.sea-e-o.com",
+        "count": "4",
+        "first_seen": "2023-11-21 20:05:09",
+        "last_seen": "2023-11-21 20:05:09",
+        "ip_address": "64.98.135.56",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sea-e-o.com",
+        "count": "12",
+        "first_seen": "2023-11-29 19:59:59",
+        "last_seen": "2024-01-11 11:40:32",
+        "ip_address": "98.124.224.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sea-e-o.com",
+        "count": "110",
+        "first_seen": "2020-03-05 08:48:31",
+        "last_seen": "2020-03-25 02:52:26",
+        "ip_address": "104.24.114.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sea-e-o.com",
+        "count": "110",
+        "first_seen": "2020-03-05 08:48:31",
+        "last_seen": "2020-03-25 02:52:26",
+        "ip_address": "104.24.115.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sea-e-o.com",
+        "count": "24",
+        "first_seen": "2022-08-12 23:36:40",
+        "last_seen": "2023-07-05 10:41:23",
+        "ip_address": "162.214.129.144",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sea-e-o.com",
+        "count": "12",
+        "first_seen": "2022-10-08 11:50:08",
+        "last_seen": "2023-01-04 07:37:34",
+        "ip_address": "162.214.129.149",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sea-e-o.com",
+        "count": "18",
+        "first_seen": "2020-12-21 01:41:31",
+        "last_seen": "2022-08-08 17:50:10",
+        "ip_address": "192.185.0.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sea-e-o.com",
+        "count": "3",
+        "first_seen": "2023-07-18 00:35:04",
+        "last_seen": "2023-07-18 00:35:04",
+        "ip_address": "208.91.197.13",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.sea-e-o.com",
+        "count": "64",
+        "first_seen": "2020-03-05 22:10:36",
+        "last_seen": "2020-03-25 02:52:26",
+        "ip_address": "2606:4700:3030::6818:7398",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.sea-e-o.com",
+        "count": "64",
+        "first_seen": "2020-03-05 22:10:36",
+        "last_seen": "2020-03-25 02:52:26",
+        "ip_address": "2606:4700:3032::6818:7298",
+        "type": "IPv6"
+    }
+]

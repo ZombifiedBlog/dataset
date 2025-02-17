@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "www.lsbrb.com",
+        "count": "11",
+        "first_seen": "2021-01-15 18:25:19",
+        "last_seen": "2021-06-17 15:56:27",
+        "ip_address": "104.21.79.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lsbrb.com",
+        "count": "11",
+        "first_seen": "2021-01-15 18:25:19",
+        "last_seen": "2021-06-17 15:56:27",
+        "ip_address": "172.67.149.73",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lsbrb.com",
+        "count": "1168",
+        "first_seen": "2020-08-04 05:19:22",
+        "last_seen": "2020-12-29 10:26:48",
+        "ip_address": "104.27.156.156",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lsbrb.com",
+        "count": "1168",
+        "first_seen": "2020-08-04 05:19:22",
+        "last_seen": "2020-12-29 10:26:48",
+        "ip_address": "104.27.157.156",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lsbrb.com",
+        "count": "1168",
+        "first_seen": "2020-08-04 05:19:22",
+        "last_seen": "2020-12-29 10:26:48",
+        "ip_address": "172.67.149.73",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lsbrb.com",
+        "count": "2",
+        "first_seen": "2020-08-04 01:32:10",
+        "last_seen": "2020-08-04 01:32:10",
+        "ip_address": "198.144.149.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.lsbrb.com",
+        "count": "7",
+        "first_seen": "2021-01-15 18:25:19",
+        "last_seen": "2021-04-21 12:42:25",
+        "ip_address": "2606:4700:3030::6815:4fe2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lsbrb.com",
+        "count": "7",
+        "first_seen": "2021-01-15 18:25:19",
+        "last_seen": "2021-04-21 12:42:25",
+        "ip_address": "2606:4700:3033::ac43:9549",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lsbrb.com",
+        "count": "46",
+        "first_seen": "2020-08-04 09:59:24",
+        "last_seen": "2020-12-29 10:26:48",
+        "ip_address": "2606:4700:3030::681b:9d9c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lsbrb.com",
+        "count": "46",
+        "first_seen": "2020-08-04 09:59:24",
+        "last_seen": "2020-12-29 10:26:48",
+        "ip_address": "2606:4700:3033::ac43:9549",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.lsbrb.com",
+        "count": "46",
+        "first_seen": "2020-08-04 09:59:24",
+        "last_seen": "2020-12-29 10:26:48",
+        "ip_address": "2606:4700:3035::681b:9c9c",
+        "type": "IPv6"
+    }
+]

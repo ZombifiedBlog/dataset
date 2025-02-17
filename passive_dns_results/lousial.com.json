@@ -1,0 +1,138 @@
+[
+    {
+        "domain": "lousial.com",
+        "count": "179",
+        "first_seen": "2023-05-17 20:49:08",
+        "last_seen": "2023-07-22 21:03:31",
+        "ip_address": "43.135.182.249",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lousial.com",
+        "count": "4",
+        "first_seen": "2023-05-17 12:04:10",
+        "last_seen": "2023-05-17 12:06:02",
+        "ip_address": "43.153.45.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lousial.com",
+        "count": "17",
+        "first_seen": "2022-10-04 20:52:30",
+        "last_seen": "2022-10-30 21:32:34",
+        "ip_address": "45.200.35.225",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lousial.com",
+        "count": "1107",
+        "first_seen": "2023-04-30 09:59:01",
+        "last_seen": "2023-05-05 10:22:28",
+        "ip_address": "47.243.92.63",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lousial.com",
+        "count": "65",
+        "first_seen": "2023-03-14 12:37:08",
+        "last_seen": "2023-04-30 05:51:14",
+        "ip_address": "104.21.50.91",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lousial.com",
+        "count": "65",
+        "first_seen": "2023-03-14 12:37:08",
+        "last_seen": "2023-04-30 05:51:14",
+        "ip_address": "172.67.159.163",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lousial.com",
+        "count": "69",
+        "first_seen": "2023-05-05 17:36:24",
+        "last_seen": "2023-05-17 04:18:01",
+        "ip_address": "104.129.8.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lousial.com",
+        "count": "585",
+        "first_seen": "2010-06-24 10:20:05",
+        "last_seen": "2013-10-29 03:08:50",
+        "ip_address": "109.71.40.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lousial.com",
+        "count": "2382",
+        "first_seen": "2013-11-20 12:30:23",
+        "last_seen": "2022-05-06 03:00:20",
+        "ip_address": "109.71.40.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lousial.com",
+        "count": "12",
+        "first_seen": "2023-08-20 14:19:58",
+        "last_seen": "2023-08-24 07:57:20",
+        "ip_address": "154.197.137.79",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lousial.com",
+        "count": "45",
+        "first_seen": "2022-07-25 23:30:33",
+        "last_seen": "2022-08-13 05:02:28",
+        "ip_address": "154.216.40.216",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lousial.com",
+        "count": "7",
+        "first_seen": "2022-11-01 23:17:59",
+        "last_seen": "2022-11-06 06:03:38",
+        "ip_address": "156.246.3.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lousial.com",
+        "count": "18",
+        "first_seen": "2022-08-14 05:58:13",
+        "last_seen": "2022-09-21 05:22:52",
+        "ip_address": "156.250.142.66",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lousial.com",
+        "count": "1",
+        "first_seen": "2011-05-08 14:08:36",
+        "last_seen": "2011-05-08 14:08:36",
+        "ip_address": "209.85.51.152",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lousial.com",
+        "count": "23",
+        "first_seen": "2022-05-06 22:44:43",
+        "last_seen": "2022-06-08 10:43:22",
+        "ip_address": "209.99.40.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "lousial.com",
+        "count": "35",
+        "first_seen": "2023-03-14 12:38:03",
+        "last_seen": "2023-04-30 05:51:14",
+        "ip_address": "2606:4700:3030::ac43:9fa3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "lousial.com",
+        "count": "35",
+        "first_seen": "2023-03-14 12:38:03",
+        "last_seen": "2023-04-30 05:51:14",
+        "ip_address": "2606:4700:3036::6815:325b",
+        "type": "IPv6"
+    }
+]

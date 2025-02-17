@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "mwiyot.cn",
+        "count": "1143",
+        "first_seen": "2023-10-30 13:03:13",
+        "last_seen": "2024-01-18 00:42:55",
+        "ip_address": "38.6.146.179",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mwiyot.cn",
+        "count": "2271",
+        "first_seen": "2023-05-27 12:11:18",
+        "last_seen": "2023-06-26 19:53:08",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mwiyot.cn",
+        "count": "5676",
+        "first_seen": "2023-02-21 00:55:26",
+        "last_seen": "2023-05-28 11:19:25",
+        "ip_address": "104.21.52.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mwiyot.cn",
+        "count": "5676",
+        "first_seen": "2023-02-21 00:55:26",
+        "last_seen": "2023-05-28 11:19:25",
+        "ip_address": "172.67.202.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "mwiyot.cn",
+        "count": "114",
+        "first_seen": "2023-02-21 00:55:26",
+        "last_seen": "2023-05-27 11:41:09",
+        "ip_address": "2606:4700:3037::6815:34bd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "mwiyot.cn",
+        "count": "114",
+        "first_seen": "2023-02-21 00:55:26",
+        "last_seen": "2023-05-27 11:41:09",
+        "ip_address": "2606:4700:3037::ac43:cadd",
+        "type": "IPv6"
+    }
+]

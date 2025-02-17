@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "raukten.dnsta.com",
+        "count": "23",
+        "first_seen": "2021-05-27 21:53:53",
+        "last_seen": "2021-06-30 22:51:31",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "raukten.dnsta.com",
+        "count": "139",
+        "first_seen": "2021-05-23 17:44:58",
+        "last_seen": "2021-05-24 02:23:37",
+        "ip_address": "103.74.193.17",
+        "type": "IPv4"
+    },
+    {
+        "domain": "raukten.dnsta.com",
+        "count": "7",
+        "first_seen": "2023-12-27 14:37:17",
+        "last_seen": "2024-01-18 07:48:20",
+        "ip_address": "154.213.251.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "raukten.dnsta.com",
+        "count": "43",
+        "first_seen": "2022-05-29 13:31:43",
+        "last_seen": "2023-09-19 10:33:33",
+        "ip_address": "185.83.214.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "raukten.dnsta.com",
+        "count": "1",
+        "first_seen": "2022-03-17 23:30:49",
+        "last_seen": "2022-03-17 23:30:49",
+        "ip_address": "185.255.121.5",
+        "type": "IPv4"
+    }
+]

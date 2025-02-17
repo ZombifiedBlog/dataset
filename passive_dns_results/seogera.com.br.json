@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "seogera.com.br",
+        "count": "53",
+        "first_seen": "2022-01-13 05:34:39",
+        "last_seen": "2022-03-14 00:11:01",
+        "ip_address": "69.64.59.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "seogera.com.br",
+        "count": "19",
+        "first_seen": "2013-10-01 02:02:15",
+        "last_seen": "2015-01-16 14:07:31",
+        "ip_address": "96.126.114.235",
+        "type": "IPv4"
+    },
+    {
+        "domain": "seogera.com.br",
+        "count": "27",
+        "first_seen": "2019-11-16 09:53:54",
+        "last_seen": "2019-11-27 08:43:14",
+        "ip_address": "159.65.46.174",
+        "type": "IPv4"
+    },
+    {
+        "domain": "seogera.com.br",
+        "count": "219",
+        "first_seen": "2021-01-27 04:00:24",
+        "last_seen": "2022-01-11 14:32:49",
+        "ip_address": "162.215.208.119",
+        "type": "IPv4"
+    },
+    {
+        "domain": "seogera.com.br",
+        "count": "586",
+        "first_seen": "2020-03-26 20:34:02",
+        "last_seen": "2021-01-24 14:38:59",
+        "ip_address": "162.241.108.117",
+        "type": "IPv4"
+    },
+    {
+        "domain": "seogera.com.br",
+        "count": "3",
+        "first_seen": "2012-05-21 09:33:34",
+        "last_seen": "2012-08-23 19:14:15",
+        "ip_address": "186.202.117.61",
+        "type": "IPv4"
+    },
+    {
+        "domain": "seogera.com.br",
+        "count": "21",
+        "first_seen": "2011-01-18 03:28:05",
+        "last_seen": "2013-07-23 22:43:45",
+        "ip_address": "187.45.245.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "seogera.com.br",
+        "count": "4",
+        "first_seen": "2013-05-26 23:27:18",
+        "last_seen": "2013-06-17 02:08:55",
+        "ip_address": "192.155.88.121",
+        "type": "IPv4"
+    },
+    {
+        "domain": "seogera.com.br",
+        "count": "1612",
+        "first_seen": "2016-07-03 19:52:27",
+        "last_seen": "2020-03-05 19:15:09",
+        "ip_address": "198.136.59.226",
+        "type": "IPv4"
+    },
+    {
+        "domain": "seogera.com.br",
+        "count": "9",
+        "first_seen": "2015-03-20 15:31:36",
+        "last_seen": "2016-02-27 07:11:36",
+        "ip_address": "216.144.255.218",
+        "type": "IPv4"
+    },
+    {
+        "domain": "seogera.com.br",
+        "count": "3",
+        "first_seen": "2013-10-01 02:02:16",
+        "last_seen": "2015-01-08 07:15:24",
+        "ip_address": "2600:3c00::f03c:91ff:fe93:2767",
+        "type": "IPv6"
+    }
+]

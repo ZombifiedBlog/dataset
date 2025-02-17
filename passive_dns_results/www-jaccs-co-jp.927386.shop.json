@@ -1,0 +1,82 @@
+[
+    {
+        "domain": "www-jaccs-co-jp.927386.shop",
+        "count": "51",
+        "first_seen": "2021-09-12 15:09:29",
+        "last_seen": "2021-09-14 06:53:31",
+        "ip_address": "104.21.27.157",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.927386.shop",
+        "count": "51",
+        "first_seen": "2021-09-12 15:09:29",
+        "last_seen": "2021-09-14 06:53:31",
+        "ip_address": "172.67.143.58",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.927386.shop",
+        "count": "70",
+        "first_seen": "2021-09-12 16:40:58",
+        "last_seen": "2021-09-12 23:57:23",
+        "ip_address": "172.64.98.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.927386.shop",
+        "count": "70",
+        "first_seen": "2021-09-12 16:40:58",
+        "last_seen": "2021-09-12 23:57:23",
+        "ip_address": "172.64.99.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.927386.shop",
+        "count": "1",
+        "first_seen": "2021-09-12 16:16:48",
+        "last_seen": "2021-09-12 16:16:48",
+        "ip_address": "172.64.204.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.927386.shop",
+        "count": "1",
+        "first_seen": "2021-09-12 16:16:48",
+        "last_seen": "2021-09-12 16:16:48",
+        "ip_address": "172.64.205.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-jaccs-co-jp.927386.shop",
+        "count": "20",
+        "first_seen": "2021-09-12 17:10:29",
+        "last_seen": "2021-09-13 00:10:46",
+        "ip_address": "2606:4700:e0::ac40:621b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.927386.shop",
+        "count": "20",
+        "first_seen": "2021-09-12 17:10:29",
+        "last_seen": "2021-09-13 00:10:46",
+        "ip_address": "2606:4700:e0::ac40:631b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.927386.shop",
+        "count": "25",
+        "first_seen": "2021-09-13 02:41:28",
+        "last_seen": "2021-09-14 06:53:12",
+        "ip_address": "2606:4700:3031::ac43:8f3a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-jaccs-co-jp.927386.shop",
+        "count": "25",
+        "first_seen": "2021-09-13 02:41:28",
+        "last_seen": "2021-09-14 06:53:12",
+        "ip_address": "2606:4700:3033::6815:1b9d",
+        "type": "IPv6"
+    }
+]

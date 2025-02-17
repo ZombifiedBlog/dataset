@@ -1,0 +1,130 @@
+[
+    {
+        "domain": "smbc-cacd.cxzzc.com",
+        "count": "1",
+        "first_seen": "2020-12-26 12:25:22",
+        "last_seen": "2020-12-26 12:25:22",
+        "ip_address": "47.91.29.124",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-cacd.cxzzc.com",
+        "count": "1",
+        "first_seen": "2021-12-22 10:05:41",
+        "last_seen": "2021-12-22 10:05:41",
+        "ip_address": "78.41.204.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-cacd.cxzzc.com",
+        "count": "2",
+        "first_seen": "2021-08-18 17:37:01",
+        "last_seen": "2021-08-18 17:37:01",
+        "ip_address": "78.41.204.34",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-cacd.cxzzc.com",
+        "count": "1",
+        "first_seen": "2021-11-16 07:11:44",
+        "last_seen": "2021-11-16 07:11:44",
+        "ip_address": "78.41.204.35",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-cacd.cxzzc.com",
+        "count": "1",
+        "first_seen": "2022-01-26 15:06:52",
+        "last_seen": "2022-01-26 15:06:52",
+        "ip_address": "78.41.204.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-cacd.cxzzc.com",
+        "count": "2",
+        "first_seen": "2021-05-30 12:45:37",
+        "last_seen": "2021-07-13 13:32:30",
+        "ip_address": "103.224.212.221",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-cacd.cxzzc.com",
+        "count": "34",
+        "first_seen": "2022-08-25 01:36:50",
+        "last_seen": "2023-08-19 14:12:44",
+        "ip_address": "104.21.92.140",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-cacd.cxzzc.com",
+        "count": "34",
+        "first_seen": "2022-08-25 01:36:50",
+        "last_seen": "2023-08-19 14:12:44",
+        "ip_address": "172.67.194.139",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-cacd.cxzzc.com",
+        "count": "2",
+        "first_seen": "2023-06-27 22:01:23",
+        "last_seen": "2023-06-27 22:01:23",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-cacd.cxzzc.com",
+        "count": "2",
+        "first_seen": "2023-06-27 22:01:23",
+        "last_seen": "2023-06-27 22:01:23",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-cacd.cxzzc.com",
+        "count": "1",
+        "first_seen": "2023-06-13 22:14:26",
+        "last_seen": "2023-06-13 22:14:26",
+        "ip_address": "188.114.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-cacd.cxzzc.com",
+        "count": "1",
+        "first_seen": "2023-06-13 22:14:26",
+        "last_seen": "2023-06-13 22:14:26",
+        "ip_address": "188.114.97.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-cacd.cxzzc.com",
+        "count": "106",
+        "first_seen": "2020-12-04 11:20:58",
+        "last_seen": "2020-12-21 09:34:00",
+        "ip_address": "192.236.199.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-cacd.cxzzc.com",
+        "count": "1",
+        "first_seen": "2021-09-06 16:56:32",
+        "last_seen": "2021-09-06 16:56:32",
+        "ip_address": "209.126.123.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "smbc-cacd.cxzzc.com",
+        "count": "8",
+        "first_seen": "2022-11-27 15:09:44",
+        "last_seen": "2023-05-15 00:45:21",
+        "ip_address": "2606:4700:3030::ac43:c28b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "smbc-cacd.cxzzc.com",
+        "count": "8",
+        "first_seen": "2022-11-27 15:09:44",
+        "last_seen": "2023-05-15 00:45:21",
+        "ip_address": "2606:4700:3034::6815:5c8c",
+        "type": "IPv6"
+    }
+]

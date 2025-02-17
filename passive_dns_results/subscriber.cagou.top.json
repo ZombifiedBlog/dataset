@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "subscriber.cagou.top",
+        "count": "36",
+        "first_seen": "2023-03-27 05:13:44",
+        "last_seen": "2023-04-08 21:58:36",
+        "ip_address": "38.165.17.212",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.cagou.top",
+        "count": "6",
+        "first_seen": "2023-04-12 13:00:37",
+        "last_seen": "2023-05-28 00:53:04",
+        "ip_address": "38.165.19.200",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.cagou.top",
+        "count": "1",
+        "first_seen": "2023-06-21 09:31:35",
+        "last_seen": "2023-06-21 09:31:35",
+        "ip_address": "49.51.77.49",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.cagou.top",
+        "count": "1528",
+        "first_seen": "2023-02-02 18:17:21",
+        "last_seen": "2023-02-22 00:32:30",
+        "ip_address": "104.21.11.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.cagou.top",
+        "count": "1528",
+        "first_seen": "2023-02-02 18:17:21",
+        "last_seen": "2023-02-22 00:32:30",
+        "ip_address": "172.67.165.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.cagou.top",
+        "count": "69",
+        "first_seen": "2023-02-02 20:56:31",
+        "last_seen": "2023-02-21 07:49:34",
+        "ip_address": "2606:4700:3030::6815:b1e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.cagou.top",
+        "count": "69",
+        "first_seen": "2023-02-02 20:56:31",
+        "last_seen": "2023-02-21 07:49:34",
+        "ip_address": "2606:4700:3036::ac43:a518",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "amazon-sys-jp.com",
+        "count": "2080",
+        "first_seen": "2022-10-22 13:31:52",
+        "last_seen": "2022-12-16 10:03:56",
+        "ip_address": "45.41.243.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-sys-jp.com",
+        "count": "62898",
+        "first_seen": "2022-12-16 15:48:04",
+        "last_seen": "2023-11-23 07:21:20",
+        "ip_address": "139.64.236.182",
+        "type": "IPv4"
+    }
+]

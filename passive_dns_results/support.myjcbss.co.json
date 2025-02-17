@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "support.myjcbss.co",
+        "count": "5",
+        "first_seen": "2021-10-13 14:34:44",
+        "last_seen": "2022-07-14 04:52:00",
+        "ip_address": "103.224.182.210",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.myjcbss.co",
+        "count": "17",
+        "first_seen": "2021-05-11 01:32:58",
+        "last_seen": "2021-05-12 09:56:01",
+        "ip_address": "209.141.57.227",
+        "type": "IPv4"
+    },
+    {
+        "domain": "support.myjcbss.co",
+        "count": "6",
+        "first_seen": "2021-11-02 06:35:31",
+        "last_seen": "2021-11-04 08:02:14",
+        "ip_address": "103.224.182.210",
+        "type": "IPv4"
+    }
+]

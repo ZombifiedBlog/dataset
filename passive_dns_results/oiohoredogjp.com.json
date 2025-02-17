@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "oiohoredogjp.com",
+        "count": "10",
+        "first_seen": "2020-07-02 14:36:03",
+        "last_seen": "2020-07-04 19:57:05",
+        "ip_address": "104.24.120.227",
+        "type": "IPv4"
+    },
+    {
+        "domain": "oiohoredogjp.com",
+        "count": "10",
+        "first_seen": "2020-07-02 14:36:03",
+        "last_seen": "2020-07-04 19:57:05",
+        "ip_address": "104.24.121.227",
+        "type": "IPv4"
+    },
+    {
+        "domain": "oiohoredogjp.com",
+        "count": "10",
+        "first_seen": "2020-07-02 14:36:03",
+        "last_seen": "2020-07-04 19:57:05",
+        "ip_address": "172.67.164.240",
+        "type": "IPv4"
+    },
+    {
+        "domain": "oiohoredogjp.com",
+        "count": "8",
+        "first_seen": "2020-07-02 14:35:51",
+        "last_seen": "2020-07-04 19:57:05",
+        "ip_address": "2606:4700:3030::6818:78e3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "oiohoredogjp.com",
+        "count": "8",
+        "first_seen": "2020-07-02 14:35:51",
+        "last_seen": "2020-07-04 19:57:05",
+        "ip_address": "2606:4700:3031::6818:79e3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "oiohoredogjp.com",
+        "count": "8",
+        "first_seen": "2020-07-02 14:35:51",
+        "last_seen": "2020-07-04 19:57:05",
+        "ip_address": "2606:4700:3035::ac43:a4f0",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "www.allstardjs-nj.com",
+        "count": "9",
+        "first_seen": "2022-10-10 11:22:32",
+        "last_seen": "2022-10-24 14:01:24",
+        "ip_address": "45.200.55.109",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.allstardjs-nj.com",
+        "count": "180",
+        "first_seen": "2023-02-08 15:50:17",
+        "last_seen": "2023-03-02 16:09:02",
+        "ip_address": "104.21.26.69",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.allstardjs-nj.com",
+        "count": "180",
+        "first_seen": "2023-02-08 15:50:17",
+        "last_seen": "2023-03-02 16:09:02",
+        "ip_address": "172.67.168.62",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.allstardjs-nj.com",
+        "count": "262",
+        "first_seen": "2023-03-17 13:31:05",
+        "last_seen": "2023-03-20 03:14:50",
+        "ip_address": "204.44.75.133",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.allstardjs-nj.com",
+        "count": "4",
+        "first_seen": "2022-08-27 19:05:33",
+        "last_seen": "2022-09-06 22:35:55",
+        "ip_address": "206.233.202.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.allstardjs-nj.com",
+        "count": "143",
+        "first_seen": "2023-02-08 15:50:17",
+        "last_seen": "2023-03-02 15:22:58",
+        "ip_address": "2606:4700:3034::ac43:a83e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.allstardjs-nj.com",
+        "count": "143",
+        "first_seen": "2023-02-08 15:50:17",
+        "last_seen": "2023-03-02 15:22:58",
+        "ip_address": "2606:4700:3037::6815:1a45",
+        "type": "IPv6"
+    }
+]

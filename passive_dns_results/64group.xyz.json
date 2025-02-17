@@ -1,0 +1,18 @@
+[
+    {
+        "domain": "64group.xyz",
+        "count": "10",
+        "first_seen": "2020-08-23 07:12:42",
+        "last_seen": "2020-09-06 13:11:43",
+        "ip_address": "34.98.99.30",
+        "type": "IPv4"
+    },
+    {
+        "domain": "64group.xyz",
+        "count": "18",
+        "first_seen": "2020-08-02 10:48:38",
+        "last_seen": "2020-08-10 05:17:26",
+        "ip_address": "184.168.131.241",
+        "type": "IPv4"
+    }
+]

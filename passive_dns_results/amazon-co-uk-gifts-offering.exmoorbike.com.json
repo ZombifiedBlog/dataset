@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "amazon-co-uk-gifts-offering.exmoorbike.com",
+        "count": "432",
+        "first_seen": "2019-10-17 10:44:41",
+        "last_seen": "2019-10-22 01:19:56",
+        "ip_address": "104.18.56.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-co-uk-gifts-offering.exmoorbike.com",
+        "count": "432",
+        "first_seen": "2019-10-17 10:44:41",
+        "last_seen": "2019-10-22 01:19:56",
+        "ip_address": "104.18.57.189",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-co-uk-gifts-offering.exmoorbike.com",
+        "count": "7",
+        "first_seen": "2019-12-12 06:24:18",
+        "last_seen": "2019-12-28 21:05:08",
+        "ip_address": "155.159.98.238",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon-co-uk-gifts-offering.exmoorbike.com",
+        "count": "63",
+        "first_seen": "2019-10-17 11:18:29",
+        "last_seen": "2019-10-22 00:36:12",
+        "ip_address": "2606:4700:30::6812:38bd",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon-co-uk-gifts-offering.exmoorbike.com",
+        "count": "63",
+        "first_seen": "2019-10-17 11:18:29",
+        "last_seen": "2019-10-22 00:36:12",
+        "ip_address": "2606:4700:30::6812:39bd",
+        "type": "IPv6"
+    }
+]

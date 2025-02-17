@@ -1,0 +1,594 @@
+[
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "30608",
+        "first_seen": "2021-01-29 14:28:15",
+        "last_seen": "2024-01-18 05:00:13",
+        "ip_address": "104.21.79.223",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "30608",
+        "first_seen": "2021-01-29 14:28:15",
+        "last_seen": "2024-01-18 05:00:13",
+        "ip_address": "172.67.171.147",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "59",
+        "first_seen": "2022-02-08 04:12:15",
+        "last_seen": "2023-12-28 06:22:08",
+        "ip_address": "188.114.96.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "59",
+        "first_seen": "2022-02-08 04:12:15",
+        "last_seen": "2023-12-28 06:22:08",
+        "ip_address": "188.114.97.0",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "200",
+        "first_seen": "2022-01-31 16:30:37",
+        "last_seen": "2023-06-29 11:14:27",
+        "ip_address": "188.114.96.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "200",
+        "first_seen": "2022-01-31 16:30:37",
+        "last_seen": "2023-06-29 11:14:27",
+        "ip_address": "188.114.97.2",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "2416",
+        "first_seen": "2022-03-11 08:21:10",
+        "last_seen": "2024-01-16 08:50:59",
+        "ip_address": "188.114.96.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "2416",
+        "first_seen": "2022-03-11 08:21:10",
+        "last_seen": "2024-01-16 08:50:59",
+        "ip_address": "188.114.97.3",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "73",
+        "first_seen": "2022-06-26 19:12:53",
+        "last_seen": "2023-12-13 15:57:45",
+        "ip_address": "188.114.96.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "73",
+        "first_seen": "2022-06-26 19:12:53",
+        "last_seen": "2023-12-13 15:57:45",
+        "ip_address": "188.114.97.4",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "2",
+        "first_seen": "2022-09-06 14:51:15",
+        "last_seen": "2022-09-06 14:51:15",
+        "ip_address": "188.114.96.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "2",
+        "first_seen": "2022-09-06 14:51:15",
+        "last_seen": "2022-09-06 14:51:15",
+        "ip_address": "188.114.97.6",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "948",
+        "first_seen": "2022-01-31 13:52:37",
+        "last_seen": "2022-05-04 21:37:28",
+        "ip_address": "188.114.96.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "948",
+        "first_seen": "2022-01-31 13:52:37",
+        "last_seen": "2022-05-04 21:37:28",
+        "ip_address": "188.114.97.7",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "180",
+        "first_seen": "2022-01-31 12:11:36",
+        "last_seen": "2024-01-16 08:50:59",
+        "ip_address": "188.114.96.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "180",
+        "first_seen": "2022-01-31 12:11:36",
+        "last_seen": "2024-01-16 08:50:59",
+        "ip_address": "188.114.97.8",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "97",
+        "first_seen": "2022-05-05 09:26:01",
+        "last_seen": "2022-05-26 21:33:47",
+        "ip_address": "188.114.96.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "97",
+        "first_seen": "2022-05-05 09:26:01",
+        "last_seen": "2022-05-26 21:33:47",
+        "ip_address": "188.114.97.10",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "3",
+        "first_seen": "2022-05-14 08:08:03",
+        "last_seen": "2022-05-24 18:20:19",
+        "ip_address": "188.114.96.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "3",
+        "first_seen": "2022-05-14 08:08:03",
+        "last_seen": "2022-05-24 18:20:19",
+        "ip_address": "188.114.97.11",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "369",
+        "first_seen": "2022-05-27 07:07:02",
+        "last_seen": "2023-07-22 11:57:52",
+        "ip_address": "188.114.96.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "369",
+        "first_seen": "2022-05-27 07:07:02",
+        "last_seen": "2023-07-22 11:57:52",
+        "ip_address": "188.114.97.12",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "25",
+        "first_seen": "2022-08-11 20:28:48",
+        "last_seen": "2022-12-29 06:16:30",
+        "ip_address": "188.114.96.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "25",
+        "first_seen": "2022-08-11 20:28:48",
+        "last_seen": "2022-12-29 06:16:30",
+        "ip_address": "188.114.97.14",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "98",
+        "first_seen": "2021-11-23 20:23:33",
+        "last_seen": "2022-02-24 22:52:55",
+        "ip_address": "188.114.96.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "98",
+        "first_seen": "2021-11-23 20:23:33",
+        "last_seen": "2022-02-24 22:52:55",
+        "ip_address": "188.114.97.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "191",
+        "first_seen": "2022-02-02 15:53:45",
+        "last_seen": "2022-05-04 06:54:02",
+        "ip_address": "188.114.96.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "191",
+        "first_seen": "2022-02-02 15:53:45",
+        "last_seen": "2022-05-04 06:54:02",
+        "ip_address": "188.114.97.20",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "23",
+        "first_seen": "2021-11-23 20:42:05",
+        "last_seen": "2021-11-24 17:47:27",
+        "ip_address": "188.114.96.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "23",
+        "first_seen": "2021-11-23 20:42:05",
+        "last_seen": "2021-11-24 17:47:27",
+        "ip_address": "188.114.97.21",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "251",
+        "first_seen": "2022-02-08 07:57:41",
+        "last_seen": "2022-04-08 07:32:45",
+        "ip_address": "188.114.96.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "251",
+        "first_seen": "2022-02-08 07:57:41",
+        "last_seen": "2022-04-08 07:32:45",
+        "ip_address": "188.114.97.22",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "17",
+        "first_seen": "2022-05-05 20:06:45",
+        "last_seen": "2022-05-26 21:00:25",
+        "ip_address": "188.114.96.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "17",
+        "first_seen": "2022-05-05 20:06:45",
+        "last_seen": "2022-05-26 21:00:25",
+        "ip_address": "188.114.97.23",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "15",
+        "first_seen": "2022-01-31 08:48:51",
+        "last_seen": "2022-02-02 06:38:14",
+        "ip_address": "188.114.96.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "15",
+        "first_seen": "2022-01-31 08:48:51",
+        "last_seen": "2022-02-02 06:38:14",
+        "ip_address": "188.114.97.27",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "2",
+        "first_seen": "2021-11-23 23:55:43",
+        "last_seen": "2021-11-24 14:32:17",
+        "ip_address": "188.114.96.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "2",
+        "first_seen": "2021-11-23 23:55:43",
+        "last_seen": "2021-11-24 14:32:17",
+        "ip_address": "188.114.97.71",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "25005",
+        "first_seen": "2021-01-29 14:28:15",
+        "last_seen": "2024-01-18 05:00:13",
+        "ip_address": "2606:4700:3030::6815:4fdf",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "25005",
+        "first_seen": "2021-01-29 14:28:15",
+        "last_seen": "2024-01-18 05:00:13",
+        "ip_address": "2606:4700:3033::ac43:ab93",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "25",
+        "first_seen": "2022-02-08 06:27:13",
+        "last_seen": "2023-08-09 06:15:58",
+        "ip_address": "2a06:98c1:3120::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "25",
+        "first_seen": "2022-02-08 06:27:13",
+        "last_seen": "2023-08-09 06:15:58",
+        "ip_address": "2a06:98c1:3121::",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "11",
+        "first_seen": "2022-01-31 16:36:20",
+        "last_seen": "2022-01-31 19:57:56",
+        "ip_address": "2a06:98c1:3120::2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "11",
+        "first_seen": "2022-01-31 16:36:20",
+        "last_seen": "2022-01-31 19:57:56",
+        "ip_address": "2a06:98c1:3121::2",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "2096",
+        "first_seen": "2022-03-11 08:21:10",
+        "last_seen": "2024-01-13 13:54:14",
+        "ip_address": "2a06:98c1:3120::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "2096",
+        "first_seen": "2022-03-11 08:21:10",
+        "last_seen": "2024-01-13 13:54:14",
+        "ip_address": "2a06:98c1:3121::3",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "58",
+        "first_seen": "2022-06-10 14:45:56",
+        "last_seen": "2023-12-13 15:57:45",
+        "ip_address": "2a06:98c1:3120::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "58",
+        "first_seen": "2022-06-10 14:45:56",
+        "last_seen": "2023-12-13 15:57:45",
+        "ip_address": "2a06:98c1:3121::4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "841",
+        "first_seen": "2022-01-31 09:44:15",
+        "last_seen": "2022-05-04 21:56:37",
+        "ip_address": "2a06:98c1:3120::7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "841",
+        "first_seen": "2022-01-31 09:44:15",
+        "last_seen": "2022-05-04 21:56:37",
+        "ip_address": "2a06:98c1:3121::7",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "134",
+        "first_seen": "2022-01-31 12:11:36",
+        "last_seen": "2023-12-25 21:17:16",
+        "ip_address": "2a06:98c1:3120::8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "134",
+        "first_seen": "2022-01-31 12:11:36",
+        "last_seen": "2023-12-25 21:17:16",
+        "ip_address": "2a06:98c1:3121::8",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "80",
+        "first_seen": "2022-05-05 09:26:01",
+        "last_seen": "2022-05-26 21:33:47",
+        "ip_address": "2a06:98c1:3120::a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "80",
+        "first_seen": "2022-05-05 09:26:01",
+        "last_seen": "2022-05-26 21:33:47",
+        "ip_address": "2a06:98c1:3121::a",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "1",
+        "first_seen": "2022-05-14 08:08:03",
+        "last_seen": "2022-05-14 08:08:03",
+        "ip_address": "2a06:98c1:3120::b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "1",
+        "first_seen": "2022-05-14 08:08:03",
+        "last_seen": "2022-05-14 08:08:03",
+        "ip_address": "2a06:98c1:3121::b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "332",
+        "first_seen": "2022-05-29 08:33:27",
+        "last_seen": "2023-08-15 17:13:56",
+        "ip_address": "2a06:98c1:3120::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "332",
+        "first_seen": "2022-05-29 08:33:27",
+        "last_seen": "2023-08-15 17:13:56",
+        "ip_address": "2a06:98c1:3121::c",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "44",
+        "first_seen": "2022-06-22 17:50:44",
+        "last_seen": "2023-06-25 05:17:46",
+        "ip_address": "2a06:98c1:3120::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "44",
+        "first_seen": "2022-06-22 17:50:44",
+        "last_seen": "2023-06-25 05:17:46",
+        "ip_address": "2a06:98c1:3121::e",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "90",
+        "first_seen": "2021-11-23 20:23:33",
+        "last_seen": "2022-02-24 21:21:04",
+        "ip_address": "2a06:98c1:3120::10",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "90",
+        "first_seen": "2021-11-23 20:23:33",
+        "last_seen": "2022-02-24 21:21:04",
+        "ip_address": "2a06:98c1:3121::10",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "226",
+        "first_seen": "2022-02-02 15:53:45",
+        "last_seen": "2022-05-04 07:04:22",
+        "ip_address": "2a06:98c1:3120::14",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "226",
+        "first_seen": "2022-02-02 15:53:45",
+        "last_seen": "2022-05-04 07:04:22",
+        "ip_address": "2a06:98c1:3121::14",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "24",
+        "first_seen": "2021-11-23 20:42:04",
+        "last_seen": "2021-11-24 17:47:27",
+        "ip_address": "2a06:98c1:3120::15",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "24",
+        "first_seen": "2021-11-23 20:42:04",
+        "last_seen": "2021-11-24 17:47:27",
+        "ip_address": "2a06:98c1:3121::15",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "244",
+        "first_seen": "2022-02-08 04:12:15",
+        "last_seen": "2022-04-08 07:32:45",
+        "ip_address": "2a06:98c1:3120::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "244",
+        "first_seen": "2022-02-08 04:12:15",
+        "last_seen": "2022-04-08 07:32:45",
+        "ip_address": "2a06:98c1:3121::16",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "14",
+        "first_seen": "2022-05-09 07:41:22",
+        "last_seen": "2022-05-26 19:57:19",
+        "ip_address": "2a06:98c1:3120::17",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "14",
+        "first_seen": "2022-05-09 07:41:22",
+        "last_seen": "2022-05-26 19:57:19",
+        "ip_address": "2a06:98c1:3121::17",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "11",
+        "first_seen": "2022-01-31 09:44:15",
+        "last_seen": "2022-02-01 22:10:40",
+        "ip_address": "2a06:98c1:3120::1b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "11",
+        "first_seen": "2022-01-31 09:44:15",
+        "last_seen": "2022-02-01 22:10:40",
+        "ip_address": "2a06:98c1:3121::1b",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "2",
+        "first_seen": "2021-11-23 23:55:43",
+        "last_seen": "2021-11-24 14:32:17",
+        "ip_address": "2a06:98c1:3120::47",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www.bankofthessaly.gr",
+        "count": "2",
+        "first_seen": "2021-11-23 23:55:43",
+        "last_seen": "2021-11-24 14:32:17",
+        "ip_address": "2a06:98c1:3121::47",
+        "type": "IPv6"
+    }
+]

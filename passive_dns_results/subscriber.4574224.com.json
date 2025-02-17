@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "subscriber.4574224.com",
+        "count": "125",
+        "first_seen": "2021-09-12 11:34:46",
+        "last_seen": "2021-10-18 21:28:56",
+        "ip_address": "47.91.170.222",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.4574224.com",
+        "count": "13002",
+        "first_seen": "2021-04-09 00:50:26",
+        "last_seen": "2021-08-12 07:50:15",
+        "ip_address": "104.21.14.68",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.4574224.com",
+        "count": "13002",
+        "first_seen": "2021-04-09 00:50:26",
+        "last_seen": "2021-08-12 07:50:15",
+        "ip_address": "172.67.158.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.4574224.com",
+        "count": "19",
+        "first_seen": "2021-08-15 01:05:06",
+        "last_seen": "2021-08-19 11:31:21",
+        "ip_address": "107.181.226.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.4574224.com",
+        "count": "5350",
+        "first_seen": "2021-04-09 01:11:54",
+        "last_seen": "2021-08-12 07:50:15",
+        "ip_address": "2606:4700:3034::ac43:9e26",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.4574224.com",
+        "count": "5350",
+        "first_seen": "2021-04-09 01:11:54",
+        "last_seen": "2021-08-12 07:50:15",
+        "ip_address": "2606:4700:3037::6815:e44",
+        "type": "IPv6"
+    }
+]

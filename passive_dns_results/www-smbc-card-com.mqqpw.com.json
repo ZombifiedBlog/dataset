@@ -1,0 +1,66 @@
+[
+    {
+        "domain": "www-smbc-card-com.mqqpw.com",
+        "count": "3",
+        "first_seen": "2023-06-09 20:15:38",
+        "last_seen": "2023-06-12 13:15:31",
+        "ip_address": "38.59.119.181",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-smbc-card-com.mqqpw.com",
+        "count": "334",
+        "first_seen": "2023-01-09 15:58:42",
+        "last_seen": "2023-01-14 07:20:23",
+        "ip_address": "104.21.24.93",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-smbc-card-com.mqqpw.com",
+        "count": "334",
+        "first_seen": "2023-01-09 15:58:42",
+        "last_seen": "2023-01-14 07:20:23",
+        "ip_address": "172.67.218.36",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-smbc-card-com.mqqpw.com",
+        "count": "62",
+        "first_seen": "2023-06-18 00:02:39",
+        "last_seen": "2023-10-09 22:09:42",
+        "ip_address": "147.255.250.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-smbc-card-com.mqqpw.com",
+        "count": "1",
+        "first_seen": "2023-05-20 23:20:03",
+        "last_seen": "2023-05-20 23:20:03",
+        "ip_address": "154.37.22.84",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-smbc-card-com.mqqpw.com",
+        "count": "3",
+        "first_seen": "2023-01-13 10:01:34",
+        "last_seen": "2023-01-13 10:01:38",
+        "ip_address": "156.226.252.155",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www-smbc-card-com.mqqpw.com",
+        "count": "3",
+        "first_seen": "2023-01-09 16:26:45",
+        "last_seen": "2023-01-11 08:12:04",
+        "ip_address": "2606:4700:3034::6815:185d",
+        "type": "IPv6"
+    },
+    {
+        "domain": "www-smbc-card-com.mqqpw.com",
+        "count": "3",
+        "first_seen": "2023-01-09 16:26:45",
+        "last_seen": "2023-01-11 08:12:04",
+        "ip_address": "2606:4700:3035::ac43:da24",
+        "type": "IPv6"
+    }
+]

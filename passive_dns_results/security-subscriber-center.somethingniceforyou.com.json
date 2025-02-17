@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "security-subscriber-center.somethingniceforyou.com",
+        "count": "4781",
+        "first_seen": "2022-10-01 23:24:37",
+        "last_seen": "2022-12-31 07:27:23",
+        "ip_address": "104.21.47.202",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.somethingniceforyou.com",
+        "count": "4781",
+        "first_seen": "2022-10-01 23:24:37",
+        "last_seen": "2022-12-31 07:27:23",
+        "ip_address": "172.67.172.115",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.somethingniceforyou.com",
+        "count": "17",
+        "first_seen": "2023-02-19 11:07:13",
+        "last_seen": "2023-08-24 21:17:02",
+        "ip_address": "146.148.34.125",
+        "type": "IPv4"
+    },
+    {
+        "domain": "security-subscriber-center.somethingniceforyou.com",
+        "count": "193",
+        "first_seen": "2022-10-07 23:19:04",
+        "last_seen": "2022-12-30 22:29:44",
+        "ip_address": "2606:4700:3033::6815:2fca",
+        "type": "IPv6"
+    },
+    {
+        "domain": "security-subscriber-center.somethingniceforyou.com",
+        "count": "193",
+        "first_seen": "2022-10-07 23:19:04",
+        "last_seen": "2022-12-30 22:29:44",
+        "ip_address": "2606:4700:3033::ac43:ac73",
+        "type": "IPv6"
+    }
+]

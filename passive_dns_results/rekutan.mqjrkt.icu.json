@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "rekutan.mqjrkt.icu",
+        "count": "42",
+        "first_seen": "2020-09-29 05:56:04",
+        "last_seen": "2020-09-30 05:51:56",
+        "ip_address": "104.24.108.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekutan.mqjrkt.icu",
+        "count": "42",
+        "first_seen": "2020-09-29 05:56:04",
+        "last_seen": "2020-09-30 05:51:56",
+        "ip_address": "104.24.109.19",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekutan.mqjrkt.icu",
+        "count": "42",
+        "first_seen": "2020-09-29 05:56:04",
+        "last_seen": "2020-09-30 05:51:56",
+        "ip_address": "172.67.219.170",
+        "type": "IPv4"
+    },
+    {
+        "domain": "rekutan.mqjrkt.icu",
+        "count": "4",
+        "first_seen": "2020-09-29 07:51:09",
+        "last_seen": "2020-09-29 15:52:03",
+        "ip_address": "2606:4700:3030::6818:6d13",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rekutan.mqjrkt.icu",
+        "count": "4",
+        "first_seen": "2020-09-29 07:51:09",
+        "last_seen": "2020-09-29 15:52:03",
+        "ip_address": "2606:4700:3030::ac43:dbaa",
+        "type": "IPv6"
+    },
+    {
+        "domain": "rekutan.mqjrkt.icu",
+        "count": "4",
+        "first_seen": "2020-09-29 07:51:09",
+        "last_seen": "2020-09-29 15:52:03",
+        "ip_address": "2606:4700:3036::6818:6c13",
+        "type": "IPv6"
+    }
+]

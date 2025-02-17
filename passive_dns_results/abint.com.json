@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "abint.com",
+        "count": "3440",
+        "first_seen": "2017-10-27 15:51:53",
+        "last_seen": "2024-01-18 01:49:07",
+        "ip_address": "41.203.16.5",
+        "type": "IPv4"
+    },
+    {
+        "domain": "abint.com",
+        "count": "590",
+        "first_seen": "2012-07-26 11:06:37",
+        "last_seen": "2017-10-25 13:09:39",
+        "ip_address": "197.221.14.52",
+        "type": "IPv4"
+    },
+    {
+        "domain": "abint.com",
+        "count": "20",
+        "first_seen": "2010-07-26 21:52:10",
+        "last_seen": "2012-06-13 23:41:29",
+        "ip_address": "209.97.212.59",
+        "type": "IPv4"
+    }
+]

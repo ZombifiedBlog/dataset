@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "www.hoteltycoonsimulator.com",
+        "count": "5",
+        "first_seen": "2022-01-19 22:30:51",
+        "last_seen": "2022-05-01 20:06:36",
+        "ip_address": "45.194.240.91",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hoteltycoonsimulator.com",
+        "count": "1",
+        "first_seen": "2021-09-21 11:33:42",
+        "last_seen": "2021-09-21 11:33:42",
+        "ip_address": "45.194.240.92",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.hoteltycoonsimulator.com",
+        "count": "3075",
+        "first_seen": "2022-06-14 10:44:22",
+        "last_seen": "2022-07-30 16:36:11",
+        "ip_address": "104.129.8.248",
+        "type": "IPv4"
+    }
+]

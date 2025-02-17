@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "subscriber.string2me.com",
+        "count": "10",
+        "first_seen": "2022-09-06 19:58:53",
+        "last_seen": "2022-09-08 13:30:51",
+        "ip_address": "75.2.18.233",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.string2me.com",
+        "count": "377",
+        "first_seen": "2022-08-20 11:55:49",
+        "last_seen": "2022-08-31 12:28:30",
+        "ip_address": "104.21.38.82",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.string2me.com",
+        "count": "377",
+        "first_seen": "2022-08-20 11:55:49",
+        "last_seen": "2022-08-31 12:28:30",
+        "ip_address": "172.67.220.196",
+        "type": "IPv4"
+    },
+    {
+        "domain": "subscriber.string2me.com",
+        "count": "11",
+        "first_seen": "2022-08-22 17:59:09",
+        "last_seen": "2022-08-31 12:28:30",
+        "ip_address": "2606:4700:3031::ac43:dcc4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "subscriber.string2me.com",
+        "count": "11",
+        "first_seen": "2022-08-22 17:59:09",
+        "last_seen": "2022-08-31 12:28:30",
+        "ip_address": "2606:4700:3037::6815:2652",
+        "type": "IPv6"
+    }
+]

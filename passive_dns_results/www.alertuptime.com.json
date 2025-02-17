@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "www.alertuptime.com",
+        "count": "10",
+        "first_seen": "2022-04-21 10:28:25",
+        "last_seen": "2023-05-02 03:11:22",
+        "ip_address": "99.83.154.118",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alertuptime.com",
+        "count": "1122",
+        "first_seen": "2020-04-18 12:27:46",
+        "last_seen": "2023-04-11 19:51:05",
+        "ip_address": "165.227.255.60",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alertuptime.com",
+        "count": "18",
+        "first_seen": "2016-09-20 09:18:04",
+        "last_seen": "2017-09-03 08:18:22",
+        "ip_address": "173.236.158.16",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alertuptime.com",
+        "count": "2",
+        "first_seen": "2010-09-30 08:42:44",
+        "last_seen": "2011-09-26 23:27:23",
+        "ip_address": "173.236.158.106",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alertuptime.com",
+        "count": "40",
+        "first_seen": "2017-11-22 10:52:41",
+        "last_seen": "2018-10-26 23:58:38",
+        "ip_address": "204.11.56.48",
+        "type": "IPv4"
+    },
+    {
+        "domain": "www.alertuptime.com",
+        "count": "5",
+        "first_seen": "2018-12-04 10:47:50",
+        "last_seen": "2018-12-30 03:55:18",
+        "ip_address": "208.91.197.46",
+        "type": "IPv4"
+    }
+]

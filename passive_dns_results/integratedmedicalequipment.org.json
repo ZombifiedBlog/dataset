@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "integratedmedicalequipment.org",
+        "count": "44",
+        "first_seen": "2021-02-10 05:14:39",
+        "last_seen": "2023-04-20 13:07:16",
+        "ip_address": "34.102.136.180",
+        "type": "IPv4"
+    },
+    {
+        "domain": "integratedmedicalequipment.org",
+        "count": "42",
+        "first_seen": "2019-02-28 19:03:08",
+        "last_seen": "2019-02-28 20:56:59",
+        "ip_address": "47.89.177.153",
+        "type": "IPv4"
+    },
+    {
+        "domain": "integratedmedicalequipment.org",
+        "count": "956",
+        "first_seen": "2014-10-22 19:11:50",
+        "last_seen": "2020-07-08 13:51:40",
+        "ip_address": "50.63.202.38",
+        "type": "IPv4"
+    },
+    {
+        "domain": "integratedmedicalequipment.org",
+        "count": "54",
+        "first_seen": "2023-06-13 21:18:53",
+        "last_seen": "2023-12-30 15:06:25",
+        "ip_address": "104.21.59.77",
+        "type": "IPv4"
+    },
+    {
+        "domain": "integratedmedicalequipment.org",
+        "count": "54",
+        "first_seen": "2023-06-13 21:18:53",
+        "last_seen": "2023-12-30 15:06:25",
+        "ip_address": "172.67.218.164",
+        "type": "IPv4"
+    },
+    {
+        "domain": "integratedmedicalequipment.org",
+        "count": "22",
+        "first_seen": "2023-06-13 21:18:53",
+        "last_seen": "2024-01-11 17:28:24",
+        "ip_address": "2606:4700:3030::ac43:daa4",
+        "type": "IPv6"
+    },
+    {
+        "domain": "integratedmedicalequipment.org",
+        "count": "22",
+        "first_seen": "2023-06-13 21:18:53",
+        "last_seen": "2024-01-11 17:28:24",
+        "ip_address": "2606:4700:3033::6815:3b4d",
+        "type": "IPv6"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "asputra.org",
+        "count": "68",
+        "first_seen": "2021-08-17 11:12:04",
+        "last_seen": "2023-05-18 14:16:53",
+        "ip_address": "45.84.204.216",
+        "type": "IPv4"
+    },
+    {
+        "domain": "asputra.org",
+        "count": "51",
+        "first_seen": "2023-07-08 16:31:09",
+        "last_seen": "2023-12-02 11:42:52",
+        "ip_address": "84.32.84.32",
+        "type": "IPv4"
+    },
+    {
+        "domain": "asputra.org",
+        "count": "989",
+        "first_seen": "2014-01-04 14:41:37",
+        "last_seen": "2014-12-27 03:02:57",
+        "ip_address": "103.6.196.29",
+        "type": "IPv4"
+    },
+    {
+        "domain": "asputra.org",
+        "count": "3226",
+        "first_seen": "2014-12-27 20:12:39",
+        "last_seen": "2020-01-03 21:12:50",
+        "ip_address": "103.6.198.83",
+        "type": "IPv4"
+    },
+    {
+        "domain": "asputra.org",
+        "count": "62",
+        "first_seen": "2010-08-06 07:47:00",
+        "last_seen": "2011-03-04 10:16:26",
+        "ip_address": "110.4.45.24",
+        "type": "IPv4"
+    },
+    {
+        "domain": "asputra.org",
+        "count": "354",
+        "first_seen": "2011-03-06 01:33:36",
+        "last_seen": "2013-12-21 07:28:53",
+        "ip_address": "110.4.45.162",
+        "type": "IPv4"
+    },
+    {
+        "domain": "asputra.org",
+        "count": "22",
+        "first_seen": "2021-08-17 11:22:36",
+        "last_seen": "2023-04-29 21:06:31",
+        "ip_address": "2a02:4780:9:530:0:c9c:b7a1:1",
+        "type": "IPv6"
+    }
+]

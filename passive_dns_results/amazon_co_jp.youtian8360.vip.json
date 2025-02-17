@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "amazon_co_jp.youtian8360.vip",
+        "count": "3",
+        "first_seen": "2021-04-21 12:49:47",
+        "last_seen": "2021-05-25 09:34:03",
+        "ip_address": "45.158.23.169",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon_co_jp.youtian8360.vip",
+        "count": "3",
+        "first_seen": "2021-04-20 08:37:36",
+        "last_seen": "2021-04-21 02:40:50",
+        "ip_address": "104.21.25.239",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon_co_jp.youtian8360.vip",
+        "count": "3",
+        "first_seen": "2021-04-20 08:37:36",
+        "last_seen": "2021-04-21 02:40:50",
+        "ip_address": "172.67.134.234",
+        "type": "IPv4"
+    },
+    {
+        "domain": "amazon_co_jp.youtian8360.vip",
+        "count": "1",
+        "first_seen": "2021-04-21 02:13:38",
+        "last_seen": "2021-04-21 02:13:38",
+        "ip_address": "2606:4700:3034::6815:19ef",
+        "type": "IPv6"
+    },
+    {
+        "domain": "amazon_co_jp.youtian8360.vip",
+        "count": "1",
+        "first_seen": "2021-04-21 02:13:38",
+        "last_seen": "2021-04-21 02:13:38",
+        "ip_address": "2606:4700:3034::ac43:86ea",
+        "type": "IPv6"
+    }
+]
